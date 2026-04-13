@@ -1,0 +1,36 @@
+name: Update RSS Feeds
+
+on:
+  schedule:
+    # Toutes les 5 minutes
+    - cron: '*/5 * * * *'
+  # Permet aussi le déclenchement manuel
+  workflow_dispatch:
+
+jobs:
+  update-feeds:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+    
+    - name: Install dependencies
+      run: |
+        pip install feedparser
+    
+    - name: Fetch RSS feeds
+      run: |
+        python fetch_rss.py
+    
+    - name: Commit and push if changed
+      run: |
+        git config --global user.name 'FactsOnly Bot'
+        git config --global user.email 'bot@factsonly.app'
+        git add articles.json
+        git diff --quiet && git diff --staged --quiet || (git commit -m "🔄 Update articles $(date +'%Y-%m-%d %H:%M')" && git push)
