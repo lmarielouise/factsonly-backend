@@ -1,43 +1,58 @@
 {
   "francophone": [
     {
-      "id": "France Info-8660167591399921321",
-      "source": "France Info",
-      "title": "Négociations au Moyen-Orient : le cessez-le-feu entre le Liban et Israël entre en vigueur à 23 heures, heure de Paris",
-      "excerpt": "Ce cessez-le-feu, annoncé par Donald Trump plus tôt dans la journée doit durer 10 jours.",
-      "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-les-dirigeants-d-israel-et-du-liban-vont-se-parler-aujourd-hui-une-premiere-depuis-des-decennies-annonce-donald-trump_7942592.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 10 min",
-      "pubDate": 1776374042.0
-    },
-    {
-      "id": "France Info--474609000180614557",
+      "id": "France Info-1357149176021527378",
       "source": "France Info",
       "title": "Ligue Conférence : le RC Strasbourg renverse Mayence et se qualifie pour la première demi-finale européenne de son histoire",
       "excerpt": "Battus 2-0 à l'aller en Allemagne une semaine plus tôt, les Alsaciens ont brillamment renversé la vapeur, jeudi, en surclassant Mayence (4-0).",
       "link": "https://www.franceinfo.fr/sports/foot/ligue-conference-le-rc-strasbourg-renverse-mayence-et-se-qualifie-pour-la-premiere-demi-finale-europeenne-de-son-histoire_7943801.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 13 min",
-      "pubDate": 1776373846.0
+      "time": "Il y a 11 min",
+      "pubDate": 1776376317.0,
+      "sources": [
+        "France Info",
+        "Le Monde"
+      ],
+      "multiSource": true,
+      "sourceCount": 2
     },
     {
-      "id": "France Info-2495684986177042765",
+      "id": "France Info--2643072885489743193",
+      "source": "France Info",
+      "title": "Football : \"Je suis innocent\", clame l'ex-médecin de Diego Maradona, accusé au procès sur sa mort",
+      "excerpt": "Sept praticiens comparaissent pour négligences commises en sachant qu'elles peuvent entraîner la mort, six ans après la disparition de Diego Maradona.",
+      "link": "https://www.franceinfo.fr/sports/foot/football-je-suis-innocent-clame-l-ex-medecin-de-diego-maradona-accuse-au-proces-sur-sa-mort_7943828.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 20 min",
+      "pubDate": 1776375768.0
+    },
+    {
+      "id": "France Info-3140923973921894098",
+      "source": "France Info",
+      "title": "Négociations au Moyen-Orient : le cessez-le-feu entre le Liban et Israël entre en vigueur depuis 23 heures, heure de Paris",
+      "excerpt": "Ce cessez-le-feu, annoncé par Donald Trump plus tôt dans la journée doit durer 10 jours.",
+      "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-les-dirigeants-d-israel-et-du-liban-vont-se-parler-aujourd-hui-une-premiere-depuis-des-decennies-annonce-donald-trump_7942592.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 21 min",
+      "pubDate": 1776375700.0
+    },
+    {
+      "id": "France Info--3553952815429826909",
       "source": "France Info",
       "title": "Jeffrey Epstein : une affaire française ? Suivez \"Complément d'enquête\" sur France 2",
       "excerpt": "Et si une affaire Epstein était passée sous les radars en France ? Et si des victimes françaises mais aussi de potentiels complices français du prédateur sexuel américain avaient échappé à la vigilanc...",
       "link": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/complement-d-enquete-jeffrey-epstein-une-affaire-francaise_7897421.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 35 min",
-      "pubDate": 1776372535.0
+      "time": "Il y a 31 min",
+      "pubDate": 1776375118.0
     },
     {
-      "id": "France Info--5932123682848004572",
+      "id": "France Info-7148528923486027727",
       "source": "France Info",
       "title": "Ruptures conventionnelles : l'Assemblée rejette l'accord des partenaires sociaux, le gouvernement convoquera une deuxième lecture",
       "excerpt": "Les députés insoumis se sont fortement mobilisés contre le texte.",
       "link": "https://www.franceinfo.fr/economie/emploi/chomage/ruptures-conventionnelles-l-assemblee-rejette-l-accord-des-partenaires-sociaux-le-gouvernement-convoquera-une-deuxieme-lecture_7943921.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 41 min",
+      "time": "Il y a 1h",
       "pubDate": 1776372147.0
     },
     {
-      "id": "Le Monde-2754918954084074295",
+      "id": "Le Monde--3958263779323072063",
       "source": "Le Monde",
       "title": "EN DIRECT, guerre en Ukraine : L’UE veut accélérer la production de missiles pour soutenir l’Ukraine et réarmer l’Europe face à la Russie",
       "excerpt": "Andrius Kubilius, le commissaire européen à la défense, a appelé jeudi à « passer à la vitesse supérieure » dans la production de missiles, lors d’un déplacement chez le fabricant européen MBDA. Au mo...",
@@ -46,7 +61,7 @@
       "pubDate": 1776370497.0
     },
     {
-      "id": "France Info--5015507563560189325",
+      "id": "France Info-7180412111660395698",
       "source": "France Info",
       "title": "Emmanuel Macron annonce un futur projet de loi \"contre les ingérences étrangères\" lors des élections.",
       "excerpt": "Le Président de la République réunissait à l'Elysée 500 maires nouvellement élus et s'est engagé \"à mieux protéger le débat démocratique des vicissitudes des réseaux sociaux\".",
@@ -55,7 +70,7 @@
       "pubDate": 1776370311.0
     },
     {
-      "id": "Libération--7555356886387233745",
+      "id": "Libération--6845409605871283072",
       "source": "Libération",
       "title": "Guerre au Moyen-Orient :  cessez-le-feu de 10 jours entre Israël et le Liban, Trump affirme que l’Iran a accepté de céder son uranium enrichi",
       "excerpt": "Le président américain a rajouté qu’il avait invité le président du Liban, Joseph Aoun, et le Premier ministre israélien, Benyamin Nétanyahou, à la Maison Blanche pour des «discussions significatives»...",
@@ -64,43 +79,43 @@
       "pubDate": 1776369882.0
     },
     {
-      "id": "Le Monde-1846473754718842573",
+      "id": "Le Monde--4141036765569352609",
       "source": "Le Monde",
       "title": "EN DIRECT, guerre en Iran et au Liban : le cessez-le-feu de dix jours entre Israël et le Liban est entré en vigueur",
       "excerpt": "Juste avant le début officiel de la trêve, l’armée libanaise et le Hezbollah avaient demandé aux habitants de reporter leur retour dans le Sud. « Face à un ennemi perfide habitué à violer les engageme...",
       "link": "https://www.lemonde.fr/international/live/2026/04/16/en-direct-guerre-en-iran-et-au-liban-l-armee-libanaise-et-le-hezbollah-demandent-aux-habitants-de-reporter-leur-retour-dans-le-sud-jusqu-au-cessez-le-feu-avec-israel_6679867_3210.html",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1776369750.0
     },
     {
-      "id": "Libération-1925995555490196941",
+      "id": "Libération--3813353482724237255",
       "source": "Libération",
       "title": "«Je n’aime pas les homosexuels» : trois hommes condamnés pour avoir organisé des guets-apens homophobes dans le Vaucluse",
       "excerpt": "Les prévenus comparaissaient ce jeudi 16 avril au tribunal correctionnel d’Avignon, pour avoir piégé puis agressé cinq personnes en leur donnant rendez-vous sur un site de rencontres destinés aux homm...",
       "link": "https://www.liberation.fr/societe/je-naime-pas-les-homosexuels-trois-hommes-condamnes-pour-avoir-organise-des-guets-apens-homophobes-dans-le-vaucluse-20260416_EC52CLBBV5FFDJ5IW5U2L7GR2E/",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1776369008.0
     },
     {
-      "id": "France Info-3177975499879731244",
+      "id": "France Info-6211483702682063542",
       "source": "France Info",
       "title": "L'Autorité palestinienne a remis à la justice française un des suspects de l'attentat de la rue des Rosiers commis à Paris en 1982",
       "excerpt": "Emmanuel Macron a salué l'extradition de Hicham Harb et a remercié les autorités palestiniennes.",
       "link": "https://www.franceinfo.fr/faits-divers/terrorisme/l-autorite-palestinienne-a-extrade-vers-la-france-un-suspect-dans-l-attentat-de-la-rue-des-rosiers-commis-a-paris-en-1982_7943768.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1776368256.0
     },
     {
-      "id": "Libération--6362385557413635664",
+      "id": "Libération--501507993855496660",
       "source": "Libération",
       "title": "Elections : Macron annonce un futur projet de loi «contre les ingérences étrangères»",
       "excerpt": "Dans le viseur du président de la République, la Russie qui, selon lui, «achète massivement en période électorale des millions de faux comptes».",
       "link": "https://www.liberation.fr/politique/elections/elections-macron-annonce-un-futur-projet-de-loi-contre-les-ingerences-etrangeres-20260416_CTWBXZU36BDCRKPXTO744GSOPQ/",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1776367984.0
     },
     {
-      "id": "Libération-5265468475300383969",
+      "id": "Libération-2272177022717423151",
       "source": "Libération",
       "title": "Dubaï se dote d’une station de taxis volants, premiers vols prévus fin 2026",
       "excerpt": "L’émirat revendique une première mondiale. Les vols seront opérés par la compagnie Joby Aviation, basée en Californie, qui aura l’exclusivité pendant six ans.",
@@ -109,7 +124,7 @@
       "pubDate": 1776367403.0
     },
     {
-      "id": "Libération--993539315783036093",
+      "id": "Libération-269176291739488589",
       "source": "Libération",
       "title": "Royaume-Uni : Keir Starmer de nouveau dans la tourmente après des révélations sur Peter Mandelson, ex-ambassadeur aux Etats-Unis",
       "excerpt": "«The Guardian» affirme que le diplomate avait obtenu une habilitation sécurité indispensable pour sa nomination malgré un avis défavorable du service chargé de contrôler ses antécédents. L’opposition...",
@@ -118,7 +133,7 @@
       "pubDate": 1776366772.0
     },
     {
-      "id": "Libération-2691366397147339159",
+      "id": "Libération--6314159004516603042",
       "source": "Libération",
       "title": "«Violences éducatives» : la nécessaire révolution de la parentalité ordinaire",
       "excerpt": "Malgré des avancées sociales et législatives, les violences physiques et verbales, dans les familles, restent monnaie courante contre les enfants. Charge à nous tous de forger les conditions pour qu’e...",
@@ -127,43 +142,34 @@
       "pubDate": 1776366392.0
     },
     {
-      "id": "Libération-972293598209124195",
+      "id": "Libération--5174599669496635822",
       "source": "Libération",
       "title": "Fraude à l’assurance maladie : «Les nouveaux escrocs sont comme les braqueurs de banque, ils jouent sur la vitesse»",
       "excerpt": "Lors de la présentation de son bilan 2025 sur la lutte contre la fraude, ce jeudi 16 avril, le directeur général de la Cnam a appelé à une «mobilisation renforcée» des acteurs et usagers de la santé.",
       "link": "https://www.liberation.fr/societe/sante/fraude-a-lassurance-maladie-les-nouveaux-escrocs-sont-comme-les-braqueurs-de-banque-ils-jouent-sur-la-vitesse-20260416_YFKJPQMUQNA6RJBEUTDZ7TDOSE/",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1776365973.0
     },
     {
-      "id": "Le Monde--5091859793886129185",
+      "id": "Le Monde--8611692055036599603",
       "source": "Le Monde",
       "title": "Election présidentielle : Emmanuel Macron annonce un futur projet de loi « contre les ingérences étrangères »",
       "excerpt": "S’exprimant devant plusieurs centaines de maires réunis à l’Elysée, le président français a dit vouloir réguler la parole sur les réseaux sociaux.",
       "link": "https://www.lemonde.fr/pixels/article/2026/04/16/election-presidentielle-emmanuel-macron-annonce-un-futur-projet-de-loi-contre-les-ingerences-etrangeres_6680588_4408996.html",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1776365923.0
     },
     {
-      "id": "Libération--3172659709914746323",
+      "id": "Libération-7059458796422464629",
       "source": "Libération",
       "title": "«Je lui ai donné une gifle et j’ai eu honte» : quand les parents franchissent la ligne rouge",
       "excerpt": "Face aux cris, à la fatigue ou au danger, des parents racontent ces fois où leurs limites ont été dépassées. Des violences éducatives ordinaires qui font l’objet, ce vendredi 17 avril, d’une enquête d...",
       "link": "https://www.liberation.fr/societe/familles/je-lui-ai-donne-une-gifle-et-jai-eu-honte-quand-les-parents-franchissent-la-ligne-rouge-20260416_SGABCGUKUVABZKFTJOEMJYQRGY/",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1776364700.0
     },
     {
-      "id": "France Info-7291295559926560623",
-      "source": "France Info",
-      "title": "Football : \"Je suis innocent\", clame l'ex-médecin de Diego Maradona, accusé au procès sur sa mort",
-      "excerpt": "Sept praticiens comparaissent pour négligences commises en sachant qu'elles peuvent entraîner la mort, six ans après la disparition de Diego Maradona.",
-      "link": "https://www.franceinfo.fr/sports/foot/football-je-suis-innocent-clame-l-ex-medecin-de-diego-maradona-accuse-au-proces-sur-sa-mort_7943828.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
-      "pubDate": 1776364664.0
-    },
-    {
-      "id": "Libération-6741514064571202913",
+      "id": "Libération--8264222228291527305",
       "source": "Libération",
       "title": "Après sa garde à vue, Rima Hassan saisit la Défenseure des droits pour de «graves manquements déontologiques»",
       "excerpt": "La défense de l’eurodéputée dénonce notamment des recherches «disproportionnées» de sa géolocalisation sur les trois derniers mois, bien avant sa publication sur X, aux origines de son placement en ga...",
@@ -172,7 +178,7 @@
       "pubDate": 1776363455.0
     },
     {
-      "id": "Libération--2437950550977314841",
+      "id": "Libération-7388317631927448599",
       "source": "Libération",
       "title": "Au Liban, une trêve fragile et un espoir ténu",
       "excerpt": "Donald Trump a annoncé ce jeudi 16 avril qu’Israël et le Liban ont trouvé un accord pour un cessez-le-feu de dix jours. Mais le souvenir d’échecs passés et l’absence de résolution de dossiers centraux...",
@@ -181,7 +187,7 @@
       "pubDate": 1776363395.0
     },
     {
-      "id": "France Info--2980507244785052978",
+      "id": "France Info-3574423315220543245",
       "source": "France Info",
       "title": "La CGT d'une filiale de TotalEnergies appelle à la grève dans 200 stations-service face à la hausse des prix des carburants",
       "excerpt": "Le syndicat d'Argedis demande une aide pour ses salariés confrontés à l'augmentation de l'essence.",
@@ -190,34 +196,34 @@
       "pubDate": 1776362776.0
     },
     {
-      "id": "Le Monde-3257615273526946263",
+      "id": "Le Monde-9181301314171691003",
       "source": "Le Monde",
       "title": "Au Cameroun anglophone, Léon XIV dénonce les « quelques tyrans » qui détruisent le monde",
       "excerpt": "Le pape a poursuivi sa tournée dans le pays d’Afrique centrale en se rendant à Bamenda, la capitale de la région du Nord-Ouest du Cameroun en proie à la guerre depuis 2016. Il y a délivré un message d...",
       "link": "https://www.lemonde.fr/international/article/2026/04/16/au-cameroun-anglophone-leon-xiv-denonce-les-quelques-tyrans-qui-detruisent-le-monde_6680583_3210.html",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1776362572.0
     },
     {
-      "id": "France Info-3048011017458089235",
+      "id": "France Info-1867798354945053168",
       "source": "France Info",
       "title": "Départ d'Olivier Nora de Grasset : plusieurs éditeurs dont Antoine Gallimard et Françoise Nyssen dénoncent dans une pétition \"une atteinte à la diversité éditoriale\"",
       "excerpt": "Les signataires dénoncent \"le limogeage brutal d’Olivier Nora\" par \"un groupe médiatique et éditorial\" qui \"ne cache pas ses desseins politiques et mène une guerre idéologique\", rapporte jeudi France...",
       "link": "https://www.franceinfo.fr/culture/livres/depart-d-olivier-nora-de-grasset-plusieurs-editeurs-dont-antoine-gallimard-et-francoise-nyssen-signent-une-petition-pour-denoncer-une-atteinte-a-la-diversite-editoriale_7943744.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1776360427.0
     },
     {
-      "id": "Le Monde-1039686523635205814",
+      "id": "Le Monde-6736868506863366706",
       "source": "Le Monde",
-      "title": "Attentat de la rue des Rosiers : le suspect Hicham Harb, extradé par l’Autorité palestinienne, remis à la justice française",
-      "excerpt": "Emmanuel Macron a salué jeudi soir l’extradition de « l’un des principaux suspects de l’attentat terroriste antisémite de la rue des Rosiers en 1982 ». Cet attentat qui a eu lieu dans le quartier juif...",
+      "title": "Attentat de la rue des Rosiers : le suspect Hicham Harb, extradé par l’Autorité palestinienne, a été remis à la justice française",
+      "excerpt": "Emmanuel Macron a remercié « les autorités palestiniennes, qui ont marqué par leur coopération leur engagement à lutter contre le terrorisme ». Le 9 août 1982, six personnes avaient été tuées et des d...",
       "link": "https://www.lemonde.fr/societe/article/2026/04/16/attentat-de-la-rue-des-rosiers-l-autorite-palestinienne-a-extrade-vers-la-france-un-suspect-dans-l-attentat-commis-a-paris-en-1982_6680576_3224.html",
       "time": "Il y a 4h",
       "pubDate": 1776360007.0
     },
     {
-      "id": "Le Monde--3302526220144505795",
+      "id": "Le Monde-5305569326796540297",
       "source": "Le Monde",
       "title": "En Seine-Saint-Denis, un procès pour diffamation rouvre le dossier des maltraitances en Ehpad",
       "excerpt": "Vassindou Cissé poursuivait un cadre de santé qui avait dénoncé sa gouvernance de l’Ehpad des Quatre Saisons, à Bagnolet. Le lanceur d’alerte a été reconnu comme tel par le tribunal, qui l’a relaxé.",
@@ -226,144 +232,135 @@
       "pubDate": 1776359770.0
     },
     {
-      "id": "Le Monde-1380886752992128395",
+      "id": "Le Monde--3320255860319452007",
       "source": "Le Monde",
-      "title": "Au tribunal, les « puciers » de Montreuil et Les Amis de la Terre demandent la suspension de la couverture du périphérique",
-      "excerpt": "Une audience en référé a eu lieu, jeudi, devant le tribunal administratif de Paris. Le projet d’aménagement de la porte de Montreuil est accusé d’augmenter la pollution de l’air au niveau du marché, m...",
-      "link": "https://www.lemonde.fr/planete/article/2026/04/16/au-tribunal-les-puciers-de-montreuil-et-les-amis-de-la-terre-demandent-la-suspension-de-la-couverture-du-peripherique_6680574_3244.html",
-      "time": "Il y a 4h",
-      "pubDate": 1776359369.0
+      "title": "Géolocalisation de Rima Hassan : LFI dénonce un « scandale d’Etat » et interpelle Laurent Nuñez à l’Assemblée nationale",
+      "excerpt": "Selon « Mediapart », le téléphone de l’eurodéputée LFI « a été géolocalisé » et « ses déplacements effectués bien avant l’ouverture de l’enquête » la visant pour apologie du terrorisme « ont tous été...",
+      "link": "https://www.lemonde.fr/politique/article/2026/04/16/geolocalisation-de-rima-hassan-lfi-denonce-un-scandale-d-etat-et-interpelle-laurent-nunez-a-l-assemblee-nationale_6680572_823448.html",
+      "time": "Il y a 5h",
+      "pubDate": 1776358761.0
     },
     {
-      "id": "Le Monde-8777333624442284492",
+      "id": "Le Monde-1468123292853212920",
       "source": "Le Monde",
       "title": "Un tableau de Monet vendu 10,2 millions d’euros, un montant record pour ce peintre en France",
       "excerpt": "Deux tableaux du peintre Claude Monet ont été vendus à Paris lors d’une vente aux enchères. Peints à vingt ans d’intervalle, tous deux représentent la Seine dans des lieux situés près de Giverny.",
       "link": "https://www.lemonde.fr/argent/article/2026/04/16/un-monet-vendu-10-2-millions-d-euros-un-montant-record-pour-ce-peintre-en-france_6680571_1657007.html",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1776357741.0
     },
     {
-      "id": "Le Monde--5478027797294744620",
-      "source": "Le Monde",
-      "title": "Loi Yadan contre l’antisémitisme : les clés pour comprendre les débats après le retrait surprise du texte",
-      "excerpt": "Les députés devaient débattre d’un texte très contesté par la gauche, que les députés macronistes ont finalement décidé de retirer.",
-      "link": "https://www.lemonde.fr/les-decodeurs/article/2026/04/16/loi-yadan-contre-l-antisemitisme-les-cles-pour-comprendre-les-debats-apres-le-retrait-surprise-du-texte_6680566_4355770.html",
-      "time": "Il y a 5h",
-      "pubDate": 1776356161.0
-    },
-    {
-      "id": "Le Monde-7428725891703242809",
+      "id": "Le Monde-5951849482374466134",
       "source": "Le Monde",
       "title": "En France, les inégalités se creusent malgré la redistribution",
       "excerpt": "Entre les 10 % de Français les plus riches et les 10 % les plus pauvres, les revenus vont de 1 à 20 hors prestations sociales et autres transferts. Ces mécanismes de redistribution ramènent l’écart de...",
       "link": "https://www.lemonde.fr/economie/article/2026/04/16/en-france-les-inegalites-se-creusent-malgre-la-redistribution_6680550_3234.html",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1776351616.0
     },
     {
-      "id": "France Info--8209150274602504451",
+      "id": "France Info-497405438604548374",
       "source": "France Info",
       "title": "Les députés macronistes retirent la proposition de loi Yadan portant sur l'antisémitisme, le gouvernement présentera un nouveau texte en juin",
       "excerpt": "Les députés devaient examiner jeudi et vendredi ce texte très controversé portant sur les nouvelles formes d'antisémitisme. Ce retrait est consécutif à l'annonce du gouvernement de proposer, à la plac...",
       "link": "https://www.franceinfo.fr/politique/parlement-francais/assemblee-nationale/proposition-de-loi-yadan-sur-l-antisemitisme-en-cas-de-rejet-a-l-assemblee-nationale-le-gouvernement-veut-reprendre-le-texte-sous-la-forme-d-un-projet-de-loi_7943222.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1776350752.0
     }
   ],
   "anglophone": [
     {
-      "id": "BBC News-5504728244694165410",
+      "id": "BBC News-2419617381547732307",
       "source": "BBC News",
       "title": "Israel and Lebanon agree 10-day ceasefire, Trump says",
       "excerpt": "The US president invites the two countries' leaders to Washington as Israel's prime minister insists troops will not leave southern Lebanon.",
       "link": "https://www.bbc.com/news/articles/c8x7w1w9gd2o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 5 min",
+      "time": "Il y a 44 min",
       "pubDate": 1776374311.0
     },
     {
-      "id": "NPR--6906348744177015472",
+      "id": "NPR--4100012932953639024",
       "source": "NPR",
       "title": "These musicians are providing the soundtrack for anti-ICE protests in LA",
       "excerpt": "Los Jornaleros Del Norte play protest songs whose lyrics reflect the hopes and struggles of undocumented workers as they evade immigration agents patrolling the streets.",
       "link": "https://www.npr.org/2026/04/16/nx-s1-5717551/these-musicians-are-providing-the-soundtrack-for-anti-ice-protests-in-la",
-      "time": "Il y a 9 min",
+      "time": "Il y a 48 min",
       "pubDate": 1776374085.0
     },
     {
-      "id": "NPR--2338041381165220543",
+      "id": "NPR--6689075784303860723",
       "source": "NPR",
       "title": "Trump nominates former Coast Guard doctor as CDC chief",
       "excerpt": "The nomination comes after months of interim leadership at the Centers for Disease Control and Prevention.",
       "link": "https://www.npr.org/2026/04/16/nx-s1-5787959/erica-schwartz-cdc-leadership-nomination",
-      "time": "Il y a 25 min",
+      "time": "Il y a 1h",
       "pubDate": 1776373129.0
     },
     {
-      "id": "NPR-4744984887591006057",
+      "id": "NPR--5268517582387100302",
       "source": "NPR",
       "title": "Minnesota has charged an ICE officer with assault for alleged actions during immigration surge",
       "excerpt": "Hennepin County officials say these are the first charges filed against a federal immigration agent related to the crackdown that brought thousands of federal officers to the state. The widespread ope...",
       "link": "https://www.npr.org/2026/04/16/nx-s1-5787958/minnesota-charged-ice-officer-assault-immigration-surge",
-      "time": "Il y a 58 min",
+      "time": "Il y a 1h",
       "pubDate": 1776371180.0
     },
     {
-      "id": "NPR-5786135838074087898",
+      "id": "NPR--1939425229583272974",
       "source": "NPR",
       "title": "A jury declared Live Nation a monopoly. But ticket prices won't drop just yet",
       "excerpt": "D.C. and 33 states now have to argue in favor of specific remedies and fines, which could be paused if Live Nation appeals. Experts say the long-term impact on ticket prices isn't clear either.",
       "link": "https://www.npr.org/2026/04/16/nx-s1-5787491/ticketmaster-live-nation-verdict-monopoly-remedies",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1776364864.0
     },
     {
-      "id": "BBC News-5184735152942229902",
+      "id": "BBC News--8753016421722495150",
       "source": "BBC News",
       "title": "Pope criticises 'tyrants' who spend billions on wars after Trump spat",
       "excerpt": "The comments follow a high-profile spat with US President Donald Trump, who called the Pope weak on crime.",
       "link": "https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1776364845.0
     },
     {
-      "id": "BBC News-7858690911739989473",
+      "id": "BBC News--8165450180232995994",
       "source": "BBC News",
       "title": "Rescuers to use air cushions in latest effort to save stranded whale",
       "excerpt": "\"Timmy\" has been stranded in the Baltic Sea for weeks despite several attempts to free the ailing animal.",
       "link": "https://www.bbc.com/news/articles/c2082pljyk1o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1776364208.0
     },
     {
-      "id": "BBC News--807584226397568680",
+      "id": "BBC News--3213027813873188580",
       "source": "BBC News",
       "title": "Lawmakers clash with RFK Jr as he shifts focus away from vaccines",
       "excerpt": "During a three-hour hearing, the US health secretary tried to focus on chronic disease while being pressed on vaccines.",
       "link": "https://www.bbc.com/news/articles/c30r2v68lg8o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1776362115.0
     },
     {
-      "id": "NPR--7162385954690759730",
+      "id": "NPR--3346532050668448394",
       "source": "NPR",
       "title": "Israeli and Palestinian activists share a vision for peace in Gaza",
       "excerpt": "Maoz Inon's parents were killed by Hamas in the Oct. 7 attacks. Aziz Abu Sarah's brother died after being tortured in an Israeli military prison. Their new book is <em>The Future Is Peace</em>.",
       "link": "https://www.npr.org/2026/04/16/nx-s1-5787745/an-israeli-and-a-palestinian-activist-share-a-vision-for-peace-in-gaza",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1776360426.0
     },
     {
-      "id": "BBC News--1332840284373759797",
+      "id": "BBC News--4808733900197643433",
       "source": "BBC News",
       "title": "Naples bank robbers hold 25 people hostage then vanish through tunnel",
       "excerpt": "The armed men reportedly evaded capture by escaping through the city's sewer system.",
       "link": "https://www.bbc.com/news/articles/c05d216rj85o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1776360286.0
     },
     {
-      "id": "NPR--3267368203267353203",
+      "id": "NPR-3895503535115308962",
       "source": "NPR",
       "title": "Boiling milk and worrying about the Iran war: A New Year dawns in Sri Lanka",
       "excerpt": "In Sri Lanka, Buddhists and Hindus marked their New Year on Tuesday while a war thousands of miles away is making itself felt.",
@@ -372,52 +369,52 @@
       "pubDate": 1776360147.0
     },
     {
-      "id": "NPR--8801672150627126911",
+      "id": "NPR-689584111621595746",
       "source": "NPR",
       "title": "A complex set of negotiations to end Israel's overlapping wars",
       "excerpt": "Israel has agreed to a ceasefire in Lebanon, part of a complex web of Mideast negotiations, from Iran to Gaza.",
       "link": "https://www.npr.org/2026/04/16/g-s1-117656/a-complex-set-of-negotiations-to-end-israels-overlapping-wars",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1776356853.0
     },
     {
-      "id": "NPR--8773002406969439888",
+      "id": "NPR--4727564288505861776",
       "source": "NPR",
       "title": "Pope Leo takes aim at  'handful of tyrants' spending billions on war amid tensions with Trump",
       "excerpt": "Pope Leo XIV condemns \"tyrants\" fueling war with billions. His calls for global peace during his Africa trip come amid rising tensions with President Trump.",
       "link": "https://www.npr.org/2026/04/16/nx-s1-5787753/pope-leo-takes-trump-war-tyrants-iran-africa",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1776356783.0
     },
     {
-      "id": "NPR--4176319360954393985",
+      "id": "NPR--7201107335487301679",
       "source": "NPR",
       "title": "RFK Jr. defends his health agenda and Trump's proposed budget cuts in hearing",
       "excerpt": "In his first appearance this year, the health secretary is taking questions on his record on health, including his controversial moves on vaccines.",
       "link": "https://www.npr.org/2026/04/16/nx-s1-5787749/rfk-jr-hearing-hhs-health-budget-cuts",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1776354400.0
     },
     {
-      "id": "BBC News-2835250918196128968",
+      "id": "BBC News-4443712894168729478",
       "source": "BBC News",
       "title": "Ex-Virginia deputy governor kills wife and himself in murder-suicide, police say",
       "excerpt": "Investigators say Justin Fairfax shot his wife, Cerina, multiple times before turning the gun on himself.",
       "link": "https://www.bbc.com/news/articles/cy0124xel35o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1776354093.0
     },
     {
-      "id": "NPR--2551489418345506378",
+      "id": "NPR--2316610669468129895",
       "source": "NPR",
       "title": "Commission of Fine Arts votes to move ahead with Trump's proposed victory arch",
       "excerpt": "The seven-member body, whose ranks are composed of Trump appointees, was expected to approve the arch. The proposed monument strongly resembles Paris' Arc de Triomphe, but almost 100 feet taller.",
       "link": "https://www.npr.org/2026/04/16/nx-s1-5787535/trump-victory-arch-dc",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1776353572.0
     },
     {
-      "id": "BBC News-366981304728277332",
+      "id": "BBC News-1875678734888048093",
       "source": "BBC News",
       "title": "Turkish police detain 162 people over online posts about school shootings",
       "excerpt": "At least 16 people were injured in a shooting at a high school on Tuesday, before another nine were killed in a separate school shooting on Wednesday.",
@@ -426,7 +423,7 @@
       "pubDate": 1776353003.0
     },
     {
-      "id": "BBC News-8106124365058567440",
+      "id": "BBC News--3623224868242376426",
       "source": "BBC News",
       "title": "Russia launches deadliest aerial attack in months, killing 18 in Ukraine",
       "excerpt": "A Ukrainian drone attack killed two people in Russia, Moscow says, after an Orthodox Easter truce.",
@@ -435,52 +432,52 @@
       "pubDate": 1776352859.0
     },
     {
-      "id": "BBC News-4925399295486240566",
+      "id": "BBC News-9118401122206219710",
       "source": "BBC News",
       "title": "Former Arsenal goalkeeper Alex Manninger dies after car hit by train",
       "excerpt": "Former Arsenal goalkeeper Alex Manninger dies at the age of 48 after his car is struck by a train.",
       "link": "https://www.bbc.com/sport/football/articles/c4g84l14e5eo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1776347605.0
     },
     {
-      "id": "The Guardian--1034603155048587961",
+      "id": "The Guardian--2728366684415747473",
       "source": "The Guardian",
       "title": "South African politician Julius Malema given five-year jail term for gun offence",
       "excerpt": "Leader of leftwing Economic Freedom Fighters was convicted last year for firing rifle in the air at 2018 rally The South African leftwing politician <a href=\"https://www.theguardian.com/world/julius-m...",
       "link": "https://www.theguardian.com/world/2026/apr/16/south-africa-julius-malema-jail-term-rifle",
-      "time": "Il y a 8h",
+      "time": "Il y a 9h",
       "pubDate": 1776343069.0
     },
     {
-      "id": "The Guardian--6148143548296109826",
+      "id": "The Guardian-3163642682938345504",
       "source": "The Guardian",
       "title": "Pedro Pascal v Pedro Piscal: actor in legal battle with Chilean spirit brand",
       "excerpt": "Pedro Piscal pisco is latest Chilean brand to resemble a Hollywood name – and others have fought off the lawsuits The actor <a href=\"https://www.theguardian.com/culture/pedro-pascal\">Pedro Pascal</a>...",
       "link": "https://www.theguardian.com/world/2026/apr/16/pedro-pascal-pedro-piscal-actor-spirit-brand-legal-battle-chile",
-      "time": "Il y a 9h",
+      "time": "Il y a 10h",
       "pubDate": 1776339213.0
     },
     {
-      "id": "BBC News-7866021775552069580",
+      "id": "BBC News-8975149881646483250",
       "source": "BBC News",
       "title": "Brazil's former spy chief released from ICE detention",
       "excerpt": "Bolsonaro ally Alexandre Ramagem was stopped by immigration agents in Orlando, Florida on Monday.",
       "link": "https://www.bbc.com/news/articles/cvglz72rjl2o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 10h",
+      "time": "Il y a 11h",
       "pubDate": 1776337222.0
     },
     {
-      "id": "The Guardian-3166323422241235286",
+      "id": "The Guardian--3221773736811668571",
       "source": "The Guardian",
       "title": "US launches fifth strike on alleged Pacific drug boat in a week, killing three",
       "excerpt": "Wednesday’s strike brings the total of those killed in US military strikes on alleged drug boats to at least 177 Three people were killed in a US strike on another alleged drug-trafficking boat, the f...",
       "link": "https://www.theguardian.com/us-news/2026/apr/16/us-launches-fifth-strike-on-alleged-pacific-drug-boat-in-a-week-killing-three",
-      "time": "Il y a 17h",
+      "time": "Il y a 18h",
       "pubDate": 1776311792.0
     },
     {
-      "id": "The Guardian--1297698290239654457",
+      "id": "The Guardian--3139403091685644736",
       "source": "The Guardian",
       "title": "More than £1bn pledged for Sudan as humanitarian crisis deepens",
       "excerpt": "Donors exceed funding target at Berlin conference but prospects for ceasefire remain distant More than £1bn (€1.15bn) has been pledged for war-ravaged Sudan at a conference in Berlin, eclipsing the fu...",
@@ -489,7 +486,7 @@
       "pubDate": 1776275344.0
     },
     {
-      "id": "The Guardian--2302705435903108010",
+      "id": "The Guardian--1700253403565325122",
       "source": "The Guardian",
       "title": "Suspicion surrounds death of US influencer Ashly Robinson in Zanzibar",
       "excerpt": "Lifestyle influencer died while on vacation with boyfriend, who local officials say has since had his passport ‘withheld’ Ashly Robinson, a US lifestyle influencer, died last week while on vacation in...",
@@ -498,7 +495,7 @@
       "pubDate": 1776266053.0
     },
     {
-      "id": "The Guardian--8982335384977587227",
+      "id": "The Guardian--931704470237516719",
       "source": "The Guardian",
       "title": "South Africa names apartheid-era negotiator as ambassador to US",
       "excerpt": "Appointment of Roelf Meyer seen as attempt to improve relations amid false US accusations of ‘white genocide’ South Africa has appointed a former apartheid government chief negotiator during the talks...",
@@ -507,7 +504,7 @@
       "pubDate": 1776265475.0
     },
     {
-      "id": "The Guardian-147550809272681651",
+      "id": "The Guardian--8320401408433599973",
       "source": "The Guardian",
       "title": "Ant smuggler sentenced to a year in jail by Kenyan court",
       "excerpt": "More than 2,200 ants were found in Zhang Kequn’s luggage at Nairobi airport, with baggage destined for China A Chinese national has been sentenced to a year in prison and fined by a Nairobi court for...",
@@ -516,7 +513,7 @@
       "pubDate": 1776262053.0
     },
     {
-      "id": "The Guardian-408388855807902600",
+      "id": "The Guardian-7619695466161043322",
       "source": "The Guardian",
       "title": "Sheinbaum vows to ‘defend Mexicans at every level’ amid anger at Trump over migrant deaths",
       "excerpt": "Sheinbaum has recently been taking a firmer stance with the US, defying pressures where other countries have caved The Mexican government has voiced concern about the deaths of its citizens in US cust...",
@@ -525,7 +522,7 @@
       "pubDate": 1776217847.0
     },
     {
-      "id": "The Guardian--7744202162315326136",
+      "id": "The Guardian-7613176389106207694",
       "source": "The Guardian",
       "title": "Carney says it’s Canada’s ‘time to come together’ after Liberals secure majority",
       "excerpt": "Byelection wins and defections push Canada’s Liberals into majority government under the prime minister <a href=\"https://www.theguardian.com/world/mark-carney\">Mark Carney</a> has said he will govern...",
@@ -534,7 +531,7 @@
       "pubDate": 1776180999.0
     },
     {
-      "id": "The Guardian--4067619930525289407",
+      "id": "The Guardian-3758798387898546544",
       "source": "The Guardian",
       "title": "Bahamas police release Michigan man questioned after wife disappeared from their boat",
       "excerpt": "Brian Hooker told police that Lynette Hooker fell overboard and that strong currents carried her away Police in the <a href=\"https://www.theguardian.com/world/bahamas\">Bahamas</a> have released withou...",
@@ -543,5 +540,5 @@
       "pubDate": 1776170967.0
     }
   ],
-  "lastUpdate": "2026-04-16T21:24:24.815400"
+  "lastUpdate": "2026-04-16T22:03:06.010793"
 }
