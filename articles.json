@@ -1,410 +1,425 @@
 {
   "francophone": [
     {
-      "id": "Le Monde-3164820501880754333",
+      "id": "Le Monde-5399223350549849415",
+      "source": "Le Monde",
+      "title": "EN DIRECT, guerre en Ukraine : au moins douze morts dans des attaques nocturnes russes ; deux enfants tués en Russie dans une frappe de drone ukrainienne",
+      "excerpt": "Six personnes ont été tuées à Odessa, dans le sud du pays, quatre dans la capitale, Kiev, et deux à Dnipro, dans le centre, selon les autorités. Ces attaques de missiles et de drones ont également fai...",
+      "link": "https://www.lemonde.fr/international/live/2026/04/16/en-direct-guerre-en-ukraine-au-moins-douze-morts-dans-des-attaques-nocturnes-russes-deux-enfants-tues-en-russie-dans-une-frappe-de-drone-ukrainienne_6679492_3210.html",
+      "time": "Il y a 2 min",
+      "pubDate": 1776313298.0,
+      "sources": [
+        "Le Monde",
+        "Le Monde"
+      ],
+      "multiSource": true,
+      "sourceCount": 2
+    },
+    {
+      "id": "France Info-5968933936788115160",
+      "source": "France Info",
+      "title": "Vidéos sur YouTube, groupes sur Telegram... En Ukraine, comment la fuite des hommes en âge de combattre s'organise en ligne",
+      "excerpt": "Depuis le début de la guerre en février 2022, plus de 30 000 hommes ont franchi illégalement la frontière entre l'Ukraine et la Roumanie. \"Envoyé spécial\" a pu entrer en contact avec certains de ces d...",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/videos-sur-youtube-groupes-sur-telegram-en-ukraine-comment-la-fuite-des-hommes-en-age-de-combattre-s-organise-en-ligne_7926116.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 24 min",
+      "pubDate": 1776312014.0
+    },
+    {
+      "id": "Libération-6788543857751888791",
+      "source": "Libération",
+      "title": "«Calder» à la fondation Vuitton, bougé par la grâce",
+      "excerpt": "L’exposition «Rêver en équilibre» révèle la science instinctive des proportions et de la fantaisie qui imprègne les figurines, bijoux, tableaux et sculptures du facétieux Américain.",
+      "link": "https://www.liberation.fr/culture/calder-a-la-fondation-vuitton-bouge-par-la-grace-20260416_RYXGWX7RBZAGTJMQRMQBE6HJQE/",
+      "time": "Il y a 24 min",
+      "pubDate": 1776312001.0
+    },
+    {
+      "id": "France Info-4112621832130848320",
+      "source": "France Info",
+      "title": "\"Notre candidat n'aura plus qu'à appuyer sur un bouton\" : le RN prépare sa campagne présidentielle, sans savoir qui de Marine Le Pen ou Jordan Bardella la mènera",
+      "excerpt": "Le Rassemblement national, qui organise jeudi et vendredi un séminaire à huis clos sur sa stratégie pour la présidentielle, doit préparer une campagne sans savoir qui sera son candidat.",
+      "link": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-la-course-a-l-elysee-est-deja-lancee/notre-candidat-n-aura-plus-qu-a-appuyer-sur-un-bouton-le-rn-prepare-sa-campagne-presidentielle-sans-savoir-qui-de-marine-le-pen-ou-jordan-bardella-la-menera_7937270.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 24 min",
+      "pubDate": 1776311969.0
+    },
+    {
+      "id": "France Info-7909891126936104113",
+      "source": "France Info",
+      "title": "\"Certains anticipent une hausse de 15 à 30% des prix des produits agricoles\" : plombé par la guerre au Moyen-Orient, le marché du soufre et de l'acide sulfurique menace l'économie mondiale",
+      "excerpt": "Un quart du soufre mondial est produit au Moyen-Orient. Ce minerai est essentiel à la production d'engrais et de certains métaux critiques pour la transition énergétique. Ce qui fait redouter des réac...",
+      "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/certains-anticipent-une-hausse-de-15-a-30-des-prix-des-produits-agricoles-plombe-par-la-guerre-au-moyen-orient-le-marche-du-soufre-et-de-l-acide-sulfurique-menace-l-economie-mondiale_7814366.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 25 min",
+      "pubDate": 1776311953.0
+    },
+    {
+      "id": "Le Monde--3754631290846396607",
+      "source": "Le Monde",
+      "title": "Grasset : après le limogeage d’Olivier Nora, la prestigieuse maison d’édition confrontée à l’hémorragie de ses auteurs",
+      "excerpt": "Dans une lettre publiée jeudi à minuit, 115 écrivains, dont Virginie Despentes, Sorj Chalandon ou Bernard-Henri Lévy, ont annoncé leur départ de la maison d’Hachette Livre, dénonçant « une atteinte in...",
+      "link": "https://www.lemonde.fr/economie/article/2026/04/16/grasset-apres-le-limogeage-d-olivier-nora-la-prestigieuse-maison-d-edition-confrontee-a-l-hemorragie-de-ses-auteurs_6680457_3234.html",
+      "time": "Il y a 39 min",
+      "pubDate": 1776311069.0
+    },
+    {
+      "id": "Libération--8379080322222026825",
+      "source": "Libération",
+      "title": "Loi Yadan : le crash texte à l’Assemblée",
+      "excerpt": "Avant même le début des débats ce jeudi sur la proposition de loi pour lutter contre les nouvelles formes de l’antisémitisme et alors que des doutes sur l’intentionnalité du texte persistent, la coali...",
+      "link": "https://www.liberation.fr/politique/loi-yadan-le-crash-texte-a-lassemblee-20260416_7X3FOOKKTNC7LBK7WA2EXXOV34/",
+      "time": "Il y a 1h",
+      "pubDate": 1776309300.0
+    },
+    {
+      "id": "Le Monde-534793442234920164",
+      "source": "Le Monde",
+      "title": "Pluie et orage : Météo-France place la Guadeloupe en vigilance orange",
+      "excerpt": "L’institut météorologique met en garde contre « de fortes précipitations orageuses » dans la nuit de mercredi 15 à jeudi 16 avril. Mercredi, une soixantaine de personnes ont été secourues sur un senti...",
+      "link": "https://www.lemonde.fr/planete/article/2026/04/16/pluie-et-orage-meteo-france-place-la-guadeloupe-en-vigilance-orange_6680421_3244.html",
+      "time": "Il y a 1h",
+      "pubDate": 1776308677.0
+    },
+    {
+      "id": "Libération-6030175387295596595",
+      "source": "Libération",
+      "title": "Olympia Press, histoire d’un repaire des scandaleux",
+      "excerpt": "Thibault Saillant retrace le parcours de Maurice Girodias, éditeur de romans érotiques qui a aussi publié Nabokov et Burroughs en France.",
+      "link": "https://www.liberation.fr/culture/livres/olympia-press-histoire-dun-repaire-des-scandaleux-20260416_OQHX5QJQDBAU7ISV2E4C7RXTWU/",
+      "time": "Il y a 1h",
+      "pubDate": 1776306960.0
+    },
+    {
+      "id": "Libération-3704067096687417790",
+      "source": "Libération",
+      "title": "«Histoire des roux et de la rousseur» : Karin Ueltschi et la rousseur de vivre",
+      "excerpt": "L’historienne fait le récit des mythes et des préjugés qui ont touché la couleur fauve.",
+      "link": "https://www.liberation.fr/culture/livres/histoire-des-roux-et-de-la-rousseur-karin-ueltschi-et-la-rousseur-de-vivre-20260416_4VPT7HM5SNDQNK7XJVV7A25IBY/",
+      "time": "Il y a 2h",
+      "pubDate": 1776304380.0
+    },
+    {
+      "id": "Le Monde-6988858903688481854",
+      "source": "Le Monde",
+      "title": "EN DIRECT, guerre au Moyen-Orient : de nouvelles discussions sont prévues jeudi entre Israël et le Liban, annonce Donald Trump",
+      "excerpt": "Le gouvernement israélien avait salué les premiers pourparlers directs engagés mardi entre les deux pays, à Washington. La représentante libanaise avait, elle, qualifié de « constructive » cette réuni...",
+      "link": "https://www.lemonde.fr/international/live/2026/04/16/en-direct-guerre-au-moyen-orient-le-conseiller-militaire-du-guide-supreme-iranien-menace-de-couler-les-navires-americains-dans-le-detroit-d-ormuz_6679867_3210.html",
+      "time": "Il y a 3h",
+      "pubDate": 1776301938.0
+    },
+    {
+      "id": "Le Monde--2170776703882131611",
       "source": "Le Monde",
       "title": "Le Real Madrid, éliminé avec les honneurs par le Bayern Munich en Ligue des champions, se dirige vers une saison blanche",
       "excerpt": "Le club espagnol a été vaincu par le Bayern (3-4), mercredi, en quarts de finale. Un échec qui s’ajoute aux difficultés rencontrées par Kylian Mbappé et ses coéquipiers cette saison dans le championna...",
       "link": "https://www.lemonde.fr/sport/article/2026/04/16/le-real-madrid-elimine-avec-les-honneurs-par-le-bayern-munich-en-ligue-des-champions-se-dirige-vers-une-saison-blanche_6680385_3242.html",
-      "time": "Il y a 58 min",
+      "time": "Il y a 4h",
       "pubDate": 1776298511.0
     },
     {
-      "id": "Le Monde--2597375945443903353",
-      "source": "Le Monde",
-      "title": "EN DIRECT, guerre en Ukraine : la Russie menace de frapper des usines européennes fournissant des drones à Kiev",
-      "excerpt": "Dmitri Medvedev, le vice-président du Conseil de sécurité russe, connu pour ses positions va-t-en-guerre, a déclaré que « la liste des installations européennes fabriquant des drones et autres équipem...",
-      "link": "https://www.lemonde.fr/international/live/2026/04/16/en-direct-guerre-en-ukraine-la-russie-menace-de-frapper-des-usines-europeennes-fournissant-des-drones-a-kiev_6679492_3210.html",
-      "time": "Il y a 1h",
-      "pubDate": 1776297571.0
-    },
-    {
-      "id": "Le Monde--2942652836458681292",
-      "source": "Le Monde",
-      "title": "Lutte antiterroriste : l’Assemblée nationale adopte une mesure visant les sorties de personnes considérées comme radicalisées en prison",
-      "excerpt": "Le tribunal de l’application des peines pourrait prendre une batterie de mesures, comme interdire d’exercer « une activité » dans laquelle « un acte terroriste est particulièrement susceptible d’être...",
-      "link": "https://www.lemonde.fr/politique/article/2026/04/16/lutte-antiterroriste-l-assemblee-nationale-adopte-une-mesure-visant-les-sorties-de-personnes-considerees-comme-radicalisees-en-prison_6680351_823448.html",
-      "time": "Il y a 2h",
-      "pubDate": 1776293584.0
-    },
-    {
-      "id": "Le Monde--4154971488650458867",
-      "source": "Le Monde",
-      "title": "Virginie Despentes, BHL, Sorj Chalandon… Plus de cent auteurs annoncent leur départ des éditions Grasset en réaction au limogeage du président Olivier Nora",
-      "excerpt": "Dans une lettre commune, 115 écrivains, dont aussi Laure Adler, Frédéric Beigbeder ou Vanessa Springora, qualifient la décision de Vincent Bolloré d’« atteinte inacceptable à l’indépendance éditoriale...",
-      "link": "https://www.lemonde.fr/livres/article/2026/04/16/virginie-despentes-bhl-sorj-chalandon-plus-de-cent-auteurs-annoncent-leur-depart-des-editions-grasset-en-reaction-au-limogeage-du-president-olivier-nora_6680349_3260.html",
-      "time": "Il y a 2h",
-      "pubDate": 1776292051.0
-    },
-    {
-      "id": "France Info--5025800320174636378",
-      "source": "France Info",
-      "title": "Guerre au Moyen-Orient : la Maison Blanche annonce discuter d'un nouveau rendez-vous avec l'Iran",
-      "excerpt": "Le Pakistan continue de jouer les intermédiaires malgré l'échec de la première rencontre à Islamabad.",
-      "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-la-maison-blanche-annonce-discuter-d-un-nouveau-rendez-vous-avec-l-iran_7941305.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 3h",
-      "pubDate": 1776290539.0
-    },
-    {
-      "id": "France Info--1356093832650625369",
+      "id": "France Info--8033757219366462452",
       "source": "France Info",
       "title": "\"Pourquoi aurions-nous peur ? On a déjà tout perdu\" : au cœur de la résistance birmane, la jeunesse en lutte contre la junte au pouvoir",
       "excerpt": "Le grand format du \"20 Heures\" vous propose un document exceptionnel, consacré à un conflit oublié : la Birmanie, en proie à une guerre civile depuis cinq ans, qui a déjà fait des dizaines de milliers...",
       "link": "https://www.franceinfo.fr/monde/birmanie/pourquoi-aurions-nous-peur-on-a-deja-tout-perdu-au-c-ur-de-la-resistance-birmane-la-jeunesse-en-lutte-contre-la-junte-au-pouvoir_7941287.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 3h",
+      "time": "Il y a 6h",
       "pubDate": 1776289954.0
     },
     {
-      "id": "France Info-5287604647045473754",
+      "id": "France Info-4694181032236686163",
       "source": "France Info",
       "title": "Le Bayern Munich élimine le Real Madrid au terme d'un match fou et défiera le PSG en demi-finales de la Ligue des champions",
       "excerpt": "Au terme d'une nouvelle partie spectaculaire et riche en buts, le Bayern Munich est allé chercher sa qualification (4-3) pour le dernier carré de la C1, mercredi.",
       "link": "https://www.franceinfo.fr/sports/foot/ligue-des-champions/le-bayern-munich-elimine-le-real-madrid-au-terme-d-un-match-fou-et-defiera-le-psg-en-demi-finales-de-ligue-des-champions_7941263.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 3h",
+      "time": "Il y a 6h",
       "pubDate": 1776289137.0
     },
     {
-      "id": "Le Monde-9183317580230659740",
+      "id": "Le Monde--3625972121414936844",
       "source": "Le Monde",
       "title": "Live Nation, maison mère du géant de l’évènementiel Ticketmaster, jugée coupable de monopole illégal aux Etats-Unis",
       "excerpt": "Le groupe était accusé d’abuser de sa position dominante sur les marchés de l’organisation de spectacles et de la billetterie. Une procédure séparée doit décider de la peine infligée à l’entreprise, q...",
       "link": "https://www.lemonde.fr/international/article/2026/04/15/live-nation-maison-mere-du-geant-de-l-evenementiel-ticketmaster-jugee-coupable-de-monopole-illegal-aux-etats-unis_6680347_3210.html",
-      "time": "Il y a 4h",
+      "time": "Il y a 7h",
       "pubDate": 1776286776.0
     },
     {
-      "id": "Libération-5078645357497680404",
+      "id": "Libération--6150500978566447805",
       "source": "Libération",
       "title": "«Une guerre idéologique pour imposer l’autoritarisme» : plus d’une centaine d’auteurs s’apprêtent à quitter Grasset après l’éviction d’Olivier Nora",
       "excerpt": "Selon les informations de «Libération», un texte, signé par de nombreux grands noms de la maison d’édition, est sur le point d’être publié. Il dénonce la mainmise de Vincent Bolloré.",
       "link": "https://www.liberation.fr/culture/livres/une-guerre-ideologique-pour-imposer-lautoritarisme-plus-dune-centaine-dauteurs-sappretent-a-quitter-grasset-apres-leviction-dolivier-nora-20260415_BXTBDW26XNH75ONLVWJ5AKZQZA/",
-      "time": "Il y a 4h",
+      "time": "Il y a 7h",
       "pubDate": 1776284989.0
     },
     {
-      "id": "France Info-2136636692415972801",
+      "id": "France Info--881453103936921746",
       "source": "France Info",
       "title": "Soupçonné de violences conjugales, le cuisinier star Jean Imbert n'est plus le chef du Plaza Athénée",
       "excerpt": "Il continuera néanmoins à occuper la fonction de directeur artistique de cet établissement prestigieux de la capitale.",
       "link": "https://www.franceinfo.fr/faits-divers/soupconne-de-violences-conjugales-le-cuisinier-star-jean-imbert-n-est-plus-le-chef-du-plaza-athenee_7941278.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 4h",
+      "time": "Il y a 7h",
       "pubDate": 1776284954.0
     },
     {
-      "id": "Libération-288499996019553737",
+      "id": "Libération-6814084444668883954",
       "source": "Libération",
       "title": "Guerre au Moyen-Orient : «Nous sommes optimistes quant à la perspective d’un accord» avec l’Iran, assurent les Etats-Unis",
       "excerpt": "Une délégation pakistanaise s’est rendue ce mercredi à Téhéran pour transmettre un message des Etats-Unis en vue du second cycle des pourparlers. Le Liban et Israël ont entamé de leur côté des pourpar...",
       "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-israel-veut-exclure-la-france-de-ses-negociations-avec-le-liban-20260415_TJZDGZS2DNHYXO2KLS7DSCVCGQ/",
-      "time": "Il y a 4h",
+      "time": "Il y a 8h",
       "pubDate": 1776284605.0
     },
     {
-      "id": "Libération-3814024688156591261",
+      "id": "Libération--6793838854054823746",
       "source": "Libération",
       "title": "«La paix est notre avenir» d’Aziz Abu Sarah et de Maoz Inon : le pari du chemin en commun",
       "excerpt": "Dans un ouvrage rédigé à quatre mains, le Palestinien et l’Israélien, frères dans le deuil, guident le lecteur à travers une Terre sainte martyrisée, faisant le choix radical de la paix.",
       "link": "https://www.liberation.fr/culture/livres/la-paix-est-notre-avenir-daziz-abu-sarah-et-de-maoz-inon-le-pari-du-chemin-en-commun-20260415_4GF6TXYLRBG4ZKEMYZIBQDD7AA/",
-      "time": "Il y a 4h",
+      "time": "Il y a 8h",
       "pubDate": 1776284160.0
     },
     {
-      "id": "France Info--2257664710909269617",
+      "id": "France Info-4400763546301330981",
       "source": "France Info",
       "title": "Affaire Grégory: la grand-tante Jacqueline Jacob demande l'annulation de sa mise en examen",
       "excerpt": "Celle qui est soupçonnée d'être un des corbeaux de l'affaire avait été mise en examen en octobre 2025.",
       "link": "https://www.franceinfo.fr/faits-divers/affaire-du-petit-gregory/affaire-gregory-la-grand-tante-jacqueline-jacob-demande-l-annulation-de-sa-mise-en-examen_7941260.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 4h",
+      "time": "Il y a 8h",
       "pubDate": 1776284158.0
     },
     {
-      "id": "Le Monde-287408815324251728",
-      "source": "Le Monde",
-      "title": "EN DIRECT, guerre au Moyen-Orient : les objectifs d’Israël et des Etats-Unis sont « identiques » concernant l’Iran, affirme Benyamin Nétanyahou",
-      "excerpt": "« Nous voulons voir [le stock d’uranium hautement] enrichi sortir d’Iran (…), l’abandon de la capacité d’enrichissement à l’intérieur du pays, et bien sûr, nous voulons voir l’ouverture du détroit » d...",
-      "link": "https://www.lemonde.fr/international/live/2026/04/15/en-direct-guerre-au-moyen-orient-les-objectifs-d-israel-et-des-etats-unis-sont-identiques-concernant-l-iran-affirme-benyamin-netanyahou_6679867_3210.html",
-      "time": "Il y a 5h",
-      "pubDate": 1776283168.0
-    },
-    {
-      "id": "France Info-8717674893873881503",
-      "source": "France Info",
-      "title": "\"L'affaire Sarah Halimi n'est pas terminée\" :les avocats de la famille Halimi demandent la réouverture de l'instruction",
-      "excerpt": "Les avocats affirment disposer de documents qui \"mettent à bas l'irresponsabilité pénale de Kobili Traoré\".",
-      "link": "https://www.franceinfo.fr/faits-divers/affaire-sarah-halimi/l-affaire-sarah-halimi-n-est-pas-terminee-les-avocats-de-la-famille-halimi-demandent-la-reouverture-de-l-instruction_7941242.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 5h",
-      "pubDate": 1776282761.0
-    },
-    {
-      "id": "Libération--8791428604340480117",
+      "id": "Libération-8698113076083845599",
       "source": "Libération",
       "title": "Six ans après le Brexit, le Royaume-Uni va réintégrer le programme Erasmus",
       "excerpt": "Les étudiants britanniques et européens devraient pouvoir reprendre leurs échanges à la rentrée 2027.",
       "link": "https://www.liberation.fr/international/europe/six-ans-apres-le-brexit-le-royaume-uni-va-reintegrer-le-programme-erasmus-20260415_Z3MI3MDS6ZHW3GRGGLJ4SD2OPM/",
-      "time": "Il y a 5h",
+      "time": "Il y a 8h",
       "pubDate": 1776281935.0
     },
     {
-      "id": "France Info--1254623373808099764",
+      "id": "France Info-1410836276059549520",
       "source": "France Info",
       "title": "Travail le 1er-Mai : vers \"une solution pragmatique\" pour les artisans boulangers et fleuristes ?",
       "excerpt": "Après avoir repoussé une proposition permettant d'élargir le travail le 1er-Mai, changement de pied pour Sébastien Lecornu : le Premier ministre a promis ce mercredi 15 avril \"une solution\" pour que l...",
       "link": "https://www.franceinfo.fr/decouverte/1er-mai/travail-le-1er-mai-vers-une-solution-pragmatique-pour-les-artisans-boulangers-et-fleuristes_7941209.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 5h",
+      "time": "Il y a 8h",
       "pubDate": 1776281757.0
     },
     {
-      "id": "Libération-5888042995911631376",
+      "id": "Libération--2244854880018163158",
       "source": "Libération",
       "title": "Coupe du monde 2026 : Didier Deschamps confirme le forfait de l’attaquant de Liverpool Hugo Ekitike, gravement blessé contre le PSG",
       "excerpt": "Le joueur des Reds s’est probablement rompu le tendon d’Achille droit lors du quart de finale de Ligue des champions mardi 14 avril. Il réalisait jusque-là un premier exercice réussi en Angleterre qui...",
       "link": "https://www.liberation.fr/sports/football/coupe-du-monde-2026-didier-deschamps-confirme-le-forfait-de-lattaquant-de-liverpool-hugo-ekitike-gravement-blesse-contre-le-psg-20260415_NUXTVX3Y25DBNNDVZOIKP3RS4I/",
-      "time": "Il y a 5h",
+      "time": "Il y a 9h",
       "pubDate": 1776280892.0
     },
     {
-      "id": "Le Monde--4869079437358088582",
+      "id": "Le Monde--3377265888020037384",
       "source": "Le Monde",
       "title": "A Hagenbach, après la découverte d’un enfant séquestré dans une camionnette, les questions de la justice et des habitants",
       "excerpt": "Les investigations de la semaine dernière ont permis de faire émerger de premiers éléments sur l’enfermement, plus d’un an durant, d’un garçon de 9 ans dans un village du Haut-Rhin.",
       "link": "https://www.lemonde.fr/societe/article/2026/04/15/a-hagenbach-apres-la-decouverte-d-un-enfant-sequestre-dans-une-camionnette-les-questions-de-la-justice-et-des-habitants_6680343_3224.html",
-      "time": "Il y a 5h",
+      "time": "Il y a 9h",
       "pubDate": 1776280847.0
     },
     {
-      "id": "Libération--832148170838556722",
+      "id": "Libération--8443784944323864294",
       "source": "Libération",
       "title": "ZFE : les démagogues de tous bords ont eu sa peau",
       "excerpt": "Le concept des zones à faibles émissions, né du processus vertueux de la Convention citoyenne pour le climat afin de réduire la circulation des véhicules les plus polluants dans les centres-villes, a...",
       "link": "https://www.liberation.fr/politique/zfe-les-demagogues-de-tous-bords-ont-eu-sa-peau-20260415_AD6UYTYFSVF6DKHKBHAAEEMR5U/",
-      "time": "Il y a 6h",
+      "time": "Il y a 9h",
       "pubDate": 1776279005.0
     },
     {
-      "id": "Libération--5634918148053531841",
-      "source": "Libération",
-      "title": "Visite d’Etat du président mauritanien : Macron veut resserrer les liens avec son dernier allié au Sahel",
-      "excerpt": "Le chef de l’Etat Mohamed Ould Ghazouani est reçu, dans le cadre d’un voyage officiel, par le locataire de l’Elysée ce mercredi 15 avril.",
-      "link": "https://www.liberation.fr/international/afrique/visite-detat-du-president-mauritanien-macron-veut-resserrer-les-liens-avec-son-dernier-allie-au-sahel-20260415_ZTHWOEYMHBEDBDRCLNS6A47JQM/",
-      "time": "Il y a 6h",
-      "pubDate": 1776278731.0
-    },
-    {
-      "id": "France Info-3861226337154422704",
+      "id": "France Info--7154683229067121755",
       "source": "France Info",
       "title": "\"J'ai les idées claires pour la France\" : dans une interview au journal \"Le Point\", Gabriel Attal dévoile un peu plus ses ambitions pour la présidentielle 2027",
       "excerpt": "L'ancien Premier ministre publiera à la fin du mois d'avril un livre dans lequel il revient sur son expérience du pouvoir.",
       "link": "https://www.franceinfo.fr/elections/presidentielle/j-ai-les-idees-claires-pour-la-france-dans-une-interview-au-journal-le-point-gabriel-attal-devoile-un-peu-plus-ses-ambitions-pour-la-presidentielle-2027_7941188.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 6h",
+      "time": "Il y a 9h",
       "pubDate": 1776278512.0
     },
     {
-      "id": "Libération--789113322307152707",
-      "source": "Libération",
-      "title": "La guerre au Liban à travers le destin tragique de l’immeuble Hamad de Beyrouth, et son lot de vies brisées",
-      "excerpt": "Le 8 avril, les frappes israéliennes ont tué au moins 350 personnes au Liban. Depuis, «Libération» est allé chaque jour à la rencontre des survivants d’un bâtiment du quartier d’Ain Mreissi où 27 habi...",
-      "link": "https://www.liberation.fr/idees-et-debats/editorial/la-guerre-au-liban-a-travers-le-destin-tragique-de-limmeuble-hamad-de-beyrouth-et-son-lot-de-vies-brisees-20260415_QLB4J775IVBFZHDS3NLD5N56WU/",
-      "time": "Il y a 6h",
-      "pubDate": 1776278332.0
-    },
-    {
-      "id": "Libération-4696255331514409239",
-      "source": "Libération",
-      "title": "«Travaux d’ampleur inédite» : l’été s’annonce compliqué pour les usagers de la RATP",
-      "excerpt": "Ile-de-France mobilités a annoncé ce mercredi de nombreuses fermetures sur les lignes de métro, de RER et de tramway durant les grandes vacances. Auparavant, les voyageurs devront également faire face...",
-      "link": "https://www.liberation.fr/economie/transports/travaux-dampleur-inedite-lete-sannonce-complique-pour-les-usagers-de-la-ratp-20260415_ZQNHTISIYNE6JJQFK2YXJRXDQ4/",
-      "time": "Il y a 7h",
-      "pubDate": 1776276110.0
-    },
-    {
-      "id": "Le Monde-5088445429532634660",
+      "id": "Le Monde--7914082538422088117",
       "source": "Le Monde",
-      "title": "La circulation océanique qui maintient un climat doux en Europe pourrait s’affaiblir davantage que prévu",
-      "excerpt": "Rouage essentiel du climat mondial, l’« AMOC », qui contribue aussi à maintenir des pluies dans les tropiques et à stocker du CO₂, pourrait s’affaiblir de 51 % d’ici à 2100, selon une nouvelle étude f...",
-      "link": "https://www.lemonde.fr/planete/article/2026/04/15/la-circulation-oceanique-qui-maintient-un-climat-doux-en-europe-pourrait-s-affaiblir-davantage-que-prevu_6680335_3244.html",
-      "time": "Il y a 7h",
-      "pubDate": 1776276006.0
+      "title": "Travaux dans les transports : Paris et l’Ile-de-France se préparent à un été « intense »",
+      "excerpt": "RER, métro, tramway… Les voyageurs vont devoir « anticiper » et prévoir des temps de trajet allongés cet été, alors que des « travaux d’ampleur inédite » ont été annoncés mercredi par Ile-de-France Mo...",
+      "link": "https://www.lemonde.fr/economie/article/2026/04/15/travaux-dans-les-transports-paris-et-l-ile-de-france-se-preparent-a-un-ete-intense_6680339_3234.html",
+      "time": "Il y a 9h",
+      "pubDate": 1776278272.0
     },
     {
-      "id": "Libération--6234244106834941120",
-      "source": "Libération",
-      "title": "Caroline Fourest annonce son départ de Grasset : «Démolir cette maison, c’est du saccage intellectuel»",
-      "excerpt": "L’essayiste analyse les conséquences funestes de l’éviction d’Oliver Nora de la tête de la maison d’édition et regrette une personne et une équipe dont le travail a contribué à vivifier la démocratie....",
-      "link": "https://www.liberation.fr/idees-et-debats/caroline-fourest-demolir-une-maison-comme-grasset-ce-nest-plus-de-la-reconquete-culturelle-mais-du-saccage-intellectuel-20260415_BNKR7BUANZGKZAUECRD4SET67Y/",
-      "time": "Il y a 7h",
-      "pubDate": 1776275966.0
-    },
-    {
-      "id": "France Info--3611310914077648661",
+      "id": "France Info-8858445495985622884",
       "source": "France Info",
       "title": "Hausse des prix des carburants : \"Mécaniquement, on devrait avoir une revalorisation du smic à l'été\", selon les prévisions de l'Insee",
       "excerpt": "Avec une augmentation, en un an, de plus de 40% pour les combustibles liquides comme le fuel, le gouvernement a revu à la hausse ses prévisions d'inflation à 1,9% pour 2026, entraînant un mouvement de...",
       "link": "https://www.franceinfo.fr/economie/inflation/hausse-des-prix-des-carburants-mecaniquement-on-devrait-avoir-une-revalorisation-du-smic-a-l-ete-selon-les-previsions-de-l-insee_7940780.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 7h",
+      "time": "Il y a 10h",
       "pubDate": 1776275269.0
     },
     {
-      "id": "Le Monde-1161225496705184107",
+      "id": "Le Monde--5606721693154193815",
       "source": "Le Monde",
       "title": "Teint clair, calvitie réduite, résistance à certaines maladies… L’ADN ancien éclaire l’évolution des Européens depuis plus de 10 000 ans",
       "excerpt": "Une vaste analyse, portant sur près de 16 000 génomes humains anciens, permet de suivre le flux et le reflux de variants génétiques sélectionnés et contre-sélectionnés pour leurs avantages et leurs in...",
       "link": "https://www.lemonde.fr/sciences/article/2026/04/15/teint-clair-calvitie-reduite-resistance-a-certaines-maladies-l-adn-ancien-eclaire-l-evolution-des-europeens-depuis-plus-de-10-000-ans_6680332_1650684.html",
-      "time": "Il y a 7h",
+      "time": "Il y a 10h",
       "pubDate": 1776274302.0
-    },
-    {
-      "id": "Le Monde--2150428186471079184",
-      "source": "Le Monde",
-      "title": "Le RN se projette déjà dans l’après-Marine Le Pen, un an avant la présidentielle",
-      "excerpt": "En attendant le jugement de la cour d’appel de Paris, le 7 juillet, le Rassemblement national doit préparer la campagne présidentielle de 2027 sans savoir qui de Marine Le Pen ou de Jordan Bardella se...",
-      "link": "https://www.lemonde.fr/politique/article/2026/04/15/le-rn-se-projette-deja-dans-l-apres-marine-le-pen-un-an-avant-la-presidentielle_6680318_823448.html",
-      "time": "Il y a 8h",
-      "pubDate": 1776270757.0
-    },
-    {
-      "id": "France Info--8936700932466363675",
-      "source": "France Info",
-      "title": "Noms, âges, actes sexuels… Un sordide recensement de potentielles victimes de Jeffrey Epstein saisi dans son appartement parisien",
-      "excerpt": "En 2019, les enquêteurs français ont découvert un tableur informatique au domicile de l'avenue Foch du millionnaire, listant les noms de nombreuses jeunes femmes accompagnés de commentaires. \"Compléme...",
-      "link": "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/enquete-noms-ages-actes-sexuels-un-sordide-recensement-de-potentielles-victimes-de-jeffrey-epstein-saisi-dans-son-appartement-parisien_7934468.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 9h",
-      "pubDate": 1776267814.0
     }
   ],
   "anglophone": [
     {
-      "id": "BBC News--5043801841534532977",
+      "id": "NPR--189089673087235648",
+      "source": "NPR",
+      "title": "A Colorado hospital profits from resolving language barriers",
+      "excerpt": "Without qualified interpreters at doctors' offices, non-English speakers can face bad — even fatal — health outcomes. A hospital in rural Colorado is training its existing bilingual staff to address t...",
+      "link": "https://www.npr.org/2026/04/16/nx-s1-5780035/rural-hospital-colorado-medical-translators",
+      "time": "Il y a 23 min",
+      "pubDate": 1776312060.0
+    },
+    {
+      "id": "The Guardian--4606678211810826851",
+      "source": "The Guardian",
+      "title": "US launches fifth strike on alleged Pacific drug boat in a week, killing three",
+      "excerpt": "Wednesday’s strike brings the total of those killed in US military strikes on alleged drug boats to at least 177 Three people were killed in a US strike on another alleged drug-trafficking boat, the f...",
+      "link": "https://www.theguardian.com/us-news/2026/apr/16/us-launches-fifth-strike-on-alleged-pacific-drug-boat-in-a-week-killing-three",
+      "time": "Il y a 27 min",
+      "pubDate": 1776311792.0
+    },
+    {
+      "id": "BBC News--3567632429702802575",
       "source": "BBC News",
-      "title": "Ticketmaster-owner Live Nation ran a monopoly and overcharged fans, jury finds",
-      "excerpt": "The lawsuit said the firm's practices had led to higher ticket prices and worse service for customers.",
-      "link": "https://www.bbc.com/news/articles/clyddyp19yyo?at_medium=RSS&at_campaign=rss",
+      "title": "Former US Marine pilot loses appeal against extradition from Australia",
+      "excerpt": "Daniel Duggan was arrested in 2022 over claims he illegally trained the Chinese military in South Africa.",
+      "link": "https://www.bbc.com/news/articles/c20q2n0l9vgo?at_medium=RSS&at_campaign=rss",
       "time": "Il y a 2h",
-      "pubDate": 1776293789.0
+      "pubDate": 1776305858.0
     },
     {
-      "id": "BBC News-8178623638315960814",
-      "source": "BBC News",
-      "title": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done",
-      "excerpt": "The BBC's chief international correspondent reports from Iran as diplomatic efforts to avoid a return to war intensify.",
-      "link": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 4h",
-      "pubDate": 1776287414.0
-    },
-    {
-      "id": "NPR--1585941560520981993",
-      "source": "NPR",
-      "title": "Middle East conflict causes a fluoride shortage for US drinking water",
-      "excerpt": "Some U.S. water systems are cutting back on fluoride because of a key chemical is in short supply. Israel is one of its main producers.",
-      "link": "https://www.npr.org/2026/04/15/nx-s1-5786697/middle-east-conflict-causes-a-fluoride-shortage-for-us-drinking-water",
-      "time": "Il y a 4h",
-      "pubDate": 1776285507.0
-    },
-    {
-      "id": "BBC News--6244989902717622657",
-      "source": "BBC News",
-      "title": "Nine killed in second Turkish school shooting in two days",
-      "excerpt": "Eight students and one teacher died in the attack, according to Interior Minister Mustafa Cifci.",
-      "link": "https://www.bbc.com/news/articles/cn088n9e6e9o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 5h",
-      "pubDate": 1776283849.0
-    },
-    {
-      "id": "NPR--6481604061865859952",
-      "source": "NPR",
-      "title": "Popes have spoken out on politics before. But with Trump and Pope Leo it's different",
-      "excerpt": "President Trump's attacks on Pope Leo are unprecedented, religious experts told NPR. Here's how the situation differs from other popes' political critiques.",
-      "link": "https://www.npr.org/2026/04/15/nx-s1-5779690/pope-leo-donald-trump-war-iran-vance-history",
-      "time": "Il y a 5h",
-      "pubDate": 1776283089.0
-    },
-    {
-      "id": "BBC News--546067145695406836",
-      "source": "BBC News",
-      "title": "Frank Gardner: What is China's role in the Iran war?",
-      "excerpt": "BBC Security Correspondent Frank Gardner explains how the world's second-largest economy fits into the Gulf conflict.",
-      "link": "https://www.bbc.com/news/videos/cz67760pq0xo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 6h",
-      "pubDate": 1776279246.0
-    },
-    {
-      "id": "BBC News-5918633801646899198",
-      "source": "BBC News",
-      "title": "Israeli triple-tap strike kills three paramedics in Lebanon, officials say",
-      "excerpt": "Lebanon's government condemns as a \"flagrant crime\" the killing of the paramedics, one of whom featured in a BBC report.",
-      "link": "https://www.bbc.com/news/articles/cgqkkxd09e2o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 6h",
-      "pubDate": 1776278914.0
-    },
-    {
-      "id": "BBC News-3755391615334489252",
+      "id": "BBC News-5594541359907459445",
       "source": "BBC News",
       "title": "Trump threatens to fire Fed chair Powell if he doesn't leave in May",
       "excerpt": "Donald Trump's threat marks the latest escalation in his ongoing spat with Jerome Powell.",
       "link": "https://www.bbc.com/news/articles/c9qddrdd8w2o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 6h",
-      "pubDate": 1776277790.0
+      "time": "Il y a 2h",
+      "pubDate": 1776304512.0
     },
     {
-      "id": "The Guardian-2804783595655977657",
+      "id": "BBC News-4492565320746775980",
+      "source": "BBC News",
+      "title": "Ticketmaster-owner Live Nation ran a monopoly and overcharged fans, jury finds",
+      "excerpt": "The lawsuit said the firm's practices had led to higher ticket prices and worse service for customers.",
+      "link": "https://www.bbc.com/news/articles/clyddyp19yyo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 5h",
+      "pubDate": 1776293789.0
+    },
+    {
+      "id": "BBC News--5401216761092462169",
+      "source": "BBC News",
+      "title": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done",
+      "excerpt": "The BBC's chief international correspondent reports from Iran as diplomatic efforts to avoid a return to war intensify.",
+      "link": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 7h",
+      "pubDate": 1776287414.0
+    },
+    {
+      "id": "NPR-5876089054513823902",
+      "source": "NPR",
+      "title": "Middle East conflict causes a fluoride shortage for US drinking water",
+      "excerpt": "Some U.S. water systems are cutting back on fluoride because of a key chemical is in short supply. Israel is one of its main producers.",
+      "link": "https://www.npr.org/2026/04/15/nx-s1-5786697/middle-east-conflict-causes-a-fluoride-shortage-for-us-drinking-water",
+      "time": "Il y a 7h",
+      "pubDate": 1776285507.0
+    },
+    {
+      "id": "BBC News--2546457778975567741",
+      "source": "BBC News",
+      "title": "Nine killed in second Turkish school shooting in two days",
+      "excerpt": "Eight students and one teacher died in the attack, according to Interior Minister Mustafa Cifci.",
+      "link": "https://www.bbc.com/news/articles/cn088n9e6e9o?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 8h",
+      "pubDate": 1776283849.0
+    },
+    {
+      "id": "NPR--2666868152058846088",
+      "source": "NPR",
+      "title": "Popes have spoken out on politics before. But with Trump and Pope Leo it's different",
+      "excerpt": "President Trump's attacks on Pope Leo are unprecedented, religious experts told NPR. Here's how the situation differs from other popes' political critiques.",
+      "link": "https://www.npr.org/2026/04/15/nx-s1-5779690/pope-leo-donald-trump-war-iran-vance-history",
+      "time": "Il y a 8h",
+      "pubDate": 1776283089.0
+    },
+    {
+      "id": "BBC News--1920697764453584824",
+      "source": "BBC News",
+      "title": "Frank Gardner: What is China's role in the Iran war?",
+      "excerpt": "BBC Security Correspondent Frank Gardner explains how the world's second-largest economy fits into the Gulf conflict.",
+      "link": "https://www.bbc.com/news/videos/cz67760pq0xo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 9h",
+      "pubDate": 1776279246.0
+    },
+    {
+      "id": "BBC News--8002041421593664433",
+      "source": "BBC News",
+      "title": "Israeli triple-tap strike kills three paramedics in Lebanon, officials say",
+      "excerpt": "Lebanon's government condemns as a \"flagrant crime\" the killing of the paramedics, one of whom featured in a BBC report.",
+      "link": "https://www.bbc.com/news/articles/cgqkkxd09e2o?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 9h",
+      "pubDate": 1776278914.0
+    },
+    {
+      "id": "The Guardian--5392059501440885789",
       "source": "The Guardian",
       "title": "More than £1bn pledged for Sudan as humanitarian crisis deepens",
       "excerpt": "Donors exceed funding target at Berlin conference but prospects for ceasefire remain distant More than £1bn (€1.15bn) has been pledged for war-ravaged Sudan at a conference in Berlin, eclipsing the fu...",
       "link": "https://www.theguardian.com/global-development/2026/apr/15/more-than-1bn-pledged-for-sudan-as-humanitarian-crisis-deepens",
-      "time": "Il y a 7h",
+      "time": "Il y a 10h",
       "pubDate": 1776275344.0
     },
     {
-      "id": "NPR-695349954310878730",
+      "id": "NPR-1415123842056455423",
       "source": "NPR",
       "title": "Visionary NPR leader Kevin Klose, who led network to new heights, has died",
       "excerpt": "Klose led NPR for a decade starting in 1998, a period of incredible growth for the public media network.",
       "link": "https://www.npr.org/2026/04/15/nx-s1-5786459/npr-kevin-klose-died-kroc-gift",
-      "time": "Il y a 8h",
+      "time": "Il y a 12h",
       "pubDate": 1776269993.0
     },
     {
-      "id": "BBC News-4549240036918219910",
+      "id": "BBC News--3489205959968656659",
       "source": "BBC News",
       "title": "Prominent Palestinian prisoner Marwan Barghouti assaulted three times in a month, family says",
       "excerpt": "The Israeli Prison Service says the allegation that Barghouti was subjected to physical violence by prison guards are \"false and baseless\".",
       "link": "https://www.bbc.com/news/articles/czreedn4n7jo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 9h",
+      "time": "Il y a 12h",
       "pubDate": 1776268764.0
     },
     {
-      "id": "NPR-4028154443558168109",
+      "id": "NPR--770549637913999105",
       "source": "NPR",
       "title": "Once again, Trump threatens to fire Fed Chair Jerome Powell",
       "excerpt": "President Trump once again threatened to fire Federal Reserve Chair Jerome Powell and doubled down on a discredited probe of the central bank.",
       "link": "https://www.npr.org/2026/04/15/nx-s1-5786478/trump-federa-reserve-jerome-powell",
-      "time": "Il y a 9h",
+      "time": "Il y a 12h",
       "pubDate": 1776267565.0
     },
     {
-      "id": "BBC News--1985922262582290041",
-      "source": "BBC News",
-      "title": "Chinese national given one year in prison for smuggling ants out of Kenya",
-      "excerpt": "Zhang Kequn was arrested in March while trying to travel to China with more than 2,000 live ants.",
-      "link": "https://www.bbc.com/news/articles/cz788z27j2jo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 9h",
-      "pubDate": 1776267385.0
-    },
-    {
-      "id": "The Guardian--6332651783203070382",
+      "id": "The Guardian--636641460253649773",
       "source": "The Guardian",
       "title": "Suspicion surrounds death of US influencer Ashly Robinson in Zanzibar",
       "excerpt": "Lifestyle influencer died while on vacation with boyfriend, who local officials say has since had his passport ‘withheld’ Ashly Robinson, a US lifestyle influencer, died last week while on vacation in...",
       "link": "https://www.theguardian.com/world/2026/apr/15/ashly-robinson-death-influencer-zanzibar",
-      "time": "Il y a 9h",
+      "time": "Il y a 13h",
       "pubDate": 1776266053.0
     },
     {
-      "id": "The Guardian--6221520671852787089",
+      "id": "The Guardian--7628252707000463731",
       "source": "The Guardian",
       "title": "South Africa names apartheid-era negotiator as ambassador to US",
       "excerpt": "Appointment of Roelf Meyer seen as attempt to improve relations amid false US accusations of ‘white genocide’ South Africa has appointed a former apartheid government chief negotiator during the talks...",
       "link": "https://www.theguardian.com/world/2026/apr/15/south-africa-names-ambassador-us-roelf-meyer",
-      "time": "Il y a 10h",
+      "time": "Il y a 13h",
       "pubDate": 1776265475.0,
       "sources": [
         "The Guardian",
@@ -414,97 +429,88 @@
       "sourceCount": 2
     },
     {
-      "id": "NPR-6757254099832378021",
+      "id": "NPR-1458078854323649826",
       "source": "NPR",
       "title": "Greetings from Nairobi, where taking a matatu is no ordinary bus ride",
       "excerpt": "The moment you board, the music grabs you. These privately owned, brightly painted minibuses are moving canvases, mobile sound systems — rolling declarations of what young Nairobi finds cool.",
       "link": "https://www.npr.org/2026/04/15/g-s1-117275/nairobi-matatu-bus-kenya",
-      "time": "Il y a 10h",
+      "time": "Il y a 13h",
       "pubDate": 1776263442.0
     },
     {
-      "id": "The Guardian-1320383724887369723",
+      "id": "The Guardian-6335609502650000161",
       "source": "The Guardian",
       "title": "Ant smuggler sentenced to a year in jail by Kenyan court",
       "excerpt": "More than 2,200 ants were found in Zhang Kequn’s luggage at Nairobi airport, with baggage destined for China A Chinese national has been sentenced to a year in prison and fined by a Nairobi court for...",
       "link": "https://www.theguardian.com/environment/2026/apr/15/ant-smuggler-sentenced-to-a-year-in-jail-by-kenyan-court",
-      "time": "Il y a 11h",
+      "time": "Il y a 14h",
       "pubDate": 1776262053.0
     },
     {
-      "id": "NPR-4281803381293166020",
+      "id": "NPR-216874748158098963",
       "source": "NPR",
       "title": "Trump administration moves to erase Jan. 6 riot convictions for seditious conspiracy",
       "excerpt": "The Trump administration is moving to vacate the seditious conspiracy convictions of extremists involved in the Jan. 6, 2021, attack who earlier received commutations instead of full pardons.",
       "link": "https://www.npr.org/2026/04/15/nx-s1-5785318/trump-jan-6-capitol-riot-seditious-conspiracy",
-      "time": "Il y a 11h",
+      "time": "Il y a 14h",
       "pubDate": 1776259814.0
     },
     {
-      "id": "NPR-3767282282431110802",
+      "id": "NPR--8923444117894475276",
       "source": "NPR",
       "title": "Trump says new talks with Iran will happen soon. And, Eric Swalwell faces new allegations",
       "excerpt": "President Trump says new talks with Iran could happen in the next two days. And, Democrat Eric Swalwell faces new allegations as a second woman comes forward accusing him of rape.",
       "link": "https://www.npr.org/2026/04/15/g-s1-117501/up-first-newsletter-israel-iran-lebanon-us-strait-eric-swalwell-virginia-face-act",
-      "time": "Il y a 13h",
+      "time": "Il y a 16h",
       "pubDate": 1776252977.0
     },
     {
-      "id": "BBC News--5033811894103592144",
+      "id": "BBC News-2973677586461689250",
       "source": "BBC News",
       "title": "Trump's rift with Pope is playing out in public - it's costing him valuable support",
       "excerpt": "Leading conservative Catholics tell the BBC why they back the American pontiff in his spat with Trump.",
       "link": "https://www.bbc.com/news/articles/c070jxyjrmeo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 13h",
+      "time": "Il y a 16h",
       "pubDate": 1776252309.0
     },
     {
-      "id": "NPR--5001101724982735713",
+      "id": "NPR-7409779330432302225",
       "source": "NPR",
       "title": "Trump says Iran talks could resume in days as U.S. military blocks Iranian ports",
       "excerpt": "President Trump said a second round of direct U.S.-Iran peace talks could resume in Pakistan within the next two days, even as he instituted a naval blockade of all Iranian ports.",
       "link": "https://www.npr.org/2026/04/15/nx-s1-5786034/iran-middle-east-updates",
-      "time": "Il y a 14h",
+      "time": "Il y a 17h",
       "pubDate": 1776251002.0
     },
     {
-      "id": "NPR--8098503308062443030",
+      "id": "NPR-5573585278607413539",
       "source": "NPR",
       "title": "Fela Kuti is the first African artist to enter the Rock & Roll Hall of Fame",
       "excerpt": "In December, the late Nigerian superstar became the first African musician to get a Grammy lifetime achievement award. Now he's making history as well at the Rock & Roll Hall of Fame.",
       "link": "https://www.npr.org/2026/04/15/g-s1-117406/rock-roll-hall-of-fame-africa-fela-kuti",
-      "time": "Il y a 14h",
+      "time": "Il y a 17h",
       "pubDate": 1776249531.0
     },
     {
-      "id": "NPR--5100787723790171954",
-      "source": "NPR",
-      "title": "Tax season was supposed to bring big refunds. So far they're less than expected",
-      "excerpt": "The average refund so far is $350 more than last year at this time, despite projections that it would be closer to $1,000 due to Republican-led tax changes as part of the Big Beautiful Bill Act.",
-      "link": "https://www.npr.org/2026/04/15/nx-s1-5785059/tax-refunds-less-than-expected",
-      "time": "Il y a 15h",
-      "pubDate": 1776247200.0
-    },
-    {
-      "id": "The Guardian-1888731087459132280",
+      "id": "The Guardian--4701312547676544612",
       "source": "The Guardian",
       "title": "Justice denied: why families of apartheid victims are still searching for answers",
       "excerpt": "Struggle for justice symbolises limitations of Truth and Reconciliation Commission, whose hearings began 30 years ago Darkness had fallen on 27 June 1985 when Fort Calata, Matthew Goniwe, Sicelo Mhlau...",
       "link": "https://www.theguardian.com/world/2026/apr/15/justice-denied-apartheid-south-africa-truth-and-reconciliation",
-      "time": "Il y a 20h",
+      "time": "Il y a 23h",
       "pubDate": 1776229201.0
     },
     {
-      "id": "The Guardian-5303587553450712273",
+      "id": "The Guardian--3793376990484218950",
       "source": "The Guardian",
       "title": "Sheinbaum vows to ‘defend Mexicans at every level’ amid anger at Trump over migrant deaths",
       "excerpt": "Sheinbaum has recently been taking a firmer stance with the US, defying pressures where other countries have caved The Mexican government has voiced concern about the deaths of its citizens in US cust...",
       "link": "https://www.theguardian.com/world/2026/apr/15/mexico-president-claudia-sheinbaum-donald-trump-ice-deaths",
-      "time": "Il y a 23h",
+      "time": "Il y a 1j",
       "pubDate": 1776217847.0
     },
     {
-      "id": "The Guardian--1619252911872806607",
+      "id": "The Guardian--8387361017940460294",
       "source": "The Guardian",
       "title": "Carney says it’s Canada’s ‘time to come together’ after Liberals secure majority",
       "excerpt": "Byelection wins and defections push Canada’s Liberals into majority government under the prime minister <a href=\"https://www.theguardian.com/world/mark-carney\">Mark Carney</a> has said he will govern...",
@@ -513,7 +519,7 @@
       "pubDate": 1776180999.0
     },
     {
-      "id": "The Guardian-6809198547732566854",
+      "id": "The Guardian--4620047900243653608",
       "source": "The Guardian",
       "title": "Bahamas police release Michigan man questioned after wife disappeared from their boat",
       "excerpt": "Brian Hooker told police that Lynette Hooker fell overboard and that strong currents carried her away Police in the <a href=\"https://www.theguardian.com/world/bahamas\">Bahamas</a> have released withou...",
@@ -522,23 +528,14 @@
       "pubDate": 1776170967.0
     },
     {
-      "id": "The Guardian-4382678666028839421",
+      "id": "The Guardian--2387461672860817628",
       "source": "The Guardian",
       "title": "Mark Carney secures majority government in Canada after byelection win",
       "excerpt": "Carney’s Liberals will now be able to pass legislation without the support of opposition parties – and govern until 2029 The Canadian prime minister, Mark Carney, has secured a parliamentary majority...",
       "link": "https://www.theguardian.com/world/2026/apr/14/canada-special-election-results-pm-mark-carney-majority-government",
       "time": "Il y a 1j",
       "pubDate": 1776143366.0
-    },
-    {
-      "id": "The Guardian--9087650820834037745",
-      "source": "The Guardian",
-      "title": "Bahamas police again question US man over disappearance of wife at sea",
-      "excerpt": "Brian Hooker says wife Lynette fell overboard from dinghy but family members have cast doubt on that account Police in the <a href=\"https://www.theguardian.com/world/bahamas\">Bahamas</a> on Monday wer...",
-      "link": "https://www.theguardian.com/world/2026/apr/13/bahamas-us-man-wife-overboard",
-      "time": "Il y a 2j",
-      "pubDate": 1776109006.0
     }
   ],
-  "lastUpdate": "2026-04-16T01:13:59.480916"
+  "lastUpdate": "2026-04-16T04:24:31.717356"
 }
