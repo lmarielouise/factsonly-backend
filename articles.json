@@ -1,88 +1,157 @@
 {
   "francophone": [
     {
-      "id": "Le Monde--5917718678216052955",
+      "id": "Le Monde-7792938001764544729",
       "source": "Le Monde",
-      "title": "Affaire Rachida Dati-GDF Suez : les locaux d’Engie perquisitionnés dans le cadre d’une  information judiciaire pour corruption, trafic d’influence et détournement de fonds publics",
-      "excerpt": "Des persquisitions avaient également eu lieu en décembre dernier au domicile de Rachida Dati, ainsi qu’au ministère de la Culture et à la mairie du 7e arrondissement.",
-      "link": "https://www.lemonde.fr/societe/article/2026/04/17/affaire-rachida-dati-gdf-suez-les-locaux-d-engie-perquisitionnes-dans-le-cadre-d-une-information-judiciaire-pour-corruption-trafic-d-influence-et-detournement-de-fonds-publics_6680859_3224.html",
-      "time": "Il y a 4 min",
-      "pubDate": 1776423511.0
+      "title": "Agressions sexuelles contre Adèle Haenel : Christophe Ruggia condamné en appel à cinq ans de prison, dont deux ferme sous bracelet électronique",
+      "excerpt": "Le réalisateur, accusé d’avoir agressé sexuellement l’actrice alors qu’elle avait 12 ans, avait fait appel de sa condamnation en première instance.",
+      "link": "https://www.lemonde.fr/societe/article/2026/04/17/agressions-sexuelles-contre-adele-haenel-christophe-ruggia-condamne-en-appel-a-cinq-ans-de-prison-dont-deux-ferme-sous-bracelet-electronique_6680869_3224.html",
+      "time": "Il y a 8 min",
+      "pubDate": 1776426657.0,
+      "sources": [
+        "Le Monde",
+        "Libération"
+      ],
+      "multiSource": true,
+      "sourceCount": 2
     },
     {
-      "id": "Libération--5093311332332079532",
+      "id": "Libération-3564163334105287859",
+      "source": "Libération",
+      "title": "EN DIRECT - Cessez-le-feu au Liban : l’opération militaire au Liban «n’est pas terminée», prévient le ministre israélien de la Défense",
+      "excerpt": "Les combattants du Hezbollah, mouvement islamiste libanais pro-Iran, affirment ce vendredi «garder le doigt sur la gâchette».",
+      "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-le-liban-accuse-israel-de-violer-le-cessez-le-feu-tout-juste-entre-en-vigueur-20260417_A6JSI7LTMVCCZL2FTG6H3MMABQ/",
+      "time": "Il y a 15 min",
+      "pubDate": 1776426228.0
+    },
+    {
+      "id": "France Info--1143005849366743460",
+      "source": "France Info",
+      "title": "Gérard Depardieu abandonne ses poursuites contre \"Complément d'enquête\" sur un prétendu \"montage illicite\" d'une séquence impliquant une fillette en Corée du Nord",
+      "excerpt": "En voyage avec l'écrivain et réalisateur Yann Moix en 2018, l'acteur avait multiplié les commentaires obscènes, qui avaient été diffusés par l'émission de France 2.",
+      "link": "https://www.franceinfo.fr/culture/cinema/depardieu/gerard-depardieu-abandonne-ses-poursuites-contre-complement-d-enquete-sur-un-pretendu-montage-illicite-d-une-sequence-impliquant-une-fillette-en-coree-du-nord_7945307.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 19 min",
+      "pubDate": 1776425951.0
+    },
+    {
+      "id": "Libération-4590359541278167652",
+      "source": "Libération",
+      "title": "Etats-Unis : le patron l’ICE, la violente police anti-immigration de Trump, va quitter son poste",
+      "excerpt": "Les fonctions de Todd Lyons, Nommé en mars 2025 par le président en personne, vont s’achever fin mai, a annoncé le ministre de la Sécurité intérieure. Son successeur n’a pas encore été nommé.",
+      "link": "https://www.liberation.fr/international/amerique/etats-unis-le-patron-lice-la-violente-police-anti-immigration-de-trump-va-quitter-son-poste-20260417_4V7EHEE2RNGV3JMQIVZY4IMOAY/",
+      "time": "Il y a 31 min",
+      "pubDate": 1776425251.0
+    },
+    {
+      "id": "France Info-2709718812279350973",
+      "source": "France Info",
+      "title": "Une octogénaire française placée en centre de rétention aux Etats-Unis est \"rentrée en France\", annonce Jean-Noël Barrot",
+      "excerpt": "Cette femme de 86 ans a été arrêtée début avril par la police de l'immigration américaine.",
+      "link": "https://www.franceinfo.fr/monde/usa/police-de-l-immigration-americaine/une-octogenaire-francaise-detenue-en-centre-de-retention-aux-etats-unis-est-rentree-en-france-annonce-jean-noel-barrot_7945613.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 46 min",
+      "pubDate": 1776424373.0
+    },
+    {
+      "id": "Libération-1871676562687108571",
+      "source": "Libération",
+      "title": "Véhicules électriques : la France veut multiplier par cinq le nombre de bornes sur autoroutes et nationales d’ici à 2035",
+      "excerpt": "Pour faire des longues distances, le ministre des Transports, Philippe Tabarot, a dit ce vendredi vouloir passer de «4 500 bornes aujourd’hui» pour les véhicules légers à «22 000». Des installations s...",
+      "link": "https://www.liberation.fr/economie/transports/vehicules-electriques-la-france-veut-multiplier-par-cinq-ses-bornes-sur-autoroutes-et-nationales-dici-a-2035-20260417_QIEGUG6CPRHNXK3BLZ5BBPMDFE/",
+      "time": "Il y a 53 min",
+      "pubDate": 1776423944.0
+    },
+    {
+      "id": "Libération-5731412996714095461",
+      "source": "Libération",
+      "title": "Le ministre du Travail en a marre de perdre son précieux temps à l’Assemblée",
+      "excerpt": "Indiscrétions piquantes, maladresses vaches ou douces confessions : chaque jour, retrouvez les brèves qui auscultent le monde politique.",
+      "link": "https://www.liberation.fr/politique/le-ministre-du-travail-en-a-marre-de-perdre-son-precieux-temps-a-lassemblee-20260417_4F5BXFPQTFCZXK5J2OWTRUR74Q/",
+      "time": "Il y a 55 min",
+      "pubDate": 1776423815.0
+    },
+    {
+      "id": "Le Monde--2083075117291046562",
+      "source": "Le Monde",
+      "title": "Une Française de 85 ans placée en centre de rétention aux Etats-Unis est « rentrée en France », annonce le gouvernement",
+      "excerpt": "L’octogénaire, mariée à un Américain mort en janvier, était entrée aux Etats-Unis en juin 2025 avec un visa de tourisme lui permettant de rester quatre-vingt-dix jours sur le sol américain.",
+      "link": "https://www.lemonde.fr/international/article/2026/04/17/l-octogenaire-francaise-placee-dans-un-centre-de-retention-aux-etats-unis-est-rentree-en-france-annonce-jean-noel-barrot_6680862_3210.html",
+      "time": "Il y a 58 min",
+      "pubDate": 1776423644.0
+    },
+    {
+      "id": "Le Monde--458978842302601950",
+      "source": "Le Monde",
+      "title": "Erik Tegnér, le directeur du magazine d’extrême droite « Frontières » poursuivi pour divulgation de données personnelles d’avocats, dénonce une procédure bâillon",
+      "excerpt": "Le directeur de publication comparaissait, jeudi, devant le tribunal de Bobigny, au sujet d’un hors-série de janvier 2025 qui publiait les noms, prénoms et tribunaux d’exercice d’avocats accusés d’êtr...",
+      "link": "https://www.lemonde.fr/societe/article/2026/04/17/le-patron-de-frontieres-erik-tegner-devant-la-justice-pour-la-divulgation-de-donnees-personnelles-d-avocats-denonce-une-procedure-baillon_6680861_3224.html",
+      "time": "Il y a 59 min",
+      "pubDate": 1776423602.0
+    },
+    {
+      "id": "Le Monde-597145773586356565",
+      "source": "Le Monde",
+      "title": "Affaire Rachida Dati-GDF Suez : les locaux d’Engie perquisitionnés dans le cadre d’une information judiciaire pour corruption, trafic d’influence et détournement de fonds publics",
+      "excerpt": "Le Parquet national financier, qui enquête sur des soupçons de rémunération de l’ex-ministre par le groupe d’énergie (alors GDF-Suez), avait déjà mené d’autres perquisitions en décembre.",
+      "link": "https://www.lemonde.fr/societe/article/2026/04/17/affaire-rachida-dati-gdf-suez-les-locaux-d-engie-perquisitionnes-dans-le-cadre-d-une-information-judiciaire-pour-corruption-trafic-d-influence-et-detournement-de-fonds-publics_6680859_3224.html",
+      "time": "Il y a 1h",
+      "pubDate": 1776423509.0
+    },
+    {
+      "id": "Libération-6064162832470677833",
       "source": "Libération",
       "title": "De Céline Dion à Boards of Canada : un come-back peut en cacher un autre",
       "excerpt": "Treize ans après «Tomorrow’s Harvest», la publication d’un nouveau morceau du duo écossais et les discrets indices d’un album à venir suscitent en nous un bonheur inespéré dans un monde en souffrance...",
       "link": "https://www.liberation.fr/culture/musique/de-celine-dion-a-boards-of-canada-un-come-back-peut-en-cacher-un-autre-20260417_FOUEAOX7GZHRRENR37LDLSF4TE/",
-      "time": "Il y a 5 min",
+      "time": "Il y a 1h",
       "pubDate": 1776423467.0
     },
     {
-      "id": "Libération--2306043472276517525",
+      "id": "Libération-8702402165166043396",
       "source": "Libération",
       "title": "Affaire Rachida Dati-GDZ Suez : le siège d’Engie a été perquisitionné",
       "excerpt": "L’opération a été menée dans le cadre de l’information judiciaire qui vise l’ancienne ministre, confirme ce vendredi 17 avril le Parquet national financier. Elle est soupçonnée d’avoir perçu 299 000 e...",
       "link": "https://www.liberation.fr/societe/police-justice/affaire-rachida-dati-gdz-suez-le-siege-dengie-a-ete-perquisitionne-20260417_2RCIV2G3IVH6BKK5MQNDU4YQSQ/",
-      "time": "Il y a 12 min",
+      "time": "Il y a 1h",
       "pubDate": 1776423021.0
     },
     {
-      "id": "Libération-6442143724829543665",
+      "id": "Libération-5334781422624334310",
       "source": "Libération",
       "title": "«Sauf pour éviter un danger, vous n’avez pas à crier sur un enfant» : à Paris, les futurs animateurs du périscolaire formés contre les violences",
       "excerpt": "Depuis février, la municipalité impose deux jours de formation aux animateurs vacataires avant toute prise de poste dans une école. Une réponse aux signalements en série dans les établissements et la...",
       "link": "https://www.liberation.fr/societe/education/sauf-pour-eviter-un-danger-vous-navez-pas-a-crier-sur-un-enfant-a-paris-les-futurs-animateurs-du-periscolaire-formes-contre-les-violences-20260417_2YZO5Z7TBFFBTBZ2QBAKM3AXHU/",
-      "time": "Il y a 21 min",
+      "time": "Il y a 1h",
       "pubDate": 1776422491.0
     },
     {
-      "id": "Libération-629355496017970970",
+      "id": "Libération-8075502859969706308",
       "source": "Libération",
       "title": "Obligation de parité : le Conseil constitutionnel conforte l’amende infligée à l’UDR d’Eric Ciotti",
       "excerpt": "Pour n’avoir présenté que 11 femmes pour 52 hommes lors des dernières législatives, le parti d’extrême droite perd 1,3 million d’euros d’aides publiques, les sages ayant jugé conforme vendredi 17 avri...",
       "link": "https://www.liberation.fr/politique/obligation-de-parite-le-conseil-constitutionnel-conforte-lamende-infligee-a-ludr-deric-ciotti-20260417_JUSPW3AXN5AVTMEOJ63XD7CMXU/",
-      "time": "Il y a 22 min",
+      "time": "Il y a 1h",
       "pubDate": 1776422459.0
     },
     {
-      "id": "Libération-5959076034190941808",
+      "id": "Libération--6245913897575825728",
       "source": "Libération",
       "title": "La vente de SFR à ses trois concurrents dans la dernière ligne droite",
       "excerpt": "L’opérateur télécom détenu par Patrick Drahi est entré ce vendredi 17 avril en négociations exclusives avec Bouygues, Orange et Free pour une acquisition à 20,3 milliards qui pourrait recomposer le pa...",
       "link": "https://www.liberation.fr/economie/la-vente-de-sfr-a-ses-trois-concurrents-dans-la-derniere-ligne-droite-20260417_MOKM2H2HJ5A65DVI7VSI7PTOI4/",
-      "time": "Il y a 23 min",
+      "time": "Il y a 1h",
       "pubDate": 1776422359.0
     },
     {
-      "id": "Libération--4054202737525641892",
-      "source": "Libération",
-      "title": "Royaume-Uni : Keir Starmer de nouveau dans la tourmente après des révélations sur Peter Mandelson, ex-ambassadeur aux Etats-Unis",
-      "excerpt": "«The Guardian» affirme que le diplomate avait obtenu une habilitation sécurité indispensable pour sa nomination malgré un avis défavorable du service chargé de contrôler ses antécédents. L’opposition...",
-      "link": "https://www.liberation.fr/international/europe/royaume-uni-keir-starmer-de-nouveau-dans-la-tourmente-apres-des-revelations-sur-peter-mandelson-ex-ambassadeur-aux-etats-unis-20260416_EZEFTC7SLNCVTL4PRHWM4MMH3E/",
-      "time": "Il y a 39 min",
-      "pubDate": 1776421400.0
-    },
-    {
-      "id": "France Info-4217587051310300519",
+      "id": "France Info-386930470832019317",
       "source": "France Info",
       "title": "Crise chez Grasset : il est \"très important\" de \"défendre\" le \"pluralisme éditorial\" en France, estime Emmanuel Macron en visite au Festival du livre de Paris",
       "excerpt": "Le chef de l'État réagissait au séisme qui secoue le monde de l'édition après le départ du PDG de Grasset Olivier Nora, imputé par plusieurs auteurs à Vincent Bolloré.",
       "link": "https://www.franceinfo.fr/culture/livres/crise-chez-grasset-il-est-tres-important-de-defendre-le-pluralisme-editorial-en-france-estime-emmanuel-macron-en-visite-au-festival-du-livre-de-paris_7945439.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 55 min",
+      "time": "Il y a 1h",
       "pubDate": 1776420475.0
     },
     {
-      "id": "Libération--1501806562735370350",
-      "source": "Libération",
-      "title": "Etats-Unis : détenue par l’ICE pendant 17 jours, Marie-Thérèse Ross, Française de 86 ans, a été libérée",
-      "excerpt": "Son visa ayant expiré, l’octogénaire a été interpellée en Alabama le 1er avril. L’octogénaire qui a fait partie des milliers de personnes visées par le programme d’expulsion massive de l’administratio...",
-      "link": "https://www.liberation.fr/international/amerique/etats-unis-paris-demande-la-liberation-dune-francaise-de-86-ans-detenue-par-lice-20260416_Y7H5SUZKSBCKPFWBLEDJIZI5OM/",
-      "time": "Il y a 1h",
-      "pubDate": 1776420046.0
-    },
-    {
-      "id": "France Info--6141793903878045626",
+      "id": "France Info--2037588137862313009",
       "source": "France Info",
       "title": "\"36% des parents légitiment la fessée\" : un acte violent contre un enfant \"n'est pas anodin\", alerte la Fondation pour l'enfance",
       "excerpt": "Huit parents sur dix avouent avoir eu recours à des violences verbales ou psychologiques, d'après une étude de la Fondation pour l'enfance, publiée vendredi et à laquelle franceinfo a pu avoir accès.",
@@ -91,142 +160,79 @@
       "pubDate": 1776419971.0
     },
     {
-      "id": "Libération--573833867198292224",
-      "source": "Libération",
-      "title": "Olivier Nora viré de Grasset par Vincent Bolloré : Emmanuel Macron juge «important de défendre» le «pluralisme éditorial»",
-      "excerpt": "«En France on reste attaché à tout ce qui fait notre force, la liberté des auteurs, leur qualité, le rôle de l’éditeur», a souligné le président de la République ce vendredi 17 avril, en visite au Fes...",
-      "link": "https://www.liberation.fr/culture/livres/olivier-nora-vire-de-grasset-par-vincent-bollore-emmanuel-macron-juge-important-de-defendre-le-pluralisme-editorial-20260417_POMCIAXHCNGFZEU5FKLPQVYLXM/",
-      "time": "Il y a 1h",
-      "pubDate": 1776419854.0
-    },
-    {
-      "id": "Libération--382384559745973691",
-      "source": "Libération",
-      "title": "En Allemagne, discorde autour d’une ultime opération de sauvetage de la baleine Timmy échouée au nord du pays",
-      "excerpt": "Financée par deux millionnaires, l’opération a débuté ce jeudi 16 avril. Greenpeace dénonce une manœuvre risquée, qui a peu de chances d’aboutir et risquerait de faire subir un stress important à l’an...",
-      "link": "https://www.liberation.fr/environnement/en-allemagne-discorde-autour-dune-ultime-operation-de-sauvetage-de-la-baleine-timmy-echouee-au-nord-du-pays-20260417_DS7KSOQS6JGJNCYIM5ULNMSAXI/",
-      "time": "Il y a 1h",
-      "pubDate": 1776419608.0
-    },
-    {
-      "id": "Le Monde--1140329296410794031",
-      "source": "Le Monde",
-      "title": "Après le retrait de la proposition de la loi Yadan sur l’antisémitisme, la ministre Aurore Bergé invite les présidents des groupes « pour entendre leurs propositions »",
-      "excerpt": "La ministre déléguée chargée de la lutte contre les discriminations veut présenter « avant l’été (…) un projet de loi en conseil des ministres après avis du Conseil d’Etat ».",
-      "link": "https://www.lemonde.fr/politique/article/2026/04/17/projet-de-loi-sur-l-antisemitisme-aurore-berge-invite-les-presidents-des-groupes-parlementaires-le-28-avril_6680854_823448.html",
-      "time": "Il y a 1h",
-      "pubDate": 1776419344.0
-    },
-    {
-      "id": "Libération--4734773983260202390",
-      "source": "Libération",
-      "title": "Etats-Unis : le secrétaire à la Défense Pete Hegseth croyait citer la Bible, c’était en fait du Quentin Tarantino",
-      "excerpt": "Lors d’une messe au Pentagone mercredi 15 avril, le ministre trumpien a prononcé une prière, reprenant mot pour mot, sans s’en rendre compte, des répliques du film «Pulp Fiction». Une bourde devenue v...",
-      "link": "https://www.liberation.fr/international/amerique/etats-unis-le-secretaire-a-la-defense-pete-hegseth-croyait-citer-la-bible-cetait-en-fait-du-quentin-tarantino-20260417_OMDPYLQ6J5CVFLV56K7ETMC5VM/",
-      "time": "Il y a 1h",
-      "pubDate": 1776419344.0
-    },
-    {
-      "id": "France Info-1196080104193405923",
+      "id": "France Info--6353665771191557844",
       "source": "France Info",
       "title": "Discussions historiques, soulagement des Libanais, \"actes d’agression\"… Ce que l’on sait du fragile cessez-le-feu entre Israël et le Liban",
       "excerpt": "Une trêve de dix jours est entrée en vigueur, dans la nuit de jeudi à vendredi, entre Israël et le Liban après un mois et demi de conflit. Si elle suscite un espoir côté libanais, elle est déjà mise à...",
       "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/discussions-historiques-soulagement-des-libanais-actes-d-agression-ce-que-l-on-sait-du-fragile-cessez-le-feu-entre-israel-et-le-liban_7945226.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1776418710.0
     },
     {
-      "id": "France Info--8519694740852184440",
+      "id": "France Info--442668926719093684",
       "source": "France Info",
       "title": "Retrait de la proposition de loi Yadan : le gouvernement convie les groupes parlementaires le 28 avril pour évoquer son propre texte sur l'antisémitisme",
       "excerpt": "Les présidents de groupes de l'Assemblée nationale et du Sénat seront reçus par la ministre chargée de la Lutte contre les discriminations, Aurore Bergé, qui portera le projet de loi.",
       "link": "https://www.franceinfo.fr/societe/antisemitisme/le-gouvernement-va-convier-les-groupes-parlementaires-pour-evoquer-son-futur-texte-sur-l-antisemitisme-le-28-avril-apres-le-retrait-de-la-proposition-de-loi-yadan_7945397.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1776418170.0
     },
     {
-      "id": "Le Monde--2227788141961149706",
+      "id": "Le Monde-1316183765966813581",
       "source": "Le Monde",
       "title": "Emmanuel Macron sur la crise chez Grasset : il « est très important » de « défendre » le « pluralisme éditorial »",
       "excerpt": "Le président de la République s’est exprimé au Festival du livre à Paris alors que le monde de l’édition est secoué par le licenciement d’Olivier Nora, PDG de Grasset, et le départ consécutif de quelq...",
       "link": "https://www.lemonde.fr/livres/article/2026/04/17/grasset-emmanuel-macron-estime-important-de-defendre-le-pluralisme-editorial_6680851_3260.html",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1776417775.0
     },
     {
-      "id": "France Info-8307263806321478655",
+      "id": "France Info-5174002883534155516",
       "source": "France Info",
       "title": "INFO FRANCETV. Affaire Rachida Dati-GDF Suez : le siège du géant de l'énergie a été perquisitionné",
       "excerpt": "Selon les informations de \"Complément d'enquête\", les policiers se sont rendus jeudi dans les locaux de l'entreprise, devenue Engie. L'ancienne ministre de la Culture est soupçonnée d'avoir été rémuné...",
       "link": "https://www.franceinfo.fr/politique/rachida-dati/info-francetv-affaire-rachida-dati-gdf-suez-le-siege-du-geant-de-l-energie-a-ete-perquisitionne_7945349.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1776417744.0
     },
     {
-      "id": "Le Monde-2684920179300657420",
+      "id": "Le Monde-4507926247286199514",
       "source": "Le Monde",
-      "title": "EN DIRECT, guerre au Moyen-Orient : après l’annonce d’un cessez-le-feu de dix jours entre Israël et le Hezbollah au Liban, les dernières informations et réactions",
-      "excerpt": "La trêve, annoncée par Donald Trump, est entrée en vigueur jeudi à 23 heures, heure de Paris. L’armée libanaise a accusé Israël de ne pas la respecter et le Hezbollah dit avoir attaqué des soldats isr...",
+      "title": "EN DIRECT, guerre au Moyen-Orient : la réouverture du détroit d’Ormuz au cœur d’un sommet à Paris ; le cessez-le-feu entre Israël et le Hezbollah reste fragile",
+      "excerpt": "Une trentaine de pays se réunissent pour discuter d’une mission de sécurisation de la navigation dans cet axe maritime, où trois tankers iraniens transportant 5 millions de barils ont transité vendred...",
       "link": "https://www.lemonde.fr/international/live/2026/04/17/en-direct-guerre-au-moyen-orient-apres-l-annonce-d-un-cessez-le-feu-de-dix-jours-entre-israel-et-le-hezbollah-au-liban-les-dernieres-informations-et-reactions_6679867_3210.html",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1776416171.0
     },
     {
-      "id": "Le Monde--1368088361683049393",
+      "id": "Le Monde-2802311143942865654",
       "source": "Le Monde",
-      "title": "EN DIRECT, guerre en Ukraine : 132 combats entre Russes et Ukrainiens jeudi ; Izmaïl, le plus grand port ukrainien ​sur le Danube, endommagé",
+      "title": "EN DIRECT, guerre en Ukraine : Izmaïl, le plus grand port ukrainien ​sur le Danube, endommagé",
       "excerpt": "Ce port attaqué par des drones se situe à l’extrémité sud-ouest du pays, à la frontière avec ⁠la Roumanie. Avec le conflit, il est devenu une zone logistique importante, fréquemment ⁠bombardée par ‌le...",
       "link": "https://www.lemonde.fr/international/live/2026/04/17/en-direct-guerre-en-ukraine-132-combats-entre-russes-et-ukrainiens-jeudi-izmail-le-plus-grand-port-ukrainien-sur-le-danube-endommage_6679492_3210.html",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1776416029.0
     },
     {
-      "id": "France Info-8761482075373603343",
+      "id": "France Info--3639700761804425565",
       "source": "France Info",
       "title": "\"Voici quelques clichés\" : les e-mails entre un photographe français et Jeffrey Epstein lèvent le voile sur le système de prédation du criminel",
       "excerpt": "Le nom d'Antoine Verglas apparaît des centaines de fois dans les \"Epstein Files\". Expatrié aux Etats-Unis, ce Français a réalisé des shootings pour le financier américain. De quoi remplir les dossiers...",
       "link": "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/enquete-franceinfo-voici-quelques-cliches-les-e-mails-entre-un-photographe-francais-et-jeffrey-epstein-levent-le-voile-sur-le-systeme-de-predation-du-criminel_7896065.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1776415079.0
     },
     {
-      "id": "France Info--45944202994995582",
-      "source": "France Info",
-      "title": "Gérard Depardieu abandonne ses poursuites contre \"Complément d'enquête\" sur un prétendu \"montage illicite\" d'une séquence impliquant une fillette en Corée du Nord",
-      "excerpt": "En voyage avec l'écrivain et réalisateur Yann Moix en 2018, l'acteur avait multiplié les commentaires obscènes, qui avaient été diffusés par l'émission de France 2.",
-      "link": "https://www.franceinfo.fr/culture/cinema/depardieu/gerard-depardieu-abandonne-ses-poursuites-contre-complement-d-enquete-sur-un-pretendu-montage-illicite-d-une-sequence-impliquant-une-fillette-en-coree-du-nord_7945307.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
-      "pubDate": 1776413403.0
-    },
-    {
-      "id": "Le Monde-4192866969474180851",
+      "id": "Le Monde-3395777563229032179",
       "source": "Le Monde",
       "title": "Rachat de SFR : Patrick Drahi se rapproche d’une vente à Bouygues, Free et Orange pour plus de 20 milliards d’euros",
       "excerpt": "Le groupe Altice France est entré en négociation exclusive avec ses rivaux pour leur vendre l’opérateur télécoms. Le milliardaire signerait ainsi sa sortie des affaires en France.",
       "link": "https://www.lemonde.fr/economie/article/2026/04/17/patrick-drahi-se-rapproche-d-une-vente-de-sfr-a-bouygues-free-et-orange-pour-plus-de-20-milliards-d-euros_6680839_3234.html",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1776413259.0
     },
     {
-      "id": "Le Monde-3989201712123872541",
-      "source": "Le Monde",
-      "title": "La sécurité des parloirs de Salah Abdeslam au cœur d’une bataille avec l’administration pénitentiaire",
-      "excerpt": "Alors que la justice administrative, saisie par les avocats du terroriste, a exigé le 1ᵉʳ avril le retour des parloirs classiques avec ses proches, la direction de la prison veut conserver une paroi d...",
-      "link": "https://www.lemonde.fr/societe/article/2026/04/17/la-securite-des-parloirs-de-salah-abdeslam-au-c-ur-d-une-bataille-avec-l-administration-penitentiaire_6680838_3224.html",
-      "time": "Il y a 3h",
-      "pubDate": 1776412808.0
-    },
-    {
-      "id": "Le Monde-4676821358754682876",
-      "source": "Le Monde",
-      "title": "Savez-vous comment Céline Dion est devenue Céline Dion ? Tentez de répondre à notre quiz",
-      "excerpt": "A l’occasion de la sortie du nouveau single du mythique duo formé par Céline Dion et Jean-Jacques Goldman, révisez vos connaissances sur la diva avec « Les Décodeurs ». Dates et chiffres-clés, légende...",
-      "link": "https://www.lemonde.fr/les-decodeurs/article/2026/04/17/quiz-savez-vous-comment-celine-dion-est-devenue-celine-dion_6680831_4355770.html",
-      "time": "Il y a 3h",
-      "pubDate": 1776411003.0
-    },
-    {
-      "id": "France Info-6497602664369151934",
+      "id": "France Info--6132249654165086821",
       "source": "France Info",
       "title": "\"Personne n'est dupe, ce ne sont pas des photos volées\" : on vous raconte les coulisses de la couverture de \"Paris Match\" avec Jordan Bardella",
       "excerpt": "Le président du Rassemblement national s'est affiché en couple avec Maria Carolina de Bourbon des Deux-Siciles dans l'hebdomadaire, le 8 avril. Le potentiel candidat du parti à la prochaine présidenti...",
@@ -235,54 +241,54 @@
       "pubDate": 1776409146.0
     },
     {
-      "id": "France Info--6293771567623645442",
-      "source": "France Info",
-      "title": "\"Il faut un seul candidat de la droite et du centre le plus tôt possible\" : Les Républicains face à l'embarras du choix, à un an de la présidentielle",
-      "excerpt": "Les 18 et 19 avril, les adhérents de LR doivent se prononcer sur un mode de désignation du candidat de leur parti à l'élection présidentielle. Bruno Retailleau devrait sortir renforcé mais devra toujo...",
-      "link": "https://www.franceinfo.fr/elections/presidentielle/il-faut-un-seul-candidat-de-la-droite-et-du-centre-le-plus-tot-possible-les-republicains-face-a-l-embarras-du-choix-a-un-an-de-la-presidentielle_7920791.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 5h",
-      "pubDate": 1776402865.0
+      "id": "Le Monde--642000605622810409",
+      "source": "Le Monde",
+      "title": "Le film « Yellow Letters » met en lumière les vies brisées des intellectuels turcs réprimés : « Du jour au lendemain, tu deviens un indésirable »",
+      "excerpt": "Entre 2016 et 2018, des milliers de professeurs turcs opposés au régime du président Erdoğan ont été licenciés et mis au ban de la société. Récompensé de l’Ours d’or du meilleur film de la Berlinale 2...",
+      "link": "https://www.lemonde.fr/m-le-mag/article/2026/04/17/yellow-letters-une-mise-en-lumiere-des-vies-brisees-des-intellectuels-turcs-reprimes-du-jour-au-lendemain-tu-deviens-un-indesirable-aux-yeux-de-la-societe-certains-ne-l-ont-pas-supporte-et-il-y-a-meme-eu-un-suicide_6680818_4500055.html",
+      "time": "Il y a 6h",
+      "pubDate": 1776402007.0
     },
     {
-      "id": "France Info--5773299480417749252",
+      "id": "France Info--375900168914095066",
       "source": "France Info",
       "title": "\"Ils sont devenus une forme de dissidence civile\" : la Russie intensifie sa lutte contre les VPN, utilisés pour contourner les restrictions sur internet",
       "excerpt": "Plusieurs sites de banques, de services et de commerce en ligne ainsi que des moteurs de recherche bloquent désormais leur accès aux utilisateurs, quand un réseau virtuel privé est actif.",
       "link": "https://www.franceinfo.fr/monde/russie/ils-sont-devenus-une-forme-de-dissidence-civile-comment-le-gouvernement-russe-intensifie-sa-lutte-contre-les-vpn-utilises-pour-contourner-les-blocages-et-les-restrictions-sur-internet_7940387.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1776398708.0
     },
     {
-      "id": "Le Monde-8768731346382925058",
-      "source": "Le Monde",
-      "title": "Une activité physique intense, même de courte durée, réduit le risque de développer huit maladies chroniques",
-      "excerpt": "« Dix mille pas et plus ». Une étude menée à partir de la cohorte britannique UK Biobank montre que la diminution du risque varie de 29 % à 63 % selon les pathologies, avec une baisse de 46 % pour la...",
-      "link": "https://www.lemonde.fr/sciences/article/2026/04/17/meme-de-courte-duree-une-activite-intense-reduit-le-risque-de-developper-huit-maladies-chroniques_6680805_1650684.html",
-      "time": "Il y a 7h",
-      "pubDate": 1776398413.0
-    },
-    {
-      "id": "Le Monde--8373544141041035783",
+      "id": "Le Monde--8376199923282131268",
       "source": "Le Monde",
       "title": "Avec Mythos, l’IA d’Anthropic capable de détecter les failles des logiciels, les Américains s’arrogent un pré carré sur la cybersécurité mondiale",
       "excerpt": "Le nouveau système du géant mondial de l’intelligence artificielle fait craindre la divulgation massive de failles informatiques, qui ferait le bonheur des cybercriminels.  « Glasswing », le groupe de...",
       "link": "https://www.lemonde.fr/economie/article/2026/04/17/avec-son-ia-mythos-anthropic-suscite-l-effroi-et-fait-de-la-cybersecurite-la-chasse-gardee-du-secteur-prive-americain_6680799_3234.html",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1776396609.0
     }
   ],
   "anglophone": [
     {
-      "id": "BBC News--1482357762357067426",
+      "id": "NPR--3739463078742231324",
+      "source": "NPR",
+      "title": "Israel starts a tense ceasefire in Lebanon. And, Trump nominates a new CDC director.",
+      "excerpt": "A 10-day ceasefire to pause fighting between Israel and Hezb",
+      "link": "https://www.npr.org/2026/04/17/g-s1-117800/up-first-newsletter-israel-hezbollah-strait-of-hormuz-cdc-erica-schwartz-immigration-dhs",
+      "time": "Il y a 52 min",
+      "pubDate": 1776424008.0
+    },
+    {
+      "id": "BBC News--7104408385203696630",
       "source": "BBC News",
       "title": "Finance ministers and top bankers raise serious concerns about Mythos AI model",
       "excerpt": "Experts say Mythos potentially has an unprecedented ability to identify and exploit cyber-security weaknesses.",
       "link": "https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 40 min",
+      "time": "Il y a 1h",
       "pubDate": 1776421366.0
     },
     {
-      "id": "NPR-7739537445387954632",
+      "id": "NPR-4535615883073322496",
       "source": "NPR",
       "title": "Who says they have no fear of the Trump administration? The quiz knows",
       "excerpt": "Also: If you know what Eric Swalwell looks like, you'll get at least one question correct.",
@@ -291,7 +297,7 @@
       "pubDate": 1776416460.0
     },
     {
-      "id": "NPR-2979379708335954030",
+      "id": "NPR-3193863762747044643",
       "source": "NPR",
       "title": "The Labor Department wants to teach you to use AI more. Here's what we found",
       "excerpt": "The short course provides solid basics for using AI. But it also misidentifies AI products, links out to bad advice and raises ethical concerns about the products it promotes",
@@ -300,7 +306,7 @@
       "pubDate": 1776416400.0
     },
     {
-      "id": "NPR--7811170199965525862",
+      "id": "NPR-3209389790253164968",
       "source": "NPR",
       "title": "Families left reeling after hospitals in blue states drop transgender care for youth",
       "excerpt": "Massachusetts passed laws and joined lawsuits to protect access to gender-affirming care for minors. But faced with the Trump administration's threats, some hospitals voluntarily stopped care.",
@@ -309,7 +315,7 @@
       "pubDate": 1776416400.0
     },
     {
-      "id": "NPR--3869199558876259214",
+      "id": "NPR--8427978738994448179",
       "source": "NPR",
       "title": "Do less, ask for more: How to make life easier as a working parent",
       "excerpt": "Going back to work after having a baby can be overwhelming. You're juggling all the emotions of being a new parent while getting up to speed at your job. Tips to help you make a smooth transition.",
@@ -318,7 +324,7 @@
       "pubDate": 1776416400.0
     },
     {
-      "id": "NPR-3817302422082870633",
+      "id": "NPR-1101083359330236211",
       "source": "NPR",
       "title": "Logjam of U.S. immigration applications puts millions at greater risk of deportation",
       "excerpt": "An NPR analysis shows how immigrants' attempts to live or work legally in the U.S. are caught in a bureaucratic morass.",
@@ -327,7 +333,7 @@
       "pubDate": 1776416400.0
     },
     {
-      "id": "NPR--625519719713612231",
+      "id": "NPR-8503868972002248282",
       "source": "NPR",
       "title": "Human rights groups raise alarm over fate of Salvadorans deported from U.S.",
       "excerpt": "Migrants deported from the U.S. routinely disappear into El Salvador's prisons the moment they land or in the weeks that follow. Many remain incommunicado from family and lawyers for  years.",
@@ -336,151 +342,142 @@
       "pubDate": 1776416400.0
     },
     {
-      "id": "NPR--8344313412636761777",
+      "id": "NPR-4663553677263248174",
       "source": "NPR",
       "title": "Morning news brief",
       "excerpt": "Israel and Lebanon agree to 10-day ceasefire, U.S. military officials say the blockade of Iranian ports and ceasefire is holding, Trump nominates former Coast Guard doctor as CDC chief.",
       "link": "https://www.npr.org/2026/04/17/nx-s1-5780738/morning-news-brief",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1776415369.0
     },
     {
-      "id": "BBC News--3992706851054878093",
+      "id": "NPR--6600493226802672265",
+      "source": "NPR",
+      "title": "Woman remembers her childhood babysitter -- Prince",
+      "excerpt": "For StoryCorps, a family that lived near Prince in Minnesota remembers the artist in his early years -- as their babysitter.",
+      "link": "https://www.npr.org/2026/04/17/nx-s1-5784792/woman-remembers-her-childhood-babysitter-prince",
+      "time": "Il y a 3h",
+      "pubDate": 1776415288.0
+    },
+    {
+      "id": "BBC News--514133311365199697",
       "source": "BBC News",
       "title": "Three charged with arson on Persian media offices in London",
       "excerpt": "Two teenagers and a 21-year-old man are due in court charged with arson with intent to endanger life.",
       "link": "https://www.bbc.com/news/articles/cwyv24lx1r8o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1776414153.0
     },
     {
-      "id": "BBC News-2424793704871887462",
+      "id": "BBC News-1130436243918197071",
       "source": "BBC News",
       "title": "Singer D4vd arrested on suspicion of murdering teenage girl",
       "excerpt": "The remains of 14-year-old Celeste Rivas Hernandez were found in the singer's car last year.",
       "link": "https://www.bbc.com/news/articles/c20d22ev21wo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1776413750.0
     },
     {
-      "id": "NPR-4480633916325956474",
+      "id": "NPR-7605846629794602655",
       "source": "NPR",
       "title": "Trump rails against court decision that once again stalls his White House ballroom project",
       "excerpt": "The federal judge's decision continues to block above-ground construction on the $400 million White House ballroom, allowing only below-ground work on a bunker and other \"national security facilities\"...",
       "link": "https://www.npr.org/2026/04/17/nx-s1-5788576/trump-rails-against-court-decision-that-once-again-stalls-his-white-house-ballroom-project",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1776413279.0
     },
     {
-      "id": "NPR--6452970897263479175",
-      "source": "NPR",
-      "title": "House extends surveillance powers for 10 days",
-      "excerpt": "Earlier in the morning GOP leaders had pushed for either a five-year renewal or the 18-month renewal President Trump had demanded, but both votes tanked.",
-      "link": "https://www.npr.org/2026/04/17/nx-s1-5788573/house-extends-surveillance-powers-for-10-days",
-      "time": "Il y a 3h",
-      "pubDate": 1776412531.0
-    },
-    {
-      "id": "The Guardian-4834094410745152237",
+      "id": "The Guardian--8456727374484720190",
       "source": "The Guardian",
       "title": "Weather tracker: hail covers parts of Tunisia and Algeria like snow",
       "excerpt": "Accumulations of up to 3cm deep reported as severe thunderstorms also bring heavy downpours to central Italy Severe thunderstorms have affected the Mediterranean this week. On Monday, a surface low-pr...",
       "link": "https://www.theguardian.com/environment/2026/apr/17/weather-tracker-hail-covers-parts-of-tunisia-and-algeria-like-snow",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1776412179.0
     },
     {
-      "id": "NPR-5107611820043444457",
-      "source": "NPR",
-      "title": "ICE acting director Todd Lyons will resign at end of May, DHS says",
-      "excerpt": "U.S. Immigration and Customs Enforcement acting director Todd Lyons, a key executor of President Donald Trump's mass deportations agenda, will resign at the end of May, federal officials announced.",
-      "link": "https://www.npr.org/2026/04/17/g-s1-117780/ice-acting-director-lyons-will-resign-at-end-of-may",
-      "time": "Il y a 5h",
-      "pubDate": 1776402655.0
-    },
-    {
-      "id": "BBC News-5613808536165071548",
+      "id": "BBC News--4595650123816277873",
       "source": "BBC News",
       "title": "Runaway wolf finally captured after nine-day search in South Korea",
       "excerpt": "The search has been marked by twists and turns, gripping South Korea and even inspiring a meme coin.",
       "link": "https://www.bbc.com/news/articles/cn08p8nzejko?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1776396129.0
     },
     {
-      "id": "BBC News-1254070820579081647",
+      "id": "BBC News--1621382349378172825",
       "source": "BBC News",
       "title": "Iranian footballers say Australia has given them 'hope' for safe future",
       "excerpt": "The duo had sought aslyum after their football team did not sing the national anthem during a match.",
       "link": "https://www.bbc.com/news/articles/c624x4xgw6xo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 10h",
+      "time": "Il y a 11h",
       "pubDate": 1776385838.0
     },
     {
-      "id": "BBC News--5978802067855271012",
+      "id": "BBC News-1433265598909599570",
       "source": "BBC News",
       "title": "'I was tortured and lost my hand' - one student's struggle to get an education in Nigeria",
       "excerpt": "The BBC speaks to a student who pushed for his toe print to be taken to verify his identity.",
       "link": "https://www.bbc.com/news/articles/c9d4nnpw8w2o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 11h",
+      "time": "Il y a 12h",
       "pubDate": 1776383693.0
     },
     {
-      "id": "BBC News-1147307243707053206",
+      "id": "BBC News--1849910453940658336",
       "source": "BBC News",
       "title": "Trump's Lebanon ceasefire takes Israel by surprise",
       "excerpt": "Few Israelis see this truce as a way out of the conflict with Hezbollah, the BBC's Lucy Williamson writes.",
       "link": "https://www.bbc.com/news/articles/cje4pn575jgo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 12h",
+      "time": "Il y a 13h",
       "pubDate": 1776380159.0
     },
     {
-      "id": "BBC News--346825006860973012",
+      "id": "BBC News--1767704469690272544",
       "source": "BBC News",
       "title": "Pope criticises 'tyrants' who spend billions on wars after Trump spat",
       "excerpt": "The comments follow a high-profile spat with US President Donald Trump, who called the Pope weak on crime.",
       "link": "https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 16h",
+      "time": "Il y a 17h",
       "pubDate": 1776364845.0
     },
     {
-      "id": "BBC News-7438529376968460381",
+      "id": "BBC News-7887370781152971261",
       "source": "BBC News",
       "title": "Naples bank robbers hold 25 people hostage then vanish through tunnel",
       "excerpt": "The armed men reportedly evaded capture by escaping through the city's sewer system.",
       "link": "https://www.bbc.com/news/articles/c05d216rj85o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 17h",
+      "time": "Il y a 18h",
       "pubDate": 1776360286.0
     },
     {
-      "id": "BBC News-6615454640002852080",
+      "id": "BBC News--7643026834911750572",
       "source": "BBC News",
       "title": "Turkish police detain 162 people over online posts about school shootings",
       "excerpt": "At least 16 people were injured in a shooting at a high school on Tuesday, before another nine were killed in a separate school shooting on Wednesday.",
       "link": "https://www.bbc.com/news/articles/cz9025d7jqzo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 19h",
+      "time": "Il y a 20h",
       "pubDate": 1776353003.0
     },
     {
-      "id": "The Guardian-4704428585010490673",
+      "id": "The Guardian--1397138589117085536",
       "source": "The Guardian",
       "title": "South African politician Julius Malema given five-year jail term for gun offence",
       "excerpt": "Leader of leftwing Economic Freedom Fighters was convicted last year for firing rifle in the air at 2018 rally The South African leftwing politician <a href=\"https://www.theguardian.com/world/julius-m...",
       "link": "https://www.theguardian.com/world/2026/apr/16/south-africa-julius-malema-jail-term-rifle",
-      "time": "Il y a 22h",
+      "time": "Il y a 23h",
       "pubDate": 1776343069.0
     },
     {
-      "id": "The Guardian--6303682586303016787",
+      "id": "The Guardian--8327917426434515084",
       "source": "The Guardian",
       "title": "Pedro Pascal v Pedro Piscal: actor in legal battle with Chilean spirit brand",
       "excerpt": "Pedro Piscal pisco is latest Chilean brand to resemble a Hollywood name – and others have fought off the lawsuits The actor <a href=\"https://www.theguardian.com/culture/pedro-pascal\">Pedro Pascal</a>...",
       "link": "https://www.theguardian.com/world/2026/apr/16/pedro-pascal-pedro-piscal-actor-spirit-brand-legal-battle-chile",
-      "time": "Il y a 23h",
+      "time": "Il y a 1j",
       "pubDate": 1776339213.0
     },
     {
-      "id": "The Guardian-1936419594411456483",
+      "id": "The Guardian-529516822886374600",
       "source": "The Guardian",
       "title": "US launches fifth strike on alleged Pacific drug boat in a week, killing three",
       "excerpt": "Wednesday’s strike brings the total of those killed in US military strikes on alleged drug boats to at least 177 Three people were killed in a US strike on another alleged drug-trafficking boat, the f...",
@@ -489,7 +486,7 @@
       "pubDate": 1776311792.0
     },
     {
-      "id": "The Guardian--4410257242127163219",
+      "id": "The Guardian--6331494577248948878",
       "source": "The Guardian",
       "title": "More than £1bn pledged for Sudan as humanitarian crisis deepens",
       "excerpt": "Donors exceed funding target at Berlin conference but prospects for ceasefire remain distant More than £1bn (€1.15bn) has been pledged for war-ravaged Sudan at a conference in Berlin, eclipsing the fu...",
@@ -498,7 +495,7 @@
       "pubDate": 1776275344.0
     },
     {
-      "id": "The Guardian-5471938106023451173",
+      "id": "The Guardian-2028741160814046568",
       "source": "The Guardian",
       "title": "Suspicion surrounds death of US influencer Ashly Robinson in Zanzibar",
       "excerpt": "Lifestyle influencer died while on vacation with boyfriend, who local officials say has since had his passport ‘withheld’ Ashly Robinson, a US lifestyle influencer, died last week while on vacation in...",
@@ -507,7 +504,7 @@
       "pubDate": 1776266053.0
     },
     {
-      "id": "The Guardian--7405894363002121027",
+      "id": "The Guardian-7837029497883288034",
       "source": "The Guardian",
       "title": "South Africa names apartheid-era negotiator as ambassador to US",
       "excerpt": "Appointment of Roelf Meyer seen as attempt to improve relations amid false US accusations of ‘white genocide’ South Africa has appointed a former apartheid government chief negotiator during the talks...",
@@ -516,7 +513,7 @@
       "pubDate": 1776265475.0
     },
     {
-      "id": "The Guardian-8315638335522267563",
+      "id": "The Guardian--9168642928048674398",
       "source": "The Guardian",
       "title": "Sheinbaum vows to ‘defend Mexicans at every level’ amid anger at Trump over migrant deaths",
       "excerpt": "Sheinbaum has recently been taking a firmer stance with the US, defying pressures where other countries have caved The Mexican government has voiced concern about the deaths of its citizens in US cust...",
@@ -525,7 +522,7 @@
       "pubDate": 1776217847.0
     },
     {
-      "id": "The Guardian--2033322581411316845",
+      "id": "The Guardian-1039224921879504838",
       "source": "The Guardian",
       "title": "Carney says it’s Canada’s ‘time to come together’ after Liberals secure majority",
       "excerpt": "Byelection wins and defections push Canada’s Liberals into majority government under the prime minister <a href=\"https://www.theguardian.com/world/mark-carney\">Mark Carney</a> has said he will govern...",
@@ -534,7 +531,7 @@
       "pubDate": 1776180999.0
     },
     {
-      "id": "The Guardian-1873413273632178998",
+      "id": "The Guardian--7196976978868134660",
       "source": "The Guardian",
       "title": "Bahamas police release Michigan man questioned after wife disappeared from their boat",
       "excerpt": "Brian Hooker told police that Lynette Hooker fell overboard and that strong currents carried her away Police in the <a href=\"https://www.theguardian.com/world/bahamas\">Bahamas</a> have released withou...",
@@ -543,5 +540,5 @@
       "pubDate": 1776170967.0
     }
   ],
-  "lastUpdate": "2026-04-17T11:03:10.328546"
+  "lastUpdate": "2026-04-17T11:59:07.169822"
 }
