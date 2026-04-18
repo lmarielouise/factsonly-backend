@@ -1,79 +1,169 @@
 {
   "francophone": [
     {
-      "id": "France Info--6436537317335144908",
+      "id": "Libération-3673405571699596293",
+      "source": "Libération",
+      "title": "Saccage de Grasset par Bolloré : la droite, tétanisée ou complice, se tait",
+      "excerpt": "Hormis le chef de l’Etat, le reste des responsables de droite et du bloc central, si prompts d’ordinaire à pleurer sur le délitement de tout, restent silencieux alors que la vitalité intellectuelle et...",
+      "link": "https://www.liberation.fr/politique/saccage-de-grasset-par-bollore-la-droite-tetanisee-ou-complice-se-tait-20260418_GXNT434ENJDJHMWQQFCDGMOMGA/",
+      "time": "Il y a 3 min",
+      "pubDate": 1776527113.0
+    },
+    {
+      "id": "France Info-2191184142199003416",
+      "source": "France Info",
+      "title": "En Ukraine, au moins cinq personnes ont été tuées par balles à Kiev, le tireur \"neutralisé\" après s'être retranché dans un supermarché",
+      "excerpt": "Le nombre de blessés après ces tirs est de dix, selon le chef de l'Etat, Volodymyr Zelensky. \"Le tireur a été neutralisé lors de son arrestation\", a écrit le ministère de l'Intérieur.",
+      "link": "https://www.franceinfo.fr/monde/europe/en-ukraine-un-homme-ouvre-le-feu-dans-un-quartier-de-kiev-et-tue-au-moins-deux-personnes_7948031.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 4 min",
+      "pubDate": 1776527042.0
+    },
+    {
+      "id": "Libération--4356320173045373846",
+      "source": "Libération",
+      "title": "Troublemakers, naissance d’un météore",
+      "excerpt": "Un trio marseillais à l’élégance rare lancé sur un genre typiquement british.",
+      "link": "https://www.liberation.fr/culture/musique/troublemakers-naissance-dun-meteore-20260418_5BXOVH6BVBAWFMZPNT7OXETFWA/",
+      "time": "Il y a 8 min",
+      "pubDate": 1776526800.0
+    },
+    {
+      "id": "Libération-2581266408136931141",
+      "source": "Libération",
+      "title": "Au moins cinq morts dans une fusillade à Kyiv : un suspect abattu",
+      "excerpt": "Un homme s’était retranché dans un supermarché de la capitale ukrainienne après avoir ouvert le feu ce samedi 18 avril dans le quartier de Demyïvka.",
+      "link": "https://www.liberation.fr/international/europe/ukraine-un-homme-a-ouvert-le-feu-dans-un-quartier-de-kyiv-et-fait-plusieurs-morts-20260418_VSEHGDQYZFCNVKUI6NSMKKJLOU/",
+      "time": "Il y a 9 min",
+      "pubDate": 1776526783.0
+    },
+    {
+      "id": "Libération--7634991509150092580",
+      "source": "Libération",
+      "title": "EN DIRECT - Guerre au Moyen-Orient : la confusion règne dans le détroit d’Ormuz, huit pétroliers ont pu le franchir mais au moins deux ont été pris pour cible par la marine iranienne",
+      "excerpt": "L’apaisement a été de courte durée et la confusion règne de nouveau sur le statut du détroit d’Ormuz. Donald Trump a déclaré qu’il maintiendrait le blocus sur les ports iraniens si aucun accord de pai...",
+      "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-liran-menace-de-refermer-le-detroit-dormuz-si-le-blocus-americain-se-poursuit-20260418_PNDZEIMLHNHYZED6M725GDXC4E/",
+      "time": "Il y a 9 min",
+      "pubDate": 1776526757.0
+    },
+    {
+      "id": "Libération-2489615437009591452",
+      "source": "Libération",
+      "title": "Liban : un militaire français de la Finul tué et trois autres blessés dans «une embuscade»",
+      "excerpt": "Emmanuel Macron accuse ce samedi 18 avril le Hezbollah d’être responsable de l’attaque visant des membres de la Finul dans le sud-Liban, au deuxième jour de cessez-le-feu entre le pays et Israël.",
+      "link": "https://www.liberation.fr/international/moyen-orient/liban-un-militaire-francais-de-la-finul-tue-et-trois-autres-blesses-dans-une-embuscade-20260418_XA2UPGWZFBGSVJOSIND3FR7QAA/",
+      "time": "Il y a 12 min",
+      "pubDate": 1776526596.0
+    },
+    {
+      "id": "France Info--2822956560230548898",
+      "source": "France Info",
+      "title": "\"Pris dans une embuscade par un groupe armé\" : ce que l'on sait de la mort d'un Casque bleu français dans le sud du Liban",
+      "excerpt": "Le sergent-chef Florian Montorio intervenait dans le sud du pays, au sein de la Force intérimaire des Nations unies au Liban. Pointé du doigt par Emmanuel Macron, le Hezbollah a démenti être à l'origi...",
+      "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/pris-dans-une-embuscade-par-un-groupe-arme-ce-que-l-on-sait-de-la-mort-d-un-casque-bleu-francais-dans-le-sud-du-liban_7947947.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 20 min",
+      "pubDate": 1776526113.0
+    },
+    {
+      "id": "Le Monde-8619863198491249601",
+      "source": "Le Monde",
+      "title": "Rassemblement de l’extrême droite européenne à Milan",
+      "excerpt": "Les Patriotes pour l’Europe, un groupe politique du Parlement européen, a donné rendez-vous à ses partisans samedi pour évoquer, notamment, « l’immigration » et les « normes toujours plus importantes...",
+      "link": "https://www.lemonde.fr/international/article/2026/04/18/rassemblement-de-l-extreme-droite-europeenne-a-milan_6681163_3210.html",
+      "time": "Il y a 23 min",
+      "pubDate": 1776525929.0
+    },
+    {
+      "id": "Libération-1865707309766052232",
+      "source": "Libération",
+      "title": "Mort de Nathalie Baye : l’art du grand écart d’une star discrète",
+      "excerpt": "De Truffaut à Tonie Marshall, en passant par Godard, Spielberg, Balasko… La comédienne aux quatre césars, incontournable du cinéma français durant cinq décennies, est morte vendredi chez elle à Paris,...",
+      "link": "https://www.liberation.fr/culture/cinema/lactrice-nathalie-baye-est-morte-annonce-sa-famille-20260418_TY5KFD6UO5DZZFWU4UFIIQOHTI/",
+      "time": "Il y a 27 min",
+      "pubDate": 1776525672.0
+    },
+    {
+      "id": "Le Monde-3499117646344472286",
+      "source": "Le Monde",
+      "title": "En Cisjordanie, un Palestinien « armé d’un couteau » tué par la milice de défense de la colonie",
+      "excerpt": "Un homme de 25 ans originaire d’un village palestinien des environs a été abattu par des tirs israéliens dans la zone d’une colonie juive du sud de la Cisjordanie, à l’ouest de la ville d’Hébron.",
+      "link": "https://www.lemonde.fr/international/article/2026/04/18/en-cisjordanie-un-palestinien-arme-d-un-couteau-tue-par-la-milice-de-defense-de-la-colonie_6681162_3210.html",
+      "time": "Il y a 34 min",
+      "pubDate": 1776525281.0
+    },
+    {
+      "id": "Le Monde--6846801364428539865",
+      "source": "Le Monde",
+      "title": "EN DIRECT, guerre au Moyen-Orient : le Hezbollah nie toute implication dans l’attaque contre des casques bleus, après la mort d’un soldat français",
+      "excerpt": "Le président français a estimé plus tôt samedi que « tout laiss[ait] à penser » que le Hezbollah était responsable de l’attaque, la Finul retenant également la même piste.",
+      "link": "https://www.lemonde.fr/international/live/2026/04/18/en-direct-guerre-au-moyen-orient-le-hezbollah-nie-toute-implication-dans-l-attaque-contre-des-casques-bleus-qui-a-provoque-la-mort-d-un-francais_6679867_3210.html",
+      "time": "Il y a 42 min",
+      "pubDate": 1776524761.0
+    },
+    {
+      "id": "Libération-3542280784148184190",
+      "source": "Libération",
+      "title": "Cédric Sapin-Defour, auteur : «Le plus flatteur serait de partir, mais je décide de rester chez Stock»",
+      "excerpt": "L’écrivain et alpiniste publie dans deux maisons d’édition du groupe Hachette de Vincent Bolloré. Il explique pourquoi il continue de travailler avec eux et pose une limite : que l’on touche un cheveu...",
+      "link": "https://www.liberation.fr/idees-et-debats/tribunes/cedric-sapin-defour-auteur-le-plus-flatteur-serait-de-partir-mais-je-decide-de-rester-chez-stock-20260418_O6XJUBYG2ZBAHCG45CT2EBFJRQ/",
+      "time": "Il y a 45 min",
+      "pubDate": 1776524580.0
+    },
+    {
+      "id": "France Info-706975211270905457",
       "source": "France Info",
       "title": "Un militaire français tué au Liban et trois autres blessés après une attaque contre des Casques bleus, annonce Emmanuel Macron",
-      "excerpt": "Le sergent-chef Florian Montorio est mort dans la région de Deir-Kifa. Selon le chef de l'Etat, \"tout laisse à penser que la responsabilité de cette attaque incombe au Hezbollah\", ce que dément le gro...",
+      "excerpt": "",
       "link": "https://www.franceinfo.fr/monde/proche-orient/guerre/un-militaire-francais-tue-au-liban-et-trois-autres-blesses-apres-une-attaque-contre-des-casques-bleus-annonce-emmanuel-macron_7947893.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 5 min",
+      "time": "Il y a 51 min",
       "pubDate": 1776524250.0
     },
     {
-      "id": "Libération-7500377139952464106",
-      "source": "Libération",
-      "title": "EN DIRECT - Guerre au Moyen-Orient : un soldat français tué au Liban, le Hezbollah dément toute responsabilité malgré les accusation de Macron et de la Finul",
-      "excerpt": "L’apaisement a été de courte durée et la confusion règne de nouveau sur le statut du détroit d’Ormuz. Donald Trump a déclaré qu’il maintiendrait le blocus sur les ports iraniens si aucun accord de pai...",
-      "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-liran-menace-de-refermer-le-detroit-dormuz-si-le-blocus-americain-se-poursuit-20260418_PNDZEIMLHNHYZED6M725GDXC4E/",
-      "time": "Il y a 7 min",
-      "pubDate": 1776524140.0
-    },
-    {
-      "id": "France Info-4716766146747112754",
+      "id": "France Info--1969232064983525087",
       "source": "France Info",
       "title": "Guerre au Moyen-Orient : l'Iran examine de \"nouvelles propositions\" des Etats-Unis et ne fera \"aucun compromis\"",
       "excerpt": "",
       "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-l-iran-menace-de-refermer-le-detroit-d-ormuz-si-les-etats-unis-maintiennent-leur-blocus-des-ports-iraniens_7947599.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 9 min",
+      "time": "Il y a 55 min",
       "pubDate": 1776524000.0
     },
     {
-      "id": "France Info-1837064987548767963",
+      "id": "France Info-6670792207464509565",
       "source": "France Info",
       "title": "Mort de Nathalie Baye : Josiane Balasko, Nicole Garcia, Isabelle Adjani... Le monde du cinéma rend hommage à l'actrice aux quatre César",
       "excerpt": "La comédienne de 77 ans est morte vendredi des suites de la maladie à corps de Lewy, une pathologie neurodégénérative.",
       "link": "https://www.franceinfo.fr/culture/cinema/mort-de-nathalie-baye-la-ministre-de-la-culture-salue-la-disparition-d-une-immense-actrice_7947686.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 27 min",
+      "time": "Il y a 1h",
       "pubDate": 1776522908.0
     },
     {
-      "id": "Le Monde-3274260450777851032",
+      "id": "Le Monde-5918500568484895487",
       "source": "Le Monde",
       "title": "Le pape Léon XIV regrette que ses propos tenus en Afrique soient interprétés comme une réponse aux critiques de Donald Trump",
       "excerpt": "Le souverain pontife a assuré que son discours sur les « tyrans » qui « ravagent le monde », perçu comme une allusion au président des Etats-Unis, avait été écrit « bien avant » les critiques du milli...",
       "link": "https://www.lemonde.fr/international/article/2026/04/18/le-pape-leon-xiv-regrette-que-ses-propos-tenus-en-afrique-soient-interpretes-comme-une-reponse-aux-critiques-de-donald-trump_6681160_3210.html",
-      "time": "Il y a 29 min",
+      "time": "Il y a 1h",
       "pubDate": 1776522826.0
     },
     {
-      "id": "Le Monde--795530796857601108",
-      "source": "Le Monde",
-      "title": "EN DIRECT, guerre en Ukraine : un mort à Donetsk et des dizaines de blessés dans le Nord et l’Est ; plus de 200 attaques de drones russes signalées par Kiev",
-      "excerpt": "Les défenses anti-aériennes ukrainiennes affirment avoir abattu ou neutralisé 190 de ces appareils. De leur côté, les Russes ont déclaré avoir intercepté plus de 250 drones ukrainiens dans la nuit de...",
-      "link": "https://www.lemonde.fr/international/live/2026/04/18/en-direct-guerre-en-ukraine-un-mort-a-donetsk-et-des-dizaines-de-blesses-dans-le-nord-et-l-est-plus-de-200-attaques-de-drones-russes-signalees-par-kiev_6679492_3210.html",
-      "time": "Il y a 55 min",
-      "pubDate": 1776521246.0
-    },
-    {
-      "id": "Libération-3006878302305972784",
+      "id": "Libération--1869124508073443524",
       "source": "Libération",
       "title": "Leslie Cheung, HK confidentiel",
       "excerpt": "De sabre ou de romance, trois films exhumés et édités en Blu-ray montrent les débuts au cinéma de l’acteur hongkongais adulé, mort en 2003.",
       "link": "https://www.liberation.fr/culture/cinema/leslie-cheung-hk-confidentiel-20260418_Z3I7M34NTBGA7E7R2CNF4YKADE/",
-      "time": "Il y a 55 min",
+      "time": "Il y a 1h",
       "pubDate": 1776521220.0
     },
     {
-      "id": "Libération-1803821641165813874",
+      "id": "Libération-7977781791053375404",
       "source": "Libération",
       "title": "«On ne sait plus où on est, qui on est» : qu’est-ce que la maladie à corps de Lewy, dont souffrait Nathalie Baye ?",
       "excerpt": "Cette maladie neurodégénérative, la deuxième plus fréquente après Alzheimer, comprend une grande variété de symptômes cognitifs et concerne environ 250 000 personnes en France. La comédienne de 77 ans...",
       "link": "https://www.liberation.fr/societe/sante/on-ne-sait-plus-ou-on-est-qui-on-est-quest-ce-que-la-maladie-a-corps-de-lewy-dont-souffrait-nathalie-baye-20260418_YEQB6PGZPNFCVCB4NXRFFC4OSY/",
-      "time": "Il y a 56 min",
+      "time": "Il y a 1h",
       "pubDate": 1776521198.0
     },
     {
-      "id": "France Info-4075812879813156902",
+      "id": "France Info-2931155480136124415",
       "source": "France Info",
       "title": "\"C'est une capitulation totale à l'Iran et aux Etats-Unis\" : pourquoi le cessez-le-feu au Liban fragilise le Premier ministre israélien Benyamin Nétanyahou",
       "excerpt": "",
@@ -82,7 +172,7 @@
       "pubDate": 1776520779.0
     },
     {
-      "id": "France Info-6939856125738458111",
+      "id": "France Info--8598995520711934003",
       "source": "France Info",
       "title": "Mort d'un soldat français au Liban : \"Le Hezbollah n'a pas l'intention de voir des Casques bleus s'ingérer dans les combats\" avec l'armée israélienne, selon le général Trinquand",
       "excerpt": "",
@@ -91,7 +181,7 @@
       "pubDate": 1776520691.0
     },
     {
-      "id": "Libération-3925608525301115087",
+      "id": "Libération-6461565771324218567",
       "source": "Libération",
       "title": "Prostitution : la France doit poursuivre son engagement abolitionniste",
       "excerpt": "On estime aujourd’hui à 40 000 le nombre de victimes de proxénétisme en France, dont plus de la moitié seraient mineures. Pour l’association Equipe d’action contre le proxénétisme, la loi de 2016 inst...",
@@ -100,70 +190,16 @@
       "pubDate": 1776520358.0
     },
     {
-      "id": "Libération-986977190748490345",
-      "source": "Libération",
-      "title": "Cécile de France : «Jamiroquai, il n’avait pas dansé, j’étais fâchée»",
-      "excerpt": "",
-      "link": "https://www.liberation.fr/culture/musique/cecile-de-france-jamiroquai-il-navait-pas-danse-jetais-fachee-20260418_OTO5UJHRBRDMLD64XHZEU2ZIXA/",
-      "time": "Il y a 1h",
-      "pubDate": 1776520020.0
-    },
-    {
-      "id": "France Info--6625104123373963365",
+      "id": "France Info-7921151678682351601",
       "source": "France Info",
       "title": "En Bulgarie, l'ancien président pro-russe favori des élections législatives malgré les envies de changement de la jeune génération",
       "excerpt": "La Bulgarie vote dimanche pour la 8e fois en cinq ans. Une partie de la population, notamment la jeune génération, a envie de renouvellement à la tête du pays. Fragilisé par les manifestations de déce...",
       "link": "https://www.franceinfo.fr/monde/europe/en-bulgarie-l-ancien-president-pro-russe-favori-des-elections-legislatives-malgre-les-envies-de-changement-de-la-jeune-generation_7943354.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1776519994.0
     },
     {
-      "id": "France Info-5861902547655145968",
-      "source": "France Info",
-      "title": "\"Top Hat\" au Théâtre du Châtelet à Paris : nous avons testé l'atelier claquettes de la comédie musicale avant la première",
-      "excerpt": "Avant chacune des vingt représentations, un cours est proposé dans un studio du théâtre pour découvrir la discipline. Idéal pour apprécier à leur juste valeur les prouesses des artistes sur scène.",
-      "link": "https://www.franceinfo.fr/culture/spectacles/comedies-musicales/top-hat-au-theatre-du-chatelet-a-paris-nous-avons-teste-l-atelier-claquettes-de-la-comedie-musicale-avant-la-premiere_7940747.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
-      "pubDate": 1776519966.0
-    },
-    {
-      "id": "Libération-6765284897658460930",
-      "source": "Libération",
-      "title": "Enquête sur X : Elon Musk convoqué lundi devant la justice française",
-      "excerpt": "Le multimilliardaire américain est attendu lundi 20 avril, en audition libre, à Paris. Des perquisitions avaient eu lieu en février pour des soupçons de complicité «de détention d’images» à «caractère...",
-      "link": "https://www.liberation.fr/international/amerique/enquete-sur-x-elon-musk-convoque-lundi-devant-la-justice-francaise-20260418_23XI3DSKOBFBPBISN6MJTIJU3U/",
-      "time": "Il y a 1h",
-      "pubDate": 1776519734.0
-    },
-    {
-      "id": "Libération-1681046867117073318",
-      "source": "Libération",
-      "title": "En Bulgarie, la peur des ingérences étrangères écrase la campagne électorale",
-      "excerpt": "Grand favori du scrutin législatif du dimanche 19 avril, l’ex-président prorusse Roumen Radev dénigre allégrement l’UE, alimentant un combat entre lui et les pro-européens, où chacun s’accuse réciproq...",
-      "link": "https://www.liberation.fr/international/europe/en-bulgarie-la-peur-des-ingerences-etrangeres-ecrase-la-campagne-electorale-20260418_JNXDFSZDEVGH3JTJMGJ6KZWUWE/",
-      "time": "Il y a 1h",
-      "pubDate": 1776519120.0
-    },
-    {
-      "id": "Libération-5250580245201654013",
-      "source": "Libération",
-      "title": "Plans cul, «jolis mômes» et «vices infâmes» : les dessous sexuels du bagne",
-      "excerpt": "Fermé il y a plus de soixante-dix ans, l’enfer pénitentiaire fut le théâtre de pratiques troubles, marqué par les violences, dont un ouvrage paru cette semaine dresse le tableau cru et cruel.",
-      "link": "https://www.liberation.fr/lifestyle/intimites/plans-cul-jolis-momes-et-vices-infames-les-dessous-sexuels-du-bagne-20260418_6XJLIWKZGZBPFOBEHFPT3EKAGE/",
-      "time": "Il y a 1h",
-      "pubDate": 1776517500.0
-    },
-    {
-      "id": "Libération-2090061513578709549",
-      "source": "Libération",
-      "title": "Liban : un militaire français de la Finul tué et trois autres blessés dans «une embuscade»",
-      "excerpt": "Emmanuel Macron accuse ce samedi 18 avril le Hezbollah d’être responsable de l’attaque visant des membres de la Finul dans le sud-Liban, au deuxième jour de cessez-le-feu entre le pays et Israël.",
-      "link": "https://www.liberation.fr/international/moyen-orient/liban-un-militaire-francais-de-la-finul-tue-et-trois-autres-blesses-dans-une-embuscade-20260418_XA2UPGWZFBGSVJOSIND3FR7QAA/",
-      "time": "Il y a 2h",
-      "pubDate": 1776517023.0
-    },
-    {
-      "id": "Le Monde-1204810294198147224",
+      "id": "Le Monde-7262348260514569989",
       "source": "Le Monde",
       "title": "« Nous, autrices et auteurs publiés par Stock, assistons consternés à la destruction de notre maison-sœur, Grasset »",
       "excerpt": "Dans une tribune au « Monde », plus de cent écrivains publiés par Stock, détenue comme Grasset par le groupe Lagardère, dénoncent la récente éviction d’Olivier Nora. Ils annoncent également être prêts...",
@@ -172,25 +208,16 @@
       "pubDate": 1776516727.0
     },
     {
-      "id": "Le Monde--1780326130645259363",
+      "id": "Le Monde--7452644831697035412",
       "source": "Le Monde",
       "title": "Pourquoi l’amélioration du bien-être animal a quasiment disparu de l’agenda européen",
       "excerpt": "Une vaste révision législative, qui devait notamment interdire l’élevage en cage, est attendue depuis plus de deux ans. Depuis les manifestations agricoles de l’hiver 2023-2024, la protection animale...",
       "link": "https://www.lemonde.fr/planete/article/2026/04/18/pourquoi-l-amelioration-du-bien-etre-animal-a-quasiment-disparu-de-l-agenda-europeen_6681152_3244.html",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1776515407.0
     },
     {
-      "id": "Libération--3990096372800746961",
-      "source": "Libération",
-      "title": "Les groupes de parole de Terreur Graphique : «Bonjour, je m’appelle… Jean-Pat Bolo»",
-      "excerpt": "Parce que ça va mieux en le disant, tour d’horizon des groupes de parole.",
-      "link": "https://www.liberation.fr/culture/bd/les-groupes-de-parole-de-terreur-graphique-bonjour-je-mappelle-jean-pat-bolo-20260418_FHPGQIQ4LREPPHYWCFCW4ZH4A4/",
-      "time": "Il y a 2h",
-      "pubDate": 1776515100.0
-    },
-    {
-      "id": "Le Monde--3292154984708606284",
+      "id": "Le Monde-4555196492843850078",
       "source": "Le Monde",
       "title": "Le RN remporte ses premières intercommunalités et développe discrètement son maillage territorial",
       "excerpt": "Après avoir conquis plusieurs dizaines de communes lors des municipales des 15 et 22 mars, le Rassemblement national a pris la tête de cinq établissements publics de coopération intercommunale. De pré...",
@@ -199,43 +226,25 @@
       "pubDate": 1776513609.0
     },
     {
-      "id": "Le Monde--6951050111723946614",
-      "source": "Le Monde",
-      "title": "EN DIRECT, guerre au Moyen-Orient : Emmanuel Macron annonce la mort d’un soldat français dans une attaque contre des casques bleus au Liban",
-      "excerpt": "« Tout laisse à penser que la responsabilité incombe au Hezbollah », a précisé le chef de l’Etat, en ajoutant que trois autres soldats avaient été blessés. Le premier ministre libanais a condamné cett...",
-      "link": "https://www.lemonde.fr/international/live/2026/04/18/en-direct-guerre-au-moyen-orient-le-guide-supreme-iranien-menace-les-etats-unis-et-israel-des-bateaux-iraniens-ouvrent-le-feu-sur-un-petrolier-dans-le-detroit-d-ormuz_6679867_3210.html",
-      "time": "Il y a 3h",
-      "pubDate": 1776511947.0
-    },
-    {
-      "id": "Le Monde-1680778894111158156",
+      "id": "Le Monde--209654024262340198",
       "source": "Le Monde",
       "title": "Le Printemps de Bourges ne fait pas ses 50 ans",
       "excerpt": "Du 14 au 19 avril, la manifestation célèbre son demi-siècle avec des révélations, du rap au reggae, et une création de Dominique A et Philippe Katherine.",
       "link": "https://www.lemonde.fr/culture/article/2026/04/18/le-printemps-de-bourges-ne-fait-pas-ses-50-ans_6681146_3246.html",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1776511852.0
     },
     {
-      "id": "Le Monde--8603321004980881138",
+      "id": "Le Monde-6168931051025305915",
       "source": "Le Monde",
       "title": "Mort de Nathalie Baye : Emmanuel Macron salue « une comédienne avec qui nous avons aimé, rêvé, grandi » ; Catherine Pégard rend hommage à une « immense actrice »",
       "excerpt": "A l’annonce de la mort de l’actrice multicésarisée, des suites de la maladie à corps de Lewy, les réactions des personnalités politiques et de la culture se multiplient.",
       "link": "https://www.lemonde.fr/culture/article/2026/04/18/mort-de-nathalie-baye-emmanuel-macron-salue-une-comedienne-avec-qui-nous-avons-aime-reve-grandi-catherine-pegard-rend-hommage-a-une-immense-actrice_6681140_3246.html",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1776505025.0
     },
     {
-      "id": "Le Monde--2266838326002527106",
-      "source": "Le Monde",
-      "title": "Quiz culture générale : que savez-vous de ces huit femmes illustres ?",
-      "excerpt": "Françoise Giroud, Hannah Arendt, Marie Curie… Des femmes qui ont marqué notre époque. Mais les connaissez-vous bien ? Mémorable, l’application de culture générale du « Monde », vous propose un quiz en...",
-      "link": "https://www.lemonde.fr/culture/article/2026/04/18/quiz-que-savez-vous-de-ces-huit-femmes-illustres_6112391_3247.html",
-      "time": "Il y a 5h",
-      "pubDate": 1776503424.0
-    },
-    {
-      "id": "Le Monde--891198019240494814",
+      "id": "Le Monde-1253369092479295344",
       "source": "Le Monde",
       "title": "Les nouveaux experts en royauté : « Maria Carolina de Bourbon des Deux-Siciles, c’est une influenceuse ou une princesse ? »",
       "excerpt": "Dans sa chronique, Guillemette Faure met en lumière les transformations invisibles de notre époque. Cette semaine, les débats aristocratiques suscités par l’idylle entre Jordan Bardella et l’héritière...",
@@ -244,81 +253,72 @@
       "pubDate": 1776499202.0
     },
     {
-      "id": "France Info-3030677678634423223",
+      "id": "France Info--4668881601925201066",
       "source": "France Info",
       "title": "Hachette, Grasset, JC Lattès, Fayard, Larousse... Visualisez la galaxie Bolloré dans le monde de l'édition",
       "excerpt": "En détenant le mastodonte Hachette, numéro un français des livres, le milliardaire pèse pour près de la moitié du chiffre d'affaires annuel du secteur. Décryptage de l'empire Bolloré, alors que le Fes...",
       "link": "https://www.franceinfo.fr/culture/livres/infographies-hachette-grasset-jc-lattes-fayard-larousse-visualisez-la-galaxie-bollore-dans-le-monde-de-l-edition_7943414.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 9h",
+      "time": "Il y a 10h",
       "pubDate": 1776489028.0
     },
     {
-      "id": "France Info--6239924781070050038",
+      "id": "France Info-8281301095404376604",
       "source": "France Info",
       "title": "Gare de Lyon fermée, trains détournés, RER perturbé... Pourquoi le week-end du 1er-Mai s'annonce perturbé dans les transports à Paris",
       "excerpt": "Aucun train ne circulera à la gare de Lyon, à Paris, pendant près de trois jours, en plein week-end prolongé. La SNCF va mener d'importants travaux de modernisation de son réseau, qui affecteront auss...",
       "link": "https://www.franceinfo.fr/economie/transports/gare-de-lyon-fermee-trains-detournes-rer-perturbe-pourquoi-le-week-end-du-1er-mai-s-annonce-perturbe-dans-les-transports-a-paris_7945430.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 9h",
+      "time": "Il y a 10h",
       "pubDate": 1776489007.0
-    },
-    {
-      "id": "France Info-3382019833796469699",
-      "source": "France Info",
-      "title": "Prudence diplomatique, enjeux économiques, soupçons de ventes d'armes… Comment se positionne la Chine dans la guerre au Moyen-Orient",
-      "excerpt": "",
-      "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/prudence-diplomatique-enjeux-economiques-soupcons-de-ventes-d-armes-comment-se-positionne-la-chine-dans-la-guerre-au-moyen-orient_7940720.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 9h",
-      "pubDate": 1776488954.0
     }
   ],
   "anglophone": [
     {
-      "id": "BBC News-7711341472842859580",
+      "id": "BBC News--5632949984978893823",
+      "source": "BBC News",
+      "title": "At least two dead as gunman opens fire and takes hostages in Kyiv",
+      "excerpt": "The country's interior minister says the shooter has been killed after a shoot-out with police.",
+      "link": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 13 min",
+      "pubDate": 1776526535.0
+    },
+    {
+      "id": "BBC News--5879284087162077192",
       "source": "BBC News",
       "title": "French peacekeeper killed in southern Lebanon",
-      "excerpt": "President Macron blames the attack on Hezbollah, the Iran-backed armed group denies \"any connection\" to the incident.",
+      "excerpt": "President Macron blames the attack on Hezbollah. The Iran-backed armed group denies \"any connection\" to the incident.",
       "link": "https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 9 min",
+      "time": "Il y a 55 min",
       "pubDate": 1776523997.0
     },
     {
-      "id": "BBC News-603076256051040448",
+      "id": "BBC News-8916044971715497930",
       "source": "BBC News",
       "title": "French film star Nathalie Baye dies aged 77, media report",
       "excerpt": "President Macron said France had \"loved, dreamed and grown up\" with the stalwart of French cinema.",
       "link": "https://www.bbc.com/news/articles/cn9q48y9wr7o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 10 min",
+      "time": "Il y a 56 min",
       "pubDate": 1776523935.0
     },
     {
-      "id": "BBC News--4664338510678939463",
+      "id": "BBC News--8539379451967693624",
       "source": "BBC News",
       "title": "Millions listen to Ethiopian star's song taking swipe at government",
       "excerpt": "The country's biggest musician Teddy Afro laments a lack of unity in the country on his new track.",
       "link": "https://www.bbc.com/news/articles/cqj81g5dxkyo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1776518001.0
     },
     {
-      "id": "BBC News-5741146056566812763",
-      "source": "BBC News",
-      "title": "Orbán's era was over in a flash and Hungary's next PM is a man in a hurry",
-      "excerpt": "Péter Magyar and his Tisza party are wasting no time preparing for the transfer of power after their dramatic landslide victory.",
-      "link": "https://www.bbc.com/news/articles/c4g40npz37lo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
-      "pubDate": 1776517244.0
-    },
-    {
-      "id": "NPR-4576027290418347184",
+      "id": "NPR--5178949331203133104",
       "source": "NPR",
-      "title": "Photos: How overfishing in Southeast Asia is an ecological and human crisis",
+      "title": "Photos: In this part of the world, nearly every pepper farmer is a woman",
       "excerpt": "A rare look at one of the world's most critical and understudied environmental crises. Southeast Asia produces more than half of the world's fish, yet its waters are among the most depleted and contes...",
       "link": "https://www.npr.org/sections/the-picture-show/2026/04/18/nx-s1-5766110/overfishing-in-southeast-asia",
       "time": "Il y a 2h",
       "pubDate": 1776517200.0
     },
     {
-      "id": "NPR--3387675715162558655",
+      "id": "NPR-4971206852063770744",
       "source": "NPR",
       "title": "Opinion: Remembering Kevin Klose, former NPR president and broadcasting icon",
       "excerpt": "We remember Kevin Klose, former NPR president, who helped secure financial stability for the network while supporting and encouraging its journalism.",
@@ -327,34 +327,34 @@
       "pubDate": 1776513600.0
     },
     {
-      "id": "NPR-3852189102678005594",
+      "id": "NPR-7535188387179779197",
       "source": "NPR",
       "title": "Tired of waiting for your EV to charge up? One Chinese company has a novel solution",
       "excerpt": "Chinese car company NIO is putting up EV battery swapping stations all around the world. NPR took a ride in one car for the experience.",
       "link": "https://www.npr.org/2026/04/18/nx-s1-5788990/ev-battery-charge-long-china-nio",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1776511910.0
     },
     {
-      "id": "BBC News--2876921202816879946",
+      "id": "BBC News--6703865529002970293",
       "source": "BBC News",
       "title": "One dead after car hits pedestrians in Melbourne, police say",
       "excerpt": "A man is arrested following a collision in which police say a car mounted a kerb and struck pedestrians.",
       "link": "https://www.bbc.com/news/articles/c20dy511v3lo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1776510579.0
     },
     {
-      "id": "BBC News--5034147973808726191",
+      "id": "BBC News-1586477379336505655",
       "source": "BBC News",
       "title": "Madonna joins Sabrina Carpenter to surprise Coachella",
       "excerpt": "The Queen of Pop makes a guest appearance during the Espresso singer's headline set.",
       "link": "https://www.bbc.com/news/articles/c77my6gnpy4o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1776508374.0
     },
     {
-      "id": "NPR--2671977398677524657",
+      "id": "NPR--5124786262676472848",
       "source": "NPR",
       "title": "Born in south Lebanon, displaced to Beirut, two grandmothers reflect on Israeli invasions",
       "excerpt": "They grew up amid olive groves in southern Lebanon. The son of one married the other's daughter. Now they're living temporarily in a vacant building in central Beirut, displaced many times.",
@@ -363,7 +363,7 @@
       "pubDate": 1776506520.0
     },
     {
-      "id": "NPR-8519244541898691121",
+      "id": "NPR--4469844861575246477",
       "source": "NPR",
       "title": "She invited her friends to come together to make her casket",
       "excerpt": "Friends gathered at a weaver's studio in Massachusetts to help MaddyChristine Hope Brokopp make her casket.",
@@ -372,7 +372,7 @@
       "pubDate": 1776506400.0
     },
     {
-      "id": "NPR-4856036564200303464",
+      "id": "NPR--7731917812682082795",
       "source": "NPR",
       "title": "Caracas' iconic macaws threatened by vanishing palm trees",
       "excerpt": "In the Venezuelan capital, Caracas, flocks of colorful macaws that once brightened city skies now face disappearing nest sites — and with them, a unique urban bond.",
@@ -381,25 +381,25 @@
       "pubDate": 1776506400.0
     },
     {
-      "id": "BBC News-5483045218331122121",
+      "id": "BBC News-2892374248488364908",
       "source": "BBC News",
       "title": "DR Congo accepts first set of deportees from the US",
       "excerpt": "The Congolese government stresses those expelled from the US are only in the country temporarily.",
       "link": "https://www.bbc.com/news/articles/cp84rye3lg8o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1776503896.0
     },
     {
-      "id": "NPR--3942608676363682890",
+      "id": "NPR--3833040758799333625",
       "source": "NPR",
       "title": "Iran says it has closed the Strait of Hormuz again, as ceasefire nears its end",
       "excerpt": "Iran's military said on Saturday the Strait of Hormuz has \"returned to its previous state.\" The announcement came after President Trump had said the blockade on Iranian ports would remain in place.",
       "link": "https://www.npr.org/2026/04/18/nx-s1-5789780/iran-middle-east-updates",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1776503718.0
     },
     {
-      "id": "NPR-3496939334517927139",
+      "id": "NPR-3384305896600982347",
       "source": "NPR",
       "title": "What's it like to negotiate with Iran? We asked people who have done it",
       "excerpt": "Experts who spent months negotiating a 2015 nuclear agreement with Iran say mutual mistrust, starkly different negotiating styles, and the complexity of the issues make a quick deal unlikely.",
@@ -408,7 +408,7 @@
       "pubDate": 1776502860.0
     },
     {
-      "id": "NPR-1086889193672304480",
+      "id": "NPR--3238826558055855695",
       "source": "NPR",
       "title": "Sitting in a jail cell, alone and hopeless, a man's life is suddenly changed",
       "excerpt": "Jay found himself sitting in a jail cell, alone and hopeless, after attempting to break into a building on his college campus. A fellow inmate's unexpected words brought him comfort — and changed the...",
@@ -417,7 +417,7 @@
       "pubDate": 1776502800.0
     },
     {
-      "id": "NPR-2287144931868692729",
+      "id": "NPR-4186389731028451300",
       "source": "NPR",
       "title": "A local judge. A brash 82-year-old senator. State leaders have decided redistricting",
       "excerpt": "An 82-year-old Virginia senator raising the stakes, an Indiana consensus builder and a Texas enforcer are among state officials who have shaped the course of the midterm redistricting race.",
@@ -426,7 +426,7 @@
       "pubDate": 1776502800.0
     },
     {
-      "id": "The Guardian-8651476145474525730",
+      "id": "The Guardian-6934510982864681213",
       "source": "The Guardian",
       "title": "Venezuela’s Machado to hold Madrid rally as opposition frozen out after Maduro capture",
       "excerpt": "Exiled leader to revive push for change amid US backing of Delcy Rodríguez and delays to democratic transition Venezuela’s opposition leader, María Corina Machado, will seek to revive her push for pol...",
@@ -435,25 +435,25 @@
       "pubDate": 1776499208.0
     },
     {
-      "id": "BBC News--637118624910952573",
+      "id": "BBC News--7285031206736793749",
       "source": "BBC News",
       "title": "White House and Anthropic hold 'productive' meeting amid fears over Mythos model",
       "excerpt": "The discussion is a sign the AI firm's technology may be too critical for even the US government to do without.",
       "link": "https://www.bbc.com/news/articles/cyv10e1d13po?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 14h",
+      "time": "Il y a 15h",
       "pubDate": 1776472626.0
     },
     {
-      "id": "BBC News-127639133823717478",
+      "id": "BBC News--4836583067488283681",
       "source": "BBC News",
       "title": "Three sentenced for 'man in bear suit' insurance scam",
       "excerpt": "Video went viral after investigators determined the purported ursine was actually a man in a costume.",
       "link": "https://www.bbc.com/news/articles/czxrq7rx9lqo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 14h",
+      "time": "Il y a 15h",
       "pubDate": 1776471029.0
     },
     {
-      "id": "The Guardian-7071373254953054071",
+      "id": "The Guardian--2649129273117039326",
       "source": "The Guardian",
       "title": "Air Canada temporarily suspends some flights to New York and other locations",
       "excerpt": "Spirit Airlines reportedly seeks emergency US government funding as war against Iran keeps aviation fuel costs high <ul><li><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaki...",
@@ -462,16 +462,16 @@
       "pubDate": 1776459431.0
     },
     {
-      "id": "BBC News--3285445689329852645",
+      "id": "BBC News--1568726455005974431",
       "source": "BBC News",
       "title": "Japan reveals new name for 40C-and-hotter days after blistering summer",
       "excerpt": "The term - kokushobi - translates to \"cruelly hot\", \"brutally hot\" or \"severely hot\", and comes after Japan's hottest summer on record.",
       "link": "https://www.bbc.com/news/articles/crr185nx0n9o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 20h",
+      "time": "Il y a 21h",
       "pubDate": 1776449983.0
     },
     {
-      "id": "The Guardian-5642195015899989203",
+      "id": "The Guardian--1161084579462204960",
       "source": "The Guardian",
       "title": "Kenyan firm sacks more than 1,000 workers after losing Meta contract",
       "excerpt": "Meta paused work with Sama last month after allegations about staff viewing private scenes filmed by smart glasses More than 1,000 low-paid workers in Kenya have been abruptly sacked by an outsourcing...",
@@ -480,7 +480,7 @@
       "pubDate": 1776445144.0
     },
     {
-      "id": "The Guardian-5090191555011485908",
+      "id": "The Guardian-3790272874699416075",
       "source": "The Guardian",
       "title": "Weather tracker: hail covers parts of Tunisia and Algeria like snow",
       "excerpt": "Accumulations of up to 3cm deep reported as severe thunderstorms also bring heavy downpours to central Italy Severe thunderstorms have affected the Mediterranean this week. On Monday, a surface low-pr...",
@@ -489,7 +489,7 @@
       "pubDate": 1776412178.0
     },
     {
-      "id": "The Guardian-5520054269000705802",
+      "id": "The Guardian-7398478261153926735",
       "source": "The Guardian",
       "title": "South African politician Julius Malema given five-year jail term for gun offence",
       "excerpt": "Leader of leftwing Economic Freedom Fighters was convicted last year for firing rifle in the air at 2018 rally The South African leftwing politician <a href=\"https://www.theguardian.com/world/julius-m...",
@@ -498,7 +498,7 @@
       "pubDate": 1776343069.0
     },
     {
-      "id": "The Guardian-4438849385629073136",
+      "id": "The Guardian-2081484068005664471",
       "source": "The Guardian",
       "title": "Pedro Pascal v Pedro Piscal: actor in legal battle with Chilean spirit brand",
       "excerpt": "Pedro Piscal pisco is latest Chilean brand to resemble a Hollywood name – and others have fought off the lawsuits The actor <a href=\"https://www.theguardian.com/culture/pedro-pascal\">Pedro Pascal</a>...",
@@ -507,7 +507,7 @@
       "pubDate": 1776339213.0
     },
     {
-      "id": "The Guardian-3684824828039465345",
+      "id": "The Guardian--736648841104296128",
       "source": "The Guardian",
       "title": "US launches fifth strike on alleged Pacific drug boat in a week, killing three",
       "excerpt": "Wednesday’s strike brings the total of those killed in US military strikes on alleged drug boats to at least 177 Three people were killed in a US strike on another alleged drug-trafficking boat, the f...",
@@ -516,7 +516,7 @@
       "pubDate": 1776311792.0
     },
     {
-      "id": "The Guardian--7272095021768138346",
+      "id": "The Guardian-2927079413223835652",
       "source": "The Guardian",
       "title": "More than £1bn pledged for Sudan as humanitarian crisis deepens",
       "excerpt": "Donors exceed funding target at Berlin conference but prospects for ceasefire remain distant More than £1bn (€1.15bn) has been pledged for war-ravaged Sudan at a conference in Berlin, eclipsing the fu...",
@@ -525,16 +525,16 @@
       "pubDate": 1776275344.0
     },
     {
-      "id": "The Guardian--1283955819678064145",
+      "id": "The Guardian--1610869403733236034",
       "source": "The Guardian",
       "title": "Suspicion surrounds death of US influencer Ashly Robinson in Zanzibar",
       "excerpt": "Lifestyle influencer died while on vacation with boyfriend, who local officials say has since had his passport ‘withheld’ Ashly Robinson, a US lifestyle influencer, died last week while on vacation in...",
       "link": "https://www.theguardian.com/world/2026/apr/15/ashly-robinson-death-influencer-zanzibar",
-      "time": "Il y a 2j",
+      "time": "Il y a 3j",
       "pubDate": 1776266053.0
     },
     {
-      "id": "The Guardian--7759168397424832988",
+      "id": "The Guardian-8668606168599325353",
       "source": "The Guardian",
       "title": "Sheinbaum vows to ‘defend Mexicans at every level’ amid anger at Trump over migrant deaths",
       "excerpt": "Sheinbaum has recently been taking a firmer stance with the US, defying pressures where other countries have caved The Mexican government has voiced concern about the deaths of its citizens in US cust...",
@@ -543,5 +543,5 @@
       "pubDate": 1776217847.0
     }
   ],
-  "lastUpdate": "2026-04-18T15:02:54.349134"
+  "lastUpdate": "2026-04-18T15:48:51.594566"
 }
