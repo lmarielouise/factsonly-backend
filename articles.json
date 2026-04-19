@@ -1,30 +1,102 @@
 {
   "francophone": [
     {
-      "id": "France Info--6690398645081674681",
+      "id": "Libération-3676391592494854048",
+      "source": "Libération",
+      "title": "Mort de Nathalie Baye, soldat français tué au Liban, LR choisit Retailleau pour la présidentielle… L’actu de ce week-end",
+      "excerpt": "La rédaction de «Libération» récapitule les principales actualités de ce samedi 21 et dimanche 22 mars.",
+      "link": "https://www.liberation.fr/international/europe/mort-de-nathalie-baye-soldat-francais-tue-au-liban-lr-choisit-retailleau-pour-la-presidentielle-lactu-de-ce-week-end-20260419_J7KNS76AGJHOLMUK2BTRLLZADM/",
+      "time": "Il y a 10 min",
+      "pubDate": 1776621385.0
+    },
+    {
+      "id": "France Info-600033139740841499",
+      "source": "France Info",
+      "title": "Aux Etats-Unis, huit enfants âgés de 1 à 14 ans tués par balles en Louisiane, le suspect abattu par la police",
+      "excerpt": "\"Certaines [victimes] étaient les enfants\" du suspect, a précisé la police locale lors d'une conférence de presse.",
+      "link": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-huit-enfants-ages-de-1-a-14-ans-tues-par-balles-en-louisiane-le-suspect-abattu-par-la-police_7949999.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 13 min",
+      "pubDate": 1776621237.0
+    },
+    {
+      "id": "Libération--8646784369573923580",
+      "source": "Libération",
+      "title": "Etats-Unis : en Louisiane, un homme tue huit enfants avant d’être abattu par la police",
+      "excerpt": "Dans la ville de Shreveport, un homme a ouvert le feu tôt ce dimanche 19 avril. Si les circonstances de la tuerie restent floues, il s’agirait de violences intrafamiliales, selon la police. L’auteur p...",
+      "link": "https://www.liberation.fr/international/amerique/etats-unis-en-louisiane-un-homme-tue-huit-enfants-avant-detre-abattu-par-la-police-20260419_X3GYTHQVJ5BETN4Z7QNXMKI3BA/",
+      "time": "Il y a 15 min",
+      "pubDate": 1776621112.0
+    },
+    {
+      "id": "Libération--5452640648720700428",
+      "source": "Libération",
+      "title": "Au Sud-Liban, Israël rase des villages à l’ombre d’un cessez-le-feu fragile",
+      "excerpt": "Tandis que les civils de la région tentent de regagner prudemment leurs villages, certaines zones restent inaccessibles. D’autres renoncent et font demi-tour, face au risque d’affrontements qui repren...",
+      "link": "https://www.liberation.fr/international/moyen-orient/au-sud-liban-israel-rase-des-villages-a-lombre-dun-cessez-le-feu-fragile-20260419_LTOQV2HJVNEEZCYEXMDVYJX5GY/",
+      "time": "Il y a 16 min",
+      "pubDate": 1776621016.0
+    },
+    {
+      "id": "Libération--7077443113280775420",
+      "source": "Libération",
+      "title": "Espagne, Mexique, Brésil... A Barcelone, une internationale progressiste sur les rails",
+      "excerpt": "Plusieurs figures de la gauche mondiale, dont Pedro Sánchez, Claudia Scheinbaum et Lula, se sont rencontrées samedi 18 avril en Catalogne pour défendre les valeurs de la démocratie et créer ainsi un f...",
+      "link": "https://www.liberation.fr/international/europe/espagne-mexique-bresil-a-barcelone-une-internationale-progressiste-sur-les-rails-20260419_EU3QLBE7PBEBNGWVUDYQUWN64E/",
+      "time": "Il y a 18 min",
+      "pubDate": 1776620912.0
+    },
+    {
+      "id": "Libération-3884421743385154105",
+      "source": "Libération",
+      "title": "EN DIRECT - Guerre au Moyen-Orient : Trump envoie une délégation au Pakistan, l’Iran refuse de négocier «tant que le blocus naval sera maintenu»",
+      "excerpt": "Les Etats-Unis accusent Téhéran d’avoir violé le cessez-le-feu en cours entre les deux pays, qui expire dans trois jours. Le président américain a aussi assuré qu’en cas de refus du «deal raisonnable»...",
+      "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-les-negociations-avec-les-etats-unis-progressent-mais-un-accord-final-reste-loin-selon-liran-20260419_ACP2STK4MNAPHFQPTYVRF5K5W4/",
+      "time": "Il y a 25 min",
+      "pubDate": 1776620475.0
+    },
+    {
+      "id": "France Info--5335161714805614406",
       "source": "France Info",
       "title": "Pressions de Donald Trump, présence de J.D. Vance... Ce que l'on sait de la reprise des négociations entre Israël et l'Iran lundi au Pakistan",
       "excerpt": "Avant la reprise des négociations, le président américain a estimé offrir à l'Iran un \"deal raisonnable\", promettant de détruire les infrastructures énergétiques et les ponts iraniens en cas d'échec....",
       "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/pressions-de-donald-trump-presence-de-j-d-vance-ce-que-l-on-sait-de-la-reprise-des-negociations-entre-israel-et-l-iran-lundi-au-pakistan_7949774.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 4 min",
+      "time": "Il y a 31 min",
       "pubDate": 1776620130.0
     },
     {
-      "id": "Le Monde--6205614995332753023",
+      "id": "Le Monde-1431116949049439075",
       "source": "Le Monde",
       "title": "Ce qu’il faut retenir de l’actualité du week-end des 18 et 19 avril",
       "excerpt": "Vous n’avez pas suivi l’actualité samedi 18 et dimanche 19 avril ? Voici ce qu’il s’est passé pendant ces quarante-huit dernières heures.",
       "link": "https://www.lemonde.fr/les-decodeurs/article/2026/04/19/ce-qu-il-faut-retenir-de-l-actualite-du-week-end-des-18-et-19-avril_6681482_4355770.html",
-      "time": "Il y a 9 min",
+      "time": "Il y a 36 min",
       "pubDate": 1776619808.0
     },
     {
-      "id": "France Info--609339487939630503",
+      "id": "Le Monde--3888249532292270123",
+      "source": "Le Monde",
+      "title": "Victor Wembanyama découvre les playoffs NBA avec les Spurs, après une saison qui a fait de lui un candidat au titre de MVP",
+      "excerpt": "Les San Antonio Spurs affrontent les Portland Trail Blazers au premier tour, à partir de la nuit de dimanche à lundi, avec leur Français de 22 ans comme tête d’affiche. Ce dernier fait partie des troi...",
+      "link": "https://www.lemonde.fr/sport/article/2026/04/19/victor-wembanyama-decouvre-les-playoffs-nba-apres-une-saison-qui-a-fait-de-lui-un-candidat-au-titre-de-mvp_6681483_3242.html",
+      "time": "Il y a 36 min",
+      "pubDate": 1776619801.0
+    },
+    {
+      "id": "France Info--8216764565584475160",
+      "source": "France Info",
+      "title": "Manchester City s'impose dans le choc contre Arsenal et relance le suspense dans la course au titre en Premier League",
+      "excerpt": "Les Cityzens ont fait basculer la rencontre en deuxième période face aux Gunners, dimanche.",
+      "link": "https://www.franceinfo.fr/sports/foot/premier-league/manchester-city-s-impose-dans-le-choc-contre-arsenal-et-relance-le-suspense-dans-la-course-au-titre-en-premier-league_7949963.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 37 min",
+      "pubDate": 1776619774.0
+    },
+    {
+      "id": "France Info--8443148390720628090",
       "source": "France Info",
       "title": "Présidentielle 2027 : Bruno Retailleau largement désigné candidat par les adhérents du parti Les Républicains",
       "excerpt": "Environ 77 000 membres du parti de droite étaient invités à voter en ligne ce week-end pour choisir entre une primaire ouverte, une primaire fermée ou la désignation du président du parti sans passer...",
       "link": "https://www.franceinfo.fr/politique/les-republicains/presidentielle-2027-bruno-retailleau-largement-designe-candidat-par-les-adherents-du-parti-les-republicains_7949957.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 11 min",
+      "time": "Il y a 38 min",
       "pubDate": 1776619707.0,
       "sources": [
         "France Info",
@@ -34,61 +106,52 @@
       "sourceCount": 2
     },
     {
-      "id": "Libération--6717072987818849567",
+      "id": "France Info-6016845381809527358",
+      "source": "France Info",
+      "title": "Le Bayern Munich sacré champion d'Allemagne pour la 35e fois après sa victoire face à Stuttgart",
+      "excerpt": "Les Bavarois ont remporté le 35e titre de champion national de leur histoire, dimanche, après une victoire facile à domicile.",
+      "link": "https://www.franceinfo.fr/sports/foot/bundesliga/le-bayern-munich-sacre-champion-d-allemagne-pour-la-35e-fois-apres-sa-victoire-face-a-stuttgart_7949921.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 38 min",
+      "pubDate": 1776619693.0
+    },
+    {
+      "id": "Libération--4224415049954146666",
       "source": "Libération",
       "title": "Guerre au Moyen-Orient : le blocus américain du détroit d’Ormuz fonctionne-t-il ?",
       "excerpt": "Si l’analyse des données de navigation montre que le verrou américain dissuade bien des tankers sous sanctions de sortir de la zone ou de rejoindre des ports iraniens, les trajectoires de certains car...",
       "link": "https://www.liberation.fr/checknews/guerre-au-moyen-orient-le-blocus-americain-du-detroit-dormuz-fonctionne-t-il-20260419_IB4UF4FYARHG7DT3ZDFNETKBQM/",
-      "time": "Il y a 27 min",
+      "time": "Il y a 55 min",
       "pubDate": 1776618697.0
     },
     {
-      "id": "Libération--8818285310955166557",
+      "id": "Libération-2842670208443504297",
       "source": "Libération",
       "title": "Pascal Meynadier, la radicalité d’extrême droite au «JDD»",
       "excerpt": "Après le limogeage du directeur de Grasset, Olivier Nora, un pamphlet aux relents antisémites figure au côté de la tribune de Vincent Bolloré dans son hebdomadaire dominical, ce 19 avril. Son auteur e...",
       "link": "https://www.liberation.fr/politique/pascal-meynadier-la-radicalite-dextreme-droite-au-jdd-20260419_D2MJIZIR4JEYFITOJGJ23AQYJQ/",
-      "time": "Il y a 28 min",
+      "time": "Il y a 56 min",
       "pubDate": 1776618658.0
     },
     {
-      "id": "Libération-8007111825855235145",
+      "id": "Libération--6960482220748691133",
       "source": "Libération",
-      "title": "Présidentielle : les adhérents LR plébiscitent Bruno Retailleau comme leur candidat pour 2027",
-      "excerpt": "Les encartés du parti de droite ont choisi, à 73,8%, de désigner l’ex-ministre de l’Intérieur pour représenter LR à la présidentielle, selon les résultats de la consultation interne publiés ce dimanch...",
+      "title": "Présidentielle : les adhérents LR plébiscitent Bruno Retailleau comme leur candidat pour 2027",
+      "excerpt": "Les encartés du parti de droite ont choisi, à 73,8 %, de désigner l’ancien ministre de l’Intérieur pour représenter LR à la présidentielle, selon les résultats de la consultation interne publiés ce di...",
       "link": "https://www.liberation.fr/societe/ville/presidentielle-les-adherents-lr-plebiscitent-bruno-retailleau-comme-leur-candidat-pour-2027-20260419_5ZOZ4HEQANH7XBI45XY2JRXB74/",
-      "time": "Il y a 51 min",
+      "time": "Il y a 1h",
       "pubDate": 1776617285.0
     },
     {
-      "id": "Libération--4891751193417629237",
+      "id": "Libération--6952608070735136753",
       "source": "Libération",
       "title": "«Je ne veux pas que le Japon soit complice des guerres menées par les Etats-Unis et Israël» : à Tokyo, une manifestation contre une Première ministre trop trumpiste",
       "excerpt": "Plus de 35 000 personnes ont manifesté ce dimanche 19 avril pour dénoncer l’alignement de Sanae Takaichi sur les visées américaines ainsi que sa volonté de remettre en cause l’engagement pacifiste de...",
       "link": "https://www.liberation.fr/international/asie-pacifique/je-ne-veux-pas-que-le-japon-soit-complice-des-guerres-menees-par-les-etats-unis-et-israel-a-tokyo-une-manifestation-contre-une-premiere-ministre-trop-trumpiste-20260419_G5YYQRVMTBB5NKBZDPSP6WNWFQ/",
-      "time": "Il y a 57 min",
+      "time": "Il y a 1h",
       "pubDate": 1776616912.0
     },
     {
-      "id": "Libération--1393252856935660271",
-      "source": "Libération",
-      "title": "EN DIRECT - Guerre au Moyen-Orient : Trump annonce l’envoi d’une délégation au Pakistan lundi, l’Iran refuse de négocier «tant que le blocus naval sera maintenu»",
-      "excerpt": "Les Etats-Unis accusent Téhéran d’avoir violé le cessez-le-feu en cours entre les deux pays, qui expire dans trois jours. Le président américain a aussi assuré qu’en cas de refus du «deal raisonnable»...",
-      "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-les-negociations-avec-les-etats-unis-progressent-mais-un-accord-final-reste-loin-selon-liran-20260419_ACP2STK4MNAPHFQPTYVRF5K5W4/",
-      "time": "Il y a 1h",
-      "pubDate": 1776616159.0
-    },
-    {
-      "id": "France Info--1838043095311897993",
-      "source": "France Info",
-      "title": "Le Premier ministre britannique se dit \"choqué\" par des incendies \"antisémites\" à Londres, la police étudie un lien avec l'Iran",
-      "excerpt": "Keir Starmer s'est exprimé dimanche après une nouvelle tentative d'incendie criminel dans le nord-ouest de la capitale britannique.",
-      "link": "https://www.franceinfo.fr/monde/royaume-uni/le-premier-ministre-britannique-se-dit-choque-par-des-incendies-antisemites-a-londres-la-police-etudie-un-lien-avec-l-iran_7949840.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
-      "pubDate": 1776616110.0
-    },
-    {
-      "id": "Le Monde--3613209080025101109",
+      "id": "Le Monde--6283100556443118243",
       "source": "Le Monde",
       "title": "Arthur Fils remporte le tournoi de tennis de Barcelone, le quatrième titre de sa carrière",
       "excerpt": "Le tennisman français de 21 ans a dominé Andrey Rublev en deux sets, dimanche en Catalogne, et décroché son premier titre de la saison, sur terre battue, à un mois du début de Roland-Garros.",
@@ -97,7 +160,7 @@
       "pubDate": 1776615393.0
     },
     {
-      "id": "Le Monde-2676172524484378035",
+      "id": "Le Monde--8596733712480756039",
       "source": "Le Monde",
       "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump annonce de nouvelles négociations au Pakistan avec l’Iran ; l’agence de presse officielle iranienne dément la tenue de ce rendez-vous",
       "excerpt": "Une délégation américaine, emmenée par le vice-président, J. D. Vance, doit se rendre au Pakistan lundi, a annoncé M. Trump. Téhéran n’a pas répondu pour le moment. Après une nouvelle fermeture du dét...",
@@ -106,142 +169,88 @@
       "pubDate": 1776615093.0
     },
     {
-      "id": "Le Monde-2314368146114923084",
+      "id": "Le Monde--7532941760863533771",
       "source": "Le Monde",
       "title": "Keir Starmer « choqué » par les actes antisémites à Londres, la police britannique étudie un lien avec « le régime iranien »",
       "excerpt": "Une nouvelle attaque s’est produite dans la nuit de samedi à dimanche, visant une synagogue. Elle n’a pas fait de blessé et les dégâts sont mineurs, mais l’inquiétude grandit au sein de la communauté...",
       "link": "https://www.lemonde.fr/international/article/2026/04/19/keir-starmer-choque-par-les-actes-antisemites-a-londres-la-police-britannique-etudie-un-lien-avec-le-regime-iranien_6681474_3210.html",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1776614774.0
     },
     {
-      "id": "Le Monde--7520805442246561202",
+      "id": "Le Monde--6255283102060256585",
       "source": "Le Monde",
       "title": "EN DIRECT, guerre en Ukraine : suivez nos dernières informations et les réponses à vos questions",
       "excerpt": "Le département du Trésor américain a prolongé, jusqu’au 16 mai, la suspension de la majorité des sanctions visant le pétrole et les produits pétroliers russes. Une décision qui « alimente l’illusion d...",
       "link": "https://www.lemonde.fr/international/live/2026/04/19/en-direct-guerre-en-ukraine-suivez-nos-dernieres-informations-et-les-reponses-a-vos-questions_6681322_3210.html",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1776614674.0
     },
     {
-      "id": "Libération--200613769136237756",
+      "id": "Libération--4571958243347993262",
       "source": "Libération",
       "title": "Tennis : à un mois de Roland-Garros, Arthur Fils remporte le tournoi de Barcelone",
       "excerpt": "Longtemps blessé, le Français de 21 ans retrouve le sourire ces dernières semaines. Ce dimanche, il s’est imposé (6-2 ; 7-6) face au Russe Andrey Rublev en finale du tournoi catalan. Son 4e titre en c...",
       "link": "https://www.liberation.fr/sports/tennis/tennis-a-un-mois-de-roland-garros-arthur-fils-remporte-le-tournoi-de-barcelone-20260419_MC7ISCEK3RHE5DZVZOENMMRYCY/",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1776614253.0
     },
     {
-      "id": "Libération--5450844715787742828",
-      "source": "Libération",
-      "title": "Menus clé en main, préparation à la chaîne et travail dissimulé : dans l’arrière-cuisine peu reluisante des «dark kitchens»",
-      "excerpt": "Depuis leur création à la fin des années 2010 et leur démocratisation lors de la pandémie de Covid-19, ces restaurants sans salle qui ne vendent que via les plateformes de livraison suscitent la curio...",
-      "link": "https://www.liberation.fr/economie/conso/menus-cle-en-main-preparation-a-la-chaine-et-travail-dissimule-dans-larriere-cuisine-peu-reluisante-des-dark-kitchens-20260419_DMVDX4KR6ZHLDPVLOYRQDBMFBM/",
-      "time": "Il y a 1h",
-      "pubDate": 1776613743.0
-    },
-    {
-      "id": "France Info--4211177074406562022",
+      "id": "France Info--2143024348991458221",
       "source": "France Info",
       "title": "Cyclisme : Remco Evenepoel remporte l’Amstel Gold Race après sa victoire au sprint face au tenant du titre Mattias Skjelmose",
       "excerpt": "Le coureur belge a décroché la première victoire de sa carrière sur la classique ardennaise, dimanche.",
       "link": "https://www.franceinfo.fr/sports/cyclisme/cyclisme-remco-evenepoel-remporte-l-amstel-gold-race-apres-sa-victoire-au-sprint-face-au-tenant-du-titre-mattias-skjelmose_7949765.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1776613553.0
     },
     {
-      "id": "Libération-5698443299161321254",
-      "source": "Libération",
-      "title": "«November», un splendide documentaire pour redécouvrir Dennis Johnson, pionnier oublié de la musique américaine",
-      "excerpt": "L’ambitieux portrait filmique d’Eric Pinoit, diffusé en première mondiale du 23 au 26 avril à Paris dans le cadre du festival FAME, redonne au musicien mort en 2018, authentique anticonformiste, sa pl...",
-      "link": "https://www.liberation.fr/culture/november-un-splendide-documentaire-pour-redecouvrir-dennis-johnson-pionnier-oublie-de-la-musique-americaine-20260419_UKB6B5IENBBEZBVE4MVSLVQ27E/",
-      "time": "Il y a 2h",
-      "pubDate": 1776612960.0
-    },
-    {
-      "id": "France Info--2341579685481008765",
-      "source": "France Info",
-      "title": "Blue Origin, l'entreprise aérospatiale de Jeff Bezos, réussit son premier lancement de fusée avec un propulseur réutilisé",
-      "excerpt": "La fusée New Glenn a décollé dimanche matin avec un propulseur ayant déjà servi en novembre, qui a de nouveau pu être récupéré. Mais ce succès a été entaché par un dysfonctionnement lors de la mise su...",
-      "link": "https://www.franceinfo.fr/sciences/espace/blue-origin-l-entreprise-aerospatiale-de-jeff-bezos-reussit-son-premier-lancement-de-fusee-avec-un-propulseur-reutilise_7949822.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
-      "pubDate": 1776612336.0
-    },
-    {
-      "id": "Libération-131181169912380614",
-      "source": "Libération",
-      "title": "Crise chez Grasset : les acteurs du monde de l’édition réclament une «clause de conscience»",
-      "excerpt": "Ulcérés par l’éviction d’Olivier Nora, de nombreux auteurs et autrices s’inquiètent de l’indépendance éditoriale, menacée depuis l’arrivée de Bolloré dans le secteur. Ils appellent à la création d’une...",
-      "link": "https://www.liberation.fr/culture/livres/crise-chez-grasset-les-acteurs-du-monde-de-ledition-reclament-une-clause-de-conscience-20260419_4XOMNVNQDJDKVJT4PKFIZNY2RI/",
-      "time": "Il y a 2h",
-      "pubDate": 1776612205.0
-    },
-    {
-      "id": "Le Monde-6402717623266971808",
+      "id": "Le Monde--1039089626715179834",
       "source": "Le Monde",
       "title": "Comment la rancune tenace de Trump menace la désignation du nouveau patron de la Fed",
       "excerpt": "Un sénateur de Caroline du Nord a prévenu qu’il ne voterait pas, mardi 21 avril, en faveur de Kevin Warsh, le candidat proposé par Donald Trump pour succéder à Jerome Powell à la tête de la Réserve fé...",
       "link": "https://www.lemonde.fr/economie/article/2026/04/19/comment-la-rancune-tenace-de-trump-menace-la-designation-du-nouveau-patron-de-la-fed_6681468_3234.html",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1776610808.0
     },
     {
-      "id": "Le Monde--7420716593862355817",
+      "id": "Le Monde-5350071850738337855",
       "source": "Le Monde",
       "title": "Elon Musk convoqué lundi par la justice française après quinze mois d’une enquête tendue",
       "excerpt": "Le parquet de Paris enquête depuis janvier 2025 sur de nombreux abus prêtés au réseau social X et à son dirigeant. Le milliardaire a été convoqué, lundi, pour une audition libre.",
       "link": "https://www.lemonde.fr/pixels/article/2026/04/19/elon-musk-convoque-lundi-par-la-justice-francaise-apres-quinze-mois-d-une-enquete-tendue_6681466_4408996.html",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1776610804.0
     },
     {
-      "id": "Libération-6874651093987638127",
-      "source": "Libération",
-      "title": "Déjeuner entre Bardella et le Medef : «Le cynisme, c’est de considérer que l’économie passe avant tout», dénonce Marylise Léon",
-      "excerpt": "La secrétaire de la CFDT s’est indignée dans l’émission «Questions politiques» du déjeuner organisé lundi entre le président du RN et le syndicat des patrons.",
-      "link": "https://www.liberation.fr/economie/conso/dejeuner-entre-bardella-et-le-medef-le-cynisme-cest-de-considerer-que-leconomie-passe-avant-tout-denonce-marylise-leon-20260419_JNRV2MEP45H6HMCZEOFUHRS7AY/",
-      "time": "Il y a 2h",
-      "pubDate": 1776610766.0
-    },
-    {
-      "id": "France Info--6374847002295970070",
+      "id": "France Info-60985034797305161",
       "source": "France Info",
       "title": "\"J'ai perdu la moitié de mon cœur\" : Laura Smet rend hommage à Nathalie Baye, morte à l'âge de 77 ans",
       "excerpt": "L'actrice Nathalie Baye est morte vendredi des suites d'une maladie neurodégénérative complexe, difficile à diagnostiquer et qui touche 200 000 personnes en France.",
       "link": "https://www.franceinfo.fr/culture/cinema/c-etait-la-meilleure-mere-du-monde-laura-smet-rend-hommage-a-sa-mere_7949732.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1776610361.0
     },
     {
-      "id": "France Info-2573790403674526177",
+      "id": "France Info-5514662499556843440",
       "source": "France Info",
       "title": "\"Israël ne fait que renforcer l'influence du Hezbollah\" : pourquoi le gouvernement libanais ne parvient pas à affaiblir le mouvement pro-iranien",
       "excerpt": "Depuis l'entrée en fonction du président Joseph Aoun et du Premier ministre Nawaf Salam l'an dernier, le pouvoir libanais a pris plusieurs décisions à l'encontre du Hezbollah, notamment un engagement...",
       "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/israel-ne-fait-que-renforcer-l-influence-du-hezbollah-pourquoi-le-gouvernement-libanais-ne-parvient-pas-a-affaiblir-le-mouvement-pro-iranien_7949669.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1776610350.0
     },
     {
-      "id": "France Info--7112389803840151914",
+      "id": "France Info--1299883321152261816",
       "source": "France Info",
       "title": "Marne : un avion Ryanair pour le Maroc décolle sans ses 192 passagers",
       "excerpt": "192 passagers d'un vol Ryanair à destination du Maroc n'ont jamais pu embarquer mardi 14 avril dernier. L'avion a décollé à vide au départ de l'aéroport de Vatry, dans la Marne. Aucun voyageur n'a enc...",
       "link": "https://www.franceinfo.fr/economie/transports/marne-un-avion-ryanair-pour-le-maroc-decolle-sans-ses-192-passagers_7949714.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1776603421.0
     },
     {
-      "id": "Le Monde--2006968086506432992",
-      "source": "Le Monde",
-      "title": "Amstel Gold Race : Remco Evenepoel détrône Mattias Skjelmose, les favorites surprises par Paula Blasi pour l’ouverture des classiques ardennaises",
-      "excerpt": "Le coureur belge de 26 ans s’est imposé sur le tracé néerlandais, dimanche, succédant au Danois Mattias Skjelmose, vaincu au sprint. Plus tôt, l’Espagnole Paula Blasi a devancé Katarzyna Niewiadoma et...",
-      "link": "https://www.lemonde.fr/sport/article/2026/04/19/paula-blasi-surprend-les-favorites-sur-amstel-gold-race-pour-l-ouverture-des-classiques-ardennaises_6681460_3242.html",
-      "time": "Il y a 4h",
-      "pubDate": 1776603284.0
-    },
-    {
-      "id": "France Info--2250983992207640581",
+      "id": "France Info--5033365192541799393",
       "source": "France Info",
       "title": "Le corps du soldat français tué au Liban va être rapatrié dimanche, selon la porte-parole du gouvernement",
       "excerpt": "Concernant l'hommage national, aucune date n'a encore été fixée, a précisé Maud Bregeon sur BFTMV.",
@@ -250,63 +259,63 @@
       "pubDate": 1776601956.0
     },
     {
-      "id": "France Info--5764449484208273227",
-      "source": "France Info",
-      "title": "Itinéraires, dénivelés, matériel... Pourquoi vous faites fausse route en vous fiant à l'IA pour préparer votre randonnée",
-      "excerpt": "Le parc national des Cévennes alerte, exemple à l'appui, des dangers encourus par les randonneurs qui planifient leur itinéraire à l'aide de ChatGPT, une pratique de plus en plus courante, non sans ri...",
-      "link": "https://www.franceinfo.fr/decouverte/temoignages-itineraires-deniveles-materiel-pourquoi-vous-faites-fausse-route-en-en-vous-fiant-a-l-ia-pour-preparer-votre-randonnee_7923731.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 8h",
-      "pubDate": 1776589065.0
-    },
-    {
-      "id": "Le Monde--1506971566900330292",
+      "id": "Le Monde-2897815961381444739",
       "source": "Le Monde",
       "title": "Voyage dans un pays qui n’existe pas : le Somaliland, un territoire stratégique qui attire les superpuissances",
       "excerpt": "Cette République autoproclamée en 1991, qui rêve d’accéder à la scène internationale, se retrouve au cœur d’un jeu de bases militaires et d’alliances rivales, prise entre les ambitions israéliennes, a...",
       "link": "https://www.lemonde.fr/afrique/visuel/2026/04/19/voyage-dans-un-pays-qui-n-existe-pas-le-somaliland-un-territoire-strategique-qui-attire-les-superpuissances_6681394_3212.html",
-      "time": "Il y a 13h",
+      "time": "Il y a 14h",
       "pubDate": 1776571222.0
     }
   ],
   "anglophone": [
     {
-      "id": "BBC News-4341334413266019614",
+      "id": "BBC News--2732913295170927636",
+      "source": "BBC News",
+      "title": "Ukraine police chief resigns after officers allegedly fled deadly shooting",
+      "excerpt": "Authorities say the officers have been suspended and an investigation into their actions is under way.",
+      "link": "https://www.bbc.com/news/articles/c8ejn778j4do?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 18 min",
+      "pubDate": 1776620921.0
+    },
+    {
+      "id": "BBC News-1325043823384099746",
       "source": "BBC News",
       "title": "Eight children killed in Louisiana shooting, police say",
       "excerpt": "The children, aged from one to 14 years old, were killed in a shooting in Shreveport, Louisiana, which police are describing as a \"domestic disturbance\".",
       "link": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2 min",
+      "time": "Il y a 30 min",
       "pubDate": 1776620198.0
     },
     {
-      "id": "NPR-6500831897893214936",
+      "id": "NPR-2459041198371173561",
       "source": "NPR",
       "title": "Eight children killed in a shooting in Louisiana, police say",
       "excerpt": "The victims ranged in age from one to about 14 years old, said Shreveport, Louisiana police spokesperson Chris Bordelon. A total of 10 people were shot.",
       "link": "https://www.npr.org/2026/04/19/nx-s1-5790483/mass-shooting-eight-children-louisiana-shreveport",
-      "time": "Il y a 12 min",
+      "time": "Il y a 40 min",
       "pubDate": 1776619602.0
     },
     {
-      "id": "BBC News-6844137640997250467",
+      "id": "BBC News--8580148371542950877",
       "source": "BBC News",
       "title": "Thousands of Parisians evacuated as WW2 bomb detonated",
       "excerpt": "Residents within a 450m radius of the device were told to leave their homes while it was neutralised.",
       "link": "https://www.bbc.com/news/articles/c4gxv3874vjo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1776613848.0
     },
     {
-      "id": "BBC News-1291875390016395091",
+      "id": "BBC News-4492725214813297809",
       "source": "BBC News",
       "title": "Rat poison found in HiPP baby food jar in Austria, police say",
       "excerpt": "The brand warned on Saturday that consuming the purées may be potentially \"life-threatening\".",
       "link": "https://www.bbc.com/news/articles/cvg07lq5ql4o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1776603146.0
     },
     {
-      "id": "NPR--3882283564022910866",
+      "id": "NPR-2023460536497425986",
       "source": "NPR",
       "title": "Why nearly every farmer who grows these chile peppers is a woman",
       "excerpt": "Chile peppers are a traditional part of Indian cuisine — and a key crop for women farmers. They say it's too demanding for men. \"In spite of the challenges,\" says one, \"we've found freedom.\"",
@@ -315,7 +324,7 @@
       "pubDate": 1776597390.0
     },
     {
-      "id": "NPR--4371909868121505883",
+      "id": "NPR-7840622278065760035",
       "source": "NPR",
       "title": "U.S. negotiators prepare for more peace talks as Trump repeats threats to Iran",
       "excerpt": "After Iran again closed the Strait of Hormuz, President Trump said the U.S. is returning to Pakistan for negotiations, with the American delegation led by Vice President Vance.",
@@ -324,25 +333,25 @@
       "pubDate": 1776597157.0
     },
     {
-      "id": "The Guardian-640511679068891702",
+      "id": "The Guardian--9126068072892503966",
       "source": "The Guardian",
       "title": "Canadian astronaut’s bon mots help heal wounds from French language row",
       "excerpt": "Jeremy Hansen praised for speaking French in space after Air Canada chief’s linguistic snub exposed tensions and drew rebuke from PM Few people foresaw humanity’s quest for the moon as accurately as t...",
       "link": "https://www.theguardian.com/world/2026/apr/19/artemis-astronaut-jeremy-hansen-french-canada",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1776596441.0
     },
     {
-      "id": "NPR-3892805914893168477",
+      "id": "NPR--3340488090977802102",
       "source": "NPR",
       "title": "Real estate investors are buying up long-term care facilities. Residents can suffer",
       "excerpt": "Real estate investment trusts are landlords for thousands of nursing homes, assisted living facilities, and hospitals. Some select the managers and keep close watch but deny blame for bad care.",
       "link": "https://www.npr.org/2026/04/19/nx-s1-5786242/profit-landlord-real-estate-investment-trust-nursing-homes-safety",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1776596400.0
     },
     {
-      "id": "NPR--3572104724263128169",
+      "id": "NPR--6320937038844498779",
       "source": "NPR",
       "title": "This tariff-refund portal is about to be America's hottest website",
       "excerpt": "Exactly two months after the Supreme Court struck down most of President Trump's tariffs, the U.S. government has set Monday as the day when some companies can begin requesting refunds.",
@@ -351,61 +360,61 @@
       "pubDate": 1776594600.0
     },
     {
-      "id": "NPR--1294730239929961750",
+      "id": "NPR-3680711704631419493",
       "source": "NPR",
       "title": "She no longer remembers it's her birthday. He got her a present anyway",
       "excerpt": "A special day can be tinged with sorrow when your partner has dementia. But then he found the perfect gift.",
       "link": "https://www.npr.org/2026/04/19/nx-s1-5789011/dementia-wife-husband-gift-birthday",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1776592800.0
     },
     {
-      "id": "BBC News-9219307766934613252",
+      "id": "BBC News-1001832427422261544",
       "source": "BBC News",
       "title": "Zelensky condemns US extension of Russian sanctions waiver",
       "excerpt": "The US argues that the waiver is meant to ease the energy supply crunch sparked by the US-Israel war with Iran.",
       "link": "https://www.bbc.com/news/articles/c248m3z49j1o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1776592522.0
     },
     {
-      "id": "NPR-8736351508839167598",
+      "id": "NPR--2735714376766259948",
       "source": "NPR",
       "title": "Iowa went all-in on school choice. It's hurting this city's public schools",
       "excerpt": "With school choice programs ascendant not just in Iowa but across the U.S., Cedar Rapids offers a preview of who wins and who loses when education meets the free market.",
       "link": "https://www.npr.org/2026/04/19/nx-s1-5683199/education-school-choice-iowa-students-charter-school-cedar-rapids",
-      "time": "Il y a 8h",
+      "time": "Il y a 9h",
       "pubDate": 1776589200.0
     },
     {
-      "id": "BBC News--3372045939820058893",
+      "id": "BBC News-6807208129075245140",
       "source": "BBC News",
       "title": "Bodies of 50 infants dumped at Trinidad graveyard",
       "excerpt": "Police say a preliminary investigation shows it may be a case of an \"unlawful disposal of unclaimed corpses\".",
       "link": "https://www.bbc.com/news/articles/ce8jl1271pjo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 9h",
+      "time": "Il y a 10h",
       "pubDate": 1776584985.0
     },
     {
-      "id": "BBC News--2003605826982237942",
+      "id": "BBC News-1486545755249467275",
       "source": "BBC News",
       "title": "Pope says 'tyrants' speech was not aimed at Trump",
       "excerpt": "The pontiff says his remarks have been misinterpreted after a spat with the US president.",
       "link": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 9h",
+      "time": "Il y a 10h",
       "pubDate": 1776584855.0
     },
     {
-      "id": "NPR--307911884140306017",
+      "id": "NPR--3082249202508378619",
       "source": "NPR",
       "title": "The Little Probe That Could: Why Voyager 1 Matters, and Why NASA Just Switched Part of It Off",
       "excerpt": "This week, NASA announced it had shut down one of that spacecraft's remaining science instruments — not because the mission has failed, but to keep it alive a little longer.",
       "link": "https://www.npr.org/2026/04/19/nx-s1-5789935/voyager-1-probe-nasa",
-      "time": "Il y a 11h",
+      "time": "Il y a 12h",
       "pubDate": 1776577228.0
     },
     {
-      "id": "BBC News--6797890435793793177",
+      "id": "BBC News-750993428473447766",
       "source": "BBC News",
       "title": "Australia's most-decorated soldier vows to fight war crime charges",
       "excerpt": "Ben Roberts-Smith has given his first statement since he was charged with five counts of the war crime of murder last week.",
@@ -414,16 +423,16 @@
       "pubDate": 1776575560.0
     },
     {
-      "id": "NPR--6216133360885654517",
+      "id": "NPR--443956504796392345",
       "source": "NPR",
       "title": "North Korea launches ballistic missiles toward sea",
       "excerpt": "South Korea's Joint Chiefs of Staff says the launches happened on Sunday morning from the North's eastern Sinpo area.",
       "link": "https://www.npr.org/2026/04/18/nx-s1-5789939/north-korea-ballistic-missiles",
-      "time": "Il y a 16h",
+      "time": "Il y a 17h",
       "pubDate": 1776560083.0
     },
     {
-      "id": "NPR--9013365234096380710",
+      "id": "NPR--7824166127174254108",
       "source": "NPR",
       "title": "US Coast Guard spots overturned vessel near Saipan during search for missing ship",
       "excerpt": "The Mariana is a 145-foot dry cargo vessel registered in the U.S. It suffered engine failure Wednesday as a massive typhoon bore down on Saipan and nearby islands.",
@@ -432,7 +441,7 @@
       "pubDate": 1776557469.0
     },
     {
-      "id": "BBC News--6084390470200115600",
+      "id": "BBC News--4822238462055831660",
       "source": "BBC News",
       "title": "Alec Baldwin to face civil trial over Rust film set shooting",
       "excerpt": "The criminal case against the actor was dismissed in 2024.",
@@ -441,7 +450,7 @@
       "pubDate": 1776553703.0
     },
     {
-      "id": "BBC News--5957570462220408225",
+      "id": "BBC News--8081567247901350824",
       "source": "BBC News",
       "title": "Mexico's Sheinbaum denies 'diplomatic crisis' with Spain after conquest row",
       "excerpt": "The Mexican president says there were never tensions over Spanish colonisation, which had become a thorny issue.",
@@ -450,16 +459,7 @@
       "pubDate": 1776547676.0
     },
     {
-      "id": "BBC News-3957587475271702846",
-      "source": "BBC News",
-      "title": "At least six killed in Kyiv as gunman opens fire and takes hostages",
-      "excerpt": "The attacker, who took hostages inside a supermarket, was killed after a shoot-out with police, officials say.",
-      "link": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 23h",
-      "pubDate": 1776535797.0
-    },
-    {
-      "id": "The Guardian--2237690565840527813",
+      "id": "The Guardian-1708900505946400440",
       "source": "The Guardian",
       "title": "Venezuela’s Machado to hold Madrid rally as opposition frozen out after Maduro capture",
       "excerpt": "Exiled leader to revive push for change amid US backing of Delcy Rodríguez and delays to democratic transition Venezuela’s opposition leader, María Corina Machado, will seek to revive her push for pol...",
@@ -468,7 +468,7 @@
       "pubDate": 1776499208.0
     },
     {
-      "id": "The Guardian--2221818575240225547",
+      "id": "The Guardian-2601467885935548786",
       "source": "The Guardian",
       "title": "Air Canada temporarily suspends some flights to New York and other locations",
       "excerpt": "Separately, Spirit Airlines reportedly seeks emergency US government funds as Iran war keeps aviation fuel costs high <ul><li><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-brea...",
@@ -477,7 +477,7 @@
       "pubDate": 1776459431.0
     },
     {
-      "id": "The Guardian-1256448854012259414",
+      "id": "The Guardian-3979955139068888660",
       "source": "The Guardian",
       "title": "Kenyan firm sacks more than 1,000 workers after losing Meta contract",
       "excerpt": "Meta paused work with Sama last month after allegations about staff viewing private scenes filmed by smart glasses More than 1,000 low-paid workers in Kenya have been abruptly sacked by an outsourcing...",
@@ -486,7 +486,7 @@
       "pubDate": 1776445144.0
     },
     {
-      "id": "The Guardian-1780126968457974338",
+      "id": "The Guardian--1476537779916124113",
       "source": "The Guardian",
       "title": "Weather tracker: hail covers parts of Tunisia and Algeria like snow",
       "excerpt": "Accumulations of up to 3cm deep reported as severe thunderstorms also bring heavy downpours to central Italy Severe thunderstorms have affected the Mediterranean this week. On Monday, a surface low-pr...",
@@ -495,7 +495,7 @@
       "pubDate": 1776412178.0
     },
     {
-      "id": "The Guardian-3668072366045113658",
+      "id": "The Guardian--1694097247468514823",
       "source": "The Guardian",
       "title": "South African politician Julius Malema given five-year jail term for gun offence",
       "excerpt": "Leader of leftwing Economic Freedom Fighters was convicted last year for firing rifle in the air at 2018 rally The South African leftwing politician <a href=\"https://www.theguardian.com/world/julius-m...",
@@ -504,7 +504,7 @@
       "pubDate": 1776343069.0
     },
     {
-      "id": "The Guardian--3196601919950442575",
+      "id": "The Guardian--4595052106163901357",
       "source": "The Guardian",
       "title": "Pedro Pascal v Pedro Piscal: actor in legal battle with Chilean spirit brand",
       "excerpt": "Pedro Piscal pisco is latest Chilean brand to resemble a Hollywood name – and others have fought off the lawsuits The actor <a href=\"https://www.theguardian.com/culture/pedro-pascal\">Pedro Pascal</a>...",
@@ -513,7 +513,7 @@
       "pubDate": 1776339213.0
     },
     {
-      "id": "The Guardian--290121606681857265",
+      "id": "The Guardian--1508064087172371898",
       "source": "The Guardian",
       "title": "US launches fifth strike on alleged Pacific drug boat in a week, killing three",
       "excerpt": "Wednesday’s strike brings the total of those killed in US military strikes on alleged drug boats to at least 177 Three people were killed in a US strike on another alleged drug-trafficking boat, the f...",
@@ -522,16 +522,16 @@
       "pubDate": 1776311792.0
     },
     {
-      "id": "The Guardian--8872111108175512652",
+      "id": "The Guardian-5298877902284587929",
       "source": "The Guardian",
       "title": "More than £1bn pledged for Sudan as humanitarian crisis deepens",
       "excerpt": "Donors exceed funding target at Berlin conference but prospects for ceasefire remain distant More than £1bn (€1.15bn) has been pledged for war-ravaged Sudan at a conference in Berlin, eclipsing the fu...",
       "link": "https://www.theguardian.com/global-development/2026/apr/15/more-than-1bn-pledged-for-sudan-as-humanitarian-crisis-deepens",
-      "time": "Il y a 3j",
+      "time": "Il y a 4j",
       "pubDate": 1776275344.0
     },
     {
-      "id": "The Guardian--4093300266670233963",
+      "id": "The Guardian--8673393994896544571",
       "source": "The Guardian",
       "title": "Suspicion surrounds death of US influencer Ashly Robinson in Zanzibar",
       "excerpt": "Lifestyle influencer died while on vacation with boyfriend, who local officials say has since had his passport ‘withheld’ Ashly Robinson, a US lifestyle influencer, died last week while on vacation in...",
@@ -540,5 +540,5 @@
       "pubDate": 1776266053.0
     }
   ],
-  "lastUpdate": "2026-04-19T17:39:38.263697"
+  "lastUpdate": "2026-04-19T18:07:01.203157"
 }
