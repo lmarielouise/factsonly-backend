@@ -1,34 +1,40 @@
 {
   "francophone": [
     {
-      "id": "France Info-6953508029407925107",
-      "source": "France Info",
-      "title": "Coupe de France : après 28 ans d'attente, Lens retrouve la finale après sa large victoire contre Toulouse (4-1)",
-      "excerpt": "Devant leur public, les Sang et Or ont logiquement remporté leur demi-finale, mardi.",
-      "link": "https://www.franceinfo.fr/sports/foot/coupe-de-france/coupe-de-france-apres-28-ans-d-attente-lens-retrouve-la-finale-apres-sa-victoire-contre-toulouse_7954211.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 5 min",
-      "pubDate": 1776806418.0
+      "id": "Le Monde--4606534713499306237",
+      "source": "Le Monde",
+      "title": "Coupe de France : Lens s’envole en finale après sa victoire 4-1 contre Toulouse",
+      "excerpt": "Le 22 mai au Stade de France, les Lensois joueront leur quatrième finale (après 1948, 1975 et 1998), espérant inscrire leur nom pour la première fois au palmarès.",
+      "link": "https://www.lemonde.fr/sport/article/2026/04/21/coupe-de-france-lens-s-envole-en-finale-apres-sa-victoire-4-1-contre-toulouse_6682063_3242.html",
+      "time": "Il y a 11 min",
+      "pubDate": 1776808431.0,
+      "sources": [
+        "Le Monde",
+        "France Info"
+      ],
+      "multiSource": true,
+      "sourceCount": 2
     },
     {
-      "id": "France Info--1750581153496624332",
+      "id": "France Info-3602358428715267102",
       "source": "France Info",
       "title": "Guerre au Moyen-Orient : Donald Trump dit prolonger le cessez-le-feu jusqu'à ce que l'Iran \"présente une proposition\", le blocus des ports iraniens maintenu",
       "excerpt": "\"Le cessez-le-feu est prolongé jusqu'à la soumission [d'une] proposition\" de l'Iran dans le cadre des négociations, a-t-il écrit sur son réseau social.",
       "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-donald-trump-affirme-qu-il-sera-long-et-difficile-d-exhumer-l-uranium-iranien_7952999.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 36 min",
+      "time": "Il y a 1h",
       "pubDate": 1776804569.0
     },
     {
-      "id": "Libération--8595267311508876550",
+      "id": "Libération--960165076884088384",
       "source": "Libération",
       "title": "Guerre au Moyen-Orient : Trump annonce une prolongation du cessez-le-feu jusqu’à ce que «l’Iran soumette une proposition»",
       "excerpt": "Alors que les pourparlers entre Téhéran et Washington sont au point mort, la trêve était censée prendre fin dans la nuit de mardi à mercredi. Le président américain dit toutefois maintenir le blocus d...",
       "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-le-cessez-le-feu-en-suspens-20260421_J2FK7NZWNVER7NC52UQGDSQIHI/",
-      "time": "Il y a 54 min",
+      "time": "Il y a 1h",
       "pubDate": 1776803487.0
     },
     {
-      "id": "Libération--4414710673935044150",
+      "id": "Libération--7848658165567322630",
       "source": "Libération",
       "title": "Saluts nazis, insultes et menaces : à Caen, un banquet du «Canon français» lié à Stérin débouche sur un torrent de haine",
       "excerpt": "Après un rassemblement de milliers de personnes organisé samedi 18 avril par l’entreprise financée par le milliardaire d’extrême droite, des participants ont lancé remarques racistes, sexistes et isla...",
@@ -37,7 +43,7 @@
       "pubDate": 1776802375.0
     },
     {
-      "id": "France Info-4603545186351377197",
+      "id": "France Info--1236779428197897245",
       "source": "France Info",
       "title": "Festival de Cannes 2026 : l'affiche de la 79e édition rend hommage à Susan Sarandon et Geena Davis dans \"Thelma et Louise\"",
       "excerpt": "Le film, sorti en 1991, avait été présenté en hors-compétition à Cannes.",
@@ -46,124 +52,115 @@
       "pubDate": 1776802126.0
     },
     {
-      "id": "Libération--2905353706109027696",
+      "id": "Libération-2435354647453935491",
       "source": "Libération",
       "title": "L’insoumis Bally Bagayoko s’impose à la tête de Plaine commune, la stratégique intercommunalité de Seine-Saint-Denis",
       "excerpt": "L’élection du président de la communauté de communes se déroulait ce mardi 21 avril au soir. Le nouveau maire de Saint-Denis l’a emporté face au socialiste Karim Bouamrane.",
       "link": "https://www.liberation.fr/politique/linsoumis-bally-bagayoko-simpose-a-la-tete-de-plaine-commune-la-strategique-intercommunalite-de-seine-saint-denis-20260421_I3VSKHWCIRCRLETOV4ULO4JGYY/",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1776801766.0
     },
     {
-      "id": "France Info--3175400899391120119",
+      "id": "France Info--3201474057759438912",
       "source": "France Info",
       "title": "Ce qu'il faut retenir des annonces de Sébastien Lecornu pour \"soutenir l'activité\" face à la hausse des prix des carburants",
       "excerpt": "Le Premier ministre a annoncé mardi de nouvelles mesures pour soutenir les secteurs frappés par la hausse des prix des carburants, et a prolongé certaines aides déjà actées.",
       "link": "https://www.franceinfo.fr/economie/automobile/essence/ce-qu-il-faut-retenir-des-annonces-de-sebastien-lecornu-pour-soutenir-l-activite-face-a-la-hausse-des-prix-des-carburants_7953923.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1776800659.0
     },
     {
-      "id": "Le Monde--3911699889820080870",
+      "id": "Le Monde-5970722062166910222",
       "source": "Le Monde",
       "title": "Fuite de données à l’Agence nationale des titres sécurisés : « 11,7 millions de comptes seraient concernés », selon le ministère de l’intérieur",
       "excerpt": "Lundi, le ministère avait fait savoir que des « données à caractère personnel » étaient concernées, dont les nom et prénom, l’adresse électronique et la date de naissance d’usagers.",
       "link": "https://www.lemonde.fr/pixels/article/2026/04/21/fuite-de-donnees-a-l-agence-nationale-des-titres-securises-pres-de-douze-millions-de-comptes-concernes_6682059_4408996.html",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1776800175.0
     },
     {
-      "id": "France Info-7604451302698995243",
+      "id": "France Info-1274358501835001487",
       "source": "France Info",
       "title": "Les gardes à vue des trois policiers soupçonnés de violences et de viol au commissariat de Sarcelles désormais levées",
       "excerpt": "Les fonctionnaires, convoqués par l'Inspection générale de la police nationale mardi matin, ne sont pas poursuivis à ce stade.",
       "link": "https://www.franceinfo.fr/faits-divers/info-franceinfo-les-gardes-a-vue-des-trois-policiers-soupconnes-de-violences-et-de-viol-au-commissariat-de-sarcelles-desormais-levees_7954190.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1776800033.0
     },
     {
-      "id": "France Info-2089258784330764685",
+      "id": "France Info--6123261445415974690",
       "source": "France Info",
       "title": "Fuite de données sur le portail de l'ANTS : près de 12 millions de comptes concernés, annonce le ministère de l'Intérieur",
       "excerpt": "Au total, \"11,7 millions de comptes seraient concernés\" par cette attaque, qui pourrait impliquer des données de particuliers et de professionnels, a souligné la place Beauvau.",
       "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/fuite-de-donnees-sur-le-portail-de-l-ants-pres-de-12-millions-de-comptes-concernes-annonce-le-ministere-de-l-interieur_7954181.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1776799885.0
     },
     {
-      "id": "Le Monde-4376620642857182982",
+      "id": "Le Monde-5852079082517755025",
       "source": "Le Monde",
       "title": "Aide de 90 milliards à l’Ukraine : les Européens croient à la levée imminente du veto hongrois",
       "excerpt": "Volodymyr Zelensky a annoncé, mardi, que l’oléoduc Droujba, qui achemine du pétrole russe en Hongrie en passant par l’Ukraine et qui avait été endommagé par des frappes russes, a été réparé.",
       "link": "https://www.lemonde.fr/international/article/2026/04/21/aide-de-90-milliards-a-l-ukraine-les-europeens-croient-a-la-levee-imminente-du-veto-hongrois_6682058_3210.html",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1776799840.0
     },
     {
-      "id": "Libération-5804012187661904060",
+      "id": "Libération-4741037867936220200",
       "source": "Libération",
       "title": "Fuite de données à l’agence qui édite les titres d’identité : près de 12 millions de comptes affectés",
       "excerpt": "Le ministère de l’Intérieur confirme ce mardi 21 avril que des «données à caractères personnels» de l’ANTS appartenant à des particuliers et des professionnels ont été piratées.",
       "link": "https://www.liberation.fr/societe/immigration/fuite-de-donnees-lagence-qui-edite-les-titres-didentite-visee-par-une-attaque-informatique-20260420_Z2EW6NSP2ZBF7PHXEBXSSMES7A/",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1776799716.0
     },
     {
-      "id": "Libération--7313617826122262304",
+      "id": "Libération--8256237377003905454",
       "source": "Libération",
       "title": "Pourquoi je ne me reconnais plus dans la littérature de Boualem Sansal, par Fariba Hachtroudi",
       "excerpt": "L’écrivaine iranienne était convaincue par les premiers textes de l’auteur algérien, qui faisait résonner les maux de son pays. Mais elle déplore désormais une fixation politique sur l’islam peu propi...",
       "link": "https://www.liberation.fr/idees-et-debats/tribunes/pourquoi-je-ne-me-reconnais-plus-dans-la-litterature-de-boualem-sansal-par-fariba-hachtroudi-20260421_JJVXSE2QJZBVBLNJAQYB3RRYEA/",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1776797783.0
     },
     {
-      "id": "Libération--1943718641367487188",
+      "id": "Libération-4175428044660775398",
       "source": "Libération",
       "title": "OpenAI et ChatGPT visés par une enquête pour avoir donné «des indications significatives» au suspect d’une tuerie",
       "excerpt": "Armes, fréquentations des lieux ou nombre de victimes à faire pour obtenir l’attention des médias… Phoenix Ikner, 20 ans, avait obtenu du chatbot des renseignements avant d’ouvrir le feu à l’universit...",
       "link": "https://www.liberation.fr/international/amerique/openai-et-chatgpt-vises-par-une-enquete-pour-avoir-donne-des-indications-significatives-au-suspect-dune-tuerie-20260421_W2TQ73X7F5BV7FA74PH56NBINM/",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1776796996.0
     },
     {
-      "id": "Le Monde-3044202462734304223",
-      "source": "Le Monde",
-      "title": "LFI huée lors d’une commémoration d’attentat antisémite : Jean-Luc Mélenchon dénonce une « opération montée d’avance » et veut des « explications »",
-      "excerpt": "Des tensions inédites secouent la couverture médiatique d’une commémoration à Toulouse, alors que des accusations de manipulation et de rétention d’information visent France Télévisions et sa rédactio...",
-      "link": "https://www.lemonde.fr/politique/article/2026/04/21/lfi-huee-lors-d-une-commemoration-d-attentat-antisemite-jean-luc-melenchon-veut-des-explications_6682054_823448.html",
-      "time": "Il y a 2h",
-      "pubDate": 1776796974.0
-    },
-    {
-      "id": "Libération-7953403794077600166",
+      "id": "Libération--5871399338358780154",
       "source": "Libération",
       "title": "Durcissement des conditions de séjour : quand des patrons veulent régulariser des sans-papiers",
       "excerpt": "Alors que de nombreux secteurs dépendent des travailleurs immigrés, les traces du court passage de Bruno Retailleau au ministère de l’Intérieur, où il a serré la vis sur les conditions d’accueil, se f...",
       "link": "https://www.liberation.fr/idees-et-debats/editorial/durcissement-des-conditions-de-sejour-quand-des-patrons-veulent-regulariser-des-sans-papiers-20260421_NMERGKVTGBAOPNNCDCXRE37P7E/",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1776796932.0
     },
     {
-      "id": "Libération--5343823834935981615",
+      "id": "Libération-7469292005321792025",
       "source": "Libération",
       "title": "Régularisation des salariés sans papiers défendue par des patrons : «Voir un excellent ouvrier expulsé, c’est du gâchis pour tous»",
       "excerpt": "Plus d’un an après le durcissement des conditions de régularisation des travailleurs immigrés avec la «circulaire Retailleau», les organisations patronales pestent contre ce tour de vis. D’autant que...",
       "link": "https://www.liberation.fr/economie/social/regularisation-des-salaries-sans-papiers-defendue-par-des-patrons-voir-un-excellent-ouvrier-expulse-cest-du-gachis-pour-tous-20260421_FUNGG7XL7FHSZECMNOQYXXI4XY/",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1776796886.0
     },
     {
-      "id": "Libération--2483542340709709825",
+      "id": "Libération-5831591364870756055",
       "source": "Libération",
       "title": "Programme du PS : six grandes idées pour la présidentielle de 2027",
       "excerpt": "Retraites, environnement, fiscalité, éducation… S’il n’a toujours pas de candidat désigné pour la présidentielle, le Parti socialiste s’est doté d’un projet, présenté ce mardi devant le bureau nationa...",
       "link": "https://www.liberation.fr/politique/programme-du-ps-six-grandes-idees-pour-2027-20260421_UTUMHIMNQJDVZNI3SBUZN4MH3Q/",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1776796259.0
     },
     {
-      "id": "Libération-8527037753031428814",
+      "id": "Libération--4758338240859861067",
       "source": "Libération",
       "title": "Prix du carburant : Sébastien Lecornu annonce une aide de 20 centimes par litre pour trois millions de «travailleurs modestes»",
       "excerpt": "Pour faire face à la hausse du prix à la pompe, le Premier ministre a annoncé ce mardi 21 avril une nouvelle aide ciblée sur les «grands rouleurs», ainsi que le renforcement des mesures pour les pêche...",
@@ -172,7 +169,7 @@
       "pubDate": 1776795917.0
     },
     {
-      "id": "Le Monde--4446011409100126625",
+      "id": "Le Monde-6074968033344644787",
       "source": "Le Monde",
       "title": "Angoulême : le groupe Morgane désigné pour organiser un nouveau festival de bande dessinée",
       "excerpt": "La tenue de la manifestation reste suspendue à l’issue de la procédure judiciaire lancée par la société 9ᵉ Art+, évincée de l’organisation après la crise qui a éclaté en 2025.",
@@ -181,7 +178,7 @@
       "pubDate": 1776795776.0
     },
     {
-      "id": "Le Monde--8450770390500626898",
+      "id": "Le Monde-4293073476552783280",
       "source": "Le Monde",
       "title": "OpenAI et ChatGPT visés par une enquête criminelle en Floride, en lien avec des tirs mortels",
       "excerpt": "Le robot conversationnel a en particulier formulé des suggestions quant à l’arme et aux munitions adaptées, ainsi qu’au moment et aux endroits propices pour toucher le plus de personnes possible. Sur...",
@@ -190,7 +187,7 @@
       "pubDate": 1776795540.0
     },
     {
-      "id": "France Info-5807730308420986751",
+      "id": "France Info-7122044239240693913",
       "source": "France Info",
       "title": "Le futur festival de la BD d'Angoulême confié à l'organisateur des Francofolies",
       "excerpt": "La société 9e Art+, qui organisait l'événement actuel, a été évincée à la suite d'une fronde massive des auteurs de bande dessinée à l'encontre de sa gestion. Sous contrat jusqu'en 2027, elle a lancé...",
@@ -199,7 +196,7 @@
       "pubDate": 1776795040.0
     },
     {
-      "id": "Le Monde--1707808252499757869",
+      "id": "Le Monde--5458956461675755110",
       "source": "Le Monde",
       "title": "Fed : Kevin Warsh, le candidat de Donald Trump, à l’épreuve du Sénat",
       "excerpt": "Désigné par la Maison Blanche pour succéder à Jerome Powell à la tête de la banque centrale des Etats-Unis, Kevin Warsh a promis d’agir en toute indépendance s’il est confirmé par le Sénat, ce qui est...",
@@ -208,72 +205,72 @@
       "pubDate": 1776794861.0
     },
     {
-      "id": "Le Monde-7383499629265702856",
+      "id": "Le Monde-5746747336216154645",
       "source": "Le Monde",
       "title": "Des capteurs de Météo-France de l’aéroport de Roissy au cœur d’une suspicion de manipulation sur Polymarket",
       "excerpt": "Les 6 et 15 avril au soir, les températures enregistrées par une sonde positionnée à Paris - Charles-de-Gaulle se sont anormalement emballées. Phénomène météo ou anomalie ? De forts soupçons pèsent su...",
       "link": "https://www.lemonde.fr/pixels/article/2026/04/21/des-capteurs-de-meteo-france-de-l-aeroport-de-roissy-au-c-ur-d-une-suspicion-de-manipulation-sur-polymarket_6682047_4408996.html",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1776793903.0
     },
     {
-      "id": "Le Monde--5794216230787782815",
+      "id": "Le Monde--3356323559343715144",
       "source": "Le Monde",
       "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump annonce la prolongation du cessez-le-feu avec l’Iran jusqu’à nouvel ordre et le maintien du blocus des ports iraniens",
       "excerpt": "S’exprimant sur sa plateforme, Truth Social, le président américain a annoncé mardi soir avoir décidé de prolonger la trêve jusqu’à « ce que l’Iran présente une proposition visant à mettre fin au conf...",
       "link": "https://www.lemonde.fr/international/live/2026/04/21/en-direct-guerre-au-moyen-orient-j-d-vance-se-trouve-a-washington-pour-participer-a-des-reunions-supplementaires-retardant-son-depart-pour-le-pakistan-justifie-la-maison-blanche_6681958_3210.html",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1776792910.0
     },
     {
-      "id": "Le Monde--7679164233807522710",
+      "id": "Le Monde--9166312743011531249",
       "source": "Le Monde",
       "title": "Saint-Pierre-et-Miquelon, un exemple pionnier d’adaptation au changement climatique",
       "excerpt": "A l’automne, les premiers habitants de Miquelon pourraient s’installer dans leur nouveau village. Ce déménagement, premier cas de relocalisation anticipée d’une commune entière sur le territoire franç...",
       "link": "https://www.lemonde.fr/planete/visuel/2026/04/21/saint-pierre-et-miquelon-un-exemple-pionnier-d-adaptation-au-changement-climatique_6682045_3244.html",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1776792604.0
     },
     {
-      "id": "France Info-7713347707227832931",
+      "id": "France Info-7610756694097979218",
       "source": "France Info",
       "title": "Le médicament Qalsody, traitement contre une forme rare de la maladie de Charcot, désormais éligible au remboursement en France",
       "excerpt": "L'intérêt potentiel du traitement, jugé pour l'heure \"faible\", devra toutefois être confirmé, souligne la Haute Autorité de santé.",
       "link": "https://www.franceinfo.fr/sante/maladie-de-charcot-le-traitement-qalsody-desormais-eligible-au-remboursement-en-france_7954067.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1776792452.0
     },
     {
-      "id": "Le Monde--7899823149327227186",
+      "id": "Le Monde-2680311527748864909",
       "source": "Le Monde",
       "title": "Après sa condamnation pour « vol de données informatiques », un ex-détenu français au Qatar dénonce le « silence » de l’Elysée",
       "excerpt": "André, spécialiste français de la cybersécurité, a été emprisonné durant deux cent soixante-quatre jours au Qatar. Il dénonce, auprès du « Monde », le système judiciaire « partial », ses conditions d’...",
       "link": "https://www.lemonde.fr/politique/article/2026/04/21/apres-sa-condamnation-pour-vol-de-donnees-informatiques-un-ex-detenu-francais-au-qatar-denonce-le-silence-de-l-elysee_6682024_823448.html",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1776783611.0
     },
     {
-      "id": "France Info-7312205110132588693",
+      "id": "France Info--3644412982906621820",
       "source": "France Info",
       "title": "\"C'est une catastrophe judiciaire\" : la famille de l'ancien ministre Robert Boulin mise sur le pôle \"cold cases\" de Nanterre pour relancer l'enquête",
       "excerpt": "Fabienne Boulin-Burgeat clame depuis de nombreuses années que son père a été \"assassiné\" et que le crime a été \"maquillé en suicide\".",
       "link": "https://www.franceinfo.fr/societe/justice/pres-de-cinquante-ans-apres-la-mort-de-robert-boulin-la-famille-de-l-ancien-ministre-mise-sur-le-pole-cold-cases-de-nanterre-pour-relancer-l-enquete_7951331.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1776782722.0
     },
     {
-      "id": "France Info--841270017184968007",
+      "id": "France Info-1865610441118889305",
       "source": "France Info",
       "title": "INFO FRANCETV. Trois nouvelles plaintes déposées contre Daniel Siad, soupçonné d'avoir agi comme rabatteur pour Jeffrey Epstein",
       "excerpt": "La justice française a ouvert deux enquêtes en février pour faire la lumière sur le volet français de l'affaire Epstein.",
       "link": "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/info-francetv-trois-nouvelles-plaintes-deposees-contre-daniel-siad-soupconne-d-avoir-agi-comme-rabatteur-pour-jeffrey-epstein_7953545.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1776781838.0
     }
   ],
   "anglophone": [
     {
-      "id": "NPR--3605143800472275567",
+      "id": "NPR--6764220681316350469",
       "source": "NPR",
       "title": "Instead of civil war, a naked mole rat colony changed queens peacefully",
       "excerpt": "These matriarchal rodents often have  bloody succession wars to replace their queen. But in a colony in California, Queen Tere ceded the throne to her daughter, Arwen, without violence.",
@@ -282,16 +279,16 @@
       "pubDate": 1776802339.0
     },
     {
-      "id": "NPR--2479146834727637484",
+      "id": "NPR--5011411415400440741",
       "source": "NPR",
       "title": "Florida AG launches criminal investigation into ChatGPT over FSU shooting",
       "excerpt": "Florida's attorney general is launching a criminal investigation into the alleged role of ChatGPT in a mass shooting at Florida State University last year.",
       "link": "https://www.npr.org/2026/04/21/nx-s1-5793967/florida-openai-investigation-mass-shooting-fsu",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1776801726.0
     },
     {
-      "id": "NPR--2290727410642544883",
+      "id": "NPR--7018870990931720708",
       "source": "NPR",
       "title": "Florida Democrat Rep. Sheila Cherfilus-McCormick, facing possible expulsion, resigns",
       "excerpt": "The Florida Democrat faced a potential expulsion vote in the House as she prepares for a federal trial on allegations that she stole disaster funds and used some of the money to finance her campaign.",
@@ -300,7 +297,7 @@
       "pubDate": 1776798790.0
     },
     {
-      "id": "The Guardian-4118258659604991513",
+      "id": "The Guardian-4056197430674524547",
       "source": "The Guardian",
       "title": "Taiwan president blames China for forced cancellation of Eswatini trip",
       "excerpt": "Lai Ching-te abandons visit after Seychelles, Mauritius and Madagascar revoke overflight permission   Taiwan’s president, Lai Ching-te, has cancelled his trip to Eswatini, the democratic island’s only...",
@@ -309,7 +306,7 @@
       "pubDate": 1776795749.0
     },
     {
-      "id": "The Guardian--208143458332928966",
+      "id": "The Guardian--3387058651299539370",
       "source": "The Guardian",
       "title": "Two US officials who died after Mexico drug raid reported to be CIA agents",
       "excerpt": "Mexico to investigate possible breach of its constitution and assess US’s role in anti-drug operation near Chihuahua Mexico has launched an investigation into a possible breach of its constitution as...",
@@ -318,25 +315,25 @@
       "pubDate": 1776795070.0
     },
     {
-      "id": "BBC News--6343359645544685852",
+      "id": "BBC News-6525051585661030534",
       "source": "BBC News",
       "title": "Mass trial for 486 alleged gang members begins in El Salvador",
       "excerpt": "Footage released by the attorney general's office shows large groups of men in prison attending the trial via video link.",
       "link": "https://www.bbc.com/news/videos/ce9mernj0gko?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1776793539.0
     },
     {
-      "id": "BBC News-5153277199412918303",
+      "id": "BBC News-3173343986572369688",
       "source": "BBC News",
       "title": "Role of US officials killed in crash in Mexico under scrutiny",
       "excerpt": "Two Americans who reportedly worked for the CIA died in a car crash after a Mexican-led operation to destroy a drug lab.",
       "link": "https://www.bbc.com/news/articles/c86expy881qo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1776792956.0
     },
     {
-      "id": "BBC News-5071215387774994436",
+      "id": "BBC News--3742951582926739403",
       "source": "BBC News",
       "title": "Zelensky says failure of US envoys to visit Kyiv is 'disrespectful'",
       "excerpt": "US envoy Steve Witkoff and Donald Trump's son-in-law Jared Kushner have travelled to Moscow several times, but never to Kyiv.",
@@ -345,7 +342,7 @@
       "pubDate": 1776788744.0
     },
     {
-      "id": "The Guardian-485518703280394548",
+      "id": "The Guardian--993261792512756438",
       "source": "The Guardian",
       "title": "Carney names broad team to advise on tense US-Canada trade talks",
       "excerpt": "Conservatives and former provincial premiers among those PM names to advisory committee on economic relations Canada’s prime minister, <a href=\"https://www.theguardian.com/world/mark-carney\">Mark Carn...",
@@ -354,7 +351,7 @@
       "pubDate": 1776788139.0
     },
     {
-      "id": "BBC News-6977413431720887729",
+      "id": "BBC News--8839052711254243309",
       "source": "BBC News",
       "title": "Israeli soldiers punished over vandalism of Jesus statue in Lebanon",
       "excerpt": "Two soldiers will be removed from combat duty and receive 30 days of military detention, Israel's military says.",
@@ -363,7 +360,7 @@
       "pubDate": 1776788007.0
     },
     {
-      "id": "BBC News-7266050684128362",
+      "id": "BBC News--5039947155681542634",
       "source": "BBC News",
       "title": "Iran sees mass redundancies from war with US and Israel",
       "excerpt": "The impact is being felt by manufacturers, retailers and the digital sector, amid warnings it could get worse if the war resumes.",
@@ -372,16 +369,16 @@
       "pubDate": 1776787551.0
     },
     {
-      "id": "BBC News--8588269342857223726",
+      "id": "BBC News--512002337781230874",
       "source": "BBC News",
       "title": "Canadian killed in shooting at Mexico's ancient Teotihuacán pyramids",
       "excerpt": "Several people were also injured in the incident on Monday at the popular tourist site, say Mexican officials, weeks before the country hosts the Fifa World Cup.",
       "link": "https://www.bbc.com/news/articles/crm1rg3ydkvo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1776783319.0
     },
     {
-      "id": "NPR--5457632287422655049",
+      "id": "NPR--6625500027386957487",
       "source": "NPR",
       "title": "Want to lighten your mental load? First, let go of these gender myths",
       "excerpt": "\"Men can't see the mess.\" \"Women are better at chores.\" These myths position women to take on more emotional thinking, says researcher Leah Ruppanner. She shares what works to reclaim your headspace.",
@@ -390,16 +387,16 @@
       "pubDate": 1776781483.0
     },
     {
-      "id": "BBC News--99521394402349393",
+      "id": "BBC News--5282870432286281425",
       "source": "BBC News",
       "title": "Unprecedented ruling finds Hungary's anti-LGBTQ laws in breach of EU values",
       "excerpt": "The EU's top court finds that the reforms breached EU values on a number of levels and broke the founding values of the EU treaty.",
       "link": "https://www.bbc.com/news/articles/cddqvyr0yjro?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 8h",
+      "time": "Il y a 9h",
       "pubDate": 1776774511.0
     },
     {
-      "id": "NPR--6054627704337163794",
+      "id": "NPR--4020677844559172406",
       "source": "NPR",
       "title": "Trump extends U.S. ceasefire with Iran at Pakistan's request",
       "excerpt": "The extension was announced just hours before it was set to expire. The president did not provide details on how long the new ceasefire extension will last.",
@@ -408,52 +405,52 @@
       "pubDate": 1776774255.0
     },
     {
-      "id": "NPR-3885094290488965232",
+      "id": "NPR-7919176702655660500",
       "source": "NPR",
       "title": "U.S.-Iran ceasefire nears its end. And, Fed chair nominee faces tough hearing",
       "excerpt": "The ceasefire between the U.S. and Iran is set to expire tomorrow. Peace talks between the countries remain uncertain. And, Trump's pick to lead the Federal Reserve faces a tough confirmation hearing...",
       "link": "https://www.npr.org/2026/04/21/g-s1-118194/up-first-newsletter-us-iran-israel-ceasefire-lori-chavez-deremer-kevin-warsh",
-      "time": "Il y a 9h",
+      "time": "Il y a 10h",
       "pubDate": 1776771486.0
     },
     {
-      "id": "The Guardian-6275363830554364104",
+      "id": "The Guardian-3700774436933331374",
       "source": "The Guardian",
       "title": "‘We were terrified they were going to kill us’: fishers who survived US boat strike speak out",
       "excerpt": "An Ecuadorian fishing crew describe their ordeal as victims of Trump’s purported war on ‘narcoterrorists’ By 4pm, the light was softening over the Pacific, and the crew of the Don Maca were finishing...",
       "link": "https://www.theguardian.com/global-development/2026/apr/21/ecuador-us-boat-strike-survivors",
-      "time": "Il y a 10h",
+      "time": "Il y a 11h",
       "pubDate": 1776769247.0
     },
     {
-      "id": "NPR--2992691958564047029",
+      "id": "NPR-7735403613554370178",
       "source": "NPR",
       "title": "Ceasefire agreement between the U.S. and Iran ends soon",
       "excerpt": "The ceasefire agreement between the U.S. and Iran ends soon. President Trump says a U.S. delegation is going to Pakistan for talks, but Iran hasn't confirmed their attendance.",
       "link": "https://www.npr.org/2026/04/21/nx-s1-5791613/ceasefire-agreement-between-the-u-s-and-iran-ends-wednesday",
-      "time": "Il y a 10h",
+      "time": "Il y a 11h",
       "pubDate": 1776768188.0
     },
     {
-      "id": "NPR--7880505255607735724",
+      "id": "NPR-2476977930491152262",
       "source": "NPR",
       "title": "The hidden power keeping wages low",
       "excerpt": "For decades, economists gave short shrift to the idea of monopsony — a power employers can have to suppress wages. Now a wave of research suggests it's everywhere, and a new book argues it's key to un...",
       "link": "https://www.npr.org/sections/planet-money/2026/04/21/g-s1-118071/the-hidden-power-keeping-wages-low",
-      "time": "Il y a 10h",
+      "time": "Il y a 11h",
       "pubDate": 1776767400.0
     },
     {
-      "id": "BBC News-3296904973676957142",
+      "id": "BBC News-3285097236022732265",
       "source": "BBC News",
       "title": "Madonna offers reward for return of missing Coachella costume",
       "excerpt": "The items, which she says are \"part of my history\", disappeared after her slot with Sabrina Carpenter.",
       "link": "https://www.bbc.com/news/articles/crm19j48wnno?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 10h",
+      "time": "Il y a 11h",
       "pubDate": 1776767345.0
     },
     {
-      "id": "BBC News-3656388005975216315",
+      "id": "BBC News--6545758537570595187",
       "source": "BBC News",
       "title": "Japan loosens arms export rules in break from post-WW2 pacifism",
       "excerpt": "This clears the way for Japan to sell weapons to more than a dozen countries.",
@@ -462,25 +459,25 @@
       "pubDate": 1776766434.0
     },
     {
-      "id": "NPR--4171997166452303876",
+      "id": "NPR-8474979627632716849",
       "source": "NPR",
       "title": "The surprising origin of 4 features that superglue kids — and adults — to screens",
       "excerpt": "Taken together, these four features can create a trancelike state that can keep us stuck on social media apps or video games for hours. Children are particularly vulnerable.",
       "link": "https://www.npr.org/2026/04/21/nx-s1-5776665/surprising-origin-features-superglue-kids-adults-to-screens",
-      "time": "Il y a 12h",
+      "time": "Il y a 13h",
       "pubDate": 1776762000.0
     },
     {
-      "id": "NPR--2852712644882603775",
+      "id": "NPR--5418010663247425175",
       "source": "NPR",
       "title": "Here are 3 takeaways as Trump's pick to lead the Fed faces a confirmation fight",
       "excerpt": "President Trump's pick to lead the Federal Reserve went before a Senate committee today — but Kevin Warsh's confirmation could be held up by forces that are outside his control.",
       "link": "https://www.npr.org/2026/04/21/nx-s1-5787863/federal-reserve-kevin-warsh-confirmation-hearing",
-      "time": "Il y a 12h",
+      "time": "Il y a 13h",
       "pubDate": 1776762000.0
     },
     {
-      "id": "The Guardian-5482450793970848638",
+      "id": "The Guardian-7418008724718875428",
       "source": "The Guardian",
       "title": "Canadian woman killed after gunman opens fire at Mexico’s Teotihuacán pyramids",
       "excerpt": "At least four more injured at world heritage site in latest violent incident as country prepares to co-host World Cup One Canadian tourist has been killed and six other people were wounded by gunfire...",
@@ -489,7 +486,7 @@
       "pubDate": 1776741423.0
     },
     {
-      "id": "BBC News--1922910971224621611",
+      "id": "BBC News--9190589643927238578",
       "source": "BBC News",
       "title": "US singer D4vd pleads not guilty to murder in death of missing teen girl",
       "excerpt": "Prosecutors say the singer, real name David Anthony Burke, could face life in prison due to the nature of the case, if convicted.",
@@ -498,7 +495,7 @@
       "pubDate": 1776733541.0
     },
     {
-      "id": "The Guardian--5358500284955693702",
+      "id": "The Guardian--1312604876200096187",
       "source": "The Guardian",
       "title": "Carney says Canada’s strong economic ties to US are ‘weakness’ to be corrected",
       "excerpt": "Prime minister details efforts to attract investment and sign trade deals with other countries in 10-minute video address <a href=\"https://www.theguardian.com/world/canada\">Canada</a>’s strong economi...",
@@ -507,7 +504,7 @@
       "pubDate": 1776688539.0
     },
     {
-      "id": "The Guardian-506132270433432893",
+      "id": "The Guardian-1107985856316894121",
       "source": "The Guardian",
       "title": "Charlize Theron joins chorus of disapproval over Timothée Chalamet’s ballet comments",
       "excerpt": "The former ballet dancer said Chalamet’s comments were ‘reckless’ in an interview with the New York Times in which she also discussed her violent childhood Actor and former ballet dancer Charlize Ther...",
@@ -516,7 +513,7 @@
       "pubDate": 1776686677.0
     },
     {
-      "id": "The Guardian--63303283010465278",
+      "id": "The Guardian-682378170291367596",
       "source": "The Guardian",
       "title": "Arrests fuel fears among Madagascar’s gen Z protesters that new regime no better than one they overthrew",
       "excerpt": "Jubilation is turning to disenchantment as young activists arrested after protest calling for election date to be set The arrest of several protesters in Madagascar has increased fears among young peo...",
@@ -525,16 +522,16 @@
       "pubDate": 1776657602.0
     },
     {
-      "id": "The Guardian--5675967879025437022",
+      "id": "The Guardian-7174815549836149094",
       "source": "The Guardian",
       "title": "Iranian American woman arrested in Los Angeles for alleged arms trafficking",
       "excerpt": "Federal prosecutor says woman is suspected of dealing weapons to Africa on behalf of Iranian government A <a href=\"https://www.theguardian.com/us-news/california\">California</a> woman was arrested at...",
       "link": "https://www.theguardian.com/us-news/2026/apr/19/woman-arrested-la-arms-trafficking-iran-africa",
-      "time": "Il y a 1j",
+      "time": "Il y a 2j",
       "pubDate": 1776635790.0
     },
     {
-      "id": "The Guardian-2567638525678604932",
+      "id": "The Guardian--5490439895318879502",
       "source": "The Guardian",
       "title": "Kenyan firm sacks more than 1,000 workers after losing Meta contract",
       "excerpt": "Meta paused work with Sama last month after allegations about staff viewing private scenes filmed by smart glasses More than 1,000 low-paid workers in Kenya have been abruptly sacked by an outsourcing...",
@@ -543,5 +540,5 @@
       "pubDate": 1776445144.0
     }
   ],
-  "lastUpdate": "2026-04-21T21:26:00.148299"
+  "lastUpdate": "2026-04-21T22:04:57.184771"
 }
