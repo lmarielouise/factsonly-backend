@@ -1,160 +1,193 @@
 {
   "francophone": [
     {
-      "id": "France Info--7569082191779719044",
-      "source": "France Info",
-      "title": "Le commerce d'animaux sauvages augmente le risque de transmissions de virus à l'homme selon une étude",
-      "excerpt": "Une étude menée à l'université de Fribourg met en lumière l'impact du commerce de la faune sauvage sur la transmission de pathogènes entre animaux et humains.",
-      "link": "https://www.franceinfo.fr/environnement/biodiversite/animaux/le-commerce-d-animaux-sauvages-augmente-le-risque-de-transmissions-de-virus-a-l-homme-selon-une-etude_7956326.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 11 min",
-      "pubDate": 1776854468.0
+      "id": "Libération-8466697905915841428",
+      "source": "Libération",
+      "title": "La France va organiser sa première coupe du monde de basket en 2031",
+      "excerpt": "La Fédération internationale de basket (Fiba) a désigné, ce mercredi 22 avril, la France comme pays hôte du Mondial 2031, une première. Les matches se joueront à Paris, Lyon et Lille.",
+      "link": "https://www.liberation.fr/sports/la-france-va-organiser-sa-premiere-coupe-du-monde-de-basket-en-2031-20260422_AU26INUNGRA77G27OBVSUYUV6M/",
+      "time": "Il y a 6 min",
+      "pubDate": 1776858066.0,
+      "sources": [
+        "Libération",
+        "France Info"
+      ],
+      "multiSource": true,
+      "sourceCount": 2
     },
     {
-      "id": "France Info--3901599005005695269",
-      "source": "France Info",
-      "title": "Guerre au Moyen-Orient : les Gardiens de la Révolution disent avoir saisi deux navires tentant de passer le détroit d'Ormuz",
-      "excerpt": "Les deux bateaux \"en infraction ont été saisis\" et \"dirigés vers la côte iranienne\", assure l'armée idéologique de l'Iran.",
-      "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-donald-trump-prolonge-la-treve-en-iran-teheran-n-a-pas-encore-reagi_7956038.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 17 min",
-      "pubDate": 1776854125.0
-    },
-    {
-      "id": "Libération--174816459198031832",
+      "id": "Libération-1413280268707324884",
       "source": "Libération",
       "title": "EN DIRECT - Guerre au Moyen-Orient : l’Iran affirme avoir saisi deux navires qui tentaient de passer par le détroit d’Ormuz",
       "excerpt": "A quelques heures de la fin du cessez-le-feu avec l’Iran, Donald Trump a annoncé mardi soir sa prolongation, à la demande du Pakistan selon lui. Il n’a cette fois pas fixé de date limite, disant atten...",
       "link": "https://www.liberation.fr/international/amerique/en-direct-guerre-au-moyen-orient-les-etats-unis-disent-cibler-directement-les-sources-de-revenus-de-liran-20260422_FC6LKZZM4BELXKLLMOEKFMMMNM/",
-      "time": "Il y a 18 min",
-      "pubDate": 1776854053.0
+      "time": "Il y a 21 min",
+      "pubDate": 1776857131.0
     },
     {
-      "id": "Libération-8549972846045830430",
+      "id": "Libération-4018049085207403577",
+      "source": "Libération",
+      "title": "Soutien à l’Ukraine : l’UE donne enfin un premier feu vert pour son prêt de 90 milliards d’euros à Kyiv",
+      "excerpt": "Les 27 ont lancé ce mercredi la procédure pour débloquer l’enveloppe promise en décembre. La Hongrie devrait cesser de s’y opposer, maintenant que l’Ukraine a réparé l’oléoduc Droujba qui y achemine l...",
+      "link": "https://www.liberation.fr/international/europe/soutien-a-lukraine-lue-espere-enfin-conclure-son-pret-de-90-milliards-deuros-a-kyiv-20260422_WGNJPSQ2ERAU5DDD5CZMR74LAM/",
+      "time": "Il y a 22 min",
+      "pubDate": 1776857071.0
+    },
+    {
+      "id": "Libération--5727063302540020284",
+      "source": "Libération",
+      "title": "Rapt lié aux cryptomonnaies : trois adultes et deux enfants séquestrés en Bretagne, 700 000 euros extorqués",
+      "excerpt": "Ce sont des voisins qui ont alerté lundi la gendarmerie après avoir découvert les victimes ligotées, à Ploudalmézeau, dans le Finistère. Les suspects sont en fuite.",
+      "link": "https://www.liberation.fr/economie/economie-numerique/rapt-lie-aux-cryptomonnaies-trois-adultes-et-deux-enfants-sequestres-en-bretagne-700-000-euros-extorques-20260422_KUYOAXUX2ZCZTPZT43MZDNCTMI/",
+      "time": "Il y a 26 min",
+      "pubDate": 1776856824.0
+    },
+    {
+      "id": "Le Monde-8468916210666573032",
+      "source": "Le Monde",
+      "title": "EN DIRECT, guerre en Ukraine : l’UE approuve le déblocage du prêt de 90 milliards d’euros à l’Ukraine, après la levée du veto de la Hongrie",
+      "excerpt": "Les ambassadeurs des pays membres de ​l’Union ‌européenne ont approuvé, mercredi, le déblocage du prêt, ‌ainsi qu’un 20e paquet ​de sanctions contre la ‌Russie, ‌a annoncé ⁠la présidence ‌chypriote ‌d...",
+      "link": "https://www.lemonde.fr/international/live/2026/04/22/en-direct-guerre-en-ukraine-l-ue-approuve-le-deblocage-du-pret-de-90-milliards-d-euros-a-l-ukraine-apres-la-levee-du-veto-de-la-hongrie_6681322_3210.html",
+      "time": "Il y a 27 min",
+      "pubDate": 1776856774.0
+    },
+    {
+      "id": "Le Monde--8946424907109696290",
+      "source": "Le Monde",
+      "title": "Le patronat hostile à l’idée d’un coup de rabot des allégements de charges",
+      "excerpt": "Le sujet a été abordé lors de la réunion, mardi matin à Bercy, du comité d’alerte des finances publiques, à laquelle participaient plusieurs ministres, ainsi – entre autres – que les acteurs sociaux.",
+      "link": "https://www.lemonde.fr/politique/article/2026/04/22/le-patronat-hostile-a-l-idee-d-un-coup-de-rabot-des-allegements-de-charges_6682392_823448.html",
+      "time": "Il y a 47 min",
+      "pubDate": 1776855611.0
+    },
+    {
+      "id": "Le Monde--7163392434314906563",
+      "source": "Le Monde",
+      "title": "Budget : Sébastien Lecornu ajoute 2 milliards d’euros d’économies en dernière minute, la Cour des comptes s’agace",
+      "excerpt": "En 2025, la réduction du déficit a tenu presque entièrement à l’augmentation des impôts. Pour aller plus loin, la Cour des comptes exhorte le gouvernement à mettre enfin en œuvre des « économies struc...",
+      "link": "https://www.lemonde.fr/politique/article/2026/04/22/budget-sebastien-lecornu-ajoute-2-milliards-d-euros-d-economies-en-derniere-minute-la-cour-des-comptes-s-agace_6682391_823448.html",
+      "time": "Il y a 47 min",
+      "pubDate": 1776855609.0
+    },
+    {
+      "id": "Libération--4172502454472677052",
+      "source": "Libération",
+      "title": "Radio Nova : polémique après l’annulation de «la Dernière» à Auray, récemment passée à droite",
+      "excerpt": "Alors qu’elle devait accueillir le programme phare de animé par Guillaume Meurice au mois de juin, la mairie perdue par la gauche aux dernières municipales s’est désengagée, quitte à payer 10 000 euro...",
+      "link": "https://www.liberation.fr/culture/polemique-apres-lannulation-de-lemission-la-derniere-a-auray-recemment-passee-a-droite-20260422_S6OVDNFQCVDJXA56OSXMPTJKTQ/",
+      "time": "Il y a 47 min",
+      "pubDate": 1776855565.0
+    },
+    {
+      "id": "France Info-3256021821906517697",
+      "source": "France Info",
+      "title": "Le commerce d'animaux sauvages augmente le risque de transmissions de virus à l'homme selon une étude",
+      "excerpt": "Une étude menée à l'université de Fribourg met en lumière l'impact du commerce de la faune sauvage sur la transmission de pathogènes entre animaux et humains.",
+      "link": "https://www.franceinfo.fr/environnement/biodiversite/animaux/le-commerce-d-animaux-sauvages-augmente-le-risque-de-transmissions-de-virus-a-l-homme-selon-une-etude_7956326.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1776854468.0
+    },
+    {
+      "id": "France Info--2300182183609057544",
+      "source": "France Info",
+      "title": "Guerre au Moyen-Orient : les Gardiens de la Révolution disent avoir saisi deux navires tentant de passer le détroit d'Ormuz",
+      "excerpt": "Les deux bateaux \"en infraction ont été saisis\" et \"dirigés vers la côte iranienne\", assure l'armée idéologique de l'Iran.",
+      "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-donald-trump-prolonge-la-treve-en-iran-teheran-n-a-pas-encore-reagi_7956038.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1776854125.0
+    },
+    {
+      "id": "Libération--2385804143352805680",
       "source": "Libération",
       "title": "Le Parlement britannique adopte une ambitieuse loi pour une «génération sans tabac»",
       "excerpt": "Les députés et les Lords se sont mis d’accord sur une version finale du texte qui prévoit d’interdire la vente de cigarettes aux personnes nées à partir de 2009. Une proposition de loi similaire a été...",
       "link": "https://www.liberation.fr/societe/sante/au-royaume-uni-un-ultime-vote-pour-mettre-en-place-la-premiere-generation-sans-tabac-deurope-20260309_ZFJRPKRNJNHADHJXZZY7737NDA/",
-      "time": "Il y a 21 min",
+      "time": "Il y a 1h",
       "pubDate": 1776853871.0
     },
     {
-      "id": "France Info-7141775965590928893",
+      "id": "France Info--2180821634477585785",
       "source": "France Info",
       "title": "Une enquête ouverte dans le Finistère après la séquestration de cinq membres d'une même famille liée aux cryptomonnaies",
       "excerpt": "Les victimes ont été découvertes ligotées à leur domicile par des voisins. Aucun suspect n'a été interpellé à ce stade.",
       "link": "https://www.franceinfo.fr/economie/bitcoin/une-enquete-ouverte-dans-le-finistere-apres-la-sequestration-de-cinq-membres-d-une-meme-famille-liee-aux-cryptomonnaies_7956560.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 25 min",
+      "time": "Il y a 1h",
       "pubDate": 1776853665.0
     },
     {
-      "id": "Libération--63345798795541288",
+      "id": "Libération-2023395725770936587",
       "source": "Libération",
       "title": "Les salariés des centres de tri sélectif des déchets exposés à de multiples facteurs de risques pour leur santé",
       "excerpt": "Pour l’Agence de sécurité sanitaire, la situation est d’autant plus préoccupante que la quantité de déchets destinés au tri devrait «significativement augmenter».",
       "link": "https://www.liberation.fr/environnement/pollution/les-salaries-des-centres-de-tri-selectif-des-dechets-exposes-a-de-multiples-facteurs-de-risques-pour-leur-sante-20260422_3I5HTMYP6RE37NRMZWOIQZZLGU/",
-      "time": "Il y a 31 min",
+      "time": "Il y a 1h",
       "pubDate": 1776853286.0
     },
     {
-      "id": "Libération--26041304168855032",
+      "id": "Libération--930481928719016492",
       "source": "Libération",
       "title": "Un jeune homme soupçonné d’être «HexDex», le hacker derrière les cyberattaques de fédérations sportives, arrêté et placé en garde à vue",
       "excerpt": "Agé de 22 ans, il a été interpellé lundi, 20 avril, soupçonné d’avoir publié plusieurs bases de données hackées, notamment de fédérations sportives ou d’agents de l’Education nationale, sur des platef...",
       "link": "https://www.liberation.fr/societe/police-justice/un-jeune-homme-soupconne-de-cyberattaques-massives-de-federations-sportives-arrete-et-place-en-garde-a-vue-20260422_F7GKCMGN5RAYFJ6ZKFUKNQLZ6I/",
-      "time": "Il y a 33 min",
+      "time": "Il y a 1h",
       "pubDate": 1776853173.0
     },
     {
-      "id": "Libération--641107143239423280",
+      "id": "Libération--7521355007591199185",
       "source": "Libération",
       "title": "Dans les Pyrénées-Orientales, un maire d’extrême droite s’en prend au drapeau LGBT",
       "excerpt": "A Elne, Steve Fortel a décidé de retirer du fronton de la mairie la bannière arc-en-ciel installée par l’ancienne municipalité de gauche.",
       "link": "https://www.liberation.fr/politique/dans-les-pyrenees-orientales-un-maire-dextreme-droite-sen-prend-au-drapeau-lgbt-20260422_FNGDNAELWFGCFFHWZBMBXPM5AU/",
-      "time": "Il y a 35 min",
+      "time": "Il y a 1h",
       "pubDate": 1776853036.0
     },
     {
-      "id": "Libération-1366561067139239734",
-      "source": "Libération",
-      "title": "Soutien à l’Ukraine : l’UE espère enfin conclure son prêt de 90 milliards d’euros à Kyiv",
-      "excerpt": "Les 27 lancent ce mercredi la procédure pour débloquer l’enveloppe promise en décembre. La Hongrie devrait cesser de s’y opposer, maintenant que l’Ukraine a réparé l’oléoduc Droujba qui y achemine le...",
-      "link": "https://www.liberation.fr/international/europe/soutien-a-lukraine-lue-espere-enfin-conclure-son-pret-de-90-milliards-deuros-a-kyiv-20260422_WGNJPSQ2ERAU5DDD5CZMR74LAM/",
-      "time": "Il y a 44 min",
-      "pubDate": 1776852487.0
-    },
-    {
-      "id": "Libération--7571792897317232886",
+      "id": "Libération--6121161218950512827",
       "source": "Libération",
       "title": "Un Stradivarius volé par les nazis en Pologne a-t-il été aperçu à Colmar lors d’une soirée concerto fin mars ?",
       "excerpt": "L’association Musique et spoliation assure auprès du «Parisien» que le prestigieux instrument d’une valeur de 10 millions d’euros, volé par les nazis à Varsovie en 1944, a été aperçu fin mars lors d’u...",
       "link": "https://www.liberation.fr/sciences/histoire/un-stradivarius-vole-par-les-nazis-en-pologne-a-t-il-ete-apercu-a-colmar-lors-dune-soiree-concerto-fin-mars-20260422_YWYUROFILJDO3C56SBJPM5MV4Y/",
-      "time": "Il y a 46 min",
+      "time": "Il y a 1h",
       "pubDate": 1776852386.0
     },
     {
-      "id": "Libération-3438329238470457890",
-      "source": "Libération",
-      "title": "Maternités en Nouvelle-Aquitaine : face au projet de réquisitions des praticiens, la crainte d’un «désastreux effet domino»",
-      "excerpt": "L’Agence régionale de santé projette de réquisitionner dès cet été des pédiatres et obstétriciens pour assurer les gardes dans les établissements clés en difficulté. Les spécialistes s’alarment et mon...",
-      "link": "https://www.liberation.fr/societe/sante/maternites-en-nouvelle-aquitaine-face-au-projet-de-requisitions-des-praticiens-la-crainte-dun-desastreux-effet-domino-20260422_L6Y2JDSNKZD75OD42PIQ72Q4FM/",
-      "time": "Il y a 50 min",
-      "pubDate": 1776852160.0
-    },
-    {
-      "id": "Libération--8225692463328867366",
-      "source": "Libération",
-      "title": "Maggie Cowles et ses tours de tables",
-      "excerpt": "Chaque mercredi, «Libération» passe en revue l’actualité du livre jeunesse. Cette semaine, une ribambelle de tables rondes recouvertes de victuailles et d’objets incongrus. Une chaise vide invite le l...",
-      "link": "https://www.liberation.fr/culture/livres/maggie-cowles-et-ses-tours-de-tables-20260422_DEFWBLP5YZDVRJQG5KKBTH277A/",
-      "time": "Il y a 50 min",
-      "pubDate": 1776852150.0
-    },
-    {
-      "id": "Le Monde--1914984587220971016",
+      "id": "Le Monde--5263267756749933037",
       "source": "Le Monde",
       "title": "Pour l’Iran, un statu quo inconfortable, entre cessez-le-feu et blocus",
       "excerpt": "La prolongation de la trêve annoncée par le président américain, mardi, place Téhéran, étranglé économiquement, dans une situation difficile à tenir dans la durée. Le risque d’une nouvelle escalade de...",
       "link": "https://www.lemonde.fr/international/article/2026/04/22/pour-l-iran-un-statu-quo-inconfortable-entre-cessez-le-feu-et-blocus_6682381_3210.html",
-      "time": "Il y a 52 min",
+      "time": "Il y a 1h",
       "pubDate": 1776852009.0
     },
     {
-      "id": "Le Monde--2721257696677595812",
+      "id": "Le Monde-5256775896226412187",
       "source": "Le Monde",
       "title": "Dans « La Poupée », une « love doll » ouvre les yeux et découvre le couple hétérosexuel",
       "excerpt": "La jeune Zoé Marchal détonne dans le rôle d’Audrey, objet sexuel en silicone acheté par Rémi, un quinquagénaire interprété par Vincent Macaigne.",
       "link": "https://www.lemonde.fr/culture/article/2026/04/22/dans-la-comedie-romantique-la-poupee-une-love-doll-ouvre-les-yeux-et-decouvre-le-couple-hetero_6682382_3246.html",
-      "time": "Il y a 52 min",
+      "time": "Il y a 1h",
       "pubDate": 1776852009.0
     },
     {
-      "id": "Le Monde--1609810746289768443",
-      "source": "Le Monde",
-      "title": "Réduire l’usage des cosmétiques diminue rapidement l’exposition aux perturbateurs endocriniens, selon une étude de l’Inserm",
-      "excerpt": "L’étude paraît alors que le Parlement européen doit se prononcer à la fin d’avril sur un changement de la réglementation européenne concernant les cosmétiques.",
-      "link": "https://www.lemonde.fr/sante/article/2026/04/22/reduire-l-usage-des-cosmetiques-diminue-rapidement-l-exposition-aux-perturbateurs-endocriniens-selon-une-etude-de-l-inserm_6682380_1651302.html",
-      "time": "Il y a 57 min",
-      "pubDate": 1776851750.0
-    },
-    {
-      "id": "France Info--5472780793642327060",
+      "id": "France Info-3400227999763536913",
       "source": "France Info",
       "title": "Les élections sénatoriales auront lieu le 27 septembre 2026",
       "excerpt": "Un peu plus de la moitié de l'hémicycle doit être renouvelée fin septembre, lors de ces élections qui vont précéder la présidentielle.",
       "link": "https://www.franceinfo.fr/elections/senatoriales/les-elections-senatoriales-auront-lieu-le-27-septembre-2026_7956497.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 59 min",
+      "time": "Il y a 1h",
       "pubDate": 1776851619.0
     },
     {
-      "id": "France Info--7934720732972735861",
+      "id": "France Info-949283068827230479",
       "source": "France Info",
       "title": "Bénéficiaires, montant, procédure... Ce qu'il faut savoir sur l'aide carburant pour les \"grands rouleurs\"",
       "excerpt": "Une aide de 50 euros doit être versée en juin aux travailleurs modestes pénalisés par l'envolée des prix à la pompe. Près de 3 millions de personnes pourront en bénéficier, selon le gouvernement.",
       "link": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/beneficiaires-montant-procedure-ce-qu-il-faut-savoir-sur-l-aide-carburant-pour-les-grands-rouleurs_7956197.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 59 min",
+      "time": "Il y a 1h",
       "pubDate": 1776851608.0
     },
     {
-      "id": "France Info-6730074522134708937",
+      "id": "France Info-4012758346228313415",
       "source": "France Info",
       "title": "Le cinéaste argentin Luis Puenzo, réalisateur du film oscarisé \"L'Histoire officielle\", est mort à l'âge de 80 ans",
       "excerpt": "Multirécompensé et figure emblématique du cinéma argentin, Luis Puenzo a longtemps œuvré au développement de l'industrie cinématographique dans son pays.",
@@ -163,61 +196,34 @@
       "pubDate": 1776851561.0
     },
     {
-      "id": "Libération-7795618084673589306",
-      "source": "Libération",
-      "title": "«Depuis un an, on augmente les tarifs tous les quatre mois» : face à l’envolée du prix de l’or, les créatrices de bijoux adaptent leurs pièces",
-      "excerpt": "La hausse de la valeur du précieux métal de plus de 40 % en un an contraint les bijoutiers et joailliers à augmenter leurs prix et repenser leurs collections.",
-      "link": "https://www.liberation.fr/lifestyle/mode/depuis-un-an-on-augmente-les-tarifs-tous-les-quatre-mois-face-a-lenvolee-du-prix-de-lor-les-creatrices-de-bijoux-adaptent-leurs-pieces-20260422_67T26GKLVNF4FLGQ6VUPNQ4IQE/",
-      "time": "Il y a 1h",
-      "pubDate": 1776851156.0
-    },
-    {
-      "id": "France Info--3827970714265643502",
+      "id": "France Info--7320983175175340608",
       "source": "France Info",
       "title": "Fuites de données : un homme de 22 ans, surnommé \"HexDex\", placé en garde à vue après de nombreuses cyberattaques contre des institutions françaises",
       "excerpt": "Des fédérations sportives, des syndicats et des administrations ont notamment été touchés. Le profil du hacker affiche désormais un message indiquant qu'il a été saisi par les autorités.",
       "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/fuites-de-donnees-un-homme-de-22-ans-surnomme-hexdex-interpelle-apres-de-nombreuses-cyberattaques-contre-des-federations-sportives-syndicats-et-administrations_7810046.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1776849475.0
     },
     {
-      "id": "Le Monde-7678392268800932776",
-      "source": "Le Monde",
-      "title": "EN DIRECT, guerre en Ukraine : l’oléoduc Droujba a repris le transport du pétrole russe vers la Hongrie et la Slovaquie, assure un responsable ukrainien",
-      "excerpt": "Kiev a reçu la demande de l’important groupe pétrolier et gazier hongrois MOL, fournisseur de ces deux pays, et le transit devrait reprendre bientôt, a déclaré ce responsable, sous le couvert de l’ano...",
-      "link": "https://www.lemonde.fr/international/live/2026/04/22/en-direct-guerre-en-ukraine-pret-europeen-reparation-de-l-oleoduc-droujba-frappes-nocturnes-russes-le-point-sur-la-situation-dans-le-pays_6681322_3210.html",
-      "time": "Il y a 1h",
-      "pubDate": 1776849078.0
-    },
-    {
-      "id": "Le Monde-7793354677885811530",
+      "id": "Le Monde-3864431913992103504",
       "source": "Le Monde",
       "title": "Le Livret A poursuit sa chute en mars, avec 490 millions d’euros de retraits nets",
       "excerpt": "S’il a diminué de 3,1 milliards d’euros depuis le début de l’année, le stock d’argent déposé sur les quelque 58 millions de Livrets A reste cependant important, à 446,5 milliards d’euros.",
       "link": "https://www.lemonde.fr/economie/article/2026/04/22/le-livret-a-poursuit-sa-chute-en-mars-avec-490-millions-d-euros-en-moins-deposes_6682373_3234.html",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1776848132.0
     },
     {
-      "id": "Le Monde--2212122590444333098",
+      "id": "Le Monde--1636538289509358196",
       "source": "Le Monde",
       "title": "Drogues de synthèse : le bilan étonnant des faux sites de vente en ligne, créés dans un but de prévention",
       "excerpt": "Conçus par l’association PlaySafe, ces pseudo-sites alertent sur les risques associés aux nouveaux produits de synthèse et sur la banalisation du recours à l’achat de stupéfiants en ligne.",
       "link": "https://www.lemonde.fr/societe/article/2026/04/22/drogues-de-synthese-crees-dans-un-but-de-prevention-de-faux-sites-de-vente-en-ligne-generent-16-millions-d-euros-d-intentions-d-achat_6682364_3224.html",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1776844807.0
     },
     {
-      "id": "France Info-7627034086765243084",
-      "source": "France Info",
-      "title": "\"Une forte crispation\" : près de quatre salariés LGBT+ sur dix disent avoir été victimes de discrimination au travail, selon une étude de l'Ifop",
-      "excerpt": "Dans une étude publiée mercredi, l'institut constate que les personnes homosexuelles, bisexuelles et trans sont victimes d'un retour de bâton dans leur environnement professionnel, où elles sont de pl...",
-      "link": "https://www.franceinfo.fr/societe/lgbt/une-forte-crispation-pres-de-quatre-salaries-lgbt-sur-dix-disent-avoir-ete-victimes-de-discrimination-au-travail-selon-une-etude-de-l-ifop_7953710.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
-      "pubDate": 1776844802.0
-    },
-    {
-      "id": "France Info--5118534432853575390",
+      "id": "France Info-3630726295285914835",
       "source": "France Info",
       "title": "Une pétition demande l'annulation de la tournée de Patrick Bruel, visé par plusieurs enquêtes pour des faits d'agression sexuelle et de viol",
       "excerpt": "L'initiative est notamment soutenue par les actrices Anna Mouglalis, Corinne Masiero et Anouk Grinberg, ainsi que par la journaliste Alice Coffin et la chanteuse Pomme",
@@ -226,198 +232,207 @@
       "pubDate": 1776840751.0
     },
     {
-      "id": "Le Monde--8965264682275623960",
+      "id": "Le Monde--4305355010707667228",
       "source": "Le Monde",
       "title": "Après le coup de force de Vincent Bolloré à Grasset, « les librairies sont désormais des vigies »",
       "excerpt": "Christian Thorel, figure de la librairie indépendante, a été l’un des premiers à alerter sur la mainmise idéologique de Vincent Bolloré sur le secteur de l’édition, dès le rachat d’Hachette en 2023.",
       "link": "https://www.lemonde.fr/economie/article/2026/04/22/apres-le-coup-de-force-de-bollore-les-librairies-sont-desormais-des-vigies_6682358_3234.html",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1776839911.0
     },
     {
-      "id": "France Info--1458218928988061831",
+      "id": "France Info-3482154287654820048",
       "source": "France Info",
       "title": "Dengue, Zika, fièvre hémorragique... Quelles sont les maladies qui menacent l'Europe, sous l'effet de la hausse des températures et de la crise climatique ?",
       "excerpt": "Entre 2015 et 2024, le risque moyen global d'épidémie de dengue a augmenté de 297% sur le continent, par rapport à la période 1981-2010, rapportent les auteurs du \"Lancet Countdown\".",
       "link": "https://www.franceinfo.fr/environnement/dengue-zika-fievre-hemorragique-quelles-sont-les-maladies-qui-menacent-l-europe-sous-l-effet-de-la-hausse-des-temperatures-et-de-la-crise-climatique_7945703.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1776830749.0
     },
     {
-      "id": "Le Monde-7520575503405845662",
+      "id": "Le Monde--6513433194873398754",
       "source": "Le Monde",
       "title": "Les voitures électriques viennent titiller les hybrides dans la bataille des très longs trajets",
       "excerpt": "La demande de pouvoir rouler très longtemps sans avoir à recharger les batteries reste forte chez de nombreux acheteurs de modèles. L’industrie tente d’y répondre, avec des autonomies qui dépassent 75...",
       "link": "https://www.lemonde.fr/economie/article/2026/04/22/les-voitures-electriques-viennent-titiller-les-hybrides-dans-la-bataille-de-la-grande-autonomie_6682342_3234.html",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1776830415.0
     },
     {
-      "id": "Le Monde-4439748348430690154",
+      "id": "Le Monde-1861628264158930505",
       "source": "Le Monde",
       "title": "Nicolas Sarkozy et le mystère de l’argent libyen : comprendre les incertitudes et les rebondissements d’un marathon judiciaire",
       "excerpt": "Le 16 mars s’est ouvert le procès en appel des soupçons de financement libyen de la campagne présidentielle de 2007. Une affaire peuplée de personnages sulfureux.",
       "link": "https://www.lemonde.fr/societe/article/2026/04/22/nicolas-sarkozy-et-le-mystere-de-l-argent-libyen-retour-sur-un-marathon-judiciaire_6682301_3224.html",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1776826814.0
-    },
-    {
-      "id": "Le Monde--719469978717898901",
-      "source": "Le Monde",
-      "title": "Le PS publie une ébauche de projet pour 2027 qui provoque déjà des divisions internes",
-      "excerpt": "Olivier Faure accélère la publication d’un projet présidentiel qui doit infuser lors de la campagne. Avec la liberté au cœur du projet, le Parti socialiste opère un virage idéologique qui suscite déjà...",
-      "link": "https://www.lemonde.fr/politique/article/2026/04/21/presidentielle-2027-le-parti-socialiste-publie-une-ebauche-programmatique-sur-fond-de-divisions-internes_6681968_823448.html",
-      "time": "Il y a 1j",
-      "pubDate": 1776754809.0
     }
   ],
   "anglophone": [
     {
-      "id": "BBC News-6453367092498489480",
+      "id": "BBC News-7835721243807725852",
       "source": "BBC News",
-      "title": "EU decides on key €90bn Ukraine loan after pipeline deadlock ends",
-      "excerpt": "The funding was agreed last December, but it has been held up in a row over Russian oil supplies to Hungary.",
+      "title": "EU approves €90bn loan for Ukraine as pipeline is turned on ending deadlock",
+      "excerpt": "Ukraine says it has reopened the Druzhba pipeline, after months of stalemate over stalled oil supplies to neighbouring Hungary.",
       "link": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 1h",
-      "pubDate": 1776851268.0
+      "time": "Il y a 27 min",
+      "pubDate": 1776856797.0
     },
     {
-      "id": "NPR-3685135572274940484",
+      "id": "NPR--7838269157027300658",
+      "source": "NPR",
+      "title": "Ships attacked in Strait of Hormuz after ceasefire extension",
+      "excerpt": "Two vessels came under fire in the Strait of Hormuz, just hours after the U.S. and Iran failed to meet in Pakistan for talks to end the war and as President Trump indefinitely extended the ceasefire.",
+      "link": "https://www.npr.org/2026/04/22/nx-s1-5795405/iran-middle-east-updates",
+      "time": "Il y a 53 min",
+      "pubDate": 1776855239.0
+    },
+    {
+      "id": "BBC News-8889383199560689766",
+      "source": "BBC News",
+      "title": "Lufthansa cuts 20,000 summer flights as fuel prices surge",
+      "excerpt": "The airline is the latest to cut flights as the US-Israel war with Iran sends jet fuel prices soaring.",
+      "link": "https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 1h",
+      "pubDate": 1776853889.0
+    },
+    {
+      "id": "NPR--946176737951448363",
       "source": "NPR",
       "title": "RFK Jr. is on a congressional hearing blitz, after a long absence from Capitol Hill",
       "excerpt": "Health Secretary Robert F. Kennedy Jr. caps off seven budget hearings in as many days, the first time he has testified before Congress since September.",
       "link": "https://www.npr.org/2026/04/22/nx-s1-5792840/rfk-jr-senate-house-budget-hearings-vaccines-cdc-medicaid",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1776848400.0
     },
     {
-      "id": "NPR-8721067370373384637",
+      "id": "NPR--1697956385118682660",
       "source": "NPR",
       "title": "Trump administration delays rule aimed at improving disability access in schools",
       "excerpt": "Schools, colleges and other public institutions originally had until this week to make online content accessible to people with disabilities. Now, the Justice Department has delayed that deadline.<br...",
       "link": "https://www.npr.org/2026/04/22/nx-s1-5791680/doj-disability-web-access-delay-schools",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1776848400.0
     },
     {
-      "id": "NPR-3966985284354542227",
+      "id": "NPR--7034138386984978513",
       "source": "NPR",
       "title": "How the airline industry could be impacted if Spirit Airlines is liquidated",
       "excerpt": "Spirit has not confirmed a liquidation, though it has filed for bankruptcy protection twice. Experts predict rising fuel costs could push the company to close its doors for good.",
       "link": "https://www.npr.org/2026/04/22/nx-s1-5789050/spirit-airlines-liquidation-bankruptcy-impact",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1776848400.0
     },
     {
-      "id": "NPR-2331432279005097586",
+      "id": "NPR-2509448576303251326",
       "source": "NPR",
       "title": "From the Himalayas to Newt Gingrich, the 'tree-huggers' prevail",
       "excerpt": "On Earth Day, we take a look back at the rocky history of \"tree-huggers.\" The term originated in the 1970s in the Himalayas and was later co-opted by American politics in the 1990s. Now, environmental...",
       "link": "https://www.npr.org/2026/04/22/nx-s1-5787684/tree-hugger-history-earth-day",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1776848400.0
     },
     {
-      "id": "NPR--497925499164290722",
+      "id": "NPR-7373780189240792615",
       "source": "NPR",
       "title": "With Virginia vote, Democrats gain edge over Trump's national GOP redistricting push",
       "excerpt": "After Virginia voters weighed in on Tuesday, the redistricting set off by President Trump to help the GOP in the midterms has been countered and possibly surpassed by Democrats.",
       "link": "https://www.npr.org/2026/04/22/nx-s1-5787989/redistricting-map-trump-midterms-congress",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1776848400.0
     },
     {
-      "id": "NPR-8041163475781628902",
+      "id": "NPR--3004352483806305958",
       "source": "NPR",
       "title": "'We can do better,' FAA head says of work to update U.S. analog air traffic system",
       "excerpt": "The U.S. aviation system is being modernized — but FAA Administrator Bryan Bedford and other leaders say it will take more money to make the system more efficient and flexible.",
       "link": "https://www.npr.org/2026/04/22/nx-s1-5791744/faa-dot-air-traffic-control-system-revamp",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1776848400.0
     },
     {
-      "id": "BBC News-100739237185101878",
+      "id": "BBC News-736716953358097938",
       "source": "BBC News",
       "title": "South Korean fighter jets collided due to pilots taking pictures, report finds",
       "excerpt": "One of the pilots has been fined thousands of dollars by the military to cover repair costs.",
       "link": "https://www.bbc.com/news/articles/czjwz8we1zzo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1776846934.0
     },
     {
-      "id": "BBC News-7321213741851394503",
+      "id": "BBC News-7531272499319363296",
       "source": "BBC News",
       "title": "Taiwan president cancels trip after African countries revoke flight permits",
       "excerpt": "Taiwan has accused Beijing of putting pressure on African countries to close their airspace to Lai's plane.",
       "link": "https://www.bbc.com/news/articles/crl16p72x7xo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1776839115.0
     },
     {
-      "id": "BBC News--60595317364733702",
+      "id": "BBC News-6641217556863023002",
       "source": "BBC News",
       "title": "Thirteen killed in second India fireworks blast in three days",
       "excerpt": "Earlier this week, an explosion at a firecracker factory in neighbouring state Tamil Nadu left at least 25 dead.",
       "link": "https://www.bbc.com/news/articles/cwydzddp4j9o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1776837318.0
     },
     {
-      "id": "The Guardian--6972081048577227781",
+      "id": "The Guardian-7194423288361928307",
       "source": "The Guardian",
       "title": "El Salvador holds mass trial for 486 alleged members of notorious MS-13 gang",
       "excerpt": "Human rights groups have warned that the collective prosecutions violate due process and block defendants from accessing legal counsel A Salvadoran court on Tuesday began a collective trial of 486 all...",
       "link": "https://www.theguardian.com/world/2026/apr/22/el-salvador-mass-trial-alleged-members-ms-13-gang",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1776836054.0
     },
     {
-      "id": "NPR--4400166171004675541",
+      "id": "NPR--5397998119251753372",
       "source": "NPR",
       "title": "Priceless 2,500-year-old golden helmet returned to Romania after Dutch museum raid",
       "excerpt": "The ornate Cotofenesti helmet, which was stolen in January 2025 while on loan to a Dutch museum, was recovered last month.",
       "link": "https://www.npr.org/2026/04/22/nx-s1-5795403/golden-helmet-romania-recovery",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1776835448.0
     },
     {
-      "id": "NPR-3677165004624472865",
+      "id": "NPR-3783118079877902733",
       "source": "NPR",
       "title": "Mexico to beef up security at tourist sites after shooting at pyramids",
       "excerpt": "Mexico's government is boosting security at tourist sites in preparation for the World Cup after a man opened fire at the Teotihuacan pyramids.",
       "link": "https://www.npr.org/2026/04/22/g-s1-118305/mexico-to-beef-up-security-at-tourist-sites",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1776835408.0
     },
     {
-      "id": "The Guardian--4690926059219777495",
+      "id": "The Guardian--3818603790610669838",
       "source": "The Guardian",
       "title": "Heatwaves, floods and wildfires pose rising threat to democracy, report finds",
       "excerpt": "Research shows natural hazards linked to climate crisis disrupted 23 elections in 18 countries in 2024 Democracy is under mounting threat from the climate crisis, with new analysis documenting how ele...",
       "link": "https://www.theguardian.com/global-development/2026/apr/22/climate-change-extreme-weather-heatwaves-floods-wildfires-threat-democracy-elections",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1776834009.0
     },
     {
-      "id": "BBC News--7961965938812290441",
+      "id": "BBC News-4881217070030338808",
       "source": "BBC News",
-      "title": "Phone tracking shows how Colombian mercenaries backed Sudan's RSF - report",
+      "title": "UAE-backed Colombian mercenaries provided support to Sudan paramilitary, report says",
       "excerpt": "The Conflict Insights Group (CIG) says its research also shows the extent of UAE involvement.",
       "link": "https://www.bbc.com/news/articles/cn4vk13wgwwo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1776830510.0
     },
     {
-      "id": "BBC News--2635518313936247813",
+      "id": "BBC News-539690746069044295",
       "source": "BBC News",
       "title": "Mexico officials say Teotihuacán gunman carried material related to US mass shooting",
       "excerpt": "The gunman visited the archaeological site repeatedly and appeared to act alone.",
       "link": "https://www.bbc.com/news/articles/c393mped8zjo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1776827517.0
     },
     {
-      "id": "NPR-5615861376400284229",
+      "id": "NPR-4053240202592391159",
       "source": "NPR",
       "title": "Virginia voters OK a Democratic effort to redraw the state's congressional map",
       "excerpt": "Virginia voters have delivered a significant win to Democrats, as the party aims to pick up four more U.S. House seats in the state.",
@@ -426,34 +441,25 @@
       "pubDate": 1776819052.0
     },
     {
-      "id": "BBC News-4284363966290573819",
+      "id": "BBC News--8577634188356809740",
       "source": "BBC News",
       "title": "Trump buys time for Iran deal after frantic day of diplomacy",
       "excerpt": "The US president's decision marked the second time in as many weeks he has backed off a threat to escalate the war, buying more time.",
       "link": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 10h",
+      "time": "Il y a 11h",
       "pubDate": 1776817930.0
     },
     {
-      "id": "The Guardian-5764809605453956330",
+      "id": "The Guardian--8908528333702221647",
       "source": "The Guardian",
       "title": "Trump officials consider sending 1,100 Afghans who aided US forces to Congo",
       "excerpt": "Discussions reportedly come after Trump’s decision to stop initiative that allowed group to apply to resettle in the US The Trump administration is in discussions to potentially send up to 1,100 Afgha...",
       "link": "https://www.theguardian.com/us-news/2026/apr/21/afghan-refugees-us-congo",
-      "time": "Il y a 11h",
+      "time": "Il y a 12h",
       "pubDate": 1776813997.0
     },
     {
-      "id": "NPR--3804760284698616039",
-      "source": "NPR",
-      "title": "Southern Poverty Law Center indicted on federal fraud charges",
-      "excerpt": "The Justice Department alleges that the SPLC improperly raised millions of dollars to pay informants to infiltrate the Ku Klux Klan and other extremist groups.",
-      "link": "https://www.npr.org/2026/04/21/g-s1-118275/southern-poverty-law-center-fraud-charges-paid-informants",
-      "time": "Il y a 12h",
-      "pubDate": 1776811947.0
-    },
-    {
-      "id": "BBC News--2921456968367807436",
+      "id": "BBC News-7085661642853063875",
       "source": "BBC News",
       "title": "Meta to track workers' clicks and keystrokes to train AI",
       "excerpt": "The firm will take data from the way employees work for its artificial intelligence models.",
@@ -462,61 +468,52 @@
       "pubDate": 1776811676.0
     },
     {
-      "id": "BBC News-324936173107528814",
+      "id": "BBC News-2049876007913621238",
       "source": "BBC News",
       "title": "From Epstein to sock puppets: Key takeaways from Kevin Warsh's Fed confirmation hearing",
       "excerpt": "He denied making a deal with Donald Trump on interest rates and backed \"policy regime change\" at the central bank.",
       "link": "https://www.bbc.com/news/articles/c8dl3ez4mpno?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 15h",
+      "time": "Il y a 16h",
       "pubDate": 1776797979.0
     },
     {
-      "id": "The Guardian--857832242609283353",
+      "id": "The Guardian--5109687452903940217",
       "source": "The Guardian",
       "title": "Taiwan president blames China for forced cancellation of Eswatini trip",
       "excerpt": "Lai Ching-te abandons visit after Seychelles, Mauritius and Madagascar revoke overflight permission   Taiwan’s president, Lai Ching-te, has cancelled his trip to Eswatini, the democratic island’s only...",
       "link": "https://www.theguardian.com/world/2026/apr/21/taiwan-president-blames-china-cancel-eswatini-revoke-flight",
-      "time": "Il y a 16h",
+      "time": "Il y a 17h",
       "pubDate": 1776795749.0
     },
     {
-      "id": "The Guardian--7157617817957980564",
+      "id": "The Guardian--350318389942998381",
       "source": "The Guardian",
       "title": "Two US officials who died after Mexico drug raid reported to be CIA agents",
       "excerpt": "Mexico to investigate possible breach of its constitution and assess US’s role in anti-drug operation near Chihuahua Mexico has launched an investigation into a possible breach of its constitution as...",
       "link": "https://www.theguardian.com/world/2026/apr/21/mexico-drug-raid-cia-agents-embassy-investigation",
-      "time": "Il y a 16h",
+      "time": "Il y a 17h",
       "pubDate": 1776795070.0
     },
     {
-      "id": "The Guardian-4628455863666565509",
+      "id": "The Guardian-4139917393762566711",
       "source": "The Guardian",
       "title": "Carney names broad team to advise on tense US-Canada trade talks",
       "excerpt": "Conservatives and former provincial premiers among those PM names to advisory committee on economic relations Canada’s prime minister, <a href=\"https://www.theguardian.com/world/mark-carney\">Mark Carn...",
       "link": "https://www.theguardian.com/world/2026/apr/21/mark-carney-advisers-us-canada-economic-trade",
-      "time": "Il y a 18h",
+      "time": "Il y a 19h",
       "pubDate": 1776788139.0
     },
     {
-      "id": "BBC News--2657218606076173755",
-      "source": "BBC News",
-      "title": "Iran sees mass redundancies from war with US and Israel",
-      "excerpt": "The impact is being felt by manufacturers, retailers and the digital sector, amid warnings it could get worse if the war resumes.",
-      "link": "https://www.bbc.com/news/articles/ce84e31376zo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 18h",
-      "pubDate": 1776787551.0
-    },
-    {
-      "id": "The Guardian-2431818428308741661",
+      "id": "The Guardian-561397337898945866",
       "source": "The Guardian",
       "title": "‘We were terrified they were going to kill us’: fishers who survived US boat strike speak out",
       "excerpt": "An Ecuadorian fishing crew describe their ordeal as victims of Trump’s purported war on ‘narcoterrorists’ By 4pm, the light was softening over the Pacific, and the crew of the Don Maca were finishing...",
       "link": "https://www.theguardian.com/global-development/2026/apr/21/ecuador-us-boat-strike-survivors",
-      "time": "Il y a 23h",
+      "time": "Il y a 1j",
       "pubDate": 1776769247.0
     },
     {
-      "id": "The Guardian-3623899305380447889",
+      "id": "The Guardian-3469424344197955111",
       "source": "The Guardian",
       "title": "Canadian woman killed after gunman opens fire at Mexico’s Teotihuacán pyramids",
       "excerpt": "At least four more injured at world heritage site in latest violent incident as country prepares to co-host World Cup One Canadian tourist has been killed and six other people were wounded by gunfire...",
@@ -525,7 +522,7 @@
       "pubDate": 1776741423.0
     },
     {
-      "id": "The Guardian--2354452248474034966",
+      "id": "The Guardian--4354944100591136235",
       "source": "The Guardian",
       "title": "Charlize Theron joins chorus of disapproval over Timothée Chalamet’s ballet comments",
       "excerpt": "The former ballet dancer said Chalamet’s comments were ‘reckless’ in an interview with the New York Times in which she also discussed her violent childhood Actor and former ballet dancer Charlize Ther...",
@@ -534,7 +531,7 @@
       "pubDate": 1776686677.0
     },
     {
-      "id": "The Guardian-6646259819286705005",
+      "id": "The Guardian-8846869785696001138",
       "source": "The Guardian",
       "title": "Arrests fuel fears among Madagascar’s gen Z protesters that new regime no better than one they overthrew",
       "excerpt": "Jubilation is turning to disenchantment as young activists arrested after protest calling for election date to be set The arrest of several protesters in Madagascar has increased fears among young peo...",
@@ -543,5 +540,5 @@
       "pubDate": 1776657602.0
     }
   ],
-  "lastUpdate": "2026-04-22T10:53:01.781139"
+  "lastUpdate": "2026-04-22T11:47:15.214325"
 }
