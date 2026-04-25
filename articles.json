@@ -1,70 +1,130 @@
 {
   "francophone": [
     {
-      "id": "Libération-5382103178511123775",
-      "source": "Libération",
-      "title": "EN DIRECT - Guerre au Proche-Orient : Donald Trump annonce que ses émissaires n’iront pas négocier à Islamabad",
-      "excerpt": "Le président américain a indiqué samedi que ses envoyés spéciaux Steve Witkoff et Jared Kushner, qui devaient se rendre au Pakistan pour des discussions, directes ou indirectes, avec une équipe de nég...",
-      "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-proche-orient-la-delegation-americaine-attendue-a-islamabad-au-pakistan-20260425_SER3JH75SZBXPBGVKC4GGTDEGI/",
-      "time": "Il y a 7 min",
-      "pubDate": 1777136335.0
+      "id": "Le Monde--7634888802237343553",
+      "source": "Le Monde",
+      "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump annonce l’annulation du voyage au Pakistan des émissaires Steve Witkoff et Jared Kushner",
+      "excerpt": "« Nous avons toutes les cartes. Ils peuvent nous appeler quand ils veulent, mais vous n’allez pas faire un vol de dix-huit heures pour rester assis à parler de rien », a déclaré le président américain...",
+      "link": "https://www.lemonde.fr/international/live/2026/04/25/en-direct-guerre-au-moyen-orient-donald-trump-annonce-l-annulation-du-voyage-au-pakistan-des-emissaires-steve-witkoff-et-jared-kushner_6681958_3210.html",
+      "time": "Il y a 6 min",
+      "pubDate": 1777139163.0,
+      "sources": [
+        "Le Monde",
+        "Libération"
+      ],
+      "multiSource": true,
+      "sourceCount": 2
     },
     {
-      "id": "France Info--5198137901796293826",
+      "id": "France Info-3384688898242506708",
+      "source": "France Info",
+      "title": "Adèle Haenel s'estime \"chanceuse d'avoir eu droit à la justice\" après la condamnation en appel de son agresseur Christophe Ruggia",
+      "excerpt": "La comédienne s'est exprimée pour la première fois depuis la fin de ce parcours judiciaire, dans l'émission \"C à vous\" sur France 5.",
+      "link": "https://www.franceinfo.fr/societe/justice/video-adele-haenel-s-estime-chanceuse-d-avoir-eu-droit-a-la-justice-apres-la-condamnation-en-appel-de-son-agresseur-christophe-ruggia_7964150.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 44 min",
+      "pubDate": 1777136924.0
+    },
+    {
+      "id": "France Info-7601814630040765134",
+      "source": "France Info",
+      "title": "On vous explique pourquoi les spécialistes redoutent une pénurie de carburant en France",
+      "excerpt": "Le patron de TotalEnergies, Patrick Pouyanné, a estimé vendredi que la France risquait d'entrer \"dans une ère de pénurie énergétique\" en raison de la guerre au Moyen-Orient. Samedi, Emmanuel Macron a...",
+      "link": "https://www.franceinfo.fr/economie/automobile/essence/on-vous-explique-pourquoi-les-specialistes-redoutent-une-penurie-de-carburant-en-france_7963961.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 49 min",
+      "pubDate": 1777136603.0
+    },
+    {
+      "id": "Le Monde--2690654682086209476",
+      "source": "Le Monde",
+      "title": "A Athènes, Emmanuel Macron pousse les entreprises françaises à investir en Grèce",
+      "excerpt": "En visite dans la capitale grecque, le président français était accompagné d’une délégation d’entrepreneurs français intéressés par l’investissement dans un pays en pleine croissance.",
+      "link": "https://www.lemonde.fr/economie/article/2026/04/25/a-athenes-emmanuel-macron-pousse-les-entreprises-francaises-a-investir-en-grece_6683272_3234.html",
+      "time": "Il y a 1h",
+      "pubDate": 1777135871.0
+    },
+    {
+      "id": "France Info-7857400850309511357",
       "source": "France Info",
       "title": "Guerre au Moyen-Orient : Donald Trump annule le déplacement des émissaires américains après que la délégation iranienne a quitté Islamabad",
       "excerpt": "Le chef de la diplomatie iranienne, Abbas Araghchi, a rencontré des dirigeants pakistanais au sujet des pourparlers de paix, avant de repartir avant l'arrivée attendue de la délégation américaine. Don...",
       "link": "https://www.franceinfo.fr/monde/conflit-israel-iran/direct-guerre-au-moyen-orient-le-negociateur-iranien-au-pakistan-les-emissaires-americains-attendus-ce-samedi-pour-une-reprise-des-pourparlers_7963601.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 57 min",
+      "time": "Il y a 1h",
       "pubDate": 1777133298.0
     },
     {
-      "id": "Libération-6064104391204287016",
+      "id": "Le Monde-273716808266763795",
+      "source": "Le Monde",
+      "title": "Vincent Azoulay, helléniste : « Ce qui m’anime, c’est la question de la démocratie, de la fraternité, de l’autolimitation par le biais du théâtre, de la comédie, des rumeurs »",
+      "excerpt": "Rencontre avec l’une des figures de proue de la nouvelle école française d’histoire antique, qui ne craint pas de faire des allers-retours entre passé et contemporain. Son nouveau livre, « Ostracisme...",
+      "link": "https://www.lemonde.fr/livres/article/2026/04/25/vincent-azoulay-helleniste-ce-qui-m-anime-c-est-la-question-de-la-democratie-de-la-fraternite-de-l-autolimitation-par-le-biais-du-theatre-de-la-comedie-des-rumeurs_6683270_3260.html",
+      "time": "Il y a 1h",
+      "pubDate": 1777132817.0
+    },
+    {
+      "id": "France Info--1665284697523822249",
+      "source": "France Info",
+      "title": "En Italie, peut-on vraiment redoubler à cause de son mauvais comportement ?",
+      "excerpt": "Les élèves italiens sont priés de bien se comporter à l'école, car ils sont soumis à une note qui peut décider de leur passage au niveau supérieur. En revanche attention aux exagérations sur cette inf...",
+      "link": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux-junior/en-italie-peut-on-vraiment-redoubler-a-cause-de-son-mauvais-comportement_7940207.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1777132801.0
+    },
+    {
+      "id": "France Info-7299949180592464203",
+      "source": "France Info",
+      "title": "Les revenus horaires des livreurs de repas ont baissé pour la plupart des plateformes en 2025",
+      "excerpt": "L'Autorité des relations sociales des plateformes d'emploi a publié son bilan annuel, et souligne que le temps de chaque course s'est allongé au fil du temps.",
+      "link": "https://www.franceinfo.fr/economie/emploi/les-revenus-horaires-des-livreurs-de-repas-ont-baisse-pour-la-plupart-des-plateformes-en-2025_7964060.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 2h",
+      "pubDate": 1777132288.0
+    },
+    {
+      "id": "Libération--5070029357150418027",
       "source": "Libération",
       "title": "Randos-apéros dans les vignes de l’Ain : sentiers bonheur !",
       "excerpt": "Au cœur du vignoble du Bugey, près de Cerdon, le viticulteur Emerick Billon a imaginé quatre parcours de rando à travers les ceps, suivis d’un apéro dînatoire pour découvrir les vins du coin.",
       "link": "https://www.liberation.fr/forums/randos-aperos-dans-les-vignes-de-lain-sentiers-bonheur-20260425_FAEI5NTLMBDRJCTYMOQDVTXAFQ/",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1777132140.0
     },
     {
-      "id": "Libération--8430972430408739390",
+      "id": "France Info-7222341994016854148",
+      "source": "France Info",
+      "title": "\"Apparences\", \"Bandi\", \"Heated Rivalry\", \"Un très mauvais pressentiment\", \"Paradise\": ces séries à (re)découvrir entre deux éclaircies printanières",
+      "excerpt": "Un monde parallèle, une passion amoureuse compliquée, une fratrie empêtrée dans le trafic de drogue, un mariage sous le signe de l'horreur... Voici sept séries qui valent une session de rattrapage si...",
+      "link": "https://www.franceinfo.fr/culture/series/apparences-bandi-heated-rivalry-un-tres-mauvais-pressentiment-paradise-ces-series-a-re-decouvrir-entre-deux-eclaircies-printanieres_7925630.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 2h",
+      "pubDate": 1777131740.0
+    },
+    {
+      "id": "Libération-6425689205690666084",
       "source": "Libération",
       "title": "Des associations «enterrent 300 millions d’ordinateurs» devant le siège de Microsoft France pour dénoncer l’obsolescence programmée",
       "excerpt": "Le géant du numérique a prévu de cesser toute mise à jour gratuite sur son système d’exploitation Windows 10. Les associations dénoncent un gâchis, face au nombre d’appareils ne pouvant pas migrer sur...",
       "link": "https://www.liberation.fr/economie/economie-numerique/des-associations-enterrent-300-millions-dordinateurs-devant-le-siege-de-microsoft-france-pour-denoncer-lobsolescence-programmee-20260425_COLZOWHPPNBNRMSITG7N5KTG3E/",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1777131399.0
     },
     {
-      "id": "Libération-8978016566983123107",
+      "id": "Libération-7554007555845781627",
       "source": "Libération",
       "title": "«Tout ça me rappelle le temps du nazisme» : après 17 jours dans les geôles de ICE, Marie-Thérèse Ross, 86 ans, prend la parole pour ses «codétenues»",
       "excerpt": "Cette Française a été arrêtée, le 1er avril, à son domicile de l’Alabama par la police de l’immigration américaine, en raison d’un visa expiré. Finalement libérée il y a huit jours, elle a donné une i...",
       "link": "https://www.liberation.fr/societe/immigration/tout-ca-me-rappelle-le-temps-du-nazisme-apres-17-jours-dans-les-geoles-de-ice-marie-therese-ross-86-ans-prend-la-parole-pour-ses-codetenues-20260425_6LYJ2M3R2JFXVKP7DPI6LKVVKY/",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1777131042.0
     },
     {
-      "id": "France Info-3592564107761792102",
+      "id": "France Info-2308738702693216024",
       "source": "France Info",
       "title": "Ligue 1 : Lyon s’impose face à Auxerre et fait une bonne opération dans la course à l’Europe",
       "excerpt": "L'OL s'est imposé 3-2 face au 16e du championnat, samedi, dans le cadre de la 31e journée de Ligue 1 et met la pression sur Lille dans la lutte pour la 3e place.",
       "link": "https://www.franceinfo.fr/sports/foot/ligue-1/ligue-1-lyon-s-impose-face-a-auxerre-et-fait-une-bonne-operation-dans-la-course-a-l-europe_7963976.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1777130306.0
     },
     {
-      "id": "France Info-1603772200679320763",
-      "source": "France Info",
-      "title": "Frédéric Souillot réélu pour un deuxième mandat à la tête de Force ouvrière",
-      "excerpt": "Seul candidat à sa succession, il a notamment insisté sur la nécessité de rajeunir ses troupes de la centrale syndicale lors du 26e congrès organisé à Dijon (Côte-d'Or).",
-      "link": "https://www.franceinfo.fr/economie/syndicats/frederic-souillot-a-ete-reelu-pour-un-deuxieme-mandat-a-la-tete-du-syndicat-fo_7964000.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
-      "pubDate": 1777129839.0
-    },
-    {
-      "id": "Libération-7338652717677789961",
+      "id": "Libération--2621341594618459687",
       "source": "Libération",
       "title": "Mali : des combats en cours à Bamako, la ville de Kidal serait tombée aux mains des rebelles touareg",
       "excerpt": "Selon l’armée malienne, des hommes armés ont pris pour cibles ce samedi 25 avril «certains points et casernes de la capitale et de l’intérieur» du pays. Les rebelles touareg revendiquent la prise de l...",
@@ -73,157 +133,106 @@
       "pubDate": 1777129046.0
     },
     {
-      "id": "Le Monde--6827006152473940704",
-      "source": "Le Monde",
-      "title": "Emmanuel Macron veut étaler le remboursement de la dette européenne de la période Covid et plaide pour de nouveaux emprunts communs",
-      "excerpt": "Au second jour de sa visite en Grèce, le président de la République a également vanté la solidité de la clause d’assistance mutuelle de l’Union européenne en cas d’attaque.",
-      "link": "https://www.lemonde.fr/international/article/2026/04/25/emmanuel-macron-veut-etaler-le-remboursement-de-la-dette-europeenne-de-la-periode-covid-et-plaide-pour-de-nouveaux-emprunts-communs_6683263_3210.html",
-      "time": "Il y a 2h",
-      "pubDate": 1777128386.0
-    },
-    {
-      "id": "Libération--8177506003935512364",
+      "id": "Libération--8155532190048359036",
       "source": "Libération",
       "title": "Kenya : l’industrie du thé noir, victime collatérale de la guerre au Moyen-Orient",
       "excerpt": "Au moins 10 millions de kilos de thé sont bloqués dans le port de Mombasa, à cause de la hausse du prix du carburant et des perturbations au Moyen-Orient, qui empêchent le commerce avec l’Egypte, le P...",
       "link": "https://www.liberation.fr/international/afrique/kenya-lindustrie-du-the-noir-victime-collaterale-de-la-guerre-au-moyen-orient-20260425_YBTPBDIZEZG7PLB6AUOUCMNUZI/",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1777128360.0
     },
     {
-      "id": "France Info-3410658452209202070",
+      "id": "France Info-2795011765149965221",
       "source": "France Info",
       "title": "\"J'étais terrorisée\" : une octogénaire française raconte son calvaire, après sa détention dans un centre pour migrants aux Etats-Unis",
       "excerpt": "Marie-Thérèse Ross, 86 ans, a passé plus de deux semaines en détention car son visa n'était plus valable. De retour dans l'agglomération nantaise, elle s'est confiée auprès du quotidien \"Ouest-France\"...",
       "link": "https://www.franceinfo.fr/monde/usa/j-etais-terrorisee-une-octogenaire-francaise-raconte-son-calvaire-apres-sa-detention-dans-un-centre-pour-migrants-aux-etats-unis_7963952.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1777127992.0
     },
     {
-      "id": "France Info-2101454923533043606",
-      "source": "France Info",
-      "title": "Pollutions au PFAS dans des eaux minérales en Ardèche et dans la Loire : \"On a besoin d'action politique pour arrêter ces contaminations\", plaide la directrice de Foodwatch France",
-      "excerpt": "Trois sources d'eau minérale dans la Loire et en Ardèche ont été fermées à cause d'une trop grande concentration de PFAS, des polluants \"éternels\".",
-      "link": "https://www.franceinfo.fr/environnement/pollution/pfas/pollutions-au-pfas-dans-des-eaux-minerales-en-ardeche-et-dans-la-loire-on-a-besoin-d-action-politique-pour-arreter-ces-contaminations-plaide-la-directrice-de-foodwatch-france_7963973.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
-      "pubDate": 1777127951.0
-    },
-    {
-      "id": "Libération--7672986327544889729",
+      "id": "Libération-56381370890900241",
       "source": "Libération",
       "title": "Adieu les Ehpad, bonjour les Maisons France Autonomie",
       "excerpt": "En changeant le nom des Etablissements d’hébergement pour personnes âgées dépendantes, l’exécutif espère «changer le regard sur le vieillissement» mais aussi la réputation des maisons de retraite abîm...",
       "link": "https://www.liberation.fr/societe/sante/adieu-les-ehpad-bonjour-les-maisons-france-autonomie-20260425_CEZVBK2BLVCVDMVVUP6P53C4K4/",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1777127934.0
     },
     {
-      "id": "Le Monde--6472282271251730913",
+      "id": "Le Monde-268243649336017628",
       "source": "Le Monde",
       "title": "Elections en Cisjordanie et à Gaza : les Palestiniens votent pour désigner leurs maires et conseillers municipaux",
       "excerpt": "Les bureaux de vote ont fermé à 19 heures en Cisjordanie et à 18 heures à Deir Al-Balah, dans la bande de Gaza.",
       "link": "https://www.lemonde.fr/international/article/2026/04/25/elections-en-cisjordanie-et-a-gaza-les-palestiniens-votent-pour-designer-leurs-maires-et-conseillers-municipaux_6683262_3210.html",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1777127242.0
     },
     {
-      "id": "Libération-5151862794868179068",
+      "id": "Libération-4356927582357373053",
       "source": "Libération",
       "title": "Tibet : des élections en exil, entre menace chinoise et désir démocratique",
       "excerpt": "La diaspora tibétaine du monde entier, 92 000 personnes, est appelée à voter pour le second tour de l’élection du parlement en exil dimanche 26 avril. Pékin a rejeté par avance les résultats du scruti...",
       "link": "https://www.liberation.fr/international/asie-pacifique/tibet-des-elections-en-exil-entre-menace-chinoise-et-desir-democratique-20260425_XAS273TD3JHIZCVSWBBVNRE57Y/",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1777126980.0
     },
     {
-      "id": "Libération--3536347694362046419",
+      "id": "Libération-1245674768450330650",
       "source": "Libération",
       "title": "La jeune génération d’architectes ne veut plus monter dans les tours : «Le soin, c’est aussi important que la construction»",
       "excerpt": "Alors que leurs aînés acceptaient d’enquiller les «charrettes» et rêvaient de grandes constructions de verre et d’acier, les étudiants d’aujourd’hui pensent réhabilitation, matériaux biosourcés et hor...",
       "link": "https://www.liberation.fr/societe/logement/la-jeune-generation-darchitectes-ne-veut-plus-monter-dans-les-tours-le-soin-cest-aussi-important-que-la-construction-20260425_2VO4EQKO5ZFCZIIAGRJYYO2QTQ/",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1777126685.0
     },
     {
-      "id": "Le Monde-3760064807544143039",
+      "id": "Le Monde--6464318729536331303",
       "source": "Le Monde",
       "title": "EN DIRECT, guerre en Ukraine : la Russie a lancé une des plus grandes attaques nocturnes sur l’Ukraine depuis le début de l’année",
       "excerpt": "Au moins sept personnes sont mortes et 57 blessées, selon les autorités ukrainiennes. Les défenses aériennes ukrainiennes ont intercepté 580 drones et 30 missiles. Le président ukrainien, Volodymyr Ze...",
       "link": "https://www.lemonde.fr/international/live/2026/04/25/en-direct-guerre-en-ukraine-la-russie-a-lance-une-des-plus-grandes-attaques-nocturnes-sur-l-ukraine-depuis-le-debut-de-l-annee_6681322_3210.html",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1777126482.0
     },
     {
-      "id": "France Info-7201884634913867193",
+      "id": "France Info-7861124958144986771",
       "source": "France Info",
       "title": "Tirs de colons, expansion des colonies... Quelle est la situation en Cisjordanie, où les Palestiniens votent pour les premières élections depuis la guerre à Gaza ?",
       "excerpt": "Alors que des élections municipales se tiennent en Palestine samedi, Israël continue d'étendre son emprise sur la Cisjordanie, avec notamment de nouvelles colonies, malgré des alertes de la communauté...",
       "link": "https://www.franceinfo.fr/monde/palestine/tirs-de-colons-expansion-des-colonies-quelle-est-la-situation-en-cisjordanie-ou-les-palestiniens-votent-pour-les-premieres-elections-depuis-la-guerre-a-gaza_7963640.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1777126089.0
     },
     {
-      "id": "Libération-832282679689638889",
+      "id": "Libération--3576327579954501371",
       "source": "Libération",
       "title": "La patronne de France Télévisions, Delphine Ernotte, va porter plainte contre Patrick Sébastien pour «outrage sexiste et sexuel»",
       "excerpt": "Selon France Info, la présidente du groupe de l’audiovisuel public va porter plainte lundi après la diffusion vendredi sur les réseaux de l’animateur d’un titre baptisé «Delphine» qui s’en prend viole...",
       "link": "https://www.liberation.fr/economie/medias/la-patronne-de-france-televisions-delphine-ernotte-va-porter-plainte-contre-patrick-sebastien-pour-outrage-sexiste-et-sexuel-20260425_QG6L63DQFBGD3MNUP27RNIXATY/",
       "time": "Il y a 3h",
-      "pubDate": 1777125832.0,
-      "sources": [
-        "Libération",
-        "France Info"
-      ],
-      "multiSource": true,
-      "sourceCount": 2
+      "pubDate": 1777125832.0
     },
     {
-      "id": "Le Monde--7858609802405560436",
-      "source": "Le Monde",
-      "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump annonce l’annulation du voyage au Pakistan des émissaires Steve Witkoff et Jared Kushner",
-      "excerpt": "« Nous avons toutes les cartes. Ils peuvent nous appeler quand ils veulent, mais vous n’allez pas faire un vol de dix-huit heures pour rester assis à parler de rien », a déclaré le président américain...",
-      "link": "https://www.lemonde.fr/international/live/2026/04/25/en-direct-guerre-au-moyen-orient-l-iran-menace-d-une-riposte-si-le-blocus-americain-se-poursuit-les-emissaires-americains-attendus-a-islamadab-sans-garantie-de-rencontre-avec-les-iraniens_6681958_3210.html",
-      "time": "Il y a 3h",
-      "pubDate": 1777123651.0
-    },
-    {
-      "id": "France Info-6941758420352936730",
+      "id": "France Info-1877919141053110630",
       "source": "France Info",
       "title": "\"La France, c'est fini pour moi\", déclare l'écrivain Boualem Sansal, dénonçant des \"insultes\" à son égard",
       "excerpt": "Il est entré à l'Académie royale de langue et de littérature françaises de Belgique, alors qu'une polémique enfle, en France, dans le monde de l'édition.",
       "link": "https://www.franceinfo.fr/culture/livres/boualem-sansal/la-france-c-est-fini-pour-moi-declare-l-ecrivain-boulem-sansal-denoncant-des-insultes-a-son-egard_7963901.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1777123611.0
     },
     {
-      "id": "France Info--5636301524663570536",
-      "source": "France Info",
-      "title": "Carburants : \"Aujourd'hui, la situation ne nous fait envisager aucune pénurie\" en France, assure Emmanuel Macron",
-      "excerpt": "La veille, le PDG de TotalEnergies avait estimé que la France pourrait connaître une pénurie si le blocage du détroit d'Ormuz perdurait encore deux ou trois mois.",
-      "link": "https://www.franceinfo.fr/economie/transports/penurie-de-carburants/carburants-aujourd-hui-la-situation-ne-nous-fait-envisager-aucune-penurie-en-france-assure-emmanuel-macron_7963889.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 4h",
-      "pubDate": 1777121424.0
-    },
-    {
-      "id": "France Info-5685735734959375731",
-      "source": "France Info",
-      "title": "Un homme armé et cagoulé abattu par des gendarmes devant une boulangerie dans l'Hérault",
-      "excerpt": "Selon la gendarmerie, lorsque la patrouille est arrivée sur place, cet homme est sorti et leur a tiré dessus.",
-      "link": "https://www.franceinfo.fr/faits-divers/un-homme-arme-et-cagoule-abattu-par-des-gendarmes-devant-une-boulangerie-dans-l-herault_7963748.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 4h",
-      "pubDate": 1777120290.0
-    },
-    {
-      "id": "Le Monde--1410035034094467878",
+      "id": "Le Monde--1146094278814756555",
       "source": "Le Monde",
-      "title": "Au Vietnam, les usines d’habillement profitent de la politique douanière de Donald Trump",
-      "excerpt": "Un an après la mise en place de nouveaux tarifs douaniers par l’administration Trump, les fabricants vietnamiens de vêtements et de chaussures de sport exportent plus que jamais aux Etats-Unis et en E...",
-      "link": "https://www.lemonde.fr/economie/article/2026/04/25/au-vietnam-les-usines-d-habillement-profitent-de-la-politique-douaniere-de-donald-trump_6683254_3234.html",
-      "time": "Il y a 5h",
-      "pubDate": 1777118418.0
+      "title": "VIDEO Dîner des correspondants de la Maison Blanche : quand Donald Trump était humilié par Barack Obama",
+      "excerpt": "Pour la première fois, Donald Trump participe au dîner de l’association des correspondants de la Maison Blanche en tant que président. Il y a quinze ans, il assistait à ce même événement prestigieux,...",
+      "link": "https://www.lemonde.fr/international/video/2026/04/25/diner-des-correspondants-de-la-maison-blanche-quand-donald-trump-etait-humilie-par-barack-obama_6683245_3210.html",
+      "time": "Il y a 7h",
+      "pubDate": 1777111200.0
     },
     {
-      "id": "Le Monde-2596192372479367167",
+      "id": "Le Monde--5535183149664741991",
       "source": "Le Monde",
       "title": "Au Mali, l’armée fait état d’attaques coordonnées de « groupes terroristes » près de Bamako et dans plusieurs villes",
       "excerpt": "Les rebelles touareg maliens du Front de libération de l’Azawad ont revendiqué la prise de contrôle de la ville-clé de Kidal, dans le nord du pays, après avoir attaqué cet ex-bastion de leur rébellion...",
@@ -232,63 +241,81 @@
       "pubDate": 1777111169.0
     },
     {
-      "id": "Le Monde--8507731185428638578",
-      "source": "Le Monde",
-      "title": "Au Canada, l’armée voit affluer les candidats : « Je veux défendre mon pays »",
-      "excerpt": "Longtemps confrontées à une crise des vocations, les forces armées canadiennes connaissent un rebond spectaculaire de leur recrutement, sur fond de réarmement du pays et de tensions géopolitiques croi...",
-      "link": "https://www.lemonde.fr/international/article/2026/04/25/au-canada-l-armee-voit-affluer-les-candidats-je-veux-defendre-mon-pays_6683221_3210.html",
-      "time": "Il y a 11h",
-      "pubDate": 1777095010.0
-    },
-    {
-      "id": "Le Monde-6286071672528585385",
+      "id": "Le Monde-2790579367674500485",
       "source": "Le Monde",
       "title": "Transports publics : leur organisation ne correspond pas à nos mobilités quotidiennes, selon une analyse inédite de données téléphoniques",
       "excerpt": "L’analyse du groupe de réflexion Geonexio relève l’inadéquation entre l’organisation administrative et l’échelle des déplacements quotidiens, bien plus large.",
       "link": "https://www.lemonde.fr/les-decodeurs/article/2026/04/25/transports-publics-leur-organisation-ne-correspond-pas-a-nos-mobilites-quotidiennes-selon-une-analyse-inedite-de-donnees-telephoniques_6683220_4355770.html",
-      "time": "Il y a 12h",
+      "time": "Il y a 13h",
       "pubDate": 1777091403.0
     },
     {
-      "id": "Le Monde-7563256094495707535",
-      "source": "Le Monde",
-      "title": "En cartes : comment Donald Trump transforme Washington en scène de son pouvoir personnel",
-      "excerpt": "Le président des Etats-Unis ne se limite pas à des projets de travaux somptuaires à la Maison Blanche : il remodèle la capitale fédérale, renforçant les symboles de pouvoir et imprimant sa marque, en...",
-      "link": "https://www.lemonde.fr/international/visuel/2026/04/25/en-cartes-comment-donald-trump-transforme-washington-en-scene-de-son-pouvoir-personnel_6683213_3210.html",
-      "time": "Il y a 13h",
-      "pubDate": 1777089628.0
-    },
-    {
-      "id": "Le Monde--7493297065723529595",
+      "id": "Le Monde--1734648654701016818",
       "source": "Le Monde",
       "title": "« Le courage des enfants nous oblige à déplacer des montagnes » : les confidences d’une spécialiste du cancer du sang pédiatrique",
       "excerpt": "« Mes patients, la maladie et moi ». Et si on prenait le pouls des médecins ? A la tête d’un réseau francilien de soins palliatifs infantiles, Béatrice Pellegrino, hémato-onco-pédiatre, met toute son...",
       "link": "https://www.lemonde.fr/intimites/article/2026/04/25/le-courage-des-enfants-nous-oblige-a-deplacer-des-montagnes-les-confidences-d-une-specialiste-du-cancer-du-sang-pediatrique_6683212_6190330.html",
       "time": "Il y a 13h",
       "pubDate": 1777089628.0
+    },
+    {
+      "id": "Le Monde--4086586442819566417",
+      "source": "Le Monde",
+      "title": "En cartes : comment Donald Trump transforme Washington en scène de son pouvoir personnel",
+      "excerpt": "Le président des Etats-Unis ne se limite pas à des projets de travaux somptuaires à la Maison Blanche : il remodèle la capitale fédérale, renforçant les symboles de pouvoir et imprimant sa marque, en...",
+      "link": "https://www.lemonde.fr/international/visuel/2026/04/25/en-cartes-comment-donald-trump-transforme-washington-en-scene-de-son-pouvoir-personnel_6683213_3210.html",
+      "time": "Il y a 13h",
+      "pubDate": 1777089628.0
     }
   ],
   "anglophone": [
     {
-      "id": "BBC News--6461694362029253363",
+      "id": "NPR-3745433457883900661",
+      "source": "NPR",
+      "title": "Pope Leo reiterates opposition to death penalty on same day U.S. approves firing squads",
+      "excerpt": "<em>Pope Leo reiterated the Catholic Church's teaching that the death penalty is \"inadmissible,\" in a video message released hours after the Justice Department said it would allow firing squads for fe...",
+      "link": "https://www.npr.org/2026/04/25/g-s1-118767/pope-leo-trump-death-penalty",
+      "time": "Il y a 1 min",
+      "pubDate": 1777139505.0
+    },
+    {
+      "id": "BBC News-1511481002392474218",
+      "source": "BBC News",
+      "title": "Mexico says US agents killed in crash weren't permitted to operate there",
+      "excerpt": "The two Americans who reportedly worked for the CIA died in a car crash after a Mexican-led operation to destroy a drug lab.",
+      "link": "https://www.bbc.com/news/articles/cx2491we011o?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 11 min",
+      "pubDate": 1777138851.0
+    },
+    {
+      "id": "BBC News--2118372783614432771",
+      "source": "BBC News",
+      "title": "Rights groups critical as Venezuela prisoner release scheme 'coming to an end'",
+      "excerpt": "More than 500 political prisoners are thought to still be in jail, despite the releases since the amnesty law was brought in.",
+      "link": "https://www.bbc.com/news/articles/c0kr62z7z6lo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 15 min",
+      "pubDate": 1777138618.0
+    },
+    {
+      "id": "BBC News--1249694853490643868",
       "source": "BBC News",
       "title": "Palestinians in West Bank and some in Gaza vote in local elections",
       "excerpt": "Local elections have been held in the occupied West Bank and in one Gazan city, though Hamas and other groups are not taking part.",
       "link": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 4 min",
+      "time": "Il y a 50 min",
       "pubDate": 1777136515.0
     },
     {
-      "id": "BBC News-7709024920793883923",
+      "id": "BBC News--850026545419652258",
       "source": "BBC News",
       "title": "Explosions and gunfire as armed groups launch co-ordinated attacks across Mali",
       "excerpt": "Witnesses report clashes in the centre and north, in what has been described as the largest jihadist attack in years.",
       "link": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1777131170.0
     },
     {
-      "id": "NPR--5591109494125679293",
+      "id": "NPR--1916940513769469637",
       "source": "NPR",
       "title": "Mali hit by wave of coordinated attacks from armed groups",
       "excerpt": "Gunfire and explosions have rocked Mali's capital Bamako and other key cities in one of the most significant coordinated attacks in years, as armed groups, including jihadist insurgents and separatist...",
@@ -297,7 +324,7 @@
       "pubDate": 1777129043.0
     },
     {
-      "id": "The Guardian--3282952467176380867",
+      "id": "The Guardian-6542699854817918965",
       "source": "The Guardian",
       "title": "What counts as the woods? Judge axes Nova Scotia’s ban that defied ‘commonsense definitions’",
       "excerpt": "The court sided with a Canadian hiker who deliberately challenged the order imposed to curb spread of wildfires As wildfires raged across Nova Scotia last summer, the <a href=\"https://www.theguardian....",
@@ -306,16 +333,16 @@
       "pubDate": 1777125647.0
     },
     {
-      "id": "BBC News--3981333338222929048",
+      "id": "BBC News--7401499516610848928",
       "source": "BBC News",
       "title": "Seven dead in major Russian attack on Ukraine",
       "excerpt": "The city of Dnipro was hardest hit, with officials saying four died in a strike on a residential building.",
       "link": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1777120177.0
     },
     {
-      "id": "NPR-2326177817580794445",
+      "id": "NPR--5883810300032782103",
       "source": "NPR",
       "title": "Opinion: A lesson in humanity at the Boston Marathon",
       "excerpt": "Two runners in this week's Boston Marathon stopped to help a racer who had collapsed just short of the finish line. NPR's Scott Simon says their generosity is its own kind of \"personal best.\"",
@@ -324,7 +351,7 @@
       "pubDate": 1777118400.0
     },
     {
-      "id": "NPR--3496845057395434361",
+      "id": "NPR-6204805416317085057",
       "source": "NPR",
       "title": "Justice Department makes it easier to deport those with DACA status",
       "excerpt": "Three appellate immigration judges sided with Department of Homeland Security lawyers who appealed a decision from Immigration Judge Michael Pleters terminating removal proceedings for DACA recipient...",
@@ -333,7 +360,7 @@
       "pubDate": 1777111200.0
     },
     {
-      "id": "The Guardian-5599611708421207835",
+      "id": "The Guardian--2688404006850840118",
       "source": "The Guardian",
       "title": "‘Astonishing’ discovery could help save children from deadly disfiguring condition",
       "excerpt": "A previously unknown species of bacteria found in patients with noma could be key to creating treatments for the neglected tropical disease The “astonishing” discovery of a new bacteria could open the...",
@@ -342,7 +369,7 @@
       "pubDate": 1777107641.0
     },
     {
-      "id": "NPR-1318219811872498562",
+      "id": "NPR-7946839509016043078",
       "source": "NPR",
       "title": "The rising cost of fertilizer and fuel prices is pushing some farmers to the brink",
       "excerpt": "In the Mississippi Delta, a crucial agricultural region, farmers say their patience is wearing thin. Reeling from the effects of tariffs, they must now also navigate rising fertilizer and fuel costs.",
@@ -351,7 +378,7 @@
       "pubDate": 1777107600.0
     },
     {
-      "id": "NPR-7850046744567160956",
+      "id": "NPR--1627411992329278339",
       "source": "NPR",
       "title": "DOJ wants to shield its lawyers from outside scrutiny. Critics worry about oversight",
       "excerpt": "Critics say the proposed rule to let the DOJ step into state bar investigations could weaken one of the last independent checks on government lawyers.",
@@ -360,7 +387,7 @@
       "pubDate": 1777107600.0
     },
     {
-      "id": "NPR--6258799780995655909",
+      "id": "NPR--222991135913389492",
       "source": "NPR",
       "title": "Trump and Congress cut funding for Planned Parenthood. Can Botox keep it afloat?",
       "excerpt": "After President Trump and Congress cut certain Medicaid funding to Planned Parenthood in last year's budget, some clinics have started offering aesthetic services, including Botox, to stay afloat.",
@@ -369,16 +396,16 @@
       "pubDate": 1777107600.0
     },
     {
-      "id": "NPR-265627245074718243",
+      "id": "NPR--1783306334383581757",
       "source": "NPR",
       "title": "Iran's foreign minister leaves Pakistan, then Trump cancels U.S. delegation's travel",
       "excerpt": "After arriving on Friday, Iran's Abbas Araghchi has left Islamabad, prompting President Trump to announce that his envoys Steve Witkoff and Jared Kushner will no longer travel there Saturday for peace...",
       "link": "https://www.npr.org/2026/04/25/nx-s1-5799372/iran-middle-east-updates",
-      "time": "Il y a 10h",
+      "time": "Il y a 11h",
       "pubDate": 1777098921.0
     },
     {
-      "id": "BBC News--6420670136105679150",
+      "id": "BBC News--2830295900990315667",
       "source": "BBC News",
       "title": "Thirty-one sloths die in Florida before opening of attraction",
       "excerpt": "Many died due to conditions at a warehouse they'd been shipped to, while others arrived dead, authorities say.",
@@ -387,7 +414,7 @@
       "pubDate": 1777089767.0
     },
     {
-      "id": "NPR--1898905891891020530",
+      "id": "NPR-693728105885541336",
       "source": "NPR",
       "title": "Justice Department to allow firing squads for executions in move to ramp up capital punishment",
       "excerpt": "The Justice Department will adopt firing squad as a permitted method of execution as the Trump administration moves to ramp up and expedite capital punishment cases.",
@@ -396,16 +423,16 @@
       "pubDate": 1777086131.0
     },
     {
-      "id": "The Guardian-6361931014924608851",
+      "id": "The Guardian-1945537746659424403",
       "source": "The Guardian",
       "title": "Altman apologizes after OpenAI failed to alert police before fatal Canada shooting",
       "excerpt": "OpenAI said the company had identified an account using abuse-detection efforts, but determined at the time it didn’t meet threshold for legal referral The head of OpenAI has written a letter apologiz...",
       "link": "https://www.theguardian.com/us-news/2026/apr/25/altman-apologizes-after-openai-failed-to-alert-police-before-fatal-canada-shooting",
-      "time": "Il y a 14h",
+      "time": "Il y a 15h",
       "pubDate": 1777083201.0
     },
     {
-      "id": "The Guardian-7356402336530236317",
+      "id": "The Guardian-1461561593809417218",
       "source": "The Guardian",
       "title": "US military kills two more people in strike on alleged drug boat in Pacific",
       "excerpt": "Small boat destroyed in video posted on social media as US campaign has killed at least 178 people since September The US military <a href=\"https://x.com/Southcom/status/2047843084956750278\">announced...",
@@ -414,43 +441,43 @@
       "pubDate": 1777082611.0
     },
     {
-      "id": "The Guardian--4957898345726025087",
+      "id": "The Guardian-3752713842957176949",
       "source": "The Guardian",
       "title": "UK position on Falklands will not change, No 10 says after leaked Pentagon memo",
       "excerpt": "Internal email proposes US should reassess support for UK claim to islands because of lack of support for Iran war <ul><li><a href=\"https://viewer.gutools.co.uk/politics/live/2026/apr/24/keir-starmer-...",
       "link": "https://www.theguardian.com/uk-news/2026/apr/24/uk-position-falklands-unchanged-leaked-pentagon-memo",
-      "time": "Il y a 15h",
+      "time": "Il y a 16h",
       "pubDate": 1777080865.0
     },
     {
-      "id": "BBC News--7349251348303261867",
+      "id": "BBC News--5001120658542572537",
       "source": "BBC News",
       "title": "The viral manifesto of 'anti-woke' tech boss with NHS and defence contracts",
       "excerpt": "The boss of the controversial tech company with UK government contracts published a 22-point plan on the future of the West.",
       "link": "https://www.bbc.com/news/articles/c4gjkj7975po?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 15h",
+      "time": "Il y a 16h",
       "pubDate": 1777079913.0
     },
     {
-      "id": "BBC News--3714613729703458349",
+      "id": "BBC News--387203083213352448",
       "source": "BBC News",
       "title": "Thousands at risk after multi-million dollar Everest flood warning system left to rust",
       "excerpt": "The flood warning system at Imja glacial lake has not been maintained since 2016, fearful locals tell BBC.",
       "link": "https://www.bbc.com/news/articles/czjwr93vrrzo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 17h",
+      "time": "Il y a 18h",
       "pubDate": 1777073289.0
     },
     {
-      "id": "BBC News--5733870157155564300",
+      "id": "BBC News--4768413517514603324",
       "source": "BBC News",
       "title": "US to allow firing squads, gas, and electrocution for federal executions",
       "excerpt": "In a memo, the Department of Justice says the move will \"strengthen\" the death penalty and deter crime.",
       "link": "https://www.bbc.com/news/articles/cg73l2d079ko?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 18h",
+      "time": "Il y a 19h",
       "pubDate": 1777068915.0
     },
     {
-      "id": "NPR--254347425848713589",
+      "id": "NPR-3150547624200661743",
       "source": "NPR",
       "title": "Appeals court rules that Trump's asylum ban at the border is illegal",
       "excerpt": "A U.S. appeals court ruled Friday that immigration laws allow people to apply for asylum at the border, and the president cannot bypass this. The decision stems from Trump declaring the border situati...",
@@ -459,43 +486,16 @@
       "pubDate": 1777067920.0
     },
     {
-      "id": "BBC News-3198420648611236703",
-      "source": "BBC News",
-      "title": "China car giant BYD says it can thrive without US",
-      "excerpt": "With the price of fuel rising China's BYD says it is positioning itself to benefit from the global shift away from fossil fuels.",
-      "link": "https://www.bbc.com/news/articles/cy01ele412yo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 19h",
-      "pubDate": 1777065916.0
-    },
-    {
-      "id": "NPR-7699695347089573944",
-      "source": "NPR",
-      "title": "From night life in Egypt to rice farming in Vietnam, the war in Iran is a drain",
-      "excerpt": "Fuel costs more. Food is harder to get. Jobs are evaporating. And in Cairo, cafes and restaurants are ordered to close at 9 p.m.",
-      "link": "https://www.npr.org/2026/04/24/nx-s1-5775733/war-in-iran-food-fuel-global-south",
-      "time": "Il y a 19h",
-      "pubDate": 1777065697.0
-    },
-    {
-      "id": "BBC News-1802439195704996672",
-      "source": "BBC News",
-      "title": "US justice department drops probe into Fed chairman Jerome Powell",
-      "excerpt": "President Donald Trump had accused Powell of improper cost overruns in renovating the Fed's building.",
-      "link": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 21h",
-      "pubDate": 1777057825.0
-    },
-    {
-      "id": "The Guardian-5150098187344233656",
+      "id": "The Guardian-2985138916389435307",
       "source": "The Guardian",
       "title": "US millionaire big-game hunter dies after being crushed by elephants",
       "excerpt": "Ernie Dosio, a 75-year-old vineyard owner, was hunting an antelope species in Africa when the incident occured <ul><li><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-ne...",
       "link": "https://www.theguardian.com/us-news/2026/apr/24/millionaire-hunter-dies-elephants-gabon",
-      "time": "Il y a 22h",
+      "time": "Il y a 23h",
       "pubDate": 1777054143.0
     },
     {
-      "id": "BBC News-6302253515489848861",
+      "id": "BBC News-7807005398778926050",
       "source": "BBC News",
       "title": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
       "excerpt": "An internal Pentagon email reportedly outlines options to punish allies over a perceived lack of support for Iran war.",
@@ -504,7 +504,7 @@
       "pubDate": 1777046669.0
     },
     {
-      "id": "The Guardian--1731660891766590302",
+      "id": "The Guardian--7282908372887111907",
       "source": "The Guardian",
       "title": "Florida officials investigate planned ‘Sloth World’ attraction after 31 sloths die in warehouse",
       "excerpt": "Languorous tree dwellers from Guyana and Peru died from ‘cold stun’ in warehouse with no power or running water <ul><li><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-n...",
@@ -513,7 +513,7 @@
       "pubDate": 1777039003.0
     },
     {
-      "id": "The Guardian--1201149255851065015",
+      "id": "The Guardian-2674692300809002324",
       "source": "The Guardian",
       "title": "British woman died in Ghana trying to recoup money from scammers, inquest told",
       "excerpt": "Janet Fordham died in crash after travelling to see man who claimed he would help to recover money from earlier scams A British woman who was scammed out of up to £1m in a string of so-called romance...",
@@ -522,7 +522,7 @@
       "pubDate": 1776874380.0
     },
     {
-      "id": "The Guardian-4932244978219083304",
+      "id": "The Guardian--5533307435978126757",
       "source": "The Guardian",
       "title": "Heatwaves, floods and wildfires pose rising threat to democracy, report finds",
       "excerpt": "Research shows natural hazards linked to climate crisis disrupted 23 elections in 18 countries in 2024 Democracy is under mounting threat from the climate crisis, with new analysis documenting how ele...",
@@ -531,7 +531,7 @@
       "pubDate": 1776834009.0
     },
     {
-      "id": "The Guardian--8191184721579064861",
+      "id": "The Guardian-3974035204278559883",
       "source": "The Guardian",
       "title": "Trump officials consider sending 1,100 Afghans who aided US forces to Congo",
       "excerpt": "Discussions reportedly come after Trump’s decision to stop initiative that allowed group to apply to resettle in the US The Trump administration is in discussions to potentially send up to 1,100 Afgha...",
@@ -540,5 +540,5 @@
       "pubDate": 1776813997.0
     }
   ],
-  "lastUpdate": "2026-04-25T17:06:09.949173"
+  "lastUpdate": "2026-04-25T17:52:49.110984"
 }
