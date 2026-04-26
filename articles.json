@@ -1,16 +1,34 @@
 {
   "francophone": [
     {
-      "id": "Le Monde-6223724709439583187",
+      "id": "Le Monde--5206771059192726049",
+      "source": "Le Monde",
+      "title": "Victor Wembanyama inscrit 27 points pour son retour, San Antonio prend le large face à Portland",
+      "excerpt": "Le Français des Spurs avait manqué le troisième match de la série contre les Trail Blazers après avoir intégré le protocole commotion suite à un violent choc à la tête lors de la rencontre précédente....",
+      "link": "https://www.lemonde.fr/sport/article/2026/04/27/victor-wembanyama-inscrit-27-points-pour-son-retour-san-antonio-prend-le-large-face-a-portland_6683488_3243.html",
+      "time": "Il y a 5 min",
+      "pubDate": 1777246841.0
+    },
+    {
+      "id": "Le Monde--5919858129618939018",
+      "source": "Le Monde",
+      "title": "EN DIRECT, guerre au Moyen-Orient : Abbas Araghtchi, ministre des affaires étrangères iranien, rejoint la Russie où il pourrait rencontrer Vladimir Poutine",
+      "excerpt": "L’ambassadeur iranien en Russie a affirmé que le chef de la diplomatie iranienne effectuerait « un déplacement à Saint-Pétersbourg pour rencontrer » le dirigeant russe, ce que Moscou n’a pas confirmé....",
+      "link": "https://www.lemonde.fr/international/live/2026/04/27/en-direct-guerre-au-moyen-orient-abbas-araghtchi-ministre-des-affaires-etrangeres-iranien-rejoint-la-russie-ou-il-pourrait-rencontrer-vladimir-poutine_6681958_3210.html",
+      "time": "Il y a 29 min",
+      "pubDate": 1777245377.0
+    },
+    {
+      "id": "Le Monde-1738611172090684626",
       "source": "Le Monde",
       "title": "Au Mali, la junte plus fragilisée que jamais alors que les assaillants négocient avec les forces russes",
       "excerpt": "La situation restait très instable au Mali après des attaques d’une ampleur sans précédent menées par les djihadistes du GSIM alliés aux indépendantistes du Nord, samedi, sur plusieurs villes dont Bam...",
       "link": "https://www.lemonde.fr/afrique/article/2026/04/27/au-mali-la-junte-plus-fragilisee-que-jamais-alors-que-les-assaillants-negocient-avec-les-forces-russes_6683493_3212.html",
-      "time": "Il y a 54 min",
+      "time": "Il y a 1h",
       "pubDate": 1777241208.0
     },
     {
-      "id": "Libération-6114259350440993989",
+      "id": "Libération--2598423890021888623",
       "source": "Libération",
       "title": "En progression en France, les vaccins plébiscités par 8 Français sur 10",
       "excerpt": "Selon le baromètre annuel publié lundi 27 avril, l’adhésion se renforce chez les moins de 55 ans et la couverture vaccinale des enfants progresse, dépassant désormais 95 % chez les nourrissons pour le...",
@@ -19,67 +37,61 @@
       "pubDate": 1777240860.0
     },
     {
-      "id": "Le Monde-892370137879225117",
+      "id": "Le Monde-6113147494633043574",
       "source": "Le Monde",
       "title": "Le charismatique chef d’orchestre américain Michael Tilson Thomas est mort",
       "excerpt": "Pianiste, compositeur, homme de transmission, celui que le monde avait surnommé « MTT », reste l’un des musiciens les plus accomplis de sa génération. Il laisse un legs discographique majeur.",
       "link": "https://www.lemonde.fr/disparitions/article/2026/04/26/le-charismatique-chef-d-orchestre-americain-michael-tilson-thomas-est-mort_6683491_3382.html",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1777239109.0
     },
     {
-      "id": "France Info--5228502334725973700",
+      "id": "France Info--5847462128479802843",
       "source": "France Info",
       "title": "Ce que l'on sait des combats au Mali entre l'armée, soutenue par les mercenaires russes, les jihadistes et les rebelles touareg",
       "excerpt": "Les jihadistes, alliés aux séparatistes touareg, ont lancé samedi des attaques coordonnées sans précédent contre la junte au pouvoir. Les combats se sont poursuivis dimanche, près de la capitale, Bama...",
       "link": "https://www.franceinfo.fr/monde/afrique/mali/ce-que-l-on-sait-des-combats-au-mali-entre-l-armee-soutenue-par-les-mercenaires-russes-les-jihadistes-et-les-rebelles-touareg_7965659.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1777237806.0
     },
     {
-      "id": "France Info--363268702832932851",
+      "id": "France Info--2400697099739590536",
       "source": "France Info",
       "title": "Ligue 1 : le podium s'éloigne pour l'OM, tenu en échec sur le fil par Nice",
       "excerpt": "Les Niçois ont arraché le nul (1-1) au Vélodrome grâce à un pénalty tardif d'Elye Wahi, dimanche, en clôture de la 31e journée de Ligue 1.",
       "link": "https://www.franceinfo.fr/sports/foot/ligue-1-le-podium-s-eloigne-pour-l-om-tenu-en-echec-sur-le-fil-par-nice_7965974.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1777237336.0
     },
     {
-      "id": "France Info-1242107246302186663",
+      "id": "France Info--2379778819431196694",
       "source": "France Info",
       "title": "Mort d'Yvan Colonna : les juges d'instruction ordonnent un procès pour assassinat en relation avec une entreprise terroriste",
       "excerpt": "Le détenu Franck Elong Abé, accusé d'avoir tué le militant corse en prison en mars 2022, est renvoyé aux assises.",
       "link": "https://www.franceinfo.fr/politique/affaire/agression-d-yvan-colonna-en-prison/mort-d-yvan-colonna-les-juges-d-instruction-ordonnent-un-proces-pour-assassinat-en-relation-avec-une-entreprise-terroriste_7965989.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 3h",
-      "pubDate": 1777231138.0,
-      "sources": [
-        "France Info",
-        "Le Monde"
-      ],
-      "multiSource": true,
-      "sourceCount": 2
+      "time": "Il y a 4h",
+      "pubDate": 1777231138.0
     },
     {
-      "id": "Libération--8730619349576243006",
+      "id": "Libération-7242273093265013515",
       "source": "Libération",
       "title": "«Non aux poissons qui tournent en rond !» : en Gironde, la mobilisation ne faiblit pas contre le projet de ferme usine à saumons",
       "excerpt": "Sur la plage de la Chambrette, au Verdon-sur-Mer, plusieurs centaines de personnes ont manifesté ce dimanche 26 avril contre le projet de l’entreprise Pure Salmon, qu’ils jugent destructeur pour l’env...",
       "link": "https://www.liberation.fr/societe/non-aux-poissons-qui-tournent-en-rond-en-gironde-la-mobilisation-ne-faiblit-pas-contre-le-projet-de-ferme-usine-a-saumons-20260426_3YODLYMTYVGC7PVBL7WJVN4Z6I/",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1777230730.0
     },
     {
-      "id": "Libération-5953049389256946658",
+      "id": "Libération-76633178129180151",
       "source": "Libération",
       "title": "Commission d’enquête sur l’audiovisuel public : Lagardère News aurait tenté d’influencer certains députés, selon «Le Monde»",
       "excerpt": "Des listes de questions orientées, vouées à fragiliser certains dirigeants auditionnés, auraient été envoyées aux parlementaires par la direction des affaires institutionnelles du groupe Lagardère, co...",
       "link": "https://www.liberation.fr/economie/medias/commission-denquete-sur-laudiovisuel-public-lagardere-news-aurait-tente-dinfluencer-certains-deputes-selon-le-monde-20260426_JVSHH5ZONNF3TNAES35HE7LU4Q/",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1777230234.0
     },
     {
-      "id": "Libération--7210797834240848450",
+      "id": "Libération-6763407070355785699",
       "source": "Libération",
       "title": "Procès Altman-Musk : poker menteur chez les barons de l’IA",
       "excerpt": "Sam Altman a-t-il dupé Elon Musk sur la nature non lucrative d’OpenAI ? Les audiences, qui démarrent ce lundi à Oakland, promettent quatre semaines de bataille judiciaire et de coups bas. «Libé» est l...",
@@ -88,7 +100,7 @@
       "pubDate": 1777229991.0
     },
     {
-      "id": "Libération--5317533060489881042",
+      "id": "Libération-4932100825454703598",
       "source": "Libération",
       "title": "La compagnie aérienne Transavia annule des vols en mai et juin en raison du prix du kérosène",
       "excerpt": "Les annulations concernent moins de 2 % des liaisons programmées sur la période, assure ce dimanche le groupe Air France-KLM, qui informera chaque voyageur par mail ou SMS.",
@@ -103,61 +115,61 @@
       "sourceCount": 2
     },
     {
-      "id": "Libération--3811777018415485290",
+      "id": "Libération-8061847000085916304",
       "source": "Libération",
       "title": "Guerre au Moyen-Orient : le chef de la diplomatie iranienne en visite à Moscou lundi",
       "excerpt": "Le ministre iranien des Affaires étrangères est revenu au Pakistan, après un voyage éclair à Oman. Selon une agence iranienne, il doit transmettre aux médiateurs pakistanais un document qui pose le ca...",
       "link": "https://www.liberation.fr/international/moyen-orient/en-direct-conflit-au-moyen-orient-trump-ne-renoncera-pas-a-la-guerre-en-iran-apres-les-coups-de-feu-au-gala-de-la-presse-20260426_HHGFGWDJF5AWPFR3ULRLCFBKWM/",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1777229042.0
     },
     {
-      "id": "Le Monde-1478845403059113272",
+      "id": "Le Monde-5850989627433411376",
       "source": "Le Monde",
       "title": "En Cisjordanie, le Fatah est arrivé en tête des élections municipales dans plusieurs villes",
       "excerpt": "La plupart des listes étaient alignées avec la formation de Mahmoud Abbas ou sans étiquette. Aucune ne se réclamait du Hamas, le rival islamiste du Fatah qui contrôle près de la moitié de la bande de...",
       "link": "https://www.lemonde.fr/international/article/2026/04/26/en-cisjordanie-le-fatah-est-arrive-en-tete-des-elections-municipales-dans-plusieurs-villes_6683487_3210.html",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1777228354.0
     },
     {
-      "id": "Libération-8526199801874941796",
+      "id": "Libération-7297435037025020158",
       "source": "Libération",
       "title": "Mort d’Yvan Colonna : Franck Elong Abé sera jugé pour assassinat en relation avec une entreprise terroriste",
       "excerpt": "Le détenu radicalisé avait mortellement agressé, dans la prison d’Arles le 2 mars 2022, le militant nationaliste corse qui purgeait une peine à perpétuité pour l’assassinat du préfet Erignac en 1998.",
       "link": "https://www.liberation.fr/societe/police-justice/mort-dyvan-colonna-franck-elong-abe-sera-juge-pour-assassinat-en-relation-avec-une-entreprise-terroriste-20260426_FDGSRGY66RDFRPEPVVSPLXFS3Y/",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1777227692.0
     },
     {
-      "id": "Libération--4207599179602397489",
+      "id": "Libération-5671316231528138188",
       "source": "Libération",
       "title": "A l’ombre des attaques contre Donald Trump, la violence politique s’enracine aux Etats-Unis",
       "excerpt": "Depuis la première élection du milliardaire en 2016, les attaques et menaces contre les élus de tous bords et de tous niveaux ont bondi. Elles ont fait plusieurs morts l’année dernière et menacent sér...",
       "link": "https://www.liberation.fr/international/amerique/a-lombre-des-attaques-contre-trump-la-violence-politique-senracine-aux-etats-unis-20260426_ZMA5KLFYBBEMNDDMDG2EPZCJU4/",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1777227115.0
     },
     {
-      "id": "Libération-3145580755042443806",
+      "id": "Libération--8432463335962958372",
       "source": "Libération",
       "title": "Donald Trump évacué après des tirs : un dîner des correspondants qui passe du rire aux armes",
       "excerpt": "Le président américain avait promis un discours «inapproprié» pour l’exercice oratoire annuel avec la presse de la Maison Blanche, auquel il acceptait de participer pour la première fois. Mais l’irrup...",
       "link": "https://www.liberation.fr/international/amerique/trump-evacue-apres-des-tirs-un-diner-qui-passe-du-rire-aux-armes-20260426_2NXACKJEEVDP5DCHRH5334BSZM/",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1777226970.0
     },
     {
-      "id": "Libération--5085591528364139186",
+      "id": "Libération--233007960087097693",
       "source": "Libération",
       "title": "La France insoumise participera finalement à la réunion sur le projet de loi contre l’antisémitisme",
       "excerpt": "Mathilde Panot, la présidente du groupe LFI à l’Assemblée, a annoncé que le mouvement de Jean-Luc Mélenchon se rendrait ce mardi à la réunion initiée par la ministre Aurore Bergé pour réfléchir à un t...",
       "link": "https://www.liberation.fr/politique/la-france-insoumise-participera-finalement-a-la-reunion-sur-le-projet-de-loi-contre-lantisemitisme-20260426_SOE2NTDQYFFP5KARYNWRLU6NB4/",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1777226923.0
     },
     {
-      "id": "Le Monde-2971794369893980118",
+      "id": "Le Monde--1127733483201405728",
       "source": "Le Monde",
       "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
       "excerpt": "Volodymyr Zelensky a annoncé, dimanche, que trois nouveaux pays avaient rejoint le programme destiné à financer des armes et des munitions américaines pour l’Ukraine. L’identité de ces pays ne serait...",
@@ -166,43 +178,34 @@
       "pubDate": 1777226344.0
     },
     {
-      "id": "Le Monde-5817874366887024803",
-      "source": "Le Monde",
-      "title": "EN DIRECT, guerre au Moyen-Orient : Abbas Araghtchi, ministre des affaires étrangères iranien, est de retour à Islamabad, vingt-quatre heures après son départ du Pakistan sans avoir rencontré les Américains",
-      "excerpt": "Les médias libanais rapportent qu’Israël a commencé à frapper le sud du Liban, après avoir émis un avertissement d’évacuation pour sept localités, malgré un cessez-le-feu avec le Hezbollah pro-iranien...",
-      "link": "https://www.lemonde.fr/international/live/2026/04/26/en-direct-guerre-au-moyen-orient-abbas-araghtchi-ministre-des-affaires-etrangeres-iranien-est-de-retour-a-islamabad-vingt-quatre-heures-apres-son-depart-du-pakistan-sans-avoir-rencontre-les-americains_6681958_3210.html",
-      "time": "Il y a 5h",
-      "pubDate": 1777226096.0
-    },
-    {
-      "id": "France Info--2142462200769752162",
+      "id": "France Info-7744487072658071189",
       "source": "France Info",
       "title": "Ligue 1 : Lille perd sa troisième place mais recolle au podium, Rennes tient le rythme, Metz et Nantes encore en vie",
       "excerpt": "Malgré leur victoire sur la pelouse du Paris FC, les Lillois ont cédé leur troisième place de Ligue 1 à l'Olympique lyonnais, dimanche.",
       "link": "https://www.franceinfo.fr/sports/foot/ligue-1-lille-perd-sa-troisieme-place-mais-recolle-au-podium-rennes-tient-le-rythme-metz-et-nantes-encore-en-vie_7965884.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1777224209.0
     },
     {
-      "id": "Le Monde--1800957269650462830",
+      "id": "Le Monde--6509303070427744588",
       "source": "Le Monde",
       "title": "Le groupe Lagardère a tenté de peser sur la commission d’enquête sur l’audiovisuel public",
       "excerpt": "Selon les informations du « Monde », la direction des affaires institutionnelles du groupe d’Arnaud Lagardère, contrôlé par Vincent Bolloré, a envoyé des listes de questions à des députés, avant leurs...",
       "link": "https://www.lemonde.fr/economie/article/2026/04/26/le-groupe-lagardere-a-tente-de-peser-sur-la-commission-d-enquete-sur-l-audiovisuel-public_6683479_3234.html",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1777220782.0
     },
     {
-      "id": "Le Monde--4240102335739144060",
+      "id": "Le Monde-6767440433235303782",
       "source": "Le Monde",
       "title": "Coups de feu au gala de la presse à Washington : ce que l’on sait de l’homme suspecté d’avoir tiré",
       "excerpt": "Donald Trump l’a décrit comme « une personne très perturbée ». Le président américain a aussi estimé que les enquêteurs disposaient d’« informations assez solides », évoquant une « haine ancienne » et...",
       "link": "https://www.lemonde.fr/international/article/2026/04/26/coups-de-feu-au-gala-de-la-presse-a-washington-ce-que-l-on-sait-de-l-homme-suspecte-d-avoir-tire_6683458_3211.html",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1777220593.0
     },
     {
-      "id": "Le Monde-6149114519102158021",
+      "id": "Le Monde--3036234956197773085",
       "source": "Le Monde",
       "title": "Ce qu’il faut retenir de l’actualité du week-end des 25 et 26 avril",
       "excerpt": "Vous n’avez pas suivi l’actualité samedi 25 et dimanche 26 avril ? Voici ce qu’il s’est passé pendant ces quarante-huit dernières heures.",
@@ -211,72 +214,81 @@
       "pubDate": 1777218564.0
     },
     {
-      "id": "France Info-5848165223698182153",
+      "id": "France Info-8354452068546423808",
       "source": "France Info",
       "title": "Tirs à Washington : Donald Trump relance le débat sur la protection des politiques et en profite pour vanter sa future salle de bal \"hypersécurisée\"",
       "excerpt": "Des informations \"très préliminaires\" font penser aux enquêteurs que l'homme \"ciblait des membres de l'administration\" du président Donald Trump, présent au gala, a déclaré le ministre de la Justice a...",
       "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/tirs-au-diner-de-gala-des-correspondants-avec-donald-trump/tirs-a-washington-donald-trump-relance-le-debat-sur-la-protection-des-politiques-et-en-profite-pour-vanter-sa-future-salle-de-bal-hypersecurisee_7965707.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1777216221.0
     },
     {
-      "id": "France Info-1158493658585380917",
+      "id": "France Info--1659481518804707286",
       "source": "France Info",
       "title": "\"On ne va pas contre le progrès\" : le directeur de Skyrock Laurent Bouneau explique l'entrée dans sa radio d'un morceau fait par IA",
       "excerpt": "Willylancien fait le buzz depuis le mois d’avril 2026 avec son titre \"Magique\", généré par intelligence artificielle, entré en playlist de la radio à Casablanca et Alger.",
       "link": "https://www.franceinfo.fr/culture/musique/rap/on-ne-va-pas-contre-le-progres-le-directeur-de-skyrock-laurent-bouneau-explique-l-entree-dans-sa-radio-d-un-morceau-fait-par-ia_7959299.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1777216163.0
     },
     {
-      "id": "France Info--4806534469358197157",
+      "id": "France Info-3353175707344132820",
       "source": "France Info",
       "title": "\"Paul Seixas m'a vraiment impressionné\", reconnaît Tadej Pogacar, vainqueur de Liège-Bastogne-Liège",
       "excerpt": "Le prodige français de 19 ans a été le seul capable de tenir la roue du champion du monde, dimanche, avant de craquer dans l'ultime ascension de la journée.",
       "link": "https://www.franceinfo.fr/sports/cyclisme/paul-seixas-m-a-vraiment-impressionne-reconnait-tadej-pogacar-vainqueur-de-liege-bastogne-liege_7965740.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 8h",
+      "time": "Il y a 9h",
       "pubDate": 1777214191.0
     },
     {
-      "id": "France Info-8727492715214736943",
+      "id": "France Info--4101925300857703231",
       "source": "France Info",
       "title": "Quarante ans après la catastrophe, la réserve de Tchernobyl est devenue un espace \"de reproduction et de refuge\" pour les animaux",
       "excerpt": "Des scientifiques ukrainiens ont créé il y a dix ans une réserve pour étudier le retour de la faune et de la flore dans un environnement contaminé. L'occupation de la centrale par l’armée russe a comp...",
       "link": "https://www.franceinfo.fr/monde/europe/tchernobyl/reportage-quarante-ans-apres-la-catastrophe-la-reserve-de-tchernobyl-est-devenue-un-espace-de-reproduction-et-de-refuge-pour-les-animaux_7965596.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 9h",
+      "time": "Il y a 10h",
       "pubDate": 1777209534.0
     },
     {
-      "id": "France Info--7014859626281713405",
+      "id": "France Info--7848190687534808664",
       "source": "France Info",
       "title": "Ces trois fois où la vie de Donald Trump a été menacée, avant les tirs au dîner de gala de correspondants de la Maison Blanche",
       "excerpt": "Au cours de sa carrière politique, le milliardaire républicain a été la cible de multiples tentatives d'assassinat et des menaces directes.",
       "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/tirs-au-diner-de-gala-des-correspondants-avec-donald-trump/ces-trois-fois-ou-la-vie-de-donald-trump-a-ete-menacee-avant-les-tirs-au-diner-de-gala-de-correspondants-de-la-maison-blanche_7965452.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 11h",
+      "time": "Il y a 12h",
       "pubDate": 1777201884.0
     },
     {
-      "id": "Le Monde-8560355731391765932",
+      "id": "Le Monde-2309607066987692895",
       "source": "Le Monde",
       "title": "La « double vie » des femmes qui cumulent travail et parcours de PMA : « En parler à mon employeur, c’est prendre le risque d’être jugée » ou « mise sur la touche »",
       "excerpt": "Des femmes en parcours de procréation médicalement assistée aux profils très divers témoignent auprès du « Monde » de leur difficulté à articuler leur vie professionnelle avec des rendez-vous médicaux...",
       "link": "https://www.lemonde.fr/societe/article/2026/04/26/la-double-vie-des-femmes-qui-cumulent-travail-et-parcours-de-pma-en-parler-a-mon-employeur-c-est-prendre-le-risque-d-etre-jugee_6683418_3224.html",
-      "time": "Il y a 19h",
+      "time": "Il y a 20h",
       "pubDate": 1777174215.0
     }
   ],
   "anglophone": [
     {
-      "id": "BBC News-4786565856797760837",
+      "id": "The Guardian-513705912321674862",
+      "source": "The Guardian",
+      "title": "Mali defence minister killed amid flurry of insurgent attacks",
+      "excerpt": "Car bomb kills Sadio Camara at home during coordinated assaults by rebel groups including West African al-Qaida affiliate Mali’s defence minister was killed in an attack on his residence, the governme...",
+      "link": "https://www.theguardian.com/world/2026/apr/26/mali-defence-minister-killed-amid-flurry-of-insurgent-attacks",
+      "time": "Il y a 50 min",
+      "pubDate": 1777244111.0
+    },
+    {
+      "id": "BBC News--8764590143685366884",
       "source": "BBC News",
       "title": "Trump and officials 'likely' targets of press dinner shooting suspect, authorities believe",
       "excerpt": "The suspect is expected to be charged with assault of a federal officer and using a firearm during a crime of violence, officials have said.",
       "link": "https://www.bbc.com/news/articles/c2d8dg57rzdo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 17 min",
+      "time": "Il y a 1h",
       "pubDate": 1777243416.0
     },
     {
-      "id": "BBC News--6607375406355499171",
+      "id": "BBC News--6270649631334922885",
       "source": "BBC News",
       "title": "Mali defence minister killed as country hit by wave of rebel attacks",
       "excerpt": "A wave of coordinated attacks by jihadist militants and separatists has spread through the country.",
@@ -285,16 +297,16 @@
       "pubDate": 1777236986.0
     },
     {
-      "id": "NPR--5289986154347478764",
+      "id": "NPR-1286946194570937360",
       "source": "NPR",
       "title": "A fast-growing Georgia wildfire tops 31 square miles, with evacuations possible",
       "excerpt": "One of two large wildfires in southeastern Georgia continues to grow and now exceeds 31 square miles.",
       "link": "https://www.npr.org/2026/04/26/nx-s1-5800174/georgia-wildfire-evacuations",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1777235302.0
     },
     {
-      "id": "NPR-2792083230898895021",
+      "id": "NPR--5564579122312448674",
       "source": "NPR",
       "title": "A chaotic White House Correspondents' Dinner, as told by NPR reporters in the room",
       "excerpt": "Top government officials were rushed out of the Washington Hilton after gunshots were heard at the dinner. NPR journalists describe hiding under tables and scrambling for information as the night unfo...",
@@ -303,16 +315,16 @@
       "pubDate": 1777233143.0
     },
     {
-      "id": "NPR--6433690864380201386",
+      "id": "NPR--6312113093734518966",
       "source": "NPR",
       "title": "What we know about Cole Allen, suspected White House Correspondents' dinner shooter",
       "excerpt": "The 31-year-old teacher and engineer from California sent an alleged message to family members saying that he wanted to target administration officials.",
       "link": "https://www.npr.org/2026/04/26/g-s1-118826/cole-allen-suspected-white-house-correspondents-dinner-shooter-profile",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1777230306.0
     },
     {
-      "id": "NPR--4480031350642706345",
+      "id": "NPR--4727026139524602476",
       "source": "NPR",
       "title": "Photos: The aftermath of the White House Correspondents' Dinner shooting",
       "excerpt": "A suspect has been arrested after firing shots at a security screening area at the Washington Hilton on Saturday night.",
@@ -321,52 +333,52 @@
       "pubDate": 1777219140.0
     },
     {
-      "id": "NPR-2997551838509376722",
+      "id": "NPR-4077382154212747507",
       "source": "NPR",
       "title": "Details emerge of alleged shooter at White House correspondents' dinner",
       "excerpt": "The alleged gunman has been identified as Cole Allen, according to two sources familiar with the matter.",
       "link": "https://www.npr.org/2026/04/26/g-s1-118807/trump-white-house-correspondents-dinner",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1777216828.0
     },
     {
-      "id": "NPR-5519008008829746517",
+      "id": "NPR--1161160517112813347",
       "source": "NPR",
       "title": "How China is responding to the stalling of talks between the U.S. and Iran",
       "excerpt": "NPR's Ayesha Rascoe speaks to Zongyuan Zoe Liu, a senior fellow at the Council on Foreign Relations, about how China views the current crisis in the Middle East",
       "link": "https://www.npr.org/2026/04/26/nx-s1-5797410/how-china-is-responding-to-the-stalling-of-talks-between-the-u-s-and-iran",
-      "time": "Il y a 10h",
+      "time": "Il y a 11h",
       "pubDate": 1777205331.0
     },
     {
-      "id": "NPR--6632876765898178751",
+      "id": "NPR--7633208973058684373",
       "source": "NPR",
       "title": "World Press Photo Contest winners cast a lens on resilience, pain and bliss",
       "excerpt": "A selection of prize honorees from the 2026 World Press Photo Contest capture the pain of the past year — but also focus on moments of strength, determination and joy.",
       "link": "https://www.npr.org/2026/04/26/g-s1-118511/world-press-photo-contest-winners",
-      "time": "Il y a 11h",
+      "time": "Il y a 12h",
       "pubDate": 1777203884.0
     },
     {
-      "id": "NPR--242666393914492784",
+      "id": "NPR--7626224568367810758",
       "source": "NPR",
       "title": "Trump doubts shooter motivated by Iran war as peace talks on hold",
       "excerpt": "A shooting incident at the White House Correspondent's Dinner took focus away from the war in Iran, as Iran's foreign minister planned to return to Islamabad, the site of previous peace talks.",
       "link": "https://www.npr.org/2026/04/26/nx-s1-5800054/iran-talks-on-hold-shooting-talks-pakistan",
-      "time": "Il y a 11h",
+      "time": "Il y a 12h",
       "pubDate": 1777203610.0
     },
     {
-      "id": "NPR-5010767558357495358",
+      "id": "NPR-2499924208794750966",
       "source": "NPR",
       "title": "Kenya's Sabastian Sawe is first person to run sub-2-hour marathon to win in London",
       "excerpt": "In a huge moment in sports history, Sabastian Sawe smashed the men's world record by 65 seconds in winning the London Marathon in 1 hour, 59 minutes and 30 seconds on Sunday.",
       "link": "https://www.npr.org/2026/04/26/nx-s1-5800057/kenya-sabastian-sawe-first-person-2-hour-marathon-london",
-      "time": "Il y a 11h",
+      "time": "Il y a 12h",
       "pubDate": 1777203287.0
     },
     {
-      "id": "NPR--5575898213498072519",
+      "id": "NPR--3331573076916057846",
       "source": "NPR",
       "title": "King Charles U.S. visit comes at tense moment in transatlantic relationship",
       "excerpt": "King Charles and Queen Camilla arrive Monday for a four day U.S. state visit. Some hope the royal touch can heal the transatlantic rift that's emerged under Trump.",
@@ -375,25 +387,25 @@
       "pubDate": 1777197600.0
     },
     {
-      "id": "BBC News--3376972089556827875",
+      "id": "BBC News-1982269103022647702",
       "source": "BBC News",
       "title": "I was in the room with Trump and heard the low thudding sound of gunfire",
       "excerpt": "The BBC's Gary O'Donoghue describes the moment he and others dived for cover as shots rang out at the venue.",
       "link": "https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 18h",
+      "time": "Il y a 19h",
       "pubDate": 1777177379.0
     },
     {
-      "id": "BBC News-5548660104467408051",
+      "id": "BBC News--5923047854368899935",
       "source": "BBC News",
       "title": "Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon",
       "excerpt": "The Israeli PM's directive comes as six people were killed by strikes in Lebanon despite a ceasefire being extended by three weeks.",
       "link": "https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 22h",
+      "time": "Il y a 23h",
       "pubDate": 1777163661.0
     },
     {
-      "id": "BBC News--328706277190929590",
+      "id": "BBC News-4140256174461535128",
       "source": "BBC News",
       "title": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
       "excerpt": "Iran had earlier said there were no plans for a direct meeting with a US delegation led by Steve Witkoff and Jared Kushner.",
@@ -402,7 +414,7 @@
       "pubDate": 1777152852.0
     },
     {
-      "id": "The Guardian--3323633802087382576",
+      "id": "The Guardian--3963094905259709144",
       "source": "The Guardian",
       "title": "Militants and separatists launch coordinated attacks across Mali",
       "excerpt": "Al-Qaida-linked group JNIM claims responsibility for strikes on airport in capital, Bamako and four other cities Islamic militants and separatists attacked several locations in Mali’s capital and othe...",
@@ -411,7 +423,7 @@
       "pubDate": 1777148534.0
     },
     {
-      "id": "BBC News-1170853040852874809",
+      "id": "BBC News--5903520217448790262",
       "source": "BBC News",
       "title": "Orbán steps down from Hungarian parliament after landslide defeat",
       "excerpt": "The outgoing prime minister will not take up his seat after leading his party back into opposition.",
@@ -420,7 +432,7 @@
       "pubDate": 1777144951.0
     },
     {
-      "id": "BBC News--1072802521269766716",
+      "id": "BBC News-8528474600833499531",
       "source": "BBC News",
       "title": "Mexico says US agents killed in crash weren't permitted to operate there",
       "excerpt": "The two Americans who reportedly worked for the CIA died in a car crash after a Mexican-led operation to destroy a drug lab.",
@@ -429,7 +441,7 @@
       "pubDate": 1777138851.0
     },
     {
-      "id": "BBC News-5725692758290797963",
+      "id": "BBC News--5620925326844822412",
       "source": "BBC News",
       "title": "Rights groups critical as Venezuela prisoner release scheme 'coming to an end'",
       "excerpt": "More than 500 political prisoners are thought to still be in jail, despite the releases since the amnesty law was brought in.",
@@ -438,7 +450,7 @@
       "pubDate": 1777138618.0
     },
     {
-      "id": "BBC News--3317235829937204723",
+      "id": "BBC News--2212492985535033801",
       "source": "BBC News",
       "title": "Palestinians in West Bank and some in Gaza vote in local elections",
       "excerpt": "Local elections have been held in the occupied West Bank and in one Gazan city, though Hamas and other groups are not taking part.",
@@ -447,7 +459,7 @@
       "pubDate": 1777136515.0
     },
     {
-      "id": "The Guardian-7078999108707373500",
+      "id": "The Guardian--7824546603319017078",
       "source": "The Guardian",
       "title": "What counts as the woods? Judge axes Nova Scotia’s ban that defied ‘commonsense definitions’",
       "excerpt": "The court sided with a Canadian hiker who deliberately challenged the order imposed to curb spread of wildfires As wildfires raged across Nova Scotia last summer, the <a href=\"https://www.theguardian....",
@@ -456,7 +468,7 @@
       "pubDate": 1777125647.0
     },
     {
-      "id": "The Guardian-1906911337596307405",
+      "id": "The Guardian--7931759444112456554",
       "source": "The Guardian",
       "title": "‘Astonishing’ discovery could help save children from deadly disfiguring condition",
       "excerpt": "A previously unknown species of bacteria found in patients with noma could be key to creating treatments for the neglected tropical disease The “astonishing” discovery of a new bacterium could open th...",
@@ -465,7 +477,7 @@
       "pubDate": 1777107641.0
     },
     {
-      "id": "BBC News--2724938552811954396",
+      "id": "BBC News--8383375453559809876",
       "source": "BBC News",
       "title": "Thirty-one sloths die in Florida before opening of attraction",
       "excerpt": "Many died due to conditions at a warehouse they'd been shipped to, while others arrived dead, authorities say.",
@@ -474,7 +486,7 @@
       "pubDate": 1777089767.0
     },
     {
-      "id": "The Guardian--843812754939649910",
+      "id": "The Guardian--1240086018206848838",
       "source": "The Guardian",
       "title": "Altman apologizes after OpenAI failed to alert police before fatal Canada shooting",
       "excerpt": "OpenAI said the company had identified an account using abuse-detection efforts, but determined at the time it didn’t meet threshold for legal referral The head of OpenAI has written a letter apologiz...",
@@ -483,7 +495,7 @@
       "pubDate": 1777083201.0
     },
     {
-      "id": "The Guardian--9028572176122864893",
+      "id": "The Guardian-215222977680077050",
       "source": "The Guardian",
       "title": "US military kills two more people in strike on alleged drug boat in Pacific",
       "excerpt": "Small boat destroyed in video posted on social media as US campaign has killed at least 178 people since September The US military <a href=\"https://x.com/Southcom/status/2047843084956750278\">announced...",
@@ -492,7 +504,7 @@
       "pubDate": 1777082611.0
     },
     {
-      "id": "The Guardian--8171054452292066476",
+      "id": "The Guardian-2973708603938885789",
       "source": "The Guardian",
       "title": "UK position on Falklands will not change, No 10 says after leaked Pentagon memo",
       "excerpt": "Internal email proposes US should reassess support for UK claim to islands because of lack of support for Iran war <ul><li><a href=\"https://viewer.gutools.co.uk/politics/live/2026/apr/24/keir-starmer-...",
@@ -501,7 +513,7 @@
       "pubDate": 1777080865.0
     },
     {
-      "id": "The Guardian--8703545513717514806",
+      "id": "The Guardian-7217634033932591161",
       "source": "The Guardian",
       "title": "US millionaire big-game hunter dies after being crushed by elephants",
       "excerpt": "Ernie Dosio, a 75-year-old vineyard owner, was hunting an antelope species in Africa when the incident occured <ul><li><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-ne...",
@@ -510,7 +522,7 @@
       "pubDate": 1777054143.0
     },
     {
-      "id": "The Guardian--635410610120651235",
+      "id": "The Guardian-3974154681708234027",
       "source": "The Guardian",
       "title": "Florida officials investigate planned ‘Sloth World’ attraction after 31 sloths die in warehouse",
       "excerpt": "Languorous tree dwellers from Guyana and Peru died from ‘cold stun’ in warehouse with no power or running water <ul><li><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-n...",
@@ -519,23 +531,14 @@
       "pubDate": 1777039003.0
     },
     {
-      "id": "The Guardian-8190225779789662912",
+      "id": "The Guardian--5141690919285186007",
       "source": "The Guardian",
       "title": "British woman died in Ghana trying to recoup money from scammers, inquest told",
       "excerpt": "Janet Fordham died in crash after travelling to see man who claimed he would help to recover money from earlier scams A British woman who was scammed out of up to £1m in a string of so-called romance...",
       "link": "https://www.theguardian.com/uk-news/2026/apr/22/british-woman-died-in-ghana-trying-to-recoup-money-from-scammers-inquest-told",
       "time": "Il y a 4j",
       "pubDate": 1776874380.0
-    },
-    {
-      "id": "The Guardian-6594990211045678629",
-      "source": "The Guardian",
-      "title": "Heatwaves, floods and wildfires pose rising threat to democracy, report finds",
-      "excerpt": "Research shows natural hazards linked to climate crisis disrupted 23 elections in 18 countries in 2024 Democracy is under mounting threat from the climate crisis, with new analysis documenting how ele...",
-      "link": "https://www.theguardian.com/global-development/2026/apr/22/climate-change-extreme-weather-heatwaves-floods-wildfires-threat-democracy-elections",
-      "time": "Il y a 4j",
-      "pubDate": 1776834009.0
     }
   ],
-  "lastUpdate": "2026-04-26T23:01:09.331351"
+  "lastUpdate": "2026-04-26T23:46:09.626669"
 }
