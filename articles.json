@@ -1,540 +1,537 @@
 {
   "francophone": [
     {
-      "id": "France Info--5331701344814051747",
-      "source": "France Info",
-      "title": "Shein, Temu, AliExpress... 46% des produits testés sont \"dangereux\", selon la DGCCRF",
-      "excerpt": "La DGCCRF appelle les consommateurs \"à la vigilance\" quand ils se rendent sur ces plateformes étrangères pour acheter des produits.",
-      "link": "https://www.franceinfo.fr/economie/entreprises/shein/shein-temu-aliexpress-46-des-produits-testes-sont-dangereux-selon-la-dgccrf_7972037.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 6 min",
-      "pubDate": 1777479618.0
+      "id": "Libération-3156141527674457078",
+      "source": "Libération",
+      "title": "Sur l’Algérie, Bruno Retailleau remercie Emmanuel Macron (et s’en prend à lui)",
+      "excerpt": "Pour tenter de faire oublier sa participation au gouvernement et relancer un début de campagne sans relief, le candidat LR à la présidentielle choisit le face-à-face avec le chef de l’Etat après sa so...",
+      "link": "https://www.liberation.fr/politique/sur-lalgerie-bruno-retailleau-remercie-emmanuel-macron-et-sen-prend-a-lui-20260429_HGS4TA6S3FGJ7MA5NBB4SMKBP4/",
+      "time": "Il y a 8 min",
+      "pubDate": 1777484788.0
     },
     {
-      "id": "Le Monde--4659752598828492736",
+      "id": "Le Monde-3570623532946243232",
+      "source": "Le Monde",
+      "title": "A Bruxelles, le Hongrois Péter Magyar veut jouer le jeu européen",
+      "excerpt": "Le prochain premier ministre hongrois a rencontré Ursula von der Leyen mercredi. Il espère obtenir le déblocage des fonds communautaires qui ont été gelés en raison des atteintes à l’Etat de droit de...",
+      "link": "https://www.lemonde.fr/international/article/2026/04/29/a-bruxelles-le-hongrois-peter-magyar-veut-jouer-le-jeu-europeen_6684313_3210.html",
+      "time": "Il y a 15 min",
+      "pubDate": 1777484387.0
+    },
+    {
+      "id": "France Info--1333067133283094674",
+      "source": "France Info",
+      "title": "Procès en appel du financement libyen : lors de son dernier interrogatoire, Nicolas Sarkozy tente d'arrondir les angles avec Claude Guéant",
+      "excerpt": "L'ancien président de la République a notamment été interrogé mercredi sur un dîner de juillet 2007 à Tripoli, à propos duquel sa version diverge de celle de son ancien proche collaborateur.",
+      "link": "https://www.franceinfo.fr/politique/nicolas-sarkozy/proces-en-appel-du-financement-libyen-lors-de-son-dernier-interrogatoire-nicolas-sarkozy-tente-d-arrondir-les-angles-avec-claude-gueant_7971911.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 19 min",
+      "pubDate": 1777484172.0
+    },
+    {
+      "id": "Libération--8146833732996634370",
+      "source": "Libération",
+      "title": "EN DIRECT - Guerre au Moyen-Orient : les Etats-Unis ont déjà dépensé 25 milliards de dollars",
+      "excerpt": "Alors que les résultats de la multinationale connaissent une envolée comparable à celle du prix du baril, l’exécutif français hausse le ton. Dans le même temps, Donald Trump continue de faire pression...",
+      "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-donald-trump-affirme-que-les-etats-unis-ont-vaincu-militairement-liran-20260429_CWCN4ZNNVNH3VOJ32OB5YNO4QU/",
+      "time": "Il y a 24 min",
+      "pubDate": 1777483881.0
+    },
+    {
+      "id": "Le Monde-569485480324462646",
+      "source": "Le Monde",
+      "title": "Londres : une attaque au couteau dans le quartier juif de Golders Green fait deux blessés",
+      "excerpt": "Le premier ministre britannique, Keir Starmer, a fait part de son « inquiétude », mercredi 29 avril, après une attaque au couteau survenue dans le quartier londonien de Golders Green, où vit une impor...",
+      "link": "https://www.lemonde.fr/videos/video/2026/04/29/londres-une-attaque-au-couteau-dans-le-quartier-juif-de-golders-green-fait-deux-blesses_6684312_1669088.html",
+      "time": "Il y a 26 min",
+      "pubDate": 1777483728.0,
+      "sources": [
+        "Le Monde",
+        "France Info"
+      ],
+      "multiSource": true,
+      "sourceCount": 2
+    },
+    {
+      "id": "Libération-7840049092473468037",
+      "source": "Libération",
+      "title": "En Italie, la grâce présidentielle accordée à une ancienne proche de Berlusconi fait polémique",
+      "excerpt": "Selon une enquête journalistique, la libération anticipée de Nicole Minetti, condamnée pour proxénétisme dans l’affaire du «Rubygate», reposerait sur un dossier bidon. Une affaire qui éclabousse le mi...",
+      "link": "https://www.liberation.fr/international/europe/en-italie-la-grace-presidentielle-accordee-a-une-ancienne-proche-de-berlusconi-fait-polemique-20260429_KHOWR26Q7VHPJO4CRX7G2X7S5U/",
+      "time": "Il y a 29 min",
+      "pubDate": 1777483575.0
+    },
+    {
+      "id": "Libération--3065467508676992675",
+      "source": "Libération",
+      "title": "Attaque terroriste à Londres, débat sur les superprofits de Total, menace de mois de blocus des ports iraniens… L’actu de ce mercredi 29 avril",
+      "excerpt": "La rédaction de «Libération» récapitule les principales actualités de la journée du mercredi 29 avril.",
+      "link": "https://www.liberation.fr/international/europe/attaque-terroriste-a-londres-debat-sur-les-superprofits-de-total-menace-de-mois-de-blocus-des-ports-iraniens-lactu-de-ce-mercredi-29-avril-20260429_EJRRYIFGUNGFHAOXSYKCXXVAHI/",
+      "time": "Il y a 1h",
+      "pubDate": 1777481642.0
+    },
+    {
+      "id": "Le Monde--7537010498531966922",
+      "source": "Le Monde",
+      "title": "TotalEnergies : Sébastien Lecornu défend l’entreprise contre la gauche qui veut taxer les « superprofits »",
+      "excerpt": "Taxation, nationalisation… Devant les profits exceptionnels de TotalEnergies, les propositions se multiplient pour mieux partager la rente pétrolière. Le premier ministre défend le groupe, tout en l’a...",
+      "link": "https://www.lemonde.fr/international/article/2026/04/29/totalenergies-sebastien-lecornu-defend-l-entreprise-contre-la-gauche-qui-veut-taxer-les-superprofits_6684307_3210.html",
+      "time": "Il y a 1h",
+      "pubDate": 1777481562.0
+    },
+    {
+      "id": "France Info--8029038804336884835",
+      "source": "France Info",
+      "title": "Guerre en Ukraine, Otan, environnement… Les critiques discrètes de Charles III envers Donald Trump lors de sa visite d'Etat à Washington",
+      "excerpt": "Si le monarque britannique a affiché sa bonne entente avec le dirigeant républicain, il a aussi semblé glisser quelques messages à l'attention des Etats-Unis.",
+      "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/guerre-en-ukraine-otan-environnement-les-critiques-discretes-de-charles-iii-envers-donald-trump-lors-de-sa-visite-d-etat-a-washington_7971776.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1777481067.0
+    },
+    {
+      "id": "France Info--5458541096793604884",
+      "source": "France Info",
+      "title": "\"Très intense, comme un marathon\" : à Paris, des élèves participent à un concours international de calcul mental",
+      "excerpt": "Du Kazakhstan à l'Espagne, en passant par l'Ukraine et même la Russie : de nombreux pays étaient représentés lors d'un concours de calcul mental, organisé mercredi à Paris, par l'association L'académi...",
+      "link": "https://www.franceinfo.fr/societe/education/reportage-tres-intense-comme-un-marathon-a-paris-des-eleves-participent-a-un-concours-international-de-calcul-mental_7972370.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1777481057.0
+    },
+    {
+      "id": "France Info-2480365570634512966",
+      "source": "France Info",
+      "title": "La Suède annonce avoir saisi un navire de la flotte fantôme russe",
+      "excerpt": "Le \"Caffa\" avait été arraisonné en mars par les garde-côtes suédois. Un responsable avait alors déclaré que le navire servait à transporter du blé volé à l'Ukraine.",
+      "link": "https://www.franceinfo.fr/monde/russie/la-suede-annonce-avoir-saisi-un-navire-de-la-flotte-fantome-russe_7972445.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1777480206.0
+    },
+    {
+      "id": "Libération-4164080213600635237",
+      "source": "Libération",
+      "title": "Pédocriminalité : Romain Lemire et Frédéric Pommier, de l’enfance ravagée à la réparation romanesque",
+      "excerpt": "Les deux auteurs viennent chacun de publier, en avril, une œuvre littéraire sur la lente déflagration provoquée par les violences sexuelles qu’ils ont subies. Réunis par «Libé», ils racontent le sol i...",
+      "link": "https://www.liberation.fr/societe/police-justice/pedocriminalite-romain-lemire-et-frederic-pommier-de-lenfance-ravagee-a-la-reparation-romanesque-20260429_SROAH2LFGNGJDHCOOS5BETAGXU/",
+      "time": "Il y a 1h",
+      "pubDate": 1777480011.0
+    },
+    {
+      "id": "Libération-7132556193222626509",
+      "source": "Libération",
+      "title": "Crise chez Grasset : la ministre de la Culture appelle à «étudier» les «pistes» pour protéger les éditeurs et les auteurs",
+      "excerpt": "Catherine Pégard a été interrogée lors des questions au gouvernement ce mercredi 29 avril par une sénatrice socialiste qui souhaite créer une clause de conscience pour les auteurs.",
+      "link": "https://www.liberation.fr/culture/livres/crise-chez-grasset-la-ministre-de-la-culture-appelle-a-etudier-les-pistes-pour-proteger-les-editeurs-et-les-auteurs-20260429_OW7JIMJLLNFTTF5NDESD22JNE4/",
+      "time": "Il y a 1h",
+      "pubDate": 1777479863.0
+    },
+    {
+      "id": "Le Monde-8212205311105037553",
       "source": "Le Monde",
       "title": "Médecins à diplôme extracommunautaire : le gouvernement annonce qu’il va « simplifier » la procédure de titularisation",
       "excerpt": "Emmanuel Macron s’est emporté lundi sur le sort de ces praticiens contraints de repasser des concours pour être titularisés et pouvoir travailler dans les mêmes conditions que leurs confrères européen...",
       "link": "https://www.lemonde.fr/societe/article/2026/04/29/medecins-a-diplome-extracommunautaire-le-gouvernement-annonce-qu-il-va-simplifier-la-procedure-de-titularisation_6684303_3224.html",
-      "time": "Il y a 10 min",
-      "pubDate": 1777479407.0
+      "time": "Il y a 1h",
+      "pubDate": 1777479406.0
     },
     {
-      "id": "Le Monde--6555125462401773866",
+      "id": "France Info-3701023138980514007",
+      "source": "France Info",
+      "title": "Conjoint arrêté en Algérie, zone de recherche… Où en est l'enquête sur la disparition de Manon Relandeau en Loire Atlantique",
+      "excerpt": "La jeune mère de famille, qui n'a plus donné signe de vie depuis le 27 mars, reste introuvable. Son conjoint, principal suspect dans le dossier, a été interpellé en Algérie où il se trouvait avec leur...",
+      "link": "https://www.franceinfo.fr/faits-divers/conjoint-arrete-en-algerie-zone-de-recherche-ou-en-est-l-enquete-sur-la-disparition-de-manon-relandeau-en-loire-atlantique_7972373.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1777479237.0
+    },
+    {
+      "id": "Le Monde-3148977703501813850",
       "source": "Le Monde",
-      "title": "EN DIRECT, guerre au Moyen-Orient : la guerre contre l’Iran a déjà coûté 25 milliards de dollars aux Etats-Unis, selon un responsable du Pentagone",
-      "excerpt": "Présent aux côtés du secrétaire à la défense, Pete Hegseth, lors de son audition parlementaire, Jules Hurst, contrôleur du Pentagone, a pour la première fois donné une estimation du coût pour Washingt...",
+      "title": "EN DIRECT, guerre au Moyen-Orient : les Etats-Unis gagnent la guerre contre l’Iran, assure le secrétaire américain à la défense",
+      "excerpt": "Auditionné à la Chambre des représentants mercredi, Pete Hegseth a affirmé que l’armée américaine « combat pour vaincre ». Selon lui, l’Iran est « financièrement dévastée », entre le blocage naval et...",
       "link": "https://www.lemonde.fr/international/live/2026/04/29/en-direct-guerre-au-moyen-orient-la-guerre-contre-l-iran-a-deja-coute-25-milliards-de-dollars-aux-etats-unis-selon-un-responsable-du-pentagone_6684072_3210.html",
-      "time": "Il y a 22 min",
-      "pubDate": 1777478672.0
+      "time": "Il y a 1h",
+      "pubDate": 1777478668.0
     },
     {
-      "id": "Libération--5401639798649389675",
+      "id": "Libération-1062882049213157024",
       "source": "Libération",
       "title": "«Ceci est un canular» de Christophe Granger : le tourbillon de la Poldévie",
       "excerpt": "Derrière l’invention du faux pays repris par Hergé et Queneau se cache une manœuvre de l’extrême droite de l’entre-deux-guerres.",
       "link": "https://www.liberation.fr/culture/livres/ceci-est-un-canular-de-christophe-granger-le-tourbillon-de-la-poldevie-20260429_Z3OVBAZ3SRGLXFYLPOLFO6VAUU/",
-      "time": "Il y a 30 min",
+      "time": "Il y a 1h",
       "pubDate": 1777478220.0
     },
     {
-      "id": "France Info--1392861856565234732",
+      "id": "France Info--4992834929405701113",
       "source": "France Info",
       "title": "Guerre au Moyen-Orient : le conflit avec l'Iran a coûté \"25 milliards de dollars\" aux Etats-Unis, selon un haut responsable du Pentagone",
       "excerpt": "Le secrétaire d'Etat à la Défense, Pete Hegseth, a de son côté estimé que le principal \"défi\" des Etats-Unis dans cette guerre était de faire face aux \"propos irresponsables\" des démocrates.",
       "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-les-etats-unis-ont-vaincu-militairement-l-iran-repete-donald-trump_7971554.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 33 min",
+      "time": "Il y a 2h",
       "pubDate": 1777478050.0
     },
     {
-      "id": "France Info--6173307601212526149",
-      "source": "France Info",
-      "title": "Cyclisme : Tadej Pogacar remporte la 1ere étape du Tour de Romandie et s'empare du maillot jaune",
-      "excerpt": "Le champion du monde était sixième du classement général à l'issue du prologue de mardi, à sept secondes du maillot jaune Dorian Godon.",
-      "link": "https://www.franceinfo.fr/sports/cyclisme/cyclisme-tadej-pogacar-remporte-la-1ere-etape-du-tour-de-romandie-et-s-empare-du-maillot-jaune_7972244.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 34 min",
-      "pubDate": 1777477985.0
-    },
-    {
-      "id": "Libération-8707270340474438387",
+      "id": "Libération--2330941323236229609",
       "source": "Libération",
       "title": "«Ici/The Look», aux raisons funèbres de Léo Lérus et Sharon Eyal",
       "excerpt": "Le Ballet de l’Opéra national du Rhin propose un double programme imaginé par les deux chorégraphes, une dualité entre pâleur macabre et transe ténébreuse.",
       "link": "https://www.liberation.fr/culture/scenes/icithe-look-aux-raisons-funebres-de-leo-lerus-et-sharon-eyal-20260429_2VBVHB3SRRHDFE3MZQZB6YQEJA/",
-      "time": "Il y a 36 min",
+      "time": "Il y a 2h",
       "pubDate": 1777477834.0
     },
     {
-      "id": "Libération--4254596329030114713",
+      "id": "Libération--8916318114365783367",
       "source": "Libération",
       "title": "La campagne vaccinale anti-Covid est lancée mais pourquoi cibler juste les plus fragiles ?",
       "excerpt": "Christian Lehmann est médecin et écrivain. Pour «Libération», il tient la chronique d’une société touchée par les crises sanitaires et du service public. Il déplore aujourd’hui une communication trop...",
       "link": "https://www.liberation.fr/societe/sante/la-campagne-vaccinale-anti-covid-est-lancee-mais-pourquoi-cibler-juste-les-plus-fragiles-20260429_2E227F7BRJDKLK25YNVQPNUFGU/",
-      "time": "Il y a 42 min",
+      "time": "Il y a 2h",
       "pubDate": 1777477498.0
     },
     {
-      "id": "Libération--7043756253015613619",
+      "id": "Libération--8396883460499877480",
       "source": "Libération",
       "title": "«Predator Files» : en Grèce, la clôture de l’affaire d’espionnage fait scandale",
       "excerpt": "Le procureur général qui a classé sans suite, lundi 27 avril, ce dossier de surveillance illégale est soupçonné de vouloir étouffer l’affaire d’espionnage visant plusieurs personnalités grecques.",
       "link": "https://www.liberation.fr/international/europe/predator-files-en-grece-la-cloture-de-laffaire-despionnage-fait-scandale-20260429_M6OPLVYFV5CSRPUMZWRBIB3UQU/",
-      "time": "Il y a 44 min",
+      "time": "Il y a 2h",
       "pubDate": 1777477346.0
     },
     {
-      "id": "France Info--7663065065344102929",
-      "source": "France Info",
-      "title": "\"Du jour au lendemain, on nous enlève tout\" : cambriolé, ce collectionneur perd 50 000 euros en cartes Pokémon",
-      "excerpt": "Une nouvelle affaire de vols de cartes Pokémon. Le phénomène prend de l'ampleur et suscite l'intérêt de malfrats qui n'hésitent pas à faire preuve de violence. Deux collectionneurs ont récemment été p...",
-      "link": "https://www.franceinfo.fr/faits-divers/braquage/du-jour-au-lendemain-on-nous-enleve-tout-cambriole-ce-collectionneur-perd-50-000-euros-en-cartes-pokemon_7972094.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 46 min",
-      "pubDate": 1777477253.0
-    },
-    {
-      "id": "France Info--8069466570451663846",
-      "source": "France Info",
-      "title": "Pour le retour du \"Diable s'habille en Prada\", les fans ne cachent pas leur enthousiasme",
-      "excerpt": "Le \"13h cinéma\" se penche sur le retour d'une patronne de la mode qu'on adore : la tyrannique Miranda incarnée par Meryl Streep. Sortie le 29 avril, la comédie \"Le Diable s’habille en Prada 2\" avec...",
-      "link": "https://www.franceinfo.fr/culture/cinema/pour-le-retour-du-diable-s-habille-en-prada-les-fans-ne-cachent-pas-leur-enthousiasme_7972310.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 51 min",
-      "pubDate": 1777476935.0
-    },
-    {
-      "id": "Le Monde--7233218346075748719",
+      "id": "Le Monde--6977025454032541130",
       "source": "Le Monde",
       "title": "Pourquoi le parquet demande que l’automobiliste qui avait écrasé le cycliste Paul Varry, à Paris, soit jugé pour meurtre",
       "excerpt": "Le conducteur d’un SUV avait roulé sur un jeune homme après une altercation, en octobre 2024. « Il est établi que Paul Varry est mort des suites de l’écrasement qu’il a subi à deux reprises par les de...",
       "link": "https://www.lemonde.fr/societe/article/2026/04/29/pourquoi-le-parquet-demande-que-l-automobiliste-qui-avait-ecrase-le-cycliste-paul-varry-a-paris-soit-juge-pour-meurtre_6684296_3224.html",
-      "time": "Il y a 56 min",
+      "time": "Il y a 2h",
       "pubDate": 1777476645.0
     },
     {
-      "id": "Le Monde-1682522926762604555",
+      "id": "Le Monde--6799198575873898677",
       "source": "Le Monde",
       "title": "Atlético de Madrid-Arsenal : pour Antoine Griezmann, la Ligue des champions comme dernier objectif avec les Colchoneros",
       "excerpt": "Le Français, qui va rejoindre le club américain d’Orlando cet été, espère rallier la finale de la prestigieuse compétition européenne avec son équipe. Celle-ci reçoit les Gunners, mercredi, en demi-fi...",
       "link": "https://www.lemonde.fr/sport/article/2026/04/29/atletico-de-madrid-arsenal-pour-antoine-griezmann-la-ligue-des-champions-comme-dernier-objectif-avec-les-colchoneros_6684295_3242.html",
-      "time": "Il y a 57 min",
+      "time": "Il y a 2h",
       "pubDate": 1777476602.0
     },
     {
-      "id": "Le Monde--438218946602983560",
+      "id": "Le Monde-8452427566242929486",
       "source": "Le Monde",
       "title": "La Cour suprême américaine annule la carte électorale de Louisiane, un revers pour la représentation des minorités",
       "excerpt": "La décision constitue un échec pour les démocrates, engagés depuis plusieurs mois dans une bataille avec les républicains autour du redécoupage électoral de plusieurs Etats avant les élections crucial...",
       "link": "https://www.lemonde.fr/international/article/2026/04/29/la-cour-supreme-americaine-annule-la-carte-electorale-de-louisiane-un-revers-pour-la-representation-des-minorites_6684294_3210.html",
-      "time": "Il y a 57 min",
+      "time": "Il y a 2h",
       "pubDate": 1777476585.0
     },
     {
-      "id": "Libération--8280430169360798362",
-      "source": "Libération",
-      "title": "Deux hommes juifs poignardés à Londres : un suspect arrêté, l’attaque traitée comme un acte terroriste, annonce la police",
-      "excerpt": "Un homme de 45 ans a été arrêté pour tentative de meurtre ce mercredi 29 avril, après une attaque au couteau ayant blessé deux personnes dans le quartier londonien de Golders Green, où vit une importa...",
-      "link": "https://www.liberation.fr/international/europe/londres-deux-personnes-blessees-lors-dune-attaque-au-couteau-un-homme-arrete-20260429_A43ZPUOSLREABDQ4MRZ34XIRGM/",
-      "time": "Il y a 58 min",
-      "pubDate": 1777476521.0
-    },
-    {
-      "id": "Libération-3379835035995287217",
-      "source": "Libération",
-      "title": "EN DIRECT - Guerre au Moyen-Orient : «Nous redistribuons nos profits» via le plafonnement des carburants, répond TotalEnergies à Lecornu",
-      "excerpt": "Alors que les résultats de la multinationale connaissent une envolée comparable à celle du prix du baril, l’exécutif français hausse le ton. Dans le même temps, Donald Trump continue de faire pression...",
-      "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-donald-trump-affirme-que-les-etats-unis-ont-vaincu-militairement-liran-20260429_CWCN4ZNNVNH3VOJ32OB5YNO4QU/",
-      "time": "Il y a 1h",
-      "pubDate": 1777476328.0
-    },
-    {
-      "id": "France Info--7623390946735831847",
-      "source": "France Info",
-      "title": "Une attaque \"terroriste\" au couteau fait deux blessés dans un quartier juif de Londres, un suspect arrêté",
-      "excerpt": "L'homme de 45 ans a des antécédents de \"violence\" et des \"problèmes psychologiques\", selon la police.",
-      "link": "https://www.franceinfo.fr/monde/royaume-uni/deux-personnes-blessees-lors-d-une-attaque-au-couteau-dans-un-quartier-juif-de-londres-le-premier-ministre-keir-starmer-juge-la-situation-profondement-preoccupante_7972043.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
-      "pubDate": 1777476277.0
-    },
-    {
-      "id": "Libération--786257317179370528",
-      "source": "Libération",
-      "title": "Pascal Canfin : «Les industriels de la cosmétique préfèrent changer les règles plutôt que changer leurs formules»",
-      "excerpt": "Un texte de la Commission européenne, sur lequel s’est prononcé le Parlement ce mercredi 29 avril, s’attaque à l’interdiction des substances dangereuses dans les produits de beauté. Si les eurodéputés...",
-      "link": "https://www.liberation.fr/environnement/pollution/pascal-canfin-les-industriels-de-la-cosmetique-preferent-changer-les-regles-plutot-que-changer-leurs-formules-20260415_WIM2QMOLHJGFLLFNK3SRYC7IH4/",
-      "time": "Il y a 1h",
-      "pubDate": 1777475552.0
-    },
-    {
-      "id": "Libération--6903005514117851056",
-      "source": "Libération",
-      "title": "«On ne s’interdit rien» : les bénéfices de TotalEnergies relancent la taxe sur les superprofits",
-      "excerpt": "Après l’annonce des très bons résultats de la firme française au premier semestre, la question d’une imposition supplémentaire fait son retour. Le gouvernement assure ne rien exclure et les socialiste...",
-      "link": "https://www.liberation.fr/politique/on-ne-sinterdit-rien-les-benefices-de-totalenergies-relancent-la-taxe-sur-les-superprofits-20260429_V5ERS6FCTJHSLETWMKBGMFTGCA/",
-      "time": "Il y a 1h",
-      "pubDate": 1777475417.0
-    },
-    {
-      "id": "France Info-5227586324759946091",
+      "id": "France Info--3421053645746139811",
       "source": "France Info",
       "title": "Crise chez Grasset : la ministre de la Culture estime \"légitime de s'interroger sur la rupture du lien entre les auteurs et leur maison d'édition\"",
       "excerpt": "Ces déclarations au Sénat surviennent dans un contexte où de nombreux auteurs réclament la mise en place d'une clause de conscience, comme il en existe pour les journalistes.",
       "link": "https://www.franceinfo.fr/culture/livres/crise-chez-grasset-la-ministre-de-la-culture-estime-legitime-de-s-interroger-sur-la-rupture-du-lien-entre-les-auteurs-et-leur-maison-d-edition_7972253.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1777475311.0
     },
     {
-      "id": "France Info-812600660324551647",
+      "id": "France Info--842415441975956392",
       "source": "France Info",
       "title": "Le Conseil d'Etat ordonne au ministère de l'Intérieur de garantir le port visible du numéro d'identification des forces de l'ordre",
       "excerpt": "Cette demande est motivée par la nécessité de pouvoir identifier les policiers et gendarmes qui se rendraient coupables de violences au cours de manifestations notamment.",
       "link": "https://www.franceinfo.fr/faits-divers/police/le-conseil-d-etat-ordonne-au-ministere-de-l-interieur-de-garantir-le-port-visible-du-numero-d-identification-des-forces-de-l-ordre_7972187.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1777475161.0
     },
     {
-      "id": "Le Monde-18588692549016398",
+      "id": "Le Monde-4439917299019441745",
       "source": "Le Monde",
-      "title": "PSG-Bayern : Khvicha Kvaratskhelia, l’homme du printemps parisien en Ligue des champions",
-      "excerpt": "L’attaquant géorgien a signé une superbe prestation, mardi soir, sur la pelouse du Parc des Princes, lors de la demi-finale aller remportée par le PSG face aux Bavarois (5-4). Depuis les huitièmes, il...",
-      "link": "https://www.lemonde.fr/sport/article/2026/04/29/psg-bayern-khvicha-kvaratskhelia-l-homme-du-printemps-parisien-en-ligue-des-champions_6684285_3242.html",
-      "time": "Il y a 1h",
-      "pubDate": 1777474813.0
+      "title": "Une balade à Milly-la-Forêt, du Cyclop au Conservatoire national des plantes",
+      "excerpt": "Réputée pour ses herbes médicinales et aromatiques, la petite cité de l’Essonne fut le refuge de grands artistes, dont le souvenir et les œuvres essaiment, du cœur médiéval de la ville aux bois qui l’...",
+      "link": "https://www.lemonde.fr/m-styles/article/2026/04/29/une-balade-a-milly-la-foret-du-cyclop-au-conservatoire-national-des-plantes_6684289_4497319.html",
+      "time": "Il y a 2h",
+      "pubDate": 1777474825.0
     },
     {
-      "id": "Le Monde-712372658893964222",
-      "source": "Le Monde",
-      "title": "Le groupe d’hôtellerie Accor met le cap sur le marché de la croisière de luxe",
-      "excerpt": "Dans le port de Saint-Nazaire, le groupe hôtelier a baptisé l’« Orient Express Corinthian », mercredi 29 avril. Cet hôtel flottant doit rivaliser avec ceux de Ritz-Carlton et de Four Seasons.",
-      "link": "https://www.lemonde.fr/economie/article/2026/04/29/le-groupe-d-hotellerie-accor-met-le-cap-sur-le-marche-de-la-croisiere-de-luxe_6684284_3234.html",
-      "time": "Il y a 1h",
-      "pubDate": 1777474801.0
-    },
-    {
-      "id": "Libération-4592228582597764876",
-      "source": "Libération",
-      "title": "Risques d’incendie ou d’étouffement, substances chimiques : la Répression des fraudes alerte sur les produits vendus sur internet",
-      "excerpt": "La DGCCRF publie ce mercredi 29 avril un bilan alarmant après une enquête menée sur 600 articles vendus par certaines des plateformes étrangères d’e-commerce les plus influences en France.",
-      "link": "https://www.liberation.fr/economie/conso/risques-dincendie-ou-detouffement-substances-chimiques-la-repression-des-fraudes-alerte-sur-les-produits-vendus-sur-internet-20260429_WSDRV4AANNBXRFWRIXLDASXQ5A/",
-      "time": "Il y a 1h",
-      "pubDate": 1777474598.0
-    },
-    {
-      "id": "Le Monde-7158385205699887075",
-      "source": "Le Monde",
-      "title": "Le Conseil d’Etat appelle le gouvernement à rendre effective l’identification des forces de l’ordre",
-      "excerpt": "Les associations réclament depuis plusieurs années que les forces de l’ordre arborent sur leur uniforme un numéro d’identification individuel suffisamment grand pour être lisible facilement.",
-      "link": "https://www.lemonde.fr/societe/article/2026/04/29/le-conseil-d-etat-appelle-le-gouvernement-a-rendre-effective-l-identification-des-forces-de-l-ordre_6684283_3224.html",
-      "time": "Il y a 1h",
-      "pubDate": 1777473700.0
-    },
-    {
-      "id": "France Info--2003065843869777465",
+      "id": "France Info-5803451440588283659",
       "source": "France Info",
       "title": "\"Ils font attention et prennent des petites quantités\" : face à la hausse des carburants, les Français changent leurs habitudes dans les stations-service",
       "excerpt": "Dans une station-service du centre de Marseille, les clients limitent leurs dépenses. Un changement d’habitude qui touche tout le pays et pèse déjà sur les professionnels du secteur.",
       "link": "https://www.franceinfo.fr/economie/automobile/essence/ils-font-attention-et-prennent-des-petites-quantites-face-a-la-hausse-des-carburants-les-francais-changent-leurs-habitudes-dans-les-stations-service_7972214.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 3h",
       "pubDate": 1777473690.0
     },
     {
-      "id": "Libération-748983090815611706",
-      "source": "Libération",
-      "title": "En Allemagne, une opération complètement barge pour sauver la baleine Timmy",
-      "excerpt": "Le feuilleton qui tient le pays en haleine depuis des semaines toucherait-il à sa fin ? Une énième opération pour sauver l’animal échoué sur la côte baltique a démarré mardi 28 avril. L’animal a été c...",
-      "link": "https://www.liberation.fr/environnement/animaux/en-allemagne-une-operation-completement-barge-pour-sauver-la-baleine-timmy-20260429_2VYDRPM5LJDDNAMSF7VLION4Y4/",
-      "time": "Il y a 2h",
-      "pubDate": 1777471477.0
-    },
-    {
-      "id": "Le Monde--1105991842212468851",
+      "id": "Le Monde-6250898101361162847",
       "source": "Le Monde",
       "title": "EN DIRECT, guerre en Ukraine : les Etats-Unis débloquent « jusqu’à 100 millions de dollars » pour la restauration du sarcophage de Tchernobyl",
       "excerpt": "Washington est prêt à mobiliser « jusqu’à 100 millions de dollars » (85,5 millions d’euros) pour réparer la structure qui protège le réacteur de Tchernobyl, en Ukraine, et appelle ses partenaires du G...",
       "link": "https://www.lemonde.fr/international/live/2026/04/29/en-direct-guerre-en-ukraine-une-cinquantaine-d-offensives-russes-depuis-le-debut-de-la-journee-selon-kiev_6683420_3210.html",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1777471164.0
-    },
-    {
-      "id": "France Info--951799580004428161",
-      "source": "France Info",
-      "title": "\"C'est beaucoup trop chaud, je suis épuisé\" : à New Delhi, la température atteint les 43°C en plein mois d'avril",
-      "excerpt": "En Inde, les habitants de la capitale, New Delhi, font face aux fortes chaleurs de ces derniers jours. La canicule doit durer encore plusieurs jours.",
-      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/reportage-c-est-beaucoup-trop-chaud-je-suis-epuise-a-new-delhi-la-temperature-atteint-les-43-c-en-plein-mois-d-avril_7971758.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 6h",
-      "pubDate": 1777457018.0
-    },
-    {
-      "id": "Le Monde--3534042830307735441",
-      "source": "Le Monde",
-      "title": "La toute-puissance de la Chine : des batteries au nucléaire, des médicaments innovants aux additifs alimentaires, des TGV à l’IA",
-      "excerpt": "« Comment la Chine dévore l’Europe » (2/4). Sur un nombre impressionnant de technologies et de secteurs, Pékin a rattrapé et dépassé l’Occident, en cherchant, chaque fois, à contrôler l’ensemble de la...",
-      "link": "https://www.lemonde.fr/economie/article/2026/04/29/la-toute-puissance-de-la-chine-des-batteries-au-nucleaire-des-medicaments-innovants-aux-additifs-alimentaires-des-tgv-a-l-ia_6684087_3234.html",
-      "time": "Il y a 12h",
-      "pubDate": 1777435227.0
     }
   ],
   "anglophone": [
     {
-      "id": "BBC News-927258137755961968",
+      "id": "BBC News--5627960404311822040",
       "source": "BBC News",
-      "title": "Oil price soars to $119 after reports of 'extended' Iran blockade",
+      "title": "Oil price soars above $118 after reports of 'extended' Iran blockade",
       "excerpt": "The price of crude oil has swung sharply as uncertainty over the war in the Middle East continues.",
       "link": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 10 min",
-      "pubDate": 1777479432.0
+      "time": "Il y a 6 min",
+      "pubDate": 1777484947.0
     },
     {
-      "id": "BBC News-8196282448682373395",
+      "id": "BBC News-2371186170858522734",
+      "source": "BBC News",
+      "title": "Comey surrenders over charge of threatening Trump's life in Instagram post",
+      "excerpt": "Prosecutors say a 2025 seashell photo posted by the former FBI director was a call for violence against Trump.",
+      "link": "https://www.bbc.com/news/articles/c70vzj1nrddo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 6 min",
+      "pubDate": 1777484945.0
+    },
+    {
+      "id": "NPR-8947900210008385418",
+      "source": "NPR",
+      "title": "In court, Elon Musk accuses OpenAI of trying to 'have your cake and eat it, too'",
+      "excerpt": "In his second day on the stand in the trial he launched against OpenAI, Elon Musk said the AI start-up he'd helped found had strayed from its charitable mission.",
+      "link": "https://www.npr.org/2026/04/29/nx-s1-5803833/elon-musk-testimony-openai-altman-day-2",
+      "time": "Il y a 25 min",
+      "pubDate": 1777483827.0
+    },
+    {
+      "id": "BBC News--2936889073566784765",
+      "source": "BBC News",
+      "title": "Stranded whale ferried out of German waters in barge",
+      "excerpt": "The final operation to save the whale is being closely followed, after the failure of earlier attempts.",
+      "link": "https://www.bbc.com/news/articles/clyp559l06no?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 49 min",
+      "pubDate": 1777482383.0
+    },
+    {
+      "id": "BBC News--3405686976726375372",
+      "source": "BBC News",
+      "title": "Madagascar detains French national over alleged plot to stir unrest",
+      "excerpt": "Malagasy prosecuters used a Whatsapp group as evidence for the detained individuals alleged crimes.",
+      "link": "https://www.bbc.com/news/articles/c7v96615e99o?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 52 min",
+      "pubDate": 1777482196.0
+    },
+    {
+      "id": "BBC News--2416317224023635634",
       "source": "BBC News",
       "title": "France urges citizens to leave Mali after rebel attacks",
       "excerpt": "The UK has issued similar advice, telling citizens who stay, that they do so at their own risk.",
       "link": "https://www.bbc.com/news/articles/cp3pdgvpn27o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 42 min",
-      "pubDate": 1777477496.0
+      "time": "Il y a 1h",
+      "pubDate": 1777481198.0
     },
     {
-      "id": "The Guardian-3449839946372846579",
+      "id": "NPR--5064961515487486830",
+      "source": "NPR",
+      "title": "How Trump's EPA head has transformed the agency — and sided with polluters",
+      "excerpt": "<em>New Yorker</em> writer Elizabeth Kolbert says EPA chief Lee Zeldin has rescinded regulations, cut or eliminated departments and terminated the jobs of many scientists. Trump calls Zeldin \"our secr...",
+      "link": "https://www.npr.org/2026/04/29/nx-s1-5803848/how-trumps-epa-head-has-transformed-the-agency-and-sided-with-polluters",
+      "time": "Il y a 1h",
+      "pubDate": 1777479738.0
+    },
+    {
+      "id": "BBC News-4402712339346015509",
+      "source": "BBC News",
+      "title": "New images show suspect taking selfies before Washington press dinner shooting",
+      "excerpt": "Prosecutors argue Cole Tomas Allen should remain in custody until trial on a charge of attempted assassination of President Donald Trump.",
+      "link": "https://www.bbc.com/news/articles/cm2p99n35z4o?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 1h",
+      "pubDate": 1777478760.0
+    },
+    {
+      "id": "The Guardian--1161312113537863711",
       "source": "The Guardian",
       "title": "Thousands of US hockey fans sing Canadian anthem amid tensions between neighbor countries",
-      "excerpt": "Fans in Buffalo, only a few miles from Ontario, filled the silence when a microphone cut out at the start of a match The Electric City. Nickle City. Queen City. City of No Illusions. Buffalo, New York...",
+      "excerpt": "Fans in Buffalo, only a few miles from Ontario, filled the silence when a microphone cut out at the start of a match The Electric City. Nickel City. Queen City. City of No Illusions. Buffalo, New York...",
       "link": "https://www.theguardian.com/world/2026/apr/29/us-ice-hockey-fans-canadian-anthem",
-      "time": "Il y a 46 min",
+      "time": "Il y a 2h",
       "pubDate": 1777477249.0
     },
     {
-      "id": "BBC News--7771330912192325938",
-      "source": "BBC News",
-      "title": "Israeli 'double-tap' strike kills three rescue workers in Lebanon, officials say",
-      "excerpt": "They are among nine people killed in successive attacks on Tuesday, which Israel's military says targeted a Hezbollah commander.",
-      "link": "https://www.bbc.com/news/articles/cvgz5rgv4n3o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 56 min",
-      "pubDate": 1777476650.0
-    },
-    {
-      "id": "NPR-470358659816570204",
+      "id": "NPR-4258852452226657780",
       "source": "NPR",
       "title": "'8647' got James Comey indicted. What exactly does it mean?",
       "excerpt": "A grand jury charged Comey with threatening Trump's life through his since-deleted 2025 post of seashells forming \"8647.\" Trump is the 47th president, and the term \"86\" has a few possible meanings.",
       "link": "https://www.npr.org/2026/04/29/nx-s1-5804483/8647-meaning-comey-indictment",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1777476174.0
     },
     {
-      "id": "BBC News--360353813889435298",
+      "id": "BBC News-8110478935024738792",
       "source": "BBC News",
       "title": "France investigates reappearance of website linked to Pelicot crimes",
       "excerpt": "Authorities say the Coco platform has been linked to sexual abuse of children, drug offences, rape and murder.",
       "link": "https://www.bbc.com/news/articles/c0m2ndp2042o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1777475455.0
     },
     {
-      "id": "BBC News-1858405987761697354",
+      "id": "BBC News-9057800255405827043",
       "source": "BBC News",
       "title": "US Supreme Court limits use of race in drawing electoral maps",
       "excerpt": "The decision will make it more difficult to successfully challenge legislative maps for diluting the voting power of racial minorities.",
       "link": "https://www.bbc.com/news/articles/clyw3p7xv4wo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1777475155.0
     },
     {
-      "id": "The Guardian-4722466073354824281",
+      "id": "The Guardian--3727655065331251426",
       "source": "The Guardian",
       "title": "US supreme court weighs whether protected status of Haitians and Syrians can be revoked",
       "excerpt": "Case looks at whether Trump administration has authority to strip hundreds of thousands of immigrants of TPS The<strong> </strong>US<strong> </strong>supreme court<strong> </strong>was hearing oral ar...",
       "link": "https://www.theguardian.com/us-news/2026/apr/29/us-supreme-court-haitians-syrians-tps",
-      "time": "Il y a 1h",
+      "time": "Il y a 3h",
       "pubDate": 1777474371.0
     },
     {
-      "id": "NPR--3851241209863908496",
+      "id": "NPR-131157781202234107",
       "source": "NPR",
-      "title": "UAE OPEC",
+      "title": "United Arab Emirates announces it's leaving OPEC",
       "excerpt": "The UAE says it will leave OPEC, amid tensions with Saudi Arabia and the chaos of the Iran war.",
       "link": "https://www.npr.org/2026/04/29/nx-s1-5802739/uae-opec",
-      "time": "Il y a 1h",
+      "time": "Il y a 3h",
       "pubDate": 1777473349.0
     },
     {
-      "id": "NPR--2742983940821860296",
+      "id": "NPR-5135573369838547778",
       "source": "NPR",
       "title": "Supreme Court calls Louisiana's House map an 'unconstitutional racial gerrymander'",
-      "excerpt": "Although the court kept Section 2 of the Voting Rights Act intact, Wednesday's decision all but guts the landmark law that came out of the Civil Rights Movement and protected the collective voting pow...",
+      "excerpt": "The court kept Section 2 of the Voting Rights Act intact, but the decision all but guts a landmark law that came out of the Civil Rights Movement and protected the collective voting power of racial mi...",
       "link": "https://www.npr.org/2026/04/29/nx-s1-5754657/supreme-court-louisiana-redistricting",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1777472661.0
     },
     {
-      "id": "NPR-1869926975104857639",
+      "id": "NPR-836876488330513147",
       "source": "NPR",
       "title": "As Supreme Court weighs Trump's immigration policy, senior citizens join the fight",
       "excerpt": "As the Supreme Court weighs the Trump administration's termination of Temporary Protected Status for Haitians and Syrians, seniors are advocating for protections for their immigrant caregivers.",
       "link": "https://www.npr.org/2026/04/29/nx-s1-5804448/tps-seniors-long-term-care-supreme-court",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1777472618.0
     },
     {
-      "id": "NPR--5263779229603252285",
+      "id": "NPR--7004339618974981053",
       "source": "NPR",
       "title": "Greetings from Syria, where a postwar olive harvest offers a long-lost taste of home",
       "excerpt": "In the warm sun, gathering handfuls of hard olives promised a taste of home that residents of a village in the Homs countryside had been missing for nearly 14 years of civil war.",
       "link": "https://www.npr.org/2026/04/29/g-s1-118663/syria-olive-harvest-homs",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1777472201.0
     },
     {
-      "id": "The Guardian--5679544592749438849",
+      "id": "The Guardian-4037186517319018275",
       "source": "The Guardian",
       "title": "South Africa deports Mugabe’s son for unrelated offences after employee shot at family home",
       "excerpt": "Bellarmine Chatunga Mugabe also fined after pleading guilty to immigration and firearms-related offences Two months after an employee was shot in the back at the Mugabe family home in a wealthy suburb...",
       "link": "https://www.theguardian.com/world/2026/apr/29/south-africa-deports-mugabes-son-after-separate-offences-three-months-after-shooting-at-family-home",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1777471945.0
     },
     {
-      "id": "NPR-4444255752919120456",
+      "id": "NPR--5906617867860382918",
       "source": "NPR",
       "title": "The Trump team is quietly eliminating U.S. support for birth control abroad",
       "excerpt": "Congress has allocated more than $500 million for family planning work internationally. The Trump administration hasn't spent it — and the consequences are already being felt.",
       "link": "https://www.npr.org/2026/04/29/g-s1-118041/family-planning-birth-control-condoms-aid-cuts-rubio",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1777471790.0
     },
     {
-      "id": "NPR--6753591779629707023",
+      "id": "NPR-5387936105399843224",
       "source": "NPR",
       "title": "Welcome to 'Anxietyland' theme park, where the rides are no fun",
       "excerpt": "From the Emotional Roller Coaster to the Worry-go-round, cartoonist Gemma Correll walks us through her brain's not-so-amusing amusement park in a darkly funny memoir<em>.</em>",
       "link": "https://www.npr.org/2026/04/29/nx-s1-5803158/anxietyland-review-gemma-correll",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1777471391.0
     },
     {
-      "id": "BBC News--2590677298800154481",
+      "id": "BBC News--1403242154646410378",
       "source": "BBC News",
       "title": "Seven lawsuits filed against OpenAI by families of Canada mass-shooting victims",
       "excerpt": "The lawsuits, filed in California, accuse OpenAI and Sam Altman of negligence and abetting a mass shooting by failing to flag the suspect's ChatGPT activity.",
       "link": "https://www.bbc.com/news/articles/c99l03k0ly4o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
+      "time": "Il y a 4h",
       "pubDate": 1777470637.0
     },
     {
-      "id": "The Guardian--4977219263021032914",
+      "id": "The Guardian-7698669834609068266",
       "source": "The Guardian",
       "title": "‘It will never cover what’s authentic’: African music industry weighs up AI risks and rewards",
       "excerpt": "Delegates at event in Cape Verde highlight opportunities from tech while stressing AI is no replacement for talent Last July, the Nigerian singer-songwriter Fave found herself caught up in a viral mom...",
       "link": "https://www.theguardian.com/world/2026/apr/29/africa-music-industry-ai-artificial-intelligence",
-      "time": "Il y a 2h",
+      "time": "Il y a 4h",
       "pubDate": 1777470595.0
     },
     {
-      "id": "BBC News-5200026919019874186",
-      "source": "BBC News",
-      "title": "Global forest loss slows but El Niño fires could threaten progress",
-      "excerpt": "The loss of tropical rainforests eased last year, according to new analysis, but scientists warn they are still disappearing rapidly.",
-      "link": "https://www.bbc.com/news/articles/c78q5pygn66o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 3h",
-      "pubDate": 1777469168.0
-    },
-    {
-      "id": "NPR-2559232562297838125",
+      "id": "NPR--5523586457305165329",
       "source": "NPR",
       "title": "Families sue OpenAI over Canadian mass shooter's use of ChatGPT",
       "excerpt": "The lawsuits claim OpenAI was negligent for failing to report the shooter to authorities after her account was flagged for \"gun violence activity and planning.\"",
       "link": "https://www.npr.org/2026/04/29/nx-s1-5798896/tumbler-ridge-mass-shooting-chat-gpt-lawsuit",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1777468174.0
     },
     {
-      "id": "The Guardian--413699731574699947",
+      "id": "The Guardian--1323987821820639418",
       "source": "The Guardian",
       "title": "‘Total peace’ or ‘all-out war’? Colombian voters face stark choice as rebel attacks surge",
       "excerpt": "As the country prepares to elect a new president, a fierce debate is raging on how to end the decades-long armed conflict for good   The landmark <a href=\"https://www.theguardian.com/world/2016/nov/24...",
       "link": "https://www.theguardian.com/world/2026/apr/29/colombia-election-total-peace-promise-violence",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1777467786.0
     },
     {
-      "id": "BBC News-8940376050284784438",
+      "id": "BBC News--4681432151864391649",
       "source": "BBC News",
       "title": "Russia scales back Moscow Victory Day parade, blaming threat from Ukraine",
       "excerpt": "Russia says the annual commemoration of Soviet victory in World War Two will not feature military vehicles or cadets.",
       "link": "https://www.bbc.com/news/articles/c794wp4yy93o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1777467717.0
     },
     {
-      "id": "The Guardian-8522658741547748806",
+      "id": "The Guardian-266169992341505605",
       "source": "The Guardian",
       "title": "Families sue OpenAI over failure to report Canada mass shooter’s behavior on ChatGPT",
       "excerpt": "New lawsuits allege employees urged company to notify authorities months before deadly Tumbler Ridge attack Families of seven victims of a mass shooting at a secondary school in British Columbia are s...",
       "link": "https://www.theguardian.com/technology/2026/apr/29/openai-tumbler-ridge-shooter-chatgpt-lawsuit",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1777467649.0
     },
     {
-      "id": "NPR-3890798968992826439",
-      "source": "NPR",
-      "title": "Baby teeth hold clues to the harms of toxic metals for infants — and older kids",
-      "excerpt": "By analyzing layers in these teeth, scientists have pinpointed a critical window when baby brains are most vulnerable to toxic metals — and linked that to behavior problems later in life.",
-      "link": "https://www.npr.org/2026/04/29/nx-s1-5803561/baby-teeth-toxic-metals-brain-infants-kids",
-      "time": "Il y a 3h",
-      "pubDate": 1777467600.0
-    },
-    {
-      "id": "NPR--8226844293431296705",
-      "source": "NPR",
-      "title": "SCOTUS weighs Temporary Protected Status cases. And, jury indicts James Comey again",
-      "excerpt": "The Supreme Court is set to hear arguments on whether to end Temporary Protected Status for Haitians and Syrians. And, a grand jury has indicted former FBI Director James Comey for a second time.",
-      "link": "https://www.npr.org/2026/04/29/g-s1-119171/up-first-newsletter-james-comey-king-charles-scotus-temporary-protected-status-jerome-powell-federal-reserve",
-      "time": "Il y a 5h",
-      "pubDate": 1777461986.0
-    },
-    {
-      "id": "BBC News--8078110294279907885",
-      "source": "BBC News",
-      "title": "Russian paramilitaries carried out air strikes in Mali as rebels advanced, footage shows",
-      "excerpt": "Last weekend's attacks came as the Africa Corps withdrew from a key base in northern Mali.",
-      "link": "https://www.bbc.com/news/articles/cvgz409r5l3o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 5h",
-      "pubDate": 1777461887.0
-    },
-    {
-      "id": "The Guardian-3681874921131395031",
+      "id": "The Guardian-3798159769401891057",
       "source": "The Guardian",
       "title": "Calls for humanitarian corridor through strait of Hormuz as Iran war hits vital aid",
       "excerpt": "Soaring oil prices and the blockade are preventing food, fuel and medicine being delivered to millions of people in desperate need, say NGOs The volatility of global oil prices caused by the US and Is...",
       "link": "https://www.theguardian.com/global-development/2026/apr/29/humanitarian-corridor-strait-of-hormuz-iran-war-hits-vital-aid",
-      "time": "Il y a 9h",
+      "time": "Il y a 10h",
       "pubDate": 1777446048.0
     },
     {
-      "id": "The Guardian-2958448894974255152",
+      "id": "The Guardian-3092859495414263816",
       "source": "The Guardian",
       "title": "Indian billionaire’s son offers to house Pablo Escobar’s hippos at his private zoo",
       "excerpt": "Anant Ambani revives offer to transport 80 animals, all descendants of Colombian drug kingpin’s pets, to India It remains one of the strangest conundrums in modern zoological history – what to do with...",
       "link": "https://www.theguardian.com/world/2026/apr/29/indian-billionaire-son-anant-ambani-offers-house-pablo-escobar-hippos",
-      "time": "Il y a 9h",
+      "time": "Il y a 10h",
       "pubDate": 1777446048.0
     },
     {
-      "id": "BBC News--1932170461798484446",
-      "source": "BBC News",
-      "title": "Former US officials criticise Pentagon silence on deadly Iran school attack",
-      "excerpt": "In the two months since the deadly strike, the US defence department has said only that the incident is under investigation.",
-      "link": "https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 14h",
-      "pubDate": 1777428110.0
-    },
-    {
-      "id": "The Guardian-9170378763498902102",
+      "id": "The Guardian-4778643703503970164",
       "source": "The Guardian",
       "title": "Russia claims its Africa Corps group prevented coup in Mali after rebels seize towns",
       "excerpt": "Kremlin-controlled paramilitaries also alleged it inflicted ‘irreplaceable losses’ on insurgents avoiding civilian casualties Russia’s defence ministry has claimed its Africa Corps – the successor to...",
       "link": "https://www.theguardian.com/world/2026/apr/28/russia-claims-its-africa-corps-group-prevented-coup-in-mali-after-rebels-seize-towns",
-      "time": "Il y a 23h",
+      "time": "Il y a 1j",
       "pubDate": 1777396047.0
     },
     {
-      "id": "The Guardian--1894377853565862446",
+      "id": "The Guardian-846108022200050291",
       "source": "The Guardian",
       "title": "Fears of resurgence in Somali piracy after three vessels hijacked in a week",
       "excerpt": "Pirates appear to be taking advantage of international naval strength being diverted to Middle East Three vessels have been hijacked off the coast of Somalia in the past week, raising fears of a resur...",
@@ -543,5 +540,5 @@
       "pubDate": 1777393200.0
     }
   ],
-  "lastUpdate": "2026-04-29T16:27:21.134116"
+  "lastUpdate": "2026-04-29T17:55:27.695746"
 }
