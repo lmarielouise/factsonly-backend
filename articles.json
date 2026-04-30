@@ -1,321 +1,285 @@
 {
   "francophone": [
     {
-      "id": "France Info-70914564458758864",
-      "source": "France Info",
-      "title": "Guerre au Moyen-Orient : le président libanais condamne les \"violations persistantes\" de la trêve par Israël",
-      "excerpt": "\"Il faut faire pression sur Israël pour qu'il respecte les lois et les accords internationaux et cesse de viser les civils et les secouristes\", a ajouté Joseph Aoun.",
-      "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-le-baril-de-brent-s-installe-au-dela-de-120-euros-apres-que-donald-trump-a-evoque-un-blocus-de-plusieurs-mois_7973756.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 5 min",
-      "pubDate": 1777547201.0
+      "id": "Libération-1173817411057996136",
+      "source": "Libération",
+      "title": "EN DIRECT - Guerre au Moyen-Orient : les Etats-Unis ont subi une «défaite honteuse», affirme le Guide suprême",
+      "excerpt": "Depuis que Donald Trump a annoncé que le blocus des ports iraniens «pourrait durer des mois», le prix du pétrole s’est envolé, avant de retomber en milieu de journée. Les négociations entre les Etats-...",
+      "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-les-prix-du-petrole-senvolent-le-baril-de-brent-a-pres-de-125-dollars-20260430_ANE3ORO27VFG3IFUXULYREE2YI/",
+      "time": "Il y a 16 min",
+      "pubDate": 1777552572.0
     },
     {
-      "id": "Libération--8749268543570174313",
+      "id": "Le Monde-2192833301894722329",
+      "source": "Le Monde",
+      "title": "« Laissez-nous entrer à Gaza » : l’appel de la presse internationale à Israël",
+      "excerpt": "Dans une lettre ouverte aux autorités israéliennes cosignée par une trentaine de responsables de médias, dont « Le Monde », l’Association de la presse internationale demande la réouverture aux journal...",
+      "link": "https://www.lemonde.fr/idees/article/2026/04/30/laissez-nous-entrer-a-gaza-l-appel-de-la-presse-internationale-a-israel_6684594_3232.html",
+      "time": "Il y a 23 min",
+      "pubDate": 1777552131.0
+    },
+    {
+      "id": "Le Monde--8969112538406454448",
+      "source": "Le Monde",
+      "title": "Mali : la Russie, soutien de la junte militaire, rejette l’appel des rebelles à retirer leurs forces du pays",
+      "excerpt": "Les paramilitaires russes sont un soutien essentiel de la junte militaire, au pouvoir depuis 2020, qui fait face actuellement à l’offensive des rebelles touareg du Front de libération de l’Azawad (FLA...",
+      "link": "https://www.lemonde.fr/afrique/article/2026/04/30/mali-la-russie-soutien-de-la-junte-militaire-rejette-l-appel-des-rebelles-a-retirer-leurs-forces-du-pays_6684593_3212.html",
+      "time": "Il y a 25 min",
+      "pubDate": 1777552060.0
+    },
+    {
+      "id": "Libération--6358398668982368599",
+      "source": "Libération",
+      "title": "Dans l’Ain, une femme meurt après avoir accouché chez elle",
+      "excerpt": "Selon la presse locale, la jeune mère, de 32 ans, n’a pas survécu à la naissance de son bébé, dimanche 26 avril. Le nouveau né est sain et sauf.",
+      "link": "https://www.liberation.fr/societe/sante/dans-lain-une-femme-meurt-apres-avoir-accouche-chez-elle-20260430_57TCJ6TKIVEQ5JCSTPOIGCIVNE/",
+      "time": "Il y a 33 min",
+      "pubDate": 1777551528.0
+    },
+    {
+      "id": "France Info--4478186475680594160",
+      "source": "France Info",
+      "title": "Guerre au Moyen-Orient : le guide suprême iranien estime que les Etats-Unis ont subi une \"défaite humiliante\"",
+      "excerpt": "L'ayatollah Mojtaba Khamenei, qui n'a pas été vu en public depuis le début de la guerre en Iran, s'exprimait à l'occasion de la journée nationale du golfe Persique.",
+      "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-le-baril-de-brent-s-installe-au-dela-de-120-euros-apres-que-donald-trump-a-evoque-un-blocus-de-plusieurs-mois_7973756.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1777549775.0
+    },
+    {
+      "id": "Le Monde-4141562790311632005",
+      "source": "Le Monde",
+      "title": "Piratage de l’ANTS : un mineur de 15 ans interpellé",
+      "excerpt": "Les enquêteurs soupçonnent l’adolescent d’être la personne derrière le pseudonyme « breach3d », qui avait initialement revendiqué cette attaque. Selon des informations du « Monde », le mineur se rêvai...",
+      "link": "https://www.lemonde.fr/pixels/article/2026/04/30/piratage-de-l-ants-un-mineur-de-15-ans-interpelle_6684591_4408996.html",
+      "time": "Il y a 1h",
+      "pubDate": 1777549732.0
+    },
+    {
+      "id": "France Info--5862291978603654765",
+      "source": "France Info",
+      "title": "La croissance française est nulle au premier trimestre 2026",
+      "excerpt": "Ce résultat s'explique par une demande intérieure \"atone\" et une contribution du commerce extérieur \"fortement négative\", selon l'Insee.",
+      "link": "https://www.franceinfo.fr/economie/croissance/la-croissance-francaise-est-nulle-au-premier-trimestre-2026_7974296.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1777549362.0
+    },
+    {
+      "id": "France Info-4645651958982463165",
+      "source": "France Info",
+      "title": "\"De la dispersion naîtra la défaite\" : à gauche, certains tirent la sonnette d'alarme pour sauver la primaire de la gauche",
+      "excerpt": "De plus en plus critiquée, cette primaire pour désigner un candidat pour l'élection présidentielle de 2027 se joue également en coulisses.",
+      "link": "https://www.franceinfo.fr/politique/ps/primaire-a-gauche/de-la-dispersion-naitra-la-defaite-a-gauche-certains-tirent-la-sonnette-d-alarme-pour-sauver-la-primaire-de-la-gauche_7974281.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1777547857.0
+    },
+    {
+      "id": "Le Monde-1376792839657901478",
+      "source": "Le Monde",
+      "title": "EN DIRECT, guerre au Moyen-Orient : le Guide suprême, Mojtaba Khamenei, assure que l’Iran « protégera » ses « capacités nucléaires et balistiques »",
+      "excerpt": "Donald Trump a pour sa part partagé sur son réseau, Truth Social, une illustration représentant une carte du détroit d’Ormuz renommé « détroit de Trump ».",
+      "link": "https://www.lemonde.fr/international/live/2026/04/30/en-direct-guerre-au-moyen-orient-le-guide-supreme-mojtaba-khamenei-assure-que-l-iran-protegera-ses-capacites-nucleaires-et-balistiques_6684072_3210.html",
+      "time": "Il y a 1h",
+      "pubDate": 1777547434.0
+    },
+    {
+      "id": "Libération-2371039193635736156",
       "source": "Libération",
       "title": "Fuite de données à l’agence des titres d’identité : un hacker de 15 ans interpellé",
       "excerpt": "Le mineur arrêté est soupçonné d’être le hacker «breach3d», qui a fait fuiter 12 à 18 millions de lignes de données personnelles de l’ANTS plus tôt ce mois-ci, annonce la procureur de Paris ce jeudi 3...",
       "link": "https://www.liberation.fr/societe/police-justice/fuite-de-donnees-a-lagence-des-titres-didentite-un-hacker-de-15-ans-interpelle-20260430_JBJJVG2KWNDOTFRQLMTVIXA5OI/",
-      "time": "Il y a 9 min",
+      "time": "Il y a 1h",
       "pubDate": 1777546973.0
     },
     {
-      "id": "France Info--1069031330896857122",
+      "id": "France Info-8438629722841109389",
       "source": "France Info",
       "title": "Kim Jong-un confirme l'ordre donné aux soldats nord-coréens en Ukraine de se suicider plutôt que d'être capturés",
       "excerpt": "Sur les plus de 10 000 Nord-Coréens combattant avec la Russie, seuls deux ont été capturés vivants par l'Ukraine. Kim Jong-un a rendu hommage, lundi, à ceux qui \"se sacrifient\" pour éviter le même sor...",
       "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-kim-jong-un-confirme-l-ordre-donne-aux-soldats-nord-coreens-de-se-suicider-plutot-que-d-etre-captures_7974083.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 11 min",
+      "time": "Il y a 1h",
       "pubDate": 1777546847.0
     },
     {
-      "id": "Le Monde--1082335149399731636",
-      "source": "Le Monde",
-      "title": "EN DIRECT, guerre en Ukraine : les attaques russes de la nuit dernière ont fait au moins un mort et une trentaine de blessés",
-      "excerpt": "Sous la pression de Kiev, Israël a renvoyé le « Panormitis », un cargo transportant du grain exporté illégalement des territoires occupés par la Russie.",
-      "link": "https://www.lemonde.fr/international/live/2026/04/30/en-direct-guerre-en-ukraine-les-attaques-russes-de-la-nuit-derniere-ont-fait-au-moins-un-mort-et-une-trentaine-de-blesses_6683420_3210.html",
-      "time": "Il y a 11 min",
-      "pubDate": 1777546839.0
-    },
-    {
-      "id": "France Info-9010145193752752916",
+      "id": "France Info-6766208495887261143",
       "source": "France Info",
       "title": "La Russie refuse de retirer ses forces du Mali, rejetant la demande des rebelles touareg",
       "excerpt": "Moscou \"continuera d'apporter son aide aux autorités en exercice\", a affirmé jeudi le porte-parole du Kremlin. Depuis l'arrivée de la junte au pouvoir, la Russie a remplacé la France comme principal p...",
       "link": "https://www.franceinfo.fr/monde/afrique/mali/crise-au-mali-la-russie-refuse-de-retirer-ses-forces-du-pays-rejetant-la-demande-des-rebelles-touareg_7974245.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 11 min",
+      "time": "Il y a 1h",
       "pubDate": 1777546817.0
     },
     {
-      "id": "Libération--8451514804548356191",
+      "id": "Libération-3334969557284057836",
       "source": "Libération",
       "title": "Sites néonazis : le député macroniste Eric Bothorel veut en faire interdire cinq",
       "excerpt": "Des PDF néonazis en libre accès, une galaxie de sites qui prospère dans les angles morts du web… Depuis 2017, les Sleeping Giants traquent les financements de cette nébuleuse haineuse. Après une premi...",
       "link": "https://www.liberation.fr/politique/sites-neonazis-le-depute-macroniste-eric-bothorel-veut-en-faire-interdire-cinq-20260430_KTETXLQ4PVGHPLMDUK3SH3PHO4/",
-      "time": "Il y a 12 min",
+      "time": "Il y a 1h",
       "pubDate": 1777546784.0
     },
     {
-      "id": "France Info-4888132776493586476",
+      "id": "France Info--8382627189172304212",
       "source": "France Info",
       "title": "Un bus chute d'un pont dans la Seine en Essonne, quatre personnes secourues",
       "excerpt": "L'accident a eu lieu vers 9h30 jeudi matin entre Juvisy-sur-Orge et Draveil. Les quatre personnes à bord ont été secourues. \"Aucun blessé grave n’est à déplorer\", selon la mairie de Juvisy.",
       "link": "https://www.franceinfo.fr/faits-divers/un-bus-chute-d-un-pont-dans-la-seine-en-essonne-entre-juvisy-sur-orge-et-draveil_7974071.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 12 min",
+      "time": "Il y a 1h",
       "pubDate": 1777546781.0
     },
     {
-      "id": "France Info-4753885722036081863",
+      "id": "France Info--746356686964866303",
+      "source": "France Info",
+      "title": "Prix des carburants : le ministre de l'Economie recevra les distributeurs lundi matin",
+      "excerpt": "Le ministère aussi confirmé une réunion mercredi prochain entre les compagnies aériennes et le gouvernement, alors que plusieurs vols ont été annulés en raison de la hausse du prix du pétrole.",
+      "link": "https://www.franceinfo.fr/economie/automobile/essence/direct-prix-des-carburants-le-ministre-de-l-economie-recevra-les-distributeurs-de-carburants-lundi-matin_7974251.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1777546713.0
+    },
+    {
+      "id": "France Info-6949274955005178954",
       "source": "France Info",
       "title": "Un mineur de 15 ans placé en garde à vue, soupçonné d'avoir participé à la fuite de données de l'ANTS",
       "excerpt": "Entre 12 et 18 millions de lignes de données avaient été proposées mi-avril à la vente sur des forums cybercriminels.",
       "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/un-mineur-de-15-ans-place-en-garde-a-vue-soupconne-d-avoir-participe-a-la-fuite-de-donnees-de-l-ants_7974215.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 34 min",
+      "time": "Il y a 2h",
       "pubDate": 1777545488.0
     },
     {
-      "id": "Libération-7097476800270403277",
+      "id": "Libération--5022905775929737545",
       "source": "Libération",
       "title": "J’ai testé pour vous Live Cinema, la «story room» qui veut réinventer les escape games",
       "excerpt": "Pour renouveler un concept qui stagne, l’entreprise Lock Academy a lancé une nouvelle salle géante et immersive, qui fait le plein à Paris. On est allé voir.",
       "link": "https://www.liberation.fr/lifestyle/voyages/jai-teste-pour-vous-live-cinema-la-story-room-qui-veut-reinventer-les-escape-games-20260430_BGT3AQ3FAZEBPAIDEU6YMTDMQQ/",
-      "time": "Il y a 35 min",
+      "time": "Il y a 2h",
       "pubDate": 1777545420.0
     },
     {
-      "id": "Libération-4664707980257015067",
-      "source": "Libération",
-      "title": "EN DIRECT - Guerre au Moyen-Orient : c’est «la plus grave crise énergétique de l’histoire», selon le patron de l’Agence internationale de l’énergie",
-      "excerpt": "Depuis que Donald Trump a annoncé que le blocus des ports iraniens «pourrait durer des mois», le prix du pétrole s’envole. Les négociations entre les Etats-Unis et l’Iran piétinent depuis deux jours.",
-      "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-les-prix-du-petrole-senvolent-le-baril-de-brent-a-pres-de-125-dollars-20260430_ANE3ORO27VFG3IFUXULYREE2YI/",
-      "time": "Il y a 38 min",
-      "pubDate": 1777545235.0
-    },
-    {
-      "id": "France Info-5849847397448713243",
-      "source": "France Info",
-      "title": "Liberté de la presse aux Etats-Unis : RSF dénonce \"l’ampleur du dispositif mis en place par Donald Trump pour essayer de contrôler l’information\"",
-      "excerpt": "La liberté de la presse a atteint son niveau le plus bas depuis un quart de siècle, alerte jeudi Reporters sans frontières, pointant une dégradation générale, des États-Unis où les attaques de Donald...",
-      "link": "https://www.franceinfo.fr/economie/medias/liberte-de-la-presse-aux-etats-unis-rsf-denonce-l-ampleur-du-dispositif-mis-en-place-par-donald-trump-pour-essayer-de-controler-l-information_7974233.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 39 min",
-      "pubDate": 1777545168.0
-    },
-    {
-      "id": "Libération-3597351316789636702",
+      "id": "Libération-7977836954274002426",
       "source": "Libération",
       "title": "Essonne : un bus Keolis tombe dans la Seine avec plusieurs personnes à bord",
       "excerpt": "L’accident se serait produit ce jeudi 30 avril aux alentours de 10 heures sur la commune de Juvisy-sur-Orge, sans faire de victime. Une enquête pour blessures involontaires par conducteur d’un véhicul...",
       "link": "https://www.liberation.fr/economie/transports/essonne-un-bus-keolis-tombe-dans-la-seine-avec-des-personnes-a-bord-20260430_2ZRCXIK5ERHWJDB322CVNZUUBQ/",
-      "time": "Il y a 39 min",
+      "time": "Il y a 2h",
       "pubDate": 1777545133.0
     },
     {
-      "id": "France Info--6170124713429376121",
-      "source": "France Info",
-      "title": "La \"flottille pour Gaza\" interceptée par Israël loin de ses côtes, environ 200 militants arrêtés",
-      "excerpt": "L'armée israélienne dénombre environ 175 arrestations, les organisateurs de la flottille en recensent 211. Onze Français figurent parmi les personnes interpellées, a annoncé Global Sumud France, jeudi...",
-      "link": "https://www.franceinfo.fr/monde/palestine/gaza/la-flottille-pour-gaza-interceptee-par-israel-loin-de-ses-cotes-175-militants-arretes_7974167.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 40 min",
-      "pubDate": 1777545079.0
-    },
-    {
-      "id": "Libération--1643806362673599786",
+      "id": "Libération--4302927695092932471",
       "source": "Libération",
       "title": "Contraception : la vente du dispositif de stérilisation féminine FemBloc suspendue en France",
       "excerpt": "La commercialisation du dispositif médical de contraception féminine permanente a été interrompue par l’Agence nationale de sécurité du médicament qui juge les données cliniques fournies par l’entrepr...",
       "link": "https://www.liberation.fr/societe/sante/contraception-la-vente-du-dispositif-de-sterilisation-feminine-fembloc-suspendue-en-france-20260430_O7JUF43VTVFRNNFASBODOS7BYA/",
-      "time": "Il y a 43 min",
+      "time": "Il y a 2h",
       "pubDate": 1777544943.0
     },
     {
-      "id": "Le Monde-2509042209813640839",
+      "id": "Le Monde-8364454293487289065",
       "source": "Le Monde",
-      "title": "Avec « Orion », l’armée française achève un exercice d’une ampleur jamais vue depuis la guerre froide",
-      "excerpt": "Emmanuel Macron doit se rendre à Suippes (Marne) et Mailly-le-Camp (Aube), jeudi 30 avril, pour clôturer cet entraînement auquel ont participé plus de 10 000 soldats français et 20 pays alliés depuis...",
+      "title": "Avec Orion, l’armée française achève un exercice d’une ampleur jamais vue depuis la guerre froide",
+      "excerpt": "Emmanuel Macron doit se rendre à Suippes (Marne) et Mailly-le-Camp (Aube), jeudi 30 avril, pour clôturer cet entraînement auquel ont participé plus de 10 000 soldats français et 20 pays alliés depuis...",
       "link": "https://www.lemonde.fr/international/article/2026/04/30/avec-orion-dans-les-plaines-de-champagne-l-armee-francaise-acheve-un-exercice-d-une-ampleur-jamais-vue-depuis-la-guerre-froide_6684580_3210.html",
-      "time": "Il y a 47 min",
+      "time": "Il y a 2h",
       "pubDate": 1777544670.0
     },
     {
-      "id": "Libération--15374635466718483",
+      "id": "Libération--7255555401269158143",
       "source": "Libération",
       "title": "La «flottille pour Gaza» interceptée par Israël loin de ses côtes, plus de 200 militants arrêtés dont onze Français et une élue de Paris",
       "excerpt": "La conseillère communiste de Paris Raphaëlle Primet fait partie des personnes arrêtées. Fabien Roussel a demandé au ministre des Affaires étrangères «d’intervenir immédiatement pour leur libération».",
       "link": "https://www.liberation.fr/international/moyen-orient/la-flottille-pour-gaza-interceptee-par-israel-loin-de-ses-cotes-175-militants-arretes-dont-une-deputee-francaise-20260430_VKLVJV6M5FAYVL456UXZFH5USI/",
-      "time": "Il y a 49 min",
+      "time": "Il y a 2h",
       "pubDate": 1777544561.0
     },
     {
-      "id": "Libération--7786598165172796042",
+      "id": "Libération--6637384223652013931",
       "source": "Libération",
       "title": "A la conférence de Santa Marta, les Etats annoncent une «nouvelle force collective» pour sortir du pétrole, du charbon et du gaz",
       "excerpt": "La réunion qui se tenait en Colombie jusqu’au mercredi 29 avril a permis de définir un nouvel espace de coopération internationale réunissant une cinquantaine de pays pionniers.",
       "link": "https://www.liberation.fr/environnement/climat/a-la-conference-de-santa-marta-les-etats-annoncent-une-nouvelle-force-collective-pour-sortir-du-petrole-du-charbon-et-du-gaz-20260430_KQ5VX7VXENAWLH6WX3I6LGDDRU/",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1777543855.0
     },
     {
-      "id": "Le Monde--66988259581380350",
-      "source": "Le Monde",
-      "title": "L’administration Trump vise de nouveau à réduire drastiquement le budget de la NASA",
-      "excerpt": "Comme en 2025, la Maison Blanche a demandé au Congrès une baisse de 23 % du financement de l’agence spatiale américaine. Ce à quoi les parlementaires s’opposent.",
-      "link": "https://www.lemonde.fr/sciences/article/2026/04/30/l-administration-trump-vise-de-nouveau-a-reduire-drastiquement-le-budget-de-la-nasa_6684577_1650684.html",
-      "time": "Il y a 1h",
-      "pubDate": 1777543837.0
-    },
-    {
-      "id": "France Info--1054402387844347184",
+      "id": "France Info--4980914237444264908",
       "source": "France Info",
       "title": "1er-Mai : les autorités s'attendent à 150 000 manifestants sur 340 rassemblements",
       "excerpt": "Une attention particulière sera portée sur la ville de Mâcon pour la fête de la nation du Rassemblement national. Les villes de Rennes, Nantes, Brest, Toulouse, Grenoble, Strasbourg et Lyon sont égale...",
       "link": "https://www.franceinfo.fr/decouverte/1er-mai/1er-mai-les-autorites-s-attendent-a-150-000-manifestants-sur-340-rassemblements_7974197.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1777543572.0
     },
     {
-      "id": "Libération-897720268728882235",
+      "id": "Libération--7342999206920435697",
       "source": "Libération",
       "title": "Dans l’Oise, le pronostic vital de l’enfant de 10 ans mordu par des chiens n’est plus engagé",
       "excerpt": "Les deux chiens, de race «cane corso» appartiennent aux voisins du garçon, qui jouait dans les bois avec trois copains. Transporté à l’hôpital en urgence absolue, il présentait cinq traces de morsures...",
       "link": "https://www.liberation.fr/societe/dans-loise-un-enfant-de-10-ans-entre-la-vie-et-la-mort-apres-avoir-ete-mordu-par-des-chiens-20260429_YNQNDGLVRBCO3DYDIXQGITX3XQ/",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1777543539.0
     },
     {
-      "id": "Libération-2535965508577952988",
-      "source": "Libération",
-      "title": "Crise à l’Ecole alsacienne : le directeur limogé finalement réintégré, son successeur désigné épinglé en Australie",
-      "excerpt": "Alors qu’une décision de justice vient de rétablir l’ex-directeur, Pierre de Panafieu, limogé par le conseil d’administration en février, un rapport accablant des autorités éducatives australiennes qu...",
-      "link": "https://www.liberation.fr/societe/education/crise-a-lecole-alsacienne-le-directeur-limoge-finalement-reintegre-son-successeur-designe-epingle-en-australie-20260430_VOOK6JY6SNGM7KGEBWOIAQ5ODE/",
-      "time": "Il y a 1h",
-      "pubDate": 1777543539.0
-    },
-    {
-      "id": "France Info--7415325602237400849",
+      "id": "France Info--2291917745756171701",
       "source": "France Info",
       "title": "Des \"profits de guerre\" jugés \"indécents\" : la hausse du bénéfice trimestriel de TotalEnergies sous les critiques des ONG et de la gauche",
       "excerpt": "Porté par la hausse des prix de l'énergie liée à la guerre au Moyen-Orient, le géant français affiche des bénéfices en nette progression sur un an. Une performance qui relance le débat sur la taxation...",
       "link": "https://www.franceinfo.fr/environnement/energie/energies-fossiles/totalenergies/des-profits-de-guerre-juges-indecents-la-hausse-du-benefice-trimestriel-de-totalenergies-sous-les-critiques-des-ong-et-de-la-gauche_7973858.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 3h",
       "pubDate": 1777541852.0
     },
     {
-      "id": "France Info-2156147274592603487",
-      "source": "France Info",
-      "title": "\"Jordan Bardella est le seul à défendre des positions pro-business\" : au cœur du discret rapprochement entre le RN et les grands patrons",
-      "excerpt": "Alors qu'il y a encore quelques années, les organisations patronales appelaient à faire barrage à l'extrême droite, de plus en plus de chefs d’entreprise s’affichent avec le Rassemblement national. En...",
-      "link": "https://www.franceinfo.fr/enquetes-franceinfo/enquete-jordan-bardella-est-le-seul-a-defendre-des-positions-pro-business-au-c-ur-du-discret-rapprochement-entre-le-rn-et-les-grands-patrons_7972544.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
-      "pubDate": 1777540422.0
-    },
-    {
-      "id": "Le Monde--4633489993152726282",
+      "id": "Le Monde--3971592761263936098",
       "source": "Le Monde",
       "title": "Coup de froid sur l’économie française, la croissance est en panne et l’inflation grimpe",
       "excerpt": "Le PIB a stagné au premier trimestre en raison d’un recul de la consommation des ménages, en baisse 0,1 %. En avril, l’inflation a atteint 2,2 % sur un an.",
       "link": "https://www.lemonde.fr/economie/article/2026/04/30/coup-de-froid-sur-l-economie-francaise-la-croissance-fait-du-surplace-l-inflation-grimpe_6684569_3234.html",
-      "time": "Il y a 2h",
+      "time": "Il y a 4h",
       "pubDate": 1777539035.0
     },
     {
-      "id": "Le Monde--4763848095706792122",
-      "source": "Le Monde",
-      "title": "EN DIRECT, guerre au Moyen-Orient : les prix du pétrole s’envolent de nouveau après l’évocation par la Maison Blanche d’un blocus prolongé du détroit d’Ormuz",
-      "excerpt": "Donald Trump doit recevoir jeudi un briefing sur de nouveaux plans, en vue d’éventuelles actions militaires contre l’Iran, présenté par le commandant du CentCom, rapporte « Axios ».",
-      "link": "https://www.lemonde.fr/international/live/2026/04/30/en-direct-guerre-au-moyen-orient-les-prix-du-petrole-s-envolent-de-nouveau-apres-l-evocation-par-la-maison-blanche-d-un-blocus-prolonge-du-detroit-d-ormuz_6684072_3210.html",
-      "time": "Il y a 3h",
-      "pubDate": 1777536486.0
-    },
-    {
-      "id": "Le Monde-3220943646643569662",
-      "source": "Le Monde",
-      "title": "Des sols contaminés par des armes et dépollués par des plantes : le travail de chercheurs français pourrait être utilisé en zone de guerre",
-      "excerpt": "Dans la plaine de la Crau, près d’Arles, une expérimentation est menée pour redonner vie à des sols pollués par les armes. La « braouque », un brachypode au système racinaire très développé, est notam...",
-      "link": "https://www.lemonde.fr/planete/article/2026/04/30/des-sols-contamines-par-des-armes-et-depollues-par-des-plantes-le-travail-de-chercheurs-francais-pourrait-etre-utilise-en-zone-de-guerre_6684554_3245.html",
-      "time": "Il y a 3h",
-      "pubDate": 1777536015.0
-    },
-    {
-      "id": "Le Monde-7577070294423383138",
-      "source": "Le Monde",
-      "title": "La flambée des prix du gaz attendue le 1er mai menace les ménages français",
-      "excerpt": "Les prix du gaz en France vont augmenter de plus 15 %, à partir du 1er mai, pour une grande partie des ménages. Au-delà de cette hausse, liée au conflit au Moyen-Orient, l’augmentation des redevances...",
-      "link": "https://www.lemonde.fr/economie/article/2026/04/30/la-flambee-des-prix-du-gaz-attendue-le-1er-mai-menace-les-menages-francais_6684563_3234.html",
-      "time": "Il y a 3h",
-      "pubDate": 1777536007.0
-    },
-    {
-      "id": "Le Monde--4508041327850409434",
+      "id": "Le Monde--4686746859586298809",
       "source": "Le Monde",
       "title": "Présidentielle 2027 : un risque de dispersion mortifère à droite comme à gauche",
       "excerpt": "L’avalanche de candidatures de tous les bords de l’échiquier politique risque d’être fatale et d’aboutir à un duel entre le Rassemblement national et La France insoumise.",
       "link": "https://www.lemonde.fr/idees/article/2026/04/30/presidentielle-2027-un-risque-de-dispersion-mortifere-a-droite-comme-a-gauche_6684562_3232.html",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1777532407.0
     },
     {
-      "id": "Le Monde-5781685255726915719",
+      "id": "Le Monde-1987577266123269940",
       "source": "Le Monde",
-      "title": "« J’ai choisi une structure avec plus de responsabilités, des collègues sympas et un bon équilibre de vie » : ces jeunes diplômés qui choisissent de travailler dans les PME",
-      "excerpt": "Quête de sens, recherche d’agilité, désir de se voir confier des missions variées… Une part significative d’étudiants poussent la porte de petites entreprises à la fin de leurs études.",
-      "link": "https://www.lemonde.fr/campus/article/2026/04/30/j-ai-choisi-une-structure-avec-plus-de-responsabilites-des-collegues-sympas-et-un-bon-equilibre-de-vie-ces-jeunes-diplomes-qui-choisissent-de-travailler-dans-les-pme_6684557_4401467.html",
-      "time": "Il y a 6h",
-      "pubDate": 1777525205.0
+      "title": "Voyage dans l’usine du monde, où rien n’arrête le rouleau compresseur industriel chinois",
+      "excerpt": "« Comment la Chine dévore l’Europe » (3/4). Kunshan spécialisée dans l’électronique, Heshan dans les livres pour enfants… Le long du fleuve Yangzi et de la rivière des Perles, la multitude de cités in...",
+      "link": "https://www.lemonde.fr/economie/article/2026/04/30/voyage-dans-l-usine-du-monde-ou-rien-n-arrete-le-rouleau-compresseur-industriel-chinois_6684551_3234.html",
+      "time": "Il y a 8h",
+      "pubDate": 1777521643.0
     },
     {
-      "id": "Le Monde--7170386063930498007",
+      "id": "Le Monde--5079808572374906624",
+      "source": "Le Monde",
+      "title": "Narendra Modi, affaibli, tente de verrouiller le pouvoir en Inde",
+      "excerpt": "Sous la pression de Donald Trump et confronté à un isolement croissant, le pays voit s’éroder son image de puissance mondiale. Le 16 avril, le premier ministre indien a tenté un coup de force institut...",
+      "link": "https://www.lemonde.fr/international/article/2026/04/30/affaibli-sur-la-scene-internationale-et-interieure-narendra-modi-tente-de-verrouiller-le-pouvoir-en-inde_6684549_3210.html",
+      "time": "Il y a 8h",
+      "pubDate": 1777521633.0
+    },
+    {
+      "id": "Le Monde--7130112214556432594",
       "source": "Le Monde",
       "title": "Au Sénégal, l’embarras des avocats confrontés à la nouvelle loi contre l’homosexualité",
       "excerpt": "Depuis la promulgation du texte, le 30 mars, au moins une centaine de personnes ont été arrêtées à travers le pays pour « actes contre nature ». De nombreux avocats font le choix de se tenir à distanc...",
       "link": "https://www.lemonde.fr/afrique/article/2026/04/30/au-senegal-l-embarras-des-avocats-confrontes-a-la-nouvelle-loi-contre-l-homosexualite_6684544_3212.html",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1777521609.0
     }
   ],
   "anglophone": [
     {
-      "id": "BBC News-4380587041947228944",
-      "source": "BBC News",
-      "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
-      "excerpt": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
-      "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 21 min",
-      "pubDate": 1777546219.0
-    },
-    {
-      "id": "The Guardian-2380560019854122250",
-      "source": "The Guardian",
-      "title": "Mexico’s cartel crackdown hits top ranks – but will it fuel Jalisco violence?",
-      "excerpt": "Arrest of potential next leader found hiding in drainage pipe highlights renewed tactics – and fears of cartel infighting <ul><li><a href=\"https://www.theguardian.com/us-news/live/2026/apr/30/donald-t...",
-      "link": "https://www.theguardian.com/world/2026/apr/30/mexico-jalisco-cartel-el-mencho-flores",
-      "time": "Il y a 38 min",
-      "pubDate": 1777545196.0
-    },
-    {
-      "id": "The Guardian-8994896396905927257",
-      "source": "The Guardian",
-      "title": "‘Historic breakthrough’: Colombia climate talks end with hopes raised for fossil fuel phaseout",
-      "excerpt": "Nearly 60 countries back voluntary roadmaps to wean world off coal, oil and gas, at conference prompted by frustration with UN climate summits <ul><li><a href=\"https://www.theguardian.com/business/liv...",
-      "link": "https://www.theguardian.com/environment/2026/apr/30/colombia-climate-talks-end-fossil-fuel-phaseout",
-      "time": "Il y a 56 min",
-      "pubDate": 1777544124.0
-    },
-    {
-      "id": "NPR-988402338477316654",
-      "source": "NPR",
-      "title": "To catch colorectal cancer early, advocates push to make 'poop talk' OK",
-      "excerpt": "It's a very treatable form of cancer if caught early, yet younger adults rarely get screened. Patient advocates want more people to talk to their doctors about risk factors and number two.",
-      "link": "https://www.npr.org/2026/04/30/nx-s1-5762752/colorectal-cancer-rates-young-screening",
-      "time": "Il y a 1h",
-      "pubDate": 1777543200.0
-    },
-    {
-      "id": "BBC News-9189964746133521445",
+      "id": "BBC News--3261360447212453446",
       "source": "BBC News",
       "title": "Israel intercepts Gaza flotilla near Crete and detains 175 activists",
       "excerpt": "Pro-Palestinian activists say 22 boats carrying aid for Gaza were illegally intercepted in international waters near the Greek island.",
       "link": "https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
-      "pubDate": 1777540067.0,
+      "time": "Il y a 2 min",
+      "pubDate": 1777553441.0,
       "sources": [
         "BBC News",
         "NPR"
@@ -324,196 +288,232 @@
       "sourceCount": 2
     },
     {
-      "id": "NPR-692985851375127921",
+      "id": "The Guardian-8624522919384510053",
+      "source": "The Guardian",
+      "title": "Canada to create powerful financial crimes agency as US weakens its approach",
+      "excerpt": "Cryptocurrency ATMs also face ban, after public inquiry found Canada lacked anti-money-laundering strategy Canada is to establish a new and powerful law enforcement agency to investigate financial cri...",
+      "link": "https://www.theguardian.com/world/2026/apr/30/canada-financial-crimes-agency-us-weakens-approach-cryptocurrency-atms-money-laundering",
+      "time": "Il y a 45 min",
+      "pubDate": 1777550836.0
+    },
+    {
+      "id": "NPR--6315961922785538127",
+      "source": "NPR",
+      "title": "Iran war has cost $25B, Pentagon says. And, SCOTUS strikes blow to Voting Rights Act",
+      "excerpt": "The Pentagon estimates the war with Iran has cost $25 billion so far. And, the Supreme Court ruled that Louisiana's 2024 election map was \"an unconstitutional racial gerrymander.\"",
+      "link": "https://www.npr.org/2026/04/30/g-s1-119496/up-first-newsletter-pentagon-iran-war-jerome-powell-scotus-voting-rights-wildfire-fuel-costs",
+      "time": "Il y a 1h",
+      "pubDate": 1777549095.0
+    },
+    {
+      "id": "BBC News-8863705918960708371",
+      "source": "BBC News",
+      "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
+      "excerpt": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
+      "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 2h",
+      "pubDate": 1777546219.0
+    },
+    {
+      "id": "The Guardian--1997541638240607370",
+      "source": "The Guardian",
+      "title": "Mexico’s cartel crackdown hits top ranks – but will it fuel Jalisco violence?",
+      "excerpt": "Arrest of potential next leader found hiding in drainage pipe highlights renewed tactics – and fears of cartel infighting <ul><li><a href=\"https://www.theguardian.com/us-news/live/2026/apr/30/donald-t...",
+      "link": "https://www.theguardian.com/world/2026/apr/30/mexico-jalisco-cartel-el-mencho-flores",
+      "time": "Il y a 2h",
+      "pubDate": 1777545196.0
+    },
+    {
+      "id": "The Guardian--2658739272823623667",
+      "source": "The Guardian",
+      "title": "‘Historic breakthrough’: Colombia climate talks end with hopes raised for fossil fuel phaseout",
+      "excerpt": "Nearly 60 countries back voluntary roadmaps to wean world off coal, oil and gas, at conference prompted by frustration with UN climate summits <ul><li><a href=\"https://www.theguardian.com/business/liv...",
+      "link": "https://www.theguardian.com/environment/2026/apr/30/colombia-climate-talks-end-fossil-fuel-phaseout",
+      "time": "Il y a 2h",
+      "pubDate": 1777544124.0
+    },
+    {
+      "id": "NPR--534974084169211228",
+      "source": "NPR",
+      "title": "To catch colorectal cancer early, advocates push to make 'poop talk' OK",
+      "excerpt": "It's a very treatable form of cancer if caught early, yet younger adults rarely get screened. Patient advocates want more people to talk to their doctors about risk factors and number two.",
+      "link": "https://www.npr.org/2026/04/30/nx-s1-5762752/colorectal-cancer-rates-young-screening",
+      "time": "Il y a 2h",
+      "pubDate": 1777543200.0
+    },
+    {
+      "id": "NPR--8659398000740116768",
       "source": "NPR",
       "title": "These fans are boycotting the World Cup. Will they make it a bust?",
       "excerpt": "Some fans in the U.S. and around the world are unhappy with World Cup ticket prices — and U.S. immigration policies. So they're deciding not to come, raising concerns across the travel industry.<stron...",
       "link": "https://www.npr.org/2026/04/30/nx-s1-5803486/fifa-world-cup-soccer-football-tickets",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1777539600.0
     },
     {
-      "id": "NPR-4614560858200474307",
+      "id": "NPR--854783788625234362",
       "source": "NPR",
       "title": "The Iraq vet redefining mindfulness, one bourbon at a time",
       "excerpt": "Like many vets, it took Fred Minnick time to find the best way to cope with what he would learn was PTSD. For Minnick, sense and peace came with bourbon — and \"taste mindfulness.\"",
       "link": "https://www.npr.org/2026/04/30/nx-s1-5786543/veteran-bourbon-mindfulness",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1777539600.0
     },
     {
-      "id": "NPR-7122908393362407435",
+      "id": "NPR--1132374043484324213",
       "source": "NPR",
       "title": "After lackluster tour turnout, Turning Point wraps things up with excited crowd in Idaho",
       "excerpt": "The final stop on Turning Point USA's college campus tour at the University of Idaho seemed more like the organization's previous events, with audience member debates and an energetic, young crowd.",
       "link": "https://www.npr.org/2026/04/30/nx-s1-5803865/turning-point-idaho-college-campus-tour-kirk",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1777539600.0
     },
     {
-      "id": "NPR--1733347681410264220",
-      "source": "NPR",
-      "title": "Mirroring Gaza, Israel is destroying towns and villages in southern Lebanon",
-      "excerpt": "In southern Lebanon, towns near the border with Israel have been largely destroyed by Israeli demolitions and strikes. Israel says it has been attacking Hezbollah infrastructure, but civilian infrastr...",
-      "link": "https://www.npr.org/2026/04/30/g-s1-119210/lebanon-israel-war",
-      "time": "Il y a 2h",
-      "pubDate": 1777539600.0
-    },
-    {
-      "id": "NPR--2254746904196442333",
+      "id": "NPR-7744811716493183665",
       "source": "NPR",
       "title": "Supreme Court paves the way for largest-ever drop in Black representation in Congress",
       "excerpt": "By weakening Voting Rights Act protections against racial discrimination in redistricting, the Supreme Court has paved the way for the largest-ever drop in representation by Black members of Congress.",
       "link": "https://www.npr.org/2026/04/30/nx-s1-5805050/supreme-court-voting-rights-congressional-black-caucus",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1777539600.0
     },
     {
-      "id": "BBC News-1396339353323887884",
+      "id": "NPR-4937807918745383720",
+      "source": "NPR",
+      "title": "Mirroring Gaza, Israel is destroying towns and villages in southern Lebanon",
+      "excerpt": "In southern Lebanon, towns near the border with Israel have been largely destroyed by Israeli demolitions and strikes. Israel says it has been attacking Hezbollah infrastructure, but civilian infrastr...",
+      "link": "https://www.npr.org/2026/04/30/g-s1-119210/lebanon-israel-war",
+      "time": "Il y a 3h",
+      "pubDate": 1777539600.0
+    },
+    {
+      "id": "NPR-5061189837299616583",
+      "source": "NPR",
+      "title": "The U.S. economy shows resilience despite the war with Iran",
+      "excerpt": "The U.S. economy revved up in the first three months of the year, despite a spike in energy prices caused by the war with Iran.",
+      "link": "https://www.npr.org/2026/04/30/nx-s1-5802945/economy-gdp-energy-oil-prices-iran-war",
+      "time": "Il y a 4h",
+      "pubDate": 1777538602.0
+    },
+    {
+      "id": "BBC News-6812764725486678972",
       "source": "BBC News",
       "title": "'I did not expect it': Kenya's Sabastian Sawe welcomed home with jubilant celebrations",
       "excerpt": "The first man to run a marathon in under two hours in a competitive race received a hero's welcome from supporters and family when he arrived home.",
       "link": "https://www.bbc.com/news/articles/cddp4y0rzjdo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 3h",
+      "time": "Il y a 5h",
       "pubDate": 1777535013.0
     },
     {
-      "id": "NPR--2513235754746926061",
+      "id": "NPR-2238544613210432841",
       "source": "NPR",
-      "title": "How rising jet fuel prices are driving up the cost of fighting wildfires",
+      "title": "Taxpayers might pay millions more to fight wildfires as jet fuel skyrockets",
       "excerpt": "The Iran war has nearly doubled jet fuel prices in the United States. That means the bill for firefighting aircraft operations this summer will likely rise by tens of millions of dollars.",
       "link": "https://www.npr.org/2026/04/30/nx-s1-5775794/fuel-costs-iran-war-wildfires",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1777532400.0
     },
     {
-      "id": "BBC News--238332507162902114",
+      "id": "BBC News--4314591463393428941",
       "source": "BBC News",
       "title": "Police say they believe abducted child was murdered as body found in Outback",
       "excerpt": "The five-year-old girl was last seen on Saturday at an Aboriginal town camp near Alice Springs.",
       "link": "https://www.bbc.com/news/articles/cvgzd1yp2n6o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 4h",
+      "time": "Il y a 6h",
       "pubDate": 1777530595.0
     },
     {
-      "id": "BBC News--5194191207929525540",
+      "id": "BBC News--8190725136027257849",
       "source": "BBC News",
       "title": "Jewish agency warned of 'high' threat level ahead of Bondi shooting, report finds",
       "excerpt": "Gun reforms should be prioritised and policing around Jewish events increased, royal commission says.",
       "link": "https://www.bbc.com/news/articles/cdjpw0n889yo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 4h",
+      "time": "Il y a 6h",
       "pubDate": 1777529796.0
     },
     {
-      "id": "NPR--6079555929812467438",
-      "source": "NPR",
-      "title": "How a father and daughter duped NYC's art world with fake Warhols and Banksys",
-      "excerpt": "A father and daughter in New Jersey have pleaded guilty to running a years-long counterfeiting scheme to trick art galleries and auction houses into buying forged paintings",
-      "link": "https://www.npr.org/2026/04/30/g-s1-119482/how-a-father-and-daughter-duped-nycs-art-world-with-fake-warhols-and-banksys",
-      "time": "Il y a 5h",
-      "pubDate": 1777528343.0
-    },
-    {
-      "id": "BBC News-1073401740829125180",
+      "id": "BBC News--4392853689192754738",
       "source": "BBC News",
       "title": "China to ban drone sales in Beijing citing security concerns",
       "excerpt": "Drone users will also be required to register their devices and secure permits before flying them.",
       "link": "https://www.bbc.com/news/articles/c4gv4dvngygo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 5h",
+      "time": "Il y a 7h",
       "pubDate": 1777527954.0
     },
     {
-      "id": "NPR-3521968896049389440",
-      "source": "NPR",
-      "title": "Trump says he is weighing reducing American troop presence in Germany after Iran feud",
-      "excerpt": "President Trump suggested he could soon reduce the U.S. military presence in Germany as he continues to feud with Chancellor Friedrich Merz over the U.S-Israel war against Iran.",
-      "link": "https://www.npr.org/2026/04/30/g-s1-119480/trump-weighing-reducing-american-troops-in-germany-after-iran-feud",
-      "time": "Il y a 5h",
-      "pubDate": 1777527704.0
-    },
-    {
-      "id": "BBC News--1286115993308820524",
+      "id": "BBC News-5131712478399087358",
       "source": "BBC News",
       "title": "Christchurch mass killer loses bid to overturn conviction",
       "excerpt": "White supremacist Brenton Tarrant's appeal is \"utterly devoid of merit\", a New Zealand court has ruled.",
       "link": "https://www.bbc.com/news/articles/cg5p6zq19npo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1777522254.0
     },
     {
-      "id": "BBC News--7959146226956518288",
+      "id": "BBC News--8296442696350972486",
       "source": "BBC News",
       "title": "Trump says US studying troop cuts in Germany, after Merz criticises war",
       "excerpt": "His remarks come after the German chancellor criticised the US approach to the war in Iran.",
       "link": "https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 7h",
+      "time": "Il y a 9h",
       "pubDate": 1777519551.0
     },
     {
-      "id": "BBC News--1447364155869271199",
+      "id": "BBC News-5271583221077967919",
       "source": "BBC News",
       "title": "US charges Mexican governor and other leaders with aiding drug cartel",
       "excerpt": "The governor of Sinaloa, Rubén Rocha Moya, hails from the same party as the president of Mexico.",
       "link": "https://www.bbc.com/news/articles/cpqpzlrd3wwo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 7h",
+      "time": "Il y a 9h",
       "pubDate": 1777519204.0
     },
     {
-      "id": "BBC News-8110528641669269762",
+      "id": "BBC News--5216140065501006715",
       "source": "BBC News",
       "title": "US singer D4vd bought tools online to dispose of girl's body, prosecutors allege",
       "excerpt": "The Tiktok star's attorneys have maintained his innocence and vowed to \"vigorously defend\" him.",
       "link": "https://www.bbc.com/news/articles/cvgzll79529o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 9h",
+      "time": "Il y a 11h",
       "pubDate": 1777513420.0
     },
     {
-      "id": "The Guardian--3000485965354698583",
+      "id": "The Guardian--5835781747133280724",
       "source": "The Guardian",
       "title": "US charges Sinaloa governor and other Mexican officials with drug trafficking offences",
       "excerpt": "Indictment accuses high-level officials in Sinaloa of offences such as drug trafficking,  weapons offences and kidnapping  The US justice department has charged the governor of Sinaloa and nine other...",
       "link": "https://www.theguardian.com/world/2026/apr/30/us-charges-sinaloa-governor-and-other-mexican-officials-with-drug-trafficking-offences",
-      "time": "Il y a 11h",
+      "time": "Il y a 12h",
       "pubDate": 1777507753.0
     },
     {
-      "id": "The Guardian-2277245835487764617",
+      "id": "The Guardian-6387607792309988798",
       "source": "The Guardian",
       "title": "US supreme court conservatives seem to favor ending TPS for Haitians and Syrians",
       "excerpt": "Nine justices were hearing Trump administration that it has authority to strip immigrants’ temporary protected status  The US supreme court heard oral arguments on Wednesday over whether the Trump adm...",
       "link": "https://www.theguardian.com/us-news/2026/apr/29/us-supreme-court-haitians-syrians-tps",
-      "time": "Il y a 16h",
+      "time": "Il y a 18h",
       "pubDate": 1777488552.0
     },
     {
-      "id": "The Guardian--6754080586354379196",
-      "source": "The Guardian",
-      "title": "Thousands of US hockey fans sing Canadian anthem amid tensions between neighbor countries",
-      "excerpt": "Fans in Buffalo, only a few miles from Ontario, filled the silence when a microphone cut out at the start of a match The Electric City. Nickel City. Queen City. City of No Illusions. Buffalo, New York...",
-      "link": "https://www.theguardian.com/world/2026/apr/29/us-ice-hockey-fans-canadian-anthem",
-      "time": "Il y a 19h",
-      "pubDate": 1777477249.0
-    },
-    {
-      "id": "The Guardian-4120520580856167372",
+      "id": "The Guardian-527347773072871205",
       "source": "The Guardian",
       "title": "South Africa deports Mugabe’s son for unrelated offences after employee shot at family home",
       "excerpt": "Bellarmine Chatunga Mugabe also fined after pleading guilty to immigration and firearms-related offences Two months after an employee was shot in the back at the Mugabe family home in a wealthy suburb...",
       "link": "https://www.theguardian.com/world/2026/apr/29/south-africa-deports-mugabes-son-after-separate-offences-three-months-after-shooting-at-family-home",
-      "time": "Il y a 20h",
+      "time": "Il y a 22h",
       "pubDate": 1777471945.0
     },
     {
-      "id": "The Guardian--7496319222611980614",
+      "id": "The Guardian--6612090263893519820",
       "source": "The Guardian",
       "title": "‘It will never cover what’s authentic’: African music industry weighs up AI risks and rewards",
       "excerpt": "Delegates at event in Cape Verde highlight opportunities from tech while stressing AI is no replacement for talent Last July, the Nigerian singer-songwriter Fave found herself caught up in a viral mom...",
       "link": "https://www.theguardian.com/world/2026/apr/29/africa-music-industry-ai-artificial-intelligence",
-      "time": "Il y a 21h",
+      "time": "Il y a 23h",
       "pubDate": 1777470595.0
     },
     {
-      "id": "The Guardian-4325708028224535091",
+      "id": "The Guardian-1397855288366414153",
       "source": "The Guardian",
       "title": "Calls for humanitarian corridor through strait of Hormuz as Iran war hits vital aid",
       "excerpt": "Soaring oil prices and the blockade are preventing food, fuel and medicine being delivered to millions of people in desperate need, say NGOs The volatility of global oil prices caused by the US and Is...",
@@ -522,7 +522,7 @@
       "pubDate": 1777446048.0
     },
     {
-      "id": "The Guardian-5925909611422459334",
+      "id": "The Guardian-909773432603859693",
       "source": "The Guardian",
       "title": "Russia claims its Africa Corps group prevented coup in Mali after rebels seize towns",
       "excerpt": "Kremlin-controlled paramilitaries also alleged it inflicted ‘irreplaceable losses’ on insurgents avoiding civilian casualties Russia’s defence ministry has claimed its Africa Corps – the successor to...",
@@ -531,7 +531,7 @@
       "pubDate": 1777396047.0
     },
     {
-      "id": "The Guardian--2756716413597335694",
+      "id": "The Guardian-6716313933942947460",
       "source": "The Guardian",
       "title": "Fears of resurgence in Somali piracy after three vessels hijacked in a week",
       "excerpt": "Pirates appear to be taking advantage of international naval strength being diverted to Middle East Three vessels have been hijacked off the coast of Somalia in the past week, raising fears of a resur...",
@@ -540,5 +540,5 @@
       "pubDate": 1777393200.0
     }
   ],
-  "lastUpdate": "2026-04-30T11:12:11.863778"
+  "lastUpdate": "2026-04-30T12:52:48.914599"
 }
