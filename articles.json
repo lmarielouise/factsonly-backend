@@ -1,49 +1,139 @@
 {
   "francophone": [
     {
-      "id": "Le Monde-5580588519522214244",
-      "source": "Le Monde",
-      "title": "1ᵉʳ-Mai : les syndicats ont défilé à Toulouse, Lyon et Marseille ; le cortège parisien est en cours",
-      "excerpt": "Un peu plus de 100 000 manifestants sont attendus à travers le pays, selon les prévisions du ministère de l’intérieur, en plein débat autour du travail pendant le 1ᵉʳ-Mai et d’une hausse des prix des...",
-      "link": "https://www.lemonde.fr/economie-francaise/article/2026/05/01/1-mai-les-syndicats-ont-defile-a-toulouse-lyon-et-marseille-le-cortege-parisien-est-en-cours_6684672_1656969.html",
+      "id": "France Info-1410006517089074816",
+      "source": "France Info",
+      "title": "En Ardèche, cinq personnes sont mortes après une sortie de route et la chute de leur voiture",
+      "excerpt": "Une voiture est sortie de la route sur la commune de Sarras avant de chuter 20 mètres en contrebas et de s'embraser. Au moins cinq personnes se trouvaient à l'intérieur et sont mortes.",
+      "link": "https://www.franceinfo.fr/faits-divers/accident/en-ardeche-au-moins-quatre-personnes-meurent-apres-une-sortie-de-route-et-une-chute-de-leur-voiture_7976834.html#xtor=RSS-3-[lestitres]",
+      "time": "À l'instant",
+      "pubDate": 1777649889.0
+    },
+    {
+      "id": "France Info-8620781629802544027",
+      "source": "France Info",
+      "title": "Le président ukrainien veut augmenter les salaires de l'armée, et favoriser la démobilisation des soldats \"mobilisés plus tôt\"",
+      "excerpt": "La législation actuelle ne permet la démobilisation qu'une fois la levée de la loi martiale, en vigueur depuis le début de l'invasion russe en février 2022.",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-president-ukrainien-veut-augmenter-les-salaires-de-l-armee-et-favoriser-la-demobilisation-des-soldats-mobilises-plus-tot_7976843.html#xtor=RSS-3-[lestitres]",
       "time": "Il y a 2 min",
-      "pubDate": 1777646354.0
+      "pubDate": 1777649751.0
     },
     {
-      "id": "Libération--3161546884808630626",
-      "source": "Libération",
-      "title": "«Allez zou !» : Jean-Luc Mélenchon «prêt» à officialiser sa candidature",
-      "excerpt": "Lors de sa prise de parole du 1er Mai à Paris, le chef de file de La France insoumise a confirmé que son camp était «prêt» à partir en campagne. Il pourrait endosser le costume du premier des insoumis...",
-      "link": "https://www.liberation.fr/politique/elections/allez-zou-jean-luc-melenchon-pret-a-officialiser-sa-candidature-20260501_QTIUOFQ7JJC7ZDTJBNLURSFRIE/",
-      "time": "Il y a 9 min",
-      "pubDate": 1777645967.0
+      "id": "Le Monde-2683036860352672742",
+      "source": "Le Monde",
+      "title": "1ᵉʳ-Mai : plus de 300 000 manifestants dans toute la France, dont 100 000 à Paris, selon la CGT",
+      "excerpt": "A Toulouse, entre 5 500 personnes, selon la préfecture, et 12 000, d’après la CGT, ont manifesté dans la matinée. A Lyon, la préfecture a décompté 6 500 manifestants, à Marseille, 3 400. A Nantes, 4 0...",
+      "link": "https://www.lemonde.fr/economie-francaise/article/2026/05/01/1-mai-plus-de-300-000-manifestants-dans-toute-la-france-dont-100-000-a-paris-selon-la-cgt_6684672_1656969.html",
+      "time": "Il y a 6 min",
+      "pubDate": 1777649518.0
     },
     {
-      "id": "Libération--4305728694584585258",
+      "id": "Libération-544848973910646745",
       "source": "Libération",
-      "title": "A Châteauroux, un cycliste meurt après une «altercation» avec un automobiliste qui a dégénéré",
-      "excerpt": "Le conducteur de la voiture, un habitant de Déols de 21 ans, a été placé en garde à vue jeudi 30 avril après avoir traîné sur son capot puis éjecté «volontairement» l’homme avec lequel il avait eu un...",
-      "link": "https://www.liberation.fr/societe/police-justice/a-chateauroux-un-cycliste-meurt-apres-une-altercation-avec-un-automobiliste-qui-a-degenere-20260501_UT6AYSZ3KRGT3GVWYGJD3ZLCQ4/",
-      "time": "Il y a 13 min",
-      "pubDate": 1777645739.0
+      "title": "Mort de Maradona : le milieu argentin était «bipolaire» avec «un trouble narcissique», selon un psychologue jugé pour sa mort",
+      "excerpt": "Au procès sur les circonstances du décès de Maradona, un psychologue a révélé jeudi 30 avril que la star souffrait de troubles psy en plus de ses addictions. Dans cette affaire, sept soignants sont po...",
+      "link": "https://www.liberation.fr/sports/football/mort-de-maradona-le-milieu-argentin-etait-bipolaire-avec-un-trouble-narcissique-selon-un-psychologue-juge-pour-sa-mort-20260501_2MZYC6B7NRAL7P4JGN6H2NMMYE/",
+      "time": "Il y a 10 min",
+      "pubDate": 1777649264.0
     },
     {
-      "id": "Libération--7262494351099399167",
+      "id": "Le Monde-1566749191885929948",
+      "source": "Le Monde",
+      "title": "Free-party près de Bourges : environ 20 000 personnes sur un terrain militaire jugé « très dangereux » par la préfecture",
+      "excerpt": "Les « organisateurs du teknival de Bourges » attendent jusqu’à 30 000 participants sur le Polygone, un champ de tir où se trouvent peut-être des munitions non explosées, selon le préfet du Cher",
+      "link": "https://www.lemonde.fr/societe/article/2026/05/01/free-party-pres-de-bourges-environ-20-000-personnes-sur-un-terrain-militaire-juge-tres-dangereux-par-la-prefecture_6684699_3225.html",
+      "time": "Il y a 11 min",
+      "pubDate": 1777649209.0
+    },
+    {
+      "id": "France Info--7947356631109394404",
+      "source": "France Info",
+      "title": "Festival de Pâques 2026 : pépite du piano français, le jeune et surdoué Gabriel Durliat prend ses habits de chef à Deauville",
+      "excerpt": "Le musicien dirige vendredi soir l'orchestre du Festival de Pâques lors du week-end de clôture de sa trentième édition.",
+      "link": "https://www.franceinfo.fr/culture/musique/classique/festival-de-paques-2026-pepite-du-piano-francais-le-jeune-et-surdoue-gabriel-durliat-prend-ses-habits-de-chef-a-deauville_7976825.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 14 min",
+      "pubDate": 1777649045.0
+    },
+    {
+      "id": "France Info--5803808796604678852",
+      "source": "France Info",
+      "title": "\"Nous sommes prêts !\" : dans la manifestation du 1er-Mai, Jean-Luc Mélenchon met le cap sur la présidentielle 2027",
+      "excerpt": "Alors que La France insoumise pourrait officialiser sa candidature dès dimanche, Jean-Luc Mélenchon a pris la parole vendredi, place de la République à Paris, pour haranguer des militants insoumis, im...",
+      "link": "https://www.franceinfo.fr/politique/melenchon/nous-sommes-prets-dans-la-manifestation-du-1er-mai-jean-luc-melenchon-met-le-cap-sur-la-presidentielle-2027_7976822.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 17 min",
+      "pubDate": 1777648854.0
+    },
+    {
+      "id": "Libération-6499236583193937602",
       "source": "Libération",
-      "title": "«Sylvia» de Leonard Michaels : fêlures d’amour",
-      "excerpt": "Un couple se déchire dans le New York des sixties sur fond de transe musicale.",
-      "link": "https://www.liberation.fr/culture/livres/sylvia-de-leonard-michaels-felures-damour-20260501_IM4H6ICXUBH4PN6JPVGNTM66WE/",
+      "title": "Sous le manteau avec Nicole Caligaris",
+      "excerpt": "Un homme, une femme et le 13 Novembre dans «le Gogol», avec pour décor, un bar aux premières heures matinales.",
+      "link": "https://www.liberation.fr/culture/livres/sous-le-manteau-avec-nicole-caligaris-20260501_IZK5EQUJBNCTVA4VKSA2TURSCY/",
+      "time": "Il y a 18 min",
+      "pubDate": 1777648800.0
+    },
+    {
+      "id": "Libération--4537277233139948249",
+      "source": "Libération",
+      "title": "«Moomintroll : la chaleur de l’hiver» et «Life is Strange : Reunion» : deux jeux vidéos testés par «Libé»",
+      "excerpt": "Pour les jeunes gamers, plongée dans l’univers cotonneux et glacé d’un petit troll à tête d’hippopotame. Pour les grands, retrouvailles peu convaincantes des aventures de Max et Chloé, dix ans après l...",
+      "link": "https://www.liberation.fr/culture/moomintroll-la-chaleur-de-lhiver-et-life-is-strange-reunion-deux-jeux-videos-testes-par-libe-20260501_V63YBQAGB5C53FHI4HCNEGTXPM/",
+      "time": "Il y a 18 min",
+      "pubDate": 1777648800.0
+    },
+    {
+      "id": "Le Monde--8823945162965286393",
+      "source": "Le Monde",
+      "title": "Donald Trump rattrapé par la réalité, de l’impasse en Iran à ses revers judiciaires",
+      "excerpt": "A six mois des élections de mi-mandat, la dynamique politique se révèle plutôt négative pour le président américain.",
+      "link": "https://www.lemonde.fr/international/article/2026/05/01/donald-trump-rattrape-par-la-realite-de-l-impasse-en-iran-a-ses-revers-judiciaires_6684729_3210.html",
+      "time": "Il y a 21 min",
+      "pubDate": 1777648625.0
+    },
+    {
+      "id": "Libération--3031140732128594172",
+      "source": "Libération",
+      "title": "Le trio nord-irlandais Kneecap sort «Fenian» : «On reprend notre héritage en main»",
+      "excerpt": "Au cœur d’une tempête médiatique depuis deux ans pour leurs prises de position sur Gaza, les rappeurs gaéliques proposent un album impressionnant, qui s’écoute comme la synthèse incandescente et sédit...",
+      "link": "https://www.liberation.fr/culture/musique/le-trio-nord-irlandais-kneecap-sort-fenian-on-reprend-notre-heritage-en-main-20260501_EB3CSMGG35B4BGKN7E2MD67TWA/",
       "time": "Il y a 22 min",
-      "pubDate": 1777645200.0
+      "pubDate": 1777648564.0
     },
     {
-      "id": "Libération-382711238458707882",
+      "id": "Libération--1915423358386080683",
+      "source": "Libération",
+      "title": "1er-Mai : Lecornu achète son pain dans une boulangerie de Haute-Loire, Marylise Léon dénonce une «politique spectacle»",
+      "excerpt": "Alors que le débat sur le travail le 1er-Mai bat son plein, le Premier ministre et Gabriel Attal sont allés visiter ce vendredi un commerce ouvert. A la mi-journée, trois boulangeries et deux fleurist...",
+      "link": "https://www.liberation.fr/politique/1er-mai-lecornu-achete-son-pain-dans-une-boulangerie-de-haute-loire-marylise-leon-denonce-une-politique-spectacle-20260501_V7HUQJ2NQVGBJK34YKL67KG5II/",
+      "time": "Il y a 34 min",
+      "pubDate": 1777647827.0
+    },
+    {
+      "id": "Libération--4232783128133141960",
+      "source": "Libération",
+      "title": "Free Party : 30 000 personnes attendues au «Teknival de Bourges» alors que le parlement étudie une loi pour pénaliser les «raves»",
+      "excerpt": "Des milliers de teufeurs affluent près de Bourges ce vendredi 1er mai. Une fête interdite au moment où la proposition de loi visant à réprimer plus durement les rave parties va être examinée au Sénat.",
+      "link": "https://www.liberation.fr/societe/police-justice/free-party-30-000-personnes-attendues-au-teknival-de-bourges-alors-que-le-parlement-etudie-une-loi-pour-penaliser-les-raves-20260501_FTPS7XKCJRGLBA4EOM7F3BKEII/",
+      "time": "Il y a 38 min",
+      "pubDate": 1777647628.0
+    },
+    {
+      "id": "Libération--4581673244330799398",
+      "source": "Libération",
+      "title": "«Kevin» sur Prime : il n’y a pas de quoi fouetter un chat",
+      "excerpt": "La création d’Aubrey Plaza, étude de mœurs à travers les agissements des chats de gouttières et autres créatures, est finalement plus drôle à raconter qu’à voir.",
+      "link": "https://www.liberation.fr/culture/series/kevin-sur-prime-il-ny-a-pas-de-quoi-fouetter-un-chat-20260501_P3NGGJBTBBH6BAT6DL7IX6VYQE/",
+      "time": "Il y a 38 min",
+      "pubDate": 1777647600.0
+    },
+    {
+      "id": "Libération--6486669206985842148",
       "source": "Libération",
       "title": "EN DIRECT - Guerre au Moyen-Orient : l’Iran a présenté une nouvelle proposition aux Etats-Unis via le Pakistan",
       "excerpt": "Le conflit entre l’Iran et les Etats-Unis entre dans son 60e jour ce vendredi 1er mai, date limite après laquelle Donald Trump doit théoriquement demander l’autorisation du Congrès pour poursuivre la...",
       "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-donald-trump-pret-a-ignorer-le-congres-sur-la-poursuite-du-conflit-20260501_XO33PR2TRFBFBKUFXMD5PWEJJY/",
-      "time": "Il y a 34 min",
-      "pubDate": 1777644477.0,
+      "time": "Il y a 44 min",
+      "pubDate": 1777647269.0,
       "sources": [
         "Libération",
         "France Info"
@@ -52,477 +142,387 @@
       "sourceCount": 2
     },
     {
-      "id": "France Info-3841342953514838222",
+      "id": "Libération-7899556437814239692",
+      "source": "Libération",
+      "title": "«Allez zou !» : Jean-Luc Mélenchon «prêt» à officialiser sa candidature à la présidentielle",
+      "excerpt": "Lors de sa prise de parole du 1er Mai à Paris, le chef de file de La France insoumise a confirmé que son camp était «prêt» à partir en campagne. Il pourrait endosser le costume du premier des insoumis...",
+      "link": "https://www.liberation.fr/politique/elections/allez-zou-jean-luc-melenchon-pret-a-officialiser-sa-candidature-20260501_QTIUOFQ7JJC7ZDTJBNLURSFRIE/",
+      "time": "Il y a 1h",
+      "pubDate": 1777645967.0
+    },
+    {
+      "id": "Libération--7408247672349576114",
+      "source": "Libération",
+      "title": "A Châteauroux, un cycliste meurt après une «altercation» avec un automobiliste qui a dégénéré",
+      "excerpt": "Le conducteur de la voiture, âgé de 21 ans, a été placé en garde à vue jeudi 30 avril après avoir traîné sur son capot puis éjecté «volontairement» l’homme avec lequel il avait eu un conflit. Une enqu...",
+      "link": "https://www.liberation.fr/societe/police-justice/a-chateauroux-un-cycliste-meurt-apres-une-altercation-avec-un-automobiliste-qui-a-degenere-20260501_UT6AYSZ3KRGT3GVWYGJD3ZLCQ4/",
+      "time": "Il y a 1h",
+      "pubDate": 1777645739.0
+    },
+    {
+      "id": "France Info-294399204249536420",
       "source": "France Info",
-      "title": "1er-Mai : à Mâcon, Marine Le Pen vante la \"voie médiane\" du RN sur l'économie",
-      "excerpt": "Ces derniers jours, une divergence a vu le jour entre Marine Le Pen et Jordan Bardella sur la pertinence d'une taxation des superprofits de TotalEnergies.",
-      "link": "https://www.franceinfo.fr/decouverte/1er-mai/direct-1er-mai-plus-de-320-manifestations-prevues-en-france-laurent-nunez-pas-plus-inquiet-que-d-habitude_7976060.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 38 min",
-      "pubDate": 1777644215.0
-    },
-    {
-      "id": "Libération--7050129356631511089",
-      "source": "Libération",
-      "title": "Charles III, un rebelle à Washington, par Daniel Schneidermann",
-      "excerpt": "Ce ne sont pas seulement deux systèmes de valeurs qui s’affrontent entre le souverain britannique et Donald Tump, civilisation contre barbarie, mais deux modes d’expression, et le plus assassin des de...",
-      "link": "https://www.liberation.fr/idees-et-debats/opinions/charles-iii-un-rebelle-a-washington-par-daniel-schneidermann-20260501_UQGIQH2APVBR3PV3WSQZ2CF2EU/",
-      "time": "Il y a 42 min",
-      "pubDate": 1777644000.0
-    },
-    {
-      "id": "Libération-7113963683377504450",
-      "source": "Libération",
-      "title": "Fabcaro pastiche les palpitantes aventures du «Club des Cinq» version LR sur la Côte d’Azur",
-      "excerpt": "Avec «Les Cinq Ami·e·s l’échappent belle in extremis», Fabrice Caro propose un pastiche brillant d’un classique de la littérature jeunesse, «Le Club des Cinq». Un texte ultra-référencé, bardé d’humour...",
-      "link": "https://www.liberation.fr/culture/livres/fabcaro-pastiche-les-palpitantes-aventures-du-club-des-cinq-version-lr-sur-la-cote-dazur-20260501_TYXOATFWO5E6FM2XS3TTD73ULU/",
-      "time": "Il y a 45 min",
-      "pubDate": 1777643820.0
-    },
-    {
-      "id": "France Info-4767603870136166274",
-      "source": "France Info",
-      "title": "\"J'ai eu beaucoup de chance\" : déclaré mort après un arrêt cardiaque, il se réveille trois heures plus tard",
-      "excerpt": "Didier, un patient de 62 ans hospitalisé à Rennes, a probablement présenté un syndrome de Lazare, une affection rarissime qui rend indétectables les constances vitales.",
-      "link": "https://www.franceinfo.fr/sante/j-ai-eu-beaucoup-de-chance-declare-mort-apres-un-arret-cardiaque-il-se-reveille-trois-heures-plus-tard_7976732.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 53 min",
-      "pubDate": 1777643324.0
-    },
-    {
-      "id": "Libération--4966526158111104687",
-      "source": "Libération",
-      "title": "Avec «A Piece About Water Without Water», Robyn Orlin et Camille prennent l’eau",
-      "excerpt": "Spectacle hybride, la création de la chorégraphe sud-africaine, où la chanteuse française est accompagnée par le chœur Phuphuma Love Minusse, se vend comme un pamphlet environnemental mais tombe dans...",
-      "link": "https://www.liberation.fr/culture/scenes/avec-a-piece-about-water-without-water-robyn-orlin-et-camille-prennent-leau-20260501_BGPCD4N35RHDRH7UKKOTNMY4KA/",
+      "title": "\"Environ 20 000 personnes\" rassemblées dans le Cher pour une rave-party sur un terrain militaire",
+      "excerpt": "La préfecture alerte sur un potentiel \"risque d'explosion\" en raison \"du terrain choisi\". Les organisateurs attendent \"jusqu'à 30 000 personnes\".",
+      "link": "https://www.franceinfo.fr/faits-divers/cher-plusieurs-milliers-de-personnes-rassemblees-pour-une-rave-party-sur-un-terrain-militaire-indique-la-prefecture-qui-alerte-sur-un-potentiel-risque-d-explosion_7976354.html#xtor=RSS-3-[lestitres]",
       "time": "Il y a 1h",
-      "pubDate": 1777642794.0
+      "pubDate": 1777643852.0
     },
     {
-      "id": "Libération--2083330372782948736",
-      "source": "Libération",
-      "title": "Richard Gadd, il renne en maître",
-      "excerpt": "L’acteur et réalisateur écossais, multiprimé pour «Mon Petit Renne», a entrepris d’explorer les masculinités avec talent et sans tabou.",
-      "link": "https://www.liberation.fr/portraits/richard-gadd-il-renne-en-maitre-20260501_GUS5KMQ6QJEN7EWOKQAOE4WJBQ/",
-      "time": "Il y a 1h",
-      "pubDate": 1777642440.0
-    },
-    {
-      "id": "Libération-6837029005268903351",
-      "source": "Libération",
-      "title": "«Novembre» d’Alena Mornštajnová, Prague sans printemps",
-      "excerpt": "Entretien avec l’autrice tchèque autour d’une uchronie et d’un duo féminin, mère et fille.",
-      "link": "https://www.liberation.fr/culture/livres/novembre-dalena-mornstajnova-prague-sans-printemps-20260501_NEDPPDFSBFF57HFGXUJBLFO67Q/",
-      "time": "Il y a 1h",
-      "pubDate": 1777641999.0
-    },
-    {
-      "id": "Le Monde-3057525515209572321",
+      "id": "Le Monde-7712221963638119447",
       "source": "Le Monde",
       "title": "En Italie, un important incendie en Toscane entraîne l’évacuation de 3 500 personnes",
       "excerpt": "Alors que la saison des incendies débute anormalement tôt en Italie, les secours luttent depuis plus de vingt-quatre heures contre un incendie dans le centre du pays, mobilisant armée, pompiers et moy...",
       "link": "https://www.lemonde.fr/international/article/2026/05/01/en-italie-un-important-incendie-en-toscane-entraine-l-evacuation-de-3-500-personnes_6684719_3210.html",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1777641607.0
     },
     {
-      "id": "Libération-3828942020323492640",
-      "source": "Libération",
-      "title": "1er-Mai : Lecornu achète son pain dans une boulangerie de Haute-Loire, Marylise Léon dénonce une «politique spectacle»",
-      "excerpt": "Alors que le débat sur le travail le 1er-Mai bat son plein, le Premier ministre et Gabriel Attal sont allés visiter ce vendredi un commerce ouvert. A la mi-journée, trois boulangeries et deux fleurist...",
-      "link": "https://www.liberation.fr/politique/1er-mai-lecornu-achete-son-pain-dans-une-boulangerie-de-haute-loire-marylise-leon-denonce-une-politique-spectacle-20260501_V7HUQJ2NQVGBJK34YKL67KG5II/",
-      "time": "Il y a 1h",
-      "pubDate": 1777641560.0
-    },
-    {
-      "id": "Le Monde-5205604352216815136",
+      "id": "Le Monde--2809529485190195290",
       "source": "Le Monde",
       "title": "EN DIRECT, guerre en Ukraine : la Russie lance une importante attaque de drones sur Ternopil ; au moins dix blessés",
       "excerpt": "Un peu plus tôt, Touapsé, ville pétrolière russe, a été à nouveau frappée par des drones ukrainiens. Les vastes installations pétrolières de la ville ont été touchées pour la quatrième fois.",
       "link": "https://www.lemonde.fr/international/live/2026/05/01/en-direct-guerre-en-ukraine-la-russie-lance-une-importante-attaque-de-drones-sur-ternopil-au-moins-dix-blesses_6683420_3210.html",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1777641420.0
     },
     {
-      "id": "France Info-3159056054481225312",
+      "id": "France Info--1043359420073655705",
       "source": "France Info",
       "title": "Suspect inculpé, sécurité renforcée, implication de l'Iran... Où en est l'enquête après l'attaque antisémite contre deux hommes à Londres ?",
       "excerpt": "\"Nous sommes confrontés à une sorte de pandémie d'antisémitisme dans la société\", s'est inquiété vendredi le chef de la Metropolitan Police, Mark Rowley, sur Times Radio. De son côté, l'ambassade iran...",
       "link": "https://www.franceinfo.fr/monde/royaume-uni/suspect-inculpe-securite-renforcee-implication-de-l-iran-ou-en-est-l-enquete-apres-l-attaque-antisemite-contre-deux-hommes-a-londres_7976471.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1777640974.0
     },
     {
-      "id": "Le Monde--2299630664041964234",
-      "source": "Le Monde",
-      "title": "EN DIRECT, guerre au Moyen-Orient : la marine britannique alerte sur une « crise humanitaire imminente » dans le détroit d’Ormuz",
-      "excerpt": "Tandis que le trafic maritime dans le détroit a chuté de plus de 90 %, quelque 20 000 marins se retrouvent bloqués sans perspective de relève ni de retour, a alerté le centre de surveillance maritime...",
-      "link": "https://www.lemonde.fr/international/live/2026/05/01/en-direct-guerre-au-moyen-orient-la-marine-britannique-alerte-sur-une-crise-humanitaire-imminente-dans-le-detroit-d-ormuz_6684072_3210.html",
-      "time": "Il y a 2h",
-      "pubDate": 1777639094.0
-    },
-    {
-      "id": "France Info--2678065089736504060",
+      "id": "France Info-5107411922241686180",
       "source": "France Info",
       "title": "Donald Trump n'a \"pas envie d'avoir l'air de peser 10 kilos de plus\" avec un gilet pare-balles",
       "excerpt": "Une journaliste l'interrogeait sur son souhait de porter ou non cette protection, cinq jours après avoir échappé à une nouvelle tentative d'assassinat.",
       "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-n-a-pas-envie-d-avoir-l-air-de-peser-10-kilos-de-plus-avec-un-gilet-pare-balles_7976651.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1777637695.0
     },
     {
-      "id": "France Info-3754482317271274692",
-      "source": "France Info",
-      "title": "Rave-party sur un terrain militaire dangereux près de Bourges : qu'est-ce que les \"munitions non-explosées\" qui inquiètent les autorités ?",
-      "excerpt": "La préfecture du Cher alerte face au risque qu'encoure les personnes présentes à cette rave en raison de la présence de possible de\" munitions non-explosées\" sur le terrain militaire occupé.",
-      "link": "https://www.franceinfo.fr/faits-divers/rave-party-sur-un-terrain-militaire-dangereux-pres-de-bourges-qu-est-ce-que-les-munitions-non-explosees_7976465.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
-      "pubDate": 1777636815.0
-    },
-    {
-      "id": "France Info--5336042266402562802",
+      "id": "France Info--8378792551231491497",
       "source": "France Info",
       "title": "Taxation des \"superprofits\" de TotalEnergies : ce que réclament les partis politiques après la publication des bénéfices du groupe pétrolier",
       "excerpt": "Les performances de TotalEnergies, en nette progression sur un an et portées par la hausse des prix de l'énergie, relancent le débat sur la taxation des profits exceptionnels dans la sphère politique.",
       "link": "https://www.franceinfo.fr/politique/taxation-des-superprofits-de-totalenergies-ce-que-reclament-les-partis-politiques-apres-la-publication-des-benefices-du-groupe-petrolier_7976267.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1777635179.0
     },
     {
-      "id": "France Info-6402827643669345958",
+      "id": "France Info-7899470228221155816",
       "source": "France Info",
       "title": "La guerre au Moyen-Orient a déjà coûté \"un milliard d'euros\" à la France en opérations extérieures",
       "excerpt": "Deux mois après le début du conflit, ce montant comprend les patrouilles de Rafale, les équipages ou encore le kérosène utilisé par ces avions, a appris France Télévisions de source gouvernementale.",
       "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/info-franceinfo-la-guerre-au-moyen-orient-a-deja-coute-un-milliard-d-euros-a-la-france_7976525.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1777634857.0
     },
     {
-      "id": "France Info--7730232929660172858",
-      "source": "France Info",
-      "title": "Des dizaines de militants de \"la flottille pour Gaza\" débarqués en Crète",
-      "excerpt": "La Grèce \"va veiller à leur retour en toute sécurité\", a promis le ministère des Affaires étrangères israélien, après l'interpellation d'environ 175 militants en mer par Israël.",
-      "link": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/des-dizaines-de-militants-de-la-flottille-pour-gaza-debarques-en-crete_7976579.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 3h",
-      "pubDate": 1777634255.0
-    },
-    {
-      "id": "Le Monde--5295225871640835995",
-      "source": "Le Monde",
-      "title": "« Au Mali, l’objectif des djihadistes n’est pas de prendre Bamako, mais de changer les personnes au pouvoir »",
-      "excerpt": "Lancée le 25 avril, l’offensive du Groupe de soutien de l’islam et des musulmans, affilié à Al-Qaida, menace la capitale malienne, où un blocus des routes a été décrété. L’analyste Jean-Hervé Jezequel...",
-      "link": "https://www.lemonde.fr/afrique/article/2026/05/01/au-mali-l-objectif-des-djihadistes-n-est-pas-de-prendre-bamako-mais-de-changer-les-personnes-au-pouvoir_6684710_3212.html",
-      "time": "Il y a 3h",
-      "pubDate": 1777633207.0
-    },
-    {
-      "id": "Le Monde--7147938941001200343",
+      "id": "Le Monde--6540851616439006534",
       "source": "Le Monde",
       "title": "En Suède, la surenchère anti-immigration de la droite et de l’extrême droite fait réagir une part croissante de la population",
       "excerpt": "A quelques mois des élections législatives du 13 septembre, plusieurs réformes vont encore durcir les conditions d’accueil dans le royaume. Mineurs nés en Suède, personnes installées depuis des décenn...",
       "link": "https://www.lemonde.fr/international/article/2026/05/01/en-suede-la-surenchere-anti-immigration-de-la-droite-et-de-l-extreme-droite-fait-reagir-une-part-croissante-de-la-population_6684708_3210.html",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1777631406.0
     },
     {
-      "id": "Le Monde--3307405625568722326",
+      "id": "Le Monde-3903674453122848379",
       "source": "Le Monde",
       "title": "Marine Tondelier « en colère » contre les propos de François Ruffin sur l’immigration de travail, qui  a « convoqué les sujets de l’extrême droite »",
       "excerpt": "« La France ne doit pas faire appel à des médecins algériens, tunisiens ou roumains », avait estimé le député de la Somme, tout en précisant : « En attendant, les médecins algériens, tunisiens, roumai...",
       "link": "https://www.lemonde.fr/politique/article/2026/05/01/marine-tondelier-en-colere-contre-la-position-de-francois-ruffin-sur-l-immigration-de-travail_6684706_823448.html",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1777630697.0
     },
     {
-      "id": "Le Monde--6139338314203356008",
+      "id": "Le Monde--8289710530945340491",
       "source": "Le Monde",
       "title": "A Chapeco, la « capitale des abattoirs » brésilienne, des ouvriers sous pression : « Les entreprises voudraient qu’on soit des robots »",
       "excerpt": "Pour faire face à la forte demande mondiale, que l’accord UE-Mercosur devrait encore renforcer, les abattoirs recrutent parmi les populations autochtones et les immigrés. Cadence infernale, travail da...",
       "link": "https://www.lemonde.fr/economie/article/2026/05/01/a-chapeco-la-capitale-des-abattoirs-bresilienne-des-ouvriers-sous-pression-les-entreprises-voudraient-qu-on-soit-des-robots_6684703_3234.html",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1777627808.0
     },
     {
-      "id": "Le Monde-4934951730877633546",
+      "id": "Le Monde-8279837175075298470",
       "source": "Le Monde",
       "title": "Helios : quand une panne du logiciel de comptabilité publique menace la paie de millions de fonctionnaires",
       "excerpt": "En février, un problème sur un matériel japonais a bloqué pendant douze jours le logiciel de comptabilité publique Helios. L’Assemblée nationale s’inquiète des « vulnérabilités » mises en évidence par...",
       "link": "https://www.lemonde.fr/economie/article/2026/05/01/affaire-helios-quand-une-panne-informatique-menace-la-paie-de-millions-de-fonctionnaires_6684701_3234.html",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1777627322.0
     },
     {
-      "id": "Le Monde-277014459824168793",
+      "id": "Le Monde-3963449003663798941",
       "source": "Le Monde",
       "title": "A Lyon, un programme de logements revendique l’utilisation de « bois bleu », souvent délaissé car marqué par un champignon",
       "excerpt": "Portant des traces bleutées dues à un champignon après le passage du scolyte qui ravage les forêts d’épicéas, ce bois conserve ses propriétés mécaniques, mais son emploi dans la construction implique...",
       "link": "https://www.lemonde.fr/economie/article/2026/05/01/a-lyon-un-programme-de-logements-revendique-l-utilisation-de-bois-bleu-souvent-delaisse-car-marque-par-un-champignon_6684694_3234.html",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1777622409.0
-    },
-    {
-      "id": "France Info-3082373995881392109",
-      "source": "France Info",
-      "title": "Jour chômé, exceptions, salaire doublé… Que dit le Code du travail sur le 1er-Mai ?",
-      "excerpt": "Le gouvernement souhaite élargir à de nouveaux secteurs la possibilité de faire travailler des salariés le 1er-Mai, notamment les artisans boulangers et fleuristes. A ce jour, plusieurs secteurs sont...",
-      "link": "https://www.franceinfo.fr/decouverte/1er-mai/jour-chome-exceptions-salaire-double-que-dit-le-code-du-travail-sur-le-1er-mai_7976249.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 9h",
-      "pubDate": 1777613489.0
     }
   ],
   "anglophone": [
     {
-      "id": "The Guardian--7976385293359072987",
-      "source": "The Guardian",
-      "title": "Could key climate talks mark ground zero in global push to ditch fossil fuels?",
-      "excerpt": "Colombia hosted nearly 60 countries at pivotal time on world stage for fight to transition to a clean energy future Looking out to sea from the grey sandy beaches of Santa Marta, on Colombia’s Caribbe...",
-      "link": "https://www.theguardian.com/environment/2026/may/01/could-key-climate-talks-mark-ground-zero-in-global-push-to-ditch-fossil-fuels",
-      "time": "Il y a 22 min",
-      "pubDate": 1777645169.0
-    },
-    {
-      "id": "NPR-4856562277664627184",
+      "id": "NPR-5423863323693994400",
       "source": "NPR",
-      "title": "Several states — and the LA public schools — are setting limits on screen time",
-      "excerpt": "Four states have recently passed legislation to limit teaching and assessments via screens for students. So has the United States' second-largest school district.",
-      "link": "https://www.npr.org/2026/05/01/nx-s1-5791657/states-schools-restricting-screen-time",
-      "time": "Il y a 35 min",
-      "pubDate": 1777644400.0
+      "title": "Kneecap is used to controversy. On new album 'Fenian,' they're leaning further in",
+      "excerpt": "NPR's Juana Summers talks with Mo Chara and Móglaí Bap of the Irish hip-hop trio Kneecap about their new album <em>Fenian</em>.",
+      "link": "https://www.npr.org/2026/05/01/nx-s1-5692750/kneecap-fenian-album-hip-hop",
+      "time": "Il y a 8 min",
+      "pubDate": 1777649408.0
     },
     {
-      "id": "NPR--2863924654665749266",
-      "source": "NPR",
-      "title": "The expert on 'super aging' breaks down the science — and grift — in anti-aging",
-      "excerpt": "From peptides and protein to sleep hygiene and vaccines, what actually helps you age well? Physician Eric Topol breaks down the science — and the myths — of longevity and anti-aging.",
-      "link": "https://www.npr.org/2026/05/01/nx-s1-5770418/expert-super-aging-science-anti-aging",
-      "time": "Il y a 42 min",
-      "pubDate": 1777643991.0
-    },
-    {
-      "id": "BBC News-3381869282123851333",
-      "source": "BBC News",
-      "title": "Billions of meals at risk due to Iran war, says fertiliser boss",
-      "excerpt": "A shortage of fertiliser due to the Iran conflict could reduce crop yields and push prices higher, says the boss of Yara.",
-      "link": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 1h",
-      "pubDate": 1777641130.0
-    },
-    {
-      "id": "BBC News--503647007996864495",
-      "source": "BBC News",
-      "title": "Missing Oscar found after Academy Award winner blocked from taking it on flight",
-      "excerpt": "The airline said the Academy Award was safely in its care in Frankfurt and was arranging its return.",
-      "link": "https://www.bbc.com/news/articles/cz72j59znw3o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 1h",
-      "pubDate": 1777639349.0
-    },
-    {
-      "id": "NPR--2227913739587537088",
-      "source": "NPR",
-      "title": "Record-breaking DHS shutdown ends. And, May Day protests to draw crowds nationwide",
-      "excerpt": "Congress has ended the record-breaking shutdown of the Department of Homeland Security. And, May Day demonstrations across the U.S. are expected to draw crowds protesting the Trump administration.",
-      "link": "https://www.npr.org/2026/05/01/g-s1-119694/up-first-newsletter-iran-us-strait-of-hormuz-dhs-shutdown-trump-surgeon-general",
-      "time": "Il y a 2h",
-      "pubDate": 1777635857.0
-    },
-    {
-      "id": "BBC News-2577046300062621104",
-      "source": "BBC News",
-      "title": "Hegseth says clock paused on deadline to seek approval for Iran war",
-      "excerpt": "The US defence secretary says the timer for the president to report to Congress \"pauses or stops\" in a ceasefire.",
-      "link": "https://www.bbc.com/news/articles/cvgz7l5v03po?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 3h",
-      "pubDate": 1777633514.0
-    },
-    {
-      "id": "The Guardian--600955373615694915",
-      "source": "The Guardian",
-      "title": "Uganda copying Russia and China with new bill designed to crush dissent, say critics",
-      "excerpt": "New law proposes up to 20 years in prison for promoting ‘foreign interests’, and restricts those who work with or are funded by overseas partners Ugandan opposition figures, human rights organisations...",
-      "link": "https://www.theguardian.com/global-development/2026/may/01/uganda-copying-russia-and-china-with-new-bill-designed-to-crush-dissent-say-critics",
-      "time": "Il y a 3h",
-      "pubDate": 1777633227.0
-    },
-    {
-      "id": "NPR-2370129146896648214",
-      "source": "NPR",
-      "title": "How well can EVs handle the heat — and the cold? AAA put them to the test",
-      "excerpt": "Electric vehicles lose some range in the winter — and, to a lesser degree, in the summer. But exactly how much? AAA has brand-new data.",
-      "link": "https://www.npr.org/2026/05/01/nx-s1-5794657/aaa-electric-vehicle-batteries-range-summer-winter",
-      "time": "Il y a 3h",
-      "pubDate": 1777633200.0
-    },
-    {
-      "id": "The Guardian--6519149864982760267",
-      "source": "The Guardian",
-      "title": "Antigua and Barbuda prime minister set to win fourth term in election",
-      "excerpt": "Gaston Browne is on course to win 15 of the 17 seats in parliament after calling snap election Gaston Browne, the prime minister of Antigua and Barbuda, is set to win a fourth term in the country’s sn...",
-      "link": "https://www.theguardian.com/world/2026/may/01/antigua-barbuda-gaston-browne-win-election",
-      "time": "Il y a 3h",
-      "pubDate": 1777632884.0
-    },
-    {
-      "id": "NPR--142092347268448582",
-      "source": "NPR",
-      "title": "A tech worker in China is laid off and replaced by AI. Is it legal?",
-      "excerpt": "A tech worker in eastern China's Hangzhou city was dismissed after his job was replaced by AI. An appeals court in the city has ruled the dismissal unlawful.",
-      "link": "https://www.npr.org/2026/05/01/nx-s1-5807131/tech-worker-china-ai",
-      "time": "Il y a 4h",
-      "pubDate": 1777631751.0
-    },
-    {
-      "id": "BBC News--1058074241707860891",
-      "source": "BBC News",
-      "title": "Israel releases all but two activists in Greece after intercepting Gaza aid flotilla",
-      "excerpt": "The Global Sumud Flotilla denounced the interception as \"piracy\", while Israel's foreign ministry called the flotilla a \"PR stunt\".",
-      "link": "https://www.bbc.com/news/articles/c0m2z0k1gngo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 4h",
-      "pubDate": 1777630377.0
-    },
-    {
-      "id": "BBC News-1561733913936586471",
+      "id": "BBC News--5913891611357807640",
       "source": "BBC News",
       "title": "US imposes sanctions on DR Congo ex-President Kabila alleging rebel support",
       "excerpt": "The former leader has not responded to US accusations that he is aiming to destabilise the government.",
       "link": "https://www.bbc.com/news/articles/clyprzx10w2o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 5h",
-      "pubDate": 1777628246.0
+      "time": "Il y a 50 min",
+      "pubDate": 1777646866.0
     },
     {
-      "id": "NPR--46830314690339373",
+      "id": "BBC News-5979661139186560642",
+      "source": "BBC News",
+      "title": "Hegseth says clock paused on deadline to seek approval for Iran war",
+      "excerpt": "The US defence secretary says the timer for the president to report to Congress \"pauses or stops\" in a ceasefire.",
+      "link": "https://www.bbc.com/news/articles/cvgz7l5v03po?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 55 min",
+      "pubDate": 1777646579.0
+    },
+    {
+      "id": "The Guardian--8662233781066935777",
+      "source": "The Guardian",
+      "title": "Could key climate talks mark ground zero in global push to ditch fossil fuels?",
+      "excerpt": "Colombia hosted nearly 60 countries at pivotal time on world stage for fight to transition to a clean energy future Looking out to sea from the grey sandy beaches of Santa Marta, on Colombia’s Caribbe...",
+      "link": "https://www.theguardian.com/environment/2026/may/01/could-key-climate-talks-mark-ground-zero-in-global-push-to-ditch-fossil-fuels",
+      "time": "Il y a 1h",
+      "pubDate": 1777645169.0
+    },
+    {
+      "id": "NPR--555760977914175072",
+      "source": "NPR",
+      "title": "Several states — and the LA public schools — are setting limits on screen time",
+      "excerpt": "Four states have recently passed legislation to limit teaching and assessments via screens for students. So has the United States' second-largest school district.",
+      "link": "https://www.npr.org/2026/05/01/nx-s1-5791657/states-schools-restricting-screen-time",
+      "time": "Il y a 1h",
+      "pubDate": 1777644400.0
+    },
+    {
+      "id": "NPR-1377224785255210783",
+      "source": "NPR",
+      "title": "The expert on 'super aging' breaks down the science — and grift — in anti-aging",
+      "excerpt": "From peptides and protein to sleep hygiene and vaccines, what actually helps you age well? Physician Eric Topol breaks down the science — and the myths — of longevity and anti-aging.",
+      "link": "https://www.npr.org/2026/05/01/nx-s1-5770418/expert-super-aging-science-anti-aging",
+      "time": "Il y a 1h",
+      "pubDate": 1777643991.0
+    },
+    {
+      "id": "BBC News-3391892544982667673",
+      "source": "BBC News",
+      "title": "Billions of meals at risk due to Iran war, says fertiliser boss",
+      "excerpt": "A shortage of fertiliser due to the Iran conflict could reduce crop yields and push prices higher, says the boss of Yara.",
+      "link": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 2h",
+      "pubDate": 1777641130.0
+    },
+    {
+      "id": "BBC News-7904646983751327544",
+      "source": "BBC News",
+      "title": "Missing Oscar found after Academy Award winner blocked from taking it on flight",
+      "excerpt": "The airline said the Academy Award was safely in its care in Frankfurt and was arranging its return.",
+      "link": "https://www.bbc.com/news/articles/cz72j59znw3o?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 2h",
+      "pubDate": 1777639349.0
+    },
+    {
+      "id": "NPR--1174654255147946643",
+      "source": "NPR",
+      "title": "Record-breaking DHS shutdown ends. And, May Day protests to draw crowds nationwide",
+      "excerpt": "Congress has ended the record-breaking shutdown of the Department of Homeland Security. And, May Day demonstrations across the U.S. are expected to draw crowds protesting the Trump administration.",
+      "link": "https://www.npr.org/2026/05/01/g-s1-119694/up-first-newsletter-iran-us-strait-of-hormuz-dhs-shutdown-trump-surgeon-general",
+      "time": "Il y a 3h",
+      "pubDate": 1777635857.0
+    },
+    {
+      "id": "The Guardian--4608112617183550136",
+      "source": "The Guardian",
+      "title": "Uganda copying Russia and China with new bill designed to crush dissent, say critics",
+      "excerpt": "New law proposes up to 20 years in prison for promoting ‘foreign interests’, and restricts those who work with or are funded by overseas partners Ugandan opposition figures, human rights organisations...",
+      "link": "https://www.theguardian.com/global-development/2026/may/01/uganda-copying-russia-and-china-with-new-bill-designed-to-crush-dissent-say-critics",
+      "time": "Il y a 4h",
+      "pubDate": 1777633227.0
+    },
+    {
+      "id": "NPR--7149073921420725897",
+      "source": "NPR",
+      "title": "How well can EVs handle the heat — and the cold? AAA put them to the test",
+      "excerpt": "Electric vehicles lose some range in the winter — and, to a lesser degree, in the summer. But exactly how much? AAA has brand-new data.",
+      "link": "https://www.npr.org/2026/05/01/nx-s1-5794657/aaa-electric-vehicle-batteries-range-summer-winter",
+      "time": "Il y a 4h",
+      "pubDate": 1777633200.0
+    },
+    {
+      "id": "The Guardian-981852961265654831",
+      "source": "The Guardian",
+      "title": "Antigua and Barbuda prime minister set to win fourth term in election",
+      "excerpt": "Gaston Browne is on course to win 15 of the 17 seats in parliament after calling snap election Gaston Browne, the prime minister of Antigua and Barbuda, is set to win a fourth term in the country’s sn...",
+      "link": "https://www.theguardian.com/world/2026/may/01/antigua-barbuda-gaston-browne-win-election",
+      "time": "Il y a 4h",
+      "pubDate": 1777632884.0
+    },
+    {
+      "id": "NPR-653628426542027809",
+      "source": "NPR",
+      "title": "A tech worker in China is laid off and replaced by AI. Is it legal?",
+      "excerpt": "A tech worker in eastern China's Hangzhou city was dismissed after his job was replaced by AI. An appeals court in the city has ruled the dismissal unlawful.",
+      "link": "https://www.npr.org/2026/05/01/nx-s1-5807131/tech-worker-china-ai",
+      "time": "Il y a 5h",
+      "pubDate": 1777631751.0
+    },
+    {
+      "id": "BBC News-1226365625681436966",
+      "source": "BBC News",
+      "title": "Israel releases all but two activists in Greece after intercepting Gaza aid flotilla",
+      "excerpt": "The Global Sumud Flotilla denounced the interception as \"piracy\", while Israel's foreign ministry called the flotilla a \"PR stunt\".",
+      "link": "https://www.bbc.com/news/articles/c0m2z0k1gngo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 5h",
+      "pubDate": 1777630377.0
+    },
+    {
+      "id": "NPR--4990704128967276188",
       "source": "NPR",
       "title": "Fill in the blank for the quiz: The Trump admin took aim at _____ this week",
       "excerpt": "This week, the federal government's been busy. There are paint jobs, fresh indictments, commemorative items and more. If you've been paying attention — good job!",
       "link": "https://www.npr.org/2026/05/01/g-s1-119353/trump-kimmel-king-charles-comey-musk-news-quiz",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1777626060.0
     },
     {
-      "id": "NPR-2696118250225117241",
+      "id": "NPR--4889550578694863687",
       "source": "NPR",
       "title": "Taking a look at looksmaxxing — and what parents should know",
       "excerpt": "The trend among boys and young men of optimizing their physical appearance includes dangerous practices. Experts offer advice on how to talk to their sons about body image and healthy behaviors.",
       "link": "https://www.npr.org/2026/05/01/nx-s1-5795549/looksmaxxing-teen-boys-clavicular",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1777626060.0
     },
     {
-      "id": "NPR-2087679515538957663",
+      "id": "NPR--4307122954574836077",
       "source": "NPR",
       "title": "'Decimate' means much more today than it did in ancient Rome",
       "excerpt": "Today, most people know the word as a synonym for \"destroy.\" But fewer realize its origins — or that it's come to mean something strikingly different than it once did.",
       "link": "https://www.npr.org/2026/05/01/nx-s1-5775464/decimate-ancient-rome-punishment-trump",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1777626000.0
     },
     {
-      "id": "NPR--453510868001499494",
+      "id": "NPR--4382273159303171290",
       "source": "NPR",
       "title": "Nationwide May Day protests expected to pick up mantle of 'No Kings'",
       "excerpt": "The protest organizers are calling for a boycott of work, school and shopping to protest Trump administration policies and what activists describe as a billionaire takeover of government.",
       "link": "https://www.npr.org/2026/05/01/nx-s1-5805805/may-day-protests-boycott-schools-trump",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1777626000.0
     },
     {
-      "id": "NPR--7957708405895698158",
-      "source": "NPR",
-      "title": "Passenger railroads see a sharp jump in ridership as gas prices climb",
-      "excerpt": "More Americans are turning to the train as gas prices reach their highest point since the war in Iran began. Brightline, the privately-run railroad in Florida, had its best month ever in March.",
-      "link": "https://www.npr.org/2026/05/01/nx-s1-5801525/gas-prices-rail-ridership-jumps",
-      "time": "Il y a 5h",
-      "pubDate": 1777626000.0
-    },
-    {
-      "id": "The Guardian--1764013638628293891",
+      "id": "The Guardian-1534283503108680587",
       "source": "The Guardian",
       "title": "BAE faces £120m lawsuit over decision to scrap support for aid aircraft",
       "excerpt": "EnComm Aviation says the firm’s action has cut off vital support for crisis-hit countries including South Sudan and the DRC Britain’s biggest weapons manufacturer, BAE Systems, is facing a £120m lawsu...",
       "link": "https://www.theguardian.com/global-development/2026/may/01/bae-lawsuit-scrap-support-aid-aircraft-encomm-aviation",
-      "time": "Il y a 8h",
+      "time": "Il y a 9h",
       "pubDate": 1777615239.0
     },
     {
-      "id": "BBC News-3313458906115781262",
+      "id": "BBC News-7995606089942089667",
       "source": "BBC News",
       "title": "Brazil's Congress approves plan to drastically cut Bolsonaro's jail term",
       "excerpt": "Last year ex-president Jair Bolsonaro was sentenced to 27 years in jail for plotting a coup after losing an election.",
       "link": "https://www.bbc.com/news/articles/cqlpvl3wx4qo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 8h",
+      "time": "Il y a 9h",
       "pubDate": 1777615100.0
     },
     {
-      "id": "BBC News-4829845830900816914",
+      "id": "BBC News--5762590991628101623",
       "source": "BBC News",
       "title": "British couple jailed in Iran: 'We're likely to be here for a long time'",
       "excerpt": "Lindsay and Craig Foreman are facing the reality of a 10-year prison sentence following their arrest in Iran while on a motorcycle tour last year.",
       "link": "https://www.bbc.com/news/articles/c202pl60kv9o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 9h",
+      "time": "Il y a 10h",
       "pubDate": 1777611848.0
     },
     {
-      "id": "BBC News--198530866109388268",
+      "id": "BBC News-4255265597768713594",
       "source": "BBC News",
       "title": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
       "excerpt": "The Nobel Peace Prize laureate has been in detention since she was ousted in a military coup in 2021.",
       "link": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 10h",
+      "time": "Il y a 11h",
       "pubDate": 1777608713.0
     },
     {
-      "id": "BBC News--6046739733447557752",
+      "id": "BBC News--8998901070638151634",
       "source": "BBC News",
       "title": "Violence in Australian town after arrest of man over girl's murder",
       "excerpt": "Unrest took place outside hospital where man suspected of murdering a five-year-old girl was being treated.",
       "link": "https://www.bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 10h",
+      "time": "Il y a 11h",
       "pubDate": 1777608499.0
     },
     {
-      "id": "The Guardian-8869491057892792212",
+      "id": "The Guardian-566818654606143661",
       "source": "The Guardian",
       "title": "Iran war may cause food shortages in Africa, world’s largest fertiliser firm says",
       "excerpt": "Yara CEO warns of global auction that would leave poorest countries scrambling for supplies they can ill afford The Iran war could have “dramatic consequences”, causing food shortages and price rises...",
       "link": "https://www.theguardian.com/business/2026/may/01/iran-war-may-cause-food-shortages-in-africa-world-largest-fertiliser-firm-yara-says",
-      "time": "Il y a 10h",
+      "time": "Il y a 11h",
       "pubDate": 1777608037.0
     },
     {
-      "id": "The Guardian-7525301474001872181",
+      "id": "The Guardian-1646458821589699914",
       "source": "The Guardian",
       "title": "Australian hiker missing in Nova Scotia national park not heard from for two weeks",
       "excerpt": "Denise Ann Williams, 62, was last heard from on 15 April, when she told her family she was travelling to the west coast of Cape Breton Island in Canada’s east A search is underway in Canada for a 62-y...",
       "link": "https://www.theguardian.com/australia-news/2026/may/01/denise-williams-australian-hiker-missing-canada-nova-scotia",
-      "time": "Il y a 12h",
+      "time": "Il y a 13h",
       "pubDate": 1777602846.0
     },
     {
-      "id": "BBC News--438835315706803483",
+      "id": "BBC News--8568165421773689327",
       "source": "BBC News",
       "title": "China scraps tariffs for all but one African nation",
       "excerpt": "The zero-tariff regime gives China's soft power a boost, but may lead to uneven gains, say analysts.",
       "link": "https://www.bbc.com/news/articles/cwy2v509217o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 14h",
+      "time": "Il y a 15h",
       "pubDate": 1777593777.0
     },
     {
-      "id": "The Guardian--221920620685884717",
+      "id": "The Guardian--7529434419168919055",
       "source": "The Guardian",
       "title": "Brazil’s congress approves bill reducing prison sentence of former president Jair Bolsonaro",
       "excerpt": "President Lula’s veto of the bill was overturned by Brazil’s congress and senate, meaning it now awaits confirmation by supreme court  Brazil’s largely conservative congress has approved a bill reduci...",
       "link": "https://www.theguardian.com/world/2026/apr/30/brazils-congress-approves-bill-reducing-prison-sentence-of-former-president-jair-bolsonaro",
-      "time": "Il y a 17h",
+      "time": "Il y a 18h",
       "pubDate": 1777583935.0
     },
     {
-      "id": "The Guardian-5967667654984691087",
+      "id": "The Guardian--1775157532364276965",
       "source": "The Guardian",
       "title": "‘A new chapter’: first commercial flight from US since 2019 lands in Venezuela",
       "excerpt": "Four months after US capture of Nicolás Maduro, officials hail repairing of ties as airliner touches down in Caracas US and Venezuelan officials have hailed a new era in diplomatic relations as the fi...",
       "link": "https://www.theguardian.com/world/2026/apr/30/us-venezuela-first-direct-commercial-fight-since-2019-miami-simon-bolivar-airport",
-      "time": "Il y a 19h",
+      "time": "Il y a 20h",
       "pubDate": 1777576376.0
     },
     {
-      "id": "The Guardian--3383994081663704819",
+      "id": "The Guardian--6529319614612245606",
       "source": "The Guardian",
       "title": "South Africa deports Mugabe’s son for unrelated offences after employee shot at family home",
       "excerpt": "Bellarmine Chatunga Mugabe also fined after pleading guilty to immigration and firearms-related offences Two months after an employee was shot in the back at the Mugabe family home in a wealthy suburb...",
@@ -531,7 +531,7 @@
       "pubDate": 1777471945.0
     },
     {
-      "id": "The Guardian--2344684889974424940",
+      "id": "The Guardian--7889707529591519546",
       "source": "The Guardian",
       "title": "‘It will never cover what’s authentic’: African music industry weighs up AI risks and rewards",
       "excerpt": "Delegates at event in Cape Verde highlight opportunities from tech while stressing AI is no replacement for talent Last July, the Nigerian singer-songwriter Fave found herself caught up in a viral mom...",
@@ -540,5 +540,5 @@
       "pubDate": 1777470595.0
     }
   ],
-  "lastUpdate": "2026-05-01T14:42:06.163784"
+  "lastUpdate": "2026-05-01T15:38:34.626876"
 }
