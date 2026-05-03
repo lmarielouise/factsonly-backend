@@ -1,16 +1,25 @@
 {
   "francophone": [
     {
-      "id": "Le Monde--3155048163686638318",
+      "id": "Le Monde--3820022615225525439",
+      "source": "Le Monde",
+      "title": "Ligue 1 : Lyon domine logiquement Rennes et fait une excellente opération dans la course au podium",
+      "excerpt": "Lyon a fait une bonne opération dans la course au podium, et à la Ligue des champions, en matant Rennes 4 à 2, dimanche 3 mai en clôture de la 32e journée de Ligue 1.",
+      "link": "https://www.lemonde.fr/sport/article/2026/05/04/ligue-1-lyon-domine-logiquement-rennes-et-fait-une-excellente-operation-dans-la-course-au-podium_6685256_3242.html",
+      "time": "Il y a 13 min",
+      "pubDate": 1777846620.0
+    },
+    {
+      "id": "Le Monde--8968823326216918809",
       "source": "Le Monde",
       "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump annonce que la marine américaine va escorter des navires bloqués à travers le détroit d’Ormuz à partir de lundi",
       "excerpt": "Selon le président américain, dans un post sur sa plateforme Truth Social, les bateaux concernés appartiennent à des pays « qui ne sont pas impliqués » dans le conflit en cours. Il assure qu’il s’agit...",
       "link": "https://www.lemonde.fr/international/live/2026/05/03/en-direct-guerre-au-moyen-orient-donald-trump-annonce-que-la-marine-americaine-va-escorter-des-navires-bloques-a-travers-le-detroit-d-ormuz-a-partir-de-lundi_6684072_3210.html",
-      "time": "Il y a 26 min",
+      "time": "Il y a 1h",
       "pubDate": 1777843736.0
     },
     {
-      "id": "Le Monde--2296955189065294762",
+      "id": "Le Monde--4986942513515852745",
       "source": "Le Monde",
       "title": "Marco Rubio va se rendre à Rome et rencontrer le pape, après la vive polémique avec Donald Trump",
       "excerpt": "La visite de Marco Rubio à Rome pourrait marquer un tournant dans les relations entre Washington et le Vatican, sur fond de tensions inédites entre Donald Trump et le pape Léon XIV.",
@@ -19,7 +28,7 @@
       "pubDate": 1777841712.0
     },
     {
-      "id": "France Info--6401579475605648927",
+      "id": "France Info--1209402024008534377",
       "source": "France Info",
       "title": "Ligue 1 : Lyon éteint Rennes et prend une option pour le billet direct en Ligue des champions",
       "excerpt": "Grâce à leur victoire autoritaire dimanche face aux Rennais (4-2), les Lyonnais ont fait un grand pas vers une qualification en Ligue des champions la saison prochaine.",
@@ -28,7 +37,7 @@
       "pubDate": 1777841176.0
     },
     {
-      "id": "France Info-956262153754789669",
+      "id": "France Info--6106066717284305136",
       "source": "France Info",
       "title": "L'Inter Milan sacré champion d'Italie à trois journées de la fin de la saison de Serie A",
       "excerpt": "Les Nerazzurri ont validé leur 21e titre national en s'imposant contre Parme (2-0), dimanche.",
@@ -37,7 +46,7 @@
       "pubDate": 1777840853.0
     },
     {
-      "id": "Libération--2549541185669363517",
+      "id": "Libération--7976816564660643097",
       "source": "Libération",
       "title": "Présidentielle : pour Mélenchon, officiellement candidat, le plus dur reste à faire (et ce n’est pas gagné)",
       "excerpt": "Le chef de file de La France insoumise a annoncé, ce dimanche au 20 heures de TF1, sa candidature à l’élection présidentielle pour la quatrième fois, en se posant comme celui qui dit non aux désordres...",
@@ -46,34 +55,34 @@
       "pubDate": 1777837356.0
     },
     {
-      "id": "Libération-221607642043384569",
+      "id": "Libération-5517413602415575161",
       "source": "Libération",
       "title": "Indemnité carburant pour grands rouleurs : le dispositif ouvert à partir du 27 mai",
       "excerpt": "Sous conditions de revenus, cette indemnité est destinée aux travailleurs qui effectuent «plus de 15 kilomètres par trajet et par jour entre leur domicile et leur lieu de travail ou plus de 8 000 kilo...",
       "link": "https://www.liberation.fr/economie/transports/indemnite-carburant-pour-grands-rouleurs-le-dispositif-ouvert-a-partir-du-27-mai-20260503_XNN2TE6ZPFH6PL4STHLGWWTWWQ/",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1777835631.0
     },
     {
-      "id": "Libération-2897267001545007677",
+      "id": "Libération-8055722595508442292",
       "source": "Libération",
       "title": "Laurent Nuñez détaille son projet de loi contre «toutes les formes de séparatisme et d’entrisme»",
       "excerpt": "Il ne ciblera pas seulement «l’entrisme islamiste» a précisé le ministre de l’Intérieur qui propose un texte  plus vaste que celui de son prédécesseur Bruno Retailleau.",
       "link": "https://www.liberation.fr/politique/elections/laurent-nunez-detaille-son-projet-de-loi-contre-toutes-les-formes-de-separatisme-et-dentrisme-20260503_TEYHTZ6JTNFS3IDLWQ2JMBHYO4/",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1777835050.0
     },
     {
-      "id": "Libération-6799835024087290208",
+      "id": "Libération--8615345632151344809",
       "source": "Libération",
       "title": "De «faites mieux» à une quatrième candidature à la présidentielle : comment Mélenchon a tout fait pour ne pas être «remplacé»",
       "excerpt": "Le leader de La France insoumise a officialisé ce dimanche 3 mai sur TF1 qu’il se lançait dans une quatrième campagne présidentielle. Pourtant, au moment de sa défaite de 2022, il semblait vouloir pas...",
       "link": "https://www.liberation.fr/politique/de-faites-mieux-a-une-quatrieme-candidature-a-la-presidentielle-comment-melenchon-a-tout-fait-pour-ne-pas-etre-remplace-20260503_RMH7Q4CSVRCPLKP7DBEXCTFWLQ/",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1777834660.0
     },
     {
-      "id": "Libération--6687719735852525853",
+      "id": "Libération--492016230179221483",
       "source": "Libération",
       "title": "Mélenchon, le candidat permanent",
       "excerpt": "Le leader insoumis a annoncé dimanche qu’il serait candidat en 2027 à l’élection présidentielle pour la quatrième fois. Une décision logique au vu de ses efforts pour étouffer toute concurrence.",
@@ -82,7 +91,7 @@
       "pubDate": 1777834481.0
     },
     {
-      "id": "France Info--6445277963221378044",
+      "id": "France Info-3766493148890655939",
       "source": "France Info",
       "title": "\"Oui, je suis candidat\" à l'élection présidentielle 2027, annonce le leader de La France insoumise Jean-Luc Mélenchon",
       "excerpt": "Les élus de La France insoumise se sont rassemblés, dimanche à Paris, pour choisir leur candidat à l'élection présidentielle.",
@@ -91,7 +100,7 @@
       "pubDate": 1777834449.0
     },
     {
-      "id": "France Info-3374701438623539474",
+      "id": "France Info--6513881689547755972",
       "source": "France Info",
       "title": "F1 : Kimi Antonelli signe une troisième victoire consécutive au Grand Prix de Miami",
       "excerpt": "À 19 ans, le prodige Mercedes, qui a réalisé la course parfaite, consolide sa place de leader au classement des pilotes, dimanche.",
@@ -100,7 +109,7 @@
       "pubDate": 1777833565.0
     },
     {
-      "id": "Libération--2012483152105986617",
+      "id": "Libération--1258614988325203401",
       "source": "Libération",
       "title": "Jean-Luc Mélenchon candidat à l’élection présidentielle 2027",
       "excerpt": "Le leader insoumis a annoncé ce dimanche 3 mai son intention de se présenter une quatrième fois dans la course à l’Elysée.",
@@ -109,7 +118,7 @@
       "pubDate": 1777833259.0
     },
     {
-      "id": "Le Monde--3305288591905934276",
+      "id": "Le Monde--4078652117286726211",
       "source": "Le Monde",
       "title": "Jean-Luc Mélenchon annonce être candidat à l’élection présidentielle pour la quatrième fois, sur une ligne toujours plus « antisystème »",
       "excerpt": "En dépit de l’émergence de plusieurs figures au sein de La France insoumise et de sa promesse de laisser la place après 2022, le leader populiste a annoncé sa candidature, dimanche, sur TF1.",
@@ -118,52 +127,52 @@
       "pubDate": 1777833191.0
     },
     {
-      "id": "Libération--2047782546612391984",
+      "id": "Libération-8956373228201952283",
       "source": "Libération",
       "title": "«Nous avons beaucoup de rêves qui nous sont interdits en Iran» : en Irak, la grande solitude des Kurdes iraniens",
       "excerpt": "Malgré le cessez-le-feu régional, les Kurdes d’Iran exilés dans le pays voisin sont toujours ciblés par les drones de la république islamique. Pris dans une guerre à laquelle ils n’ont pourtant pas pa...",
       "link": "https://www.liberation.fr/international/afrique/nous-avons-beaucoup-de-reves-qui-nous-sont-interdits-en-iran-en-irak-la-grande-solitude-des-kurdes-iraniens-20260503_4YHIPEUFDBHDNDCAUIWOSY5OIE/",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1777832071.0
     },
     {
-      "id": "Libération--6422678435025044319",
+      "id": "Libération-1792089715457479594",
       "source": "Libération",
       "title": "Guerre au Moyen-Orient : l’Iran affirme que les Etats-Unis ont répondu à son plan",
       "excerpt": "L’Iran a transmis via le Pakistan un plan en 14 points visant à mettre fin au conflit dans un délai d’un mois.",
       "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-trump-pret-a-etudier-le-plan-iranien-mais-doute-quil-soit-acceptable-20260503_I7L7AFDTNJHOTIAB6RNLL7BK7Y/",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1777832045.0
     },
     {
-      "id": "Le Monde--8771526363358651732",
+      "id": "Le Monde--533442231679143801",
       "source": "Le Monde",
       "title": "« Apprendre à conduire à Paris, c’était horrible. Après vingt heures, je savais tout juste passer les vitesses » : passer le permis à la campagne, nouveau filon des citadins en galère",
-      "excerpt": "Quitter les grandes villes pour passer son permis, le tout sans se soucier du trajet ni du logement, et décrocher rapidement une date d’examen : c’est ce que proposent certaines auto-écoles. Elles se...",
+      "excerpt": "Quitter les villes pour passer son permis, le tout sans se soucier du trajet ni du logement, et décrocher rapidement une date d’examen : c’est ce que proposent certaines auto-écoles. Elles se sont pos...",
       "link": "https://www.lemonde.fr/m-perso/article/2026/05/03/apprendre-a-conduire-a-paris-c-etait-horrible-apres-vingt-heures-je-savais-tout-juste-passer-les-vitesses-passer-le-permis-a-la-campagne-nouveau-filon-des-citadins-en-galere_6685246_4497916.html",
-      "time": "Il y a 3h",
-      "pubDate": 1777831953.0
+      "time": "Il y a 4h",
+      "pubDate": 1777831948.0
     },
     {
-      "id": "France Info-601722208676408774",
+      "id": "France Info-1531036456675684312",
       "source": "France Info",
       "title": "Un foyer de syndrome respiratoire aigu provoque trois morts sur un bateau de croisière dans l'Atlantique, selon l'OMS",
       "excerpt": "Un passager a également été hospitalisé à Johannesburg. Il a été testé positif à un hantavirus, une famille de virus qui peuvent provoquer une fièvre hémorragique, selon le département sud-africain de...",
       "link": "https://www.franceinfo.fr/sante/un-foyer-de-syndrome-respiratoire-aigu-provoque-deux-morts-sur-un-bateau-de-croisiere-dans-l-atlantique_7980767.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1777831721.0
     },
     {
-      "id": "Libération-829461854222129448",
+      "id": "Libération-7562671031193914280",
       "source": "Libération",
       "title": "Après la vive polémique entre Donald Trump et le pape, le secrétaire d’Etat américain en visite de réconciliation à Rome",
       "excerpt": "Quelques semaines après des échanges tendus entre le président américain et Léon XIV, Marco Rubio va rencontrer le souverain pontife jeudi.",
       "link": "https://www.liberation.fr/international/amerique/apres-la-vive-polemique-entre-donald-trump-et-le-pape-le-secretaire-detat-americain-en-visite-de-reconciliation-a-rome-20260503_W5JCDP5BEJFA5F3DGXVBMSG6AY/",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1777831656.0
     },
     {
-      "id": "France Info--4591966883984482270",
+      "id": "France Info--2704609293021195686",
       "source": "France Info",
       "title": "Grève dans les laboratoires d'analyses : \"Augmentation des cadences\", \"salaires qui n'augmentent plus\", déplore la CGT",
       "excerpt": "\"On a également, associé à tout cela, ce qu'on appelle le management toxique\", dénonce Murielle Morand, représentante de la Fédération nationale des industries chimiques (FNIC) CGT, dimanche sur Franc...",
@@ -172,25 +181,25 @@
       "pubDate": 1777830176.0
     },
     {
-      "id": "Libération--4006463079496466911",
+      "id": "Libération-5583719342455346284",
       "source": "Libération",
       "title": "Un foyer de syndrome respiratoire aigu fait deux morts sur un bateau de croisière dans l’Atlantique",
       "excerpt": "Deux passagers du «MV Hondius», un petit navire de croisière, sont morts. Un troisième est en soins intensifs à Johannesburg, en Afrique du Sud.",
       "link": "https://www.liberation.fr/international/afrique/un-foyer-de-syndrome-respiratoire-aigu-fait-deux-morts-sur-un-bateau-de-croisiere-dans-latlantique-20260503_JIKBMJTIUJH5JDWUMHKGUZOFEA/",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1777828525.0
     },
     {
-      "id": "France Info-2994405096209533154",
+      "id": "France Info-1567959624574540941",
       "source": "France Info",
       "title": "Mort du petit Emile : les parents du garçon dénoncent les \"innombrables et scandaleuses violations du secret de l'instruction\"",
       "excerpt": "Dans une tribune publiée par le \"Journal du dimanche\", Marie et Colomban Soleil dénoncent notamment le contenu d'un livre publié récemment sur l'enquête concernant la mort de leur enfant.",
       "link": "https://www.franceinfo.fr/faits-divers/disparition-du-petit-emile/mort-du-petit-emile-les-parents-du-garcon-denoncent-les-innombrables-et-scandaleuses-violations-du-secret-de-l-instruction_7980623.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1777827708.0
     },
     {
-      "id": "France Info-1433571543830137091",
+      "id": "France Info--2099860662377368785",
       "source": "France Info",
       "title": "Free party dans le Cher : des participants verbalisés pour \"participation à une manifestation interdite\" à la sortie du Teknival",
       "excerpt": "De nombreux fêtards ont écopé d'amendes, dimanche, après avoir été contrôlés par des gendarmes aux abords du festival. Le ministre de l'Intérieur avait promis qu'ils seraient mis à l'amende deux fois,...",
@@ -199,7 +208,7 @@
       "pubDate": 1777827167.0
     },
     {
-      "id": "Le Monde--8708610081491772832",
+      "id": "Le Monde-1114188740217704432",
       "source": "Le Monde",
       "title": "Un foyer de syndrome respiratoire aigu s’est déclaré à bord du bateau de croisière « MV Hondius », trois personnes sont mortes",
       "excerpt": "« A ce jour, un cas d’infection à hantavirus a été confirmé en laboratoire, et cinq autres cas sont suspectés. Sur les six personnes touchées, trois sont mortes et une se trouve actuellement en soins...",
@@ -208,43 +217,43 @@
       "pubDate": 1777826023.0
     },
     {
-      "id": "Le Monde-6275015973990121808",
+      "id": "Le Monde-656493045483381707",
       "source": "Le Monde",
       "title": "Ce qu’il faut retenir de l’actualité du week-end des 2 et 3 mai",
       "excerpt": "Vous n’avez pas suivi l’actualité samedi 2 et dimanche 3 mai ? Voici ce qu’il s’est passé pendant ces quarante-huit dernières heures.",
       "link": "https://www.lemonde.fr/les-decodeurs/article/2026/05/03/ce-qu-il-faut-retenir-de-l-actualite-du-week-end-des-2-et-3-mai_6685242_4355770.html",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1777824762.0
     },
     {
-      "id": "Le Monde--623131727554179165",
+      "id": "Le Monde--3023270398007437341",
       "source": "Le Monde",
       "title": "A Jérusalem, un homme a été interpellé après avoir agressé une religieuse catholique française",
       "excerpt": "Les coups portés à la chercheuse à l’Ecole biblique et archéologique française ont été filmés par une caméra de vidéosurveillance. Le ministre Jean-Noël Barrot a appelé à une « sanction exemplaire pou...",
       "link": "https://www.lemonde.fr/international/article/2026/05/03/a-jerusalem-un-homme-a-ete-interpelle-apres-avoir-agresse-une-religieuse-catholique-francaise_6685241_3210.html",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1777824498.0
     },
     {
-      "id": "France Info-4558334236813595055",
+      "id": "France Info-1618029291353767583",
       "source": "France Info",
       "title": "Champions Cup : en patron, l'Union Bordeaux-Bègles surclasse Bath et défendra son titre en finale face au Leinster",
       "excerpt": "Les Bordelais, tenants du titre, ont brillé face aux redoutables Anglais (38-26), dimanche, pour se qualifier pour leur deuxième finale de suite en Champions cup.",
       "link": "https://www.franceinfo.fr/sports/rugby/champions-cup/champions-cup-en-patron-l-union-bordeaux-begle-surclasse-bath-et-s-offre-une-nouvelle-finale-ou-elle-affrontera-leinster-pour-le-titre_7980569.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1777824180.0
     },
     {
-      "id": "Le Monde--5421069135293721266",
+      "id": "Le Monde--4713428326314485335",
       "source": "Le Monde",
       "title": "Laurent Nuñez : « Moi, je n’ai pas de problème avec l’islam en France, mais je combats ceux qui l’utilisent pour porter atteinte à notre République »",
       "excerpt": "Le ministre de l’intérieur donne sa vision des rapports entre l’islam et la République. Il dévoile le contenu de son projet de loi destiné à lutter contre le séparatisme et l’entrisme.",
       "link": "https://www.lemonde.fr/societe/article/2026/05/03/laurent-nunez-moi-je-n-ai-pas-de-probleme-avec-l-islam-en-france-mais-je-combats-ceux-qui-l-utilisent-pour-porter-atteinte-a-notre-republique_6685238_3224.html",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1777823826.0
     },
     {
-      "id": "France Info--3972164680838035423",
+      "id": "France Info--6086655256533565288",
       "source": "France Info",
       "title": "\"Il devrait voir le désastre qu'il a causé\" : on vous explique la dégradation des relations entre Donald Trump et l'Allemagne autour de l'intervention en Iran",
       "excerpt": "Le chancelier allemand Friedrich Merz, qui veille à sa relation avec le président américain, a qualifié \"d'irréfléchie\" l'intervention des Etats-Unis en Iran.",
@@ -253,51 +262,33 @@
       "pubDate": 1777816024.0
     },
     {
-      "id": "Le Monde--2571598660914399740",
+      "id": "Le Monde--4970062612051363645",
       "source": "Le Monde",
       "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky se félicite des attaques sur le port russe de Primorsk, vital à l’exportation de pétrole",
       "excerpt": "Le président ukrainien a fait état de nouvelles frappes, dimanche, contre plusieurs cibles se trouvant dans ce port, notamment un navire porte-missile et un pétrolier de la flotte fantôme russe.",
       "link": "https://www.lemonde.fr/international/live/2026/05/03/en-direct-guerre-en-ukraine-volodymyr-zelensky-se-felicite-des-attaques-sur-le-port-russe-de-primorsk-vital-a-l-exportation-de-petrole_6684995_3210.html",
-      "time": "Il y a 8h",
+      "time": "Il y a 9h",
       "pubDate": 1777814499.0
-    },
-    {
-      "id": "Le Monde--8916139873253710391",
-      "source": "Le Monde",
-      "title": "Après le « teknival de Bourges », le ministre de l’intérieur, Laurent Nuñez, promet de « mieux réprimer » les « rassemblements musicaux illégaux »",
-      "excerpt": "Selon la préfecture, 17 000 personnes étaient toujours présentes dimanche matin sur le terrain militaire, où il n’y a eu aucun incident grave depuis vendredi. Les organisateurs ont délibérément choisi...",
-      "link": "https://www.lemonde.fr/societe/article/2026/05/03/teknival-pres-de-bourges-laurent-nunez-attendu-sur-place-17-000-personnes-participent-au-troisieme-jour-de-la-free-party_6685215_3224.html",
-      "time": "Il y a 12h",
-      "pubDate": 1777800799.0
     }
   ],
   "anglophone": [
     {
-      "id": "BBC News--39330648859786523",
-      "source": "BBC News",
-      "title": "Iran says US has responded to its latest peace proposal",
-      "excerpt": "The US is yet to formally confirm it has responded. However, Trump reportedly told Israel's Kan News it was unacceptable.",
-      "link": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 27 min",
-      "pubDate": 1777843689.0
-    },
-    {
-      "id": "NPR-2442359818982383574",
+      "id": "NPR--6575872670313284824",
       "source": "NPR",
-      "title": "Pellet found in Secret Service agent's vest links suspect to WHCD attack, Pirro says",
-      "excerpt": "The pellet \"definitively\" links the suspect, Cole Tomas Allen, to the attack, U.S. Attorney Jeanine Pirro told CNN on Sunday.",
-      "link": "https://www.npr.org/2026/05/03/nx-s1-5809482/correspondents-dinner-shooter-bullet-vest-secret-service",
-      "time": "Il y a 46 min",
-      "pubDate": 1777842560.0
+      "title": "Gas prices went up more than 30 cents a gallon last week. How high could they go?",
+      "excerpt": "U.S. gas prices were nearly $3 an average prior to the start of the war in Iran.",
+      "link": "https://www.npr.org/2026/05/03/nx-s1-5809433/gas-prices-rise-week-hormuz-iran-war",
+      "time": "Il y a 6 min",
+      "pubDate": 1777847077.0
     },
     {
-      "id": "BBC News-5659145540371086889",
+      "id": "BBC News--7892091958615097619",
       "source": "BBC News",
       "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
       "excerpt": "The World Health Organization said one case of hantavirus infection has been confirmed, with five more suspected cases under investigation.",
       "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 1h",
-      "pubDate": 1777840594.0,
+      "time": "Il y a 17 min",
+      "pubDate": 1777846416.0,
       "sources": [
         "BBC News",
         "The Guardian"
@@ -306,16 +297,34 @@
       "sourceCount": 2
     },
     {
-      "id": "BBC News--1711012296909863760",
+      "id": "BBC News--5794926399300093429",
+      "source": "BBC News",
+      "title": "Iran says US has responded to its latest peace proposal",
+      "excerpt": "The US is yet to formally confirm it has responded. However, Trump reportedly told Israel's Kan News it was unacceptable.",
+      "link": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 1h",
+      "pubDate": 1777843689.0
+    },
+    {
+      "id": "NPR-5768240828282116562",
+      "source": "NPR",
+      "title": "Pellet found in Secret Service agent's vest links suspect to WHCD attack, Pirro says",
+      "excerpt": "The pellet \"definitively\" links the suspect, Cole Tomas Allen, to the attack, U.S. Attorney Jeanine Pirro told CNN on Sunday.",
+      "link": "https://www.npr.org/2026/05/03/nx-s1-5809482/correspondents-dinner-shooter-bullet-vest-secret-service",
+      "time": "Il y a 1h",
+      "pubDate": 1777842560.0
+    },
+    {
+      "id": "BBC News--954003792755615949",
       "source": "BBC News",
       "title": "Two US service members reported missing in Morocco, officials say",
       "excerpt": "A search and rescue operation is underway for the service members, who are believed to have been involved in an accident, according to authorities.",
       "link": "https://www.bbc.com/news/articles/cn7prznmllko?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1777829241.0
     },
     {
-      "id": "BBC News--5174712884905996979",
+      "id": "BBC News--930755539991438735",
       "source": "BBC News",
       "title": "Police officer lowered into crocodile-infested river to recover human remains",
       "excerpt": "Police suspect the human remains belong to a businessman swept away by floodwater last week.",
@@ -324,16 +333,16 @@
       "pubDate": 1777823279.0
     },
     {
-      "id": "The Guardian-7288678296939997069",
+      "id": "The Guardian--7699543737602229953",
       "source": "The Guardian",
       "title": "Canada to be first non-European nation at EPC summit as Carney seeks allies",
       "excerpt": "PM’s attendance at European Political Community meeting in Yerevan seen as part of effort to build new ties after US rupture Canada is to become the first non-European country to attend a meeting of t...",
       "link": "https://www.theguardian.com/world/2026/may/03/canada-first-non-european-nation-epc-summit-mark-carney-allies-trump",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1777820234.0
     },
     {
-      "id": "BBC News-471683375656864522",
+      "id": "BBC News-8055958943975921124",
       "source": "BBC News",
       "title": "Concern for jailed Iranian Nobel laureate as brother fears she is dying",
       "excerpt": "Her family said the 54-year-old had been taken from prison to a local hospital after a sharp deterioration in her health.",
@@ -342,7 +351,7 @@
       "pubDate": 1777819444.0
     },
     {
-      "id": "BBC News--7830560242962980079",
+      "id": "BBC News-1941172689117998473",
       "source": "BBC News",
       "title": "Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
       "excerpt": "Fatalities have been reported around Ukraine as Kyiv says Russian \"shadow fleet\" tankers were hit by drones.",
@@ -351,61 +360,61 @@
       "pubDate": 1777815800.0
     },
     {
-      "id": "The Guardian-1737331031923618642",
+      "id": "The Guardian-4795310339239717462",
       "source": "The Guardian",
       "title": "Two US service members missing after military exercises in Morocco",
       "excerpt": "Search and rescue operation launched after service members reported missing near south-western city of Tan Tan Two US service members are missing in south-western <a href=\"https://www.theguardian.com/...",
       "link": "https://www.theguardian.com/us-news/2026/may/03/service-members-missing-military-exercises-morocco",
-      "time": "Il y a 9h",
+      "time": "Il y a 10h",
       "pubDate": 1777811039.0
     },
     {
-      "id": "NPR-7596417399227143023",
+      "id": "NPR-4097420826330455700",
       "source": "NPR",
       "title": "'I just want to see her again' says son of imprisoned Myanmar ex-leader Aung San Suu Kyi",
       "excerpt": "On Thursday, authorities in Myanmar claimed they had transferred Nobel laureate Aung San Suu Kyi from prison to house arrest. Her son Kim Aris spoke to NPR about his doubts about the regime's account.",
       "link": "https://www.npr.org/2026/05/03/nx-s1-5808875/aung-san-suu-kyi-myanmar-son-house-arrest",
-      "time": "Il y a 9h",
+      "time": "Il y a 10h",
       "pubDate": 1777810027.0
     },
     {
-      "id": "BBC News-2876205152668704919",
+      "id": "BBC News--5039363993398245022",
       "source": "BBC News",
       "title": "Nigeria summons South African envoy over attacks on its nationals",
       "excerpt": "There has been a wave of anti-migrant protests in South Africa, some of which have turned violent.",
       "link": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 11h",
+      "time": "Il y a 12h",
       "pubDate": 1777803361.0
     },
     {
-      "id": "NPR-1433990840296685165",
+      "id": "NPR-2477153121803379467",
       "source": "NPR",
       "title": "He recorded his quest for tariff refunds. It shows why billions may never get repaid",
       "excerpt": "After the Supreme Court struck down most of President Trump's tariffs, Richard Brown began lining up the paperwork he needed to get his refund. Experts say many businesses may never get their money ba...",
       "link": "https://www.npr.org/2026/05/03/nx-s1-5805045/tariff-refunds-small-business",
-      "time": "Il y a 11h",
+      "time": "Il y a 12h",
       "pubDate": 1777802400.0
     },
     {
-      "id": "NPR--9141949827354231429",
+      "id": "NPR-2992076120604558239",
       "source": "NPR",
       "title": "Why this tribe is buying up hundreds of acres of farmland — and flooding it",
       "excerpt": "The Stillaguamish Tribe in Washington state has been buying land in its traditional territory and removing levees. The goal is to turn farmland into wetlands with the hopes of restoring Chinook salmon...",
       "link": "https://www.npr.org/2026/05/03/nx-s1-5806062/washington-tribe-restore-wetlands-fish",
-      "time": "Il y a 12h",
+      "time": "Il y a 13h",
       "pubDate": 1777798800.0
     },
     {
-      "id": "NPR--5212786714767396459",
+      "id": "NPR--5355482903096104520",
       "source": "NPR",
       "title": "How algorithms wreaked havoc with these workers' schedules and cut their pay",
       "excerpt": "Hourly workers across a number of industries have long been grappling with unstable schedules and pay as their employers use software to slash labor costs and maximize productivity.",
       "link": "https://www.npr.org/2026/05/03/nx-s1-5786926/jobs-labor-productivity-languageline-unionize",
-      "time": "Il y a 12h",
+      "time": "Il y a 13h",
       "pubDate": 1777798800.0
     },
     {
-      "id": "BBC News--2447919165480264533",
+      "id": "BBC News-7777257444868558832",
       "source": "BBC News",
       "title": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
       "excerpt": "The chairs of the House and Senate armed services committees said withdrawing 5,000 service personnel risked undermining deterrence.",
@@ -414,25 +423,25 @@
       "pubDate": 1777797683.0
     },
     {
-      "id": "NPR--1328499583942596010",
+      "id": "NPR-3219840563446880823",
       "source": "NPR",
       "title": "Germany says U.S. troop withdrawal 'anticipated', Spain and Italy could be next",
       "excerpt": "Germany's defense minister is playing down the impact of the Pentagon's decision to pull 5,000 troops from the country, but the move has rattled NATO allies and added to growing fears that Europe can...",
       "link": "https://www.npr.org/2026/05/02/nx-s1-5808891/europe-allies-germany-troop-withdrawal-us",
-      "time": "Il y a 20h",
+      "time": "Il y a 21h",
       "pubDate": 1777769879.0
     },
     {
-      "id": "NPR-5533423801204833755",
+      "id": "NPR-2886376575972898244",
       "source": "NPR",
       "title": "Bard College's president to retire after scrutiny of relationship with Jeffrey Epstein",
       "excerpt": "The longtime president of Bard College in New York has announced his retirement, months after it was revealed that he had a much deeper relationship than was previously known with Jeffrey Epstein.",
       "link": "https://www.npr.org/2026/05/02/nx-s1-5808942/bard-college-president-leon-botstein-retire-jeffrey-epstein",
-      "time": "Il y a 21h",
+      "time": "Il y a 22h",
       "pubDate": 1777766970.0
     },
     {
-      "id": "NPR--2240356424100925237",
+      "id": "NPR--9108210735349904700",
       "source": "NPR",
       "title": "Golden Tempo takes the Kentucky Derby as Cherie DeVaux becomes the 1st woman to train its winner",
       "excerpt": "Golden Tempo has won the Kentucky Derby at odds of 23-1 to make Cherie DeVaux the first woman to train the winner of the opening leg of the Triple Crown.",
@@ -441,7 +450,7 @@
       "pubDate": 1777765478.0
     },
     {
-      "id": "NPR-6345153695136669989",
+      "id": "NPR--8173105317852175167",
       "source": "NPR",
       "title": "Iran submits 14-point response to U.S. proposal to end war",
       "excerpt": "Iran has presented a 14-point response to the U.S. proposal to end the war, according to Iranian state media.",
@@ -450,34 +459,25 @@
       "pubDate": 1777764901.0
     },
     {
-      "id": "BBC News--7005535030439149511",
+      "id": "BBC News-7484451389181202175",
       "source": "BBC News",
       "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
       "excerpt": "President Zelensky has been visiting the Gulf to demonstrate his country's military nous.",
       "link": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 22h",
+      "time": "Il y a 23h",
       "pubDate": 1777763967.0
     },
     {
-      "id": "BBC News-1514578438351291480",
+      "id": "BBC News--6615111802577954070",
       "source": "BBC News",
       "title": "The clandestine network smuggling Starlink tech into Iran to beat internet blackout",
       "excerpt": "Sahand tells the BBC World Service he sends satellite internet terminals into Iran to help show \"the real picture\".",
       "link": "https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 22h",
+      "time": "Il y a 23h",
       "pubDate": 1777763837.0
     },
     {
-      "id": "NPR-3680727404546979065",
-      "source": "NPR",
-      "title": "Timmy the stranded whale rescued after weekslong effort",
-      "excerpt": "Timmy captured the hearts of whale lovers across the globe who rooted for a happy ending for the humpback.",
-      "link": "https://www.npr.org/2026/05/02/g-s1-119913/timmy-the-stranded-whale-rescued-after-weekslong-effort",
-      "time": "Il y a 1j",
-      "pubDate": 1777755084.0
-    },
-    {
-      "id": "The Guardian--7991410981123299477",
+      "id": "The Guardian-1129922785262846687",
       "source": "The Guardian",
       "title": "Zambia cancels world’s largest human rights and tech summit days before start",
       "excerpt": "Government blocks RightsCon 2026 conference saying it did not ‘align with national values’ The world’s largest conference on human rights and technology has been cancelled just days before it was due...",
@@ -486,7 +486,7 @@
       "pubDate": 1777719624.0
     },
     {
-      "id": "The Guardian-8695566979224597397",
+      "id": "The Guardian--59858596990872628",
       "source": "The Guardian",
       "title": "German museum to return rare Irritator dinosaur skull to Brazil",
       "excerpt": "Spinosaurid fossil bought by Stuttgart institution in 1991 has been the subject of a long restitution campaign It is a 113-million-year-old bone of contention. After Stuttgart’s museum of natural hist...",
@@ -495,7 +495,7 @@
       "pubDate": 1777716023.0
     },
     {
-      "id": "The Guardian-4710915512141518828",
+      "id": "The Guardian-7562740945779508556",
       "source": "The Guardian",
       "title": "First malaria drug for babies is approved in ‘major public health milestone’",
       "excerpt": "WHO prequalification of Coartem Baby means newborns can be safely treated rather than using medication for older children The first malaria treatment for babies has been approved by the World Health O...",
@@ -504,7 +504,7 @@
       "pubDate": 1777701618.0
     },
     {
-      "id": "The Guardian--1227451005257492882",
+      "id": "The Guardian--6863636476194341823",
       "source": "The Guardian",
       "title": "Cuba says Trump’s fresh sanctions on its economy amount to ‘collective punishment’",
       "excerpt": "The US sanctions target people operating in broad sections of Cuban economy, including energy, defence and mining  Cuba’s government has said new sanctions imposed on the island by Donald Trump amount...",
@@ -513,7 +513,7 @@
       "pubDate": 1777685661.0
     },
     {
-      "id": "The Guardian--5195490582787396554",
+      "id": "The Guardian--4488091826527986973",
       "source": "The Guardian",
       "title": "Pope appoints former undocumented immigrant as bishop of West Virginia",
       "excerpt": "Leo, who has criticized Trump’s hardline immigration policy, selected Evelio Menjivar-Ayala as state’s new bishop <ul><li><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking...",
@@ -522,7 +522,7 @@
       "pubDate": 1777662940.0
     },
     {
-      "id": "The Guardian-5268471183731508541",
+      "id": "The Guardian--165667694480002101",
       "source": "The Guardian",
       "title": "Sabastian Sawe receives hero’s welcome in Kenya after sub-two hour marathon feat",
       "excerpt": "Record-breaker says London Marathon win was ‘a victory for all of us’ as he is greeted by family and friends in Eldoret Hugged, cheered and adorned with garlands, the first man to run an official mara...",
@@ -531,7 +531,7 @@
       "pubDate": 1777654224.0
     },
     {
-      "id": "The Guardian--8092013251748234997",
+      "id": "The Guardian--935463125000263718",
       "source": "The Guardian",
       "title": "Could Santa Marta climate talks mark ground zero in push to ditch fossil fuels?",
       "excerpt": "Colombia hosted nearly 60 countries at pivotal time on world stage for fight to transition to a clean energy future Looking out to sea from the grey sandy beaches of Santa Marta, on Colombia’s Caribbe...",
@@ -540,5 +540,5 @@
       "pubDate": 1777645169.0
     }
   ],
-  "lastUpdate": "2026-05-03T21:55:48.907465"
+  "lastUpdate": "2026-05-03T22:30:56.945224"
 }
