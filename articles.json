@@ -1,151 +1,169 @@
 {
   "francophone": [
     {
-      "id": "France Info-8847310085143474130",
+      "id": "Le Monde-6693505426720313643",
+      "source": "Le Monde",
+      "title": "La France déploie le porte-avions « Charles de Gaulle » en direction du golfe d’Aden et se tient prête à agir pour débloquer le détroit d’Ormuz",
+      "excerpt": "La fermeture du couloir maritime par Téhéran depuis le déclenchement de la guerre des Etats-Unis et d’Israël contre l’Iran, le 28 février, a provoqué une envolée des cours du pétrole et a déstabilisé...",
+      "link": "https://www.lemonde.fr/international/article/2026/05/07/la-france-deploie-le-porte-avions-charles-de-gaulle-en-direction-du-golfe-d-aden-et-se-tient-prete-a-agir-pour-debloquer-le-detroit-d-ormuz_6686245_3210.html",
+      "time": "Il y a 7 min",
+      "pubDate": 1778109742.0
+    },
+    {
+      "id": "Le Monde-506366236061216502",
+      "source": "Le Monde",
+      "title": "EN DIRECT, guerre en Ukraine : Moscou appelle les ambassades étrangères à Kiev à évacuer leur personnel en raison d’éventuels bombardements de représailles le 9 mai",
+      "excerpt": "Cet avertissement intervient quelques heures après que la Russie a annoncé mercredi la tenue d’essais de missiles capables de transporter des charges nucléaires sur le polygone de Koura, dans la pénin...",
+      "link": "https://www.lemonde.fr/international/live/2026/05/07/en-direct-guerre-en-ukraine-moscou-appelle-les-ambassades-etrangeres-a-kiev-a-evacuer-leur-personnel-en-raison-d-eventuels-bombardements-de-represailles-le-9-mai_6684995_3210.html",
+      "time": "Il y a 8 min",
+      "pubDate": 1778109685.0
+    },
+    {
+      "id": "Le Monde--7302123790788934051",
+      "source": "Le Monde",
+      "title": "Anthropic, en difficulté pour satisfaire la demande de son modèle d’IA, loue le plus gros centre de données d’Elon Musk",
+      "excerpt": "Cet accord permettra sans délai à l’entreprise, rivale d’OpenAI, d’augmenter les quotas d’utilisation de son modèle Claude.",
+      "link": "https://www.lemonde.fr/economie/article/2026/05/07/anthropic-en-difficulte-pour-satisfaire-la-demande-de-son-modele-d-ia-loue-le-plus-gros-centre-de-donnees-d-elon-musk_6686212_3234.html",
+      "time": "Il y a 13 min",
+      "pubDate": 1778109381.0
+    },
+    {
+      "id": "France Info--2791731710363838730",
       "source": "France Info",
       "title": "Le \"MV Hondius\", suspecté d'être un foyer d'hantavirus, est en route pour Tenerife, arrivée prévue  \"dans trois jours\"",
       "excerpt": "Immobilisé depuis dimanche, le bateau a quitté sa zone de mouillage au large du Cap-Vert, mercredi soir. L'évacuation des passagers démarrera lundi.",
       "link": "https://www.franceinfo.fr/sante/le-mv-hondius-suspecte-d-etre-un-foyer-d-hantavirus-a-quitte-le-cap-vert-arrivee-prevue-a-tenerife-dans-trois-jours_7987703.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 33 min",
+      "time": "Il y a 1h",
       "pubDate": 1778104821.0
     },
     {
-      "id": "Le Monde--5122044884897089905",
+      "id": "Le Monde-2390586886787186209",
       "source": "Le Monde",
-      "title": "Projet de loi d’urgence agricole : le texte adopté par les députés en commission",
-      "excerpt": "Le projet de loi,  qui contient notamment des mesures sur le stockage de l’eau et l’élevage, sera débattu à partir du 19 mai dans l’hémicycle de l’Assemblée nationale.",
+      "title": "Projet de loi d’urgence agricole : le texte adopté par les députés en commission",
+      "excerpt": "Le projet de loi, qui contient notamment des mesures sur le stockage de l’eau et l’élevage, sera débattu à partir du 19 mai dans l’hémicycle de l’Assemblée nationale.",
       "link": "https://www.lemonde.fr/planete/article/2026/05/06/projet-de-loi-d-urgence-agricole-le-texte-adopte-par-les-deputes-en-commission_6686179_3244.html",
-      "time": "Il y a 37 min",
-      "pubDate": 1778104569.0
+      "time": "Il y a 1h",
+      "pubDate": 1778104562.0
     },
     {
-      "id": "France Info--2292389370291374222",
+      "id": "France Info-2947715151756271644",
       "source": "France Info",
       "title": "Les \"frappes\" qui ont visé les Emirats arabes unis et \"plusieurs navires\" sont \"injustifiées\", déplore Emmanuel Macron auprès du président iranien",
       "excerpt": "Lors d'un nouvel entretien avec Massoud Pezeshkian, mercredi, le président français lui a dit sa \"vive préoccupation sur l'escalade en cours\".",
       "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/emmanuel-macron-condamne-aupres-du-president-iranien-les-frappes-injustifiees-qui-ont-vise-les-emirats-arabes-unis-et-plusieurs-navires_7987781.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 41 min",
+      "time": "Il y a 1h",
       "pubDate": 1778104320.0
     },
     {
-      "id": "France Info--3122878587715062961",
+      "id": "France Info--276197155418419938",
       "source": "France Info",
       "title": "\"Il faut un donneur compatible à 100% pour maximiser les chances de guérison\", le papa d'Elio, 4 ans, recherche un donneur pour sauver son fils atteint d'une leucémie rare",
       "excerpt": "Thomas Papavoine, recherche un donneur pour sauver son fils, Elio, 4 ans, atteint d’une leucémie rare.",
       "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/il-faut-un-donneur-compatible-a-100-pour-maximiser-les-chances-de-guerison-le-papa-d-elio-4-ans-recherche-un-donneur-pour-sauver-son-fils-atteint-d-une-leucemie-rare_7987823.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 47 min",
+      "time": "Il y a 1h",
       "pubDate": 1778103975.0
     },
     {
-      "id": "Le Monde-2201111027773669101",
+      "id": "Le Monde--8190864829569934796",
       "source": "Le Monde",
       "title": "Bayern Munich-PSG : le résumé de la qualification haletante des Parisiens, finaliste de la Ligue des champions pour la seconde saison consécutive",
       "excerpt": "Repris en fin de rencontre en Bavière (1-1), le Paris Saint-Germain a pu profiter de son avantage décroché à l’aller (5-4) pour se qualifier en finale de la Ligue des champions. Les Parisiens y défend...",
       "link": "https://www.lemonde.fr/sport/article/2026/05/06/bayern-munich-psg-le-resume-de-la-qualification-haletante-des-parisiens-finaliste-de-la-ligue-des-champions-pour-la-seconde-saison-consecutive_6686178_3242.html",
-      "time": "Il y a 52 min",
+      "time": "Il y a 1h",
       "pubDate": 1778103631.0
     },
     {
-      "id": "France Info-796705108036856850",
+      "id": "France Info--1659858266175503088",
       "source": "France Info",
       "title": "André Cerdini, président du procès historique de Klaus Barbie, est mort à l'âge de 96 ans",
       "excerpt": "En juillet 1987, la justice a condamné celui qu'on surnommait le \"boucher de Lyon\" à la réclusion criminelle à perpétuité. Le procès, historique, avait duré huit semaines.",
       "link": "https://www.franceinfo.fr/faits-divers/justice-proces/andre-cerdini-president-du-proces-historique-de-klaus-barbie-est-mort-a-l-age-de-96-ans_7987871.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 53 min",
+      "time": "Il y a 1h",
       "pubDate": 1778103612.0
     },
     {
-      "id": "France Info--2069670899631417971",
+      "id": "France Info-4446938649890350952",
       "source": "France Info",
       "title": "Une collégienne de 14 ans tuée à l'arme blanche dans l'Aisne, un homme de 23 ans interpellé",
       "excerpt": "Le drame est survenu à Fère-en-Tardenois. D'importants moyens ont été déployés pour retrouver l'auteur en fuite. Une enquête pour assassinat a été ouverte.",
       "link": "https://www.franceinfo.fr/faits-divers/une-collegienne-de-14-ans-tuee-a-l-arme-blanche-dans-l-aisne_7987511.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1778102891.0
     },
     {
-      "id": "Libération-1762294033539476214",
+      "id": "Libération-1849745592364468053",
       "source": "Libération",
       "title": "Bayern-PSG : revivez la qualification des Parisiens pour la finale de la Ligue des champions",
       "excerpt": "Les hommes de Luis Enrique, après un match aller dantesque, se sont qualifiés ce mercredi soir en Bavière lors d’un retour au sommet. Ils défieront Arsenal en finale le 30 mai.",
       "link": "https://www.liberation.fr/sports/football/en-direct-bayern-psg-suivez-la-demi-finale-retour-de-ligue-des-champions-avec-lequipe-de-libe-20260506_E2DFVXGONBGHPBFHHNMY5QZSCU/",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1778102255.0
     },
     {
-      "id": "France Info--2350990078376183131",
+      "id": "France Info-8627329981099168003",
       "source": "France Info",
       "title": "Ligue des champions : insubmersible, le PSG résiste au Bayern Munich et défendra son titre en finale contre Arsenal",
       "excerpt": "Déjà vainqueur au match aller, l'équipe de Luis Enrique a résisté (1-1) au retour des Bavarois qui n'ont égalisé qu'en toute fin de partie, mercredi soir.",
       "link": "https://www.franceinfo.fr/sports/foot/ligue-des-champions/ligue-des-champions-insubmersible-le-psg-resiste-au-bayern-munich-et-defiera-arsenal-pour-sa-deuxieme-finale-consecutive_7987691.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1778102196.0
     },
     {
-      "id": "Libération-3766472487114013794",
+      "id": "Libération--8220522707811784456",
       "source": "Libération",
       "title": "Ligue des champions : le Paris-SG en finale après un match Munich en son genre",
-      "excerpt": "Après le score fleuve à l’aller (5-4), Paris, malgré un match nul à l’Allianz Arena (1-1), a remporté sa demi-finale face au Bayern, au terme d’un match maîtrisé de bout en bout. Le Paris-SG, tenant d...",
+      "excerpt": "Après le score fleuve à l’aller (5-4), Paris, qui a décroché un nul à l’Allianz Arena (1-1), a remporté sa demi-finale face au Bayern, au terme d’un match maîtrisé de bout en bout. Le Paris-SG, tenant...",
       "link": "https://www.liberation.fr/sports/football/ligue-des-champions-le-paris-sg-en-finale-apres-un-match-munich-en-son-genre-20260506_UZ3JYOQQDBAJZPA5RDGXDOLJ6U/",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1778102153.0
     },
     {
-      "id": "France Info--4866281647235294151",
+      "id": "France Info-5781760307532470893",
       "source": "France Info",
       "title": "L'armée israélienne annonce ouvrir une enquête après qu'un soldat a été photographié mettant une cigarette dans la bouche d'une statue de la Vierge Marie au Liban",
       "excerpt": "Si le cliché a été diffusé en ligne mercredi, il aurait été pris \"il y a plusieurs semaines\", selon les premiers éléments dont dispose l'armée israélienne.",
       "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-armee-israelienne-annonce-ouvrir-une-enquete-apres-qu-un-soldat-a-ete-photographie-en-train-de-mettre-une-cigarette-dans-la-bouche-d-une-statue-de-la-vierge-marie-au-liban_7987829.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1778101164.0
     },
     {
-      "id": "Libération--915788853715862936",
+      "id": "Libération-408285500520478249",
       "source": "Libération",
       "title": "Quid du droit face aux tempêtes du siècle ?",
       "excerpt": "«L’Internationale des rivières» et «Liberté, dignité, habitabilité» imaginent des solutions juridiques à l’urgence climatique.",
       "link": "https://www.liberation.fr/culture/livres/quid-du-droit-face-aux-tempetes-du-siecle-20260506_JZ76Q4ICS5GOVFU555U5QO7OXQ/",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1778099340.0
     },
     {
-      "id": "Libération-2290351039596181309",
+      "id": "Libération-2090213083449552494",
       "source": "Libération",
       "title": "Hantavirus sur le navire «MV Hondius» : un premier avion médical a atterri aux Pays-Bas ce mercredi",
       "excerpt": "Un second appareil avait décollé du Cap Vert ce mercredi et devait atterrir à Amsterdam ce mercredi avec deux malades à bord. Mais une «panne technique» a contraint l’équipage à faire escale à Tenerif...",
       "link": "https://www.liberation.fr/societe/sante/hantavirus-un-passager-de-la-croisiere-est-bien-infecte-par-la-souche-des-andes-transmissible-entre-humains-20260506_ULTWPVNSJ5BONHGAFTYRVEBVLY/",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1778098592.0
     },
     {
-      "id": "Libération-7814527821945700149",
+      "id": "Libération--5601453369352447569",
       "source": "Libération",
       "title": "Secteur aérien : la compagnie AirAsia commande 150 Airbus A220-300, un «accord historique»",
       "excerpt": "Le contrat annoncé ce mercredi 6 mai depuis la banlieue de Montréal, au Canada, représente la plus importante commande ferme unique jamais enregistrée pour l’A220.",
       "link": "https://www.liberation.fr/international/asie-pacifique/secteur-aerien-la-compagnie-airasia-commande-150-airbus-a220-300-un-accord-historique-20260506_AS4DGULOCFD7ZOMSVVWHSH73ZM/",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1778097728.0
     },
     {
-      "id": "Libération-1192493975711296663",
+      "id": "Libération-2561865997580130104",
       "source": "Libération",
       "title": "Le FBI enquête sur les sources d’un article accablant pour son directeur Kash Patel",
       "excerpt": "Après avoir porté plainte pour diffamation contre «The Atlantic» qui évoquait en avril dans ses colonnes l’alcoolisme du patron du FBI, celui-ci aurait lancé une enquête pour identifier les informateu...",
       "link": "https://www.liberation.fr/international/amerique/le-fbi-enquete-sur-les-sources-dun-article-accablant-pour-son-directeur-kash-patel-20260506_AK6CZPUB2ZDF5CE2NKX7HU4LUE/",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1778097080.0
     },
     {
-      "id": "Le Monde--6683926719884118924",
-      "source": "Le Monde",
-      "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump juge qu’un accord avec l’Iran est « très possible » ; l’armée américaine dit avoir « neutralisé » un navire dans le golfe d’Oman",
-      "excerpt": "« Nous avons eu de très bonnes discussions dans les dernières vingt-quatre heures, et il est très possible que nous passions un accord », a dit le président américain pendant un échange avec des journ...",
-      "link": "https://www.lemonde.fr/international/live/2026/05/06/en-direct-guerre-au-moyen-orient-donald-trump-juge-qu-un-accord-avec-l-iran-est-tres-possible-l-armee-americaine-dit-avoir-neutralise-un-navire-dans-le-golfe-d-oman_6684072_3210.html",
-      "time": "Il y a 2h",
-      "pubDate": 1778097058.0
-    },
-    {
-      "id": "Libération-1629845056168830597",
+      "id": "Libération--1817957904539877568",
       "source": "Libération",
       "title": "Bally Bagayoko refuse d’accrocher le portrait de Macron dans son bureau malgré la demande du préfet",
       "excerpt": "Le maire LFI de Saint-Denis (93) n’a pas accédé ce mercredi à l’appel de Julien Charles qui lui demandait de changer d’avis au nom de «la tradition républicaine». L’édile insoumis considère que sa «dé...",
@@ -154,52 +172,43 @@
       "pubDate": 1778095945.0
     },
     {
-      "id": "Libération-1593609313560407070",
+      "id": "Libération--269930304556255849",
       "source": "Libération",
       "title": "Guerre au Moyen-Orient : Donald Trump juge «très possible» un accord sur la fin de la guerre avec l’Iran",
       "excerpt": "Téhéran a expliqué ce mercredi «examiner» la proposition de paix formulée par les Etats-Unis, qui menacent de nouveaux bombardements.",
       "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-trump-suspend-son-operation-descorte-de-navires-a-ormuz-dans-lespoir-dun-accord-avec-liran-20260506_YYPPNTN55JB53H5KKIBUGIOWWE/",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1778095276.0
     },
     {
-      "id": "Libération--1353360865675737820",
+      "id": "Libération-5211741435850738281",
       "source": "Libération",
       "title": "Mort d’un nourrisson à Angers en décembre : le lait contaminé hors de cause",
       "excerpt": "Le parquet a conclu que la petite fille de 27 jours était morte par asphyxie et non pas à cause de la toxine céréulide, présente dans le lait avec lequel avait été fait son biberon.",
       "link": "https://www.liberation.fr/societe/sante/le-lait-contamine-hors-de-cause-dans-la-mort-dun-bebe-a-angers-en-decembre-20260506_HTKEI673LBDTNMNAWC4TRFMCBQ/",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1778095274.0
     },
     {
-      "id": "France Info--1449735213740282620",
+      "id": "France Info--8809010844012431194",
       "source": "France Info",
       "title": "Banquet du Canon français à Caen : le maire dénonce des \"comportements totalement inacceptables\"",
       "excerpt": "\"J'attends évidemment les conclusions de l'enquête avant de réagir plus fortement\", précise Aristide Olivier, mercredi au micro d'ICI Normandie, rappelant qu'aucune plainte n'a été déposée à ce stade.",
       "link": "https://www.franceinfo.fr/societe/banquet-du-canon-francais-a-caen-le-maire-denonce-des-comportements-totalement-inacceptables_7987760.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1778094654.0
     },
     {
-      "id": "Libération-4982855115985038324",
+      "id": "Libération-2908594964991727150",
       "source": "Libération",
       "title": "Aisne : une adolescente de 14 ans tuée à l’arme blanche à Fère-en-Tardenois, un homme de 23 ans interpellé",
       "excerpt": "La collégienne, scolarisée en troisième, a été retrouvée dans la rue ce mercredi matin vers 8 heures après avoir reçu de multiples coups portés à l’arme blanche. Le suspect pourrait avoir été «un anci...",
       "link": "https://www.liberation.fr/societe/police-justice/aisne-une-adolescente-de-14-ans-tuee-a-larme-blanche-a-fere-en-tardenois-20260506_XOYHZOKSNNH5DDLBKU4SCDRVTM/",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1778094336.0
     },
     {
-      "id": "Le Monde-1371163606855556037",
-      "source": "Le Monde",
-      "title": "Le retour du réseau social Vine, entre nostalgie et manifeste « anti-IA »",
-      "excerpt": "Dix ans après la fermeture de l’application, le projet diVine, porté par des anciens dirigeants de Twitter, remet en ligne des centaines de milliers d’archives. Et promeut des modèles alternatifs pour...",
-      "link": "https://www.lemonde.fr/pixels/article/2026/05/06/le-retour-du-reseau-social-vine-entre-nostalgie-et-manifeste-anti-ia_6686174_4408996.html",
-      "time": "Il y a 3h",
-      "pubDate": 1778094009.0
-    },
-    {
-      "id": "France Info--5773725327324204964",
+      "id": "France Info--5486572556231968405",
       "source": "France Info",
       "title": "Des médecins radiés pour motifs graves partent à l'étranger pour continuer à exercer, malgré des alertes européennes, révèle le \"20 Heures\" de France 2",
       "excerpt": "Dans le cadre du projet #BadPractice, qui met en lumière des défaillances dans le domaine médical, \"L'Œil du 20 Heures\", en collaboration avec le consortium de journalistes OCCRP, \"Le Monde\" et le jou...",
@@ -208,52 +217,43 @@
       "pubDate": 1778092374.0
     },
     {
-      "id": "Le Monde-4849954340186240602",
+      "id": "Le Monde-1006124435706286164",
       "source": "Le Monde",
       "title": "Carburants : le plafonnement des prix de TotalEnergies agace les autres stations-service",
       "excerpt": "Le gouvernement estime que l’évolution des marges des distributeurs ne révèle pas d’abus, et appelle TotalEnergies à prolonger sa mesure sur les prix. Certains distributeurs dénoncent une concurrence...",
       "link": "https://www.lemonde.fr/economie/article/2026/05/06/carburants-le-plafonnement-des-prix-de-totalenergies-agace-les-autres-stations-service_6686172_3234.html",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1778091768.0
     },
     {
-      "id": "Le Monde-1059794695775999739",
-      "source": "Le Monde",
-      "title": "EN DIRECT, guerre en Ukraine : Moscou appelle les ambassades étrangères à Kiev à évacuer leur personnel en raison d’éventuels bombardements de représailles le 9 mai",
-      "excerpt": "Cet avertissement intervient quelques heures après que la Russie a annoncé mercredi la tenue d’essais de missiles capables de transporter des charges nucléaires sur le polygone de Koura, dans la pénin...",
-      "link": "https://www.lemonde.fr/international/live/2026/05/06/en-direct-guerre-en-ukraine-les-dernieres-informations_6684995_3210.html",
-      "time": "Il y a 4h",
-      "pubDate": 1778091251.0
-    },
-    {
-      "id": "Le Monde--7560030173776239871",
+      "id": "Le Monde-6663270128934485500",
       "source": "Le Monde",
       "title": "Russie, Israël, Etats-Unis : les pavillons « parias » agitent la Biennale de Venise",
       "excerpt": "La grande manifestation d’art international, qui a cette année rouvert la porte à la Russie, est confrontée à de nombreuses contestations. Sur place, les artistes sont divisés.",
       "link": "https://www.lemonde.fr/culture/article/2026/05/06/russie-israel-etats-unis-les-pavillons-parias-agitent-la-biennale-de-venise_6686165_3246.html",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1778090415.0
     },
     {
-      "id": "Le Monde-7065579826349869845",
+      "id": "Le Monde-7395736350902586219",
       "source": "Le Monde",
       "title": "Hantavirus : de nombreuses inconnues autour d’un événement sanitaire « inédit et inquiétant » ; l’OMS veut rassurer sur le risque pandémique",
       "excerpt": "La souche des Andes, transmissible entre humains par des gouttelettes de salive, a été déterminée, mercredi, par séquençage chez trois malades ayant voyagé à bord du MV « Hondius », qui doit accoster...",
       "link": "https://www.lemonde.fr/planete/article/2026/05/06/hantavirus-de-nombreuses-inconnues-autour-d-un-evenement-sanitaire-inedit-et-inquietant-l-oms-veut-rassurer-sur-le-risque-pandemique_6686152_3244.html",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1778086596.0
     },
     {
-      "id": "Le Monde-858383579665227768",
+      "id": "Le Monde-4870529318112518621",
       "source": "Le Monde",
       "title": "Le « point de bascule » en Amazonie, une notion controversée au cœur d’une nouvelle étude",
       "excerpt": "Des chercheurs affirment que les deux tiers de la forêt tropicale pourraient se transformer en savane si le réchauffement dépasse + 1,5 °C et les déboisements atteignent 22 % à 28 % de sa surface. Acc...",
       "link": "https://www.lemonde.fr/planete/article/2026/05/06/le-point-de-bascule-en-amazonie-une-notion-controversee-au-c-ur-d-une-nouvelle-etude_6686135_3244.html",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1778079622.0
     },
     {
-      "id": "Le Monde-324486998140136067",
+      "id": "Le Monde-8480339306847758397",
       "source": "Le Monde",
       "title": "Renault avance à pas comptés dans la production de drones militaires",
       "excerpt": "Poussé par le gouvernement, le constructeur automobile aménage un atelier dans son usine du Mans pour commencer à fabriquer, fin 2026, un grand drone à bas coût.",
@@ -262,27 +262,45 @@
       "pubDate": 1778077814.0
     },
     {
-      "id": "France Info-9076928122181100003",
+      "id": "France Info--2142137800433943528",
       "source": "France Info",
       "title": "INFO FRANCETV. Après le casse du Louvre, les pistes du rapport de la commission d'enquête pour améliorer la sécurité des musées",
       "excerpt": "Augmentation des moyens liés à la sécurité, renforcement des dispositifs de contrôle, mise en place de formations... Le rapport de la commission formule 40 recommandations afin de mieux protéger le pa...",
       "link": "https://www.franceinfo.fr/faits-divers/cambriolage-au-musee-du-louvre/info-francetv-apres-le-casse-du-louvre-les-pistes-du-rapport-de-la-commission-d-enquete-pour-ameliorer-la-securite-des-musees_7982360.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 11h",
+      "time": "Il y a 12h",
       "pubDate": 1778064390.0
     }
   ],
   "anglophone": [
     {
-      "id": "BBC News--8302059974085930043",
+      "id": "BBC News--5318017772228785299",
       "source": "BBC News",
       "title": "Hantavirus-hit cruise ship leaves Cape Verde after three evacuated",
       "excerpt": "A British man is among three evacuees sent to the Netherlands after displaying symptoms while aboard the MV Hondius.",
       "link": "https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 22 min",
+      "time": "Il y a 1h",
       "pubDate": 1778105440.0
     },
     {
-      "id": "NPR--6090581644711377097",
+      "id": "BBC News--1208868241183394263",
+      "source": "BBC News",
+      "title": "Iran considering US proposal to end war, official says",
+      "excerpt": "The White House reportedly believes it could be closing in on a 14-point memorandum of understanding with Iran.",
+      "link": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 2h",
+      "pubDate": 1778102879.0
+    },
+    {
+      "id": "BBC News-787012682741670227",
+      "source": "BBC News",
+      "title": "Israel strikes Beirut for first time since Hezbollah ceasefire",
+      "excerpt": "Israel says it targeted a senior Hezbollah figure in the capital, the first strike of its kind since mid-April.",
+      "link": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 3h",
+      "pubDate": 1778097484.0
+    },
+    {
+      "id": "NPR--7325390899876601071",
       "source": "NPR",
       "title": "These companies help parents try to pick their babies' traits. Experts are wary",
       "excerpt": "Prospective parents can now pick embryos based on risk predictions for thousands of diseases and odds for specific traits. But should they?",
@@ -291,97 +309,106 @@
       "pubDate": 1778092238.0
     },
     {
-      "id": "NPR--7568152293739799883",
+      "id": "NPR-4989860471180500800",
       "source": "NPR",
       "title": "Republicans want to add $1 billion for Trump's ballroom security to ICE funding plan",
       "excerpt": "Republicans in Congress are proposing $1 billion in funding for security for President Trump's White House ballroom as part of their partisan plan to fund Immigration and Customs Enforcement.",
       "link": "https://www.npr.org/2026/05/06/g-s1-120455/republicans-trump-ballroom-billion",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1778091391.0
     },
     {
-      "id": "NPR-5807353038956830680",
+      "id": "NPR-4608283214525456266",
       "source": "NPR",
       "title": "Preserving pollinators is good for health -- and income",
       "excerpt": "Pollinators have economic and health benefits, but those benefits have been difficult to quantify. A new study puts some numbers to how important pollinators are for both nutrition and income.",
       "link": "https://www.npr.org/2026/05/06/nx-s1-5807663/preserving-pollinators-is-good-for-health-and-income",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1778090759.0
     },
     {
-      "id": "BBC News-5969986921094766555",
+      "id": "BBC News-7730679059703401985",
+      "source": "BBC News",
+      "title": "Trump's hopes for an Iran peace deal come with caveats",
+      "excerpt": "There are signs of fresh momentum to end the war, but Trump himself has injected a note of caution.",
+      "link": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 5h",
+      "pubDate": 1778088724.0
+    },
+    {
+      "id": "BBC News--8049955280141368421",
       "source": "BBC News",
       "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
       "excerpt": "Reports have raised hopes of an agreement between the US and Iran after days of escalation.",
       "link": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1778083904.0
     },
     {
-      "id": "BBC News-5285790493921597269",
+      "id": "BBC News--1073694025684794636",
       "source": "BBC News",
       "title": "Ted Turner, media mogul who revolutionised TV news by launching CNN, dies at 87",
       "excerpt": "The media mogul pioneered the modern 24-hour news culture when he launched the Cable News Network in 1980.",
       "link": "https://www.bbc.com/news/articles/c1k2jnx8gmlo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1778082366.0
     },
     {
-      "id": "NPR--8784174032077849505",
+      "id": "NPR-780293118561536284",
       "source": "NPR",
       "title": "How Silicon Valley's new tech right has profited by aligning with MAGA",
       "excerpt": "<em>Atlantic</em> writer George Packer discusses how tech venture capitalists, who are heavily invested in AI and cryptocurrency, aligned with Trump and influenced policies related to their own invest...",
       "link": "https://www.npr.org/2026/05/06/nx-s1-5813505/how-silicon-valleys-new-tech-right-has-profited-by-aligning-with-maga",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1778081671.0
     },
     {
-      "id": "NPR--3901236514954024651",
+      "id": "NPR--4852111470235419498",
       "source": "NPR",
       "title": "Greetings from a sea village in Indonesia, where Indigenous fishing gets help from mangroves",
       "excerpt": "As a water taxi rounded a corner at sunset, the village of Torosiaje came into view, with its colorful stilted houses perched over the Molucca Sea.",
       "link": "https://www.npr.org/2026/05/06/g-s1-119852/indonesia-mangrove-conservation-fishing-sulawesi-bajau",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1778078323.0
     },
     {
-      "id": "NPR--8712860680247969176",
+      "id": "NPR--5979581504929657737",
       "source": "NPR",
       "title": "'A trailblazer, a rabble-rouser, a do-gooder': CNN founder Ted Turner dies at 87",
       "excerpt": "Turner had a larger-than-life personality, and used it to launch the country's first 24/7 all-news network.",
       "link": "https://www.npr.org/2026/05/06/nx-s1-3059290/ted-turner-obituary-cnn",
-      "time": "Il y a 8h",
+      "time": "Il y a 9h",
       "pubDate": 1778077405.0
     },
     {
-      "id": "NPR-2161944385140490791",
+      "id": "NPR-2939438773709930252",
       "source": "NPR",
       "title": "Have you lost or are worried about losing SNAP benefits? NPR wants to hear your story",
       "excerpt": "NPR wants to hear from people impacted by changes to the Supplemental Nutrition Assistance Program.",
       "link": "https://www.npr.org/2026/05/06/g-s1-120386/snap-benefits-eligibility-changes",
-      "time": "Il y a 9h",
+      "time": "Il y a 10h",
       "pubDate": 1778073963.0
     },
     {
-      "id": "The Guardian-3891088460322551432",
+      "id": "The Guardian-4066777467856552983",
       "source": "The Guardian",
       "title": "US cancels visas for board of Costa Rica newspaper critical of Trump ally",
       "excerpt": "Leading newspaper La Nación calls US’s barring of board members ‘indirect attack on press freedom’  The US state department has <a href=\"https://www.nytimes.com/es/2026/05/04/espanol/america-latina/la...",
       "link": "https://www.theguardian.com/world/2026/may/06/us-cancels-tourist-visas-board-members-top-costa-rica-newspaper-la-nacion-trump",
-      "time": "Il y a 9h",
+      "time": "Il y a 10h",
       "pubDate": 1778073227.0
     },
     {
-      "id": "BBC News--3849338491679171519",
+      "id": "BBC News-8654533996322710573",
       "source": "BBC News",
       "title": "Orphaned baby hippo to be hand-reared by keepers at Kenya sanctuary",
       "excerpt": "The baby hippo, which has been named Bumpy, was found clinging to its lifeless mother at a lake.",
       "link": "https://www.bbc.com/news/articles/c1e2zev6754o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 9h",
+      "time": "Il y a 10h",
       "pubDate": 1778070915.0
     },
     {
-      "id": "NPR-5769944919258201348",
+      "id": "NPR--2347135601320890943",
       "source": "NPR",
       "title": "Iran is reviewing a U.S. proposal as Trump threatens renewed bombing if it doesn't agree",
       "excerpt": "Iran's Foreign Ministry spokesman said negotiators are assessing the Trump administration's latest proposal and will relate a response to mediating country Pakistan.",
@@ -390,34 +417,25 @@
       "pubDate": 1778070789.0
     },
     {
-      "id": "BBC News--4141728568219325538",
+      "id": "BBC News-4961388374075017659",
       "source": "BBC News",
       "title": "Massive Alaska megatsunami was second largest ever recorded",
       "excerpt": "New research suggests glacier melt driven by climate change is increasing the risk of giant waves.",
       "link": "https://www.bbc.com/news/articles/c1m253033m4o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 10h",
+      "time": "Il y a 11h",
       "pubDate": 1778068825.0
     },
     {
-      "id": "BBC News-3488719087066862360",
-      "source": "BBC News",
-      "title": "Russia ignores Ukraine's unilateral ceasefire and attacks kindergarten",
-      "excerpt": "Ukraine's president says Russia has \"spurned the ceasefire\" and Kyiv is deciding on further action to take.",
-      "link": "https://www.bbc.com/news/articles/cpdpxdd5n6yo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 10h",
-      "pubDate": 1778068400.0
-    },
-    {
-      "id": "BBC News-8611301930867889138",
+      "id": "BBC News-7772692218056355905",
       "source": "BBC News",
       "title": "German police raid neo-Nazi criminal youth groups",
       "excerpt": "Police search locations in 12 states, mainly in the East and South of the country in what prosecutors say is a targeted raid.",
       "link": "https://www.bbc.com/news/articles/cgkpmy6l2deo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 10h",
+      "time": "Il y a 11h",
       "pubDate": 1778067296.0
     },
     {
-      "id": "NPR-7631056366106709232",
+      "id": "NPR-3443604400929759794",
       "source": "NPR",
       "title": "Democrats gain midterm edge, NPR poll shows. And, U.S. pauses 'Project Freedom'",
       "excerpt": "Democrats outpace Republicans in voter enthusiasm for the midterm elections, according to NPR's latest poll. And Trump says \"Project Freedom\" is paused because of progress toward an Iran agreement.",
@@ -426,61 +444,43 @@
       "pubDate": 1778067172.0
     },
     {
-      "id": "BBC News--5354840317670800612",
-      "source": "BBC News",
-      "title": "Vivek Ramaswamy wins Republican nomination for Ohio governor",
-      "excerpt": "The staunch Trump ally emerged victorious in one of a series of closely-watched primary contests held in the US Midwest.",
-      "link": "https://www.bbc.com/news/articles/c4g0xe4qlzxo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 11h",
-      "pubDate": 1778065446.0
-    },
-    {
-      "id": "The Guardian-1243611293388281673",
+      "id": "The Guardian--2207269266907986659",
       "source": "The Guardian",
       "title": "Mexico nightclub’s $300 cover charge for US citizens captures popular mood",
       "excerpt": "Owner of Japan nightclub says ‘This is a response to a year of insults directed at us – as a country – by the United States’ A Mexico City nightclub has gone viral for charging Americans a nearly $300...",
       "link": "https://www.theguardian.com/world/2026/may/06/mexico-nightclub-cover-charge-us-citizens",
-      "time": "Il y a 12h",
+      "time": "Il y a 13h",
       "pubDate": 1778061605.0
     },
     {
-      "id": "NPR--7583029848564668777",
+      "id": "NPR-9000626703614492354",
       "source": "NPR",
       "title": "A new Medicare option for weight loss drugs is coming: Here's what to know",
       "excerpt": "Millions of people with Medicare will soon be eligible to get discounted GLP-1 drugs for weight loss. Here's how it will work.",
       "link": "https://www.npr.org/2026/05/06/nx-s1-5812662/medicare-bridge-glp1-drugs-copay",
-      "time": "Il y a 12h",
+      "time": "Il y a 13h",
       "pubDate": 1778061600.0
     },
     {
-      "id": "BBC News--6555071826420870170",
-      "source": "BBC News",
-      "title": "China calls for Strait to be reopened 'as soon as possible' in Iran talks",
-      "excerpt": "Wang Yi is holding talks with Iran's foreign minister Aragchi who is on his first trip to China since the war began.",
-      "link": "https://www.bbc.com/news/articles/c0m21mndm71o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 12h",
-      "pubDate": 1778060139.0
-    },
-    {
-      "id": "BBC News--1998490948931387234",
+      "id": "BBC News-7488619834460403716",
       "source": "BBC News",
       "title": "To stay or risk the 'Road of Death' - Ukrainian civilians trapped in frontline city",
       "excerpt": "People in the Ukrainian city of Oleshky say they have been cut off from fresh supplies of food or medicine for months.",
       "link": "https://www.bbc.com/news/articles/c893xj41zwdo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 17h",
+      "time": "Il y a 18h",
       "pubDate": 1778043211.0
     },
     {
-      "id": "The Guardian-4397514202670331703",
+      "id": "The Guardian-7061202549974982128",
       "source": "The Guardian",
       "title": "Search called off for Australian hiker missing in rugged Canadian national park",
       "excerpt": "Police suspend ‘extensive’ six-day air and ground search in Nova Scotia, citing ‘no new information’ Teams in eastern Canada have called off an “extensive” six-day air and ground search of a rugged pa...",
       "link": "https://www.theguardian.com/world/2026/may/06/missing-hiker-canada-search-called-off-denise-williams",
-      "time": "Il y a 21h",
+      "time": "Il y a 22h",
       "pubDate": 1778029206.0
     },
     {
-      "id": "The Guardian-6099351654310730078",
+      "id": "The Guardian-2955615265467193133",
       "source": "The Guardian",
       "title": "Alberta voter data leaked as separatists file signatures for independence vote",
       "excerpt": "Authorities investigate leak of 2.9 million voters’ details, adding to turmoil over push for independence referendum Alberta separatists have delivered more than 300,000 signatures to elections offici...",
@@ -489,7 +489,7 @@
       "pubDate": 1778003366.0
     },
     {
-      "id": "The Guardian--1706848964948023314",
+      "id": "The Guardian-5875414913470332215",
       "source": "The Guardian",
       "title": "Carney appoints former war crimes prosecutor as Canada governor general",
       "excerpt": "Louise Arbour will serve as Canada’s representative of King Charles and carry out ceremonial and constitutional duties Canada’s prime minister, Mark Carney, has appointed a former supreme court justic...",
@@ -498,7 +498,7 @@
       "pubDate": 1777998230.0
     },
     {
-      "id": "The Guardian-2237100012892507687",
+      "id": "The Guardian-2222578745279143450",
       "source": "The Guardian",
       "title": "British crew member in need of urgent medical care amid suspected hantavirus outbreak on cruise ship",
       "excerpt": "WHO says seven confirmed or suspected cases of hantavirus on MV Hondius, including three passengers who died <ul><li><a href=\"https://www.theguardian.com/science/2026/may/04/what-is-hantavirus-the-inf...",
@@ -507,7 +507,7 @@
       "pubDate": 1777945970.0
     },
     {
-      "id": "The Guardian-2524270851441750108",
+      "id": "The Guardian--3993071810825046322",
       "source": "The Guardian",
       "title": "Nigerian refinery accused of sacking union members is key to UK plan to tackle jet fuel shortage",
       "excerpt": "Heidi Alexander says part of answer to strait of Hormuz crisis is importing more fuel from US and west Africa A refinery in Nigeria accused of dismissing workers for joining a union has emerged as key...",
@@ -516,7 +516,7 @@
       "pubDate": 1777910309.0
     },
     {
-      "id": "The Guardian--8015753860384774447",
+      "id": "The Guardian-5929730169605831973",
       "source": "The Guardian",
       "title": "Flaws in Kenya’s AI-driven health reforms driving up costs for the poorest",
       "excerpt": "<strong>Exclusive</strong>: amid unrest, President William Ruto promised to give all Kenyans access to healthcare. But the algorithm favours the rich, an investigation has found An AI system used to p...",
@@ -525,16 +525,16 @@
       "pubDate": 1777874416.0
     },
     {
-      "id": "The Guardian--8312155502068183151",
+      "id": "The Guardian--1950918942312517481",
       "source": "The Guardian",
       "title": "Three passengers dead after suspected hantavirus outbreak on cruise ship",
       "excerpt": "Dutch husband and wife and third unidentified person reported to have died, with three further people taken ill <ul><li><a href=\"https://www.theguardian.com/science/2026/may/04/what-is-hantavirus-the-...",
       "link": "https://www.theguardian.com/world/2026/may/03/three-passengers-dead-after-suspected-hantavirus-outbreak-on-cruise-ship",
-      "time": "Il y a 2j",
+      "time": "Il y a 3j",
       "pubDate": 1777848944.0
     },
     {
-      "id": "The Guardian-6869557022883586563",
+      "id": "The Guardian-2765490361126856431",
       "source": "The Guardian",
       "title": "Two US service members missing after military exercises in Morocco",
       "excerpt": "Search and rescue operation launched after service members reported missing near south-western city of Tan Tan Two US service members are missing in south-western <a href=\"https://www.theguardian.com/...",
@@ -543,5 +543,5 @@
       "pubDate": 1777811039.0
     }
   ],
-  "lastUpdate": "2026-05-06T22:33:33.258213"
+  "lastUpdate": "2026-05-06T23:30:02.275600"
 }
