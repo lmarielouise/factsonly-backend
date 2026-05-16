@@ -1,97 +1,133 @@
 {
   "francophone": [
     {
-      "id": "France Info--4294887456519669935",
+      "id": "Le Monde--5488041269921265650",
+      "source": "Le Monde",
+      "title": "A Londres, des dizaines de milliers de manifestants d’extrême droite rassemblés à l’appel du militant Tommy Robinson",
+      "excerpt": "La capitale britannique a déployé quelque 4 000 policiers alors que Tommy Robinson, activiste islamophobe et anti-immigration, organisait ce samedi une nouvelle marche après celle de septembre, qui av...",
+      "link": "https://www.lemonde.fr/international/article/2026/05/16/a-londres-des-dizaines-de-milliers-de-manifestants-d-extreme-droite-rassembles-a-l-appel-du-militant-tommy-robinson_6689759_3211.html",
+      "time": "Il y a 21 min",
+      "pubDate": 1778951437.0
+    },
+    {
+      "id": "France Info-4216992011460899096",
+      "source": "France Info",
+      "title": "A Londres, plusieurs dizaines de milliers de manifestants ont participé à deux marches anti-immigration et propalestinienne",
+      "excerpt": "Au moins 31 personnes ont été arrêtées samedi dans ces deux manifestations opposées, alors que se tenait également dans la capitale britannique la finale de la Coupe d'Angleterre de football.",
+      "link": "https://www.franceinfo.fr/monde/royaume-uni/plusieurs-dizaines-de-milliers-de-personnes-ont-participe-a-deux-marches-anti-immigration-et-propalestinienne-a-londres_8008226.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 39 min",
+      "pubDate": 1778950386.0
+    },
+    {
+      "id": "France Info-6185030604061195368",
+      "source": "France Info",
+      "title": "Festival de Cannes 2026 : Javier Bardem sur le tapis rouge avant Adam Driver, Quentin Dupieux réunit Woody Harrelson et Kristen Stewart",
+      "excerpt": "L'acteur espagnol incarne un réalisateur dans le nouveau film de l'Espagnol Rodrigo Sorogoyen, en compétition avec \"L'Etre aimé\".",
+      "link": "https://www.franceinfo.fr/culture/cinema/festival-de-cannes/direct-festival-de-cannes-2026-scarlett-johansson-et-adam-driver-attendus-pour-le-nouveau-james-gray-quentin-dupieux-reunit-woody-harrelson-et-kristen-stewart_8004116.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 39 min",
+      "pubDate": 1778950352.0
+    },
+    {
+      "id": "Libération-6362771242210461662",
+      "source": "Libération",
+      "title": "EN DIRECT - Festival de Cannes, jour 5 : «Libé» attend James Gray, la Croisette attend Javier Bardem",
+      "excerpt": "Critiques, reportages, portraits… Retrouvez toute l’actualité du Festival de Cannes 2026 au fil de la journée par nos envoyés spéciaux sur la Croisette.",
+      "link": "https://www.liberation.fr/culture/cinema/en-direct-festival-de-cannes-jour-5-aujourdhui-javier-bardem-adam-driver-scarlett-johansson-et-la-plage-20260516_XTEHIXSHYRCSLOOMW76DIQATOM/",
+      "time": "Il y a 41 min",
+      "pubDate": 1778950246.0
+    },
+    {
+      "id": "Le Monde--8395177456900138937",
+      "source": "Le Monde",
+      "title": "Pour contrer l’IA, les aides du Centre national du cinéma seront réservées aux oeuvres créées par des humains, annonce la ministre de la culture à Cannes",
+      "excerpt": "Catherine Pégard demande au CNC de modifier son règlement pour attribuer son soutien financier uniquement aux œuvres créées par des auteurs et non par des machines.",
+      "link": "https://www.lemonde.fr/culture/article/2026/05/16/les-aides-du-centre-national-du-cinema-seront-reservees-aux-humains-annonce-la-ministre-de-la-culture-a-cannes_6689908_3246.html",
+      "time": "Il y a 47 min",
+      "pubDate": 1778949908.0
+    },
+    {
+      "id": "Libération--8369732961769420173",
+      "source": "Libération",
+      "title": "Sarah Boucault : «Le but n’est pas d’excuser les enfants incesteurs, mais d’analyser la responsabilité collective pour enrayer les violences»",
+      "excerpt": "Dans un ouvrage, la journaliste indépendante sort les violences incestueuses commises par des enfants de l’ombre, en donnant la parole à huit agresseurs. Une enquête visant à apporter des réponses pou...",
+      "link": "https://www.liberation.fr/societe/familles/sarah-boucault-le-but-nest-pas-dexcuser-les-enfants-incesteurs-mais-danalyser-la-responsabilite-collective-pour-enrayer-les-violences-20260516_YC2X22HO2FC6TNADKQOTDOGSTQ/",
+      "time": "Il y a 51 min",
+      "pubDate": 1778949660.0
+    },
+    {
+      "id": "Le Monde--4646630537255131828",
+      "source": "Le Monde",
+      "title": "Au Liban sud, Israël étend son emprise au gré des bombardements et des ordres d’évacuation",
+      "excerpt": "Les frappes et les appels à évacuer concernent aussi bien des localités proches de la frontière que d’autres, situées des dizaines de kilomètres plus au nord. Ils contribuent à dépeupler des pans enti...",
+      "link": "https://www.lemonde.fr/international/article/2026/05/16/au-liban-sud-israel-etend-son-emprise-au-gre-des-bombardements-et-des-ordres-d-evacuations_6689906_3210.html",
+      "time": "Il y a 53 min",
+      "pubDate": 1778949543.0
+    },
+    {
+      "id": "France Info--7546850538677060261",
       "source": "France Info",
       "title": "Manchester City domine Chelsea en finale et s'offre une 8e Coupe d'Angleterre",
       "excerpt": "Dans un match assez pauvre en occasions, les Cityzens ont décroché, dimanche,  face aux Blues leur deuxième titre cette saison.",
       "link": "https://www.franceinfo.fr/sports/foot/cup-manchester-city-domine-chelsea-en-finale-et-s-offre-une-8e-coupe-d-angleterre_8008217.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 5 min",
+      "time": "Il y a 1h",
       "pubDate": 1778948998.0
     },
     {
-      "id": "France Info-8644513918268207323",
-      "source": "France Info",
-      "title": "Festival de Cannes 2026 : Adam Driver attendu pour le nouveau James Gray, Quentin Dupieux réunit Woody Harrelson et Kristen Stewart",
-      "excerpt": "Le réalisateur américain, connu pour \"Ad Astra\" et \"The Lost City of Z\", est en lice pour la Palme d'or avec un film policier, \"Paper Tiger\".",
-      "link": "https://www.franceinfo.fr/culture/cinema/festival-de-cannes/direct-festival-de-cannes-2026-scarlett-johansson-et-adam-driver-attendus-pour-le-nouveau-james-gray-quentin-dupieux-reunit-woody-harrelson-et-kristen-stewart_8004116.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 8 min",
-      "pubDate": 1778948784.0
-    },
-    {
-      "id": "Libération-4817850484192861792",
+      "id": "Libération-5229445043027989553",
       "source": "Libération",
       "title": "Cannes 2026 : avec «Mémoire de fille», Judith Godrèche dans la tourmente du roman d’Annie Ernaux",
       "excerpt": "Dans son film ambitieux tiré du livre autobiographique de l’écrivaine nobélisée, la cinéaste démultiplie les strates du récit, jusqu’au mélange des genres confus entre film d’époque et tract politique...",
       "link": "https://www.liberation.fr/culture/cinema/cannes-2026-avec-memoire-de-fille-judith-godreche-dans-la-tourmente-du-roman-dannie-ernaux-20260516_FRRNYTDX2FE3DEVIDEF5JLZTNA/",
-      "time": "Il y a 15 min",
+      "time": "Il y a 1h",
       "pubDate": 1778948402.0
     },
     {
-      "id": "France Info--1373538294491763400",
-      "source": "France Info",
-      "title": "Nouvelle épidémie d'Ebola en RDC : la souche du virus présente \"un taux de létalité très important\", sans vaccin ni traitement spécifique",
-      "excerpt": "A ce stade, \"246 cas suspects sont notifiés et 80 décès\", selon un communiqué du ministère de la Santé congolais diffusé dans la nuit de vendredi à samedi.",
-      "link": "https://www.franceinfo.fr/sante/maladie/ebola/nouvelle-epidemie-d-ebola-en-rdc-la-souche-du-virus-presente-un-taux-de-letalite-tres-important-sans-vaccin-ni-traitement-specifique_8008076.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 19 min",
-      "pubDate": 1778948160.0
-    },
-    {
-      "id": "France Info-5826847085739402306",
+      "id": "France Info--7412752136954051980",
       "source": "France Info",
       "title": "Au Royaume-Uni, l'ex-ministre de la Santé Wes Streeting veut \"se présenter\" pour succéder à Keir Starmer à la tête du gouvernement",
       "excerpt": "Deux jours après avoir quitté son poste, cette figure de l'aile droite du Parti travailliste n'a pas formellement acté sa candidature, car il veut attendre que \"tous les candidats\" potentiels puissent...",
       "link": "https://www.franceinfo.fr/monde/royaume-uni/wes-streeting-le-ministre-demissionnaire-de-la-sante-britannique-affirme-qu-il-veut-se-presenter-a-la-succession-de-keir-starmer_8008175.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 23 min",
+      "time": "Il y a 1h",
       "pubDate": 1778947917.0
     },
     {
-      "id": "France Info--3926835618855379270",
+      "id": "France Info--5233218530528644809",
       "source": "France Info",
       "title": "Eurovision 2026 : Monroe va-t-elle faire gagner la France ? Suivez et commentez la finale du concours avec nous",
       "excerpt": "Cela fait 49 ans que la France n'a plus remporté le concours de chant européen. La jeune chanteuse de 17 ans est en embuscade pour décrocher une belle place avec sa chanson \"Regarde !\".",
       "link": "https://www.franceinfo.fr/culture/musique/eurovision/direct-eurovision-2026-monroe-va-t-elle-faire-gagner-la-france-suivez-et-commentez-la-finale-du-concours-avec-nous_8001779.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 25 min",
+      "time": "Il y a 1h",
       "pubDate": 1778947788.0
     },
     {
-      "id": "France Info--1601214899876645121",
+      "id": "France Info-2660377200830634216",
       "source": "France Info",
       "title": "\"C'est exactement la même logique qu'à Gaza\" : comment Israël impose sa \"politique de terre brûlée\" pour contrôler le sud du Liban",
       "excerpt": "Un mois jour pour jour après l'entrée en vigueur du cessez-le-feu, prolongé vendredi entre l'Etat hébreu et son voisin, les destructions massives et les déplacements de population transforment progres...",
       "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/c-est-exactement-la-meme-logique-qu-a-gaza-comment-israel-impose-sa-politique-de-terre-brulee-pour-controler-le-sud-du-liban_8001899.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 28 min",
+      "time": "Il y a 1h",
       "pubDate": 1778947582.0
     },
     {
-      "id": "Le Monde--7799606445245369933",
-      "source": "Le Monde",
-      "title": "« La Face cachée de Kim Jong-un », essai riche et informé signé par l’un des meilleurs experts de la Corée du Nord, Cheong Seong‑chang",
-      "excerpt": "Ce livre offre un rare éclairage sur le fonctionnement actuel du régime de Pyongyang.",
-      "link": "https://www.lemonde.fr/livres/article/2026/05/16/la-face-cachee-de-kim-jong-un-essai-riche-et-informe-signe-par-l-un-des-meilleurs-experts-de-la-coree-du-nord-cheong-seong-chang_6689902_3260.html",
-      "time": "Il y a 34 min",
-      "pubDate": 1778947215.0
-    },
-    {
-      "id": "France Info-3782061695392101310",
+      "id": "France Info-3690562624374030326",
       "source": "France Info",
       "title": "Giro 2026 : Jhonatan Narvaez signe son deuxième succès sur cette édition après un gros numéro à l'avant, Afonso Eulalio toujours en rose",
       "excerpt": "L'Équatorien s'est montré le plus costaud, samedi, pour lever les bras en haut de la montée vers Fermo.",
       "link": "https://www.franceinfo.fr/sports/cyclisme/giro/giro-2026-jhonatan-narvaez-signe-son-deuxieme-succes-sur-cette-edition-apres-un-gros-numero-a-l-avant-afonso-eulalio-toujours-en-rose_8008013.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 41 min",
+      "time": "Il y a 1h",
       "pubDate": 1778946794.0
     },
     {
-      "id": "Le Monde-1637553354434038570",
+      "id": "Le Monde--569848299501741508",
       "source": "Le Monde",
       "title": "Wes Streeting, ministre de la santé démissionnaire britannique, veut « se présenter » à la succession de Keir Starmer",
       "excerpt": "Il a démissionné jeudi de son poste de ministre de la santé, disant avoir « perdu confiance » en l’actuel premier ministre, après des résultats électoraux désastreux pour le Parti travailliste lors de...",
       "link": "https://www.lemonde.fr/international/article/2026/05/16/wes-streeting-ministre-de-la-sante-demissionnaire-veut-se-presenter-a-la-succession-de-keir-starmer_6689899_3210.html",
-      "time": "Il y a 45 min",
+      "time": "Il y a 1h",
       "pubDate": 1778946570.0
     },
     {
-      "id": "Libération-321872781122228462",
+      "id": "Libération-9179883031274102372",
       "source": "Libération",
       "title": "Mobilisation en Seine-et-Marne contre le projet de plus grand data center européen : «Qu’est-ce qu’on va manger dans dix ans, des céréales ou de la data ?»",
       "excerpt": "Un centre de données géant va sortir de terre dans la petite commune de Fouju. Malgré les retombées économiques attendues, les impacts environnementaux du projet inquiètent les associations.",
@@ -100,230 +136,212 @@
       "pubDate": 1778945700.0
     },
     {
-      "id": "Libération-8408534033639611063",
+      "id": "Libération--860754849824781167",
       "source": "Libération",
       "title": "A Cannes, les annonces en demi-teinte de Catherine Pégard sur l’IA dans le cinéma",
       "excerpt": "Ce samedi 16 mai, la ministre de la Culture a notamment déclaré que le CNC allait modifier ses règles de financement pour protéger la création face à l’intelligence artificielle. Sans convaincre réell...",
       "link": "https://www.liberation.fr/culture/cinema/a-cannes-les-annonces-en-demi-teinte-de-catherine-pegard-sur-lia-dans-le-cinema-20260516_447RABZIQBC4PIRNYQK3TKS25I/",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1778945345.0
     },
     {
-      "id": "Libération--1027569890164128619",
-      "source": "Libération",
-      "title": "EN DIRECT - Festival de Cannes, jour 5 : «Libé» attend James Gray, la Croisette attend Javier Bardem",
-      "excerpt": "Critiques, reportages, portraits… Retrouvez toute l’actualité du Festival de Cannes 2026 au fil de la journée par nos envoyés spéciaux sur la Croisette.",
-      "link": "https://www.liberation.fr/culture/cinema/en-direct-festival-de-cannes-jour-5-aujourdhui-javier-bardem-adam-driver-scarlett-johansson-et-la-plage-20260516_XTEHIXSHYRCSLOOMW76DIQATOM/",
-      "time": "Il y a 1h",
-      "pubDate": 1778944278.0
-    },
-    {
-      "id": "Libération--6049611139803708314",
+      "id": "Libération--3570705612076950612",
       "source": "Libération",
       "title": "Opération américaine contre un chef jihadiste au Nigeria : «Les branches africaines de l’Etat islamique ont gagné en influence»",
       "excerpt": "Selon Vincent Foucher, chercheur au CNRS, l’élimination d’Abou Bilal al-Minuki, présenté par Donald Trump comme le «numéro 2 mondial» de l’Etat islamique, illustre l’importance croissante des factions...",
       "link": "https://www.liberation.fr/international/afrique/operation-americaine-contre-un-chef-jihadiste-au-nigeria-les-branches-africaines-de-letat-islamique-ont-gagne-en-influence-20260516_DTTFU32XXBHWBNWES5G55XO6DY/",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1778944173.0
     },
     {
-      "id": "Libération-3320106411012874120",
+      "id": "Libération--7987948365803165029",
       "source": "Libération",
       "title": "Noor : «J’avais besoin de retrouver de la lumière»",
       "excerpt": "La musique de la Française se dévoile dans un premier album inspiré par une douloureuse rupture. Elle raconte la réalisation de la pochette conçue avec sa nièce, photographe.",
       "link": "https://www.liberation.fr/culture/musique/noor-javais-besoin-de-retrouver-de-la-lumiere-20260516_6GVNK4CHPVFSPH35CQCLP6ILHY/",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1778943660.0
     },
     {
-      "id": "Le Monde--3858727467315548928",
+      "id": "Le Monde--2951676607560403651",
       "source": "Le Monde",
       "title": "Eurovision 2026 : le guide pour comprendre cette nouvelle édition",
       "excerpt": "Pourquoi cette finale de l’Eurovision est-elle particulière ? Qui est favori ? Qui vote ? Le point sur ce qu’il faut savoir pour suivre la finale, organisée à Vienne, en Autriche, ce samedi 16 mai.",
       "link": "https://www.lemonde.fr/les-decodeurs/article/2026/05/16/eurovision-2026-le-petit-guide-pour-comprendre-cette-nouvelle-edition_6689897_4355770.html",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1778943601.0
     },
     {
-      "id": "Le Monde--2589460948994041959",
+      "id": "Le Monde-7226011681407841840",
       "source": "Le Monde",
       "title": "Epidémie de fièvre d’Ebola : déjà 80 morts suspectes en République démocratique du Congo et un mort en Ouganda, selon les autorités sanitaires",
       "excerpt": "Les analyses en laboratoire ont conclu qu’il s’agit de la souche Bundibugyo du virus. Cette souche « n’a pas de vaccin et n’a pas de traitement spécifique », rappelle le ministre de la santé congolais...",
       "link": "https://www.lemonde.fr/afrique/article/2026/05/16/epidemie-de-fievre-d-ebola-deja-80-morts-suspectes-en-republique-democratique-du-congo-et-un-mort-en-ouganda-selon-les-autorites-sanitaires_6689895_3212.html",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1778943299.0
     },
     {
-      "id": "Libération-5375333831037118819",
+      "id": "Libération--6094425620412209821",
       "source": "Libération",
       "title": "«Manger est un engagement» : face au fascisme, des banquets de pasta pour dire basta",
       "excerpt": "Actualité débordante côté politisation des assiettes : la cuisinière et artiste Floriane Facchini et la scène nationale de Cavaillon font revivre pour la première fois en France l’histoire méconnue d’...",
       "link": "https://www.liberation.fr/lifestyle/gastronomie/manger-est-un-engagement-face-au-fascisme-des-banquets-de-pasta-pour-dire-basta-20260516_COS7B2CQS5BFNH7IQ6KLYBL7HI/",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1778943240.0
     },
     {
-      "id": "Le Monde-1859578129220354422",
-      "source": "Le Monde",
-      "title": "EN DIRECT, guerre au Moyen-Orient : au Liban, des bombardements israéliens malgré le cessez-le-feu, MSF condamne les attaques contre des secouristes",
-      "excerpt": "La diplomatie américaine a annoncé une prolongation du cessez-le-feu de 45 jours entre Israël et le Liban. Le premier ministre libanais, Nawaf Salam, a fustigé le Hezbollah pour avoir entraîné le Liba...",
-      "link": "https://www.lemonde.fr/international/live/2026/05/16/en-direct-guerre-au-moyen-orient-au-liban-bombardements-israeliens-malgre-le-cessez-le-feu-msf-condamne-les-attaques-contre-des-secouristes_6688992_3210.html",
-      "time": "Il y a 1h",
-      "pubDate": 1778942612.0
-    },
-    {
-      "id": "France Info-2374451328912421199",
+      "id": "France Info-4177607414104453413",
       "source": "France Info",
       "title": "\"Un homme qui a pillé mon adolescence\" : on vous résume les accusations de viols et de violences sexuelles visant Patrick Bruel",
       "excerpt": "L'animatrice Flavie Flament a annoncé vendredi avoir porté plainte pour viol contre le chanteur et comédien. Comme elle, des dizaines de femmes ont livré des témoignages accablants ces derniers mois....",
       "link": "https://www.franceinfo.fr/culture/musique/patrick-bruel/un-homme-qui-a-pille-mon-adolescence-on-vous-resume-les-accusations-de-viols-et-de-violences-sexuelles-visant-patrick-bruel_8007746.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1778942606.0
     },
     {
-      "id": "Libération--4247749429973650887",
+      "id": "Libération-5594680733884572635",
       "source": "Libération",
       "title": "Mort de Claudine Longet, chanteuse et actrice condamnée en 1976 pour la mort de son conjoint",
       "excerpt": "L’artiste française s’était fait connaître à la fin des années 1960, avant d’être condamnée à trente jours de prison pour avoir tiré accidentellement avec un pistolet sur son compagnon, le skieur amér...",
       "link": "https://www.liberation.fr/culture/musique/mort-de-claudine-longet-chanteuse-et-actrice-condamnee-en-1976-pour-la-mort-de-son-conjoint-20260516_BAJRRMZJSJGBJNLIT6RRZIK2SM/",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1778942153.0
     },
     {
-      "id": "France Info--4443307762725917379",
+      "id": "France Info-124603444003888165",
       "source": "France Info",
       "title": "\"On nettoie tout à l'eau de javel\" : en Patagonie, le secteur du tourisme commence à s'inquiéter des \"fantasmes\" autour de l'hantavirus",
       "excerpt": "Des cas d'hantavirus détectés sur un bateau de croisière parti d'Argentine ravivent les inquiétudes en Patagonie. Dans cette région très touristique, habitants et professionnels tentent de rassurer le...",
       "link": "https://www.franceinfo.fr/faits-divers/hantavirus-declare-a-bord-d-un-navire-de-croisiere/reportage-on-nettoie-tout-a-l-eau-de-javel-en-patagonie-le-secteur-du-tourisme-commence-a-s-inquieter-des-fantasmes-autour-de-l-hantavirus_8008073.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1778941606.0
     },
     {
-      "id": "Libération-8195729910723587209",
+      "id": "Libération-5722037591706639552",
       "source": "Libération",
       "title": "Cannes 2026 : Eva Huault fait un effet meuf",
       "excerpt": "A l’affiche de «Shana», présenté à la Quinzaine des cinéastes, l’actrice de 28 ans, cash et sympa, déconstruit son rapport à la beauté et décrit sa complicité avec la cinéaste Lila Pinell.",
       "link": "https://www.liberation.fr/culture/cinema/cannes-2026-eva-huault-fait-un-effet-meuf-20260516_JW5CA4BEQ5FTNJR5K4B4IJBVNQ/",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1778941026.0
     },
     {
-      "id": "Libération--6828812540955231766",
-      "source": "Libération",
-      "title": "Peut-on avoir une vie sexuelle sous antidépresseurs ?",
-      "excerpt": "Comment avoir envie de galipettes alors que le fait même de se lever le matin relève du défi ? A cette question, deux femmes répondent. Amy Waldo, auteure d’«Un roman érotique sous antidépresseurs» et...",
-      "link": "https://www.liberation.fr/lifestyle/intimites/peut-on-avoir-une-vie-sexuelle-sous-antidepresseurs-20260516_R37PM4NKKVDO3DR77XRCGIELS4/",
-      "time": "Il y a 2h",
-      "pubDate": 1778941020.0
-    },
-    {
-      "id": "Le Monde-591773263130823672",
+      "id": "Le Monde-5062612846023275806",
       "source": "Le Monde",
-      "title": "« On a parfois été en colère contre la terre entière, y compris contre notre frère » : quand les fratries font face à un parent dépendant",
-      "excerpt": "La survenue d’une maladie ou d’une incapacité chez un parent bouleverse l’équilibre des familles. Entre émotion, tensions et engagement à des degrés divers, l’accompagnement d’un proche peut mettre le...",
-      "link": "https://www.lemonde.fr/intimites/article/2026/05/16/on-a-parfois-ete-en-colere-contre-la-terre-entiere-y-compris-contre-notre-frere-quand-les-fratries-font-face-a-un-parent-dependant_6689892_6190330.html",
-      "time": "Il y a 2h",
-      "pubDate": 1778940417.0
+      "title": "EN DIRECT, guerre en Ukraine : après un échange avec Emmanuel Macron, Volodymyr Zelensky affirme que la France est prête à aider au renforcement de la défense aérienne ukrainienne",
+      "excerpt": "« C’est une décision forte et une étape importante », a souligné le président ukrainien, remerciant son homologue français pour sa condamnation « sans équivoque » des bombardements russes qui ont fait...",
+      "link": "https://www.lemonde.fr/international/live/2026/05/16/en-direct-guerre-en-ukraine-vladimir-poutine-se-rendra-en-chine-les-19-et-20-mai-quelques-jours-apres-la-visite-de-donald-trump-a-pekin_6687661_3210.html",
+      "time": "Il y a 4h",
+      "pubDate": 1778935603.0
     },
     {
-      "id": "Le Monde-4623208621822375082",
-      "source": "Le Monde",
-      "title": "Cannes 2026 : dans « Mémoire de fille », Judith Godrèche livre une adaptation sans relief du livre d’Annie Ernaux",
-      "excerpt": "Fille de la réalisatrice, Tess Barthélémy tient le rôle principal et incarne la romancière l’été de ses 18 ans, découvrant ce qu’elle croit être de l’amour.",
-      "link": "https://www.lemonde.fr/culture/article/2026/05/16/cannes-2026-dans-memoire-de-fille-judith-godreche-livre-une-adaptation-sans-relief-du-livre-d-annie-ernaux_6689890_3246.html",
-      "time": "Il y a 3h",
-      "pubDate": 1778937482.0
-    },
-    {
-      "id": "Le Monde--3767535995865500876",
-      "source": "Le Monde",
-      "title": "Gérald Darmanin ira en Algérie, lundi, pour discuter de coopération judiciaire et du cas de Christophe Gleizes",
-      "excerpt": "Le journaliste français Christophe Gleizes est détenu depuis près d’un an en Algérie. Alors que la France et l’Algérie traversent une profonde crise diplomatique depuis deux ans, le déplacement de M....",
-      "link": "https://www.lemonde.fr/international/article/2026/05/16/gerald-darmanin-ira-en-algerie-lundi-pour-discuter-de-cooperation-judiciaire-et-du-cas-de-christophe-gleizes_6689875_3210.html",
-      "time": "Il y a 6h",
-      "pubDate": 1778927613.0
-    },
-    {
-      "id": "France Info--7057247557027911028",
+      "id": "France Info--6092661939539976549",
       "source": "France Info",
       "title": "\"Il essayait de régler les problèmes\" : les camarades d'Elidja, l'adolescent tué par balle à Nantes, décrivent un jeune que \"tout le monde aimait bien\"",
       "excerpt": "Âgé de 15 ans et en classe de quatrième, Elidja a été abattu jeudi soir, dans le quartier Port Boyer de Nantes. Si la fusillade semble liée au narcotrafic, rien n'indique que l'adolescent était impliq...",
       "link": "https://www.franceinfo.fr/societe/drogue/reportage-adolescent-tue-a-nantes-les-camarades-d-elidja-mort-dans-la-fusillade-pleurent-une-jeune-homme-que-tout-le-monde-aimait-bien_8007785.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1778926620.0
     },
     {
-      "id": "Le Monde-8803470385483168036",
+      "id": "Le Monde-141108713407873788",
       "source": "Le Monde",
       "title": "Le pape Léon XIV se rendra en France du 25 au 28 septembre pour une visite d’Etat, annonce le Vatican",
       "excerpt": "Alors que le pape François ne s’était jamais rendu à Paris, Léon XIV fait le choix de venir dans la capitale pour une visite d’Etat. Il devrait, selon nos informations, aller également à Lourdes. Un t...",
       "link": "https://www.lemonde.fr/societe/article/2026/05/16/le-pape-leon-xiv-se-rendra-en-france-du-25-au-28-septembre-pour-une-visite-d-etat-annonce-le-vatican_6689873_3224.html",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1778926050.0
     },
     {
-      "id": "Le Monde--5375014774252369100",
+      "id": "Le Monde--7112962175286460036",
       "source": "Le Monde",
-      "title": "A Londres, des dizaines de milliers de manifestants d’extrême droite rassemblés à l’appel du militant Tommy Robinson",
-      "excerpt": "La capitale britannique a déployé quelque 4 000 policiers alors que Tommy Robinson, activiste islamophobe et anti-immigration, organise ce samedi une nouvelle marche après celle de septembre, qui avai...",
-      "link": "https://www.lemonde.fr/international/article/2026/05/16/a-londres-la-police-se-prepare-a-encadrer-une-nouvelle-marche-d-extreme-droite-a-l-appel-de-tommy-robinson_6689759_3210.html",
-      "time": "Il y a 9h",
-      "pubDate": 1778913338.0
+      "title": "Le chef de la branche armée du Hamas, Ezzedine Al-Haddad, tué dans une frappe isralienne à Gaza",
+      "excerpt": "La frappe israélienne a visé un immeuble résidentiel de la ville de Gaza, selon la défense civile. L’armée israélienne ainsi que des responsables du Hamas à l’AFP ont confirmé la mort d’Ezzedine Al-Ha...",
+      "link": "https://www.lemonde.fr/international/article/2026/05/16/israel-affirme-avoir-mene-une-frappe-a-gaza-contre-le-chef-de-la-branche-armee-du-hamas-ezzedine-al-haddad-7-morts-et-pres-de-50-blesses-selon-les-autorites_6689871_3210.html",
+      "time": "Il y a 8h",
+      "pubDate": 1778923773.0
+    },
+    {
+      "id": "Le Monde-3824687880634546153",
+      "source": "Le Monde",
+      "title": "Une gigantesque retenue d’eau au-dessus de Courchevel s’affaisse à une vitesse alarmante, poussant le préfet à prendre des mesures d’urgence",
+      "excerpt": "Une retenue d’eau creusée en 2020 pour garantir l’enneigement d’une piste de ski qui pourrait figurer aux JO Alpes 2030 menaçait jusqu’à peu un hameau de la commune, selon une étude géomorphologique à...",
+      "link": "https://www.lemonde.fr/planete/article/2026/05/16/une-gigantesque-retenue-d-eau-au-dessus-de-courchevel-s-affaisse-a-une-vitesse-alarmante-poussant-le-prefet-a-prendre-des-mesures-d-urgence_6689637_3244.html",
+      "time": "Il y a 14h",
+      "pubDate": 1778902205.0
     }
   ],
   "anglophone": [
     {
-      "id": "BBC News--2430746563364456695",
+      "id": "BBC News--5319318838266349152",
+      "source": "BBC News",
+      "title": "Taiwan insists it is independent after Trump warning",
+      "excerpt": "Fresh from his summit in Beijing, the US president warned against a formal declaration of independence by the island.",
+      "link": "https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 30 min",
+      "pubDate": 1778950913.0
+    },
+    {
+      "id": "BBC News-6592994404685021262",
+      "source": "BBC News",
+      "title": "Whale found dead near Danish island after German rescue operation",
+      "excerpt": "Wildlife experts had previous criticised the operation, saying it would only cause the animal more distress.",
+      "link": "https://www.bbc.com/news/articles/c1l28lql137o?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 31 min",
+      "pubDate": 1778950888.0
+    },
+    {
+      "id": "BBC News--3472174536787069107",
       "source": "BBC News",
       "title": "Man killed by 13ft shark in Western Australia",
       "excerpt": "The attack occurred at Horseshoe Reef - north-west of the popular Rottnest Island near the city of Perth, local police say.",
       "link": "https://www.bbc.com/news/articles/c1m2xy3dr20o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2 min",
+      "time": "Il y a 59 min",
       "pubDate": 1778949167.0
     },
     {
-      "id": "BBC News-3556810273076543775",
+      "id": "BBC News--5085853933222829563",
       "source": "BBC News",
       "title": "Toddlers among more than 50 schoolchildren kidnapped in Nigeria",
       "excerpt": "No group has yet claimed responsibility for the attacks, which have devastated Mussa town in Borno state.",
       "link": "https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 44 min",
+      "time": "Il y a 1h",
       "pubDate": 1778946609.0
     },
     {
-      "id": "NPR-3454654356967507813",
+      "id": "NPR-2624963150455836075",
       "source": "NPR",
       "title": "Timmy the humpback whale found dead off Danish coast",
       "excerpt": "A humpback whale found dead this week off a Danish island has been identified as the animal released two weeks ago in a spectacular and controversial rescue effort after repeatedly becoming stranded o...",
       "link": "https://www.npr.org/2026/05/16/g-s1-122490/timmy-humpback-whale-dead-stranded-rescue-denmark",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1778944364.0
     },
     {
-      "id": "BBC News--5537234317433419664",
+      "id": "BBC News-8540057127802890292",
       "source": "BBC News",
       "title": "Rescue diver dies during search for bodies of Italians who drowned in Maldives caves",
       "excerpt": "Staff Sgt Mohamed Mahdhee died while diving in the search-and-rescue operation, the Maldives government tells the BBC.",
       "link": "https://www.bbc.com/news/articles/c1w2gv1gdnjo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1778943700.0
     },
     {
-      "id": "BBC News-9073139949179969083",
+      "id": "BBC News-2594129380746491182",
       "source": "BBC News",
       "title": "Freight train and bus crash kills at least eight in Bangkok",
       "excerpt": "Police and rescue officials said the collision sparked a fire that engulfed the bus.",
       "link": "https://www.bbc.com/news/articles/c98rez3x0nwo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1778940859.0
     },
     {
-      "id": "NPR-8588618635487499225",
+      "id": "NPR--4732463867393632813",
       "source": "NPR",
       "title": "This Republican voted to convict Trump. Now he's up for reelection. Can he survive?",
       "excerpt": "Louisiana Sen. Bill Cassidy was one of seven Republican senators who voted to convict President Trump. Now he's running for reelection in a race that will test Trump's hold on the GOP.",
       "link": "https://www.npr.org/2026/05/16/g-s1-122486/louisiana-senate-cassidy-trump",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1778935113.0,
       "sources": [
         "NPR",
@@ -333,148 +351,133 @@
       "sourceCount": 2
     },
     {
-      "id": "BBC News--1862076803677450342",
+      "id": "BBC News--7245039886883751012",
       "source": "BBC News",
       "title": "Senior IS leader killed in joint operation, US and Nigeria say",
       "excerpt": "President Donald Trump said the operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki.",
       "link": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1778931894.0
     },
     {
-      "id": "NPR--3824693273116902507",
+      "id": "NPR--25469470957133733",
       "source": "NPR",
       "title": "Elephants eat their crops. Farmers strike back. It's a war that's only getting worse",
       "excerpt": "In Sri Lanka, the islanders revere elephants. But for farmers, there's rising tension that's leading to more fatal encounters — for both humans and hungry pachyderms.",
       "link": "https://www.npr.org/2026/05/16/g-s1-121654/elephants-farmers-crops-sri-lanka",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1778930365.0
     },
     {
-      "id": "NPR--5089206460566379569",
+      "id": "NPR-1460721600636645086",
       "source": "NPR",
       "title": "The townspeople of Vilseck, Germany, worry that Trump may pull out 5,000 U.S. troops",
       "excerpt": "President Trump's troop withdrawal threat rattles residents of a small Bavarian town reliant on U.S. military personnel and their families for both income and friendships built over decades.",
       "link": "https://www.npr.org/2026/05/16/nx-s1-5815881/trump-germany-withdrawal-nato-us-troops-vilseck",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1778925600.0
     },
     {
-      "id": "NPR--9006144187512109458",
+      "id": "NPR--4262917194799397500",
       "source": "NPR",
       "title": "Colleges got more rural students to apply. The challenge is getting them to attend",
       "excerpt": "Some of the nation's most selective institutions are slowly increasing their rural enrollment with the help of millions of dollars from a rural alumnus of the University of Chicago.",
       "link": "https://www.npr.org/2026/05/16/nx-s1-5797420/selective-colleges-woo-rural-students",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1778922000.0
     },
     {
-      "id": "NPR--6928339321866253714",
+      "id": "NPR--9185379104742423208",
       "source": "NPR",
       "title": "Trump says Islamic State group leader was killed in a joint U.S.-Nigerian mission",
       "excerpt": "Trump announced the joint operation in Africa's most populous country in a late-night social media post. He said Abu Bakr al-Mainuki was second in command of the Islamic State group globally.",
       "link": "https://www.npr.org/2026/05/16/g-s1-122461/islamic-state-leader-killed",
-      "time": "Il y a 8h",
+      "time": "Il y a 9h",
       "pubDate": 1778919815.0
     },
     {
-      "id": "BBC News-3139833194126165970",
-      "source": "BBC News",
-      "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
-      "excerpt": "The US president says he wants Beijing and Taipei to \"cool down\" tensions over the self-governing island.",
-      "link": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 10h",
-      "pubDate": 1778910821.0
-    },
-    {
-      "id": "NPR--6684034876936473791",
+      "id": "NPR-4618794955145140240",
       "source": "NPR",
       "title": "The Eurovision Song Contest reaches its grand final with pop and protests",
       "excerpt": "The final of the Eurovision Contest arrives Saturday, with tight security and rainy weather failing to dent the enthusiasm of fans, or the opposition of critics who think Israel shouldn't be invited.",
       "link": "https://www.npr.org/2026/05/16/nx-s1-5824325/eurovision-final-vienna",
-      "time": "Il y a 10h",
+      "time": "Il y a 11h",
       "pubDate": 1778910290.0
     },
     {
-      "id": "NPR--1599644938432002142",
+      "id": "NPR--3502335682441091432",
       "source": "NPR",
       "title": "Israel says it killed the leader of Hamas' military wing",
       "excerpt": "Israel says it has killed the leader of Hamas' military wing, one of the architects of the Oct, 7, 2023, attacks that triggered the war in Gaza.",
       "link": "https://www.npr.org/2026/05/16/g-s1-122453/gaza-airstrike-hamas-military-leader",
-      "time": "Il y a 11h",
+      "time": "Il y a 12h",
       "pubDate": 1778908557.0
     },
     {
-      "id": "The Guardian--2152727879545305928",
+      "id": "The Guardian-1741281534038854073",
       "source": "The Guardian",
       "title": "Trump says Islamic State ‘second in command’ killed by US and Nigerian forces",
       "excerpt": "US president calls Abu-Bilal al-Minuki ‘most active terrorist in the world’ and says he was eliminated in ‘very complex mission’ Donald Trump has said US and Nigerian forces killed the “second in comm...",
       "link": "https://www.theguardian.com/world/2026/may/16/islamic-state-abu-bilal-al-minuki-killed-by-us-nigerian-forces-trump-says",
-      "time": "Il y a 11h",
+      "time": "Il y a 12h",
       "pubDate": 1778907384.0
     },
     {
-      "id": "BBC News-2022605878211315628",
-      "source": "BBC News",
-      "title": "New outbreak of Ebola kills 80 in eastern DR Congo",
-      "excerpt": "Africa's top health agency says around 246 cases have been reported - a case has also been reported in Uganda.",
-      "link": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 12h",
-      "pubDate": 1778904686.0,
-      "sources": [
-        "BBC News",
-        "The Guardian"
-      ],
-      "multiSource": true,
-      "sourceCount": 2
-    },
-    {
-      "id": "BBC News-3009990402291824545",
+      "id": "BBC News--3660806861300319427",
       "source": "BBC News",
       "title": "US planning to charge ex-Cuban leader Raúl Castro",
       "excerpt": "Charges could come as soon as next week in a case reportedly focused on Cuba's downing of two planes in 1996.",
       "link": "https://www.bbc.com/news/articles/c1w2gnd9xp2o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 14h",
+      "time": "Il y a 15h",
       "pubDate": 1778895447.0
     },
     {
-      "id": "BBC News-6632779224088569582",
+      "id": "BBC News--8574942668944538178",
       "source": "BBC News",
       "title": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
       "excerpt": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.",
       "link": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 16h",
+      "time": "Il y a 17h",
       "pubDate": 1778889547.0
     },
     {
-      "id": "BBC News-2264063897269436331",
+      "id": "BBC News--7355106978342730151",
       "source": "BBC News",
       "title": "Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele",
       "excerpt": "Mengele fled Europe after the war but for years there were rumours he spent time in Switzerland.",
       "link": "https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 17h",
+      "time": "Il y a 18h",
       "pubDate": 1778886273.0
     },
     {
-      "id": "NPR--3464764538327143540",
+      "id": "NPR--4401772373471783573",
       "source": "NPR",
       "title": "Supreme Court is death knell for Virginia's Democratic-friendly congressional maps",
       "excerpt": "The new map was drawn by Democrats and approved by Virginia voters, but the state Supreme Court declared the referendum null and void because lawmakers failed to follow the proper procedures to get th...",
       "link": "https://www.npr.org/2026/05/15/nx-s1-5823911/supreme-court-virginia-redistricting",
-      "time": "Il y a 17h",
+      "time": "Il y a 18h",
       "pubDate": 1778885922.0
     },
     {
-      "id": "The Guardian--5112592417801368271",
+      "id": "The Guardian--6862070007545041057",
+      "source": "The Guardian",
+      "title": "Ebola outbreak kills 65 people in eastern Democratic Republic of the Congo",
+      "excerpt": "Uganda also reports outbreak and health officials say cases were caused by Bundibugyo strain of virus An outbreak of Ebola has killed 65 people in the Democratic Republic of the Congo, health official...",
+      "link": "https://www.theguardian.com/global-development/2026/may/15/ebola-outbreak-drc-africa-deaths",
+      "time": "Il y a 23h",
+      "pubDate": 1778869324.0
+    },
+    {
+      "id": "The Guardian-9119831518916490797",
       "source": "The Guardian",
       "title": "Threatened indictment of Raúl Castro ratchets up US pressure on Cuba",
       "excerpt": "Trump administration move echoes indictment of Venezuela’s Nicolás Maduro as fuel crisis racks Cuba Tensions between Cuba and US seem set to rise further amid reports that <br />\n Raúl Castro, the cou...",
       "link": "https://www.theguardian.com/world/2026/may/15/raul-castro-indictment-cuba-trump",
-      "time": "Il y a 23h",
+      "time": "Il y a 1j",
       "pubDate": 1778866309.0
     },
     {
-      "id": "The Guardian--4737064337459879870",
+      "id": "The Guardian-2719694633192786585",
       "source": "The Guardian",
       "title": "Mali’s forces target rebel alliance in junta’s fight to keep power",
       "excerpt": "Army supported by Russian mercenaries launches airstrikes after offensive by coalition of Islamist extremists and Tuareg separatists Mali’s armed forces, supported by Russian mercenaries, have launche...",
@@ -483,7 +486,7 @@
       "pubDate": 1778857055.0
     },
     {
-      "id": "The Guardian-135772201123020790",
+      "id": "The Guardian-5458198818170069976",
       "source": "The Guardian",
       "title": "Weather tracker: Furnace Creek sizzles as snow sweeps Siberia in a week of extremes",
       "excerpt": "Record heat in North and Central America coincides with egg-sized hailstones in eastern China Extreme weather across several parts of the world this week has brought record-breaking temperatures to Ho...",
@@ -492,7 +495,7 @@
       "pubDate": 1778839490.0
     },
     {
-      "id": "The Guardian-3109949980370173973",
+      "id": "The Guardian--5035634219769608601",
       "source": "The Guardian",
       "title": "13 men killed by US military boat strikes identified: ‘These were flesh-and-blood people’",
       "excerpt": "All victims of US strikes in eastern Pacific and the Caribbean identified so far came from extremely poor communities <ul><li><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-brea...",
@@ -501,7 +504,7 @@
       "pubDate": 1778839237.0
     },
     {
-      "id": "The Guardian-1558846184019277861",
+      "id": "The Guardian--325183844902325379",
       "source": "The Guardian",
       "title": "CIA director has met officials in Havana for talks, Cuba claims",
       "excerpt": "Visit comes after US-Cuba relations deteriorated significantly, and as the island nation declared it had ‘absolutely no fuel’ because of US blockade CIA director John Ratcliffe met Cuban officials in...",
@@ -510,7 +513,7 @@
       "pubDate": 1778805587.0
     },
     {
-      "id": "The Guardian-3237940268718745074",
+      "id": "The Guardian--6051838805671459737",
       "source": "The Guardian",
       "title": "Canada is welcome to join Eurovision, says song contest director",
       "excerpt": "‘We know that Mark Carney wants to sort of embrace Europe,’ says competition director Martin Green Canada is welcome to join Eurovision if it wishes, its director has said, months after the country re...",
@@ -519,7 +522,7 @@
       "pubDate": 1778803111.0
     },
     {
-      "id": "The Guardian-2820842524467939785",
+      "id": "The Guardian--8677860289495625453",
       "source": "The Guardian",
       "title": "Judge orders Trump administration to return Colombian woman deported to DRC back to the US",
       "excerpt": "Judge called Adriana Maria Quiroz Zapata’s deportation to the Democratic Republic of Congo ‘likely illegal’ A federal judge has ordered the <a href=\"https://www.theguardian.com/us-news/trump-administr...",
@@ -528,7 +531,7 @@
       "pubDate": 1778784563.0
     },
     {
-      "id": "The Guardian-4790976735175156346",
+      "id": "The Guardian-449282212846414593",
       "source": "The Guardian",
       "title": "UN pleads for Equatorial Guinea not to send US asylum seekers to their home countries: ‘Their life would be in danger’",
       "excerpt": "Human rights experts make rare public appeal as US deportees describe being held in ‘prison-like’ conditions Human rights experts at the United Nations issued a rare public appeal to Equatorial Guinea...",
@@ -537,5 +540,5 @@
       "pubDate": 1778756425.0
     }
   ],
-  "lastUpdate": "2026-05-16T16:35:05.563197"
+  "lastUpdate": "2026-05-16T17:32:32.386714"
 }
