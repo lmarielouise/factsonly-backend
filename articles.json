@@ -1,477 +1,486 @@
 {
   "francophone": [
     {
-      "id": "Libération-3784269808004823885",
+      "id": "Le Monde-7575131437224372750",
+      "source": "Le Monde",
+      "title": "Mort d’un enfant de 12 ans à Rennes : un mineur de 16 ans arrêté, des plongeurs à la recherche d’indices... ce que l’on sait de l’enquête",
+      "excerpt": "Le garçon a été retrouvé mort sur la rive de la Vilaine, une serviette de bain mouillée « nouée très serrée autour de son cou ». Les circonstances du drame sont encore à établir.",
+      "link": "https://www.lemonde.fr/societe/article/2026/05/25/mort-d-un-enfant-de-12-ans-a-rennes-un-mineur-de-16-ans-arrete-des-plongeurs-a-la-recherche-d-indices-ce-que-l-on-sait-de-l-enquete_6693625_3225.html",
+      "time": "Il y a 6 min",
+      "pubDate": 1779705438.0
+    },
+    {
+      "id": "Libération--3556821134961073611",
       "source": "Libération",
-      "title": "EN DIRECT - Moyen-Orient : pour Marco Rubio, un accord «solide» est toujours possible ce lundi",
+      "title": "«Enhanced Games» : beaucoup de bruit mais un seul record battu lors des «Jeux des dopés»",
+      "excerpt": "Kristian Gkolomeev, nageur grec, a nagé le 50 mètres nage libre sept centième plus vite que le record officiel dimanche à Las Vegas, lors de la première édition de la compétition où le dopage est enco...",
+      "link": "https://www.liberation.fr/societe/police-justice/enhanced-games-beaucoup-de-bruit-mais-un-seul-record-battu-lors-des-jeux-des-dopes-20260525_NIFJYBPBLFE3VIPDOUS7LY4XEM/",
+      "time": "Il y a 14 min",
+      "pubDate": 1779704942.0
+    },
+    {
+      "id": "Libération--3003746191008818786",
+      "source": "Libération",
+      "title": "Une vingtaine de blessés après qu’un homme a pulvérisé une substance dans un centre commercial de Tokyo",
+      "excerpt": "Une enquête de police a été ouverte dans la capitale japonaise qui reste marquée par l’attaque au gaz sarin dans le métro perpétrée par la secte Aum en 1995.",
+      "link": "https://www.liberation.fr/international/asie-pacifique/une-vingtaine-de-blesses-apres-quun-homme-a-pulverise-une-substance-dans-un-centre-commercial-de-tokyo-20260525_EOLQ2ITCEZCUVIN3DBGFV7YDXI/",
+      "time": "Il y a 22 min",
+      "pubDate": 1779704448.0
+    },
+    {
+      "id": "France Info-1154896872882999452",
+      "source": "France Info",
+      "title": "Un mineur de 16 ans arrêté au lendemain de la découverte du corps d'un enfant de 12 ans avec une serviette nouée autour du cou à Rennes",
+      "excerpt": "La victime a été retrouvée au pied d'un immeuble dimanche, vers 17 heures, dans le quartier Saint-Hélier.",
+      "link": "https://www.franceinfo.fr/faits-divers/un-mineur-de-16-ans-arrete-au-lendemain-de-la-decouverte-du-corps-d-un-enfant-de-12-ans-avec-une-serviette-nouee-autour-du-cou-a-rennes_8026943.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 23 min",
+      "pubDate": 1779704366.0
+    },
+    {
+      "id": "Libération--1307365048243314337",
+      "source": "Libération",
+      "title": "Découverte d’un enfant mort à Rennes, une serviette «nouée très serrée» autour du cou : un adolescent interpellé",
+      "excerpt": "La police a retrouvé le corps sans vie sur les rives de la Vilaine dimanche, après avoir été alertée par un pêcheur. Selon le parquet de Rennes, un adolescent de 16 ans a été interpellé ce lundi 25 ma...",
+      "link": "https://www.liberation.fr/societe/police-justice/rennes-un-enfant-retrouve-mort-dans-un-buisson-avec-un-linge-autour-du-cou-20260524_L3SD7FQ32VAVZMXWOJZWZ45BH4/",
+      "time": "Il y a 34 min",
+      "pubDate": 1779703744.0
+    },
+    {
+      "id": "France Info--2715890458509602073",
+      "source": "France Info",
+      "title": "Une famille de la Creuse reconstitue un morceau manquant de 25 m² de la tapisserie de Bayeux",
+      "excerpt": "Selon les historiens, il manque notamment sur la tapisserie la scène du couronnement de Guillaume le Conquérant à Westminster.",
+      "link": "https://www.franceinfo.fr/culture/patrimoine/une-famille-de-la-creuse-reconstitue-un-morceau-manquant-de-25-m-de-la-tapisserie-de-bayeux_8026910.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 35 min",
+      "pubDate": 1779703656.0
+    },
+    {
+      "id": "France Info--4932349061697588432",
+      "source": "France Info",
+      "title": "Des cambrioleurs dérobent des sacs de luxe lors d'un braquage à la voiture-bélier à Paris, le préjudice estimé à 200 000 euros",
+      "excerpt": "Une enquête a été ouverte et confiée à la Brigade de répression du banditisme, a précisé le parquet de Paris à l'Agence Radio France.",
+      "link": "https://www.franceinfo.fr/faits-divers/des-cambrioleurs-derobent-des-sacs-de-luxe-lors-d-un-braquage-a-la-voiture-belier-a-paris-le-prejudice-estime-a-200-000_8026895.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 39 min",
+      "pubDate": 1779703418.0
+    },
+    {
+      "id": "Libération--2945190798105846989",
+      "source": "Libération",
+      "title": "EN DIRECT - Moyen-Orient : «personne ne peut affirmer» que la signature d’un accord entre l’Iran et les Etats-Unis est imminente, juge Téhéran",
       "excerpt": "Téhéran comme Washington ont souligné des percées dans les négociations ce week-end. Le texte semble acter la réouverture du détroit d’Ormuz, mais reporter le nucléaire à plus tard.",
       "link": "https://www.liberation.fr/international/moyen-orient/en-direct-moyen-orient-pour-marco-rubio-un-accord-solide-est-toujours-possible-ce-lundi-20260525_Y2GQUDZCCNANBCAEGXVDRPKK24/",
-      "time": "Il y a 2 min",
-      "pubDate": 1779689031.0
+      "time": "Il y a 41 min",
+      "pubDate": 1779703298.0
     },
     {
-      "id": "France Info-8959521457189700033",
-      "source": "France Info",
-      "title": "\"C'était un peu Koh-Lanta\" : chez Aroma-Zone, poids-lourd de la beauté en France, d'anciennes intérimaires dénoncent \"la précarité organisée\"",
-      "excerpt": "D'anciennes collaboratrices dénoncent un recours important à l'intérim chez la marque de cosmétique française et des fins de mission sans motif, parfois brutales. Des contrats précaires qui s'inscrive...",
-      "link": "https://www.franceinfo.fr/societe/enquete-franceinfo-c-etait-un-peu-koh-lanta-chez-aroma-zone-poids-lourd-de-la-beaute-et-du-bien-etre-en-france-d-anciennes-interimaires-denoncent-la-precarite-organisee_8015987.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 4 min",
-      "pubDate": 1779688927.0
+      "id": "Le Monde--4744255076490650459",
+      "source": "Le Monde",
+      "title": "Béatrice Bellamy, députée Horizons de Vendée, est morte à l’âge de 59 ans",
+      "excerpt": "Elue à l’Assemblée nationale en 2022 puis en 2024, la parlementaire avait auparavant travaillé pour Pierre Fabre et Sanofi. Fondateur d’Horizons, Edouard Philippe a salué « une femme engagée, dotée d’...",
+      "link": "https://www.lemonde.fr/politique/article/2026/05/25/beatrice-bellamy-deputee-horizons-de-vendee-est-morte-a-l-age-de-59-ans_6693638_823448.html",
+      "time": "Il y a 57 min",
+      "pubDate": 1779702354.0
     },
     {
-      "id": "France Info--5229909128582280193",
-      "source": "France Info",
-      "title": "Finale de la Coupe de France de football : quinze personnes mises en examen après les violences impliquant des supporters de l'OGC Nice à Paris",
-      "excerpt": "Sept personnes avaient été blessées, dont trois ont été hospitalisées en urgence absolue jeudi soir.",
-      "link": "https://www.franceinfo.fr/faits-divers/finale-de-la-coupe-de-france-de-football-quinze-personnes-mises-en-examen-apres-les-violences-impliquant-des-supporters-de-l-ogc-nice_8026625.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 5 min",
-      "pubDate": 1779688813.0
-    },
-    {
-      "id": "Libération--8909972038816356402",
+      "id": "Libération-5686940450744825477",
       "source": "Libération",
-      "title": "L’affiche du jour à Roland-Garros : la der des ders pour Stan Wawrinka ?",
-      "excerpt": "Chaque jour pendant le Grand Chelem, les envoyés spéciaux de «Libération» sélectionnent une rencontre à ne pas manquer. Subjectivité assumée. Ce lundi 25 mai, un ancien vainqueur du tournoi pourrait d...",
-      "link": "https://www.liberation.fr/sports/tennis/laffiche-du-jour-a-roland-garros-la-der-des-ders-pour-stan-wawrinka-20260525_4QNB7CREYVDFFBBFM56Z2P46KA/",
-      "time": "Il y a 6 min",
-      "pubDate": 1779688800.0
+      "title": "La députée de Vendée Béatrice Bellamy meurt d’un cancer, à 59 ans",
+      "excerpt": "La secrétaire nationale du parti Horizons a succombé dimanche à la maladie, annonce ce lundi son équipe parlementaire.",
+      "link": "https://www.liberation.fr/politique/la-deputee-de-vendee-beatrice-bellamy-meurt-dun-cancer-a-59-ans-20260525_UOVWXZHOWBG6PE6ZLMZBOPHNW4/",
+      "time": "Il y a 58 min",
+      "pubDate": 1779702319.0
     },
     {
-      "id": "France Info--3824135150874633784",
+      "id": "France Info-6613159352631559196",
       "source": "France Info",
-      "title": "Episode de chaleur : la vigilance jaune à la canicule étendue à 18 départements de l'Ouest et de l'Ile-de-France",
-      "excerpt": "Il s'agit d'un \"épisode de chaleur précoce et remarquable, concernant l'ouest du pays et Paris intra-muros\", a précisé le prévisionniste dans son bulletin publié à 6 heures.",
-      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-vague-de-chaleur-la-vigilance-jaune-a-la-canicule-a-ete-etendue-a-18-departements-de-la-bretagne-au-sud-est_8026577.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 12 min",
-      "pubDate": 1779688419.0
+      "title": "Sept personnes blessées dans l'explosion d'un immeuble en Vendée",
+      "excerpt": "Selon le sous-préfet, l'explosion pourrait avoir été causée par \"une tentative de suicide au gaz\".",
+      "link": "https://www.franceinfo.fr/faits-divers/sept-personnes-blessees-par-une-explosion-dans-un-immeuble-en-vendee_8026790.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 59 min",
+      "pubDate": 1779702233.0
     },
     {
-      "id": "Le Monde-7449276326319157918",
+      "id": "Libération-561433266844296036",
+      "source": "Libération",
+      "title": "Mal de mer : «La piña colada fait son effet et là, c’est le domino de vomito autour de moi»",
+      "excerpt": "La croisière s’amuse… Enfin, pas toujours. Dans le premier épisode de notre série, Vassa, 36 ans, raconte une traversée plus qu’agitée sur la côte Caraïbes en Colombie, au début du Covid.",
+      "link": "https://www.liberation.fr/lifestyle/voyages/mal-de-mer-la-pina-colada-fait-son-effet-et-la-cest-le-domino-de-vomito-autour-de-moi-20260525_LZN4HH4RAFDKXDG7ZBM5EOH5HA/",
+      "time": "Il y a 1h",
+      "pubDate": 1779702183.0
+    },
+    {
+      "id": "France Info--1504596137939217916",
+      "source": "France Info",
+      "title": "La députée de Vendée Béatrice Bellamy est morte d'un cancer à 59 ans",
+      "excerpt": "Membre du groupe Horizons à l'Assemblée nationale, Béatrice Bellamy était députée à la Roche-sur-Yon, la 2e circonscription de Vendée.",
+      "link": "https://www.franceinfo.fr/sante/cancer/la-deputee-de-vendee-beatrice-bellamy-est-decedee-d-un-cancer-a-59-ans_8026829.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1779702005.0
+    },
+    {
+      "id": "France Info-3314952138641113649",
+      "source": "France Info",
+      "title": "Ligue de champions : pas de parade sur les Champs-Elysées en cas de victoire du PSG contre Arsenal",
+      "excerpt": "Le PSG affrontera Arsenal samedi à Budapest (18h) en finale de la Ligue des champions. La préfecture de police de Paris prévoit un dispositif de sécurité renforcé pour encadrer les éventuels rassemble...",
+      "link": "https://www.franceinfo.fr/sports/foot/ligue-des-champions/finale/ligue-de-champions-pas-de-parade-sur-les-champs-elysees-en-cas-de-victoire-du-psg-contre-arsenal_8026868.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1779701471.0
+    },
+    {
+      "id": "Le Monde-2024579593687401067",
+      "source": "Le Monde",
+      "title": "Le pape Léon XIV appelle à « désarmer l’intelligence artificielle »",
+      "excerpt": "Dans sa première encyclique, intitulée « Magnifica humanitas », le pape alerte sur l’impact d’une technologie considérée comme un défi anthropologique à l’humanité, s’inscrivant de plain-pied dans les...",
+      "link": "https://www.lemonde.fr/international/article/2026/05/25/le-pape-leon-xiv-appelle-a-desarmer-l-intelligence-artificielle_6693635_3210.html",
+      "time": "Il y a 1h",
+      "pubDate": 1779701404.0
+    },
+    {
+      "id": "Le Monde--236142930354375907",
+      "source": "Le Monde",
+      "title": "L’affaire Hichem Aboud, cible présumée d’une tentative de meurtre, nouvelle ombre entre Paris et Alger",
+      "excerpt": "La mise en examen de quatre personnes suspectées d’une tentative de meurtre à Roubaix, en février 2025, contre Hichem Aboud, un opposant au régime algérien, risque de compliquer la reprise du dialogue...",
+      "link": "https://www.lemonde.fr/afrique/article/2026/05/25/l-affaire-hichem-aboud-nouvelle-ombre-entre-paris-et-alger_6693634_3212.html",
+      "time": "Il y a 1h",
+      "pubDate": 1779701404.0
+    },
+    {
+      "id": "Libération--2313793216186582367",
+      "source": "Libération",
+      "title": "«Désarmer l’IA» : le pape Léon XIV alerte sur les dangers de «nouveaux esclavages» dans sa première encyclique",
+      "excerpt": "Le pontife américain publie et présente, ce lundi 25 mai au Vatican, un texte intitulé «Magnifica humanitas» («Magnifique humanité»), dans lequel il appelle à une régulation forte de l’intelligence ar...",
+      "link": "https://www.liberation.fr/societe/religions/desarmer-lia-le-pape-leon-xiv-alerte-sur-les-dangers-de-nouveaux-esclavages-dans-sa-premiere-encyclique-20260525_IVM67USBABETFGHNPYTZJGKSAQ/",
+      "time": "Il y a 1h",
+      "pubDate": 1779701400.0
+    },
+    {
+      "id": "Le Monde-805800857734448337",
+      "source": "Le Monde",
+      "title": "EN DIRECT, guerre en Ukraine : deux morts, près de 90 blessés et quelque 300 infrastructures touchées dans les bombardements russes sur Kiev dimanche, selon de nouveaux bilans",
+      "excerpt": "Les habitations représentaient la moitié des cibles touchées par les explosions et les débris de projectiles, selon le président ukrainien. Six oblasts ukrainiens ont été touchés par cette nouvelle va...",
+      "link": "https://www.lemonde.fr/international/live/2026/05/25/en-direct-guerre-en-ukraine-deux-morts-pres-de-90-blesses-et-quelque-300-infrastructures-touchees-dans-les-bombardements-russes-sur-kiev-dimanche-selon-de-nouveaux-bilans_6693162_3210.html",
+      "time": "Il y a 1h",
+      "pubDate": 1779698997.0
+    },
+    {
+      "id": "Le Monde--9105681333149091555",
+      "source": "Le Monde",
+      "title": "EN DIRECT, guerre au Moyen-Orient : Marco Rubio dit être en attente de la réponse de l’Iran à propos d’un accord « solide » ; Téhéran assure avoir fait des progrès, mais rappelle qu’un accord n’est pas imminent",
+      "excerpt": "Le président américain, Donald Trump, avait déjà tempéré, dimanche, les espoirs d’un accord imminent avec l’Iran pour mettre durablement fin à la guerre au Moyen-Orient, malgré des signes de progrès d...",
+      "link": "https://www.lemonde.fr/international/live/2026/05/25/en-direct-guerre-au-moyen-orient-marco-rubio-dit-etre-en-attente-de-la-reponse-de-l-iran-a-propos-d-un-accord-solide-teheran-assure-avoir-fait-des-progres-mais-rappelle-qu-un-accord-n-est-pas-imminent_6691823_3210.html",
+      "time": "Il y a 1h",
+      "pubDate": 1779698623.0
+    },
+    {
+      "id": "France Info--8903585382595554008",
+      "source": "France Info",
+      "title": "Guerre au Moyen-Orient : l'Iran évoque des progrès dans les négociations avec les Etats-Unis, mais estime qu'un accord n'est pas imminent",
+      "excerpt": "Les Etats-Unis avaient évoqué dimanche des \"progrès significatifs\" sur un nouveau projet d'accord, en cours de négociation avec Téhéran.",
+      "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-un-accord-avec-l-iran-est-encore-possible-lundi-estime-le-secretaire-d-etat-americain_8026529.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 2h",
+      "pubDate": 1779698475.0
+    },
+    {
+      "id": "France Info--5182081815602691612",
+      "source": "France Info",
+      "title": "Une nuit \"exceptionnellement chaude\" : des records de chaleurs battus dans la nuit de dimanche à lundi à travers la France",
+      "excerpt": "Une vague de chaleur s'abat depuis plusieurs jours sur la France, et notamment dans les régions de l'Ouest, comme en Bretagne.",
+      "link": "https://www.franceinfo.fr/environnement/meteo/records-de-chaleurs-battus-dans-la-nuit-de-dimanche-a-lundi-a-lorient-quimper-et-nantes_8026613.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 2h",
+      "pubDate": 1779698198.0
+    },
+    {
+      "id": "Libération-6084818950319186422",
+      "source": "Libération",
+      "title": "Iain Levison et Pierre Hanot : du noir et beaucoup d’humour",
+      "excerpt": "L’un est écossais, l’autre français, ils écrivent tous deux des textes courts, drôles et cinglants dont les héros sont des voyous de petite envergure.",
+      "link": "https://www.liberation.fr/culture/livres/iain-levison-et-pierre-hanot-du-noir-et-beaucoup-dhumour-20260525_LSWRP6QNGVHEVLM3KREDHGC6JY/",
+      "time": "Il y a 2h",
+      "pubDate": 1779697932.0
+    },
+    {
+      "id": "Libération--6663763036091022060",
+      "source": "Libération",
+      "title": "Plus de vingt ans après, un ancien prêtre mis en examen dans le Var pour viols et agressions sexuelles sur une enfant de 11 ans",
+      "excerpt": "L’homme a été placé sous contrôle judiciaire, contre l’avis du parquet a annoncé le procureur de Toulon, dimanche. Les faits dénoncés se sont déroulés de 2000 à 2003.",
+      "link": "https://www.liberation.fr/societe/police-justice/plus-de-vingt-ans-apres-un-ancien-pretre-mis-en-examen-dans-le-var-pour-viols-et-agressions-sexuelles-sur-une-enfant-de-11-ans-20260525_SNE7SF63OBG67A3XGWSG76PO7I/",
+      "time": "Il y a 2h",
+      "pubDate": 1779697509.0
+    },
+    {
+      "id": "Libération--956904553700095375",
+      "source": "Libération",
+      "title": "La Hongrie s’apprête à tourner définitivement la page Viktor Orbán",
+      "excerpt": "Le Parlement hongrois compte modifier la Constitution avec un amendement empêchant l’élection d’un Premier ministre ayant déjà exercé cette fonction pendant plus de huit ans, de sorte que l’autoritair...",
+      "link": "https://www.liberation.fr/international/europe/la-hongrie-sapprete-a-tourner-definitivement-la-page-viktor-orban-20260525_CJVJ7X5YEJCWXIOY5CBQGZFRYE/",
+      "time": "Il y a 2h",
+      "pubDate": 1779696996.0
+    },
+    {
+      "id": "France Info-495480064921816652",
+      "source": "France Info",
+      "title": "Une épreuve de spécialité du baccalauréat pourra être passée en langue régionale à partir de 2028, annonce le ministre de l'Education nationale",
+      "excerpt": "Un élève qui \"aura suivi une spécialité sur les deux années de première et de terminale (...) dans une langue vivante régionale\" pourra \"passer l'épreuve correspondante dans cette langue\", a affirmé E...",
+      "link": "https://www.franceinfo.fr/bac/une-epreuve-de-specialite-du-baccalaureat-pourra-etre-passee-en-langue-regionale-a-partir-de-2028-annonce-le-ministre-de-l-education-nationale_8026649.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 2h",
+      "pubDate": 1779696568.0
+    },
+    {
+      "id": "Le Monde--7244391464445302979",
+      "source": "Le Monde",
+      "title": "EN DIRECT, Roland-Garros 2026 : Arthur Rinderknech et Luca Van Assche sur les courts, Jasmine Paolini, Jiri Lehecka et Alex De Minaur entrent en lice",
+      "excerpt": "Roland-Garros se poursuit, lundi à Paris, pour le deuxième jour de compétition. Ben Shelton, Alex de Minaur et Casper Ruud chez les hommes, ainsi qu’Iga Swiatek, Elena Rybakina et Elina Svitolina chez...",
+      "link": "https://www.lemonde.fr/sport/live/2026/05/25/en-direct-roland-garros-2026-suivez-la-journee-du-lundi-25-mai_6693623_3242.html",
+      "time": "Il y a 2h",
+      "pubDate": 1779696002.0
+    },
+    {
+      "id": "Le Monde--6627707644718593631",
+      "source": "Le Monde",
+      "title": "Sophie Binet, secrétaire générale de la CGT, annonce sa mise en examen pour « diffamation » après une plainte de la direction de Tefal",
+      "excerpt": "La syndicaliste a expliqué, lundi sur France 2, faire l’objet d’une plainte déposée par le fabricant d’articles de cuisine Tefal qui lui reproche d’avoir accusé l’entreprise de mener une « répression...",
+      "link": "https://www.lemonde.fr/politique/article/2026/05/25/sophie-binet-secretaire-generale-de-la-cgt-annonce-sa-mise-en-examen-pour-diffamation-apres-une-plainte-de-la-direction-de-tefal_6693620_823448.html",
+      "time": "Il y a 3h",
+      "pubDate": 1779694666.0
+    },
+    {
+      "id": "France Info-5830388433892434280",
+      "source": "France Info",
+      "title": "Le programme de lundi à Roland-Garros : Gaël Monfils débute sa dernière quinzaine parisienne, neuf Français sur les courts, Iga Swiatek entre en lice",
+      "excerpt": "Pour la seconde journée du tournoi, le public aura droit à deux duels 100% français lundi.",
+      "link": "https://www.franceinfo.fr/roland-garros/programme/le-programme-de-lundi-a-roland-garros-gael-monfils-debute-sa-derniere-quinzaine-parisienne-neuf-francais-sur-les-courts-iga-swiatek-entre-en-lice_8025131.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 3h",
+      "pubDate": 1779694056.0
+    },
+    {
+      "id": "Le Monde-6801407372517257601",
       "source": "Le Monde",
       "title": "Canicule : la vigilance jaune étendue à 18 départements, dont Paris et ceux de la petite couronne",
       "excerpt": "Aux treize départements de l’ouest de la France déjà placés à ce niveau d’alerte s’ajoutent le Finistère, suivis à partir de midi par la Seine-Saint-Denis, le Val-de-Marne, les Hauts-de-Seine et Paris...",
       "link": "https://www.lemonde.fr/planete/article/2026/05/25/canicule-la-vigilance-jaune-etendue-a-18-departements-dont-paris-et-la-petite-couronne_6693611_3244.html",
-      "time": "Il y a 34 min",
+      "time": "Il y a 5h",
       "pubDate": 1779687121.0
     },
     {
-      "id": "Le Monde-5647870437324839616",
+      "id": "Le Monde-2460208772055061926",
       "source": "Le Monde",
-      "title": "Roland-Garros 2026 : le programme du lundi 25 mai",
-      "excerpt": "Suite du premier tour du tournoi du Grand Chelem parisien, lundi, avec notamment les entrées en lice de Gaël Monfils et Stan Wawrinka, pour leur dernier « Roland », et de la quadruple vainqueure porte...",
-      "link": "https://www.lemonde.fr/sport/article/2026/05/25/roland-garros-2026-le-programme-du-lundi-25-mai_6693609_3242.html",
-      "time": "Il y a 36 min",
-      "pubDate": 1779687006.0
-    },
-    {
-      "id": "Libération--1844696549409525823",
-      "source": "Libération",
-      "title": "«Les devis qui partent ne reviennent pas signés» : les artisans du bâtiment inquiets de l’envolée du prix des matériaux",
-      "excerpt": "Carnets de commandes creusés, marges rognées, devis périmés… Les entreprises du secteur du bâtiment et des travaux publics, frappées par la flambée des prix des matériaux issus de la pétrochimie, cons...",
-      "link": "https://www.liberation.fr/economie/les-devis-qui-partent-ne-reviennent-pas-signes-les-artisans-du-batiment-inquiets-de-lenvolee-du-prix-des-materiaux-20260525_CTNZ46JSCJBPXARL73ZEXBIMEA/",
-      "time": "Il y a 41 min",
-      "pubDate": 1779686700.0
-    },
-    {
-      "id": "Le Monde-1729044666003139665",
-      "source": "Le Monde",
-      "title": "Rémi Lefebvre, politiste : « La gauche découpe son espace électoral en petites parts de marché dans une logique d’optimisation »",
-      "excerpt": "Dans une tribune au « Monde », le professeur de science politique déplore qu’à l’approche de la présidentielle, les partis de gauche aient fait le choix de la segmentation, donnant ainsi l’impression...",
-      "link": "https://www.lemonde.fr/idees/article/2026/05/25/remi-lefebvre-politiste-la-gauche-decoupe-son-espace-electoral-en-petites-parts-de-marche-dans-une-logique-d-optimisation_6693608_3232.html",
-      "time": "Il y a 48 min",
-      "pubDate": 1779686274.0
-    },
-    {
-      "id": "France Info--1632174373903484902",
-      "source": "France Info",
-      "title": "Guerre au Moyen-Orient : un accord avec l'Iran est toujours possible lundi, estime le secrétaire d'Etat américain",
-      "excerpt": "Marco Rubio avait évoqué dimanche des \"progrès significatifs\" sur un nouveau projet d'accord, en cours de négociation avec Téhéran.",
-      "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-un-accord-avec-l-iran-est-encore-possible-lundi-estime-le-secretaire-d-etat-americain_8026529.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 51 min",
-      "pubDate": 1779686092.0
-    },
-    {
-      "id": "France Info--564901759416322548",
-      "source": "France Info",
-      "title": "Roland-Garros 2026 : Rafael Jodar, le nouveau “Rafa” espagnol à l’ascension fulgurante",
-      "excerpt": "Le jeune Madrilène de 19 ans était classé 675e mondial en mai 2025, et se présente à Roland-Garros avec la tête de série numéro 27 un an plus tard.",
-      "link": "https://www.franceinfo.fr/roland-garros/roland-garros-2026-rafael-jodar-le-nouveau-rafa-espagnol-a-l-ascension-fulgurante_8009843.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
-      "pubDate": 1779685201.0
-    },
-    {
-      "id": "Libération-387476619377920749",
-      "source": "Libération",
-      "title": "«Il fait preuve d’un autoritarisme et d’une verticalité folle» : à Sciences-Po Paris, la méthode de Luis Vassy crée des remous",
-      "excerpt": "Si l’institution de la rue Saint-Guillaume semble avoir retrouvé son prestige auprès de l’Etat et des mécènes, un vent de contestation monte en interne, chez les enseignants comme chez les étudiants e...",
-      "link": "https://www.liberation.fr/idees-et-debats/il-fait-preuve-dun-autoritarisme-et-dune-verticalite-folle-a-sciences-po-paris-la-methode-de-luis-vassy-cree-des-remous-20260525_XPQ3D7A2KFGA7NGXMLT6W5MXVQ/",
-      "time": "Il y a 1h",
-      "pubDate": 1779685200.0
-    },
-    {
-      "id": "Le Monde-7308441963467572163",
-      "source": "Le Monde",
-      "title": "EN DIRECT, guerre au Moyen-Orient : le chef de la diplomatie américaine dit être en attente de la réponse de Téhéran à propos d’un accord « solide »",
-      "excerpt": "Le président américain, Donald Trump, avait tempéré, dimanche, les espoirs d’un accord imminent avec l’Iran pour mettre durablement fin à la guerre au Moyen-Orient, malgré des signes de progrès des de...",
-      "link": "https://www.lemonde.fr/international/live/2026/05/25/en-direct-guerre-au-moyen-orient-le-chef-de-la-diplomatie-americaine-dit-etre-en-attente-d-une-reponse-de-teheran-a-propos-d-un-accord-solide_6691823_3210.html",
-      "time": "Il y a 1h",
-      "pubDate": 1779685195.0
-    },
-    {
-      "id": "Libération-1482148354482615464",
-      "source": "Libération",
-      "title": "Un livre et un meeting : comment Raphaël Glucksmann veut convaincre à gauche",
-      "excerpt": "Alors qu’il n’est pas encore officiellement déclaré candidat à la présidentielle, l’eurodéputé publie un ouvrage le 28 mai, avant un meeting le 13 juin. Mais sa stratégie d’élargissement au centre sus...",
-      "link": "https://www.liberation.fr/politique/un-livre-et-un-meeting-comment-raphael-glucksmann-veut-convaincre-a-gauche-20260525_UKZXDYGTQZCRNNIVEX6N4WJKGE/",
-      "time": "Il y a 1h",
-      "pubDate": 1779685080.0
-    },
-    {
-      "id": "Le Monde--887937077474628121",
-      "source": "Le Monde",
-      "title": "Victor Wembanyama et les Spurs se rebellent pour égaliser dans leur série NBA face à Oklahoma City",
-      "excerpt": "Avec 33 points dont un panier marqué du milieu de terrain, le joueur français a fini meilleur marqueur d’une rencontre largement dominée par San Antonio (103-82). Les deux équipes sont à égalité deux...",
-      "link": "https://www.lemonde.fr/sport/article/2026/05/25/victor-wembanyama-et-les-spurs-se-rebellent-pour-egaliser-dans-leur-serie-nba-face-a-oklahoma-city_6693605_3242.html",
-      "time": "Il y a 1h",
-      "pubDate": 1779683184.0
-    },
-    {
-      "id": "France Info-376795533213315720",
-      "source": "France Info",
-      "title": "On a vérifié quatre affirmations sur l'alimentation pendant la grossesse, avancées par l'influenceuse Jessie Inchauspé",
-      "excerpt": "Dans son troisième livre, \"9 mois qui comptent pour la vie\", Jessie Inchauspé, alias Glucose Goddess sur les réseaux sociaux, prodigue aux femmes enceintes des conseils nutritionnels, remis en questio...",
-      "link": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-on-a-verifie-quatre-affirmations-sur-l-alimentation-pendant-la-grossesse-avancees-par-l-influenceuse-jessie-inchauspe_7987211.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
-      "pubDate": 1779681977.0
-    },
-    {
-      "id": "Le Monde-3443770809834998643",
-      "source": "Le Monde",
-      "title": "La mise en œuvre du « RSA rénové » entraîne des durcissements pour ses bénéficiaires et d’importantes disparités entre départements",
-      "excerpt": "Près d’un an après la parution d’un décret réformant le revenu de solidarité active, des témoignages recueillis montrent un renforcement des attentes et des sanctions à l’égard des allocataires dans c...",
-      "link": "https://www.lemonde.fr/societe/article/2026/05/25/la-mise-en-uvre-du-rsa-renove-entraine-des-durcissements-pour-ses-beneficiaires-et-d-importantes-disparites-entre-departements_6693596_3224.html",
-      "time": "Il y a 2h",
-      "pubDate": 1779681629.0
-    },
-    {
-      "id": "France Info-5416321769851640450",
-      "source": "France Info",
-      "title": "À Londres, les peintures de Winston Churchill rassemblées pour une rétrospective exceptionnelle",
-      "excerpt": "Figure politique et historique majeure, l'ancien Premier ministre britannique était aussi un peintre autodidacte. Une cinquantaine de ses toiles, rarement présentées au public, dévoilent une facette m...",
-      "link": "https://www.franceinfo.fr/culture/arts-expos/a-londres-les-peintures-de-winston-churchill-rassemblees-pour-une-retrospective-exceptionnelle_8018543.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
-      "pubDate": 1779681603.0
-    },
-    {
-      "id": "Le Monde--3712591894530195962",
-      "source": "Le Monde",
-      "title": "Guerre en Ukraine : derrière l’attaque massive à Kiev, une logistique complexe qui sollicite toute la machine de guerre russe",
-      "excerpt": "La capitale ukrainienne a subi dans la nuit de samedi à dimanche un déluge de frappes mêlant missiles balistiques, de croisière et drones à long rayon d’action. Ces opérations combinées, devenues plus...",
-      "link": "https://www.lemonde.fr/international/article/2026/05/25/guerre-en-ukraine-derriere-l-attaque-massive-sur-kiev-une-logistique-complexe-qui-sollicite-toute-la-machine-de-guerre-russe_6693559_3210.html",
-      "time": "Il y a 2h",
-      "pubDate": 1779680706.0
-    },
-    {
-      "id": "Le Monde-8726953356065061801",
-      "source": "Le Monde",
-      "title": "Lundi de Pentecôte travaillé ou férié : comment fonctionne la journée de solidarité ?",
-      "excerpt": "La contribution des salariés et des retraités a rapporté en douze ans plus de 35 milliards d’euros à la Caisse nationale de solidarité pour l’autonomie.",
-      "link": "https://www.lemonde.fr/les-decodeurs/article/2026/05/25/lundi-de-pentecote-travaille-ou-ferie-comment-fonctionne-la-journee-de-solidarite_4920073_4355771.html",
-      "time": "Il y a 2h",
-      "pubDate": 1779679264.0
-    },
-    {
-      "id": "Le Monde-1269832074836322795",
-      "source": "Le Monde",
-      "title": "En Suède, Greta Thunberg et les militants pour le climat entre espoir et accablement",
-      "excerpt": "Pendant sept ans, la réalisatrice Helena Molin a filmé une douzaine d’adolescents à l’origine de la création, en 2018, du mouvement Fridays for Future. Un documentaire encensé par la critique.",
-      "link": "https://www.lemonde.fr/international/article/2026/05/25/en-suede-greta-thunberg-et-les-militants-pour-le-climat-entre-espoir-et-accablement_6693392_3210.html",
-      "time": "Il y a 4h",
-      "pubDate": 1779672603.0
-    },
-    {
-      "id": "France Info-3344708627247774308",
-      "source": "France Info",
-      "title": "Roland-Garros 2026 : 4h09 de combat au bout de la nuit... Le résumé de la défaite de Pierre-Hugues Herbert contre Lorenzo Sonego",
-      "excerpt": "Le Français de 35 ans, passé par les qualifications, a failli faire tomber l'Italien, dimanche.",
-      "link": "https://www.franceinfo.fr/roland-garros/video-roland-garros-2026-4h09-de-combat-au-bout-de-la-nuit-le-resume-de-la-defaite-de-pierre-hugues-herbert-contre-lorenzo-sonego_8026355.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 7h",
-      "pubDate": 1779662702.0
-    },
-    {
-      "id": "Le Monde-7031573289236868818",
-      "source": "Le Monde",
-      "title": "A Rennes, enquête ouverte après la découverte du corps d’un garçon de 12 ans avec une serviette nouée autour du cou",
-      "excerpt": "Le corps du jeune garçon a été retrouvé, dimanche, avec une serviette de bain mouillée « nouée très serrée autour de son cou », a déclaré le parquet de Rennes. L’alerte avait été donnée après qu’un pê...",
-      "link": "https://www.lemonde.fr/societe/article/2026/05/24/a-rennes-enquete-ouverte-apres-la-decouverte-du-corps-d-un-garcon-de-12-ans-avec-une-serviette-de-bain-nouee-autour-du-cou_6693260_3224.html",
-      "time": "Il y a 8h",
-      "pubDate": 1779659193.0
-    },
-    {
-      "id": "France Info--5300146035125076954",
-      "source": "France Info",
-      "title": "F1 : Kimi Antonelli remporte au Canada son quatrième Grand Prix d'affilée et profite des malheurs de son coéquipier George Russell",
-      "excerpt": "L'Italien et le Britannique se sont livré une bataille épique en tête de la course, dimanche, jusqu'à l'abandon de Russell au 31e tour à cause d'un problème mécanique.",
-      "link": "https://www.franceinfo.fr/sports/auto-moto/formule-1/f1-kimi-antonelli-remporte-au-canada-son-quatrieme-grand-prix-d-affilee-et-profite-des-malheurs-de-son-coequipier-george-russell_8025479.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 8h",
-      "pubDate": 1779658843.0
-    },
-    {
-      "id": "Libération-8231635065100427352",
-      "source": "Libération",
-      "title": "Rennes : un enfant retrouvé mort dans un buisson avec un linge autour du cou",
-      "excerpt": "Alarmé par des cris, un pêcheur a appelé la police, qui a ensuite retrouvé le corps sans vie, ce dimanche. Une enquête pour meurtre a été ouverte.",
-      "link": "https://www.liberation.fr/societe/police-justice/rennes-un-enfant-retrouve-mort-dans-un-buisson-avec-un-linge-autour-du-cou-20260524_L3SD7FQ32VAVZMXWOJZWZ45BH4/",
-      "time": "Il y a 11h",
-      "pubDate": 1779648708.0
-    },
-    {
-      "id": "Libération-2227481006616705987",
-      "source": "Libération",
-      "title": "Guerre au Moyen-Orient : Donald Trump n’entend pas «se précipiter» en vue d’un accord avec l’Iran",
-      "excerpt": "Les Etats-Unis comme l’Iran ont souligné samedi des avancées dans les négociations. Selon le président américains et plusieurs médias, le projet inclurait la réouverture du détroit d’Ormuz.",
-      "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-washington-et-teheran-proches-dun-accord-20260524_E6SIMAJRBRHKDF36TQVNLDHLY4/",
-      "time": "Il y a 11h",
-      "pubDate": 1779648642.0
-    },
-    {
-      "id": "Libération--5199908185336521723",
-      "source": "Libération",
-      "title": "Chaleur : un mort et plusieurs hospitalisations après le maintien d’épreuves sportives en Ile-de-France",
-      "excerpt": "Un homme de 50 ans a succombé à un malaise cardiaque après avoir couru 10 km dans le nord de la capitale. A Maisons-Alfort, dans le Val-de-Marne, une autre course à pied enregistre quatorze coureurs h...",
-      "link": "https://www.liberation.fr/societe/chaleur-un-mort-et-plusieurs-hospitalisations-apres-le-maintien-depreuves-sportives-en-ile-de-france-20260524_LD5KQH3KKJEN5LTQOCR2MX4OH4/",
-      "time": "Il y a 11h",
-      "pubDate": 1779646666.0
-    },
-    {
-      "id": "France Info-4208845134498638574",
-      "source": "France Info",
-      "title": "Musées, ministère, locaux de l'ONU... Kiev frappée par d'intenses bombardements russes",
-      "excerpt": "\"Environ 100 personnes ont été blessées à travers le pays, et quatre autres ont été tuées\", dans la nuit de samedi à dimanche, selon le président Volodymyr Zelensky.",
-      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-images-musees-batiment-ministeriel-habitations-kiev-frappee-par-d-intenses-bombardements-russes_8025065.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 11h",
-      "pubDate": 1779646184.0
-    },
-    {
-      "id": "Libération-2784235309290085629",
-      "source": "Libération",
-      "title": "Sardines grillées et «workers fight» : Nathalie Arthaud et les «travailleurs» de Lutte ouvrière s’engagent dans la présidentielle",
-      "excerpt": "A l’occasion de la fête annuelle de Lutte ouvrière dans le Val-d’Oise, Nathalie Arthaud a annoncé sa quatrième candidature à la présidentielle. La campagne et le programme seront bâtis autour du manif...",
-      "link": "https://www.liberation.fr/economie/sardines-grillees-et-workers-fight-nathalie-arthaud-et-les-travailleurs-de-lutte-ouvriere-sengagent-dans-la-presidentielle-20260524_BW5AMHOUBNF5XLWXI4WBXIPCMQ/",
-      "time": "Il y a 12h",
-      "pubDate": 1779644061.0
-    },
-    {
-      "id": "Libération-7941683473159579367",
-      "source": "Libération",
-      "title": "Seine-et-Marne : un adolescent de 17 ans meurt noyé dans la Seine",
-      "excerpt": "Le jeune homme a été retrouvé mort quelques heures après avoir été aspiré par le courant, samedi à Boissise-la-Bertrand, près de Melun. En Alsace, c’est une trentenaire qui a perdu la vie après s’être...",
-      "link": "https://www.liberation.fr/societe/police-justice/seine-et-marne-un-adolescent-de-17-ans-meurt-noye-dans-la-seine-20260524_E2VQBQNMDFGCNMGYYGJFVWV6FA/",
-      "time": "Il y a 12h",
-      "pubDate": 1779643163.0
+      "title": "La réforme du RSA vue par ceux qui l’appliquent : « disparités de traitements », « notions subjectives », « système à deux vitesses »",
+      "excerpt": "« Le Monde » a eu accès à des conversations entre agents de département autour de la loi « pour le plein-emploi ». Outils informatiques défaillants, appréciation inégale des situations… Les échanges m...",
+      "link": "https://www.lemonde.fr/politique/article/2026/05/25/la-reforme-du-rsa-vue-par-ceux-qui-l-appliquent-disparites-de-traitements-notions-subjectives-systeme-a-deux-vitesses_6693610_823448.html",
+      "time": "Il y a 5h",
+      "pubDate": 1779687004.0
     }
   ],
   "anglophone": [
     {
-      "id": "BBC News-456906143340433237",
+      "id": "BBC News--1429082989571023548",
       "source": "BBC News",
       "title": "Oil prices slide on hopes of US-Iran peace deal",
       "excerpt": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.",
       "link": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
       "time": "Il y a 4 min",
-      "pubDate": 1779688919.0
+      "pubDate": 1779705558.0
     },
     {
-      "id": "NPR--7313354003699318926",
+      "id": "NPR--6658132081738573557",
+      "source": "NPR",
+      "title": "U.S.-Iran peace deal emerging, while war threats still loom",
+      "excerpt": "President Trump and other administration officials are tempering expectations raised of an imminent agreement to end the war in Iran while Iranian officials have signaled there are still disagreements...",
+      "link": "https://www.npr.org/2026/05/25/nx-s1-5833690/u-s-iran-negotiations-updates",
+      "time": "Il y a 26 min",
+      "pubDate": 1779704205.0
+    },
+    {
+      "id": "NPR-7876809706375120795",
+      "source": "NPR",
+      "title": "In Beirut, refugee girls and women learn more than self-defense in martial arts class",
+      "excerpt": "In the male-dominated world of Palestinian refugee camps in Lebanon, a martial arts teacher offers women a way to empowerment.",
+      "link": "https://www.npr.org/2026/05/25/g-s1-120826/lebanon-women-martial-arts",
+      "time": "Il y a 43 min",
+      "pubDate": 1779703200.0
+    },
+    {
+      "id": "BBC News--8222477674838054856",
+      "source": "BBC News",
+      "title": "Deal with US not imminent, Iran says",
+      "excerpt": "The Iranian foreign minister's comments come after the US secretary of state said an agreement could be announced on Monday.",
+      "link": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 1h",
+      "pubDate": 1779701955.0
+    },
+    {
+      "id": "NPR-3413283755531214571",
+      "source": "NPR",
+      "title": "Diners are staying home, so this restaurant lets patrons pay what they want",
+      "excerpt": "Americans are increasingly passing up on dining out. So one restaurant is allowing diners to pay what they like for their food.",
+      "link": "https://www.npr.org/2026/05/25/nx-s1-5719494/restaurants-dining-food-inflation",
+      "time": "Il y a 1h",
+      "pubDate": 1779699600.0
+    },
+    {
+      "id": "NPR-3271733636495865607",
+      "source": "NPR",
+      "title": "'My body carried me,' Elizabeth Smart says. Now she's celebrating it",
+      "excerpt": "Her abduction at age 14 drew international attention. After her rescue, Smart says she struggled with feeling shame around her body. Bodybuilding has helped her see herself differently.",
+      "link": "https://www.npr.org/2026/05/25/nx-s1-5832603/elizabeth-smart-bodybuilding-trauma-exercise",
+      "time": "Il y a 1h",
+      "pubDate": 1779699600.0
+    },
+    {
+      "id": "NPR-3372399501944019012",
+      "source": "NPR",
+      "title": "This big university system is embracing AI. Students and faculty aren't all on board",
+      "excerpt": "The California State University system offers an early look at what happens when an administration commits to a technology that its own community isn't convinced will improve education.",
+      "link": "https://www.npr.org/2026/05/25/nx-s1-5772820/artificial-intelligence-education-technology-california-state-university",
+      "time": "Il y a 1h",
+      "pubDate": 1779699600.0
+    },
+    {
+      "id": "NPR--8333130771428718126",
+      "source": "NPR",
+      "title": "COMIC: To raise a confident little talker, learn to speak 'parentese'",
+      "excerpt": "So you've got a baby in your life. How do you talk to them, exactly? In this comic, experts explain why conversing with your baby is important — and share ways to help them develop their language skil...",
+      "link": "https://www.npr.org/2026/05/25/nx-s1-5831266/how-to-talk-to-babies-comic",
+      "time": "Il y a 1h",
+      "pubDate": 1779699600.0
+    },
+    {
+      "id": "NPR--6786756858218321695",
+      "source": "NPR",
+      "title": "Spin to win: How this life insurance company turns healthy habits into a game",
+      "excerpt": "You've heard of lower car insurance rates for good drivers. Now, one life insurance company wants to incentivize longevity with lower rates and extra bonuses for people who adopt healthy habits.",
+      "link": "https://www.npr.org/2026/05/25/nx-s1-5820938/life-insurance-company-healthy-habits-game",
+      "time": "Il y a 1h",
+      "pubDate": 1779699600.0
+    },
+    {
+      "id": "NPR--8641976617819403184",
+      "source": "NPR",
+      "title": "Morning news brief",
+      "excerpt": "Trump touts breakthrough in negotiations to end Iran war, Middle Eastern countries react to news of a potential deal to end war, Africa races to contain a fast-spreading Ebola outbreak.",
+      "link": "https://www.npr.org/2026/05/25/nx-s1-5828333/morning-news-brief",
+      "time": "Il y a 2h",
+      "pubDate": 1779698536.0
+    },
+    {
+      "id": "NPR--8309223814142524326",
+      "source": "NPR",
+      "title": "Muslims begin the annual Hajj against a backdrop of war concerns",
+      "excerpt": "More than 1.5 million pilgrims have arrived in Saudi Arabia for the annual Hajj pilgrimage, one of the Five Pillars of Islam, against the backdrop of a tenuous ceasefire in the Iran war and related re...",
+      "link": "https://www.npr.org/2026/05/25/nx-s1-5833671/muslims-begin-annual-hajj",
+      "time": "Il y a 3h",
+      "pubDate": 1779692702.0
+    },
+    {
+      "id": "The Guardian--7561978447068547648",
+      "source": "The Guardian",
+      "title": "Venezuela inmates occupy prison roof and set fire to mattresses to protest alleged abuses",
+      "excerpt": "Inmates at Barinas prison allege they were peacefully protesting when prison staff opened fire, leaving some wounded Inmates at Venezuela’s western Barinas prison staged a protest on its roof on Sunda...",
+      "link": "https://www.theguardian.com/world/2026/may/25/venezuela-inmates-occupy-prison-roof-protest-alleged-abuses",
+      "time": "Il y a 4h",
+      "pubDate": 1779690046.0
+    },
+    {
+      "id": "NPR-8291116877303689916",
       "source": "NPR",
       "title": "China launches Shenzhou 23 spacecraft with 1 of 3 astronauts set for yearlong stay",
       "excerpt": "China launched the Shenzhou 23 spacecraft with 3 astronauts heading to its space station. One astronaut is set to stay in space for a year to explore human adaptability in long-duration spaceflights.",
       "link": "https://www.npr.org/2026/05/25/g-s1-124179/china-launches-shenzhou-23-spacecraft",
-      "time": "Il y a 39 min",
+      "time": "Il y a 5h",
       "pubDate": 1779686774.0
     },
     {
-      "id": "BBC News-6397029712251351825",
+      "id": "BBC News-3674132962604177613",
       "source": "BBC News",
       "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
       "excerpt": "A hypersonic missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
       "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 1h",
+      "time": "Il y a 5h",
       "pubDate": 1779684313.0
     },
     {
-      "id": "BBC News--8007010396476705896",
-      "source": "BBC News",
-      "title": "Trump tells US negotiators 'not to rush' into deal with Iran",
-      "excerpt": "The deal under discussion would involve a 60-day ceasefire extension during which the Strait of Hormuz would be reopened, according to US media.",
-      "link": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 1h",
-      "pubDate": 1779682593.0
-    },
-    {
-      "id": "The Guardian-5117083357128800094",
+      "id": "The Guardian-2608532006010603690",
       "source": "The Guardian",
       "title": "‘She does not back down’: the couple seeking to legalise same-sex marriage in Botswana",
       "excerpt": "Bonolo Selelo and Tsholofelo Kumile are going to court for right to wed but face fierce opposition from church groups Bonolo Selelo was at Botswana’s national museum for a Gaborone Pride event when sh...",
       "link": "https://www.theguardian.com/world/2026/may/25/same-sex-marriage-botswana-couple-court",
-      "time": "Il y a 2h",
+      "time": "Il y a 6h",
       "pubDate": 1779681615.0
     },
     {
-      "id": "NPR-5877237933753634831",
-      "source": "NPR",
-      "title": "California chemical tank has cracked, causing state of emergency, thousands to evacuate",
-      "excerpt": "One California town is in a state of emergency and 50,000 people are under an evacuation order as a malfunctioning chemical tank at an aerospace plant is overheating and could leak or explode.",
-      "link": "https://www.npr.org/2026/05/24/nx-s1-5833165/california-chemical-tank-malfunction-leak-explode-emergency-evacuate",
-      "time": "Il y a 7h",
-      "pubDate": 1779660882.0
-    },
-    {
-      "id": "BBC News-3263434308338063690",
+      "id": "BBC News--7259023960542951172",
       "source": "BBC News",
       "title": "Blast targeting train kills at least 20 in Pakistan",
       "excerpt": "Officials say the train had been transporting military personnel home for Eid when it was attacked by armed separatists.",
       "link": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 7h",
+      "time": "Il y a 12h",
       "pubDate": 1779660711.0
     },
     {
-      "id": "BBC News--8809437888461054133",
+      "id": "BBC News--1189888438876517637",
       "source": "BBC News",
       "title": "RAF jet carrying defence secretary has signal jammed near Russian border",
       "excerpt": "Pilots on board had to use a different navigation system while the plane's GPS was disabled.",
       "link": "https://www.bbc.com/news/articles/clyp0jrxv7ro?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 8h",
+      "time": "Il y a 13h",
       "pubDate": 1779658213.0
     },
     {
-      "id": "BBC News--8189375405442957143",
+      "id": "BBC News-7939990964284881285",
       "source": "BBC News",
       "title": "She was told to marry in a country which bans girls' education. So she got in a taxi and fled",
-      "excerpt": "Nearly five years on from the school ban, young women say they have waved goodbye to their dreams.",
+      "excerpt": "Nearly five years on from Afghanistan's school ban, young women say they have waved goodbye to their dreams.",
       "link": "https://www.bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 9h",
+      "time": "Il y a 13h",
       "pubDate": 1779656528.0
     },
     {
-      "id": "BBC News-2979468116351222058",
+      "id": "BBC News--413705153188350831",
       "source": "BBC News",
       "title": "Turkish riot police storm opposition offices after leaders ousted",
       "excerpt": "Officers forced their way into the building days after the party vowed to defy a court ruling removing its leaders.",
       "link": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 10h",
+      "time": "Il y a 14h",
       "pubDate": 1779652179.0
     },
     {
-      "id": "The Guardian-1249204726285760743",
+      "id": "The Guardian--1720150788000426869",
       "source": "The Guardian",
       "title": "Number of suspected Ebola cases in DR Congo passes 900 as health workers face attacks and shortages",
       "excerpt": "World Health Organization says outbreak poses ‘very high’ risk for Congo, but risk of disease spreading globally remains low Congolese authorities say that suspected Ebola cases have now passed 900 in...",
       "link": "https://www.theguardian.com/world/2026/may/24/suspected-ebola-cases-congo-health-workers-attacks",
-      "time": "Il y a 10h",
+      "time": "Il y a 15h",
       "pubDate": 1779649653.0
     },
     {
-      "id": "BBC News-5041204734745335316",
+      "id": "BBC News--4889669517138057729",
       "source": "BBC News",
       "title": "Ebola outbreak poses massive challenges, warns nurse",
       "excerpt": "Kate White says she is \"extremely concerned about the inability to get resources\" to the Democratic Republic of Congo.",
       "link": "https://www.bbc.com/news/articles/cy421wgr2mpo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 12h",
+      "time": "Il y a 16h",
       "pubDate": 1779644774.0
     },
     {
-      "id": "NPR-5407570008618139209",
-      "source": "NPR",
-      "title": "DR Congo Ebola cases rise amid distrust, armed conflict zone",
-      "excerpt": "Africa races to contain a fast-spreading Ebola outbreak threatening 10 countries as infections spill from eastern Congo into Uganda.",
-      "link": "https://www.npr.org/2026/05/24/nx-s1-5833095/drc-ebola-africa",
-      "time": "Il y a 12h",
-      "pubDate": 1779643113.0
-    },
-    {
-      "id": "BBC News-6172133483220203832",
+      "id": "BBC News--2350345715095836304",
       "source": "BBC News",
       "title": "Man killed in shark attack off Australia's north-east coast",
       "excerpt": "The 39-year-old was fatally injured at a shoal off the Cassowary Coast in Queensland, apparently while spearfishing.",
       "link": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 14h",
+      "time": "Il y a 19h",
       "pubDate": 1779636548.0
     },
     {
-      "id": "BBC News-3990184275060372937",
+      "id": "BBC News--503909279690176271",
       "source": "BBC News",
       "title": "Suspect killed after opening fire on Secret Service near White House",
       "excerpt": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded.",
       "link": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 14h",
+      "time": "Il y a 19h",
       "pubDate": 1779636251.0
     },
     {
-      "id": "NPR--8545763040235083457",
-      "source": "NPR",
-      "title": "More than 500 children have died in an outbreak that the world is virtually ignoring",
-      "excerpt": "The number of cases — and deaths — in Bangladesh is staggering. As of Sunday, 528 have died, mostly children. How did this measles outbreak begin? And how is the country responding?",
-      "link": "https://www.npr.org/2026/05/24/g-s1-123661/measles-outbreak-bangladesh-deadline-vaccine",
-      "time": "Il y a 17h",
-      "pubDate": 1779627640.0
-    },
-    {
-      "id": "NPR-1503204230479635248",
-      "source": "NPR",
-      "title": "Mind-bending photos by anonymous cousins show the pain and dreams of Afghan women",
-      "excerpt": "The young women make photos that look at life — how it is, how they wish it could be — under Taliban rule. The images are on display at the Photoville Festival in Brooklyn, New York.",
-      "link": "https://www.npr.org/2026/05/24/g-s1-123443/photos-afghanistan-women-taliban",
-      "time": "Il y a 17h",
-      "pubDate": 1779626401.0
-    },
-    {
-      "id": "NPR--7892672067458817462",
-      "source": "NPR",
-      "title": "Religious leaders, lawmakers push for $1 billion to secure houses of worship",
-      "excerpt": "There's an effort on Capitol Hill to increase funding for the Nonprofit Security Grant Program, which awards funding to houses of worship to harden their defenses. In 2024, roughly a third of those wh...",
-      "link": "https://www.npr.org/2026/05/24/nx-s1-5815007/religious-leaders-lawmakers-push-for-1-billion-to-secure-houses-of-worship",
-      "time": "Il y a 18h",
-      "pubDate": 1779624000.0
-    },
-    {
-      "id": "NPR--5884365998084850380",
-      "source": "NPR",
-      "title": "Nurse convicted in patient's death is now a national speaker on hospital safety",
-      "excerpt": "RaDonda Vaught was convicted of negligent homicide after dispensing the wrong drug to a patient. She now gives speeches about hospital safety in an era of automation and artificial intelligence.",
-      "link": "https://www.npr.org/2026/05/24/nx-s1-5822519/radonda-vaught-nurse-convicted-vanderbilt-medical-error",
-      "time": "Il y a 20h",
-      "pubDate": 1779616800.0
-    },
-    {
-      "id": "NPR-2700198061156921933",
-      "source": "NPR",
-      "title": "Russia pounds Kyiv in powerful drone and missile attack",
-      "excerpt": "At least two people were killed and 77 injured in the attack, which included the use of a powerful hypersonic ballistic missile called the Oreshnik, which is capable of carrying a nuclear warhead.",
-      "link": "https://www.npr.org/2026/05/24/nx-s1-5833050/russia-uses-hypersonic-oreshnik-missile-in-mass-attack-on-kyiv",
-      "time": "Il y a 20h",
-      "pubDate": 1779613948.0
-    },
-    {
-      "id": "NPR-5337580823231824965",
-      "source": "NPR",
-      "title": "'Homeland Security' has spawned political insecurity since DHS was born",
-      "excerpt": "DHS was originally conceived in the interest of unity and harmony — and the phrase \"homeland security\" was originally meant to be reassuring.",
-      "link": "https://www.npr.org/2026/05/24/nx-s1-5821574/homeland-security-dhs-history",
-      "time": "Il y a 21h",
-      "pubDate": 1779613200.0
-    },
-    {
-      "id": "NPR-8438838054079685913",
-      "source": "NPR",
-      "title": "The Enhanced Games are Sunday. Here's what to know about the controversial event",
-      "excerpt": "Dozens of athletes — including former Olympians — will participate in the Las Vegas event while using performance-enhancing drugs.",
-      "link": "https://www.npr.org/2026/05/24/nx-s1-5831252/enhanced-games-steroids-olympics-trump",
-      "time": "Il y a 21h",
-      "pubDate": 1779613200.0
-    },
-    {
-      "id": "The Guardian-8907631398304457800",
+      "id": "The Guardian--5205741070112787034",
       "source": "The Guardian",
       "title": "Hunger increasingly used as weapon of war as ‘food-related violence’ surges, analysis shows",
       "excerpt": "More than 20,000 attacks on markets, farmland and food distribution systems have been recorded since 2018 Hunger is being increasingly exploited as a weapon of war with more than 20,000 documented inc...",
@@ -480,7 +489,7 @@
       "pubDate": 1779602449.0
     },
     {
-      "id": "The Guardian--8379918414571431619",
+      "id": "The Guardian-8282221004775048106",
       "source": "The Guardian",
       "title": "White House pauses removal of detainees to DRC as Ebola outbreak widens",
       "excerpt": "But Trump administration will not return detainees deported to third countries in disease-stricken region The <a href=\"https://www.theguardian.com/us-news/trump-administration\">Trump administration</a...",
@@ -489,7 +498,7 @@
       "pubDate": 1779546785.0
     },
     {
-      "id": "The Guardian--1598754294360636841",
+      "id": "The Guardian-439296406409192765",
       "source": "The Guardian",
       "title": "‘Every health facility said they were full’: alarm over rapid spread of Ebola in DRC",
       "excerpt": "New strain of virus, aid cuts, and cultural norms around burials and touch add to difficulties in stemming outbreak The warnings from aid groups and healthcare workers in the Democratic Republic of th...",
@@ -498,7 +507,7 @@
       "pubDate": 1779542228.0
     },
     {
-      "id": "The Guardian--6998303175005772131",
+      "id": "The Guardian-8999726708409846894",
       "source": "The Guardian",
       "title": "‘Canada is handing people over to ICE’: refugees rejected at border face US detention",
       "excerpt": "As Canada tightens asylum rules, refugees reuniting with family say they were turned over to ICE and jailed for months after failed border claims As each day in US detention passes, Markens Appolon ca...",
@@ -507,7 +516,7 @@
       "pubDate": 1779534028.0
     },
     {
-      "id": "The Guardian-2698851791193672644",
+      "id": "The Guardian-3452709036810031331",
       "source": "The Guardian",
       "title": "US judge dismisses criminal indictment against Kilmar Ábrego García",
       "excerpt": "Judge said Trump administration would not have prosecuted Ábrego had he not challenged his high-profile deportation <ul><li><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaki...",
@@ -516,7 +525,7 @@
       "pubDate": 1779484588.0
     },
     {
-      "id": "The Guardian--8414465222419518083",
+      "id": "The Guardian--3876198366750698642",
       "source": "The Guardian",
       "title": "PM says Alberta ‘essential’ to Canada as separatists push for independence",
       "excerpt": "Alberta premier calls for referendum on secession after judge ruled initiative to force binding vote invalid  The Canadian prime minister, <a href=\"https://www.theguardian.com/world/mark-carney\">Mark...",
@@ -525,23 +534,14 @@
       "pubDate": 1779468069.0
     },
     {
-      "id": "The Guardian--7786152780827557626",
+      "id": "The Guardian--8461490151579109739",
       "source": "The Guardian",
       "title": "Venezuelan makeup artist who was deported to El Salvador seeks asylum in Spain: ‘I feel safe here’",
       "excerpt": "Andry José Hernández Romero was deported from the US to El Salvador’s notorious Cecot prison before he was allowed to return to Venezuela One of the Venezuelan men <a href=\"https://www.theguardian.com...",
       "link": "https://www.theguardian.com/us-news/2026/may/22/venezuelan-makeup-artist-cecot-spain-asylum",
-      "time": "Il y a 2j",
+      "time": "Il y a 3j",
       "pubDate": 1779444056.0
-    },
-    {
-      "id": "The Guardian--7187320367416517051",
-      "source": "The Guardian",
-      "title": "Rubio doubtful of diplomacy with Cuba as Trump renews threat of military action",
-      "excerpt": "US secretary of state says president would like a negotiated agreement with Havana but likelihood ‘is not high’ The US president, Donald Trump, and the secretary of state, Marco Rubio, on Thursday aga...",
-      "link": "https://www.theguardian.com/us-news/2026/may/22/marco-rubio-doubtful-diplomacy-cuba-trump-renews-threat-military-action",
-      "time": "Il y a 2j",
-      "pubDate": 1779442142.0
     }
   ],
-  "lastUpdate": "2026-05-25T06:06:12.107229"
+  "lastUpdate": "2026-05-25T10:43:24.241767"
 }
