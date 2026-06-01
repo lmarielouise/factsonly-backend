@@ -1,311 +1,374 @@
 {
   "francophone": [
     {
-      "id": "Le Monde--5341449696638735084",
+      "id": "Libération-7589452115619853854",
+      "source": "Libération",
+      "title": "Le maire historique et controversé d’Issy-les-Moulineaux, André Santini, est mort à 85 ans",
+      "excerpt": "A la tête de la ville des Hauts-de-Seine depuis 1980, l’ancien ministre et député a été le bâtisseur de sa ville avant d’être mis en cause dans plusieurs affaires notamment d’agression et de harcèleme...",
+      "link": "https://www.liberation.fr/politique/le-maire-historique-et-controverse-dissy-les-moulineaux-andre-santini-est-mort-a-85-ans-20260601_UZ3O4VBIYNAONEUSV3FGVPP374/",
+      "time": "Il y a 4 min",
+      "pubDate": 1780296979.0
+    },
+    {
+      "id": "Le Monde-2036207345327837229",
       "source": "Le Monde",
-      "title": "Présidentielle en Colombie : Abelardo de la Espriella, un millionnaire admirateur de Donald Trump, et Ivan Cepeda, le candidat de la gauche, s’affronteront au second tour",
-      "excerpt": "L’excentrique avocat, candidat d’ultradroite, devance, avec 44 % des suffrages, le sénateur et philosophe (41 %), qui s’inscrit dans les pas du président de gauche sortant, Gustavo Petro. Le second to...",
-      "link": "https://www.lemonde.fr/international/article/2026/06/01/presidentielle-en-colombie-abelardo-de-la-espriella-un-millionnaire-admirateur-de-donald-trump-et-ivan-cepeda-le-candidat-de-la-gauche-s-affronteront-au-second-tour_6695677_3210.html",
+      "title": "André Santini, maire d’Issy-les-Moulineaux et ancien député UDI, est mort à l’âge de 85 ans",
+      "excerpt": "Pendant son demi-siècle de mandat, il avait transformé l’ancienne ville ouvrière des Hauts-de-Seine en un « médialand », accueillant les sièges de nombreux médias. Poursuivi pour harcèlement sexuel et...",
+      "link": "https://www.lemonde.fr/disparitions/article/2026/06/01/andre-santini-maire-d-issy-les-moulineaux-et-ancien-depute-udi-est-mort-a-l-age-de-85-ans_6695930_3382.html",
+      "time": "Il y a 6 min",
+      "pubDate": 1780296850.0
+    },
+    {
+      "id": "Libération-1521532603583195825",
+      "source": "Libération",
+      "title": "Disparition de Lyhanna, 11 ans : les recherches continuent dans le Gers, la fin de la garde à vue du suspect attendue",
+      "excerpt": "Les gendarmes sont toujours en quête d’une piste, ce lundi 1er juin, pour déterminer où pourrait se trouver la collégienne, qui a disparu depuis vendredi après-midi à Fleurence. Ses parents écartent t...",
+      "link": "https://www.liberation.fr/societe/police-justice/disparition-de-lyhanna-11-ans-les-recherches-continuent-dans-le-gers-la-fin-de-la-garde-a-vue-du-suspect-attendue-20260601_HSYZJKOD55FJJJ6HS6HQMLQ5RM/",
+      "time": "Il y a 8 min",
+      "pubDate": 1780296712.0
+    },
+    {
+      "id": "France Info--2449438910839663288",
+      "source": "France Info",
+      "title": "Bac 2026 : huit conseils pour briller lors de son grand oral",
+      "excerpt": "Cette épreuve, qui se déroulera entre le lundi 22 juin et le mercredi 1er juillet, exige autant de maîtriser des connaissances que d'être à l'aise dans la prise de parole.",
+      "link": "https://www.franceinfo.fr/bac/bac-2026-huit-conseils-pour-briller-lors-de-son-grand-oral_8005820.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 18 min",
+      "pubDate": 1780296130.0
+    },
+    {
+      "id": "Libération-3251849774660537662",
+      "source": "Libération",
+      "title": "Automobile : le 100 % électrique bat un nouveau record en France, avec près du tiers des ventes en mai",
+      "excerpt": "Dans un marché reparti à la hausse, les ventes de voitures à zéro émission continuent leur progression depuis le début d’année, portées notamment par l’explosion des prix du carburant.",
+      "link": "https://www.liberation.fr/economie/transports/automobile-le-100-electrique-bat-un-nouveau-record-en-france-avec-pres-du-tiers-des-ventes-en-mai-20260601_5UKH55RBR5FRPHFADWIK57MKRM/",
+      "time": "Il y a 21 min",
+      "pubDate": 1780295991.0
+    },
+    {
+      "id": "France Info--6627352616353762831",
+      "source": "France Info",
+      "title": "Le ministre de l'Intérieur annonce 890 interpellations, soit \"45% de plus que l'année dernière\", après la victoire du PSG en Ligue des champions",
+      "excerpt": "Laurent Nuñez a donné ce nouveau bilan à l'antenne de France Inter lundi 1er juin.",
+      "link": "https://www.franceinfo.fr/sports/foot/ligue-des-champions/finale/finale-de-la-ligue-des-champions-890-interpellations-et-178-blesses-chez-les-forces-de-l-ordre-selon-le-ministre-de-l-interieur_8039033.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 32 min",
+      "pubDate": 1780295329.0
+    },
+    {
+      "id": "Libération-7495915980225755225",
+      "source": "Libération",
+      "title": "PSG en Ligue des champions : 890 interpellations ce week-end, en hausse de 45 % par rapport à 2025 selon Laurent Nuñez",
+      "excerpt": "Le ministre de l’Intérieur a par ailleurs affirmé ce lundi matin que «178» policiers et gendarmes ont été blessés pendant le week-end.",
+      "link": "https://www.liberation.fr/societe/police-justice/psg-en-ligue-des-champions-890-interpellations-ce-week-end-en-hausse-de-45-par-rapport-a-2025-selon-laurent-nunez-20260601_V3R7ACVUJBBDDNAQYWRSBYKS2M/",
+      "time": "Il y a 33 min",
+      "pubDate": 1780295225.0
+    },
+    {
+      "id": "France Info--2620877444271256774",
+      "source": "France Info",
+      "title": "Pourquoi l'augmentation du Smic de 2,4% au 1er juin ne convainc pas les syndicats",
+      "excerpt": "Le salaire minimum augmente d'environ 35 euros net pour suivre l'inflation repartie à la hausse en raison de la guerre au Moyen-Orient... mais sans \"coup de pouce\" supplémentaire du gouvernement.",
+      "link": "https://www.franceinfo.fr/economie/pourquoi-l-augmentation-du-smic-de-2-4-au-1er-juin-ne-convainc-pas-les-syndicats_8039048.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 40 min",
+      "pubDate": 1780294841.0
+    },
+    {
+      "id": "Libération-7516119166047159355",
+      "source": "Libération",
+      "title": "EN DIRECT - Guerre au Moyen-Orient : les Etats-Unis et l’Iran se frappent à nouveau mutuellement",
+      "excerpt": "Les Gardiens de la Révolution iraniens ont revendiqué ce lundi matin avoir ciblé une base utilisée par l’armée américaine pour des frappes contre son territoire, sans préciser sa localisation.",
+      "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-les-etats-unis-frappent-a-nouveau-liran-le-koweit-cible-par-une-attaque-20260601_7B5EIOBMRBEWTCMWUYMU7QJTFI/",
+      "time": "Il y a 1h",
+      "pubDate": 1780293031.0
+    },
+    {
+      "id": "Libération--5450799996673169600",
+      "source": "Libération",
+      "title": "Pétrolier russe arraisonné par la France, nouvelles frappes entre Etats-Unis et l’Iran, disparition de Lyhanna… L’actu de ce lundi 1er juin au matin",
+      "excerpt": "La rédaction de «Libération» compile les principales infos du jour.",
+      "link": "https://www.liberation.fr/international/europe/petrolier-russe-arraisonne-par-la-france-nouvelles-frappes-entre-etats-unis-et-liran-disparition-de-lyhanna-lactu-de-ce-lundi-1er-juin-au-matin-20260601_N4SU2ON7GRAGRENXAUYXD2K4RQ/",
+      "time": "Il y a 1h",
+      "pubDate": 1780292805.0
+    },
+    {
+      "id": "France Info-6732720280696639809",
+      "source": "France Info",
+      "title": "Trois questions sur Utiq, un outil de traçage publicitaire sur internet, critiqué pour son partenariat avec des opérateurs téléphoniques",
+      "excerpt": "Ce système doit remplacer les traditionnels cookies, en utilisant votre adresse IP pour la relier à vos données téléphoniques et, au final, garantir un meilleur ciblage publicitaire. L'entreprise Utiq...",
+      "link": "https://www.franceinfo.fr/internet/trois-questions-sur-utiq-un-outil-de-tracage-publicitaire-sur-internet-critique-pour-son-partenariat-avec-des-operateurs-telephoniques_8033930.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1780292685.0
+    },
+    {
+      "id": "France Info--4156730301326158463",
+      "source": "France Info",
+      "title": "La marine française a arraisonné un pétrolier russe sous sanctions internationales dans l'océan Atlantique, annonce Emmanuel Macron",
+      "excerpt": "Le \"Tagor\" a été arraisonné \"en haute mer\", avec le soutien du Royaume-Uni, selon le chef de l'Etat.",
+      "link": "https://www.franceinfo.fr/monde/russie/la-marine-francaise-a-arraisonne-un-petrolier-russe-sous-sanctions-internationales-dans-l-ocean-atlantique-annonce-emmanuel-macron_8038976.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1780292164.0
+    },
+    {
+      "id": "France Info-482904729996815300",
+      "source": "France Info",
+      "title": "Indemnité carburant, montant du smic, prix du gaz... Ce qui change au 1er juin",
+      "excerpt": "Face à la hausse des prix de l'essence, l'aide réservée aux trois millions de travailleurs modestes \"grands rouleurs\" va passer de 50 à 100 euros.",
+      "link": "https://www.franceinfo.fr/economie/indemnite-carburant-montant-du-smic-prix-du-gaz-ce-qui-change-au-1er-juin_8038223.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1780292105.0
+    },
+    {
+      "id": "Libération--2062914513349427769",
+      "source": "Libération",
+      "title": "L’affiche du jour à Roland-Garros : Juan Manuel Cerúndolo-Matteo Berrettini, marathon men",
+      "excerpt": "Chaque jour pendant le Grand Chelem, les envoyés spéciaux de «Libération» sélectionnent une rencontre à ne pas manquer. Subjectivité assumée. Ce lundi 1er juin, deux guerriers des courts qu’on n’atten...",
+      "link": "https://www.liberation.fr/sports/tennis/laffiche-du-jour-a-roland-garros-juan-manuel-cerundolo-matteo-berrettini-marathon-men-20260601_R3UHMFJWVFH6NHFJ7G4SBKJMHM/",
+      "time": "Il y a 1h",
+      "pubDate": 1780292093.0
+    },
+    {
+      "id": "Libération-2248600861255356072",
+      "source": "Libération",
+      "title": "Flotte fantôme russe : un nouveau pétrolier arraisonné par la France, notamment «avec le soutien du Royaume-Uni»",
+      "excerpt": "Emmanuel Macron a annoncé ce lundi matin l’opération menée la veille en haute mer dans l’Atlantique, contre un bateau servant à «financer la guerre que mène la Russie contre l’Ukraine».",
+      "link": "https://www.liberation.fr/international/europe/flotte-fantome-russe-un-nouveau-petrolier-arraisonne-par-la-france-notamment-avec-le-soutien-du-royaume-uni-20260601_FM5HJRBMBRHOFFZXRBWD6GYLMA/",
+      "time": "Il y a 1h",
+      "pubDate": 1780291056.0
+    },
+    {
+      "id": "France Info--5622636631209438115",
+      "source": "France Info",
+      "title": "\"Une menace systémique\" : les médecins libéraux alertent le gouvernement dans une lettre ouverte sur la pollution chimique de l'eau potable",
+      "excerpt": "Les médecin libéraux alertent sur la menace que représentent les pesticides, les polluants éternels et les microplastiques pour la qualité de l'eau du robinet.",
+      "link": "https://www.franceinfo.fr/environnement/pollution/qualite-de-l-eau/pollution-eau-potable/une-menace-systemique-les-medecins-liberaux-alertent-le-gouvernement-dans-une-lettre-ouverte-sur-la-pollution-chimique-de-l-eau-potable_8038985.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1780290891.0
+    },
+    {
+      "id": "Libération--3168338708853179530",
+      "source": "Libération",
+      "title": "«Revoir les étoiles» aux Nuits de Fourvière : Circa fait du plan-plan sur la comète",
+      "excerpt": "Show d’ouverture du festival lyonnais, la création des circassiens australiens, qui proposent une relecture de Dante, honore son cahier des charges sans rature ni fulgurance.",
+      "link": "https://www.liberation.fr/culture/scenes/revoir-les-etoiles-aux-nuits-de-fourviere-circa-fait-du-plan-plan-sur-la-comete-20260601_TCPX2BLATNEPNHBGTHLV3TUTBU/",
+      "time": "Il y a 1h",
+      "pubDate": 1780290480.0
+    },
+    {
+      "id": "Libération--5647467287710980899",
+      "source": "Libération",
+      "title": "Roland-Garros : Diane Parry, la sensation de 2026 ?",
+      "excerpt": "Seule rescapée tricolore en lice pour les huitièmes, la Francilienne fan du PSG confirme enfin les espoirs placés tôt en elle, après des années marquées par les blessures et les doutes.",
+      "link": "https://www.liberation.fr/sports/tennis/roland-garros-diane-parry-la-sensation-de-2026-20260601_GZFNLSEFEVD35GZRNTFJGA2A3I/",
+      "time": "Il y a 1h",
+      "pubDate": 1780290420.0
+    },
+    {
+      "id": "Le Monde--2967968000784078565",
+      "source": "Le Monde",
+      "title": "EN DIRECT, guerre en Ukraine : le « Tagor », un pétrolier russe intercepté ce week-end par la marine française dans l’Atlantique, est « escorté vers un point de mouillage », selon la préfecture maritime de l’Atlantique",
+      "excerpt": "L’interception de ce pétrolier, annoncée par Emmanuel Macron, a eu lieu dimanche « à plus de 400 nautiques [740 kilomètres] à l’ouest de la pointe de la Bretagne », selon la préfecture maritime de l’A...",
+      "link": "https://www.lemonde.fr/international/live/2026/06/01/en-direct-guerre-en-ukraine-un-petrolier-sous-sanctions-internationales-en-provenance-de-russie-a-ete-arraisonne-dimanche-annonce-emmanuel-macron_6695365_3210.html",
+      "time": "Il y a 1h",
+      "pubDate": 1780290232.0
+    },
+    {
+      "id": "Le Monde-5602162320555984721",
+      "source": "Le Monde",
+      "title": "Le titre de séjour de Xenia Fedorova, la chroniqueuse pro-Kremlin des médias Bolloré, provoque des interrogations au sommet de l’Etat",
+      "excerpt": "Pour expliquer la carte de résident de dix ans accordée en 2024 à l’ex-dirigeante de RT France, l’entourage de Gérald Darmanin, ministre de l’intérieur à l’époque, évoque un octroi « automatique » et...",
+      "link": "https://www.lemonde.fr/politique/article/2026/06/01/le-titre-de-sejour-de-xenia-fedorova-la-chroniqueuse-pro-kremlin-des-medias-bollore-provoque-des-interrogations-au-sommet-de-l-etat_6695923_823448.html",
       "time": "Il y a 2h",
+      "pubDate": 1780288539.0
+    },
+    {
+      "id": "Le Monde--5716481170802288598",
+      "source": "Le Monde",
+      "title": "« Il est urgent d’écouter l’alerte lancée par l’encyclique du pape sur l’intelligence artificielle »",
+      "excerpt": "« Qu’il faille attendre qu’une autorité spirituelle pose le débat sur la protection de l’humain en dit long sur l’affaiblissement du pouvoir politique, qui peine à se hisser à la hauteur des enjeux ci...",
+      "link": "https://www.lemonde.fr/idees/article/2026/06/01/il-est-urgent-d-ecouter-l-alerte-lancee-par-l-encyclique-du-pape-sur-l-intelligence-artificielle_6695916_3232.html",
+      "time": "Il y a 3h",
+      "pubDate": 1780286427.0
+    },
+    {
+      "id": "France Info--629292858132997720",
+      "source": "France Info",
+      "title": "\"Entre les mains d'un sachant, elles se pensaient en sécurité\" : un ostéopathe jugé à Strasbourg pour viols et agressions sexuelles sur une vingtaine de patientes",
+      "excerpt": "Ce praticien de 37 ans comparaît à partir de lundi devant la cour criminelle du Bas-Rhin. Il encourt jusqu'à vingt ans de réclusion criminelle. L'ostéopathe conteste les faits et son avocat évoque une...",
+      "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/entre-les-mains-d-un-sachant-elles-se-pensaient-en-securite-un-osteopathe-juge-a-strasbourg-pour-viols-et-agressions-sexuelles-sur-une-vingtaine-de-patientes_8035172.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 3h",
+      "pubDate": 1780286261.0
+    },
+    {
+      "id": "France Info-4034045590342962642",
+      "source": "France Info",
+      "title": "Que propose le texte visant à lutter contre les violences à l'école, issu de l'affaire Bétharram, examiné à partir de lundi à l'Assemblée ?",
+      "excerpt": "\"L'Assemblée nationale doit se montrer à la hauteur\", écrivent des collectifs de victimes dans une tribune publiée par \"Libération\".",
+      "link": "https://www.franceinfo.fr/societe/education/affaire-de-violences-sexuelles-a-notre-dame-de-betharram/que-propose-le-texte-visant-a-lutter-contre-les-violences-a-l-ecole-issu-de-l-affaire-betharram-examine-a-partir-de-lundi-a-l-assemblee_8038367.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 3h",
+      "pubDate": 1780286225.0
+    },
+    {
+      "id": "France Info-1146685202983655580",
+      "source": "France Info",
+      "title": "Maisons, écoles et mosquées rasées... Comment l'armée israélienne créée un \"no man's land\" dans le sud du Liban",
+      "excerpt": "Dans sa guerre contre le Hezbollah, Tsahal détruit méthodiquement des villes et villages libanais proches de la frontière.",
+      "link": "https://www.franceinfo.fr/monde/proche-orient/liban/maisons-ecoles-et-mosquees-rasees-comment-l-armee-israelienne-creee-un-no-man-s-land-dans-le-sud-du-liban_8031611.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 3h",
+      "pubDate": 1780286089.0
+    },
+    {
+      "id": "Le Monde-5746283398060596969",
+      "source": "Le Monde",
+      "title": "Le dernier sommet Choose France d’Emmanuel Macron confirme la course au gigantisme des centres de données pour l’IA",
+      "excerpt": "En plus des 75 milliards d’euros promis par le groupe japonais SoftBank, le plus important de ce type en Europe, le sommet sera marqué par l’annonce de plusieurs autres projets d’infrastructures numér...",
+      "link": "https://www.lemonde.fr/economie/article/2026/06/01/le-dernier-sommet-choose-france-d-emmanuel-macron-confirme-la-course-au-gigantisme-des-centres-de-donnees-pour-l-intelligence-artificielle_6695879_3234.html",
+      "time": "Il y a 3h",
+      "pubDate": 1780285507.0
+    },
+    {
+      "id": "Le Monde-5522895694963466629",
+      "source": "Le Monde",
+      "title": "EN DIRECT, guerre au Moyen-Orient : nouveaux tirs de missiles entre les Etats-Unis et l’Iran au cours du week-end",
+      "excerpt": "L’armée américaine a annoncé avoir attaqué des systèmes de radar et contrôle de drones iraniens, « en réponse à des actions agressives, dont la destruction d’un drone MQ-1 ». Les gardiens de la révolu...",
+      "link": "https://www.lemonde.fr/international/live/2026/06/01/en-direct-guerre-au-moyen-orient-le-qatar-appelle-la-communaute-internationale-a-contraindre-israel-a-mettre-fin-a-ses-agressions-repetees-contre-le-liban_6694380_3210.html",
+      "time": "Il y a 3h",
+      "pubDate": 1780284533.0
+    },
+    {
+      "id": "Le Monde--7750689914723220761",
+      "source": "Le Monde",
+      "title": "Ce qui change le 1ᵉʳ juin pour votre budget : prix du gaz, aides carburant, véhicules électriques, smic, particuliers employeurs, contrats financiers souscrits en ligne",
+      "excerpt": "La hausse des prix du carburant a conduit le gouvernement à mettre en place un certain nombre d’aides dans un contexte de reprise de l’inflation.",
+      "link": "https://www.lemonde.fr/argent/article/2026/06/01/ce-qui-change-le-1-juin-pour-votre-budget-prix-du-gaz-aides-carburant-vehicules-electriques-smic-particuliers-employeurs-contrats-financiers-souscrits-en-ligne_6695778_1657007.html",
+      "time": "Il y a 4h",
+      "pubDate": 1780282802.0
+    },
+    {
+      "id": "Le Monde--1642158263077005189",
+      "source": "Le Monde",
+      "title": "Le long combat de Nastassja Kinski pour obtenir le retrait des images de sa nudité adolescente d’un film de Wim Wenders",
+      "excerpt": "L’actrice allemande tente depuis dix ans d’obtenir la suppression d’une scène de « Faux mouvement », sorti en 1975, dans laquelle elle apparaît quasi nue alors qu’elle était âgée de 13 ans.",
+      "link": "https://www.lemonde.fr/international/article/2026/06/01/le-long-combat-de-nastassja-kinski-pour-obtenir-le-retrait-des-images-de-sa-nudite-adolescente-d-un-film-de-wim-wenders_6695711_3210.html",
+      "time": "Il y a 6h",
+      "pubDate": 1780275606.0
+    },
+    {
+      "id": "Le Monde--21015738414286495",
+      "source": "Le Monde",
+      "title": "Présidentielle en Colombie : le second tour opposera Ivan Cepeda, candidat de la gauche, à Abelardo de la Espriella, un avocat d’extrême droite",
+      "excerpt": "Le candidat d’ultradroite devance, avec 43,74 % des suffrages, le sénateur et philosophe (40,91 %), qui s’inscrit dans les pas du président de gauche sortant, Gustavo Petro. Le second tour aura lieu l...",
+      "link": "https://www.lemonde.fr/international/article/2026/06/01/presidentielle-en-colombie-abelardo-de-la-espriella-un-millionnaire-admirateur-de-donald-trump-et-ivan-cepeda-le-candidat-de-la-gauche-s-affronteront-au-second-tour_6695677_3210.html",
+      "time": "Il y a 7h",
       "pubDate": 1780271620.0
     },
     {
-      "id": "Le Monde--5232252533094497420",
+      "id": "Le Monde-5260133388468327217",
       "source": "Le Monde",
-      "title": "Choose France : ce qu’il faut savoir des investissements annoncés en amont du sommet",
-      "excerpt": "Le rendez-vous annuel de l’investissement étranger en France, créé par Emmanuel Macron en 2018, se tient lundi au Château de Versailles. L’investisseur japonais Softbank a promis d’engager 75 milliard...",
-      "link": "https://www.lemonde.fr/economie/article/2026/06/01/choose-france-le-groupe-siderurgique-marcegaglia-et-la-banque-en-ligne-revolut-annoncent-des-centaines-de-millions-d-investissements_6695644_3234.html",
-      "time": "Il y a 2h",
-      "pubDate": 1780269443.0
-    },
-    {
-      "id": "Le Monde-9117162175512917045",
-      "source": "Le Monde",
-      "title": "Le PSG célèbre avec une parade à Paris sa deuxième Ligue des champions et se prend à viser toujours plus haut",
+      "title": "« On revient l’année prochaine pour la troisième » : Le PSG fête sa deuxième Ligue des champions avec une parade à Paris et veut plus de trophées",
       "excerpt": "Du Champ-de-Mars au Parc des Princes, en passant par l’Elysée, le Paris Saint-Germain a fêté son sacre continental avec ses supporteurs, dimanche, sans cacher son appétit pour de nouveaux trophées.",
       "link": "https://www.lemonde.fr/sport/article/2026/05/31/a-paris-le-psg-celebre-sa-deuxieme-ligue-des-champions-et-se-prend-a-viser-toujours-plus-haut_6695611_3242.html",
-      "time": "Il y a 4h",
-      "pubDate": 1780262299.0
-    },
-    {
-      "id": "France Info-9003026721147787294",
-      "source": "France Info",
-      "title": "\"Pacho m'a touché la main, je te jure !\" : au cœur de la parade du PSG, après sa nouvelle victoire en Ligue des champions",
-      "excerpt": "Du Champ-de-Mars au Parc des Princes, des dizaines de milliers de personnes ont déferlé sur Paris pour célébrer le deuxième sacre européen d'affilée du PSG.",
-      "link": "https://www.franceinfo.fr/sports/foot/ligue-des-champions/reportage-pacho-m-a-touche-la-main-je-te-jure-au-c-ur-de-la-parade-du-psg-apres-sa-nouvelle-victoire-en-ligue-des-champions_8038346.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 5h",
-      "pubDate": 1780260204.0
-    },
-    {
-      "id": "France Info--6506874007593263897",
-      "source": "France Info",
-      "title": "Un homme de 49 ans, condamné à trois reprises pour violences conjugales, mis en examen après le décès de sa compagne dans les Landes",
-      "excerpt": "Le corps de la défunte, décédée jeudi à l'âge de 61 ans, présentait \"des ecchymoses multiples\" témoignant de \"violences habituelles\". Selon les premiers éléments de l'enquête, son compagnon lui aurait...",
-      "link": "https://www.franceinfo.fr/societe/feminicides/un-homme-de-49-ans-condamne-a-trois-reprises-pour-violences-conjugales-mis-en-examen-apres-le-deces-de-sa-compagne-dans-les-landes_8038295.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 6h",
-      "pubDate": 1780255487.0
-    },
-    {
-      "id": "Libération--976469869176785233",
-      "source": "Libération",
-      "title": "De Paris à Uzès, les chorégraphes font rebondir le bal",
-      "excerpt": "Depuis le Covid, une nouvelle génération d’artistes dépoussière la fête populaire avec des projets à mi-chemin entre le spectacle et l’action culturelle, qui permettent de déboulonner quelques clichés...",
-      "link": "https://www.liberation.fr/culture/scenes/de-paris-a-uzes-les-choregraphes-font-rebondir-le-bal-20260531_L7TCE3FBNFAQLJ3MVIN7L7CMV4/",
-      "time": "Il y a 6h",
-      "pubDate": 1780255445.0
-    },
-    {
-      "id": "France Info-4171444747220928172",
-      "source": "France Info",
-      "title": "Le ministre de l'Intérieur Laurent Nuñez recevra son homologue algérien lundi à Paris, une nouvelle étape pour le réchauffement des relations diplomatiques avec Alger",
-      "excerpt": "Les thématiques au menu sont la sécurité et la lutte contre la criminalité organisée ainsi que les questions migratoires et de sécurité civile.",
-      "link": "https://www.franceinfo.fr/monde/afrique/algerie/le-ministre-de-l-interieur-laurent-nunez-recevra-son-homologue-algerien-lundi-a-paris-une-nouvelle-etape-pour-le-rechauffement-des-relations-diplomatiques-avec-alger_8038637.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 6h",
-      "pubDate": 1780254465.0
-    },
-    {
-      "id": "Libération-6142861884830052243",
-      "source": "Libération",
-      "title": "Comment Edgar Morin a imprimé sa pensée en une de «Libé»",
-      "excerpt": "Après la mort, vendredi, de l’intellectuel du siècle puis la victoire du PSG, samedi, en Ligue des champions, la rédaction a achoppé sur un dilemme : que mettre en première page de l’édition de ce lun...",
-      "link": "https://www.liberation.fr/idees-et-debats/comment-edgar-morin-a-imprime-sa-pensee-en-une-de-libe-20260531_ZLTHHHGI2JEXHMHUE3ZW3HSKJU/",
-      "time": "Il y a 7h",
-      "pubDate": 1780253953.0
-    },
-    {
-      "id": "Libération--8179125294683016951",
-      "source": "Libération",
-      "title": "Célébrations après la victoire du PSG en Ligue des champions : les joueurs et les supporteurs terminent la fête au Parc des Princes",
-      "excerpt": "Le Paris Saint-Germain a décroché, samedi 30 mai, son deuxième titre européen en battant Arsenal aux tirs au but. Après une nuit de joie dans les rues de la capitale, la liesse s’est poursuivie sur le...",
-      "link": "https://www.liberation.fr/sports/football/en-direct-sacre-du-psg-en-ligue-des-champions-apres-780-interpellations-partout-en-france-paris-attend-le-retour-ses-joueurs-20260531_72KZHUU7LZGBPHXEDJAMK4PHOM/",
-      "time": "Il y a 7h",
-      "pubDate": 1780253780.0
-    },
-    {
-      "id": "France Info--8141471108427521488",
-      "source": "France Info",
-      "title": "Israël s’empare de l'emblématique forteresse de Beaufort au Liban, \"une faute majeure\" selon l'État français",
-      "excerpt": "Benyamin Nétanyahou a revendiqué la prise de la forteresse de Beaufort au Liban, dimanche 31 mai. Les offensives israéliennes se sont étendues sur le territoire, avec plus de 3 300 morts. Emmanuel Mac...",
-      "link": "https://www.franceinfo.fr/monde/proche-orient/liban/israel-s-empare-de-l-emblematique-forteresse-de-beaufort-au-liban-une-faute-majeure-selon-l-etat-francais_8038631.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 7h",
-      "pubDate": 1780253753.0
-    },
-    {
-      "id": "Libération-8614830362872398099",
-      "source": "Libération",
-      "title": "Célébrations après la finale de la Ligue des champions : «Le foot et ma mère, c’est les deux trucs les plus importants de ma vie»",
-      "excerpt": "Au terme d’une finale irrespirable, le PSG a remporté samedi 30 mai sa deuxième Ligue des champions d’affilée. L’extase pour les dizaines de milliers de supporteurs, sortis tout au long du week-end po...",
-      "link": "https://www.liberation.fr/societe/celebrations-apres-la-finale-de-la-ligue-des-champions-le-foot-et-ma-mere-cest-les-deux-trucs-les-plus-importants-de-ma-vie-20260531_IGURT5TNXZBM3HYDXEHRKS3NLQ/",
-      "time": "Il y a 7h",
-      "pubDate": 1780252637.0
-    },
-    {
-      "id": "Libération--657646199280112401",
-      "source": "Libération",
-      "title": "«Les bombes sont toujours partout autour de nous» : au Sud-Liban, Israël accroît son occupation, pas les négociations",
-      "excerpt": "Le cessez-le-feu ne cesse d’être bafoué par des incursions et des bombardements meurtriers de Tsahal sur le sol libanais, qui permettent aux Israéliens de grignoter et occuper toujours plus de territo...",
-      "link": "https://www.liberation.fr/international/moyen-orient/les-bombes-sont-toujours-partout-autour-de-nous-au-sud-liban-israel-accroit-son-occupation-pas-les-negociations-20260531_36P4HO5ZBBGOXEBQ5HOPGH4T2A/",
-      "time": "Il y a 7h",
-      "pubDate": 1780252508.0
-    },
-    {
-      "id": "Libération--341054689175900160",
-      "source": "Libération",
-      "title": "Tour d’Italie : à un mois du Tour de France, Jonas Vingegaard écrase le Giro et complète la trilogie",
-      "excerpt": "Le Danois de 29 ans a largement remporté ce dimanche 31 mai le dernier grand tour qui manquait à son palmarès. Seuls huit coureurs ont réussi cet exploit dans leur carrière.",
-      "link": "https://www.liberation.fr/sports/cyclisme/tour-ditalie-a-un-mois-du-tour-de-france-jonas-vingegaard-ecrase-le-giro-et-complete-la-trilogie-20260531_GKW3UXXQWBF57HP7KF6FXYMXQQ/",
-      "time": "Il y a 7h",
-      "pubDate": 1780251743.0
-    },
-    {
-      "id": "Le Monde-3205043891950059786",
-      "source": "Le Monde",
-      "title": "Roland-Garros 2026 : revivez les qualifications de Joao Fonseca et Rafel Jodar en quarts de finale et l’élimination précoce d’Iga Swiatek",
-      "excerpt": "Les premiers huitièmes de finale de Roland-Garros ont réservé leur lot de surprises. Si Iga Swiatek, quatre fois vainqueure à la porte d’Auteuil, s’est inclinée, les jeunes Joao Fonseca et Rafel Jodar...",
-      "link": "https://www.lemonde.fr/sport/live/2026/05/31/en-direct-roland-garros-2026-casper-ruud-face-au-jeune-joao-fonseca-pour-une-place-en-quarts_6695561_3242.html",
-      "time": "Il y a 7h",
-      "pubDate": 1780251427.0
-    },
-    {
-      "id": "Le Monde--2472544744735150422",
-      "source": "Le Monde",
-      "title": "Ce qu’il faut retenir de l’actualité du week-end des 30 et 31 mai",
-      "excerpt": "Vous n’avez pas suivi l’actualité samedi 30 et dimanche 31 mai ? Voici ce qu’il s’est passé pendant ces quarante-huit dernières heures.",
-      "link": "https://www.lemonde.fr/les-decodeurs/article/2026/05/31/ce-qu-il-faut-retenir-de-l-actualite-du-week-end-des-30-et-31-mai_6695606_4355770.html",
-      "time": "Il y a 7h",
-      "pubDate": 1780251060.0
-    },
-    {
-      "id": "Libération--2906547948168179158",
-      "source": "Libération",
-      "title": "Ligue des champions : malgré la défaite d’Arsenal, une marée rouge et blanche et «que des bonnes vibes» à Londres",
-      "excerpt": "Le revers en finale de la compétition européenne samedi n’entame pas la joie des fans londoniens. Les voilà champions d’Angleterre pour la première fois en vingt-deux ans, et c’est déjà bien suffisant...",
-      "link": "https://www.liberation.fr/sports/football/ligue-des-champions-malgre-la-defaite-darsenal-une-maree-rouge-et-blanche-et-que-des-bonnes-vibes-a-londres-20260531_SCJLC4KNRFCMFPZ4PHPWOQ3IS4/",
-      "time": "Il y a 8h",
-      "pubDate": 1780249414.0
-    },
-    {
-      "id": "Libération-3039091099615434312",
-      "source": "Libération",
-      "title": "Guerre au Moyen-Orient : de nouvelles coupes budgétaires dans la recherche, le travail ou les investissements d’avenir",
-      "excerpt": "Dans deux projets de décrets, le gouvernement précise son plan d’économies pour compenser le coût de la guerre au Moyen-Orient. Des auditions à ce sujet doivent avoir lieu la semaine prochain au Sénat...",
-      "link": "https://www.liberation.fr/politique/guerre-au-moyen-orient-de-nouvelles-coupes-budgetaires-dans-la-recherche-le-travail-ou-les-investissements-davenir-20260531_IAIZG7QZUVCNDOQQD42G4R64J4/",
-      "time": "Il y a 8h",
-      "pubDate": 1780249244.0
-    },
-    {
-      "id": "France Info--4788551477273656101",
-      "source": "France Info",
-      "title": "Roland-Garros 2026 : revivez la victoire solide de Joao Fonseca sur Casper Ruud en huitième de finale",
-      "excerpt": "Finaliste malheureux en 2022 et 2023, le Norvégien a chuté face à Joao Fonseca, tombeur de Novak Djokovic au tour précédent.",
-      "link": "https://www.franceinfo.fr/roland-garros/direct-casper-ruud-joao-fonseca-le-double-finaliste-face-au-phenomene-bresilien-suivez-avec-nous-le-huitieme-de-finale-de-roland-garros_8038016.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 8h",
-      "pubDate": 1780248813.0
-    },
-    {
-      "id": "Libération--580720319550699770",
-      "source": "Libération",
-      "title": "Victoire du PSG : comme à son habitude, l’extrême droite tente d’instrumentaliser les débordements",
-      "excerpt": "Le RN, les médias de Bolloré, Bruno Retailleau et Elon Musk ont voulu profiter des dégradations qui ont eu lieu après la finale de la Ligue des champions samedi 30 mai, pour déployer une rhétorique au...",
-      "link": "https://www.liberation.fr/politique/victoire-du-psg-comme-a-son-habitude-lextreme-droite-tente-dinstrumentaliser-les-debordements-20260531_KSQBAIIV35AK7OMW7YJAQVNQRE/",
-      "time": "Il y a 8h",
-      "pubDate": 1780248641.0
-    },
-    {
-      "id": "Libération--7581509853481708491",
-      "source": "Libération",
-      "title": "Israël étend son offensive au Liban, l’ONU se réunit en urgence lundi, Trump fait une nouvelle proposition à l’Iran… L’actu de la guerre au Moyen-Orient",
-      "excerpt": "L’essentiel des informations du jour sur la guerre entre Israël, les Etats-Unis, l’Iran et le Liban.",
-      "link": "https://www.liberation.fr/international/moyen-orient/israel-etend-encore-son-offensive-au-liban-trump-fait-une-nouvelle-proposition-plus-stricte-a-liran-lactu-de-la-guerre-au-moyen-orient-20260531_EAAHIC7IUVCCHFUDUBT5NBBH3I/",
-      "time": "Il y a 8h",
-      "pubDate": 1780247493.0
-    },
-    {
-      "id": "France Info-2363764755273935782",
-      "source": "France Info",
-      "title": "Giro 2026 : Jonas Vingegaard sacré pour la première fois, le Français Paul Magnier remporte le maillot cyclamen",
-      "excerpt": "Sacré dimanche dans les rues de Rome, le Danois a désormais remporté les trois Grands Tours, à 29 ans.",
-      "link": "https://www.franceinfo.fr/sports/cyclisme/giro/giro-2026-jonas-vingegaard-sacre-pour-la-premiere-fois-le-francais-paul-magnier-remporte-le-maillot-cyclamen_8038385.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 8h",
-      "pubDate": 1780247065.0
-    },
-    {
-      "id": "Le Monde-886637049957864621",
-      "source": "Le Monde",
-      "title": "Dans le sud du Liban, l’hôpital Al-Najda de Nabatiyé, îlot isolé au milieu des combats entre le Hezbollah et l’armée israélienne",
-      "excerpt": "La bataille de la forteresse de Beaufort, conquise par l’armée israélienne dimanche, a transformé Nabatiyé, à 6 kilomètres au nord, en zone de combat avec le Hezbollah. Le personnel de l’établissement...",
-      "link": "https://www.lemonde.fr/international/article/2026/05/31/dans-le-sud-du-liban-l-hopital-al-najda-de-nabatiye-ilot-isole-au-milieu-des-combats-entre-le-hezbollah-et-l-armee-israelienne_6695599_3210.html",
       "time": "Il y a 9h",
-      "pubDate": 1780244142.0
-    },
-    {
-      "id": "France Info-6366575610426432534",
-      "source": "France Info",
-      "title": "\"Ils ont tiré des grenades sur des familles\" : vives polémiques entre le gouvernement et les oppositions sur le maintien de l'ordre après le match du PSG",
-      "excerpt": "La France insoumise a déploré l'absence de fan zones pour \"éviter ce type de débordement\" et a dénoncé \"la doctrine du maintien de l'ordre\". Le RN s'est quant à lui empressé de critiquer les violences...",
-      "link": "https://www.franceinfo.fr/sports/foot/ligue-des-champions/finale/violences-en-marge-victoire-du-psg-vives-polemiques-entre-le-gouvernement-et-les-oppositions_8038280.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 10h",
-      "pubDate": 1780242284.0
-    },
-    {
-      "id": "Le Monde-464762886999833119",
-      "source": "Le Monde",
-      "title": "EN DIRECT, guerre en Ukraine : Kiev revendique des frappes jusqu’à 1 200 kilomètres à l’intérieur du territoire russe",
-      "excerpt": "Volodymyr Zelensky a affirmé, dimanche, que les forces ukrainiennes avaient frappé dans la nuit une raffinerie de pétrole dans l’oblast russe de Saratov, à environ 700 kilomètres de la ligne de front.",
-      "link": "https://www.lemonde.fr/international/live/2026/05/31/en-direct-guerre-en-ukraine-kiev-revendique-des-frappes-jusqu-a-1-200-km-a-l-interieur-du-territoire-russe_6695365_3210.html",
-      "time": "Il y a 10h",
-      "pubDate": 1780242256.0
-    },
-    {
-      "id": "France Info--2273905037566585519",
-      "source": "France Info",
-      "title": "Lyhanna, une collégienne de 11 ans, est portée disparue à Fleurance dans le Gers, une battue citoyenne organisée",
-      "excerpt": "Une enquête pour enlèvement et séquestration de mineur a été ouverte, a précisé le parquet d'Auch dimanche. La petite fille est toujours recherchée. Quelque 250 personnes, encadrées par la gendarmerie...",
-      "link": "https://www.franceinfo.fr/faits-divers/une-petite-fille-de-11-ans-disparue-dans-le-gers-un-suspect-place-en-garde-a-vue-annonce-le-parquet_8038112.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 10h",
-      "pubDate": 1780240007.0
-    },
-    {
-      "id": "Le Monde-7775494618525038161",
-      "source": "Le Monde",
-      "title": "Violences en milieu scolaire : après un parcours semé d’embûches, la proposition de loi « Bétharram » arrive à l’Assemblée nationale",
-      "excerpt": "Le texte issu de la commission créée après l’affaire de Bétharram, porté par la députée Renaissance Violette Spillebout, sera débattue lundi 1ᵉʳ juin. Au cœur des tensions politiques, le renforcement...",
-      "link": "https://www.lemonde.fr/politique/article/2026/05/31/violences-en-milieu-scolaire-apres-un-parcours-seme-d-embuches-la-proposition-de-loi-betharram-arrive-a-l-assemblee-nationale_6695591_823448.html",
-      "time": "Il y a 10h",
-      "pubDate": 1780239615.0
-    },
-    {
-      "id": "Le Monde--6054044486494140093",
-      "source": "Le Monde",
-      "title": "Cancers du pancréas : l’efficacité d’un traitement innovant présenté à Chicago, alors qu’un programme de prévention se déploie en France",
-      "excerpt": "En cas de tumeur métastatique du pancréas, une nouvelle molécule, le daraxonrasib, double la survie, a montré un essai international présenté au congrès de la Société américaine d’oncologie clinique,...",
-      "link": "https://www.lemonde.fr/sciences/article/2026/05/31/cancers-du-pancreas-l-efficacite-d-un-traitement-innovant-presente-a-chicago-alors-qu-un-programme-de-prevention-se-deploie-en-france_6695584_1650684.html",
-      "time": "Il y a 12h",
-      "pubDate": 1780232671.0
-    },
-    {
-      "id": "France Info-4616472443482898867",
-      "source": "France Info",
-      "title": "Toutes les vigilances orange canicule ont été levées en France, des orages attendus dans l'Est",
-      "excerpt": "Les températures sont en baisse sur une grande partie du pays et clôturent la séquence canicule qui a frappé l'Hexagone en cette fin du mois de mai.",
-      "link": "https://www.franceinfo.fr/environnement/meteo/toutes-les-vigilances-orange-canicule-ont-ete-levees-en-france-des-orages-attendus-dans-l-est-du-pays_8038274.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 13h",
-      "pubDate": 1780232317.0
-    },
-    {
-      "id": "France Info-5904231368522758151",
-      "source": "France Info",
-      "title": "Carburants : l'aide aux \"grands rouleurs\" parviendra par virement bancaire \"dans les dix jours\", précise le ministre de l'Économie",
-      "excerpt": "Près de 440 000 demandes ont été déposées en l'espace de quelques jours pour le dispositif mis en place par le gouvernement.",
-      "link": "https://www.franceinfo.fr/economie/automobile/essence/carburants-l-aide-aux-grands-rouleurs-parviendra-par-virement-bancaire-dans-les-dix-jours-precise-le-ministre-de-l-economie_8038277.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 13h",
-      "pubDate": 1780230557.0
-    },
-    {
-      "id": "Le Monde--8926426252873509833",
-      "source": "Le Monde",
-      "title": "Nora Hamzawi, actrice : « J’ai été éduquée à ne compter que sur moi-même, à me mettre à l’abri »",
-      "excerpt": "« Je ne serais pas arrivée là si… » Chaque semaine, « Le Monde » interroge une personnalité sur un moment décisif de son existence. L’humoriste et comédienne évoque son enfance triste, devenue moteur...",
-      "link": "https://www.lemonde.fr/culture/article/2026/05/31/nora-hamzawi-actrice-j-ai-ete-eduquee-a-ne-compter-que-sur-moi-meme-a-me-mettre-a-l-abri_6695506_3246.html",
-      "time": "Il y a 21h",
-      "pubDate": 1780200028.0
+      "pubDate": 1780262299.0
     }
   ],
   "anglophone": [
     {
-      "id": "BBC News-4625059534237611535",
+      "id": "BBC News--7396755553104982009",
+      "source": "BBC News",
+      "title": "Iran and US report new wave of strikes in Gulf",
+      "excerpt": "Iran and the US say they have carried out fresh attacks around the Strait of Hormuz, the third known escalation in a week.",
+      "link": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 13 min",
+      "pubDate": 1780296444.0
+    },
+    {
+      "id": "NPR--8724001642156962198",
+      "source": "NPR",
+      "title": "Violent clashes give way to peaceful PSG parade after Champions League win",
+      "excerpt": "A huge crowd of supporters gathered peacefully near the Eiffel Tower on Sunday to celebrate Paris Saint-Germain's victory, which was marred by violent clashes overnight that led police to detain hundr...",
+      "link": "https://www.npr.org/2026/06/01/nx-s1-5842841/peaceful-psg-parade",
+      "time": "Il y a 17 min",
+      "pubDate": 1780296187.0
+    },
+    {
+      "id": "BBC News--6354723188322377440",
+      "source": "BBC News",
+      "title": "Huge blast kills dozens in rebel-held village in Myanmar",
+      "excerpt": "Insurgents say it was caused by explosives being used for mining close to the Chinese border.",
+      "link": "https://www.bbc.com/news/articles/cglp7p787njo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 36 min",
+      "pubDate": 1780295039.0
+    },
+    {
+      "id": "NPR-3592308599843485816",
+      "source": "NPR",
+      "title": "Right-wing candidate pulls ahead in first round of Colombia's presidential vote",
+      "excerpt": "Tough-on-crime outsider Aberaldo de la Espriella took the lead in Colombia's presidential race on Sunday night, setting up a runoff with Iván Cepeda, an ally of outgoing President Gustavo Petro.",
+      "link": "https://www.npr.org/2026/06/01/nx-s1-5842833/first-round-colombia-presidential-vote",
+      "time": "Il y a 58 min",
+      "pubDate": 1780293745.0
+    },
+    {
+      "id": "The Guardian--1343645481298991417",
+      "source": "The Guardian",
+      "title": "Wildfires devastating richer areas but fewer hectares burned globally – study",
+      "excerpt": "‘Megafires’ in California, Canada, South Korea and Europe in 2025, but changes to farming slowed spread in parts of Africa “Devastating” wildfires ripped across the wealthier parts of the world in 202...",
+      "link": "https://www.theguardian.com/world/2026/jun/01/wildfires-devastating-richer-areas-but-fewer-hectares-burned-globally-study",
+      "time": "Il y a 1h",
+      "pubDate": 1780293609.0
+    },
+    {
+      "id": "NPR-2895584937331763630",
+      "source": "NPR",
+      "title": "U.S. bombs Iranian military sites and Kuwait is hit by drone and missile fire",
+      "excerpt": "The U.S. military says it bombed Iranian radar and drone control sites in Iran after Tehran shot down an American MQ-1 Predator drone this weekend. Kuwait said its air defenses opened fire on Monday.",
+      "link": "https://www.npr.org/2026/06/01/g-s1-125126/us-iran-war-updates",
+      "time": "Il y a 1h",
+      "pubDate": 1780293180.0
+    },
+    {
+      "id": "BBC News--4182459091789230619",
+      "source": "BBC News",
+      "title": "Poland's controversial 'Highway to Hel' 666 bus revived",
+      "excerpt": "Poland's seaside resort called Hel is getting its 666 bus service back, despite earlier opposition from Christian groups.",
+      "link": "https://www.bbc.com/news/articles/c1d2ld91635o?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 3h",
+      "pubDate": 1780283997.0
+    },
+    {
+      "id": "BBC News--3367752370435218130",
       "source": "BBC News",
       "title": "Colombia presidential runoff pits leftist senator against pro-Trump rival",
       "excerpt": "Left-wing senator Iván Cepeda will face Trump admirer Abelardo de la Espriella at the final ballot on 21 June.",
       "link": "https://www.bbc.com/news/articles/c1w2xvwq8g9o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 7 min",
+      "time": "Il y a 5h",
       "pubDate": 1780278783.0
     },
     {
-      "id": "The Guardian--8720029880277583060",
+      "id": "The Guardian-401398899844970903",
       "source": "The Guardian",
       "title": "Colombia’s far-right presidential candidate Espriella wins first round of vote ahead of runoff",
       "excerpt": "Lawyer and Trump admirer has risen rapidly in the polls and will face Iván Cepeda in election runoff in three weeks The far-right lawyer Abelardo de la Espriella won the first round of Colombia’s pres...",
       "link": "https://www.theguardian.com/world/2026/jun/01/colombia-far-right-presidential-candidate-espriella-wins-first-round-of-vote-ahead-of-election-runoff",
-      "time": "Il y a 55 min",
+      "time": "Il y a 5h",
       "pubDate": 1780275885.0
     },
     {
-      "id": "BBC News-8588660992277954547",
+      "id": "BBC News-2316769988983535183",
       "source": "BBC News",
       "title": "Trump seeking edits to US-Iran deal, US media report",
       "excerpt": "The requested changes are related to the Strait of Hormuz and the removal of highly enriched uranium, according to US media.",
       "link": "https://www.bbc.com/news/articles/c1w2xve315do?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 3h",
+      "time": "Il y a 8h",
       "pubDate": 1780268060.0
     },
     {
-      "id": "BBC News--5400554935744694268",
+      "id": "BBC News-5729048941316914635",
       "source": "BBC News",
       "title": "Israel seizes castle in Lebanon as it expands ground offensive",
       "excerpt": "Prime Minister Benjamin Netanyahu calls the capture of the strategic fortress a \"decisive shift\" in Israel's campaign against Hezbollah, as European governments criticise the escalation.",
       "link": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 3h",
+      "time": "Il y a 8h",
       "pubDate": 1780267152.0,
       "sources": [
         "BBC News",
@@ -315,178 +378,124 @@
       "sourceCount": 2
     },
     {
-      "id": "BBC News-1693656461613218949",
+      "id": "BBC News--5649436080020226723",
       "source": "BBC News",
       "title": "Nicaraguan indigenous leader dies after three years in prison",
       "excerpt": "Rights groups condemn the death of Brooklyn Rivera, 73, following his long arbitrary detention by the governing regime.",
       "link": "https://www.bbc.com/news/articles/cvgzyyrzj1jo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 4h",
+      "time": "Il y a 9h",
       "pubDate": 1780264358.0
     },
     {
-      "id": "NPR-5944663269616096634",
+      "id": "NPR--5002514578338607685",
       "source": "NPR",
       "title": "How aid cuts are hampering the frontline response to the Ebola crisis",
       "excerpt": "Aid workers in Uganda are watching the Ebola crisis unfold in the neighboring Democratic Republic of Congo. They're doing what they can to prepare for an uptick in cases, but foreign aid cuts aren't h...",
       "link": "https://www.npr.org/2026/05/31/nx-s1-5839197/ebola-crisis-outbreak-misinformation-democratic-republic-congo-uganda",
-      "time": "Il y a 4h",
+      "time": "Il y a 9h",
       "pubDate": 1780261879.0
     },
     {
-      "id": "NPR--1494899075151700699",
+      "id": "NPR--8388847404878547789",
       "source": "NPR",
       "title": "The terrifying day the U.S.-Iran war reached a sleepy Sri Lankan town",
       "excerpt": "A deadly strike during the first days of the Iran war hit far away in the Indian Ocean, jolting a quiet seaside town and showing how far the conflict's reach extends.<br />",
       "link": "https://www.npr.org/2026/05/31/nx-s1-5820634/the-terrifying-day-the-u-s-iran-war-reached-a-sleepy-sri-lankan-town",
-      "time": "Il y a 4h",
+      "time": "Il y a 9h",
       "pubDate": 1780261875.0
     },
     {
-      "id": "NPR-1089262244833309514",
+      "id": "NPR-6786806674145991854",
       "source": "NPR",
       "title": "Trump floats MAGA rally instead of concert after musicians drop out of Freedom 250",
       "excerpt": "Several artists, including country singer Martina McBride, have withdrawn from the Great American State Fair in Washington, D.C.",
       "link": "https://www.npr.org/2026/05/31/nx-s1-5841889/trump-america-250-state-fair-artists-rally",
-      "time": "Il y a 4h",
+      "time": "Il y a 9h",
       "pubDate": 1780261489.0
     },
     {
-      "id": "NPR--1402419244567252785",
+      "id": "NPR--3651095372056330845",
       "source": "NPR",
       "title": "United Airlines flight to Spain pulls U-turn, apparently over Bluetooth device name",
       "excerpt": "The flight to Palma de Mallorca diverted back to Newark late on Saturday. Air traffic audio and social media posts indicate an onboard Bluetooth device raised security concerns.",
       "link": "https://www.npr.org/2026/05/31/nx-s1-5841913/united-airlines-flight-diversion-bluetooth",
-      "time": "Il y a 5h",
+      "time": "Il y a 10h",
       "pubDate": 1780259374.0
     },
     {
-      "id": "BBC News-3670637277366729934",
+      "id": "BBC News--1456961927108928690",
       "source": "BBC News",
       "title": "Dead whale towed ashore in Denmark ahead of autopsy",
       "excerpt": "\"Timmy\" was found dead off the coast of Anholt despite multiple attempts to rescue it.",
       "link": "https://www.bbc.com/news/articles/cpwpl9vn0yqo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 6h",
+      "time": "Il y a 11h",
       "pubDate": 1780254342.0
     },
     {
-      "id": "BBC News-1003834502307822839",
+      "id": "BBC News--4393756199435824194",
       "source": "BBC News",
       "title": "Hundreds arrested and dozens of police injured after Champions League riots in France",
       "excerpt": "Nearly 800 people were arrested after clashes with police which saw 219 people injured, including 57 police officers.",
       "link": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 7h",
+      "time": "Il y a 12h",
       "pubDate": 1780251219.0
     },
     {
-      "id": "BBC News-4860467958832079437",
+      "id": "BBC News-7671893831095072064",
       "source": "BBC News",
       "title": "South Africa made to look like fools over World Cup visa issues, says minister",
       "excerpt": "After a day of uncertainty, the government confirms the team will depart for Mexico on Monday.",
       "link": "https://www.bbc.com/news/articles/c86dxvql3qno?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 8h",
+      "time": "Il y a 13h",
       "pubDate": 1780248438.0
     },
     {
-      "id": "BBC News-1996724886453850966",
-      "source": "BBC News",
-      "title": "Huge blast kills dozens in rebel-held village in Myanmar",
-      "excerpt": "Insurgents say it was caused by explosives being used for mining close to the Chinese border.",
-      "link": "https://www.bbc.com/news/articles/cglp7p787njo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 9h",
-      "pubDate": 1780246795.0
-    },
-    {
-      "id": "BBC News-6379390729316982314",
-      "source": "BBC News",
-      "title": "Laos cave survivors help with plan to find last two missing men",
-      "excerpt": "So far, five men have been freed from the narrow, flooded cave but efforts are ongoing to locate two more.",
-      "link": "https://www.bbc.com/news/articles/c8094jdpzv3o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 10h",
-      "pubDate": 1780242762.0
-    },
-    {
-      "id": "The Guardian--3012503068328284349",
+      "id": "The Guardian-5125515379501063340",
       "source": "The Guardian",
       "title": "WHO calls for community cooperation to contain Ebola outbreak in DRC",
       "excerpt": "Tedros Adhanom Ghebreyesus makes appeal after protests against protocols for handling victims’ bodies in Ituri province Containing the <a href=\"https://www.theguardian.com/world/ebola\">Ebola</a> outbr...",
       "link": "https://www.theguardian.com/world/2026/may/31/who-calls-for-community-cooperation-to-contain-drc-ebola-outbreak",
-      "time": "Il y a 10h",
+      "time": "Il y a 15h",
       "pubDate": 1780242587.0
     },
     {
-      "id": "NPR--7272754696147555201",
+      "id": "NPR-2186353435507721372",
       "source": "NPR",
       "title": "U.S. strike on alleged drug boat kills 3 in Pacific Ocean, in fourth attack this week",
       "excerpt": "The U.S. military said it carried out another strike on a boat accused of smuggling drugs in the Pacific Ocean, killing three in the fourth attack this week and putting the total death toll at 205.",
       "link": "https://www.npr.org/2026/05/31/nx-s1-5841876/us-strike-drug-boat-kills-3-pacific-ocean",
-      "time": "Il y a 10h",
+      "time": "Il y a 15h",
       "pubDate": 1780240456.0
     },
     {
-      "id": "The Guardian-8818710293724252645",
+      "id": "The Guardian--2903239917164250840",
       "source": "The Guardian",
       "title": "Death of Congolese man renews scrutiny of race relations in Ireland",
       "excerpt": "Yves Sakila died after being restrained by security guards ‘in broad daylight’ Irish authorities have agreed to a second postmortem on the body of a Congolese man who died after being restrained by sh...",
       "link": "https://www.theguardian.com/world/2026/may/31/yves-sakila-death-congolese-man-ireland-race-relations",
-      "time": "Il y a 12h",
+      "time": "Il y a 17h",
       "pubDate": 1780235974.0
     },
     {
-      "id": "NPR--7500398503278182951",
+      "id": "NPR-995668015434121138",
       "source": "NPR",
       "title": "Experimental pill promises new hope for deadly pancreatic cancer",
       "excerpt": "A novel pill helped people with advanced pancreatic cancer live longer, researchers reported Sunday, raising hopes of long-needed better treatments for one of the deadliest types of cancer.",
       "link": "https://www.npr.org/2026/05/31/nx-s1-5841859/experimental-pill-new-hope-pancreatic-cancer",
-      "time": "Il y a 12h",
+      "time": "Il y a 18h",
       "pubDate": 1780232447.0
     },
     {
-      "id": "NPR--1612802535504193590",
-      "source": "NPR",
-      "title": "Israel is extending its footprint through war. For some, it's part of a greater plan",
-      "excerpt": "On the fringes of Israel's far right, some activists and political leaders dream of a Greater Israel, extending the country's area of control into neighboring countries.",
-      "link": "https://www.npr.org/2026/05/31/nx-s1-5837292/israel-is-extending-its-footprint-through-war-for-some-its-part-of-a-greater-plan",
-      "time": "Il y a 13h",
-      "pubDate": 1780230669.0
-    },
-    {
-      "id": "NPR-2314799322454037414",
-      "source": "NPR",
-      "title": "The biggest permanent desert lake threatens with rising waters and hungry crocs",
-      "excerpt": "Kenya's Lake Turkana is the world's largest permanent desert lake. Its waters have long sustained hundreds of thousands. Now the lake is facing multiple threats — and threatening those who rely on it.",
-      "link": "https://www.npr.org/2026/05/31/g-s1-122887/lake-turkana-kenya-climate-rising-waters-fishing-crocodiles",
-      "time": "Il y a 13h",
-      "pubDate": 1780230268.0
-    },
-    {
-      "id": "The Guardian--5176408979903309364",
+      "id": "The Guardian--7504038206743638602",
       "source": "The Guardian",
       "title": "Colombia goes to polls in election pitting outgoing leader’s ally against pro-Trump candidates",
       "excerpt": "Ballots are being cast in the first round of the South American nation’s presidential elections Colombians are casting ballots in the first round of the South American nation’s presidential election,...",
       "link": "https://www.theguardian.com/world/2026/may/31/colombia-polls-election-outgoing-leaders-ally-pro-trump-candidates",
-      "time": "Il y a 14h",
+      "time": "Il y a 19h",
       "pubDate": 1780226616.0
     },
     {
-      "id": "NPR-4215745139967432591",
-      "source": "NPR",
-      "title": "Democrats and Republicans think control of Congress runs through Iowa",
-      "excerpt": "Iowa is no stranger to political attention in presidential elections, but surprisingly competitive midterm contests highlight the state's importance for both parties as it holds its primary Tuesday.",
-      "link": "https://www.npr.org/2026/05/31/nx-s1-5836408/iowa-primary-senate-governor-trump-democrats",
-      "time": "Il y a 15h",
-      "pubDate": 1780225200.0
-    },
-    {
-      "id": "BBC News-6974405313198547758",
-      "source": "BBC News",
-      "title": "Japan defence minister denies militarism and criticises China's 'huge arsenal'",
-      "excerpt": "Shinjiro Koizumi makes some of Tokyo's most pointed remarks yet in the dispute over Japan's military build-up.",
-      "link": "https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 19h",
-      "pubDate": 1780209244.0
-    },
-    {
-      "id": "The Guardian-275396679843774098",
+      "id": "The Guardian--8110954476208348",
       "source": "The Guardian",
       "title": "Bound by blood: new film highlights Jamaica’s outlawed obeah belief system",
       "excerpt": "Stew Peas focuses on obeah, an enduring African magic practice in Jamaica banned by colonisers in the 1700s A new movie from award-winning Jamaican film-maker Sosiessia Nixon shines a spotlight on Jam...",
@@ -495,7 +504,7 @@
       "pubDate": 1780138818.0
     },
     {
-      "id": "The Guardian-7662291747681977393",
+      "id": "The Guardian-9177909405604044531",
       "source": "The Guardian",
       "title": "Colombia prepares to go to polls in election shadowed by resurgence of political violence",
       "excerpt": "Sunday’s presidential vote is contest between left and right – and between contradictory proposals for dealing with the decades-long armed conflict Mateo Pérez Rueda was one internship away from compl...",
@@ -504,7 +513,7 @@
       "pubDate": 1780131614.0
     },
     {
-      "id": "The Guardian--2959946122267284819",
+      "id": "The Guardian-1204994349421536191",
       "source": "The Guardian",
       "title": "Alarm at Mexico bill allowing elections to be annulled for ‘foreign interference’",
       "excerpt": "Opposition says constitutional amendment would give bill ruling party carte blanche to overturn will of voters <ul><li><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-ne...",
@@ -513,7 +522,7 @@
       "pubDate": 1780076015.0
     },
     {
-      "id": "The Guardian-4681159741220767776",
+      "id": "The Guardian-3948060041669937178",
       "source": "The Guardian",
       "title": "Lula says Brazil will not be treated like ‘tinpot country’ after US designates gangs as terrorists",
       "excerpt": "Marco Rubio made announcement after meeting president’s far-right challenger Flávio Bolsonaro Brazil will not be treated as a “tinpot country,” the country’s president, Luiz Inácio da Silva, said on F...",
@@ -522,23 +531,14 @@
       "pubDate": 1780074807.0
     },
     {
-      "id": "The Guardian-6005742835887896472",
+      "id": "The Guardian-3841067868172506509",
       "source": "The Guardian",
       "title": "WHO puts Ebola outbreak death rate at ‘huge’ 30-50% as chief arrives in DRC",
       "excerpt": "Tedros Adhanom Ghebreyesus calls for ceasefire among armed groups to help avoid deaths from preventable disease The death rate of the Ebola outbreak in the Democratic Republic of the Congo is between...",
       "link": "https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic",
       "time": "Il y a 2j",
       "pubDate": 1780072727.0
-    },
-    {
-      "id": "The Guardian-280088042757720183",
-      "source": "The Guardian",
-      "title": "Friday briefing: ​What do the cuts in aid mean for the fight against Ebola in the DRC?",
-      "excerpt": "In today’s newsletter: As the virus spreads across borders, health workers warn that weakened global support is making a prolonged crisis more likely  Ebola is spreading rapidly in parts of east Afric...",
-      "link": "https://www.theguardian.com/world/2026/may/29/friday-briefing-what-do-the-cuts-in-aid-mean-for-the-fight-against-ebola-in-the-drc",
-      "time": "Il y a 2j",
-      "pubDate": 1780033462.0
     }
   ],
-  "lastUpdate": "2026-06-01T02:00:16.414647"
+  "lastUpdate": "2026-06-01T07:00:52.319724"
 }
