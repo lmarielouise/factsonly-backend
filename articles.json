@@ -1,504 +1,522 @@
 {
   "francophone": [
     {
-      "id": "France Info-2091691935450724450",
+      "id": "Libération--4535004624446183527",
+      "source": "Libération",
+      "title": "Grosse grêle, rafales jusqu’à 100 km/h, pluies intenses : alerte aux «violents orages» dans trois départements du Sud-Est ce mardi",
+      "excerpt": "Les Alpes-de-Haute-Provence, le Var et les Alpes-Maritimes sont classés par Météo France en vigilance orange entre 15 heures et 18 heures. La menace pèse également sur la quasi-totalité du territoire...",
+      "link": "https://www.liberation.fr/environnement/climat/grosse-grele-rafales-jusqua-100-kmh-pluies-intenses-alerte-aux-violents-orages-dans-trois-departements-du-sud-est-ce-mardi-20260602_D57TJO6XZJH3XGFU53FQYUXNHY/",
+      "time": "Il y a 9 min",
+      "pubDate": 1780397275.0
+    },
+    {
+      "id": "Le Monde--6345181780724071676",
+      "source": "Le Monde",
+      "title": "Orages : trois départements du sud-est de l’Hexagone placés en vigilance orange",
+      "excerpt": "« Des phénomènes localement violents » sont attendus en début d’après-midi avec parfois « des rafales de 80-100 km/h », prévient Météo-France mardi.",
+      "link": "https://www.lemonde.fr/planete/article/2026/06/02/orages-trois-departements-du-sud-est-de-l-hexagone-places-en-vigilance-orange_6696379_3244.html",
+      "time": "Il y a 16 min",
+      "pubDate": 1780396862.0
+    },
+    {
+      "id": "France Info-6457750592534355009",
       "source": "France Info",
-      "title": "Guerre en Ukraine : une attaque russe fait au moins neuf morts et des dizaines de blessés dans plusieurs villes du pays, dont Kiev",
+      "title": "Le Var, les Alpes-de-Haute-Provence et les Alpes-Maritimes placés en vigilance orange aux orages mardi après-midi",
+      "excerpt": "Météo-France met en garde contre \"des phénomènes localement violents\" dans ces trois départements du sud-est de la France.",
+      "link": "https://www.franceinfo.fr/environnement/meteo/le-var-les-alpes-de-haute-provence-et-les-alpes-maritimes-places-en-vigilance-orange-aux-orages-mardi-apres-midi_8040932.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 32 min",
+      "pubDate": 1780395929.0
+    },
+    {
+      "id": "France Info-7230752861625014215",
+      "source": "France Info",
+      "title": "Guerre en Ukraine : une attaque russe fait au moins 18 morts et plus d'une centaine de blessés dans plusieurs villes du pays, dont Kiev",
       "excerpt": "Les négociations pour mettre fin à l'offensive à grande échelle sur l'Ukraine, qui a fait des centaines de milliers de morts et des millions de réfugiés en plus de quatre ans de conflit, sont au point...",
       "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-une-attaque-russe-fait-au-moins-neuf-morts-et-des-dizaines-de-blessees-dans-plusieurs-villes-du-pays-dont-kiev_8040632.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 9 min",
-      "pubDate": 1780380547.0
+      "time": "Il y a 33 min",
+      "pubDate": 1780395855.0
     },
     {
-      "id": "Libération-3147920371370315205",
+      "id": "Libération--1189404584525898743",
       "source": "Libération",
-      "title": "EN DIRECT - Guerre au Moyen-Orient : les négociations dans le flou, des tirs entre Israël et le Hezbollah libanais",
-      "excerpt": "Donald Trump a assuré lundi soir qu’Israël et le Hezbollah lui ont promis l’apaisement au Liban, et affirmé par ailleurs que les négociations continuaient bel et bien avec Téhéran. Les faits paraissen...",
+      "title": "Quand Wauquiez dément avoir dit ce qu’il a bien dit puis justifie de dire ce qu’il prétend ne pas avoir dit",
+      "excerpt": "Le chef des députés LR nous offre un nouvel exemple de sa capacité légendaire à mentir puis à s’embourber dans son mensonge.",
+      "link": "https://www.liberation.fr/politique/quand-wauquiez-dement-avoir-dit-ce-quil-a-bien-dit-puis-justifie-de-dire-ce-quil-pretend-ne-pas-avoir-dit-20260602_I5ERG4FGYFGEHDH744O2HQV4TA/",
+      "time": "Il y a 46 min",
+      "pubDate": 1780395041.0
+    },
+    {
+      "id": "Libération-3630531302285141146",
+      "source": "Libération",
+      "title": "Une maire du Val-d’Oise fête la victoire du PSG en Ligue des champions avec un maillot floqué «Rédoine Faïd»",
+      "excerpt": "Karine Okonski a célébré, samedi 30 mai, le sacre de Paris en portant un maillot sans vérifier qu’était inscrit, à l’arrière, le nom du braqueur condamné à 25 ans de prison pour le meurtre de la polic...",
+      "link": "https://www.liberation.fr/politique/une-maire-du-val-doise-fete-la-victoire-du-psg-en-ligue-des-champions-avec-un-maillot-floque-redoine-faid-20260602_THXG73ZPH5CFBG66PXM4SK45SA/",
+      "time": "Il y a 49 min",
+      "pubDate": 1780394867.0
+    },
+    {
+      "id": "France Info--1699088641757697431",
+      "source": "France Info",
+      "title": "La petite fille de 3 ans, disparue depuis lundi dans le Gard, a été retrouvée en bonne santé",
+      "excerpt": "Ses parents étaient venus la chercher lundi dans un foyer d'accueil à Uzès alors qu'ils n'en avaient pas l'autorisation. Sa mère est en garde à vue et son père est toujours recherché.",
+      "link": "https://www.franceinfo.fr/faits-divers/la-petite-fille-de-3-ans-disparue-depuis-lundi-dans-le-gard-a-ete-retrouvee-en-bonne-sante_8040896.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 54 min",
+      "pubDate": 1780394587.0
+    },
+    {
+      "id": "Le Monde-1085696216270868776",
+      "source": "Le Monde",
+      "title": "C’est l’histoire d’une rue : Cirque, du jardin secret de Pierre Cardin aux intrigues élyséennes",
+      "excerpt": "Cette petite artère du 8ᵉ arrondissement de Paris, qui abrite encore un chemisier pour hommes ou un fabricant de haute horlogerie, représente une certaine idée du chic discret à la française.",
+      "link": "https://www.lemonde.fr/m-styles/article/2026/06/02/c-est-l-histoire-d-une-rue-cirque-du-jardin-secret-de-pierre-cardin-aux-intrigues-elyseennes_6696375_4497319.html",
+      "time": "Il y a 57 min",
+      "pubDate": 1780394413.0
+    },
+    {
+      "id": "Le Monde--5441980993159914880",
+      "source": "Le Monde",
+      "title": "Véronique Gouverneur, la chimiste d’Oxford aux multiples découvertes qui révolutionnent l’industrie du fluor",
+      "excerpt": "La chercheuse belge, qui reçoit mardi 2 juin le Grand Prix scientifique 2026 de la Fondation Simone et Cino Del Duca, a toujours refusé de s’imposer des barrières. Arrivée en 1998 à l’université brita...",
+      "link": "https://www.lemonde.fr/sciences/article/2026/06/02/veronique-gouverneur-la-chimiste-d-oxford-aux-multiples-decouvertes-qui-revolutionnent-l-industrie-du-fluor_6696373_1650684.html",
+      "time": "Il y a 57 min",
+      "pubDate": 1780394409.0
+    },
+    {
+      "id": "Libération--497532029639826081",
+      "source": "Libération",
+      "title": "Prix gonflés, royalties non reversés… L’éditeur de photos d’art YellowKorner assigné en justice par l’artiste Arno Elias",
+      "excerpt": "En 2017, l’ancien musicien, qui dénonce désormais «un système vicié où le flou est érigé en règle», confiait à l’entreprise française à la centaine de boutiques une série mettant en scène la «supermod...",
+      "link": "https://www.liberation.fr/culture/photographie/prix-gonfles-royalties-non-reverses-lediteur-de-photos-yellowkorner-assigne-en-justice-par-lartiste-arno-elias-20260602_QCPTJQMY2BHG5GHKTN6YPLP5CU/",
+      "time": "Il y a 59 min",
+      "pubDate": 1780394271.0
+    },
+    {
+      "id": "Libération--523840609004414315",
+      "source": "Libération",
+      "title": "EN DIRECT - Guerre au Moyen-Orient : Israël appelle à évacuer la ville libanaise de Nabatiyé",
+      "excerpt": "Donald Trump a assuré lundi soir qu’Israël et le Hezbollah lui ont promis l’apaisement au Liban, et affirmé par ailleurs que les négociations continuaient bel et bien avec Téhéran. Mais les affronteme...",
       "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-les-negociations-dans-le-flou-des-tirs-entre-israel-et-le-hezbollah-libanais-20260602_72BAB54I3VFKNHSCPAZIENE6LI/",
-      "time": "Il y a 13 min",
-      "pubDate": 1780380344.0
+      "time": "Il y a 1h",
+      "pubDate": 1780393974.0
     },
     {
-      "id": "France Info--5023168442657624873",
+      "id": "France Info-1138514202433898374",
       "source": "France Info",
-      "title": "La ministre de la Santé annonce un système de \"coupe-file\" pour que \"chaque jeune ayant un trouble éventuel de santé mentale\" obtienne un rendez-vous \"dans les 24-48 heures\"",
-      "excerpt": "Alors que plus d'un Français sur deux présente des signes d'anxiété, les adolescents sont particulièrement affectés, les jeunes filles surtout.",
-      "link": "https://www.franceinfo.fr/sante/psycho-bien-etre/sante-mentale/le-gouvernement-veut-permettre-a-chaque-jeune-ayant-un-trouble-eventuel-de-sante-mentale-d-obtenir-un-rendez-vous-dans-les-24-48-heures_8040656.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 14 min",
-      "pubDate": 1780380252.0
+      "title": "Revenus des agriculteurs, loups, pesticides... Ce que contient le projet de loi d'urgence agricole soumis au vote des députés ce mardi",
+      "excerpt": "Après presque deux semaines de débats, les députés doivent se prononcer, ce mardi 2 juin, sur le projet de loi d’urgence agricole. Parmi les sujets inflammables : les pesticides, les stockages d’eau,...",
+      "link": "https://france3-regions.franceinfo.fr/bretagne/ille-et-vilaine/rennes/ce-que-contient-le-projet-de-loi-d-urgence-agricole-soumis-au-vote-des-deputes-ce-mardi-3360979.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1780393628.0
     },
     {
-      "id": "Libération-744219136467258672",
+      "id": "France Info-4729174337689932993",
+      "source": "France Info",
+      "title": "Seize ans de prison pour Félix Bingui, 500 000 euros d'amende... Ce qu'il faut savoir des réquisitions dans le procès du clan Yoda",
+      "excerpt": "Félix Bingui, chef présumé du clan Yoda à Marseille, et ses acolytes sont jugés pour leur participation à un vaste réseau de trafic de drogue à Marseille. Pour \"Le Chat\", alias Félix Bingui, le procur...",
+      "link": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/narcotrafic-six-ans-de-prison-requis-contre-felix-bingui-500-000-euros-d-amende-ce-qu-il-faut-savoir-des-requisitions-dans-le-proces-du-clan-yoda-3361006.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1780393495.0
+    },
+    {
+      "id": "Libération-2770712858533583819",
       "source": "Libération",
-      "title": "Ukraine : plus de 70 missiles et 600 lancés par la Russie font neuf morts et des dizaines de blessés",
-      "excerpt": "Des missiles balistiques se sont notamment abattus sur la capitale Kyiv. Le ministère russe de la Défense a revendiqué ce mardi matin une «frappe massive» contre des sites du complexe militaro-industr...",
-      "link": "https://www.liberation.fr/international/europe/ukraine-une-nouvelle-pluie-de-missiles-lances-par-la-russie-fait-neuf-morts-et-des-dizaines-de-blesses-20260602_SJKY5ZCAONHMPHUWEOE33XZB5Q/",
-      "time": "Il y a 17 min",
-      "pubDate": 1780380063.0
+      "title": "Quand la marine nationale publie des illustrations coloniales du régime de Vichy pour recruter des volontaires",
+      "excerpt": "Dans plusieurs publications sur son compte Instagram, la force armée a eu recours à des visuels diffusés dans les années 40 par le régime de Philippe Pétain pour appeler à la défense de l’empire.",
+      "link": "https://www.liberation.fr/politique/quand-la-marine-nationale-publie-des-illustrations-coloniales-du-regime-de-vichy-pour-recruter-des-volontaires-20260601_MOLLJNFLS5F5DFJFOINH7X3QGI/",
+      "time": "Il y a 1h",
+      "pubDate": 1780392520.0
     },
     {
-      "id": "Libération-2672602932425760939",
+      "id": "Libération-293165333685269382",
       "source": "Libération",
-      "title": "Disparition de Lyhanna, loi post-Bétharram et centres européens pour migrants… L’actu de ce mardi 2 juin au matin",
-      "excerpt": "La rédaction de «Libération» compile les principales infos du jour",
-      "link": "https://www.liberation.fr/international/europe/disparition-de-lyhanna-loi-post-betharram-et-centres-europeens-pour-migrants-lactu-de-ce-mardi-2-juin-au-matin-20260602_2SKYIUDGK5C7TEG4WTWJ4Q2V4Q/",
-      "time": "Il y a 24 min",
-      "pubDate": 1780379689.0
+      "title": "L’ex-patron des stups, François Thierry, définitivement condamné pour «complicité de trafic de drogue»",
+      "excerpt": "Contrairement à ce qu’avaient annoncé ses avocats à l’issue du jugement, le commissaire a finalement renoncé à faire appel, scellant ainsi sa culpabilité dans un des principaux scandales de la lutte a...",
+      "link": "https://www.liberation.fr/societe/police-justice/lex-patron-des-stups-francois-thierry-definitivement-condamne-pour-complicite-de-trafic-de-drogue-20260602_IMFKMJBDMJBNXDBL6WL7EUITMI/",
+      "time": "Il y a 1h",
+      "pubDate": 1780391904.0
     },
     {
-      "id": "France Info-7845077196953321242",
-      "source": "France Info",
-      "title": "Les affrontements se poursuivent au Liban entre l'armée israélienne et le Hezbollah malgré l'annonce de Donald Trump d'un arrêt des combats",
-      "excerpt": "Le Hezbollah a revendiqué une attaque à la roquette contre un char israélien dans le sud du Liban, tandis qu'un média libanais fait état de frappes israéliennes ayant ciblé plusieurs villages du sud d...",
-      "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-avant-une-reprise-des-negociations-sur-le-liban-les-affrontements-se-poursuivent-entre-l-armee-israelienne-et-le-hezbollah_8040527.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 26 min",
-      "pubDate": 1780379531.0
+      "id": "Libération--5743704083597656501",
+      "source": "Libération",
+      "title": "Avec sa nouvelle idée de pré-primaire, le PS repousse les limites de la solférinologie",
+      "excerpt": "Face à l’impasse dans laquelle il a embarqué la primaire de la gauche sans les mélenchonistes, le parti à la rose a planché sur une nouvelle hypothèse, au risque d’accentuer la confusion.",
+      "link": "https://www.liberation.fr/politique/avec-sa-nouvelle-idee-de-pre-primaire-le-ps-repousse-les-limites-de-la-solferinologie-20260602_EO2OZB4XKBFIBKXBJMAMVPUEEY/",
+      "time": "Il y a 1h",
+      "pubDate": 1780391849.0
     },
     {
-      "id": "France Info-2026973890830941595",
+      "id": "Libération-7079742031074971833",
+      "source": "Libération",
+      "title": "Disparition inquiétante dans le Gard : la fillette de 3 ans retrouvée saine et sauve",
+      "excerpt": "Le père aurait récupéré l’enfant sans autorisation lundi matin dans un foyer d’accueil situé à Uzès. C’est finalement dans un département voisin que la gendarmerie est parvenue à la retrouver.",
+      "link": "https://www.liberation.fr/societe/police-justice/gard-enquete-ouverte-apres-la-disparition-inquietante-dune-fillette-de-3-ans-la-gendarmerie-quadrille-la-zone-20260601_OD53ACFUHNCSBA5EWSARNQYX3I/",
+      "time": "Il y a 1h",
+      "pubDate": 1780391329.0
+    },
+    {
+      "id": "Libération--4472818923133144022",
+      "source": "Libération",
+      "title": "«La police, c’est nous» : deux CRS auteurs d’une agression violente à Nice écopent de prison avec sursis",
+      "excerpt": "Hors-service et en état d’ébriété, les fonctionnaires de police ont mis au sol et roué de coups un habitant du quartier de l’Ariane en avril, une scène filmée par un riverain. Ils ont comparu lundi 1e...",
+      "link": "https://www.liberation.fr/societe/police-justice/la-police-cest-nous-deux-crs-auteurs-dune-agression-violente-a-nice-ecopent-de-prison-avec-sursis-20260602_VMOVHJMPZNFC7EGPNPRFR45QWE/",
+      "time": "Il y a 1h",
+      "pubDate": 1780391325.0
+    },
+    {
+      "id": "Le Monde-6975004903799847607",
+      "source": "Le Monde",
+      "title": "Guerre en Ukraine : l’Europe de nouveau prête à ouvrir un dialogue avec Vladimir Poutine",
+      "excerpt": "Emmenés par la France, les Européens cherchent à rouvrir un canal de discussion avec la Russie, alors que les Etats-Unis semblent se lasser du théâtre de guerre ukrainien.",
+      "link": "https://www.lemonde.fr/international/article/2026/06/02/guerre-en-ukraine-l-europe-de-nouveau-prete-a-ouvrir-un-dialogue-avec-vladimir-poutine_6696368_3210.html",
+      "time": "Il y a 1h",
+      "pubDate": 1780390808.0
+    },
+    {
+      "id": "France Info--6300644588059289666",
       "source": "France Info",
-      "title": "Violences après le sacre européen du PSG : la France est-elle le seul pays \"où la victoire d'un club de foot provoque des émeutes\", comme l'affirme Marine Le Pen ?",
+      "title": "Connaissance de la famille, casier judiciaire vierge… Ce que l'on sait de l'homme mis en examen après la disparition de Lyhanna, 11 ans, dans le Gers",
+      "excerpt": "Pendant sa garde à vue, l'individu de 41 ans a tenu des déclarations \"incohérentes et imprécises\", selon la procureure de la République. La collégienne de 11 ans est portée disparue depuis le 29 mai à...",
+      "link": "https://www.franceinfo.fr/faits-divers/connaissance-de-la-famille-casier-judiciaire-vierge-ce-que-l-on-sait-de-l-homme-mis-en-examen-apres-la-disparition-de-lyhanna-dans-le-gers_8040647.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1780390724.0
+    },
+    {
+      "id": "France Info-9128234258995490145",
+      "source": "France Info",
+      "title": "\"T'es complètement cinglé\" : Donald Trump reproche à Benyamin Nétanyahou de mettre en péril les négociations avec l'Iran",
+      "excerpt": "Le président américain et le Premier ministre israélien, qui ont lancé ensemble les opérations du 28 février contre l'Iran, se sont entretenus par téléphone lundi.",
+      "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/t-es-completement-cingle-donald-trump-reproche-a-benyamin-netanyahou-de-mettre-en-peril-les-negociations-avec-l-iran-selon-un-officiel-americain_8040695.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 2h",
+      "pubDate": 1780389273.0
+    },
+    {
+      "id": "Le Monde-7714665232424539143",
+      "source": "Le Monde",
+      "title": "EN DIRECT, Roland-Garros 2026 : Mirra Andreeva, expéditive, bat Sorana Cirstea en deux sets et se qualifie pour les demi-finales",
+      "excerpt": "Alexander Zverev, désormais favori de cette édition 2026, devra se défaire de l’Espagnol Rafael Jodar. La journée commencera par les deux premiers quarts féminins, dont un duel entre les Ukrainiennes...",
+      "link": "https://www.lemonde.fr/sport/live/2026/06/02/en-direct-roland-garros-2026-suivez-la-journee-du-mardi-2-juin_6696361_3242.html",
+      "time": "Il y a 2h",
+      "pubDate": 1780387205.0
+    },
+    {
+      "id": "Le Monde-8625029381719969473",
+      "source": "Le Monde",
+      "title": "Génocide des Tutsi : « La seule chose que l’on puisse offrir aux Rwandais, c’est la vérité sur cette terrible tragédie dont la France a été partie prenante »",
+      "excerpt": "A l’occasion de la commémoration du génocide survenu en 1994, le député Aurélien Rousseau, président du groupe d’amitié France-Rwanda, appelle, dans une tribune au « Monde », à prendre pleinement la m...",
+      "link": "https://www.lemonde.fr/idees/article/2026/06/02/genocide-des-tutsi-la-seule-chose-que-l-on-puisse-offrir-aux-rwandais-c-est-la-verite-sur-cette-terrible-tragedie-dont-la-france-a-ete-partie-prenante_6696359_3232.html",
+      "time": "Il y a 3h",
+      "pubDate": 1780385403.0
+    },
+    {
+      "id": "Le Monde-5567946264594878626",
+      "source": "Le Monde",
+      "title": "El Niño est à nos portes et l’ONU appelle à se préparer à cet accélérateur du dérèglement climatique",
+      "excerpt": "Le phénomène a désormais 80 % de chances de survenir cet été, selon l’Organisation météorologique mondiale. D’une durée de neuf mois à un an, il tire vers le haut la température moyenne mondiale et fa...",
+      "link": "https://www.lemonde.fr/planete/article/2026/06/02/el-nino-est-a-nos-portes-et-l-onu-appelle-a-se-preparer-a-cet-accelerateur-du-dereglement-climatique_6696356_3244.html",
+      "time": "Il y a 3h",
+      "pubDate": 1780383609.0
+    },
+    {
+      "id": "Le Monde-179859527276115669",
+      "source": "Le Monde",
+      "title": "Chez Stellantis, le patron Antonio Filosa boude l’Europe, berceau historique du constructeur automobile",
+      "excerpt": "L’entreprise, qui regroupe notamment Peugeot, Fiat et Citroën, va investir 1 milliard d’euros en France. Malgré cette opération, son dirigeant fait basculer le centre de gravité du groupe aux Etats-Un...",
+      "link": "https://www.lemonde.fr/economie/article/2026/06/02/chez-stellantis-le-patron-antonio-filosa-boude-l-europe-berceau-historique-du-constructeur-automobile_6696354_3234.html",
+      "time": "Il y a 4h",
+      "pubDate": 1780383262.0
+    },
+    {
+      "id": "France Info--5315310619712283955",
+      "source": "France Info",
+      "title": "La France est-elle le seul pays \"où la victoire d'un club de foot provoque des émeutes\", comme l'affirme Marine Le Pen ?",
       "excerpt": "Sur X, la députée RN a déploré une sorte de tradition franco-française. Dans les faits, il n'en est rien : des débordements ont aussi régulièrement lieu chez nos voisins. Les spécialistes interrogés f...",
       "link": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-violences-apres-le-sacre-europeen-du-psg-la-france-est-elle-le-seul-pays-ou-la-victoire-d-un-club-de-foot-provoque-des-emeutes-comme-l-affirme-marine-le-pen_8039525.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 51 min",
+      "time": "Il y a 5h",
       "pubDate": 1780378051.0
     },
     {
-      "id": "Libération-2595635776946124768",
-      "source": "Libération",
-      "title": "Mon proprio impitoyable : «On a des infiltrations d’eau, sa solution consiste à mettre du scotch sur le toit»",
-      "excerpt": "Trouver un logement peut s‘avérer difficile. Mais les relations avec le propriétaire le sont parfois plus. Dans le deuxième épisode de notre série, Illa raconte son bras de fer avec deux sœurs, qui so...",
-      "link": "https://www.liberation.fr/lifestyle/argent-boulot/mon-proprio-impitoyable-on-a-des-infiltrations-deau-sa-solution-consiste-a-mettre-du-scotch-sur-le-toit-20260602_P2WB2RTZO5EXPMKRRY56HRLQKA/",
-      "time": "Il y a 53 min",
-      "pubDate": 1780377900.0
-    },
-    {
-      "id": "Libération-778364394002200741",
-      "source": "Libération",
-      "title": "L’affiche du jour à Roland-Garros : Alexander Zverev passe au révélateur Rafael Jodar",
-      "excerpt": "Chaque jour pendant le tournoi, les envoyés spéciaux de «Libération» sélectionnent une rencontre à ne pas manquer. Subjectivité assumée. Ce mardi 2 juin, le nouveau favori va passer un sacré test.",
-      "link": "https://www.liberation.fr/sports/laffiche-du-jour-a-roland-garros-alexander-zverev-passe-au-revelateur-rafael-jodar-20260602_MRRQNX3ZIRFHLJXG5JIINNEOQY/",
-      "time": "Il y a 58 min",
-      "pubDate": 1780377600.0
-    },
-    {
-      "id": "Libération--2563975815903630349",
-      "source": "Libération",
-      "title": "Protection de l’enfance : les députés adoptent la proposition de loi post-Bétharram, en première lecture",
-      "excerpt": "Le texte prévoit notamment de renforcer le contrôle des intervenants dans les écoles et le périscolaire, et une plus importante régulation du privé, mais ne lève pas le secret de la confession pour le...",
-      "link": "https://www.liberation.fr/societe/education/protection-de-lenfance-les-deputes-adoptent-la-proposition-de-loi-post-betharram-en-premiere-lecture-20260602_3LQRUUFC55BYFAGUSLJ3AAU7XY/",
-      "time": "Il y a 1h",
-      "pubDate": 1780377286.0
-    },
-    {
-      "id": "Libération--8783067400613641973",
-      "source": "Libération",
-      "title": "Le compositeur György Kurtág, 100 ans et toujours aussi captivant",
-      "excerpt": "Le franc-tireur hongrois, centenaire depuis février, va être célébré par le festival ManiFeste de l’Ircam, où l’Ensemble intercontemporain interprétera les «Messages de feu Demoiselle R. V. Troussova»...",
-      "link": "https://www.liberation.fr/culture/le-compositeur-gyorgy-kurtag-100-ans-et-toujours-aussi-captivant-20260602_Y4LKKXZFFBEU7FCKHVQR6RKWFU/",
-      "time": "Il y a 1h",
-      "pubDate": 1780375440.0
-    },
-    {
-      "id": "Libération-4122970315728781877",
-      "source": "Libération",
-      "title": "Loi d’urgence agricole : les députés s’apprêtent (encore) à voter des reculs environnementaux",
-      "excerpt": "L’Assemblée nationale se prononcera, ce mardi 2 juin, sur le nouveau texte, pensé pour répondre à la crise mais devenu une loi fourre-tout dont un certain nombre de propositions fragilise la gestion d...",
-      "link": "https://www.liberation.fr/environnement/agriculture/loi-durgence-agricole-les-deputes-sappretent-encore-a-voter-des-reculs-environnementaux-20260602_67Z7ISUNEREZXJWM27XELW33UE/",
-      "time": "Il y a 1h",
-      "pubDate": 1780375200.0
-    },
-    {
-      "id": "France Info-7010958823285859867",
+      "id": "France Info--6252906570212041997",
       "source": "France Info",
-      "title": "\"Je regardais Roland-Garros à la télé l'année dernière\"... Jodar, Fonseca et Mensik, trois \"teenagers\" symbole d'un vent de fraîcheur en quarts de finale",
-      "excerpt": "Déjà en vue sur le circuit depuis plusieurs mois, l'Espagnol, le Brésilien et le Tchèque, tous âgés de moins de 21 ans, se révèlent aux yeux du grand public depuis le début de la quinzaine parisienne.",
-      "link": "https://www.franceinfo.fr/roland-garros/je-regardais-roland-garros-a-la-tele-l-annee-derniere-jodar-fonseca-et-mensik-trois-teenagers-symbole-d-un-vent-de-fraicheur-en-quarts-de-finale_8039528.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
-      "pubDate": 1780374602.0
+      "title": "\"Près de dix fois la capacité d'accueil\" : sur Parcoursup, le succès fulgurant de la licence pour devenir professeur des écoles",
+      "excerpt": "Ce nouveau cursus consiste en trois années d'enseignements pluridisciplinaires à l'université pour préparer le concours. Les premières réponses des formations doivent tomber mardi à partir de 19 heure...",
+      "link": "https://www.franceinfo.fr/societe/education/parcoursup/parcoursup/pres-de-dix-fois-la-capacite-d-accueil-sur-parcoursup-le-succes-fulgurant-de-la-licence-pour-devenir-professeur-des-ecoles_8039996.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 6h",
+      "pubDate": 1780374746.0
     },
     {
-      "id": "Libération--1308458976254474014",
-      "source": "Libération",
-      "title": "Masturbation, récession et sécession, par Luc Le Vaillant",
-      "excerpt": "Lettre aux femmes de 18 à 24 ans sur leur sexualité qu’une enquête de l’Ifop décrit moins active, plus autocentrée mais plutôt épanouie.",
-      "link": "https://www.liberation.fr/idees-et-debats/opinions/masturbation-recession-et-secession-par-luc-le-vaillant-20260602_QGC4RI26NZCBPK4CWGEVHTO6CU/",
-      "time": "Il y a 1h",
-      "pubDate": 1780374180.0
-    },
-    {
-      "id": "Le Monde--5606588450726305603",
+      "id": "Le Monde--8498811459670216174",
       "source": "Le Monde",
-      "title": "Les premiers résultats de Parcoursup attendus dans la soirée de mardi pour plus d’un million d’étudiants",
-      "excerpt": "Parmi les candidats figurent 657 000 lycéens scolarisés en France ainsi que 206 000 étudiants souhaitant changer de voie. Le verdict tombera à partir de 19 heures, mais le processus reste conditionné...",
-      "link": "https://www.lemonde.fr/campus/article/2026/06/02/les-premiers-resultats-de-parcoursup-attendus-dans-la-soiree-de-mardi-pour-plus-d-un-million-d-etudiants_6696342_4401467.html",
-      "time": "Il y a 1h",
-      "pubDate": 1780373949.0
+      "title": "Audiovisuel public : les « vraies » urgences après le temps perdu par la commission d’enquête",
+      "excerpt": "Les attaques du rapporteur d’extrême droite Charles Alloncle à l’encontre de France Télévisions et de Radio France ont occulté les véritables défis auxquels sont confrontés les médias publics.",
+      "link": "https://www.lemonde.fr/idees/article/2026/06/02/audiovisuel-public-les-vraies-urgences-apres-le-temps-perdu-par-la-commission-d-enquete_6696341_3232.html",
+      "time": "Il y a 6h",
+      "pubDate": 1780373706.0
     },
     {
-      "id": "France Info-4173032441872922628",
-      "source": "France Info",
-      "title": "\"Je ne pense pas avoir fait de faute\" : ce qu'a dit le maire de Crans-Montana lors de son audition après l’incendie du Nouvel An",
-      "excerpt": "Nicolas Féraud, président de la commune de Crans-Montana en Suisse, estime ne rien avoir à se reprocher, cinq mois après l’incendie qui a fait 41 morts et 115 blessés. Cet élu, l'un des 14 prévenus, a...",
-      "link": "https://www.franceinfo.fr/faits-divers/incendie-dans-un-bar-de-crans-montana-en-suisse/je-ne-pense-pas-avoir-fait-de-faute-ce-qu-a-dit-le-maire-de-crans-montana-lors-de-son-audition-apres-l-incendie-du-nouvel-an_8037986.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
-      "pubDate": 1780373868.0
-    },
-    {
-      "id": "France Info-2350788204917498913",
-      "source": "France Info",
-      "title": "\"C'est l'utilisateur, sans le savoir, qui va l'autoriser\" : pourquoi il faut se méfier de \"Kali365\" qui permet de pirater les comptes Microsoft 365",
-      "excerpt": "Le FBI classe \"Kali 365\" comme une menace émergente, alors que des centaines d'attaques ont déjà été recensées dans différents secteurs en Amérique du Nord et en Europe.",
-      "link": "https://www.franceinfo.fr/internet/securite-sur-internet/c-est-l-utilisateur-sans-le-savoir-qui-va-l-autoriser-pourquoi-il-faut-se-mefier-de-kali365-qui-permet-de-pirater-les-comptes-microsoft-365_8035355.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
-      "pubDate": 1780373824.0
-    },
-    {
-      "id": "France Info--5617111153750027412",
+      "id": "France Info-8535208277119385799",
       "source": "France Info",
       "title": "\"La population est contaminée comme aucun autre peuple européen\" : pourquoi les Français sont-ils davantage exposés au cadmium que leurs voisins ?",
       "excerpt": "La France importe très largement son engrais phosphaté du Maroc, où les roches sont particulièrement riches en cadmium. De plus, l'Etat bénéficie d'une dérogation lui permettant d'utiliser des engrais...",
       "link": "https://www.franceinfo.fr/sante/alimentation/la-population-est-contaminee-comme-aucun-autre-peuple-europeen-pourquoi-les-francais-sont-ils-davantage-exposes-au-cadmium-que-leurs-voisins_8039459.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
+      "time": "Il y a 6h",
       "pubDate": 1780372871.0
     },
     {
-      "id": "Le Monde-4569385072336057714",
+      "id": "Le Monde--3176645107596279980",
       "source": "Le Monde",
-      "title": "Dans son premier long-métrage, « The Plague », Charlie Polinger montre l’adolescence dans ce qu’elle a de plus sombre",
-      "excerpt": "Le réalisateur et scénariste américain filme les dynamiques, les rejets et les connivences qui agissent au sein d’un groupe de jeunes garçons réunis dans un camp d’été.",
-      "link": "https://www.lemonde.fr/culture/article/2026/06/02/dans-son-premier-long-metrage-the-plague-charlie-polinger-montre-l-adolescence-dans-ce-qu-elle-a-de-plus-sombre_6696337_3246.html",
-      "time": "Il y a 2h",
-      "pubDate": 1780372841.0
-    },
-    {
-      "id": "Le Monde--7585645331146193826",
-      "source": "Le Monde",
-      "title": "Epidémie d’Ebola : l’ouverture d’un centre de quarantaine pour les malades américains fait polémique au Kenya",
-      "excerpt": "Nairobi et Washington envisagent d’ouvrir, dans le centre du Kenya, une structure médicale afin d’accueillir des ressortissants américains exposés au virus Ebola en République démocratique du Congo. L...",
-      "link": "https://www.lemonde.fr/afrique/article/2026/06/02/epidemie-d-ebola-l-ouverture-d-un-centre-de-quarantaine-pour-les-malades-americains-fait-polemique-au-kenya_6696332_3212.html",
-      "time": "Il y a 2h",
-      "pubDate": 1780372810.0
-    },
-    {
-      "id": "France Info-1419824367364472520",
-      "source": "France Info",
-      "title": "Calendrier, types de réponses, délais… Ce qu'il faut savoir sur la phase d'admission principale de Parcoursup, qui ouvre ce mardi",
-      "excerpt": "Les futurs étudiants pourront consulter les réponses à leurs vœux et faire leurs premiers choix à partir de mardi, à 19 heures.",
-      "link": "https://www.franceinfo.fr/societe/education/parcoursup/parcoursup/calendrier-types-de-reponses-delais-ce-qu-il-faut-savoir-sur-la-phase-d-admission-principale-de-parcoursup-qui-ouvre-ce-mardi_8039189.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
-      "pubDate": 1780372793.0
-    },
-    {
-      "id": "Le Monde-1284540601581420873",
-      "source": "Le Monde",
-      "title": "En Israël, la guerre comme seul horizon politique et stratégique",
-      "excerpt": "Donald Trump a intimé l’ordre aux Israéliens de ne pas attaquer Beyrouth. Comme à Gaza ou pour l’Iran, seul le président américain parvient à limiter l’usage de la force militaire par Israël. Ce qui a...",
+      "title": "Trump fragilise Nétanyahou en le contraignant à reporter son offensive sur Beyrouth",
+      "excerpt": "Le président américain a intimé l’ordre aux Israéliens de ne pas attaquer la capitale du Liban. Comme à Gaza ou pour l’Iran, seul Donald Trump parvient à limiter l’usage de la force militaire par Isra...",
       "link": "https://www.lemonde.fr/international/article/2026/06/02/en-israel-la-guerre-comme-seul-horizon-politique-et-strategique_6696297_3210.html",
-      "time": "Il y a 2h",
-      "pubDate": 1780371905.0
-    },
-    {
-      "id": "Le Monde-8311733930881901836",
-      "source": "Le Monde",
-      "title": "Agriculture : le projet de loi d’urgence ressort encore plus clivant de son passage à l’Assemblée",
-      "excerpt": "Les députés ont conforté la volonté du gouvernement de faciliter le stockage de l’eau ou l’agrandissement des élevages. Ils sont également allés plus loin que le texte initial concernant la lutte cont...",
-      "link": "https://www.lemonde.fr/planete/article/2026/06/02/agriculture-le-projet-de-loi-d-urgence-ressort-encore-plus-clivant-de-son-passage-a-l-assemblee_6696296_3244.html",
-      "time": "Il y a 2h",
-      "pubDate": 1780371905.0
-    },
-    {
-      "id": "Le Monde-1930076229165761515",
-      "source": "Le Monde",
-      "title": "Vladimir Poutine essuie une série de revers qui alimentent le mécontentement en Russie et interrogent sa stratégie",
-      "excerpt": "Alors que le chef du Kremlin vante une victoire à portée de main en Ukraine, Kiev multiplie les attaques de drones à l’intérieur du territoire russe. Ces échecs militaires s’ajoutent aux difficultés é...",
-      "link": "https://www.lemonde.fr/international/article/2026/06/02/vladimir-poutine-essuie-une-serie-de-revers-qui-alimentent-le-mecontentement-en-russie-et-interrogent-sa-strategie_6696294_3210.html",
-      "time": "Il y a 2h",
-      "pubDate": 1780371559.0
-    },
-    {
-      "id": "Libération--97132850562557214",
-      "source": "Libération",
-      "title": "Génocide des Tutsis au Rwanda : le monde, la France doivent se souvenir, par Vincent Duclert",
-      "excerpt": "Une œuvre de l’artiste Grada Kilomba sera dévoilée ce mardi 2 juin à Paris en présence des présidents rwandais et français, concluant en France une démarche de commémoration qui doit encore s’accompag...",
-      "link": "https://www.liberation.fr/idees-et-debats/tribunes/genocide-des-tutsis-au-rwanda-le-monde-la-france-doivent-se-souvenir-par-vincent-duclert-20260602_L6NQDDIH7ZFPLG3W26DNKIWL6Y/",
-      "time": "Il y a 3h",
-      "pubDate": 1780370280.0
-    },
-    {
-      "id": "Le Monde-1747572236117052100",
-      "source": "Le Monde",
-      "title": "Violences en milieu scolaire : l’Assemblée nationale adopte à l’unanimité la proposition de loi « post-Bétharram »",
-      "excerpt": "Le texte, rédigé après des mois de travaux et d’auditions, prévoit de renforcer le contrôle des intervenants susceptibles d’être au contact des enfants dans les écoles et le périscolaire. Mais il ne l...",
-      "link": "https://www.lemonde.fr/politique/article/2026/06/02/violences-en-milieu-scolaire-l-assemblee-adopte-a-l-unanimite-la-proposition-de-loi-post-betharram_6696227_823448.html",
-      "time": "Il y a 4h",
-      "pubDate": 1780365672.0
-    },
-    {
-      "id": "Le Monde-5308298128287023950",
-      "source": "Le Monde",
-      "title": "Les primaires en Californie, un test pour les démocrates et un parti divisé",
-      "excerpt": "A la veille du vote du mardi 2 juin, dans un Etat acquis aux démocrates, le débat va se focaliser sur les divisions entre modérés et radicaux, et alimenter celui de la taxation des milliardaires.",
-      "link": "https://www.lemonde.fr/international/article/2026/06/02/les-primaires-en-californie-un-test-pour-les-democrates-et-un-parti-divise_6696062_3210.html",
-      "time": "Il y a 6h",
-      "pubDate": 1780356459.0
-    },
-    {
-      "id": "Le Monde-6686633111003283080",
-      "source": "Le Monde",
-      "title": "Immigration : l’Union européenne se dote d’un régime draconien d’expulsion des étrangers sans papiers",
-      "excerpt": "Outre un renforcement des sanctions contre les déboutés du droit d’asile, les Etats, le Parlement et la Commission européenne autorisent la création de centres de rétention à l’étranger pour y renvoye...",
-      "link": "https://www.lemonde.fr/international/article/2026/06/02/immigration-l-union-europeenne-se-dote-d-un-regime-draconien-d-expulsion-des-etrangers-sans-papiers_6696028_3210.html",
       "time": "Il y a 7h",
-      "pubDate": 1780352404.0
-    },
-    {
-      "id": "Le Monde--5986867939107264100",
-      "source": "Le Monde",
-      "title": "Après les violences qui ont suivi la victoire du PSG, des peines de prison prononcées : « Sommes-nous dans une société du chaos ? Non »",
-      "excerpt": "A la suite des 890 interpellations en France, de premières comparutions immédiates ont eu lieu lundi. A Paris, des sanctions sont tombées pour rébellion et violence sur policier, transport et détentio...",
-      "link": "https://www.lemonde.fr/societe/article/2026/06/01/apres-les-violences-qui-ont-suivi-la-victoire-du-psg-des-peines-de-prison-prononcees-sommes-nous-une-societe-du-chaos-non_6696024_3224.html",
-      "time": "Il y a 10h",
-      "pubDate": 1780344682.0
-    },
-    {
-      "id": "France Info--5539373322866814180",
-      "source": "France Info",
-      "title": "Suspect mis en examen, déclarations \"incohérentes\", battues... Ce que l'on sait de la disparition de Lyhanna, 11 ans, dans le Gers",
-      "excerpt": "L'adolescente a été vue pour la dernière fois vendredi devant son collège, à Fleurance. Elle montait dans le véhicule du père d'une amie, âgé de 41 ans et placé en garde à vue. Une information judicia...",
-      "link": "https://www.franceinfo.fr/faits-divers/ce-que-l-on-sait-de-la-disparition-de-lyhanna-collegienne-de-11-ans-dans-le-gers_8038994.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 10h",
-      "pubDate": 1780342906.0
+      "pubDate": 1780371905.0
     }
   ],
   "anglophone": [
     {
-      "id": "BBC News--2980949802055702613",
+      "id": "BBC News--8585018523045579016",
       "source": "BBC News",
-      "title": "Massive Russian attack on cities across Ukraine kills at least ten people",
-      "excerpt": "Kyiv Mayor Vitali Klitschko says two high-rise apartment buildings have been hit and there are fears people are trapped under rubble.",
-      "link": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 11 min",
-      "pubDate": 1780380455.0
+      "title": "Two people shot dead amid Kenya protests against US Ebola quarantine centre plan",
+      "excerpt": "The US plan has sparked public anger and led to demonstrations near the site of the proposed treatment facility.",
+      "link": "https://www.bbc.com/news/articles/cvgz7zny3pzo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 3 min",
+      "pubDate": 1780397617.0
     },
     {
-      "id": "BBC News--2958530754141500720",
+      "id": "BBC News--1823255320320993634",
+      "source": "BBC News",
+      "title": "Sabrina Carpenter gets restraining order against man who showed up at her home",
+      "excerpt": "The singer reported a series of \"deeply alarming\" incidents at her house to Los Angeles police.",
+      "link": "https://www.bbc.com/news/articles/c7v9p9yy370o?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 39 min",
+      "pubDate": 1780395509.0
+    },
+    {
+      "id": "BBC News--5393804485509563263",
+      "source": "BBC News",
+      "title": "Ukraine rescuers pull dead from rubble after Russian strikes kill 18 people",
+      "excerpt": "An eight-year-old boy and a woman killed in a strike on an apartment block are among the dead, officials say.",
+      "link": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 41 min",
+      "pubDate": 1780395372.0
+    },
+    {
+      "id": "NPR--2456729049903396533",
+      "source": "NPR",
+      "title": "Pentagon policy illegally banned transgender troops from military, appeals court rules",
+      "excerpt": "A divided panel of appeals court judges has ruled that a Trump administration policy illegally banned transgender troops from military service.",
+      "link": "https://www.npr.org/2026/06/02/g-s1-125323/pentagon-transgender-troops",
+      "time": "Il y a 1h",
+      "pubDate": 1780393908.0
+    },
+    {
+      "id": "NPR--5694277500091288009",
+      "source": "NPR",
+      "title": "EU strikes migration deal for more deportations and detention centers abroad",
+      "excerpt": "The European Union has moved forward with an overhaul of its migration policy, aiming to ramp up deportations and build detention centers abroad. Critics compared the regulation to the immigration str...",
+      "link": "https://www.npr.org/2026/06/02/nx-s1-5844100/eu-migration-deal",
+      "time": "Il y a 1h",
+      "pubDate": 1780391835.0
+    },
+    {
+      "id": "NPR-4654325675500071713",
+      "source": "NPR",
+      "title": "Stripping U.S. citizenship en masse is harder than Trump vowed",
+      "excerpt": "President Trump's vow to revoke citizenship worries immigrant advocates, legal scholars and naturalized Americans — but so far it's proving harder to do than the rhetoric suggests.",
+      "link": "https://www.npr.org/2026/06/02/g-s1-124866/trump-doj-citizenship-denaturalization-revoke-legal-protections",
+      "time": "Il y a 1h",
+      "pubDate": 1780390800.0
+    },
+    {
+      "id": "NPR--4983804423562496040",
+      "source": "NPR",
+      "title": "Tuesday is a big primary day. Here are key races to watch",
+      "excerpt": "Six states — California, Iowa, Montana, New Jersey, South Dakota and New Mexico — hold elections on Tuesday. Here are key races to follow.",
+      "link": "https://www.npr.org/2026/06/02/g-s1-124482/primary-day-california-iowa",
+      "time": "Il y a 1h",
+      "pubDate": 1780390800.0
+    },
+    {
+      "id": "NPR-4774118675862223873",
+      "source": "NPR",
+      "title": "Why is Michigan loosening its rules for parents wanting to exempt kids from vaccines?",
+      "excerpt": "A decade ago, Michigan had high rates of parents not vaccinating their children, so it required them to attend an in-person education class to get an exemption. It worked — until things got ugly.",
+      "link": "https://www.npr.org/2026/06/02/nx-s1-5823712/michigan-school-vaccine-exemptions-waivers-measles",
+      "time": "Il y a 1h",
+      "pubDate": 1780390800.0
+    },
+    {
+      "id": "NPR--8680762748081717687",
+      "source": "NPR",
+      "title": "For veterans, a place where peace can take root",
+      "excerpt": "Iraq war veteran John Follmer leads vet volunteers who are rehabbing a neglected Japanese garden on the West LA Veterans Affairs Campus.",
+      "link": "https://www.npr.org/2026/06/02/nx-s1-5843247/veterans-garden-la",
+      "time": "Il y a 1h",
+      "pubDate": 1780390800.0
+    },
+    {
+      "id": "NPR--508665371507607147",
+      "source": "NPR",
+      "title": "Morning news brief",
+      "excerpt": "DOJ says it will pause its 'anti-weaponization' fund after judge's ruling, Trump says he urged Israel, Hezbollah to hold fire amid rising tensions over Lebanon, Californians vote in state's primaries.",
+      "link": "https://www.npr.org/2026/06/02/nx-s1-5841919/morning-news-brief",
+      "time": "Il y a 2h",
+      "pubDate": 1780389768.0
+    },
+    {
+      "id": "BBC News--7457329710526579678",
+      "source": "BBC News",
+      "title": "Why Myanmar president's India visit is being closely watched",
+      "excerpt": "Myanmar is seeking to broaden diplomatic engagement after years of international criticism and isolation.",
+      "link": "https://www.bbc.com/news/articles/ckgplnj1wexo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 2h",
+      "pubDate": 1780388960.0
+    },
+    {
+      "id": "The Guardian--3786982402624069403",
+      "source": "The Guardian",
+      "title": "Musket balls and a burnt hull: evidence of real pirates of the Caribbean found in Bahamas",
+      "excerpt": "Exclusive: First shipwrecks found in Nassau harbour on New Providence, once the hideout of Blackbeard and Calico Jack The first shipwrecks linked to the real pirates of the Caribbean in the Bahamas ha...",
+      "link": "https://www.theguardian.com/world/2026/jun/02/shipwrecks-evidence-real-pirates-of-the-caribbean-nassau-harbour-bahamas",
+      "time": "Il y a 2h",
+      "pubDate": 1780387242.0
+    },
+    {
+      "id": "NPR-4096389660783553957",
+      "source": "NPR",
+      "title": "Ultra-Orthodox protesters block roads and trains across Israel over military draft",
+      "excerpt": "Tens of thousands of ultra-Orthodox demonstrated across Israel on Monday, blocking roads and trains and setting cars on fire to protest mandatory enlistment in Israel's military.",
+      "link": "https://www.npr.org/2026/06/02/nx-s1-5844080/ultra-orthodox-protests-israel",
+      "time": "Il y a 3h",
+      "pubDate": 1780386926.0
+    },
+    {
+      "id": "BBC News--8603852247307869101",
+      "source": "BBC News",
+      "title": "China goes after 'ghost kitchens' to rein in cut-throat food delivery apps",
+      "excerpt": "The thousands of \"ghost kitchens\" - online shops that don't actually exist - have spooked Chinese consumers.",
+      "link": "https://www.bbc.com/news/articles/cj4p7zglq5no?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 3h",
+      "pubDate": 1780386767.0
+    },
+    {
+      "id": "BBC News--9128220804948595390",
       "source": "BBC News",
       "title": "Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan",
       "excerpt": "A cessation of hostilities between Israel and Hezbollah is seen as crucial to the peace process with Iran.",
       "link": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 14 min",
-      "pubDate": 1780380295.0
+      "time": "Il y a 3h",
+      "pubDate": 1780385470.0
     },
     {
-      "id": "NPR-5690977860276788437",
+      "id": "The Guardian-3740678368938068602",
+      "source": "The Guardian",
+      "title": "Mozambique says five citizens killed in ‘xenophobic attacks’ in South Africa",
+      "excerpt": "About 800 Mozambicans said to be caught up in violence in Mossel Bay as anti-immigration protests sweep country Five Mozambique nationals were killed in “xenophobic attacks” in South Africa at the wee...",
+      "link": "https://www.theguardian.com/world/2026/jun/02/mozambique-citizens-killed-xenophobic-attacks-south-africa",
+      "time": "Il y a 3h",
+      "pubDate": 1780385376.0
+    },
+    {
+      "id": "NPR-5878805443599938621",
       "source": "NPR",
-      "title": "Russian attack on Ukraine kills at least 11 and traps others in damaged buildings",
-      "excerpt": "Russia attacked Ukraine overnight Tuesday, killing at least 11 people and trapping others, authorities said. Residential buildings and other civilian infrastructure were damaged in eight of Kyiv's dis...",
+      "title": "What to know about US military strikes on alleged drug boats",
+      "excerpt": "The U.S. military strikes on alleged drug boats have killed over 200 people. The attacks began in September and aim to stem drug flow, but critics question their legality and effectiveness.",
+      "link": "https://www.npr.org/2026/06/02/g-s1-125314/us-military-strikes-on-alleged-drug-boats",
+      "time": "Il y a 4h",
+      "pubDate": 1780381008.0
+    },
+    {
+      "id": "NPR-6437056750982179521",
+      "source": "NPR",
+      "title": "Russian attack on Ukraine kills at least 16 and traps others in damaged buildings",
+      "excerpt": "Russia launched hundreds of drones and dozens of missiles against Kyiv and other Ukrainian cities overnight, killing at least 16 civilians. Some people were trapped under the rubble of apartment build...",
       "link": "https://www.npr.org/2026/06/02/nx-s1-5844071/russian-attack-ukraine",
-      "time": "Il y a 14 min",
+      "time": "Il y a 4h",
       "pubDate": 1780380249.0
     },
     {
-      "id": "BBC News-5201578530405033093",
+      "id": "BBC News--1170762742416800383",
       "source": "BBC News",
       "title": "Missing lab worker found dead in New Mexico nearly a year after disappearing",
       "excerpt": "Melissa Casias' case was part of debunked speculations about recent deaths and disappearances in the US scientific community.",
       "link": "https://www.bbc.com/news/articles/c0723mr8j3po?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 4h",
+      "time": "Il y a 8h",
       "pubDate": 1780366048.0
     },
     {
-      "id": "BBC News--7259577854066787390",
+      "id": "BBC News--5279374996030296269",
       "source": "BBC News",
       "title": "Australian ex-minister launches crowd-funded inquiry into Aukus submarine deal",
       "excerpt": "Inquiry will look at whether Australia will receive the submarines and whether it will make the country safer.",
       "link": "https://www.bbc.com/news/articles/cn7p3ky2yl1o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 4h",
+      "time": "Il y a 8h",
       "pubDate": 1780365994.0
     },
     {
-      "id": "BBC News-2040338817928327054",
+      "id": "BBC News-8462606964831707919",
       "source": "BBC News",
       "title": "Denmark's Mette Frederiksen to form government after months of negotiations",
       "excerpt": "The leader of Denmark's Social Democratic Party is forming a centre-left coalition minority government, giving her a third term as prime minister.",
       "link": "https://www.bbc.com/news/articles/cn7p3e34x5no?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 4h",
+      "time": "Il y a 9h",
       "pubDate": 1780363155.0
     },
     {
-      "id": "BBC News--4830612043787079271",
+      "id": "BBC News--7429289047322711092",
       "source": "BBC News",
       "title": "Trump administration will abide by ruling halting $1.8bn 'anti-weaponisation' fund",
       "excerpt": "The justice department says it  \"disagrees strongly\" with a court decision to halt the establishment of the fund.",
       "link": "https://www.bbc.com/news/articles/crkpyj41m15o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 7h",
+      "time": "Il y a 11h",
       "pubDate": 1780355019.0
     },
     {
-      "id": "The Guardian-8405729453214579362",
+      "id": "The Guardian-5543075251025969752",
       "source": "The Guardian",
       "title": "Mexico City police teargas teachers’ protest 10 days before World Cup",
       "excerpt": "Teachers associated with CNTE union were marching toward Zócalo for salary raises and reversal of pension laws  Riot police fired teargas at teachers who were marching toward Mexico City’s historic Zó...",
       "link": "https://www.theguardian.com/world/2026/jun/01/mexico-city-teachers-protest",
-      "time": "Il y a 7h",
+      "time": "Il y a 11h",
       "pubDate": 1780354779.0
     },
     {
-      "id": "BBC News--3790405890730700772",
-      "source": "BBC News",
-      "title": "Bowen: Trump needs this war to end but Iran is not backing down",
-      "excerpt": "Under pressure from the polls and Gulf allies, the White House is pushing for a deal but Iran wants concessions, writes BBC's international editor.",
-      "link": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 8h",
-      "pubDate": 1780350652.0
-    },
-    {
-      "id": "NPR--7817546577708981326",
-      "source": "NPR",
-      "title": "Iran halts talks with U.S. over Israeli actions in Lebanon, Gaza",
-      "excerpt": "Trumps says Israel and Hezbollah will stop fighting after Iran stops talks with U.S. over Israeli operations in southern Lebanon, Gaza",
-      "link": "https://www.npr.org/2026/06/01/g-s1-125285/iran-israel-us-lebanon-gaza",
-      "time": "Il y a 8h",
-      "pubDate": 1780349328.0
-    },
-    {
-      "id": "NPR-5015607688941755499",
-      "source": "NPR",
-      "title": "Justice Department says it will abide by court order pausing its 'anti-weaponization' fund",
-      "excerpt": "The Justice Department said it 'strongly disagrees' with the court's ruling that paused a $1.776 fund for victims of government \"weaponization,\" but would still abide by it.",
-      "link": "https://www.npr.org/2026/06/01/g-s1-125268/justice-department-trump-anti-weaponization-fund-pause",
-      "time": "Il y a 9h",
-      "pubDate": 1780346145.0
-    },
-    {
-      "id": "NPR--7645785769654075856",
-      "source": "NPR",
-      "title": "Florida sues OpenAI and Sam Altman over alleged safety lapses",
-      "excerpt": "The lawsuit accuses the company of failing to warn users that ChatGPT could be dangerous and instead marketing it as safe and reliable.",
-      "link": "https://www.npr.org/2026/06/01/nx-s1-5843132/openai-florida-lawsuit-safety-chatgpt",
-      "time": "Il y a 10h",
-      "pubDate": 1780343522.0
-    },
-    {
-      "id": "BBC News-1112871555327039305",
-      "source": "BBC News",
-      "title": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
-      "excerpt": "Florida Attorney General James Uthmeier alleges OpenAI and boss Sam Altman built a 'web of deceit'",
-      "link": "https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 11h",
-      "pubDate": 1780340306.0
-    },
-    {
-      "id": "BBC News--8904713741001790023",
-      "source": "BBC News",
-      "title": "AI giant Anthropic says it plans to list on US stock market",
-      "excerpt": "The AI company behind Claude is set to offer the public shares of stock sometime this year.",
-      "link": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 11h",
-      "pubDate": 1780339813.0
-    },
-    {
-      "id": "NPR-3971489531739357541",
-      "source": "NPR",
-      "title": "AI giant Anthropic prepares to sell stock to the public; files preliminary IPO paperwork",
-      "excerpt": "The Anthropic IPO, and those of other AI-related firms like OpenAI, could be among the biggest in U.S. history.",
-      "link": "https://www.npr.org/2026/06/01/nx-s1-5843199/anthropic-ipo-filing-ai-large",
-      "time": "Il y a 11h",
-      "pubDate": 1780338448.0
-    },
-    {
-      "id": "NPR-3133509463627432406",
-      "source": "NPR",
-      "title": "Serena Williams returns to tennis, announcing 'next chapter'",
-      "excerpt": "A tennis legend at 44, Serena Williams is returning to pro tennis this month, announcing plans to play in the HSBC Championships in London. Williams, a mother of two, retired nearly four years ago.",
-      "link": "https://www.npr.org/2026/06/01/nx-s1-5843168/serena-williams-returns-hsbc-championships",
-      "time": "Il y a 11h",
-      "pubDate": 1780338002.0
-    },
-    {
-      "id": "NPR--1304229668695708190",
-      "source": "NPR",
-      "title": "Remote work -- not AI -- has sidelined recent college graduates, research finds",
-      "excerpt": "Research from the New York Fed finds that younger college graduates have been sidelined by remote work in recent years, as companies may be reluctant to hire those needing more training and mentoring.",
-      "link": "https://www.npr.org/2026/06/01/nx-s1-5843076/remote-work-college-graduates-unemployment-ai",
-      "time": "Il y a 12h",
-      "pubDate": 1780336792.0
-    },
-    {
-      "id": "The Guardian-7497885901342084062",
+      "id": "The Guardian--3788070697357794389",
       "source": "The Guardian",
       "title": "Trump admirer’s surprise first-round win is a blow to Colombia’s traditional conservatives",
       "excerpt": "Success of far-right presidential candidate, Abelardo de la Espriella, suggests some voters are ‘fed up with politics’ The far-right lawyer Abelardo de la Espriella and the leftwing senator Iván Ceped...",
       "link": "https://www.theguardian.com/world/2026/jun/01/trump-admirer-abelardo-de-la-espriella-election-win-blow-to-colombia-conservatives",
-      "time": "Il y a 15h",
+      "time": "Il y a 20h",
       "pubDate": 1780325085.0
     },
     {
-      "id": "BBC News-7348799360936939014",
-      "source": "BBC News",
-      "title": "Three Ebola vaccines in development amid growing outbreak fears",
-      "excerpt": "IAVI, Moderna and the University of Oxford are all working on new vaccines.",
-      "link": "https://www.bbc.com/news/articles/cn8pw93929wo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 15h",
-      "pubDate": 1780324239.0
-    },
-    {
-      "id": "NPR--1660192470612233237",
-      "source": "NPR",
-      "title": "A cancer vaccine made just for you. mRNA is back and it's fighting melanoma",
-      "excerpt": "A study finds that an mRNA vaccine is highly effective at preventing recurrence of this dangerous skin cancer, when used in combination with Keytruda, an immunotherapy drug.",
-      "link": "https://www.npr.org/2026/06/01/nx-s1-5827041/cancer-vaccine-mrna-melanoma",
-      "time": "Il y a 18h",
-      "pubDate": 1780315200.0
-    },
-    {
-      "id": "The Guardian-5644014703948602517",
+      "id": "The Guardian--8255197293129920112",
       "source": "The Guardian",
       "title": "People ‘panicking’ as Ghana passes sweeping law criminalising LGBTQ+ activity",
       "excerpt": "Community groups say some fear they could lose homes, jobs and access to healthcare if the new law is ratified by President John Dramani Mahama Ghana’s LGBTQ community is living in fear after the coun...",
       "link": "https://www.theguardian.com/global-development/2026/jun/01/ghana-new-law-criminalising-lgbtq-activity",
-      "time": "Il y a 18h",
+      "time": "Il y a 22h",
       "pubDate": 1780315151.0
     },
     {
-      "id": "NPR-4523103933973796992",
-      "source": "NPR",
-      "title": "U.S. strikes Iranian military sites. And, Trump's $1.8 billion fund faces scrutiny",
-      "excerpt": "American aircraft fired on a number of Iranian sites over the weekend, including Qeeshm Island in the Strait of Hormuz. And, Trump's anti-weaponization fund faces scrutiny in Congress and the courts.",
-      "link": "https://www.npr.org/2026/06/01/g-s1-125147/up-first-newsletter-iran-us-anti-weaponization-fund-graham-platner-newsmakers",
-      "time": "Il y a 19h",
-      "pubDate": 1780312042.0
-    },
-    {
-      "id": "NPR--964809622890501475",
-      "source": "NPR",
-      "title": "Confirmed Ebola cases in Congo near 300 as survivors describe their recoveries",
-      "excerpt": "The outbreak remains focused in Congo's eastern Ituri province. Congo has reported over 1,000 suspected cases with the Bundibugyo virus, which has no approved treatment or vaccine.",
-      "link": "https://www.npr.org/2026/06/01/g-s1-125143/ebola-updates",
-      "time": "Il y a 19h",
-      "pubDate": 1780311154.0
-    },
-    {
-      "id": "The Guardian--8463441137506659379",
+      "id": "The Guardian-3118737942285478780",
       "source": "The Guardian",
       "title": "UK will not have to pay Rwanda £100m over failed asylum scheme, court rules",
       "excerpt": "Rwanda had sued UK government over alleged breach of agreement, after scheme scrapped by Labour on first day in office The UK will not have to pay the Rwandan government millions of pounds over a fail...",
       "link": "https://www.theguardian.com/uk-news/2026/jun/01/uk-will-not-pay-rwanda-over-failed-asylum-scheme",
-      "time": "Il y a 19h",
+      "time": "Il y a 1j",
       "pubDate": 1780311051.0
     },
     {
-      "id": "The Guardian-1358075654710272170",
+      "id": "The Guardian-5814244500405224946",
       "source": "The Guardian",
       "title": "Colombia’s far-right presidential candidate De la Espriella wins first round of vote ahead of runoff",
       "excerpt": "Lawyer and Trump admirer has risen rapidly in the polls and will face Iván Cepeda in election runoff in three weeks A far-right lawyer and Donald Trump admirer will go head-to-head against leftwing se...",
       "link": "https://www.theguardian.com/world/2026/jun/01/colombia-far-right-presidential-candidate-espriella-wins-first-round-of-vote-ahead-of-election-runoff",
-      "time": "Il y a 19h",
+      "time": "Il y a 1j",
       "pubDate": 1780310140.0
     },
     {
-      "id": "The Guardian--3438251830572467399",
+      "id": "The Guardian-2873449953186342552",
       "source": "The Guardian",
       "title": "Wildfires devastating richer areas but fewer hectares burned globally – study",
       "excerpt": "‘Megafires’ in California, Canada, South Korea and Europe in 2025, but changes to farming slowed spread in parts of Africa “Devastating” wildfires ripped across the wealthier parts of the world in 202...",
@@ -507,7 +525,7 @@
       "pubDate": 1780293609.0
     },
     {
-      "id": "The Guardian-666772909865674088",
+      "id": "The Guardian-4463696065135308197",
       "source": "The Guardian",
       "title": "WHO calls for community cooperation to contain Ebola outbreak in DRC",
       "excerpt": "Tedros Adhanom Ghebreyesus makes appeal after protests against protocols for handling victims’ bodies in Ituri province Containing the <a href=\"https://www.theguardian.com/world/ebola\">Ebola</a> outbr...",
@@ -516,32 +534,14 @@
       "pubDate": 1780242587.0
     },
     {
-      "id": "The Guardian-465542184221338835",
-      "source": "The Guardian",
-      "title": "Death of Congolese man renews scrutiny of race relations in Ireland",
-      "excerpt": "Yves Sakila died after being restrained by security guards ‘in broad daylight’ Irish authorities have agreed to a second postmortem on the body of a Congolese man who died after being restrained by sh...",
-      "link": "https://www.theguardian.com/world/2026/may/31/yves-sakila-death-congolese-man-ireland-race-relations",
-      "time": "Il y a 1j",
-      "pubDate": 1780235974.0
-    },
-    {
-      "id": "The Guardian-3511612282071600863",
+      "id": "The Guardian--7505788351042661649",
       "source": "The Guardian",
       "title": "Colombia goes to polls in election pitting outgoing leader’s ally against pro-Trump candidates",
       "excerpt": "Ballots are being cast in the first round of the South American nation’s presidential elections Colombians are casting ballots in the first round of the South American nation’s presidential election,...",
       "link": "https://www.theguardian.com/world/2026/may/31/colombia-polls-election-outgoing-leaders-ally-pro-trump-candidates",
       "time": "Il y a 1j",
       "pubDate": 1780226616.0
-    },
-    {
-      "id": "The Guardian-6583012747358695363",
-      "source": "The Guardian",
-      "title": "Colombia prepares to go to polls in election shadowed by resurgence of political violence",
-      "excerpt": "Sunday’s presidential vote is contest between left and right – and between contradictory proposals for dealing with the decades-long armed conflict Mateo Pérez Rueda was one internship away from compl...",
-      "link": "https://www.theguardian.com/world/2026/may/30/colombia-presidential-election-vote-resurgence-political-violence",
-      "time": "Il y a 2j",
-      "pubDate": 1780131614.0
     }
   ],
-  "lastUpdate": "2026-06-02T06:19:02.239355"
+  "lastUpdate": "2026-06-02T10:57:31.540802"
 }
