@@ -1,30 +1,57 @@
 {
   "francophone": [
     {
-      "id": "Le Monde--1928961403934034936",
+      "id": "Le Monde-4121103390655721571",
+      "source": "Le Monde",
+      "title": "Législatives anticipées au Kosovo : le parti du premier ministre arrive en tête mais n’obtient pas la majorité",
+      "excerpt": "Sur fond d’abstention très élevée, la formation de gauche nationaliste d’Albin Kurti rassemble 43 % des voix, en recul par rapport au scrutin de décembre. De nouvelles élections avaient été convoquées...",
+      "link": "https://www.lemonde.fr/international/article/2026/06/08/legislatives-anticipees-au-kosovo-le-parti-du-premier-ministre-arrive-en-tete-mais-n-obtient-pas-la-majorite_6699221_3210.html",
+      "time": "Il y a 22 min",
+      "pubDate": 1780875034.0
+    },
+    {
+      "id": "Le Monde-4876526189640041601",
+      "source": "Le Monde",
+      "title": "Alexander Zverev, sacré à Roland-Garros, n’est plus un roi sans couronne",
+      "excerpt": "Après trois finales de tournois du Grand Chelem perdues, l’Allemand a battu l’Italien Flavio Cobolli, dimanche en finale à Paris.",
+      "link": "https://www.lemonde.fr/sport/article/2026/06/08/sacre-a-roland-garros-alexander-zverev-n-est-plus-un-roi-sans-couronne_6699217_3242.html",
+      "time": "Il y a 33 min",
+      "pubDate": 1780874363.0
+    },
+    {
+      "id": "Le Monde--853440915562467600",
+      "source": "Le Monde",
+      "title": "EN DIRECT, guerre en Ukraine : la France, l’Allemagne et le Royaume-Uni disent soutenir la proposition de Volodymyr Zelensky d’ouvrir un « dialogue direct » entre Kiev et Moscou",
+      "excerpt": "« La ligne de contact actuelle doit servir de point de départ aux négociations. Les frontières internationales ne doivent pas être modifiées par la force », ont également déclaré Emmanuel Macron, Frie...",
+      "link": "https://www.lemonde.fr/international/live/2026/06/08/en-direct-guerre-en-ukraine-la-france-l-allemagne-et-le-royaume-uni-disent-soutenir-la-proposition-de-volodymyr-zelensky-d-ouvrir-un-dialogue-direct-entre-kiev-et-moscou_6698620_3210.html",
+      "time": "Il y a 58 min",
+      "pubDate": 1780872865.0
+    },
+    {
+      "id": "Le Monde--8597460068300864077",
       "source": "Le Monde",
       "title": "EN DIRECT, Moyen-Orient : l’armée israélienne dit attendre « le feu vert » des autorités pour frapper l’Iran « avec force », après des tirs de missiles iraniens sur l’Etat hébreu",
       "excerpt": "Onze missiles ont été tirés sur Israël, tous interceptés, selon l’armée. C’est la première fois depuis le cessez-le-feu annoncé le 8 avril que Téhéran cible l’Etat hébreu. « Le régime terroriste irani...",
       "link": "https://www.lemonde.fr/international/live/2026/06/08/en-direct-moyen-orient-l-armee-israelienne-dit-attendre-le-feu-vert-des-autorites-pour-frapper-l-iran-avec-force-apres-des-tirs-de-missiles-iraniens-sur-l-etat-hebreu_6697888_3210.html",
-      "time": "Il y a 12 min",
+      "time": "Il y a 1h",
       "pubDate": 1780871957.0
     },
     {
-      "id": "Libération-8122182746648341889",
+      "id": "Libération--5028838110053349219",
       "source": "Libération",
       "title": "Le fossé entre l’intensification des pressions humaines et les efforts de protection de l’océan se creuse, alerte le baromètre «Starfish»",
       "excerpt": "Alors qu’un forum international consacré à l’exploration et la protection du grand bleu se tient à Paris ce lundi 8 juin, le deuxième baromètre de Mercator Océan alerte sur l’accélération de la dégrad...",
       "link": "https://www.liberation.fr/environnement/climat/le-fosse-entre-lintensification-des-pressions-humaines-et-les-efforts-de-protection-de-locean-se-creuse-alerte-le-barometre-starfish-20260607_CZS32BTQOJGCNHTTUISQC2UIEY/",
-      "time": "Il y a 52 min",
+      "time": "Il y a 1h",
       "pubDate": 1780869540.0
     },
     {
-      "id": "France Info--870030343363909348",
+      "id": "France Info--1295124832896146149",
       "source": "France Info",
       "title": "Crash d'un hélicoptère de la gendarmerie nationale en forêt d'Orléans : un gendarme est mort, deux autres en urgence absolue.",
       "excerpt": "D'importants moyens de secours ont été mobilisés dimanche 7 juin en forêt domaniale d'Orléans, non loin de Sully-sur-Loire (Loiret), suite au crash d'un hélicoptère de la gendarmerie nationale qui rec...",
       "link": "https://france3-regions.franceinfo.fr/centre-val-de-loire/loiret/crash-d-un-helicoptere-de-la-gendarmerie-nationale-en-foret-d-orleans-a-bray-saint-aignan-3364294.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1780866975.0,
       "sources": [
         "France Info",
@@ -34,432 +61,405 @@
       "sourceCount": 2
     },
     {
-      "id": "France Info-5293478536051613531",
+      "id": "France Info-1363284434870505864",
       "source": "France Info",
       "title": "Mort de Lyhanna : \"Cette affaire est un échec\" et \"un drame qui aurait pu être évité\", déplore le ministre de l'Intérieur Laurent Nuñez",
       "excerpt": "\"Dans un dossier comme celui-ci, avec des éléments d'enquête assez accablants, on ne comprend pas que le suspect n'ait pas été entendu\", réagit le ministre de l'Intérieur sur France 2.",
       "link": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/direct-mort-de-lyhanna-la-commune-de-fleurance-dans-le-gers-se-prepare-a-rendre-hommage-a-la-collegienne-de-11-ans-lors-d-une-marche-blanche_8048837.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1780865599.0
     },
     {
-      "id": "France Info--3981055294861636630",
+      "id": "France Info-2618411596470703717",
       "source": "France Info",
       "title": "Guerre au Moyen-Orient : Israël ciblé par des missiles en provenance d'Iran, qui estime que l'Etat hébreu a franchi \"toutes les lignes rouges\"",
       "excerpt": "L'armée israélienne parle d'une \"grave erreur\" de l'Iran, tandis que Donald Trump a déclaré à la presse américaine qu'il allait demander à l'Etat hébreu de ne pas riposter.",
       "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-l-armee-israelienne-annonce-frapper-la-banlieue-sud-de-beyrouth-en-reponse-aux-tirs-du-hezbollah-libanais_8049134.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 3h",
       "pubDate": 1780865514.0
     },
     {
-      "id": "Libération-2211057624081881581",
+      "id": "Libération-7827925864577104340",
       "source": "Libération",
       "title": "Crash d’un hélicoptère de la gendarmerie dans le Loiret : un gendarme tué, deux autres blessés",
       "excerpt": "L’appareil survolait une zone à la recherche d’un adolescent.",
       "link": "https://www.liberation.fr/societe/crash-dun-helicoptere-de-la-gendarmerie-dans-le-loiret-sans-doute-des-morts-20260607_TBDPVWBN65BIFPHHUNQ4QXDX6M/",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1780863838.0
     },
     {
-      "id": "Libération-1794503607204384533",
+      "id": "Libération-6315968263635780070",
       "source": "Libération",
       "title": "Guerre au Moyen-Orient : Israël annonce la fermeture des écoles lundi après des tirs de missiles iraniens, les premiers depuis le cessez-le-feu du 8 avril",
       "excerpt": "Deux personnes ont été tuées ce dimanche par des frappes israéliennes dans la banlieue sud de la capitale libanaise. Selon l’armée israélienne, l’Iran a effectué des tirs de missiles vers son territoi...",
       "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-les-etats-unis-abattent-des-drones-iraniens-israel-frappe-par-des-tirs-venus-du-liban-20260607_ZH6FB7MAHVB4BEMPYSDH4L6GL4/",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1780863712.0
     },
     {
-      "id": "France Info-2310214441058561342",
+      "id": "France Info-967225953895666378",
       "source": "France Info",
       "title": "Roland-Garros 2026 : Alexander Zverev remporte en cinq sets le premier tournoi du Grand Chelem de sa carrière en battant Flavio Cobolli en finale",
       "excerpt": "L'Allemand de 29 ans a alterné le bon et le moins bon, dimanche, mais a réussi à s'en sortir après plus de quatre heures de jeu face au jeune Italien.",
       "link": "https://www.franceinfo.fr/roland-garros/roland-garros-2026-alexander-zverev-remporte-en-cinq-sets-le-premier-grand-chelem-de-sa-carriere-en-battant-flavio-cobolli-en-finale_8049167.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1780860260.0
     },
     {
-      "id": "France Info--3196210089993182160",
+      "id": "France Info-7152420917067872175",
       "source": "France Info",
       "title": "Football : le Danois Christian Eriksen s'effondre lors d'un match amical contre l'Ukraine, cinq ans après son malaise cardiaque en pleine rencontre",
       "excerpt": "Christian Eriksen avait fait un malaise cardiaque à l'Euro 2021, lors d'un match entre le Danemark et la Finlande.",
       "link": "https://www.franceinfo.fr/sports/foot/football-le-danois-christian-eriksen-s-effondre-lors-d-un-match-amical-contre-l-ukraine-cinq-ans-apres-son-malaise-cardiaque-en-plein-match_8049473.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1780859470.0
     },
     {
-      "id": "Libération--171464080507377185",
+      "id": "Libération-8589423031657093609",
       "source": "Libération",
       "title": "Affaire Lyhanna, un point de bascule ?",
       "excerpt": "La responsabilité du meurtre de Lyhanna est celle d’un système défaillant dans sa globalité. Pour éviter d’autres drames, il est urgent que les moyens consacrés à la lutte contre les violences faites...",
       "link": "https://www.liberation.fr/idees-et-debats/editorial/affaire-lyhanna-un-point-de-bascule-20260607_BGKKPHEK3NCVHEMCJ4Y5CV5DFQ/",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1780859303.0
     },
     {
-      "id": "Libération-7075411659161755840",
+      "id": "Libération-6760864497358797969",
       "source": "Libération",
       "title": "«Pour une fois, les étoiles sont alignées» : à Saint-Denis, Jean-Luc Mélenchon cherche à convaincre les siens que la victoire est possible",
       "excerpt": "Le leader insoumis a tenu ce dimanche 7 juin son premier meeting de campagne dans la ville de Seine-Saint-Denis conquise par les insoumis aux dernières municipales. Devant une foule compacte, il a che...",
       "link": "https://www.liberation.fr/politique/pour-une-fois-les-etoiles-sont-alignees-a-saint-denis-jean-luc-melenchon-cherche-a-convaincre-les-siens-que-la-victoire-est-possible-20260607_34VGIDMTTRCP5EWSN4KTWHPNRI/",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1780858571.0
     },
     {
-      "id": "Libération-1305106570581167887",
+      "id": "Libération-71650656797872323",
       "source": "Libération",
       "title": "Naufrage au large de Malte : au moins dix migrants retrouvés morts",
       "excerpt": "Les garde-côtes italiens ont annoncé ce dimanche avoir découvert les corps de dix personnes qui tentaient de traverser la Méditerranée, alors que l’ONU alerte sur une augmentation dramatique des morts...",
       "link": "https://www.liberation.fr/international/europe/naufrage-au-large-de-malte-au-moins-dix-migrants-retrouves-morts-20260607_GQB4CWBBDVBCLFHTQTZRI56TIA/",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1780858058.0
     },
     {
-      "id": "Le Monde--6305070837078279080",
-      "source": "Le Monde",
-      "title": "EN DIRECT, guerre en Ukraine : la France, l’Allemagne et le Royaume-Uni soutiennent la proposition de Volodymyr Zelensky d’un « dialogue direct » entre Kiev et Moscou",
-      "excerpt": "« La ligne de contact actuelle doit servir de point de départ aux négociations. Les frontières internationales ne doivent pas être modifiées par la force », ont également déclaré Emmanuel Macron, Frie...",
-      "link": "https://www.lemonde.fr/international/live/2026/06/07/en-direct-guerre-en-ukraine-les-dernieres-informations_6698620_3210.html",
-      "time": "Il y a 4h",
-      "pubDate": 1780857398.0
-    },
-    {
-      "id": "Libération-1419385695360285914",
+      "id": "Libération-5079505526354579698",
       "source": "Libération",
       "title": "Affaire Lyhanna : une hausse du budget de la Justice  insuffisante pour contrer les violences faites aux enfants ?",
       "excerpt": "Pour Emmanuel Macron et Gérald Darmanin, le drame survenu dans le Gers n’est pas le résultat d’un «manque de moyens», mais plutôt d’un non-respect de circulaires. Certes, depuis 2017, l’enveloppe du m...",
       "link": "https://www.liberation.fr/societe/police-justice/affaire-lyhanna-une-hausse-du-budget-de-la-justice-insuffisante-pour-contrer-les-violences-faites-aux-enfants-20260607_XBW4BHYU4NGFLHJY4U2WH6SMSQ/",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1780857363.0
     },
     {
-      "id": "Libération-107183728605128446",
+      "id": "Libération--9031544797690593995",
       "source": "Libération",
       "title": "Les handballeuses de Metz sur le toit de l’Europe, une première française",
       "excerpt": "Les joueuses messines ont battu les Hongroises de Györ (31-29) ce dimanche 7 juin en finale de la Ligue des champions.",
       "link": "https://www.liberation.fr/sports/les-handballeuses-de-metz-sur-le-toit-de-leurope-une-premiere-francaise-20260607_6R2VQ4ENJFHCJDCGBAKJ5YBFCI/",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1780856969.0
     },
     {
-      "id": "Libération-4063702697273554248",
+      "id": "Libération-3581095284407171267",
       "source": "Libération",
       "title": "A Fleurance, une marche blanche pour Lyhanna empreinte de colère : «On dit “plus jamais ça” tout le temps et ça recommence»",
       "excerpt": "Dans le Gers, où une marche blanche était organisée ce dimanche en hommage à Lyhanna, le chagrin s’est ajouté à la colère. Sidérés, proches et habitants ont dénoncé les ratés de la justice.",
       "link": "https://www.liberation.fr/societe/police-justice/a-fleurance-une-marche-blanche-pour-lyhanna-empreinte-de-colere-on-dit-plus-jamais-ca-tout-le-temps-et-ca-recommence-20260607_A73QYHBILRDVZOVOTO5MHDNCJI/",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1780856891.0
     },
     {
-      "id": "Libération-2275954707903696061",
+      "id": "Libération--4224475975416715534",
       "source": "Libération",
       "title": "Roland-Garros : Zverev vainc la malédiction des finales et l’Italien Cobolli pour enfin s’offrir un titre du Grand Chelem",
       "excerpt": "L’Allemand a dominé son adversaire en cinq sets. Favori de la finale, il s’est fait de grosses frayeurs.",
       "link": "https://www.liberation.fr/sports/tennis/roland-garros-zverev-soffre-enfin-son-premier-titre-du-grand-chelem-20260607_KI7UABTJRZGZHNFZ25HBUVR34I/",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1780856583.0
     },
     {
-      "id": "Le Monde-4317216625244690826",
-      "source": "Le Monde",
-      "title": "Roland-Garros 2026 : Alexander Zverev arrache son premier titre du Grand Chelem au bout du suspense",
-      "excerpt": "A 29 ans, l’Allemand a décroché le Majeur qu’il chassait depuis le début de sa carrière en prenant le meilleur sur l’Italien Flavio Cobolli, dimanche, sur le court Philippe-Chatrier (6-1, 4-6, 6-4, 6-...",
-      "link": "https://www.lemonde.fr/sport/article/2026/06/07/roland-garros-2026-alexander-zverev-arrache-son-premier-titre-du-grand-chelem-au-bout-du-suspense_6699162_3242.html",
-      "time": "Il y a 4h",
-      "pubDate": 1780855501.0
-    },
-    {
-      "id": "Le Monde--208203985969030382",
+      "id": "Le Monde-818324732678069299",
       "source": "Le Monde",
       "title": "Après la mort de Lyhanna, une marche blanche à Fleurance pour dénoncer « une défaillance sociétale »",
       "excerpt": "Près de 6 000 personnes se sont réunies, dimanche, dans la petite commune du Gers, en hommage à la jeune fille retrouvée morte jeudi. Sur toutes les bouches ou presque, de la colère et une question :...",
       "link": "https://www.lemonde.fr/societe/article/2026/06/07/apres-la-mort-de-lyhanna-une-marche-blanche-a-fleurance-pour-denoncer-une-defaillance-societale_6699158_3224.html",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1780855046.0
     },
     {
-      "id": "France Info--1347754564718257675",
+      "id": "France Info-6856191960126093472",
       "source": "France Info",
       "title": "Metz Handball remporte la Ligue des champions, une première pour une équipe féminine française",
       "excerpt": "Les Messines ont réalisé l'exploit face au club hongrois de Györ, référence sur la scène européenne et double tenant du titre, en s'imposant (31-29), dimanche à Budapest.",
       "link": "https://www.franceinfo.fr/sports/handball/metz-handball-remporte-la-ligue-des-champions-une-premiere-pour-une-equipe-feminine-francaise_8049314.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1780853784.0
     },
     {
-      "id": "Le Monde-8980346857993047407",
+      "id": "Le Monde--5445745835120467550",
       "source": "Le Monde",
       "title": "Xi Jinping se rend dans une Corée du Nord de plus en plus proche de la Russie",
       "excerpt": "Le président chinois doit effectuer, lundi et mardi, sa première visite en Corée du Nord depuis 2019. Alors que la coopération entre Pyongyang et Moscou s’est renforcée depuis la guerre en Ukraine, Pé...",
       "link": "https://www.lemonde.fr/international/article/2026/06/07/xi-jinping-se-rend-dans-une-coree-du-nord-de-plus-en-plus-proche-de-la-russie_6699155_3210.html",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1780853409.0
     },
     {
-      "id": "Le Monde-8741502596419061220",
-      "source": "Le Monde",
-      "title": "« Vous êtes une chaîne biaisée et malhonnête. Désolé, on arrête là » : une interview de Donald Trump accordée à la chaîne NBC dégénère",
-      "excerpt": "Le président n’a pas apprécié des questions posées par la journaliste Kristen Welker, notamment, sur l’Iran et le fonds « anti-instrumentalisation ». Des problèmes liés à la météo ont ajouté des diffi...",
-      "link": "https://www.lemonde.fr/international/article/2026/06/07/vous-etes-une-chaine-biaisee-et-malhonnete-desole-on-arrete-la-une-interview-de-donald-trump-accordee-a-la-chaine-nbc-degenere_6699154_3210.html",
-      "time": "Il y a 5h",
-      "pubDate": 1780853149.0
-    },
-    {
-      "id": "France Info-5986754354470614592",
+      "id": "France Info--3224247783583088869",
       "source": "France Info",
       "title": "Agression lors de Nuit Blanche à Paris : \"C'est une manifestation d'intégrisme et d'intolérance\", réagit Alexandra Cordebard, maire du 10e arrondissement",
       "excerpt": "Six personnes ont été placées en garde à vue, dont deux pour violences sur des élus, après une action du groupe intégriste catholique Civitas qui a perturbé samedi soir l'ouverture au public d'une ins...",
       "link": "https://www.franceinfo.fr/faits-divers/agression-lors-de-nuit-blanche-a-paris-c-est-une-manifestation-d-integrisme-et-d-intolerance-reagit-alexandra-cordebard-maire-du-10e-arrondissement_8049416.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1780853023.0
     },
     {
-      "id": "France Info--2789558288886058826",
+      "id": "France Info-6959269568247133812",
       "source": "France Info",
       "title": "\"Il a intérêt à avoir une posture plus présidentielle\" : à Saint-Denis, les soutiens de Jean-Luc Mélenchon défendent un changement de ton",
       "excerpt": "En meeting dans la ville dirigée depuis mars par Bally Bagayoko, le quadruple candidat à la présidentielle a notamment tendu la main au reste de la gauche. Ses troupes défendent un adoucissement de se...",
       "link": "https://www.franceinfo.fr/elections/presidentielle/il-a-interet-a-avoir-une-posture-plus-presidentielle-a-saint-denis-les-soutiens-de-jean-luc-melenchon-defendent-un-changement-de-ton_8049215.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1780850804.0
     },
     {
-      "id": "Le Monde--123508844334137993",
+      "id": "Le Monde-832763328774874802",
       "source": "Le Monde",
       "title": "Rachat de SFR : le risque d’une augmentation des prix des abonnements",
       "excerpt": "Le rachat de l’opérateur au carré rouge par ses rivaux Bouygues Telecom, Free et Orange pourrait favoriser une remontée des tarifs des abonnements Internet et de téléphonie mobile.",
       "link": "https://www.lemonde.fr/economie/article/2026/06/07/rachat-de-sfr-le-risque-d-une-augmentation-des-prix-des-abonnements_6699149_3234.html",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1780849807.0
     },
     {
-      "id": "Le Monde--3802943946920914940",
+      "id": "Le Monde-8883692631588018396",
       "source": "Le Monde",
       "title": "Ce qu’il faut retenir de l’actualité du week-end des 6 et 7 juin",
       "excerpt": "Vous n’avez pas suivi l’actualité samedi 6 et dimanche 7 juin ? Voici ce qu’il s’est passé pendant ces quarante-huit dernières heures.",
       "link": "https://www.lemonde.fr/les-decodeurs/article/2026/06/07/ce-qu-il-faut-retenir-de-l-actualite-du-week-end-des-6-et-7-juin_6699144_4355770.html",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1780847822.0
     },
     {
-      "id": "Le Monde--1133147891009905810",
+      "id": "Le Monde-3475524690442012111",
       "source": "Le Monde",
       "title": "Avec la « remigration », l’extrême droite veut préparer les esprits à une politique raciale en Europe",
       "excerpt": "Concept allant pour les plus radicaux jusqu’au nettoyage ethnique, ce mot né en France est désormais porté par Donald Trump et les principaux partis d’extrême droite européens.",
       "link": "https://www.lemonde.fr/politique/article/2026/06/07/avec-la-remigration-l-extreme-droite-veut-preparer-les-esprits-a-une-politique-raciale-en-europe_6699142_823448.html",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1780846177.0
     },
     {
-      "id": "Le Monde-7488841025879277869",
+      "id": "Le Monde-7520290156708695277",
       "source": "Le Monde",
       "title": "Jean-Luc Mélenchon accuse le RN de promouvoir un « suprémacisme » et fustige les « obsédés de la race », lors de son premier meeting de campagne",
       "excerpt": "« En France, le suprémacisme est porté par le RN », a lancé le candidat « insoumis », dimanche à Saint-Denis, fustigeant leurs « névroses communautaristes ». Il a également mis sous pression le reste...",
       "link": "https://www.lemonde.fr/politique/article/2026/06/07/jean-luc-melenchon-accuse-le-rn-de-promouvoir-un-supremacisme-et-fustige-les-obsedes-de-la-race-lors-de-son-premier-meeting-de-campagne_6699140_823448.html",
-      "time": "Il y a 8h",
+      "time": "Il y a 9h",
       "pubDate": 1780843716.0
     },
     {
-      "id": "France Info-6242499694511902416",
+      "id": "France Info--1602507711236624286",
       "source": "France Info",
       "title": "Rachat de SFR : les prix vont-ils augmenter ?",
       "excerpt": "Au terme d'intenses négociations, les opérateurs Bouygues Telecom, Iliad (Free) et Orange se sont mis d'accord avec Altice France, samedi 6 juin, pour lui racheter sa filiale SFR pour un montant total...",
       "link": "https://www.franceinfo.fr/economie/telecom/rachat-de-sfr/rachat-de-sfr-les-prix-vont-ils-augmenter_8049119.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 10h",
+      "time": "Il y a 11h",
       "pubDate": 1780834990.0
     }
   ],
   "anglophone": [
     {
-      "id": "BBC News-4917285858706513612",
+      "id": "NPR-3008781001883902367",
+      "source": "NPR",
+      "title": "Trump rejects idea that Iran betrays his \"no new wars\" campaign message",
+      "excerpt": "President Trump is dismissing the idea that launching the war with Iran betrayed his refrain of \"No new wars\" as he campaigned for the White House in 2024.",
+      "link": "https://www.npr.org/2026/06/07/g-s1-126826/trump-iran-wars-campaign-message",
+      "time": "Il y a 45 min",
+      "pubDate": 1780873664.0
+    },
+    {
+      "id": "BBC News--1590930581556208196",
+      "source": "BBC News",
+      "title": "'A World Cup for them not us': Fans' anger at US travel bans and visa restrictions",
+      "excerpt": "Fans across the world say US travel bans and visa regulations make them feel excluded from the World Cup.",
+      "link": "https://www.bbc.com/news/articles/cx212p8r28eo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 52 min",
+      "pubDate": 1780873227.0
+    },
+    {
+      "id": "BBC News--2608074696740700333",
       "source": "BBC News",
       "title": "Friendship or leverage: Why is Xi Jinping going to North Korea?",
       "excerpt": "Beijing is trying to reassert influence over a strategically vital yet deeply unpredictable partner.",
       "link": "https://www.bbc.com/news/articles/cdep497r256o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 49 min",
+      "time": "Il y a 1h",
       "pubDate": 1780869751.0
     },
     {
-      "id": "BBC News--4529030428559627105",
+      "id": "BBC News--6742268132787851130",
       "source": "BBC News",
       "title": "Zelensky's close European allies set out five conditions for peace talks",
       "excerpt": "The Ukrainian president's meeting with his staunchest European allies came as US President Donald Trump's focus shifts to the war with Iran.",
       "link": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1780868383.0
     },
     {
-      "id": "BBC News--6364461551931472643",
+      "id": "BBC News-9216118895263196069",
       "source": "BBC News",
       "title": "Israel strikes Beirut suburb days after US-brokered truce",
       "excerpt": "Israel says the attacks on the Lebanese capital were ordered  \"in response to Hezbollah's firing at Israeli territory\".",
       "link": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1780865769.0
     },
     {
-      "id": "NPR--6389531318589123877",
+      "id": "NPR--8726507626659549042",
       "source": "NPR",
       "title": "Can birds outsing traffic? Some are trying",
       "excerpt": "New research from scientists at the Centre for Ecological Research in Hungary finds that some birds living in cities are changing their songs to compete with traffic and other urban noise.",
       "link": "https://www.npr.org/2026/06/07/nx-s1-5828822/can-birds-outsing-traffic-some-are-trying",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1780865595.0
     },
     {
-      "id": "NPR--8256586277996446907",
+      "id": "NPR--1496348054209060789",
       "source": "NPR",
       "title": "Israel hits Beirut's suburbs in retaliatory attack against Hezbollah",
       "excerpt": "The attack comes after Hezbollah struck Israel's military with fighter drones, according to Prime Minister Benjamin Netanyahu's office.<br /><br />",
       "link": "https://www.npr.org/2026/06/07/nx-s1-5849220/israel-lebanon-beirut-airstrike-ceasefire",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1780862793.0
     },
     {
-      "id": "NPR--4390684082475309225",
+      "id": "NPR--2154342457698419419",
       "source": "NPR",
       "title": "Israel says Iran launched a missile at it, in a first during fragile ceasefire",
       "excerpt": "The attack would be the first since a fragile ceasefire took effect in early April, complicating mediation efforts for a deal to end the war.",
       "link": "https://www.npr.org/2026/06/07/g-s1-126816/israel-iran-missile-ceasefire",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1780862187.0
     },
     {
-      "id": "BBC News-1081798573550664068",
+      "id": "BBC News-2633842095675987638",
       "source": "BBC News",
       "title": "Trump abruptly ends NBC interview after clash over 'rigged election' claim",
       "excerpt": "During the interview, the president was repeatedly challenged on several points by the show's presenter Kristen Welker.",
       "link": "https://www.bbc.com/news/articles/ce8k1xx6yzjo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1780862149.0
     },
     {
-      "id": "BBC News--4083586630040308946",
+      "id": "BBC News--5410285319129418402",
       "source": "BBC News",
       "title": "Eriksen conscious after collapsing in Denmark game",
       "excerpt": "Christian Eriksen collapsed during Denmark's friendly against Ukraine but is now conscious, says the Danish Football Association.",
       "link": "https://www.bbc.com/sport/football/articles/czrxgd2nljno?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1780857116.0
     },
     {
-      "id": "NPR-6782374430709159313",
+      "id": "NPR--4942063862838741615",
       "source": "NPR",
       "title": "Alexander Zverev wins the French Open to finally earn a 1st Grand Slam title",
       "excerpt": "After Italian Flavio Cobolli missed an overhead on the second championship point of the five-set encounter, Zverev dropped on his back and began sobbing.",
       "link": "https://www.npr.org/2026/06/07/g-s1-126803/french-open-2026-alexander-zverev-grand-slam-title",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1780856463.0
     },
     {
-      "id": "BBC News-2348651368429418664",
+      "id": "BBC News-7310834056827427483",
       "source": "BBC News",
       "title": "Mexico City attempts record-breaking wave",
       "excerpt": "As part of the countdown to the World Cup, Mexico City is attempting to surpass the world record for largest wave.",
       "link": "https://www.bbc.com/news/videos/c3wy6j2868lo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1780854812.0
     },
     {
-      "id": "BBC News-6675416228751920490",
+      "id": "BBC News-6474732807946524554",
       "source": "BBC News",
       "title": "Last-minute visas and moving training camp: Iran's road to the World Cup",
       "excerpt": "Iran's participation has become one of the most complex stories of the tournament.",
       "link": "https://www.bbc.com/news/articles/cgmpmp89dvro?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1780852926.0
     },
     {
-      "id": "BBC News--7829829758239399243",
+      "id": "BBC News-8144089837890433564",
       "source": "BBC News",
       "title": "One dead, five injured after shooting in Israel",
       "excerpt": "The suspect opened fire from a car in several locations before being shot dead.",
       "link": "https://www.bbc.com/news/articles/cpwe8e80weyo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1780846849.0
     },
     {
-      "id": "NPR-4553257913671255369",
+      "id": "NPR-7948696114041046476",
       "source": "NPR",
       "title": "U.K. deputy prime minister: JD Vance was wrong to blame teen's murder on  immigration",
       "excerpt": "Britain's deputy prime minister says he told U.S. Vice President JD Vance he was wrong to blame immigration for the death of a university student who was handcuffed as he lay dying from a stab wound.",
       "link": "https://www.npr.org/2026/06/07/nx-s1-5849212/u-k-deputy-prime-minister-jd-vance-was-wrong-to-blame-teens-murder-on-immigration",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1780846792.0
     },
     {
-      "id": "NPR--7802360414209465182",
+      "id": "NPR-4898474609783983027",
       "source": "NPR",
       "title": "Armenians vote in general election watched closely by Russia and the West",
       "excerpt": "Prime Minister Nikol Pashinyan and his governing party are looking for a strong mandate for a new geopolitical course for Armenia. The opposition includes some parties that are vocally pro-Russia.",
       "link": "https://www.npr.org/2026/06/07/nx-s1-5849210/armenians-vote-general-election-russia-west",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1780846244.0
     },
     {
-      "id": "BBC News--2891209909921800117",
+      "id": "BBC News-5619023287255969836",
       "source": "BBC News",
       "title": "Hundreds of captives freed from Boko Haram mountain hideout",
       "excerpt": "The group includes many women and children who were abducted in March from an area close to Cameroon.",
       "link": "https://www.bbc.com/news/articles/ce8j0jn4xjgo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 8h",
+      "time": "Il y a 9h",
       "pubDate": 1780840816.0
     },
     {
-      "id": "NPR--1390002357935045499",
+      "id": "NPR--5325754410170873048",
       "source": "NPR",
       "title": "It's one of the world's most isolated islands. Here come the bulldozers",
       "excerpt": "The Indian government is spending $9 billion to create a megaport, airport and city on this remote island. Critics fear the impact on pristine forests and the lives of indigenous inhabitants.",
       "link": "https://www.npr.org/2026/06/07/g-s1-125586/island-isolated-india-great-nicobar-china-development",
-      "time": "Il y a 11h",
+      "time": "Il y a 12h",
       "pubDate": 1780833078.0
     },
     {
-      "id": "NPR--5747082444172224624",
+      "id": "NPR--5752219414089400916",
       "source": "NPR",
       "title": "1 million people flood Madrid streets to see the pope's flower-carpeted procession",
       "excerpt": "The crowd cheered and shouted \"This is the youth of the pope!\" as Pope Leo arrived for Mass at a central Madrid plaza. It's the first papal visit to Spain in 15 years.",
       "link": "https://www.npr.org/2026/06/07/nx-s1-5849147/1-million-flood-madrid-streets-pope-procession",
-      "time": "Il y a 12h",
+      "time": "Il y a 13h",
       "pubDate": 1780829461.0
     },
     {
-      "id": "NPR--6423058802584339702",
+      "id": "NPR-5551280392822591700",
       "source": "NPR",
       "title": "Police search for suspects in Ohio shooting that wounded 12 near a street festival",
       "excerpt": "Police still had no suspects in custody Sunday after a weekend shooting near an Ohio street festival wounded 12 people and sent attendees scrambling for cover in a busy Toledo neighborhood.",
       "link": "https://www.npr.org/2026/06/07/nx-s1-5849137/12-people-shot-ohio-festival",
-      "time": "Il y a 12h",
+      "time": "Il y a 13h",
       "pubDate": 1780826525.0
     },
     {
-      "id": "NPR-2336047235253415239",
-      "source": "NPR",
-      "title": "4 takeaways from the U.S. men's final tune-up games before the World Cup",
-      "excerpt": "The U.S. men's national team chose to play a pair of highly-ranked, super competitive teams in the final lead-up to the World Cup: Senegal and Germany. The matches showed the U.S. is ready.",
-      "link": "https://www.npr.org/2026/06/07/nx-s1-5848725/2026-world-cup-usmnt-preview",
-      "time": "Il y a 12h",
-      "pubDate": 1780826400.0
-    },
-    {
-      "id": "The Guardian--1992850916606151103",
+      "id": "The Guardian-5174523395716635510",
       "source": "The Guardian",
       "title": "Peru’s discontented voters face straight left-right choice in election runoff",
       "excerpt": "Keiko Fujimori, the daughter of 1990s leader Alberto, is vying with a congressman to become country’s ninth president in a decade Peruvians go to the polls on Sunday in an election runoff that pits a...",
       "link": "https://www.theguardian.com/world/2026/jun/07/peru-election-voters-face-straight-left-right-choice-keiko-fujimori",
-      "time": "Il y a 17h",
+      "time": "Il y a 18h",
       "pubDate": 1780808424.0
     },
     {
-      "id": "BBC News-6366996289795842263",
-      "source": "BBC News",
-      "title": "'It was either killed or be killed' - ongoing nightmares of an ex-child soldier in Somalia",
-      "excerpt": "Yusuf Ali, now 34, struggles with his memories living in Mogadishu surrounded by dark reminders of his past.",
-      "link": "https://www.bbc.com/news/articles/c98r7zxdxe7o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 23h",
-      "pubDate": 1780788320.0
-    },
-    {
-      "id": "The Guardian--6899417811145818150",
+      "id": "The Guardian-3782633331709087741",
       "source": "The Guardian",
       "title": "‘Historic’: Canadian warehouse workers sign first-ever union deal with Walmart",
       "excerpt": "Union says collective agreement is just the start of a broader fight to unionize major employers across the country Canadian warehouse workers have <a href=\"https://www.unifor.org/news/all-news/unifor...",
@@ -468,7 +468,7 @@
       "pubDate": 1780743603.0
     },
     {
-      "id": "The Guardian-7526610278824164509",
+      "id": "The Guardian-1294101783085232214",
       "source": "The Guardian",
       "title": "Aviation industry looks skywards as leaders fly in for Rio summit",
       "excerpt": "Oil tankers may be stuck behind strait of Hormuz, but holding the Iata AGM in Brazil defies warnings of impending shortages Nothing says jet fuel crisis, as one prospective attender put it, like flyin...",
@@ -477,7 +477,7 @@
       "pubDate": 1780736405.0
     },
     {
-      "id": "The Guardian-6019226415476047101",
+      "id": "The Guardian-3540755496554617838",
       "source": "The Guardian",
       "title": "Ebola spread in central Africa could match 2014 record outbreak, US health officials say",
       "excerpt": "Modelling from US CDC shows Ebola spread could be on ‘dangerous trajectory’, but experts warn outbreaks can be very hard to predict <a href=\"https://www.theguardian.com/world/2026/may/29/who-chief-ted...",
@@ -486,7 +486,7 @@
       "pubDate": 1780719697.0
     },
     {
-      "id": "The Guardian-8531716918559968619",
+      "id": "The Guardian--5176426917661566897",
       "source": "The Guardian",
       "title": "‘Family values’ African charter condemned by rights groups as regressive and dangerous",
       "excerpt": "Draft treaty claims sexual and reproductive health and rights are an existential threat to the African family An African treaty that rejects longstanding international human rights obligations moved a...",
@@ -495,7 +495,7 @@
       "pubDate": 1780646429.0
     },
     {
-      "id": "The Guardian-7224799805773917945",
+      "id": "The Guardian--8309551075360217139",
       "source": "The Guardian",
       "title": "US imposes new sanctions on Cuban president and Castro family members",
       "excerpt": "US secretary of state Marco Rubio says anyone providing services to listed entities ‘is at risk of sanctions themselves’ The United States has announced fresh economic sanctions on Cuba’s president an...",
@@ -504,7 +504,7 @@
       "pubDate": 1780621635.0
     },
     {
-      "id": "The Guardian--5176123061072340203",
+      "id": "The Guardian--5630850804504210354",
       "source": "The Guardian",
       "title": "Canada endorses embattled marine park’s plan to relocate 30 beluga whales",
       "excerpt": "Beluga whales, which Marineland threatened to euthanize in 2025, will be moved to aquariums in Spain or across US <a href=\"https://www.theguardian.com/world/canada\">Canada</a> and an embattled marine...",
@@ -513,7 +513,7 @@
       "pubDate": 1780594841.0
     },
     {
-      "id": "The Guardian--8810765032564777719",
+      "id": "The Guardian-4425399424173039251",
       "source": "The Guardian",
       "title": "Experts criticise plan for American-only Ebola quarantine centre in Kenya",
       "excerpt": "Plan departs from policy of bringing CDC staff back to US for treatment and offering support to all health workers Former top US officials and other experts are urging the Trump administration to aban...",
@@ -522,7 +522,7 @@
       "pubDate": 1780576206.0
     },
     {
-      "id": "The Guardian-2984624184723086486",
+      "id": "The Guardian--4008146711549041829",
       "source": "The Guardian",
       "title": "Civilians flee as Somali troops and opposition-allied militias trade fire in Mogadishu",
       "excerpt": "Violence flares before protests on Thursday over president’s decision to remain in office after his term expired Fierce clashes have taken place between government troops and militias allied with the...",
@@ -531,7 +531,7 @@
       "pubDate": 1780573933.0
     },
     {
-      "id": "The Guardian-3399298050815257706",
+      "id": "The Guardian-7309786661820404429",
       "source": "The Guardian",
       "title": "Rebel attacks in eastern DRC kill 30 people and hamper Ebola response",
       "excerpt": "Islamic State-linked militia blamed for raids in North Kivu as governor says three patients with disease fled clinics Rebel attacks around a town that is one of the centres of the Ebola outbreak in th...",
@@ -540,5 +540,5 @@
       "pubDate": 1780545625.0
     }
   ],
-  "lastUpdate": "2026-06-07T22:51:43.689851"
+  "lastUpdate": "2026-06-07T23:53:12.194776"
 }
