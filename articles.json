@@ -1,21 +1,39 @@
 {
   "francophone": [
     {
-      "id": "Libération--7795339910236746488",
+      "id": "Le Monde--5756603137528074610",
+      "source": "Le Monde",
+      "title": "« La guerre de l’IA a commencé » : le blocage du dernier modèle d’Anthropic par les Etats-Unis inquiète en France et en Europe",
+      "excerpt": "La start-up américaine a désactivé son dernier modèle d’IA, Mythos 5, à la demande de Washington. Une décision vue d’Europe comme l’illustration de la puissance américaine sur le secteur et de la volo...",
+      "link": "https://www.lemonde.fr/pixels/article/2026/06/13/la-guerre-de-l-ia-a-commence-le-blocage-du-dernier-modele-d-anthropic-par-les-etats-unis-inquiete-en-france-et-en-europe_6702060_4408996.html",
+      "time": "Il y a 58 min",
+      "pubDate": 1781387117.0
+    },
+    {
+      "id": "France Info--4354054490379750982",
+      "source": "France Info",
+      "title": "Barrages de Top 14 : à l'issue d'un gros combat, le Racing 92 s'impose face à Pau et rejoint le Stade toulousain en demi-finales",
+      "excerpt": "Les Racingmen ont infligé à la Section paloise leur première défaite à domicile de la saison, samedi soir.",
+      "link": "https://www.franceinfo.fr/sports/rugby/top-14/barrages-de-top-14-a-l-issue-d-un-gros-combat-le-racing-92-s-impose-face-a-pau-et-rejoint-le-stade-toulousain-en-demi-finales_8059481.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1781386753.0
+    },
+    {
+      "id": "Libération-7723518362547204745",
       "source": "Libération",
       "title": "EN DIRECT - Coupe du monde, jour 3 : face à la Suisse, mieux vaut Qatar que jamais",
       "excerpt": "Matchs, reportages, portraits… Retrouvez toute l’actualité de la Coupe du monde 2026 au fil de la journée par nos envoyés spéciaux en Amérique du Nord et nos journalistes sportifs.",
       "link": "https://www.liberation.fr/sports/football/en-direct-coupe-du-monde-jour-3-un-premier-choc-a-venir-avec-le-match-bresil-maroc-20260613_XTWTMXFIZVBYDPRB6IVD5KR454/",
-      "time": "Il y a 14 min",
+      "time": "Il y a 1h",
       "pubDate": 1781385916.0
     },
     {
-      "id": "Le Monde--743557239028938770",
+      "id": "Le Monde-6454573483352400109",
       "source": "Le Monde",
       "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump affirme que la signature d’un accord avec l’Iran est prévue pour dimanche",
       "excerpt": "Une fois l’accord signé, « le détroit d’Ormuz sera ouvert à tous », a ajouté le président américain, peu après que la diplomatie iranienne a écarté la possibilité d’une signature au cours des prochain...",
       "link": "https://www.lemonde.fr/international/live/2026/06/13/en-direct-guerre-au-moyen-orient-donald-trump-affirme-que-la-signature-d-un-accord-avec-l-iran-est-prevue-pour-dimanche_6701050_3210.html",
-      "time": "Il y a 15 min",
+      "time": "Il y a 1h",
       "pubDate": 1781385897.0,
       "sources": [
         "Le Monde",
@@ -25,401 +43,392 @@
       "sourceCount": 2
     },
     {
-      "id": "Libération--4503528672946601257",
+      "id": "Libération--882422386679263709",
       "source": "Libération",
       "title": "La Sécurité : «J’aime bien quand l’écriture est en mouvement»",
       "excerpt": "Guitariste et chanteuse du groupe «art punk» québécois, Melissa Di Menna est aussi illustratrice. C’est elle qui a réalisé la pochette de leur deuxième album en s’inspirant, comme elle le raconte, de...",
       "link": "https://www.liberation.fr/culture/musique/la-securite-jaime-bien-quand-lecriture-est-en-mouvement-20260613_NPNWFO66IJDDBACYVFXIM3HKDQ/",
-      "time": "Il y a 20 min",
+      "time": "Il y a 1h",
       "pubDate": 1781385600.0
     },
     {
-      "id": "Libération-1936857700567332821",
+      "id": "Libération--4432773000728601244",
       "source": "Libération",
       "title": "A Aubervilliers, Glucksmann promet de «ramener la gauche au pouvoir» et lance le match avec Mélenchon",
       "excerpt": "L’aspirant candidat à la présidentielle, toujours non-officiellement déclaré, a réuni environ 4 000 personnes, et affiché ses soutiens lors d’un meeting en Seine-Saint-Denis samedi 13 juin.",
       "link": "https://www.liberation.fr/politique/a-aubervilliers-glucksmann-promet-de-ramener-la-gauche-au-pouvoir-et-lance-le-match-avec-melenchon-20260613_WB3TP2ULMRE3RBSOJBM6ZNLNXY/",
-      "time": "Il y a 29 min",
+      "time": "Il y a 1h",
       "pubDate": 1781385036.0
     },
     {
-      "id": "France Info--6943782721859531948",
-      "source": "France Info",
-      "title": "Barrages de Top 14 : à l'issue d'un gros combat, le Racing 92 s'impose face à Pau et rejoint le Stade toulousain en demi-finales",
-      "excerpt": "Les Racingmen ont infligé à la Section paloise leur première défaite à domicile de la saison, samedi soir.",
-      "link": "https://www.franceinfo.fr/sports/rugby/top-14/barrages-de-top-14-a-l-issue-d-un-gros-combat-le-racing-92-s-impose-face-a-pau-et-rejoint-le-stade-toulousain-en-demi-finales_8059481.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 45 min",
-      "pubDate": 1781384095.0
+      "id": "Le Monde-3948306641660436240",
+      "source": "Le Monde",
+      "title": "EN DIRECT, Brésil-Maroc : Vinicius relance la Seleçao après l’ouverture du score des Lions de l’Atlas",
+      "excerpt": "C’est le match que tout le monde attend, ou presque, depuis le début de ce Mondial : la Seleçao, quintuple vainqueure du tournoi, affronte les Lions de l’Atlas, demi-finalistes de l’édition 2022 au Qa...",
+      "link": "https://www.lemonde.fr/sport/live/2026/06/13/en-direct-bresil-maroc-suivez-en-direct-le-match-de-la-coupe-du-monde-de-football_6702026_3242.html",
+      "time": "Il y a 2h",
+      "pubDate": 1781380809.0
     },
     {
-      "id": "Le Monde-2558228912265153340",
+      "id": "Le Monde-6026451035590436511",
       "source": "Le Monde",
       "title": "Italie : l’extrême droite a manifesté pour la « remigration » à Rome",
       "excerpt": "Au même moment, l’ex-général Roberto Vannacci constituait son parti « Futuro Nazionale », samedi 13 juin, se positionnant encore à droite de la coalition ultraconservatrice de la présidente du Conseil...",
       "link": "https://www.lemonde.fr/international/article/2026/06/13/italie-l-extreme-droite-a-manifeste-pour-la-remigration-a-rome_6702025_3210.html",
-      "time": "Il y a 1h",
-      "pubDate": 1781379769.0
+      "time": "Il y a 3h",
+      "pubDate": 1781379768.0
     },
     {
-      "id": "France Info--7921593705939011998",
+      "id": "France Info-4417354410500992234",
       "source": "France Info",
       "title": "La famille du journaliste Christophe Gleizes, détenu en Algérie, regrette l'absence de soutien des stars du foot français",
       "excerpt": "La mère et le beau-père du journaliste ont confirmé, samedi sur France 5, avoir envoyé des messages à Kylian Mbappé, Karim Benzema et Zinedine Zidane pour leur demander un soutien officiel.",
       "link": "https://www.franceinfo.fr/culture/livres/emprisonnement-du-journaliste-christophe-gleizes-en-algerie/la-famille-du-journaliste-christophe-gleizes-detenu-en-algerie-regrette-l-absence-de-soutien-des-stars-du-foot-francais_8059391.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1781376271.0
     },
     {
-      "id": "Libération-8301754332066655691",
+      "id": "Libération-7331061531021304105",
       "source": "Libération",
       "title": "«Les cœurs sont lourds» : à Metz, dans le sillage du meurtre de Noahm, une Pride aux airs de marche blanche",
       "excerpt": "La 22e Marche des fiertés s’est tenue à Metz ce samedi, dans un contexte alourdi par la mort de Noahm. L’histoire de ce jeune homme gay de 19 ans, battu à mort le 30 mai, était dans toutes les têtes....",
       "link": "https://www.liberation.fr/societe/sexualite-et-genres/les-coeurs-sont-lourds-a-metz-dans-le-sillage-du-meurtre-de-noahm-une-pride-aux-airs-de-marche-blanche-20260613_DAUF3BZAGRFE7KDP7MAWDDCHSU/",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1781374812.0
     },
     {
-      "id": "Libération--8428187624457243165",
+      "id": "Libération-3645408343535527709",
       "source": "Libération",
       "title": "Indépendance des procureurs : Edouard Philippe veut revenir sur une loi de Taubira",
       "excerpt": "Dans un entretien au «Parisien», le candidat Horizons à la présidentielle détaille les mesures qu’il compte prendre, s’il est élu, pour lutter contre les violences faites aux enfants. Et défend Gérald...",
       "link": "https://www.liberation.fr/politique/independance-des-procureurs-edouard-philippe-veut-revenir-sur-une-loi-de-taubira-20260613_KU73R5EJMNE7FIH5RQ6I6V55NQ/",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1781373509.0
     },
     {
-      "id": "Le Monde-6577662257637750390",
+      "id": "Le Monde--6655891048553038780",
       "source": "Le Monde",
       "title": "A Metz, la Marche des fiertés rend hommage à Noahm, 19 ans, mort à la suite de sa violente agression",
       "excerpt": "Noahm, jeune homme homosexuel, a été agressé dans la nuit du 29 au 30 mai, à Metz, avant de mourir le 2 juin des suites de ses blessures. Jeudi, l’enquête pour meurtre a été élargie pour y inclure la...",
       "link": "https://www.lemonde.fr/societe/article/2026/06/13/a-metz-la-marche-des-fiertes-rend-hommage-a-noahm-19-ans-mort-a-la-suite-de-sa-violente-agression_6701956_3224.html",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1781372012.0
     },
     {
-      "id": "Libération--8905323276197057327",
+      "id": "Libération--5304153586817407496",
       "source": "Libération",
       "title": "Guerre au Moyen-Orient : Trump affirme que le détroit d’Ormuz sera ouvert «immédiatement» après la signature de l’accord",
       "excerpt": "Alors que la diplomatie iranienne a écarté la possibilité d’une signature imminente du protocole d’accord entre les deux pays, le président américain continue de soutenir qu’elle est toujours «prévue...",
       "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-un-accord-entre-les-etats-unis-et-liran-sur-le-point-detre-conclu-20260613_SLM7SINV65AXNB4T7UU5VGKRTE/",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1781370945.0
     },
     {
-      "id": "Libération--3529083640376945622",
+      "id": "Libération--1914137940584706570",
       "source": "Libération",
       "title": "Le nom de Trump retiré du Kennedy Center de Washington",
       "excerpt": "La façade de la prestigieuse salle de spectacle ne portera plus le nom de Donald Trump, en application d’une décision de justice.",
       "link": "https://www.liberation.fr/international/amerique/le-nom-de-trump-retire-du-kennedy-center-de-washington-20260613_PYY7AR3PXFCCRI2MYMYHJXL4EQ/",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1781370151.0
     },
     {
-      "id": "Le Monde-375608930030079352",
-      "source": "Le Monde",
-      "title": "Qatar-Suisse : les Qataris égalisent dans le temps additionnel et décrochent le premier point de leur histoire au Mondial",
-      "excerpt": "Le pays du Golfe est revenu à la marque dans les derniers instants, samedi, face à des Helvètes ayant semblé en maîtrise (1-1). Quatre ans après avoir organisé la Coupe du monde 2022, le Qatar obtient...",
-      "link": "https://www.lemonde.fr/sport/live/2026/06/13/en-direct-qatar-suisse-suivez-le-match-de-la-coupe-du-monde-de-football_6701919_3242.html",
-      "time": "Il y a 4h",
-      "pubDate": 1781370009.0
-    },
-    {
-      "id": "France Info-5827637509883576247",
+      "id": "France Info--3425360879141463964",
       "source": "France Info",
       "title": "Affaire Lyhanna : les accusations de violences sexuelles visant la famille de Jérôme Barella, reflet des mécanismes ordinaires de l'inceste",
       "excerpt": "En marge des poursuites judiciaires contre le suspect du meurtre de la collégienne de 11 ans, son frère et son père sont également mis en cause dans d'autres affaires de pédocriminalité ou de viols su...",
       "link": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/affaire-lyhanna-les-accusations-de-violences-sexuelles-visant-la-famille-de-jerome-barella-reflet-des-mecanismes-ordinaires-de-l-inceste_8057660.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1781369973.0
     },
     {
-      "id": "Libération-208544786686625258",
+      "id": "Libération--5901483524973291528",
       "source": "Libération",
       "title": "Donald Trump et Volodymyr Zelensky se retrouveront au G7 d’Evian",
       "excerpt": "Les présidents américain et ukrainien se verront en Haute-Savoie pour parler d’Ukraine, confirme la Maison Blanche.",
       "link": "https://www.liberation.fr/international/europe/donald-trump-et-volodymyr-zelensky-se-retrouveront-au-g7-devian-20260613_D62IKALLEFHRVDK6ODRJ7TI2TY/",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1781366617.0
     },
     {
-      "id": "Le Monde-6703149082415630853",
+      "id": "Le Monde--9188091048431376158",
       "source": "Le Monde",
       "title": "Gildas Brégain, historien du handicap : « Le concept d’autonomie est récent, mais cette aspiration a toujours existé »",
       "excerpt": "Le codirecteur du livre « Histoires des handicaps à travers les siècles » analyse l’évolution des droits et de la place accordée aux personnes infirmes, sourdes ou atteintes de troubles psychiques dan...",
       "link": "https://www.lemonde.fr/sciences/article/2026/06/13/gildas-bregain-historien-du-handicap-le-concept-d-autonomie-est-recent-mais-cette-aspiration-a-toujours-existe_6701852_1650684.html",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1781366418.0
     },
     {
-      "id": "Le Monde-4512290917916129521",
+      "id": "Le Monde--2875305730683021207",
       "source": "Le Monde",
       "title": "Avec « A Palmares », Gayl Jones rouvre les plaies du Brésil colonial et esclavagiste du XVIIᵉ siècle",
       "excerpt": "Dans un roman subjugant, l’écrivaine américaine raconte l’épopée d’Almeyda, une jeune esclave noire en quête de sens et de liberté.",
       "link": "https://www.lemonde.fr/livres/article/2026/06/13/avec-a-palmares-gayl-jones-rouvre-les-plaies-du-bresil-colonial-et-esclavagiste-du-xvii-siecle_6701849_3260.html",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1781366413.0
     },
     {
-      "id": "Le Monde-7902529137478857821",
+      "id": "Le Monde-1538829537912751507",
       "source": "Le Monde",
       "title": "A l’issue du G7, Donald Trump dînera à Versailles avec Emmanuel Macron, selon l’Elysée",
       "excerpt": "Ce dîner prévu pour mercredi célébrera le 250ᵉ anniversaire de l’indépendance des Etats-Unis dans un « haut lieu de l’amitié franco-américaine, où fut signé en 1783 le traité consacrant » la naissance...",
       "link": "https://www.lemonde.fr/international/article/2026/06/13/a-l-issue-du-g7-donald-trump-dinera-a-versailles-avec-emmanuel-macron-selon-l-elysee_6701851_3210.html",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1781366406.0
     },
     {
-      "id": "France Info--1362576508054191194",
+      "id": "France Info-8718832336112893163",
       "source": "France Info",
       "title": "Pourquoi les résumés des matchs de la Coupe du monde diffusés en ligne par BeIN Sports durent à peine une minute",
       "excerpt": "Organisées de l'autre côté de l'Atlantique, certaines rencontres de la Coupe du monde se jouent en pleine nuit. Et certains supporters français se plaignent de résumés trop courts. Le principal diffus...",
       "link": "https://www.franceinfo.fr/coupe-du-monde/pourquoi-les-resumes-des-matchs-de-la-coupe-du-monde-diffuses-en-ligne-par-bein-sports-durent-a-peine-une-minute_8059061.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1781366187.0
     },
     {
-      "id": "Libération-5198481793721584737",
+      "id": "Libération-3005521437993029135",
       "source": "Libération",
       "title": "La «guerre de l’IA» s’invite dans la campagne présidentielle",
       "excerpt": "L’interdiction de Washington faite à «tout ressortissant étranger» d’utiliser des modèles d’intelligence artificielle réveille plusieurs candidats sur la question de la souveraineté numérique.",
       "link": "https://www.liberation.fr/politique/la-guerre-de-lia-sinvite-dans-la-campagne-presidentielle-20260613_64625DCZYNH3ZMXANRBPCFMQPA/",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1781365835.0
     },
     {
-      "id": "Libération-7241019351467637057",
+      "id": "Libération-6406083940277736532",
       "source": "Libération",
       "title": "Dix choses à savoir pour faire semblant d’être calé en Coupe du monde tout en n’y connaissant rien",
       "excerpt": "Le foot ne vous intéresse pas plus que ça mais vous sentez que vous n’allez pas y échapper pendant quelques semaines. Courage, on vous a prévu quelques répliques pour briller sur le canapé ou à la mac...",
       "link": "https://www.liberation.fr/sports/football/dix-choses-a-savoir-pour-faire-semblant-detre-cale-en-coupe-du-monde-tout-en-ny-connaissant-rien-20260613_LFBJQSZAZRH7TOONPSJISSJQ6Y/",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1781365500.0
     },
     {
-      "id": "France Info--6062477031316170304",
+      "id": "France Info--6872267845463539513",
       "source": "France Info",
       "title": "\"Les journées plus longues sont un facteur aggravant\" : pourquoi l'épisode de chaleur qui débute est différent de celui de mai",
       "excerpt": "Fin mai, la France avait déjà connu une vague de chaleur historique. Près de deux semaines plus tard, les températures élevées sont de retour. Malgré certaines similitudes, ce nouvel épisode de chaleu...",
       "link": "https://www.franceinfo.fr/environnement/meteo/les-journees-plus-longues-sont-un-facteur-aggravant-pourquoi-l-episode-de-chaleur-qui-debute-est-different-de-celui-de-mai_8052437.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1781365433.0
     },
     {
-      "id": "Le Monde-4153090031583316368",
+      "id": "Le Monde-2184989239270300136",
       "source": "Le Monde",
       "title": "En Thaïlande, le poison invisible des mines birmanes menace le Mékong et ses riverains",
       "excerpt": "Pour alimenter la transition énergétique mondiale, l’extraction sauvage des minéraux critiques a explosé en Birmanie. Elle entraîne une crise environnementale et sanitaire dans les rivières du nord de...",
       "link": "https://www.lemonde.fr/planete/article/2026/06/13/en-thailande-le-poison-invisible-des-mines-birmanes-menace-le-mekong-et-ses-riverains_6701814_3244.html",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1781362805.0
     },
     {
-      "id": "France Info-7698645764622197938",
+      "id": "France Info-5885482425109998809",
       "source": "France Info",
       "title": "Tour Auvergne-Rhône-Alpes : Paul Seixas voit le classement général s'éloigner après une chute sur la 7e étape, l'Australien Luke Tuckwell sauve son maillot jaune",
       "excerpt": "Le Mexicain Isaac Del Toro a remporté, en solitaire, la 7e étape du Tour Auvergne-Rhône-Alpes, samedi, au Grand Colombier, dans le Jura.",
       "link": "https://www.franceinfo.fr/sports/cyclisme/criterium-du-dauphine/tour-auvergne-rhone-alpes-paul-seixas-voit-le-classement-general-s-eloigner-apres-une-chute-sur-la-7e-etape-l-australien-luke-tuckwell-sauve-son-maillot-jaune_8059064.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 6h",
+      "time": "Il y a 8h",
       "pubDate": 1781361789.0
     },
     {
-      "id": "France Info-2473888475431205182",
+      "id": "France Info-1943475378436219680",
       "source": "France Info",
       "title": "Le nombre de blessés et morts civils en Ukraine a atteint un niveau record en quatre ans, annonce l'ONU",
       "excerpt": "Une mission des Nations unies a recensé au moins 274 civils tués et 1 763 blessés au fil du mois de mai en Ukraine.",
       "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-nombre-de-blesses-et-morts-civils-en-ukraine-a-atteint-un-niveau-record-en-quatre-ans-annonce-l-onu_8059133.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1781360964.0
     },
     {
-      "id": "France Info--3516147912551576722",
+      "id": "France Info--7100302921359789689",
       "source": "France Info",
       "title": "Affaire Patrick Bruel : deux nouvelles plaintes déposées contre le chanteur pour viol, tentative de viol et agression sexuelle",
       "excerpt": "\"Ces plaintes viendront s'ajouter aux faits auxquels le chanteur devra répondre\", a déclaré l'avocate des deux victimes. Le chanteur et acteur a été mis en examen mercredi pour des faits similaires et...",
       "link": "https://www.franceinfo.fr/culture/musique/patrick-bruel/affaire-de-violences-sexuelles/affaire-patrick-bruel-deux-nouvelles-plaintes-deposees-contre-le-chanteur-pour-viol-tentative-de-viol-et-agression-sexuelle_8058869.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1781358658.0
     },
     {
-      "id": "France Info-2974726853138119609",
+      "id": "France Info--8598589780971594101",
       "source": "France Info",
       "title": "Un narcotrafiquant français visé par une notice rouge d'Interpol arrêté en Colombie",
       "excerpt": "Ce narcotrafiquant est le chef d'une organisation criminelle transnationale qui faisait entrer en Europe, par les mers et par les airs, de la drogue transitant par la Colombie, le Mexique, la Républiq...",
       "link": "https://www.franceinfo.fr/societe/drogue/info-franceinfo-trafic-de-drogue-un-narcotrafiquant-francais-vise-par-une-notice-rouge-d-interpol-arrete-en-colombie_8059079.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 8h",
+      "time": "Il y a 9h",
       "pubDate": 1781355882.0
     },
     {
-      "id": "Le Monde-8312049182452524022",
-      "source": "Le Monde",
-      "title": "Violences après le sacre du PSG : loin de bandes organisées, la justice dresse le constat d’actes spontanés d’auteurs aux « profils diversifiés »",
-      "excerpt": "La victoire du Paris Saint-Germain en finale de la Ligue des champions, le 30 mai, avait été suivie de débordements. Les interpellations et les comparutions immédiates qui ont suivi donnent une image...",
-      "link": "https://www.lemonde.fr/societe/article/2026/06/13/violences-apres-le-sacre-du-psg-loin-de-bandes-organisees-la-justice-dresse-le-constat-d-actes-spontanes-d-auteurs-aux-profils-diversifies_6701670_3224.html",
-      "time": "Il y a 11h",
-      "pubDate": 1781346607.0
-    },
-    {
-      "id": "Le Monde-6839014300738282904",
+      "id": "Le Monde--8648913891666270850",
       "source": "Le Monde",
       "title": "Au Royaume-Uni, la renaissance de Manchester, une réussite revendiquée par son maire, Andy Burnham, rival de Keir Starmer",
       "excerpt": "L’édile travailliste gouverne depuis 2017 la métropole anglaise qui, après un long déclin post-industriel, a renoué avec un dynamisme impulsé par ses derniers maires. Le 18 juin, Andy Burnham tentera...",
       "link": "https://www.lemonde.fr/international/article/2026/06/13/au-royaume-uni-la-renaissance-de-manchester-une-reussite-revendiquee-par-son-maire-andy-burnham-rival-de-keir-starmer_6701308_3210.html",
-      "time": "Il y a 18h",
+      "time": "Il y a 19h",
       "pubDate": 1781321420.0
     }
   ],
   "anglophone": [
     {
-      "id": "NPR-9000341158805235525",
+      "id": "BBC News-5879532616276639172",
+      "source": "BBC News",
+      "title": "Ticketmaster says Knicks fans won't be locked out of game after last-minute panic",
+      "excerpt": "An note on the Ticketmaster website for buying tickets to the game caused confusion and backlash among New Yorkers.",
+      "link": "https://www.bbc.com/news/articles/c5yz7gj4x3yo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 26 min",
+      "pubDate": 1781389028.0
+    },
+    {
+      "id": "BBC News-403112103365786795",
+      "source": "BBC News",
+      "title": "Vincent's parents 'never say he's good enough' - so he turned to a middle-aged couple online",
+      "excerpt": "A niche group of content creators called \"virtual parents\" have become hugely popular among young people.",
+      "link": "https://www.bbc.com/news/articles/cpq3dnr5vlzo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 38 min",
+      "pubDate": 1781388324.0
+    },
+    {
+      "id": "NPR--2469013382321683025",
       "source": "NPR",
       "title": "Police investigate theft of England equipment at World Cup, 2 people in custody",
       "excerpt": "Two people have been detained in connection with the theft of equipment from the England national team's vehicles during their move from a pre-training base in Florida to Kansas City, where they have...",
       "link": "https://www.npr.org/2026/06/13/g-s1-128070/police-investigate-england-equipment-world-cup-kansas-city-florida",
-      "time": "Il y a 29 min",
+      "time": "Il y a 1h",
       "pubDate": 1781385059.0
     },
     {
-      "id": "NPR--8887756469425100843",
+      "id": "NPR--9091106976735818028",
       "source": "NPR",
       "title": "As Bay Area hosts World Cup, empty red seats are everywhere at Levi's Stadium",
       "excerpt": "On Friday, FIFA blamed the empty seats during the World Cup match between South Korea and the Czech Republic in Guadalajara on fans who watched from the concourses. Levi's Stadium staged the Super Bow...",
       "link": "https://www.npr.org/2026/06/13/g-s1-128068/bay-area-world-cup-empty-red-seats-levis-stadium",
-      "time": "Il y a 33 min",
+      "time": "Il y a 1h",
       "pubDate": 1781384796.0
     },
     {
-      "id": "NPR-7376460627150025968",
+      "id": "NPR-2993856259812324938",
       "source": "NPR",
       "title": "A Lebanon town's grief in the aftermath of a deadly Israeli airstrike",
       "excerpt": "More than 3,700 people in Lebanon have died in the war between Israel and Hezbollah. In a village in southern Lebanon, one airstrike last month killed 14 people, including 10 women and children.",
       "link": "https://www.npr.org/2026/06/13/nx-s1-5848614/a-lebanon-towns-grief-in-the-aftermath-of-a-deadly-israeli-airstrike",
-      "time": "Il y a 37 min",
+      "time": "Il y a 1h",
       "pubDate": 1781384573.0
     },
     {
-      "id": "BBC News--7044324930914561063",
+      "id": "BBC News-8658303241326432796",
       "source": "BBC News",
       "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
       "excerpt": "The US president's comments come as Iran says an exact date has not been decided, but it \"will not be tomorrow\".",
       "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1781375966.0
     },
     {
-      "id": "BBC News-2681203415307930404",
+      "id": "BBC News-7694455710557048410",
       "source": "BBC News",
       "title": "Trump's name removed from Kennedy Center after court order",
       "excerpt": "Crews erected scaffolding on Friday as onlookers gathered into the evening, though storms delayed the work until Saturday.",
       "link": "https://www.bbc.com/news/articles/c5yzd4dgxw4o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1781370023.0
     },
     {
-      "id": "BBC News-5034000582128848982",
+      "id": "BBC News--4850144845163489806",
       "source": "BBC News",
       "title": "Anthropic suspends new AI tools over US government security concerns",
       "excerpt": "Anthropic's Claude Fable 5, released publicly this week, sparked concerns about cybersecurity and hacking.",
       "link": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1781368118.0
     },
     {
-      "id": "BBC News-4146554612257332764",
+      "id": "BBC News--7522849128273830187",
       "source": "BBC News",
       "title": "Kidnapped Nigerian retired general dies in captivity",
       "excerpt": "Maj Gen Rabe Abubakar's death highlights continuing security challenges facing parts of the country.",
       "link": "https://www.bbc.com/news/articles/cvgq4veq2eqo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1781364309.0
     },
     {
-      "id": "BBC News--1660493366225044318",
+      "id": "BBC News--2403725955289666187",
       "source": "BBC News",
       "title": "Woman seriously injured in shark attack at Sydney beach",
       "excerpt": "The woman, 35, was pulled from the water by members of the public and then airlifted to hospital, police say.",
       "link": "https://www.bbc.com/news/articles/c3ryw807133o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1781364265.0
     },
     {
-      "id": "NPR-7101746575459027245",
+      "id": "NPR-6539625631214805485",
       "source": "NPR",
       "title": "4 things to know about the new sunscreen ingredient the FDA approved",
       "excerpt": "The Food and Drug Administration approved a new sunscreen ingredient in the U.S. for the first time in 20 years. It's been used for decades in Europe and Asia.",
       "link": "https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol",
-      "time": "Il y a 9h",
+      "time": "Il y a 10h",
       "pubDate": 1781352000.0
     },
     {
-      "id": "BBC News--7079950059957220387",
+      "id": "BBC News--3661331811953134541",
       "source": "BBC News",
       "title": "Switzerland to vote on plan to cap population at 10 million",
       "excerpt": "The right-wing Swiss People's Party calls the plan a \"sustainability initiative\",  but opponents say it is a recipe for chaos.",
       "link": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 9h",
+      "time": "Il y a 10h",
       "pubDate": 1781351262.0
     },
     {
-      "id": "NPR--696109948796932043",
+      "id": "NPR--7866600837909915432",
       "source": "NPR",
       "title": "A plan to get lifesaving food to hungry kids was working well -- until it wasn't",
       "excerpt": "Through an innovative program, parents in Senegal had easy access to a therapeutic food that's a boon for malnourished kids. Now there are shortages. Health specialists say U.S. aid cuts are to blame.",
       "link": "https://www.npr.org/2026/06/13/nx-s1-5787791/malnourished-children-senegal-therapeutic-food-plumpynut",
-      "time": "Il y a 10h",
+      "time": "Il y a 11h",
       "pubDate": 1781348858.0
     },
     {
-      "id": "NPR--5235948334322808585",
+      "id": "NPR-6490297167229446817",
       "source": "NPR",
       "title": "'Cool Ladies Club' is directed by 10 working-class women. They live up to the title",
       "excerpt": "They gave smartphones to 10 women from a working-class Indian community to make a documentary about their unseen and unheralded lives. The results are .... pretty cool.",
       "link": "https://www.npr.org/2026/06/13/g-s1-125467/cool-ladies-club-movies-working-class-women-documentary-india",
-      "time": "Il y a 10h",
+      "time": "Il y a 11h",
       "pubDate": 1781348205.0
     },
     {
-      "id": "NPR-1848323578217723287",
+      "id": "NPR-839210634549419513",
       "source": "NPR",
       "title": "COMIC: How excessive heat kills and how to stay safe",
       "excerpt": "Human bodies have a natural cooling system, but it can do only so much in high temperatures and humidity. Here's the science behind how heat kills. And how to protect yourself.",
       "link": "https://www.npr.org/2026/06/13/g-s1-126350/heat-wave-safety-weather-heatstroke",
-      "time": "Il y a 11h",
+      "time": "Il y a 12h",
       "pubDate": 1781344800.0
     },
     {
-      "id": "BBC News-1487079452828064815",
+      "id": "BBC News--6910930060020162260",
       "source": "BBC News",
       "title": "Married at First Sight Australia stars not told partners had drug and violence convictions",
       "excerpt": "Stars of the hit TV show say they did not know their on-screen husbands had previous convictions.",
       "link": "https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 16h",
+      "time": "Il y a 17h",
       "pubDate": 1781326804.0
     },
     {
-      "id": "NPR-7340453926927595395",
+      "id": "NPR-1783130050006138177",
       "source": "NPR",
       "title": "Pope Leo XIV's flight home from Spain was grounded so the king came to his aid",
       "excerpt": "Leo's Iberia charter, due to take him back to Rome after a weeklong visit to Spain, was grounded by a technical problem Friday, prompting Spain's king to offer his private jet instead.",
       "link": "https://www.npr.org/2026/06/13/nx-s1-5856981/pope-leo-flight-grounded",
-      "time": "Il y a 17h",
+      "time": "Il y a 18h",
       "pubDate": 1781324978.0
     },
     {
-      "id": "BBC News-1243858655731001252",
-      "source": "BBC News",
-      "title": "US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says",
-      "excerpt": "Niño Guerrero was killed in a \"swift and lethal kinetic strike,\" the US President wrote in a social media post.",
-      "link": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 17h",
-      "pubDate": 1781323747.0
-    },
-    {
-      "id": "NPR--2229512972803766568",
+      "id": "NPR-7876034372059162297",
       "source": "NPR",
       "title": "Trump says U.S. military strike killed leader of Tren de Aragua gang",
       "excerpt": "President Trump said Friday that a U.S. strike has killed Hector Rusthenford Guerrero Flores, whom he called \"the infamous leader\" of the Tren de Aragua gang in Venezuela.",
       "link": "https://www.npr.org/2026/06/12/nx-s1-5856611/u-s-military-kill-leader-tren-de-aragua",
-      "time": "Il y a 18h",
+      "time": "Il y a 19h",
       "pubDate": 1781321934.0,
       "sources": [
         "NPR",
@@ -429,34 +438,25 @@
       "sourceCount": 2
     },
     {
-      "id": "NPR-2678253875817898020",
+      "id": "NPR--674714929076287139",
       "source": "NPR",
       "title": "Gene Shalit, longtime 'Today' show movie critic, dies at 100",
       "excerpt": "Known for his puffy hair, oversized handlebar mustache and a love for puns, Gene Shalit joined <em>Today</em> in 1970 and became arts editor in 1973. He was a middle-of-the-road critic, known for his...",
       "link": "https://www.npr.org/2026/06/12/g-s1-128022/gene-shalit-movie-critic-dies",
-      "time": "Il y a 20h",
+      "time": "Il y a 21h",
       "pubDate": 1781312494.0
     },
     {
-      "id": "BBC News--2649942119077158832",
+      "id": "BBC News--814657316663814456",
       "source": "BBC News",
       "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
       "excerpt": "Musk is now worth $1.11tn according to the Bloomberg rich list, while SpaceX listed on the Nasdaq stock exchange with a value of $2.2tn.",
       "link": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 23h",
+      "time": "Il y a 1j",
       "pubDate": 1781301652.0
     },
     {
-      "id": "BBC News--6577381229675797336",
-      "source": "BBC News",
-      "title": "Fans on concourses instead of in seats, claims Fifa",
-      "excerpt": "Fifa says numerous empty seats were visible in the near-sell-out Group A match between South Korea and the Czech Republic because of fans remaining on concourses.",
-      "link": "https://www.bbc.com/sport/football/articles/c14y0dp6vrdo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 1j",
-      "pubDate": 1781295983.0
-    },
-    {
-      "id": "The Guardian--876808359914597872",
+      "id": "The Guardian-488601440316867935",
       "source": "The Guardian",
       "title": "Canada police investigate whether Toronto police death linked to global terror attacks",
       "excerpt": "Constable Marc Pinizzotto, 43, was killed while executing search warrants related to a shooting at US consulate Authorities in Canada are investigating whether the killing of a Toronto police officer...",
@@ -465,7 +465,7 @@
       "pubDate": 1781287717.0
     },
     {
-      "id": "The Guardian--60276217245303798",
+      "id": "The Guardian--4450437273087945351",
       "source": "The Guardian",
       "title": "An ideological tug-of-war: the pressures facing Iran’s World Cup squad in US",
       "excerpt": "Flag bans, travel headaches and a religious regime video among bumps in road, as team prepares to be first to play in country with which it is at war Iran will present a major challenge to Fifa’s “foo...",
@@ -474,7 +474,7 @@
       "pubDate": 1781269245.0
     },
     {
-      "id": "The Guardian-2770301376341454667",
+      "id": "The Guardian-4900479115917985690",
       "source": "The Guardian",
       "title": "Weather tracker: heat, humidity and thunderstorms a danger at World Cup",
       "excerpt": "With matches in 16 cities across the US, Mexico and Canada, players and fans face an array of weather-related challenges With the 2026 World Cup now under way, all 48 teams face a common opposition: s...",
@@ -483,7 +483,7 @@
       "pubDate": 1781253614.0
     },
     {
-      "id": "The Guardian--5469458768456968716",
+      "id": "The Guardian--2270012466767284561",
       "source": "The Guardian",
       "title": "Canadian mother sues OpenAI, alleging ChatGPT led her daughter to kill herself",
       "excerpt": "Suit filed in US alleges chatbot told Alice Carrier, 24, ‘maybe this is just the end’ as she struggled with suicidal thoughts A Canadian mother sued OpenAI and its CEO, Sam Altman, in US court on Thur...",
@@ -492,7 +492,7 @@
       "pubDate": 1781205286.0
     },
     {
-      "id": "The Guardian--6710586406699127736",
+      "id": "The Guardian--3872305124112446143",
       "source": "The Guardian",
       "title": "London council seizes social housing flat rented by Sierra Leone first lady",
       "excerpt": "Fatima Jabbe-Bio kept tenancy in Southwark despite living for much of year at presidential lodge in Freetown A social housing flat rented by Sierra Leone’s first lady has been seized by a London counc...",
@@ -501,7 +501,7 @@
       "pubDate": 1781191155.0
     },
     {
-      "id": "The Guardian--7786046476815996428",
+      "id": "The Guardian--6378241260302284667",
       "source": "The Guardian",
       "title": "Trump targeting immigrants from countries hit most by climate shocks",
       "excerpt": "A Guardian analysis reveals how most of 39 countries facing US entry restrictions are most vulnerable environmentally <ul><li><a href=\"https://www.theguardian.com/us-news/2026/jun/10/climate-change-cr...",
@@ -510,7 +510,7 @@
       "pubDate": 1781096420.0
     },
     {
-      "id": "The Guardian--1561094856220119171",
+      "id": "The Guardian-3696952281832980430",
       "source": "The Guardian",
       "title": "Global brands ‘likely’ using mineral that funds rebels accused of atrocities in DRC, investigation finds",
       "excerpt": "Amazon and Sony among firms that may have sourced coltan, used in phones, from supply chains controlled by the M23 rebels, says Global Witness Leading global brands including Amazon, Ericsson and Sony...",
@@ -519,7 +519,7 @@
       "pubDate": 1781067611.0
     },
     {
-      "id": "The Guardian--7740275674178685876",
+      "id": "The Guardian-8518368381929124862",
       "source": "The Guardian",
       "title": "Man shot dead during protest against proposed US Ebola quarantine facility in Kenya",
       "excerpt": "Police dispersed demonstrators in Nanyuki, 120 miles from Nairobi, amid rising anger at US plans Kenyan police have shot dead a man during a protest against a proposed Ebola quarantine facility for US...",
@@ -528,14 +528,14 @@
       "pubDate": 1781025200.0
     },
     {
-      "id": "The Guardian--8638745770295138100",
+      "id": "The Guardian-4902790249080487891",
       "source": "The Guardian",
       "title": "Bandits in north-west Nigeria abduct villagers they invited to discuss peace talks",
       "excerpt": "Thirty-nine people taken near Magamin Diddi village in Maradun municipality, north-west Zamfara state, police say Armed bandits in north-west Nigeria abducted dozens of villagers whom they invited to...",
       "link": "https://www.theguardian.com/world/2026/jun/08/bandits-in-north-west-nigeria-abduct-villagers-they-invited-to-discuss-peace-talks",
-      "time": "Il y a 4j",
+      "time": "Il y a 5j",
       "pubDate": 1780956824.0
     }
   ],
-  "lastUpdate": "2026-06-13T21:40:04.190286"
+  "lastUpdate": "2026-06-13T22:43:49.352147"
 }
