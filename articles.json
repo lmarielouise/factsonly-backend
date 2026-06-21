@@ -1,432 +1,456 @@
 {
   "francophone": [
     {
-      "id": "Libération-4950524115430204133",
+      "id": "Le Monde-3328745779712047715",
+      "source": "Le Monde",
+      "title": "EN DIRECT, guerre en Ukraine : les tensions entre l’Ukraine et la Pologne sont « une erreur stratégique dont les deux parties pâtiront », regrette le premier ministre polonais, Donald Tusk",
+      "excerpt": "En réaction à l’hommage rendu par Kiev à des nationalistes ukrainiens du XXᵉ siècle accusés de massacres en Pologne, le président polonais a retiré la plus haute distinction de son pays à Volodymyr Ze...",
+      "link": "https://www.lemonde.fr/international/live/2026/06/21/en-direct-guerre-en-ukraine-les-tensions-entre-l-ukraine-et-la-pologne-sont-une-erreur-strategique-dont-les-deux-parties-patiront-regrette-le-premier-ministre-polonais-donald-tusk_6702230_3210.html",
+      "time": "Il y a 9 min",
+      "pubDate": 1782054673.0
+    },
+    {
+      "id": "Libération--100856392538949342",
+      "source": "Libération",
+      "title": "EN DIRECT - Canicule : la moitié de la France en vigilance rouge lundi",
+      "excerpt": "La chaleur continue de s’intensifier ce dimanche, avec 80 départements concernés par une alerte, soit 53 millions de personnes. Lundi, 49 départements passeront en vigilance rouge.",
+      "link": "https://www.liberation.fr/environnement/climat/en-direct-canicule-60-departements-en-vigilance-orange-pres-de-6-francais-sur-10-concernes-20260620_6HH2KFLD6ZACNLOXT5VGQBGROY/",
+      "time": "Il y a 17 min",
+      "pubDate": 1782054236.0
+    },
+    {
+      "id": "Libération--5847985993272475331",
+      "source": "Libération",
+      "title": "Grégory Doucet, maire écologiste de Lyon : «A gauche, on a un besoin impératif de se réunir»",
+      "excerpt": "A l’heure du bilan de ses cent jours à la tête de la ville et à un an de la présidentielle, le maire de Lyon appelle à une primaire à gauche. Il réagit également à l’affaire des violences sexuelles qu...",
+      "link": "https://www.liberation.fr/politique/gregory-doucet-maire-ecologiste-de-lyon-a-gauche-on-a-un-besoin-imperatif-de-se-reunir-20260621_WG5X5JJXEZEWXOYFNGBPZVRHBY/",
+      "time": "Il y a 18 min",
+      "pubDate": 1782054140.0
+    },
+    {
+      "id": "France Info-1762638982967930379",
+      "source": "France Info",
+      "title": "En Suisse, le vice-président américain, J.D. Vance, salue une \"rencontre historique\" avec l'Iran et appelle à \"tourner une nouvelle page\"",
+      "excerpt": "Des pourparlers ont lieu dimanche dans un complexe hôtelier de luxe des Alpes suisses, afin de finaliser un protocole d'accord mettant fin aux hostilités au Moyen-Orient.",
+      "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/en-suisse-le-vice-president-americain-j-d-vance-salue-une-rencontre-historique-avec-l-iran-et-appelle-a-tourner-une-nouvelle-page_8072732.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 23 min",
+      "pubDate": 1782053833.0
+    },
+    {
+      "id": "Libération-4798171760594029391",
+      "source": "Libération",
+      "title": "Vigilance rouge canicule : pratique sportive, vente d’alcool, écoles… Quelles sont les principales mesures décidées par les autorités ?",
+      "excerpt": "La Fête de la musique, maintenue dans la plupart des villes, est fortement perturbée par les fortes chaleurs. On fait le point sur les différentes mesures de prévention et d’interdiction prises par le...",
+      "link": "https://www.liberation.fr/societe/police-justice/vigilance-rouge-canicule-pratique-sportive-vente-dalcool-ecoles-quelles-sont-les-principales-mesures-decidees-par-les-autorites-20260621_42YJESIQ7VGR3PYMZ22DTIM7KQ/",
+      "time": "Il y a 34 min",
+      "pubDate": 1782053173.0
+    },
+    {
+      "id": "Libération-1174186189844940891",
+      "source": "Libération",
+      "title": "Morton Feldman : les 100 ans d’un monstre secret de la musique contemporaine",
+      "excerpt": "Le festival ManiFeste de l’Ircam célèbre le centenaire de l’Américain, compositeur révolutionnaire, dont les œuvres aussi captivantes qu’énigmatiques laissent une grande liberté d’interprétation aux m...",
+      "link": "https://www.liberation.fr/culture/musique/morton-feldman-les-100-ans-dun-monstre-secret-de-la-musique-contemporaine-20260621_I25NMXCCANFRLOXT7QPAWHP5JY/",
+      "time": "Il y a 46 min",
+      "pubDate": 1782052500.0
+    },
+    {
+      "id": "Libération--5990854153009844250",
+      "source": "Libération",
+      "title": "EN DIRECT - Guerre au Moyen-Orient : Donald Trump menace de frapper l’Iran si ses alliés au Liban continuent de «causer des problèmes»",
+      "excerpt": "Les pourparlers entre représentants américains et iraniens ont débuté ce dimanche en Suisse. Au Liban, l’armée israélienne a cessé ses frappes meurtrières mais affirme qu’elle continuera à occuper le...",
+      "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-malgre-le-cessez-le-feu-des-bombardements-israeliens-font-cinq-morts-dans-le-sud-du-liban-20260620_2R247JCD5BFZJOFPHAHDZRAKS4/",
+      "time": "Il y a 51 min",
+      "pubDate": 1782052148.0,
+      "sources": [
+        "Libération",
+        "Le Monde"
+      ],
+      "multiSource": true,
+      "sourceCount": 2
+    },
+    {
+      "id": "France Info-6169766138126645684",
+      "source": "France Info",
+      "title": "Canicule : 14 départements supplémentaires passent en vigilance rouge pour la journée de lundi, soit 49 concernés au total",
+      "excerpt": "Mathieu Lefèvre, ministre de la Transition écologique, s'est exprimé depuis le siège de Météo-France, dimanche. Pour les jours suivants, il parle d'un \"épisode profondément précoce et profondément int...",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-une-chaleur-exceptionnelle-attendue-avec-35-departements-en-vigilance-rouge-a-partir-de-midi-45-autres-en-vigilance-orange_8072255.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1782051365.0
+    },
+    {
+      "id": "France Info--7129492405853226296",
+      "source": "France Info",
+      "title": "En raison de la canicule, 845 écoles et collèges ferment lundi, 1 800 autres aménageront leurs horaires",
+      "excerpt": "Sur les 60 000 établissements scolaires en France, les fermetures sont décrétées \"principalement dans les départements en vigilance rouge\".",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/en-raison-de-la-canicule-845-ecoles-et-colleges-ferment-lundi-1-800-autres-amenageront-leurs-horaires_8072681.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1782051245.0
+    },
+    {
+      "id": "Le Monde-6832694687474099821",
+      "source": "Le Monde",
+      "title": "EN DIRECT, canicule : le gouvernement annonce 49 départements en vigilance rouge lundi",
+      "excerpt": "« On n’envisage pas de baisse des températures d’ici à la fin de semaine », a déclaré Mathieu Lefèvre, le ministre délégué auprès de la transition écologique. Quelque 53 millions de Français sont conc...",
+      "link": "https://www.lemonde.fr/planete/live/2026/06/21/en-direct-canicule-le-gouvernement-annonce-49-departements-en-vigilance-rouge-lundi-54-en-orange_6704498_3244.html",
+      "time": "Il y a 1h",
+      "pubDate": 1782050556.0
+    },
+    {
+      "id": "Le Monde--4766403407762615781",
+      "source": "Le Monde",
+      "title": "Mort de James Burrows, réalisateur incontournable de séries, de « Friends » à « The Big Bang Theory »",
+      "excerpt": "Le réalisateur aux 11 Emmy Awards, et à l’origine de succès populaires comme le « Mary Tyler Moore Show » ou « Cheers », a redéfini les contours de la sitcom américaine moderne.",
+      "link": "https://www.lemonde.fr/disparitions/article/2026/06/21/mort-de-james-burrows-realisateur-incontournable-de-series-de-friends-a-the-big-bang-theory_6706098_3382.html",
+      "time": "Il y a 1h",
+      "pubDate": 1782049538.0
+    },
+    {
+      "id": "Libération-1271664513446606838",
       "source": "Libération",
       "title": "La police découvre un tableau volé de Picasso lors d’une descente pour trafic de drogues dans le Val-de-Marne",
       "excerpt": "La toile représente Marie-Thérèse Walter, qui a été l’une des compagnes du peintre espagnol. Sa valeur est estimée entre 12 et 15 millions d’euros.",
       "link": "https://www.liberation.fr/societe/police-justice/la-police-decouvre-un-tableau-vole-de-picasso-lors-dune-descente-pour-trafic-de-drogues-dans-le-val-de-marne-20260621_OV3O27LLSBF53F2NUVYD2TJJXA/",
-      "time": "Il y a 5 min",
+      "time": "Il y a 2h",
       "pubDate": 1782048044.0
     },
     {
-      "id": "Libération--8668355770984299595",
-      "source": "Libération",
-      "title": "EN DIRECT - Canicule : 845 écoles et collèges fermés lundi, 1 800 établissements adaptent leurs horaires",
-      "excerpt": "La chaleur continue de s’intensifier ce dimanche, avec 80 départements concernés par une alerte, soit 53 millions de personnes. Des pointes à 41 degrés sont attendues par endroits.",
-      "link": "https://www.liberation.fr/environnement/climat/en-direct-canicule-60-departements-en-vigilance-orange-pres-de-6-francais-sur-10-concernes-20260620_6HH2KFLD6ZACNLOXT5VGQBGROY/",
-      "time": "Il y a 23 min",
-      "pubDate": 1782046959.0
-    },
-    {
-      "id": "Libération-4505846848325255021",
+      "id": "Libération--1720921295179712479",
       "source": "Libération",
       "title": "En quoi la canicule d’août 2003 ressemble à celle de juin 2026 que nous sommes sur le point de traverser ?",
       "excerpt": "Il y a plus de 20 ans, l’épisode de deux semaines en plein été était inédit et avait surpris le pays alors que personne n’y était préparé, entraînant plus de 15 000 morts, notamment des personnes âgée...",
       "link": "https://www.liberation.fr/environnement/climat/a-quoi-a-ressemble-la-canicule-daout-2003-a-laquelle-celle-de-juin-2026-est-comparee-20260619_WF7RUO5URJGODH4P5MKAU63MAM/",
-      "time": "Il y a 25 min",
+      "time": "Il y a 2h",
       "pubDate": 1782046852.0
     },
     {
-      "id": "Le Monde--7499572279987051291",
+      "id": "Le Monde--1708040754001548925",
       "source": "Le Monde",
-      "title": "Canicule et climatisation : le règlement de copropriété l’emporte sur les impératifs de santé",
-      "excerpt": "Une veuve de 76 ans ayant subi trois accidents vasculaires cérébraux n’obtient pas l’autorisation d’installer un compresseur sur sa terrasse.",
-      "link": "https://www.lemonde.fr/argent/article/2026/06/21/canicule-et-climatisation-le-reglement-de-copropriete-l-emporte-sur-les-imperatifs-de-sante_6706092_1657007.html",
-      "time": "Il y a 32 min",
-      "pubDate": 1782046457.0
+      "title": "« Les intellectuels et les médias de masse continuent d’ignorer les supporteurs, toujours considérés comme des éléments vulgaires et indésirables »",
+      "excerpt": "Les universitaires Philippe Marlière et Fabrice Montebello déplorent, dans une tribune au « Monde », que la critique du « sport business » ignore le rôle des spectateurs dans le fait que les stades so...",
+      "link": "https://www.lemonde.fr/idees/article/2026/06/21/les-intellectuels-et-les-medias-de-masse-continuent-d-ignorer-les-supporteurs-toujours-consideres-comme-des-elements-vulgaires-et-indesirables_6706093_3232.html",
+      "time": "Il y a 2h",
+      "pubDate": 1782046810.0
     },
     {
-      "id": "Libération-5101891700196152482",
+      "id": "Le Monde-6885001952036003652",
+      "source": "Le Monde",
+      "title": "Canicule et climatisation : le règlement de copropriété l’emporte sur les considérations de santé",
+      "excerpt": "Une veuve de 76 ans ayant subi trois accidents vasculaires cérébraux n’obtient pas l’autorisation d’installer un compresseur sur sa terrasse.",
+      "link": "https://www.lemonde.fr/argent/article/2026/06/21/canicule-et-climatisation-le-reglement-de-copropriete-l-emporte-sur-les-imperatifs-de-sante_6706092_1657007.html",
+      "time": "Il y a 2h",
+      "pubDate": 1782046454.0
+    },
+    {
+      "id": "Libération-169118987548509422",
       "source": "Libération",
       "title": "Déscolarisation : un système d’alerte sera créé à la rentrée, après la séquestration d’un enfant dans une camionnette",
       "excerpt": "Quand un élève quittera un établissement sans être rescolarisé dans un autre, son directeur d’école sera prévenu afin de pouvoir faire un signalement, a annoncé le ministre de l’Education ce dimanche.",
       "link": "https://www.liberation.fr/societe/police-justice/descolarisation-un-systeme-dalerte-sera-cree-a-la-rentree-apres-la-sequestration-dun-enfant-dans-une-camionnette-20260621_PEEA4R4LP5HXBFFNRCBNC3PIZU/",
-      "time": "Il y a 32 min",
+      "time": "Il y a 2h",
       "pubDate": 1782046442.0
     },
     {
-      "id": "Libération-8282247514749220412",
+      "id": "Libération-8733976506834202928",
       "source": "Libération",
       "title": "Affaire Lyhanna : comment fonctionnent les sanctions contre les magistrats en cas de manquements ?",
       "excerpt": "Alors que les conclusions du rapport d’inspection doivent être rendues ce lundi 22 juin, on ignore encore si Gérald Darmanin demandera des sanctions. Même si le garde des Sceaux a le dernier mot en la...",
       "link": "https://www.liberation.fr/societe/police-justice/affaire-lyhanna-comment-fonctionnent-les-sanctions-contre-les-magistrats-en-cas-de-manquements-20260621_KPKZIG4CTJFPHGLBBPN75EOODU/",
-      "time": "Il y a 34 min",
+      "time": "Il y a 2h",
       "pubDate": 1782046283.0
     },
     {
-      "id": "Libération--3668225709973563169",
+      "id": "Libération--6492626031862413118",
       "source": "Libération",
       "title": "«La Bayadère» à l’Opéra Bastille, un ballet en Orient massif",
       "excerpt": "Récit des amours contrariées d’un guerrier et d’une danseuse indienne, le chef-d’œuvre de Marius Petipas et adapté par Rudolf Noureev est repris à l’Opéra de Paris. Une production luxueuse qui mêle gr...",
       "link": "https://www.liberation.fr/culture/scenes/la-bayadere-a-lopera-bastille-un-ballet-en-orient-massif-20260621_G6FNRDC3FZFB3CCZPS6XCTLVRY/",
-      "time": "Il y a 38 min",
+      "time": "Il y a 2h",
       "pubDate": 1782046059.0
     },
     {
-      "id": "Libération--6419524862219419180",
-      "source": "Libération",
-      "title": "Brésil : le leader autochtone Raoni opéré avec succès d’une occlusion intestinale",
-      "excerpt": "Défenseur emblématique de la forêt amazonienne, le cacique avait été hospitalisé en urgence il y a une semaine. Il trouve désormais en unité de soins intensifs dans un hôpital de São Paulo.",
-      "link": "https://www.liberation.fr/international/amerique/bresil-le-leader-autochtone-raoni-opere-avec-succes-dune-occlusion-intestinale-20260621_NG7OKS2HP5H4XBUHWIQ5UQA32Q/",
-      "time": "Il y a 52 min",
-      "pubDate": 1782045257.0
-    },
-    {
-      "id": "France Info--8714858183792588587",
-      "source": "France Info",
-      "title": "Frappes israéliennes, trafic maritime, pourparlers menacés… Ce que l'on sait de la nouvelle \"fermeture\" du détroit d'Ormuz par l'Iran",
-      "excerpt": "En représailles à des frappes meurtrières d'Israël au Liban cette fin de semaine, Téhéran a annoncé samedi \"fermer\" à nouveau cette voie maritime stratégique du golfe Persique, où transitaient 20% des...",
-      "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/frappes-israeliennes-trafic-maritime-pourparlers-menaces-ce-que-l-on-sait-de-la-nouvelle-fermeture-du-detroit-d-ormuz-par-l-iran_8072348.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
-      "pubDate": 1782044401.0
-    },
-    {
-      "id": "Libération--693146469412203258",
-      "source": "Libération",
-      "title": "Coupe du monde : les Irakiens tous unis derrière leurs «Lions de Mésopotamie» avant leur match contre les Bleus",
-      "excerpt": "Après une défaite contre la Norvège, l’équipe d’Irak affrontera les Français lundi 22 juin. Qualifiés pour la deuxième fois après quarante ans d’absence, les joueurs agissent comme un ferment d’unité...",
-      "link": "https://www.liberation.fr/sports/football/coupe-du-monde-les-irakiens-tous-unis-derriere-leurs-lions-de-mesopotamie-avant-leur-match-contre-les-bleus-20260621_PNIOM5KYP5DPRHKO6CPYY23C3Q/",
-      "time": "Il y a 1h",
-      "pubDate": 1782043200.0
-    },
-    {
-      "id": "Libération-3064621347576906518",
-      "source": "Libération",
-      "title": "Marc Bloch au Panthéon : pour résister à la pente identitaire, il faut «faire coïncider connaissance et reconnaissance»",
-      "excerpt": "La panthéonisation de l’historien, fusillé par les Allemands parce que résistant, banni de la France par Vichy parce que juif, doit permettre de parler de façon claire des démons qui traversent le pay...",
-      "link": "https://www.liberation.fr/politique/marc-bloch-au-pantheon-pour-resister-a-la-pente-identitaire-il-faut-faire-coincider-connaissance-et-reconnaissance-20260621_CHG2VUQYLNCCJBXD6UPRNHVPVE/",
-      "time": "Il y a 1h",
-      "pubDate": 1782042180.0
-    },
-    {
-      "id": "Libération--8974595102472835710",
-      "source": "Libération",
-      "title": "Royaume-Uni : le roi Charles va publier sa feuille d’impôts pour l’année 2024 et 2025",
-      "excerpt": "Dans un effort de modernisation, le souverain britannique, dont la fortune avait été évaluée à 1,8 milliard de livres par «The Guardian» en 2023, rendra public le montant de ses impôts dans les procha...",
-      "link": "https://www.liberation.fr/international/europe/royaume-uni-le-roi-charles-va-publier-sa-feuille-dimpots-pour-lannee-2024-et-2025-20260621_VZYSVQAYB5HUPMBJWEHVX7ESOQ/",
-      "time": "Il y a 1h",
-      "pubDate": 1782042161.0
-    },
-    {
-      "id": "Le Monde--7319241309081778732",
-      "source": "Le Monde",
-      "title": "Coupe du monde 2026 : pourquoi Didier Deschamps veut absolument que l’équipe de France termine première de son groupe",
-      "excerpt": "Les Bleus ont rendez-vous avec l’Irak, lundi, pour leur deuxième match dans le tournoi. Bien que le duel semble déséquilibré, le sélectionneur, qui se projette déjà sur la suite de la compétition, a d...",
-      "link": "https://www.lemonde.fr/sport/article/2026/06/21/coupe-du-monde-2026-pourquoi-dider-deschamps-veut-absolument-que-l-equipe-de-france-termine-premiere-de-son-groupe_6706055_3242.html",
-      "time": "Il y a 1h",
-      "pubDate": 1782041404.0
-    },
-    {
-      "id": "France Info--1397869492519177397",
+      "id": "France Info--6742834100410497029",
       "source": "France Info",
       "title": "\"C'est super dangereux\" : à Montreuil, les bouches à incendie continuent d'être ouvertes pour se rafraîchir malgré les risques et les interdictions",
       "excerpt": "Quand la température dépasse les 40°C le jeu d'ouvrir des bouches à incendies est tentant. Cela a même un nom, le \"street pooling\", la baignade en pleine rue. Mais c’est illégal et dangereux, rappelle...",
       "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/reportage-c-est-super-dangereux-a-montreuil-les-bouches-a-incendie-continuent-d-etre-ouvertes-pour-se-rafraichir-malgre-les-risques-et-les-interdictions_8072525.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
+      "time": "Il y a 4h",
       "pubDate": 1782039044.0
     },
     {
-      "id": "Le Monde--3616664224623525430",
-      "source": "Le Monde",
-      "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky confirme des attaques ukrainiennes sur des installations logistiques russes en Crimée annexée",
-      "excerpt": "La vente de carburant a été suspendue, dimanche, dans les stations-service en Crimée, où des attaques de drones ukrainiens ont fait quatre morts.",
-      "link": "https://www.lemonde.fr/international/live/2026/06/21/en-direct-guerre-en-ukraine-volodymyr-zelensky-confirme-des-attaques-ukrainiennes-sur-des-installations-logistiques-russes-en-crimee-annexee_6702230_3210.html",
-      "time": "Il y a 2h",
-      "pubDate": 1782038538.0
-    },
-    {
-      "id": "France Info--2986782548921398244",
-      "source": "France Info",
-      "title": "Canicule : \"845 écoles et collèges seront fermés en France\" lundi, annonce le ministre de l'Education nationale",
-      "excerpt": "Ces établissements \"n'accueilleront pas d'élèves ou [proposeront] un accueil minimal\", a précisé sur France 3 Edouard Geffray.",
-      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-une-chaleur-exceptionnelle-attendue-avec-35-departements-en-vigilance-rouge-a-partir-de-midi-45-autres-en-vigilance-orange_8072255.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
-      "pubDate": 1782038098.0
-    },
-    {
-      "id": "France Info-74315947335463037",
+      "id": "France Info--8684204582452113993",
       "source": "France Info",
       "title": "La région Île-de-France débloque une aide exceptionnelle d'un million d'euros pour ses lycées centres d'examen en raison de la canicule",
       "excerpt": "L'enveloppe sera dédiée à l'achat de \"brumisateurs, ventilateurs et tout autre équipement de rafraîchissement nécessaire pour protéger les lycéens et les personnels durant les pics de chaleur\", précis...",
       "link": "https://www.franceinfo.fr/bac/la-region-ile-de-france-debloque-une-aide-exceptionnelle-d-un-million-d-euros-pour-ses-lycees-centres-d-examen-en-raison-de-la-canicule_8072549.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
+      "time": "Il y a 4h",
       "pubDate": 1782037930.0
     },
     {
-      "id": "Le Monde--5966035637205899100",
-      "source": "Le Monde",
-      "title": "EN DIRECT, guerre au Moyen-Orient : les négociations entre l’Iran et les Etats-Unis sous médiation pakistanaise ont commencé en Suisse",
-      "excerpt": "Tandis que l’Iran a affirmé que le Liban serait le « principal » sujet des pourparlers, Israël a déclaré que ses troupes allaient rester dans la zone qu’elles occupent dans le Sud.",
-      "link": "https://www.lemonde.fr/international/live/2026/06/21/en-direct-guerre-au-moyen-orient-l-iran-affirme-que-le-liban-sera-le-principal-sujet-des-pourparlers-avec-les-etats-unis-organises-en-suisse_6705272_3210.html",
-      "time": "Il y a 3h",
-      "pubDate": 1782036271.0
-    },
-    {
-      "id": "France Info-6897683655115004967",
+      "id": "France Info-5265779300692078300",
       "source": "France Info",
       "title": "\"Ça fait du bien d'avoir un peu de fraîcheur\" : pour échapper à la canicule, la ville de Lyon propose des musées climatisés et gratuits",
       "excerpt": "La ville a ouvert gratuitement trois musées climatisés depuis samedi : le musée d'Art Contemporain, le Musée Gadagne et le Musée des Beaux Arts, en plein centre-ville. Une initiative qui réjouit les v...",
       "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/reportage-ca-fait-du-bien-d-avoir-un-peu-de-fraicheur-pour-echapper-a-la-canicule-la-ville-de-lyon-propose-des-musees-climatises-et-gratuits_8072408.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 3h",
+      "time": "Il y a 5h",
       "pubDate": 1782035641.0
     },
     {
-      "id": "France Info--508180544364831629",
+      "id": "France Info-1945645066733440262",
       "source": "France Info",
       "title": "Canicule 2003 : La catastrophe qui a changé notre regard sur le climat",
       "excerpt": "Quelle a été la plus grosse catastrophe naturelle causée par le réchauffement climatique en France ? Question de Maëlle 13 ans et réponse d’Aglaé Jézéquel, chercheuse en climatologie.",
       "link": "https://www.franceinfo.fr/environnement/crise-climatique/canicule-2003-la-catastrophe-qui-a-change-notre-regard-sur-le-climat_7999358.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 3h",
+      "time": "Il y a 5h",
       "pubDate": 1782034846.0
     },
     {
-      "id": "Le Monde--459615973838804248",
+      "id": "Le Monde-2103536380175553520",
       "source": "Le Monde",
-      "title": "En direct, canicule : Emmanuel Macron appelle à rester « collectivement attentifs à nos aînés, à nos enfants et aux personnes isolées »",
-      "excerpt": "Quelque 53 millions de Français sont concernés dimanche par les vigilances rouge, dans 35 départements, et orange, dans 45 autres. La Fête de la musique s’annonce perturbée.",
-      "link": "https://www.lemonde.fr/planete/live/2026/06/21/en-direct-canicule-la-sncf-recommande-aux-personnes-vulnerables-d-eviter-de-prendre-le-train_6704498_3244.html",
-      "time": "Il y a 3h",
-      "pubDate": 1782034580.0
+      "title": "Des milliers de personnes manifestent contre le racisme à Paris à l’appel de LFI, avant le concert prévu place de la République",
+      "excerpt": "Le concert organisé par La France insoumise doit se dérouler, dimanche 21 juin, à Paris, à partir de 18 heures, à l’issue d’une marche contre le racisme organisée à 14 heures à Barbès.",
+      "link": "https://www.lemonde.fr/politique/article/2026/06/21/le-concert-de-lfi-pour-cette-fete-de-la-musique-antiraciste-prevu-a-paris_6705822_823448.html",
+      "time": "Il y a 5h",
+      "pubDate": 1782034458.0
     },
     {
-      "id": "France Info-6052134821501845873",
-      "source": "France Info",
-      "title": "En pleine canicule, Les Ecologistes lancent une pétition sur le congé climatique",
-      "excerpt": "Cette proposition s'inspire de l'Espagne, qui, en novembre 2024, a adopté le principe d'un congé payé de quatre jours.",
-      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-les-ecologistes-lancent-une-petition-sur-le-conge-climatique_8072435.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 3h",
-      "pubDate": 1782034528.0
-    },
-    {
-      "id": "France Info-7297496773829997206",
+      "id": "France Info--7192263254320493197",
       "source": "France Info",
       "title": "Canicule : 250 000 sapeurs-pompiers mobilisés pour faire face aux fortes chaleurs",
       "excerpt": "Ils vont non seulement participer aux \"dispositifs prévisionnels de secours sur les grandes manifestations\" mais aussi effectuer des maraude pour porter assistance \"aux personnes vulnérables\".",
       "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-250-000-sapeurs-pompiers-mobilises-pour-faire-face-aux-fortes-chaleurs_8072456.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 3h",
+      "time": "Il y a 5h",
       "pubDate": 1782034286.0
     },
     {
-      "id": "Le Monde-1839352644797693226",
-      "source": "Le Monde",
-      "title": "Les 80 meilleurs festivals de l’été 2026 : la sélection du « Monde »",
-      "excerpt": "En prendre plein les yeux avec des expositions photographiques, se dégourdir les jambes en dansant sur du hip-hop ou du rock, ou encore se faire masser les tympans par les vibrations d’une contre-bass...",
-      "link": "https://www.lemonde.fr/m-le-mag/article/2026/06/21/les-80-meilleurs-festivals-de-l-ete-2026-la-selection-du-monde_6705789_4500055.html",
-      "time": "Il y a 4h",
-      "pubDate": 1782032412.0
-    },
-    {
-      "id": "Le Monde--898815120662904536",
-      "source": "Le Monde",
-      "title": "« Je ne peux pas, je travaille demain » : l’équilibre fragile des étudiants en horaires décalés",
-      "excerpt": "De la médecine à la pâtisserie, en passant par la grande distribution, les étudiants en horaires décalés jonglent avec des journées denses et des nuits écourtées. Au risque de faire face à un épuiseme...",
-      "link": "https://www.lemonde.fr/campus/article/2026/06/21/je-ne-peux-pas-je-travaille-demain-l-equilibre-fragile-des-etudiants-en-horaires-decales_6705788_4401467.html",
-      "time": "Il y a 4h",
-      "pubDate": 1782032409.0
-    },
-    {
-      "id": "Le Monde-6714943762148560305",
+      "id": "Le Monde--4048749048946360258",
       "source": "Le Monde",
       "title": "Maroc : dans le Rif, la légalisation du cannabis profite encore peu aux producteurs locaux",
       "excerpt": "Adoptée en 2021, la légalisation du cannabis à usage médical et industriel devait transformer une économie longtemps informelle en filière encadrée et porteuse de développement pour les zones montagne...",
       "link": "https://www.lemonde.fr/afrique/article/2026/06/21/maroc-dans-le-rif-la-legalisation-du-cannabis-profite-encore-peu-aux-producteurs-locaux_6705556_3212.html",
-      "time": "Il y a 7h",
+      "time": "Il y a 9h",
       "pubDate": 1782021604.0
     },
     {
-      "id": "France Info--8649507145351645894",
+      "id": "France Info--7189631852549100070",
       "source": "France Info",
       "title": "\"Je dors dans ma voiture\" : pour ne pas rester sur la touche, les supporters de la Coupe du monde doivent passer à la caisse",
       "excerpt": "Ce tournoi de la démesure l'est aussi pour le portefeuille de ceux qui veulent la vivre... même sans voir le moindre match. Fans américains et étrangers ont le sentiment d'être pris pour des tiroirs-c...",
       "link": "https://www.franceinfo.fr/coupe-du-monde/reportage-je-dors-dans-ma-voiture-pour-ne-pas-rester-sur-la-touche-les-supporters-de-la-coupe-du-monde-doivent-passer-a-la-caisse_8066666.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 8h",
+      "time": "Il y a 10h",
       "pubDate": 1782017846.0
     },
     {
-      "id": "Le Monde--7798193555738802931",
+      "id": "Le Monde-2302122748064293721",
       "source": "Le Monde",
-      "title": "Né d’une toile d’araignée, du Soleil ou… du vomi : six mythes sur les origines du monde",
-      "excerpt": "L’astrophysicien Jean-Pierre Luminet a rassemblé des dizaines de récits cosmogoniques recueillis à travers le monde dans un essai volumineux qui vient de paraître. Tantôt poétiques, tantôt insolites,...",
-      "link": "https://www.lemonde.fr/le-monde-des-religions/article/2026/06/21/ne-d-une-toile-d-araignee-du-soleil-ou-du-vomi-six-mythes-sur-les-origines-du-monde_6705453_6038514.html",
-      "time": "Il y a 9h",
-      "pubDate": 1782014452.0
+      "title": "Dominique Simonnot, contrôleuse générale des lieux de privation de liberté : « Ce que je vois en prison dépasse l’entendement »",
+      "excerpt": "« Je ne serais pas arrivée là si… » Chaque semaine, « Le Monde » interroge une personnalité sur un moment décisif de son existence. L’ancienne éducatrice pénitentiaire devenue journaliste revient sur...",
+      "link": "https://www.lemonde.fr/societe/article/2026/06/21/dominique-simonnot-controleuse-generale-des-lieux-de-privation-de-liberte-ce-que-je-vois-en-prison-depasse-l-entendement_6705447_3224.html",
+      "time": "Il y a 11h",
+      "pubDate": 1782014415.0
     },
     {
-      "id": "Le Monde--5409428061543721410",
+      "id": "Le Monde--4806842072738534417",
       "source": "Le Monde",
-      "title": "La défense européenne est-elle devenue, au nom de la souveraineté, un investissement durable ?",
-      "excerpt": "Dans un contexte d’instabilité géopolitique accrue, le financement de sa défense figure parmi les priorités du Vieux Continent, jusqu’à la considérer comme un investissement durable sous l’impulsion d...",
-      "link": "https://www.lemonde.fr/argent/article/2026/06/21/la-defense-europeenne-est-elle-devenue-au-nom-de-la-souverainete-un-investissement-durable_6705448_1657007.html",
-      "time": "Il y a 9h",
-      "pubDate": 1782014408.0
+      "title": "« J’ai la boule au ventre, pas l’énergie mentale de répondre » : quand les messageries deviennent une source d’épuisement",
+      "excerpt": "WhatsApp, Instagram, Signal… Conçues pour nous rapprocher, les messageries instantanées occupent une place centrale dans nos vies sociales. Face à l’injonction à répondre, la multiplication des groupe...",
+      "link": "https://www.lemonde.fr/pixels/article/2026/06/21/j-ai-la-boule-au-ventre-pas-l-energie-mentale-de-repondre-quand-les-messageries-deviennent-une-source-d-epuisement_6705439_4408996.html",
+      "time": "Il y a 12h",
+      "pubDate": 1782011706.0
     },
     {
-      "id": "France Info-4167380890379072594",
+      "id": "France Info--2462377932240221856",
       "source": "France Info",
       "title": "En pleine canicule, la consommation d'alcool dans les rues interdite dans plusieurs villes pour la Fête de la musique",
       "excerpt": "Dans un contexte de canicule, plusieurs communes ont annulé la Fête de la musique, prévue le 21 juin. D'autres préfectures, elles, s'apprêtent à prendre un arrêté stipulant l'interdiction de consommat...",
       "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/en-pleine-canicule-la-consommation-d-alcool-dans-les-rues-interdites-dans-plusieurs-villes-pour-la-fete-de-la-musique_8071910.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 18h",
+      "time": "Il y a 20h",
       "pubDate": 1781982243.0
     }
   ],
   "anglophone": [
     {
-      "id": "BBC News--5965091854771782183",
+      "id": "The Guardian-2862874198395688074",
+      "source": "The Guardian",
+      "title": "Colombians vote in runoff election expected to trigger shift in decades-long armed conflict",
+      "excerpt": "Frontrunner Abelardo de la Espriella has vowed to return to full-scale military confrontation with armed groups <ul><li><a href=\"https://www.theguardian.com/world/2026/jun/20/colombia-presidential-ele...",
+      "link": "https://www.theguardian.com/world/2026/jun/21/colombias-runoff-election-expected-to-trigger-shift-in-decades-long-armed-conflict",
+      "time": "Il y a 36 min",
+      "pubDate": 1782053076.0
+    },
+    {
+      "id": "BBC News-6245817532238484752",
+      "source": "BBC News",
+      "title": "US and Iran begin talks on initial peace deal in Switzerland",
+      "excerpt": "The face-to-face meeting follows ongoing fighting in Lebanon and Iran's claim to have shut the Strait of Hormuz.",
+      "link": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 39 min",
+      "pubDate": 1782052862.0
+    },
+    {
+      "id": "NPR--8581066584137687061",
+      "source": "NPR",
+      "title": "Ukrainian attacks prompt Russian-held Crimea to halt civilian gasoline sales",
+      "excerpt": "Officials in Russia-occupied Crimea suspended civilian gasoline sales Sunday as Ukraine ramped up attacks on fuel supplies on the Black Sea peninsula.",
+      "link": "https://www.npr.org/2026/06/21/g-s1-129200/ukrainian-attacks-russia-crimea-halt-gas-sales",
+      "time": "Il y a 1h",
+      "pubDate": 1782050106.0
+    },
+    {
+      "id": "NPR--7393069600231434557",
+      "source": "NPR",
+      "title": "Trump claims vandals damaged D.C. Reflecting Pool, and says it will be drained again",
+      "excerpt": "The president posted on Truth Social claiming vandals slashed the pool's lining and poured chemicals into the water, saying arrests have been made. He provided no evidence for his claims.",
+      "link": "https://www.npr.org/2026/06/21/nx-s1-5865636/trump-reflecting-pool-dc-vandals-drain-green",
+      "time": "Il y a 1h",
+      "pubDate": 1782049585.0
+    },
+    {
+      "id": "BBC News--6048732627157759856",
       "source": "BBC News",
       "title": "Low-key funeral held for giant of the art world David Hockney",
       "excerpt": "The artist, who passed away at his home in London earlier this month, requested just his partner and great-nephew attend.",
       "link": "https://www.bbc.com/news/articles/cn8q6wxy706o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 17 min",
+      "time": "Il y a 2h",
       "pubDate": 1782047329.0
     },
     {
-      "id": "BBC News--348759579047219543",
+      "id": "NPR--3555101583662115170",
+      "source": "NPR",
+      "title": "Colombia runoff vote shaped by security fears and conflict warnings",
+      "excerpt": "Voters head to a runoff in Colombia Sunday between candidates offering sharply different approaches to armed groups, with the frontrunner calling for intensified military action over peace talks",
+      "link": "https://www.npr.org/2026/06/21/nx-s1-5862783/colombia-election-conflict",
+      "time": "Il y a 3h",
+      "pubDate": 1782043568.0
+    },
+    {
+      "id": "BBC News-9199102050692394158",
       "source": "BBC News",
       "title": "Tight security as Indian students resit medical exam after alleged paper leak",
       "excerpt": "Millions of candidates face biometric checks and frisking as air force deployed to secure exam papers.",
       "link": "https://www.bbc.com/news/articles/cwy0gjqv783o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
+      "time": "Il y a 4h",
       "pubDate": 1782039991.0
     },
     {
-      "id": "BBC News-517730279793040825",
+      "id": "BBC News-6614645538012364097",
       "source": "BBC News",
       "title": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
       "excerpt": "Fuel had already been rationed due to shortages caused by Kyiv's attacks against supply routes in Russian-occupied territories.",
       "link": "https://www.bbc.com/news/articles/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
+      "time": "Il y a 4h",
       "pubDate": 1782039305.0
     },
     {
-      "id": "NPR-420538738921373807",
+      "id": "NPR--7467712197139043813",
       "source": "NPR",
       "title": "A new survey on dads found that 9 out of 10 had a surprising reaction to fatherhood",
       "excerpt": "Men are traditionally thought of as providers for their children. But a report that interviewed thousands of fathers found them embracing another role.",
       "link": "https://www.npr.org/2026/06/21/g-s1-128889/a-new-survey-on-dads-found-that-9-out-of-10-had-a-surprising-reaction-to-fatherhood",
-      "time": "Il y a 2h",
+      "time": "Il y a 4h",
       "pubDate": 1782038328.0
     },
     {
-      "id": "NPR-2031383684580374143",
+      "id": "NPR-8526878397683738609",
       "source": "NPR",
-      "title": "Freed from Cambodia's scam compounds, trafficking victims face a new crisis",
+      "title": "Cambodia cracked down on scams costing Americans billions. It created a new crisis",
       "excerpt": "Cambodia's crackdown on scam centers has created a secondary crisis: thousands of stranded foreign workers are now roaming the streets of Phnom Penh.",
       "link": "https://www.npr.org/2026/06/21/g-s1-128624/freed-from-cambodias-scam-compounds-trafficking-victims-face-a-new-crisis",
-      "time": "Il y a 3h",
+      "time": "Il y a 5h",
       "pubDate": 1782036000.0
     },
     {
-      "id": "BBC News--7252885632364815716",
+      "id": "BBC News--3629395810412428695",
       "source": "BBC News",
       "title": "Dutch royals enjoy two big results in one World Cup day",
       "excerpt": "There may be about 5,000 miles between the Netherlands and their former colony Curacao but members of the Dutch royal family managed to see both sides play on Saturday.",
       "link": "https://www.bbc.com/sport/football/articles/c4gydq973nqo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 3h",
+      "time": "Il y a 5h",
       "pubDate": 1782035157.0
     },
     {
-      "id": "NPR-8349397884688034758",
+      "id": "NPR--2893136252962767741",
       "source": "NPR",
-      "title": "Want to improve your agility? Try these 'explosive power' exercises",
+      "title": "Want to improve your agility? Try these exercises that combine speed and strength",
       "excerpt": "These simple movements combine speed and strength to train your body's ability to rapidly generate force. They can also help prevent injury and boost agility.",
       "link": "https://www.npr.org/2026/06/21/nx-s1-5776814/improve-your-agility-explosive-power-exercises-prevent-injury",
-      "time": "Il y a 4h",
+      "time": "Il y a 6h",
       "pubDate": 1782032400.0
     },
     {
-      "id": "The Guardian-2519401398318026824",
+      "id": "The Guardian-8063765261779494112",
       "source": "The Guardian",
       "title": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
       "excerpt": "For one day every June, South Africa’s searing racial inequality seems to melt away at Comrades race In the early morning dark, thousands of runners waited, jostling with anticipation. South Africa’s...",
       "link": "https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa",
-      "time": "Il y a 5h",
+      "time": "Il y a 7h",
       "pubDate": 1782028824.0
     },
     {
-      "id": "BBC News-532316284014031512",
+      "id": "BBC News-2786927822415562686",
       "source": "BBC News",
       "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
       "excerpt": "Davey Hearn says he was simply touching the new paint at the site out of curiosity and did not remove or alter it.",
       "link": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 6h",
+      "time": "Il y a 8h",
       "pubDate": 1782026214.0
     },
     {
-      "id": "The Guardian-323541816069329314",
+      "id": "The Guardian--7919664457305487956",
       "source": "The Guardian",
       "title": "Canada’s policies force asylum seekers into US to face deportation, critics say",
       "excerpt": "Advocates say the Safe Third Country Agreement forces immigrants to head to an unsafe country: the United States It was the threat of gang violence in <a href=\"https://www.theguardian.com/world/hondur...",
       "link": "https://www.theguardian.com/world/2026/jun/21/canada-immigration-us-deportation",
-      "time": "Il y a 6h",
+      "time": "Il y a 8h",
       "pubDate": 1782025224.0
     },
     {
-      "id": "The Guardian-7620573323655477364",
-      "source": "The Guardian",
-      "title": "Colombia’s runoff election expected to trigger shift in decades-long armed conflict",
-      "excerpt": "Frontrunner Abelardo de la Espriella has vowed to return to full-scale military confrontation with armed groups <ul><li><a href=\"https://www.theguardian.com/world/2026/jun/20/colombia-presidential-ele...",
-      "link": "https://www.theguardian.com/world/2026/jun/21/colombias-runoff-election-expected-to-trigger-shift-in-decades-long-armed-conflict",
-      "time": "Il y a 8h",
-      "pubDate": 1782018022.0
-    },
-    {
-      "id": "BBC News-4598495476221352189",
-      "source": "BBC News",
-      "title": "US-Iran talks begin in Switzerland as Tehran says it closed Strait of Hormuz",
-      "excerpt": "The US disputed Iran's claim the waterway is shut, a move Tehran says was a response to Israeli attacks in Lebanon.",
-      "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 8h",
-      "pubDate": 1782016440.0
-    },
-    {
-      "id": "The Guardian--7296875067309217810",
+      "id": "The Guardian-7188941692249188898",
       "source": "The Guardian",
       "title": "Bolivian president declares state of emergency and deploys military to quell anti-government protests",
       "excerpt": "Bulldozers sent in to clear roadblocks that have stifled the country as farmers and Indigenous groups protest against conservative president  Bolivia’s president declared a state of emergency on Satur...",
       "link": "https://www.theguardian.com/world/2026/jun/21/bolivian-president-declares-state-of-emergency-and-deploys-military-to-quell-anti-government-protests",
-      "time": "Il y a 9h",
+      "time": "Il y a 10h",
       "pubDate": 1782015810.0
     },
     {
-      "id": "BBC News-1315675479544120747",
+      "id": "BBC News--8426055303433173288",
       "source": "BBC News",
       "title": "France bans alcohol at music festival events under red heatwave alert",
       "excerpt": "Annual street parties attended by millions ordered to help “preserve” healthcare services in 40C (104F) heat.",
       "link": "https://www.bbc.com/news/articles/cgmdw4vn7y2o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 12h",
+      "time": "Il y a 14h",
       "pubDate": 1782001791.0
     },
     {
-      "id": "BBC News-9056171707898194744",
+      "id": "BBC News--257641179296198934",
       "source": "BBC News",
       "title": "Colombia's escalating, brutal internal conflict is defining its presidential election",
       "excerpt": "A left-wing senator who backs talks with armed gangs faces an outsider endorsed by Trump.",
       "link": "https://www.bbc.com/news/articles/cvgqv8q1ndpo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 14h",
+      "time": "Il y a 16h",
       "pubDate": 1781997471.0
     },
     {
-      "id": "BBC News-1919057231738200678",
+      "id": "BBC News--4443330060668891851",
       "source": "BBC News",
       "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
       "excerpt": "The Israeli military accused Ahmed Wishah of being a \"Hamas sniper operative\", without providing evidence.",
       "link": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 15h",
+      "time": "Il y a 17h",
       "pubDate": 1781992656.0
     },
     {
-      "id": "NPR-259936624499904068",
+      "id": "NPR-1416372256464773242",
       "source": "NPR",
       "title": "DOJ memo stokes fear among disability advocates of a return to institutionalization",
       "excerpt": "The Justice Department's opinion challenges civil rights protections that have long treated the institutionalization of disabled Americans as a last resort.",
       "link": "https://www.npr.org/2026/06/20/nx-s1-5865100/doj-memo-trump-disability-civil-rights-institutionalization",
-      "time": "Il y a 16h",
+      "time": "Il y a 18h",
       "pubDate": 1781987594.0
     },
     {
-      "id": "The Guardian--3160454987456201942",
+      "id": "The Guardian--8156462811542038435",
       "source": "The Guardian",
       "title": "Ghost of far-right paramilitaries hovers over Colombia’s presidential runoff vote",
       "excerpt": "Colombians will choose on Sunday between two men whose lives have been very differently shaped by the militias, and whose visions for the country are poles apart Whoever wins Sunday’s presidential run...",
@@ -435,7 +459,7 @@
       "pubDate": 1781956801.0
     },
     {
-      "id": "NPR--4914354041575468363",
+      "id": "NPR-943197541843825694",
       "source": "NPR",
       "title": "Opinion: Algae doesn't care about our party lines",
       "excerpt": "President Trump's beautification project of the Lincoln Memorial Reflecting Pool has become plagued with a robust algae bloom, despite a $14 million investment and a coating of \"American flag blue.\"",
@@ -444,7 +468,7 @@
       "pubDate": 1781956800.0
     },
     {
-      "id": "NPR-1109446039684809787",
+      "id": "NPR-4230027438780999035",
       "source": "NPR",
       "title": "These nuns spent a lifetime helping others. In their last years, who will help them?",
       "excerpt": "The sisters of Uganda are teachers, health-care advocates and more. Those who are in their twilight of their life need help. Who will come to their aid?",
@@ -453,7 +477,7 @@
       "pubDate": 1781952309.0
     },
     {
-      "id": "NPR-2347369102196271865",
+      "id": "NPR--167220615862924611",
       "source": "NPR",
       "title": "JD Vance arrives in Switzerland for talks with Iran over fragile peace deal",
       "excerpt": "JD Vance arrived in Switzerland on Sunday for talks with Iranian officials, hoping to consolidate the fragile interim deal to end the war and kickstart fresh discussions over Tehran's nuclear program.",
@@ -462,25 +486,7 @@
       "pubDate": 1781949725.0
     },
     {
-      "id": "NPR--4746962712026453927",
-      "source": "NPR",
-      "title": "Palestinian-American kids find inspiration, and escape, on the soccer pitch",
-      "excerpt": "A dozen miles away from the World Cup games in New York/ New Jersey Stadium, Palestinian-American kids turn to soccer as an escape from the realities of war.",
-      "link": "https://www.npr.org/2026/06/20/nx-s1-5854466/palestinian-american-kids-find-inspiration-and-escape-on-the-soccer-pitch",
-      "time": "Il y a 1j",
-      "pubDate": 1781949600.0
-    },
-    {
-      "id": "NPR-3388679426471175578",
-      "source": "NPR",
-      "title": "A California man's case highlights gaps in care and oversight at DHS detention centers",
-      "excerpt": "Federal officers shot Ricardo Parias eight months ago during an ICE operation to detain him. His lawyer says he is still in pain, highlighting gaps in oversight and care in DHS facilities.<br />",
-      "link": "https://www.npr.org/2026/06/20/nx-s1-5855064/richard-la-parias-ice-detention",
-      "time": "Il y a 1j",
-      "pubDate": 1781946000.0
-    },
-    {
-      "id": "BBC News--6823898432725378833",
+      "id": "BBC News--5956106241237689113",
       "source": "BBC News",
       "title": "African and Caribbean nations call for formal apology for transatlantic slavery",
       "excerpt": "The leaders have asked for apologies from the countries that benefited from the slave trade, as well as debt relief and financial compensation.",
@@ -489,16 +495,7 @@
       "pubDate": 1781922810.0
     },
     {
-      "id": "NPR--8715429530780130747",
-      "source": "NPR",
-      "title": "James Burrows, director of classic shows 'Cheers' and 'Friends,' dies at 85",
-      "excerpt": "Burrows spent his career behind the camera specializing in situation comedies. Few viewers recognized him or knew his name, other than to see it flash quickly on the screen in the opening credits. But...",
-      "link": "https://www.npr.org/2026/06/19/g-s1-129137/james-burrows-death-obit-cheers-friends",
-      "time": "Il y a 1j",
-      "pubDate": 1781903775.0
-    },
-    {
-      "id": "The Guardian-3188526182700812647",
+      "id": "The Guardian--4316154983584360517",
       "source": "The Guardian",
       "title": "Global framework for reparatory justice adopted at landmark Ghana conference",
       "excerpt": "Call for formal apologies from countries that benefited from transatlantic trade slave included in 19-point roadmap <a href=\"https://www.theguardian.com/news/ng-interactive/2023/mar/31/more-than-money...",
@@ -507,7 +504,7 @@
       "pubDate": 1781890005.0
     },
     {
-      "id": "The Guardian-7468739739745407147",
+      "id": "The Guardian-7448572046663023098",
       "source": "The Guardian",
       "title": "CDC to tap $107m in emergency funding for Ebola response in DRC and Uganda",
       "excerpt": "Number of people infected now tops 1,000 though health officials say the global risk remains low <ul><li><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to...",
@@ -516,7 +513,7 @@
       "pubDate": 1781808909.0
     },
     {
-      "id": "The Guardian--178991788284655115",
+      "id": "The Guardian-2469414133686829557",
       "source": "The Guardian",
       "title": "Barbados prime minister announces manifesto for slavery reparations",
       "excerpt": "Updated document, which emphasises harm done to African women, is being considered by other Caribbean countries Barbados’s prime minister, Mia Mottley, has announced a new manifesto from Caribbean lea...",
@@ -525,7 +522,7 @@
       "pubDate": 1781805128.0
     },
     {
-      "id": "The Guardian-236283671264797292",
+      "id": "The Guardian--5105607416596320161",
       "source": "The Guardian",
       "title": "South African men sentenced in ‘world’s largest’ rhino horn trafficking case",
       "excerpt": "‘Mastermind’ Dawie Groenewald given fine of 2m rand or four-year jail term almost 16 years after arrest Two traffickers of rhino horns have been sentenced by a South African court in what police said...",
@@ -534,7 +531,7 @@
       "pubDate": 1781799331.0
     },
     {
-      "id": "The Guardian--7332949827962208114",
+      "id": "The Guardian--6402674765262441453",
       "source": "The Guardian",
       "title": "Cannabis commercialisation not decriminalisation drives up usage, study finds",
       "excerpt": "Review reveals rise in users and rates of psychosis in countries where cannabis is sold commercially   Decriminalising the possession of cannabis or strictly regulating access to the drug do not appea...",
@@ -543,5 +540,5 @@
       "pubDate": 1781735446.0
     }
   ],
-  "lastUpdate": "2026-06-21T13:26:22.790803"
+  "lastUpdate": "2026-06-21T15:21:02.168821"
 }
