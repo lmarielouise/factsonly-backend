@@ -1,504 +1,519 @@
 {
   "francophone": [
     {
-      "id": "France Info-1909480226429988930",
-      "source": "France Info",
-      "title": "Evènements climatiques extrêmes : pour huit communes sur dix, les dépenses d’assurance multirisques ont augmenté entre 2020 et 2024",
-      "excerpt": "Selon l'étude de l'ONG Reclaim Finance, un quart des communes françaises se retrouvent fragilisées par la flambée des tarifs d’assurance et la fréquence des dommages climatiques.",
-      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/evenements-climatiques-extremes-pour-8-communes-sur-10-les-depenses-d-assurance-multirisques-ont-augmente-entre-2020-et-2024_8087414.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 7 min",
-      "pubDate": 1782886064.0
+      "id": "Le Monde--5335749001307137486",
+      "source": "Le Monde",
+      "title": "Au Liban, la communauté chiite entre fierté et amertume face au Hezbollah, au deuil et à l’exil",
+      "excerpt": "Au sortir d’une guerre dévastatrice, relancée en mars par le Parti de Dieu contre Israël, sympathisants et opposants de l’organisation s’interrogent sur le sens des sacrifices consentis alors qu’un ac...",
+      "link": "https://www.lemonde.fr/international/article/2026/07/01/au-liban-la-communaute-chiite-entre-fierte-et-amertume-face-au-hezbollah-au-deuil-et-a-l-exil_6717524_3210.html",
+      "time": "Il y a 14 min",
+      "pubDate": 1782900011.0
     },
     {
-      "id": "France Info-5649654880954911978",
+      "id": "France Info--6381222755252845623",
       "source": "France Info",
-      "title": "\"Pas de changement, pas de durcissement\" : pourquoi les correcteurs n'ont pas vraiment appliqué les nouvelles consignes sur l'orthographe au bac",
-      "excerpt": "Avant le début des épreuves, le ministre de l'Éducation, Édouard Geffray, avait mis l'accent sur la maîtrise du langage et la qualité de la rédaction au baccalauréat.",
-      "link": "https://www.franceinfo.fr/bac/pas-de-changement-pas-de-durcissement-pourquoi-les-correcteurs-n-ont-pas-vraiment-applique-les-nouvelles-consignes-sur-l-orthographe-au-bac_8087342.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 8 min",
-      "pubDate": 1782886018.0
+      "title": "\"On est en train de remonter la pente\" : le nombre de postes d'enseignants non pourvus est en forte réduction cette année, salue le ministre de l'Education",
+      "excerpt": "Pour répondre à la crise du recrutement qui touche l'Education nationale depuis plusieurs années, le concours a été avancé cette année à la fin de la licence.",
+      "link": "https://www.franceinfo.fr/societe/education/on-est-en-train-de-remonter-la-pente-le-nombre-de-postes-d-enseignants-non-pourvus-est-en-forte-reduction-cette-annee-salue-le-ministre-de-l-education_8088167.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 18 min",
+      "pubDate": 1782899778.0
     },
     {
-      "id": "France Info-9223292940162428592",
+      "id": "Libération--8462740141114614859",
+      "source": "Libération",
+      "title": "Le chanteur policier des Village People, Victor Willis, est mort à 74 ans",
+      "excerpt": "Le leader du groupe disco des années 70 était le coauteur des plus grands succès de la formation, dont le tube planétaire «YMCA». Son épouse évoque sur les réseaux sociaux une «maladie courte mais agr...",
+      "link": "https://www.liberation.fr/culture/musique/le-chanteur-policier-de-village-people-victor-willis-est-mort-a-74-ans-20260701_ZO5Z4G26KRDB7KBTFNKZ2FR4TY/",
+      "time": "Il y a 20 min",
+      "pubDate": 1782899675.0,
+      "sources": [
+        "Libération",
+        "Le Monde"
+      ],
+      "multiSource": true,
+      "sourceCount": 2
+    },
+    {
+      "id": "Libération-2142029917766113849",
+      "source": "Libération",
+      "title": "Infidèle et fier de l’être ? «Elle est un peu parano et c’est complètement justifié, je la trompe assez souvent»",
+      "excerpt": "Sans remords après une infidélité, certains décident de taire leurs actions, voire de recommencer. Dans le troisième épisode de notre série, Benjamin revient sur ses mensonges à répétition pour éviter...",
+      "link": "https://www.liberation.fr/lifestyle/intimites/infidele-et-fier-de-letre-elle-est-un-peu-parano-et-cest-completement-justifie-je-la-trompe-assez-souvent-20260701_VPVP44CBSFFE5EX4INAXX2ZD2E/",
+      "time": "Il y a 21 min",
+      "pubDate": 1782899587.0
+    },
+    {
+      "id": "Libération-1122838821927603863",
+      "source": "Libération",
+      "title": "Mort du musicien argentin Melingo, le dernier tango d’un iconoclaste",
+      "excerpt": "Pilier de l’alternative rock argentin, le natif de Buenos Aires s’est ensuite mué en tanguero et porte-voix des bas-fonds, creusant son sillon dans tous les styles du genre. Il est mort le 30 juin à 6...",
+      "link": "https://www.liberation.fr/culture/musique/mort-du-musicien-argentin-melingo-le-dernier-tango-dun-iconoclaste-20260701_33VNQIP3QZDQXNEQQRKXPSHRYE/",
+      "time": "Il y a 42 min",
+      "pubDate": 1782898341.0
+    },
+    {
+      "id": "Libération-7848028475414076367",
+      "source": "Libération",
+      "title": "Braun-Pivet cherche le consensus mais le trouve contre elle-même",
+      "excerpt": "Indiscrétions piquantes, maladresses vaches ou douces confessions : chaque jour, retrouvez les brèves qui auscultent le monde politique.",
+      "link": "https://www.liberation.fr/politique/braun-pivet-cherche-le-consensus-mais-le-trouve-contre-elle-meme-20260701_NBK4SHCSIZBNDKG44KFTJRS4X4/",
+      "time": "Il y a 47 min",
+      "pubDate": 1782898047.0
+    },
+    {
+      "id": "Libération--6703580376858343773",
+      "source": "Libération",
+      "title": "Départs en vacances sous canicule : la SNCF «se prépare» mais ne peut pas «garantir que tout va marcher très bien à 100 %», dit Castex",
+      "excerpt": "Alors que la nouvelle vague de chaleur qui se profile menace de mettre à mal une fois de plus les infrastructures ferroviaires, le PDG de l’entreprise publique assure ce mercredi que les équipes trava...",
+      "link": "https://www.liberation.fr/economie/transports/departs-en-vacances-sous-canicule-la-sncf-se-prepare-mais-ne-peut-pas-garantir-que-tout-va-marcher-tres-bien-a-100-dit-castex-20260701_3FTQPRPOVNFWFE26HMZYKYVCQ4/",
+      "time": "Il y a 48 min",
+      "pubDate": 1782897963.0
+    },
+    {
+      "id": "France Info-5914709130003033617",
       "source": "France Info",
-      "title": "\"Ça remet la France à égalité avec les autres pays\" : la suppression de la taxe sur les petits colis satisfait les professionnels secteur de la logistique",
+      "title": "Pourquoi l'Eglise catholique redoute un schisme provoqué par la Fraternité Saint-Pie-X, qui a ordonné des évêques sans l'accord du pape",
+      "excerpt": "La communauté traditionaliste défie le pape Léon XIV, qui doit autoriser l'ordination de ces nouveaux évêques et s'y refuse. Cette initiative pourrait provoquer une rupture entre Rome et la Fraternité...",
+      "link": "https://www.franceinfo.fr/monde/vatican/pourquoi-l-eglise-catholique-redoute-un-schisme-provoque-par-la-fraternite-saint-pie-x-qui-veut-ordonner-des-eveques-sans-l-accord-du-pape_8086586.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 56 min",
+      "pubDate": 1782897482.0
+    },
+    {
+      "id": "Le Monde-7239876048634795216",
+      "source": "Le Monde",
+      "title": "SNCF : « Je ne peux pas garantir que tout va marcher très bien à 100 % », admet Jean Castex avant les grands départs et le retour de la chaleur",
+      "excerpt": "La France s’apprête à vivre une nouvelle canicule, selon Météo-France, alors que la précédente, qui a duré deux semaines, a mis à mal les infrastructures de transport, en particulier ferroviaires.",
+      "link": "https://www.lemonde.fr/economie/article/2026/07/01/sncf-je-ne-peux-pas-garantir-que-tout-va-marcher-tres-bien-a-100-admet-jean-castex-avant-les-grands-departs_6717512_3234.html",
+      "time": "Il y a 1h",
+      "pubDate": 1782897242.0
+    },
+    {
+      "id": "Libération-8131404436585456716",
+      "source": "Libération",
+      "title": "Crime organisé : pour la mère de Chloé Aldrovandi, tuée en Corse, «l’emprise mafieuse est devenue l’affaire de tous»",
+      "excerpt": "Un an et demi après le meurtre de sa fille, devenue l’un des visages des victimes de la mafia sur l’île, Cathy Albertini appelle à «rompre les cycles» de la violence. Lundi 29 juin, les investigations...",
+      "link": "https://www.liberation.fr/societe/police-justice/crime-organise-pour-la-mere-de-chloe-aldrovandi-tuee-en-corse-lemprise-mafieuse-est-devenue-laffaire-de-tous-20260701_BXGZ73DLLZENLCQZQVSBIZZBIE/",
+      "time": "Il y a 1h",
+      "pubDate": 1782897000.0
+    },
+    {
+      "id": "Libération-7935415980482642754",
+      "source": "Libération",
+      "title": "Coupe du monde 2026 : deux morts lors des célébrations à Mexico",
+      "excerpt": "Après la qualification du pays hôte pour les huitièmes de finale acquise mardi face à l’Equateur, une jeune femme de 19 ans et un homme de 44 ans sont morts par asphyxie.",
+      "link": "https://www.liberation.fr/sports/football/coupe-du-monde-2026-deux-morts-lors-des-celebrations-a-mexico-20260701_C3EINMAP6NDFFGGJDZI6A5SX34/",
+      "time": "Il y a 1h",
+      "pubDate": 1782896631.0
+    },
+    {
+      "id": "Le Monde--4483086063984116963",
+      "source": "Le Monde",
+      "title": "Un coup de chaud dévastateur pour la nature : en Gironde, martinets, hirondelles et chauve-souris en détresse saturent un centre de soins de la faune sauvage",
+      "excerpt": "Avec la récente canicule, l’établissement géré par la Ligue pour la protection des oiseaux à Audenge (Gironde) a enregistré, à l’instar de nombreux autres sites, un nombre record d’arrivées d’animaux...",
+      "link": "https://www.lemonde.fr/planete/article/2026/07/01/un-coup-de-chaud-devastateur-pour-la-nature-en-gironde-martinets-hirondelles-et-chauve-souris-en-detresse-saturent-un-centre-de-soins-de-la-faune-sauvage_6717508_3244.html",
+      "time": "Il y a 1h",
+      "pubDate": 1782896409.0
+    },
+    {
+      "id": "Le Monde-8808306172058824094",
+      "source": "Le Monde",
+      "title": "Pour Edouard Philippe, ce serait « dangereux » si Gabriel Attal et lui se présentaient au premier tour de la présidentielle",
+      "excerpt": "L’ancien premier ministre pointe un risque « d’élimination qui arriverait à ce cauchemar absolu, un deuxième tour avec Mme Le Pen ou M. Bardella face à M. Mélenchon ».",
+      "link": "https://www.lemonde.fr/politique/article/2026/07/01/pour-edouard-philippe-ce-serait-dangereux-si-gabriel-attal-et-lui-se-presentaient-au-premier-tour-de-la-presidentielle_6717505_823448.html",
+      "time": "Il y a 1h",
+      "pubDate": 1782896262.0
+    },
+    {
+      "id": "Le Monde--2507531278467255013",
+      "source": "Le Monde",
+      "title": "« C’est simple, c’est beau, c’est impressionnant… C’est la France » : la presse internationale encense les Bleus après leur victoire contre la Suède",
+      "excerpt": "Victorieuse mardi contre la Suède (3-0), l’équipe de France n’en finit plus d’impressionner. Les médias du monde entier érigent les Bleus en grands favoris de la Coupe du monde 2026 et manquent de sup...",
+      "link": "https://www.lemonde.fr/sport/article/2026/07/01/une-merveille-une-masterclass-la-presse-mondiale-encense-les-bleus-meilleure-equipe-du-tournoi-apres-leur-victoire-contre-la-suede_6717504_3242.html",
+      "time": "Il y a 1h",
+      "pubDate": 1782896178.0
+    },
+    {
+      "id": "Libération--4375577958042047565",
+      "source": "Libération",
+      "title": "Nouveaux pouvoirs dévolus au président des Etats-Unis : «La Cour suprême ouvre la voie à une politisation accrue de l’administration»",
+      "excerpt": "En autorisant le chef d’Etat américain à limoger les responsables d’agences fédérales indépendantes pour motifs politiques, la cour conservatrice a franchi lundi 29 juin un pas de plus dans la constru...",
+      "link": "https://www.liberation.fr/international/amerique/nouveaux-pouvoirs-devolus-au-president-des-etats-unis-la-cour-supreme-ouvre-la-voie-a-une-politisation-accrue-de-ladministration-20260701_OP7JZ2JBGFCINKNBBP4UV7ZI5A/",
+      "time": "Il y a 1h",
+      "pubDate": 1782895901.0
+    },
+    {
+      "id": "Libération--1830286909696131678",
+      "source": "Libération",
+      "title": "Si Jordan Bardella est élu Président, Marine Le Pen sera sa «tutrice», selon ce député RN",
+      "excerpt": "Qui imagine le président de la République mis sous tutelle ? Le député d’extrême droite, Philippe Balard.",
+      "link": "https://www.liberation.fr/politique/si-jordan-bardella-est-elu-president-marine-le-pen-sera-sa-tutrice-selon-ce-depute-rn-20260701_75T5UXAYMRBZTA3N4XOYSWUW3E/",
+      "time": "Il y a 1h",
+      "pubDate": 1782895641.0
+    },
+    {
+      "id": "France Info-6942761124358392946",
+      "source": "France Info",
+      "title": "Réforme des retraites : l'Allemagne étudie un report de l’âge de départ jusqu’à 70 ans",
+      "excerpt": "Entre une popularité au plus bas chez le chancelier Friedrich Merz et une hausse du nombre de retraités tous les ans, le gouvernement allemand envisage de repousser l'âge légal de la retraite de 6 moi...",
+      "link": "https://www.franceinfo.fr/monde/europe/allemagne/reforme-des-retraites-l-allemagne-etudie-un-report-de-l-age-de-depart-jusqu-a-70-ans_8087984.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1782895267.0
+    },
+    {
+      "id": "Libération-2160972193195411",
+      "source": "Libération",
+      "title": "Donald Trump a gagné près d’1,2 milliard de dollars grâce aux cryptomonnaies en 2025",
+      "excerpt": "Selon un calcul effectué par l’AFP, le président américain a quasiment triplé son patrimoine personnel grâce à la monnaie numérique.",
+      "link": "https://www.liberation.fr/international/amerique/donald-trump-a-gagne-pres-d12-milliard-de-dollars-grace-aux-cryptomonnaies-en-2025-20260701_IUYEQKGBXZE7XLP5ZJPK7WJSKQ/",
+      "time": "Il y a 1h",
+      "pubDate": 1782895175.0
+    },
+    {
+      "id": "France Info--129785354203078639",
+      "source": "France Info",
+      "title": "Le nombre de détenus est toujours en hausse, à 88 829 au 1er juin",
+      "excerpt": "Cela représente près de 4 400 détenus de plus en un an. Surveillants comme directeurs de prison alertent sans relâche sur un système pénitentiaire au bord de l'explosion.",
+      "link": "https://www.franceinfo.fr/societe/prisons/le-nombre-de-detenus-est-toujours-en-hausse-a-88-829-au-1er-juin_8088062.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1782894732.0
+    },
+    {
+      "id": "Le Monde--8445294176048889529",
+      "source": "Le Monde",
+      "title": "EN DIRECT, guerre en Ukraine : attaques russes nocturnes à Mykolaïv, Kherson, Kramatorsk et dans la région de Dnipropetrovsk",
+      "excerpt": "Une attaque ‌de drone ‌russe contre un autocar a ‌fait deux morts ‌dans la ville de ​Kherson, dans le sud du pays, tandis qu’une femme a été tuée dans l’oblast de Dnipropetrovsk (est).",
+      "link": "https://www.lemonde.fr/international/live/2026/07/01/en-direct-guerre-en-ukraine-attaques-russes-nocturnes-a-kherson-kramatorsk-et-dans-la-region-de-dnipropetrovsk_6716525_3210.html",
+      "time": "Il y a 1h",
+      "pubDate": 1782893923.0
+    },
+    {
+      "id": "France Info-4516544525100600990",
+      "source": "France Info",
+      "title": "Quatre autres suspects interpellés dans l'assassinat de Mehdi Kessaci",
+      "excerpt": "Parmi ces quatre suspects, trois d'entre eux étaient déjà en détention, poursuivis dans d’autres affaires.",
+      "link": "https://www.franceinfo.fr/faits-divers/assassinat-de-mehdi-kessaci-quatre-autres-suspects-interpelles_8088014.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 2h",
+      "pubDate": 1782892852.0
+    },
+    {
+      "id": "Le Monde-6468753755685866988",
+      "source": "Le Monde",
+      "title": "Au procès « Scribe », les « graves difficultés et dérives » du logiciel qui empoisonne la police",
+      "excerpt": "Six agents publics étaient appelés, devant la Cour des comptes, à répondre de leur responsabilité dans l’échec du projet de logiciel de rédaction de procédure pénale de la police, malgré des dizaines...",
+      "link": "https://www.lemonde.fr/societe/article/2026/07/01/au-proces-scribe-les-graves-difficultes-et-derives-du-logiciel-qui-empoisonne-la-police_6717491_3224.html",
+      "time": "Il y a 2h",
+      "pubDate": 1782892809.0
+    },
+    {
+      "id": "France Info--4085731165476587857",
+      "source": "France Info",
+      "title": "Santé, économie, agriculture, forêts… Les effets délétères de la canicule continuent de se faire sentir malgré la baisse des températures",
+      "excerpt": "A l'heure où les autorités dressent le bilan de la vague de chaleur sans précédent qui a frappé l'Hexagone, ses conséquences continuent d'affecter parfois durablement le quotidien des Français.",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/sante-economie-agriculture-forets-les-effets-deleteres-de-la-canicule-continuent-de-se-faire-sentir-malgre-la-baisse-des-temperatures_8085197.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 2h",
+      "pubDate": 1782892638.0
+    },
+    {
+      "id": "France Info--6989667782026635530",
+      "source": "France Info",
+      "title": "\"Ça remet la France à égalité avec les autres pays\" : la suppression de la taxe sur les petits colis satisfait les professionnels du secteur de la logistique",
       "excerpt": "La taxe française sur les petits colis, que les géants du e-commerce étaient parvenus à contourner, est suspendue, remplacée mercredi 1er juillet par une taxe européenne. La nouvelle est accueillie av...",
       "link": "https://www.franceinfo.fr/economie/ca-remet-la-france-a-egalite-avec-les-autres-pays-la-suppression-de-la-taxe-sur-les-petits-colis-satisfait-les-professionnels-secteur-de-la-logistique_8087837.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 12 min",
-      "pubDate": 1782885779.0
+      "time": "Il y a 3h",
+      "pubDate": 1782889876.0
     },
     {
-      "id": "Libération-7044117406663351620",
-      "source": "Libération",
-      "title": "«The Bear» saison 5, une faim heureuse",
-      "excerpt": "La série de Christopher Storer trouve une jolie conclusion en empruntant les formes du film catastrophe et du «sport movie» inspirant dans une ultime saison qui s’écoule presque en temps réel.",
-      "link": "https://www.liberation.fr/culture/series/the-bear-saison-5-une-faim-heureuse-20260701_A2YSNXPDKFEYJK3BVRZZ2RL6K4/",
-      "time": "Il y a 15 min",
-      "pubDate": 1782885600.0
-    },
-    {
-      "id": "Libération--4499030822090863444",
-      "source": "Libération",
-      "title": "EN DIRECT - Canicule : encore quatre départements dont la Corse en vigilance orange ce mercredi",
-      "excerpt": "Les Alpes-Maritimes, le Var et la Corse connaîtront encore des températures très chaudes jusqu’à jeudi, de 32 °C à 35 °C sur les littoraux, et 36 °C à 38 °C dans l’intérieur de la Provence.",
-      "link": "https://www.liberation.fr/environnement/climat/en-direct-canicule-encore-quatre-departements-dont-la-corse-en-vigilance-orange-ce-mercredi-20260701_4K7K37WY3VG75MKKL2UA3CGG4Q/",
-      "time": "Il y a 17 min",
-      "pubDate": 1782885491.0
-    },
-    {
-      "id": "France Info--5325320068466742793",
+      "id": "France Info-2748018403431999712",
       "source": "France Info",
-      "title": "Le bilan de la guerre civile en Birmanie dépasse les 100 000 morts, annonce une ONG américaine",
-      "excerpt": "Selon les dernières données d'Acled, organisation spécialisée dans le suivi des conflits armés, les affrontements ont fait 100 114 morts au total.",
-      "link": "https://www.franceinfo.fr/monde/birmanie/le-bilan-de-la-guerre-civile-en-birmanie-depasse-les-100-000-morts-annonce-une-ong-americaine_8087894.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 18 min",
-      "pubDate": 1782885383.0
+      "title": "\"Le cyclone français\", la \"masterclass de Mbappé\", \"un spectacle de haut vol\"... La presse étrangère s'emballe après la prestation des Bleus contre la Suède",
+      "excerpt": "Le large succès des hommes de Didier Deschamps, dans la nuit de mardi à mercredi, a été plébiscité par les médias du monde entier.",
+      "link": "https://www.franceinfo.fr/coupe-du-monde/le-cyclone-francais-la-masterclass-de-mbappe-un-spectacle-de-haut-vol-la-presse-etrangere-encense-la-prestation-des-bleus-contre-la-suede-en-seiziemes-de-finale-de-la-coupe-du-monde_8087912.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 3h",
+      "pubDate": 1782889161.0
     },
     {
-      "id": "Libération-6049926771666703503",
-      "source": "Libération",
-      "title": "Les Bleus en patron face à la Suède, Mbappé égale Messi, le Mexique se qualifie à domicile… L’actu de la Coupe du monde ce mercredi 1er juillet",
-      "excerpt": "L’essentiel des informations du jour sur le Mondial au Canada, aux Etats-Unis et au Mexique.",
-      "link": "https://www.liberation.fr/sports/football/les-bleus-en-patron-face-a-la-suede-mbappe-egale-messi-le-mexique-se-qualifie-a-domicile-lactu-de-la-coupe-du-monde-ce-mercredi-1er-juillet-20260701_CNUVJTS5PBEEPD3HFV6W26RZ2Q/",
-      "time": "Il y a 29 min",
-      "pubDate": 1782884764.0
-    },
-    {
-      "id": "Libération--1150492857176014506",
-      "source": "Libération",
-      "title": "Victoire impériale des Bleus, record de chaleur pour les océans, congé de naissance… L’actu de ce jeudi 1er juillet au matin",
-      "excerpt": "La rédaction de «Libération» compile les principales infos de ce jeudi 1er juillet.",
-      "link": "https://www.liberation.fr/international/europe/victoire-imperiale-des-bleus-record-de-chaleur-pour-les-oceans-conge-de-naissance-lactu-de-ce-jeudi-1er-juillet-au-matin-20260701_TCLNOZTIEFBIHHUROF6KPUNMSQ/",
-      "time": "Il y a 30 min",
-      "pubDate": 1782884694.0
-    },
-    {
-      "id": "Libération--979712018685460134",
-      "source": "Libération",
-      "title": "Nos critiques des sorties cinéma de la semaine : «Entroncamento», «Ghost Elephants», «Supergirl»…",
-      "excerpt": "«Libé» vous guide dans les sorties cinéma de ce mercredi 1er juillet. Avec aussi «On l’appelait Robin des bois», «Un champ de fraises pour l’éternité», «Laissez-nous les clés», «In Waves», «Kwaidan»....",
-      "link": "https://www.liberation.fr/culture/cinema/nos-critiques-des-sorties-cinema-de-la-semaine-entroncamento-ghost-elephants-supergirl-20260701_YOFRRQ6CDNF7JIZJDQ7KJUKB5Q/",
-      "time": "Il y a 38 min",
-      "pubDate": 1782884217.0
-    },
-    {
-      "id": "France Info-2914587456627412743",
-      "source": "France Info",
-      "title": "Les océans mondiaux ont atteint un pic de chaleur en juin, à près de 21°C",
-      "excerpt": "\"Les conditions actuelles pourraient indiquer le début d'une nouvelle phase, nous conduisant, une fois de plus, en territoire inconnu\", a prévenu l'observatoire Copernicus.",
-      "link": "https://www.franceinfo.fr/environnement/crise-climatique/les-oceans-mondiaux-ont-atteint-un-pic-de-chaleur-en-juin-a-pres-de-21-c_8087717.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 39 min",
-      "pubDate": 1782884141.0
-    },
-    {
-      "id": "Libération-3731376700537415433",
-      "source": "Libération",
-      "title": "Les océans ont enregistré un record de chaleur pour un mois de juin, à près de 21 °C",
-      "excerpt": "Le Pacifique tropical ou la Méditerranée viennent de connaître leur mois de juin le plus chaud jamais observé et pourraient battre de nouveaux records en 2026, sous l’effet combiné d’El Niño et du réc...",
-      "link": "https://www.liberation.fr/environnement/climat/les-oceans-ont-enregistre-un-record-de-chaleur-pour-un-mois-de-juin-a-pres-de-21-c-20260701_RW4DJWFSG5FHRK5Y4AFHKMJVRI/",
-      "time": "Il y a 39 min",
-      "pubDate": 1782884127.0
-    },
-    {
-      "id": "Libération-1054751299754728410",
-      "source": "Libération",
-      "title": "La prochaine élection présidentielle aura lieu les 18 avril et 2 mai 2027",
-      "excerpt": "Ces dates ont été préférées à l’autre option qui plaçait le scrutin une semaine plus tôt, les 11 et 25 avril. Le premier tour aura lieu pendant les vacances de printemps, et le second au lendemain de...",
-      "link": "https://www.liberation.fr/politique/elections/la-prochaine-election-presidentielle-aura-lieu-les-18-avril-et-2-mai-2027-20260701_LY44UWNQ7BCK7KM3U64REXX5G4/",
-      "time": "Il y a 50 min",
-      "pubDate": 1782883472.0
-    },
-    {
-      "id": "Le Monde--5432364669136269717",
+      "id": "Le Monde--7667521555304381866",
       "source": "Le Monde",
-      "title": "Cryptomonnaies : ce que change la nouvelle réglementation européenne pour les épargnants",
-      "excerpt": "A partir de ce 1ᵉʳ juillet, les plateformes d’investissement qui n’ont pas obtenu leur agrément de prestataire de services sur cryptoactifs, ne peuvent plus opérer en France et doivent mettre en place...",
-      "link": "https://www.lemonde.fr/argent/article/2026/07/01/cryptomonnaies-ce-que-change-la-nouvelle-reglementation-europeenne-pour-les-epargnants_6717466_1657007.html",
-      "time": "Il y a 1h",
-      "pubDate": 1782882644.0
+      "title": "L’étau se resserre pour les équipementiers automobiles, coincés entre les constructeurs et la concurrence chinoise",
+      "excerpt": "A travers leurs fédérations professionnelles, les entreprises du secteur plaident auprès des parlementaires européens pour une définition exigeante du « made in Europe » dans l’automobile. Et surveill...",
+      "link": "https://www.lemonde.fr/economie/article/2026/07/01/l-etau-se-resserre-pour-les-sous-traitants-automobiles-coinces-entre-les-constructeurs-et-la-concurrence-chinoise_6717479_3234.html",
+      "time": "Il y a 3h",
+      "pubDate": 1782887490.0
     },
     {
-      "id": "Libération-2228039975005374494",
-      "source": "Libération",
-      "title": "Après avoir été licencié, l’ancien patron de Duralex François Marciano envisage de déposer une offre pour reprendre l’entreprise",
-      "excerpt": "Le tribunal de commerce d’Orléans dévoilera, jeudi, les premiers candidats à la reprise de l’entreprise placée en redressement judiciaire. L’ancien directeur général du verrier pourrait proposer un pl...",
-      "link": "https://www.liberation.fr/economie/social/apres-avoir-ete-licencie-lancien-patron-de-duralex-francois-marciano-envisage-de-deposer-une-offre-pour-reprendre-lentreprise-20260701_G45MS67YGFHUPJWE2VGLRFF2BA/",
-      "time": "Il y a 1h",
-      "pubDate": 1782882540.0
-    },
-    {
-      "id": "Libération--3641264240263120231",
-      "source": "Libération",
-      "title": "L’autopsie confirme la mort des jumelles de 15 mois par déshydratation près de Valenciennes",
-      "excerpt": "Le parquet ajoute par ailleurs que les fillettes étaient en «insuffisance pondérale». Lundi, en début d’après-midi, leurs parents domiciliés à Beuvrages dans le Nord avaient découvert à leur domicile...",
-      "link": "https://www.liberation.fr/societe/police-justice/deux-jumelles-de-15-mois-retrouvees-mortes-de-deshydratation-pres-de-valenciennes-le-reste-de-la-fratrie-hospitalise-20260629_PX6PRVCDFJHJZEPSDMX7INRXVY/",
-      "time": "Il y a 1h",
-      "pubDate": 1782882346.0
-    },
-    {
-      "id": "Libération-802411437359144620",
-      "source": "Libération",
-      "title": "Qui est Marcel Lefebvre, l’homme qui a provoqué le dernier schisme dans l’Eglise catholique ?",
-      "excerpt": "Mort en 1991, l’ancien archevêque de Dakar a été le chef de file des traditionalistes dans les années 70 et a affronté Rome sur la messe en latin et les réformes du concile Vatican II.",
-      "link": "https://www.liberation.fr/societe/religions/qui-est-marcel-lefebvre-lhomme-qui-a-provoque-le-dernier-schisme-dans-leglise-catholique-20260701_3MVS2XTIIZHILEZJRD5W3V3EYM/",
-      "time": "Il y a 1h",
-      "pubDate": 1782881940.0
-    },
-    {
-      "id": "Le Monde--6808337770792451929",
+      "id": "Le Monde-1470229924175250515",
       "source": "Le Monde",
-      "title": "EN DIRECT, guerre en Ukraine : le point sur la situation",
-      "excerpt": "L’armée ukrainienne a affirmé avoir libéré près de 670 km² depuis le début de l’année. Kiev dit aussi avoir ouvert un « corridor » dans la défense aérienne russe vers Moscou.",
-      "link": "https://www.lemonde.fr/international/live/2026/07/01/en-direct-guerre-en-ukraine-le-point-sur-la-situation_6716525_3210.html",
-      "time": "Il y a 1h",
-      "pubDate": 1782880658.0
+      "title": "Dans le film d’animation « In Waves », Phuong Mai Nguyen raconte une romance traversée par l’histoire du surf",
+      "excerpt": "Adapté de la BD éponyme de l’Américain AJ Dungo, le long-métrage animé privilégie les couleurs chatoyantes pour accompagner le récit d’un amour naissant, menacé par la maladie, et porté par la force v...",
+      "link": "https://www.lemonde.fr/culture/article/2026/07/01/dans-le-film-d-animation-in-waves-phuong-mai-nguyen-raconte-une-romance-traversee-par-l-histoire-du-surf_6717467_3246.html",
+      "time": "Il y a 4h",
+      "pubDate": 1782882903.0
     },
     {
-      "id": "Le Monde--1646490318088275028",
-      "source": "Le Monde",
-      "title": "Burkina Faso : la rupture des relations diplomatiques avec la France, une décision soudaine aux lourdes conséquences",
-      "excerpt": "Le capitaine Ibrahim Traoré a annoncé, vendredi 26 juin, la rupture des relations bilatérales avec Paris. Les 2 500 ressortissants français résidant dans le pays ne pourront plus compter sur les servi...",
-      "link": "https://www.lemonde.fr/afrique/article/2026/07/01/burkina-faso-la-rupture-des-relations-diplomatiques-avec-la-france-une-decision-soudaine-aux-lourdes-consequences_6717464_3212.html",
-      "time": "Il y a 1h",
-      "pubDate": 1782880206.0
-    },
-    {
-      "id": "Le Monde-1123368082284089976",
-      "source": "Le Monde",
-      "title": "Fin de vie : la création d’un droit à l’aide à mourir pour des patients atteints d’une affection grave et incurable approuvée pour la troisième fois par les députés",
-      "excerpt": "Une majorité nette s’est à nouveau dégagée à l’Assemblée nationale en faveur de la proposition de loi, malgré une opposition renforcée. Le vote final est prévu le 15 juillet au Palais-Bourbon, après u...",
-      "link": "https://www.lemonde.fr/societe/article/2026/07/01/fin-de-vie-la-creation-d-un-droit-a-l-aide-a-mourir-pour-des-patients-atteints-d-une-affection-grave-et-incurable-approuvee-pour-la-troisieme-fois-par-les-deputes_6717460_3224.html",
-      "time": "Il y a 2h",
-      "pubDate": 1782878446.0
-    },
-    {
-      "id": "France Info-7672433518276134546",
+      "id": "France Info-5913343627806884588",
       "source": "France Info",
       "title": "\"On a sauvé un père et son fils coincés 90 heures\" : une semaine après le séisme au Venezuela, les secouristes racontent leur course contre la montre",
       "excerpt": "Des sauveteurs originaires d'une trentaine de pays aident les autorités du Venezuela à se relever après le double tremblement de terre qui l'a frappé, il y a une semaine. Parmi eux, 85 Français de la...",
       "link": "https://www.franceinfo.fr/monde/venezuela/on-a-sauve-un-pere-et-son-fils-coinces-90-heures-une-semaine-apres-le-seisme-au-venezuela-les-secouristes-racontent-leur-course-contre-la-montre_8086520.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
+      "time": "Il y a 6h",
       "pubDate": 1782877855.0
     },
     {
-      "id": "France Info-162281827548691259",
+      "id": "France Info--4182044677506239515",
       "source": "France Info",
       "title": "\"Coup de force\", \"sabotage\"… Chez Les Ecologistes, des divisions en pagaille avant de déterminer la stratégie pour la présidentielle",
       "excerpt": "Autour de Marine Tondelier, qui se prépare à une candidature autonome pour 2027, la direction du parti critique le conseil fédéral extraordinaire demandé par ses opposants pour réclamer une consultati...",
       "link": "https://www.franceinfo.fr/elections/presidentielle/coup-de-force-sabotage-chez-les-ecologistes-des-divisions-en-pagaille-avant-de-determiner-la-strategie-pour-la-presidentielle_8086850.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
+      "time": "Il y a 6h",
       "pubDate": 1782877828.0
-    },
-    {
-      "id": "France Info--7045354109759547440",
-      "source": "France Info",
-      "title": "Santé, économie, agriculture, forêts… Les effets délétères de la canicule continuent de se faire sentir malgré la baisse des températures",
-      "excerpt": "A l'heure où les autorités dressent le bilan de la vague de chaleur sans précédent qui a frappé l'Hexagone entre le 17 et le 29 juin, les conséquences de l'évènement de la canicule continuent d'appara...",
-      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/sante-economie-agriculture-forets-les-effets-deleteres-de-la-canicule-continuent-de-se-faire-sentir-malgre-la-baisse-des-temperatures_8085197.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
-      "pubDate": 1782877792.0
-    },
-    {
-      "id": "France Info--3785861333201970513",
-      "source": "France Info",
-      "title": "Coupe du monde : \"On est en mission\"... Flamboyante, l'équipe de France assume pleinement son statut de favori",
-      "excerpt": "Face à la Suède, mardi en seizièmes de finale, les Bleus ont encore produit une prestation aussi convaincante que séduisante.",
-      "link": "https://www.franceinfo.fr/coupe-du-monde/masculine/coupe-du-monde-on-est-en-mission-flamboyante-l-equipe-de-france-assume-pleinement-son-statut-de-favori_8087522.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
-      "pubDate": 1782877190.0
-    },
-    {
-      "id": "Le Monde--5891141218769518045",
-      "source": "Le Monde",
-      "title": "Présidentielle 2027 : l’ambivalence des héritiers d’Emmanuel Macron face au bilan des dix années de mandat",
-      "excerpt": "Gabriel Attal et Edouard Philippe ne cessent d’être renvoyés à l’héritage du chef de l’Etat. S’ils cherchent à se détacher de la figure présidentielle afin d’incarner une rupture, ils se posent, sur c...",
-      "link": "https://www.lemonde.fr/politique/article/2026/07/01/presidentielle-2027-l-ambivalence-des-heritiers-d-emmanuel-macron-face-au-bilan-des-dix-dernieres-annees-de-mandat_6717455_823448.html",
-      "time": "Il y a 2h",
-      "pubDate": 1782876607.0
-    },
-    {
-      "id": "Le Monde--7828527640801505133",
-      "source": "Le Monde",
-      "title": "Coupe du monde 2026 : le récital de l’équipe de France, portée par un quatuor offensif à l’unisson",
-      "excerpt": "Les Bleus, menés par leurs attaquants Kylian Mbappé et Michael Olise, ont dominé la Suède, mardi à New York (3-0). Ils affronteront le Paraguay, samedi, en huitièmes de finale du Mondial de football.",
-      "link": "https://www.lemonde.fr/sport/article/2026/07/01/coupe-du-monde-2026-le-recital-des-bleus-portes-par-un-quatuor-offensif-a-l-unisson_6717453_3242.html",
-      "time": "Il y a 3h",
-      "pubDate": 1782875145.0
-    },
-    {
-      "id": "Le Monde--5108801583368465838",
-      "source": "Le Monde",
-      "title": "Les films à l’affiche : « On l’appelait Robin des Bois », « Entroncamento », « In Waves »….",
-      "excerpt": "Chaque mercredi, dans « La Matinale », les journalistes cinéma du « Monde » livrent leurs critiques des films à découvrir en salle. Aujourd’hui, notamment, un remarquable thriller venu du Portugal.",
-      "link": "https://www.lemonde.fr/cinema/article/2026/07/01/les-films-a-l-affiche-on-l-appelait-robin-des-bois-entroncamento-in-waves_6717385_3476.html",
-      "time": "Il y a 3h",
-      "pubDate": 1782873002.0
-    },
-    {
-      "id": "Le Monde--2265921510671708254",
-      "source": "Le Monde",
-      "title": "Les océans mondiaux ont enregistré un record de chaleur en juin, sous l’effet combiné d’El Niño et du réchauffement",
-      "excerpt": "La température moyenne en surface a atteint 20,98 °C en juin, battant le précédent maximum de 2024, selon l’observatoire européen Copernicus Marine. Le premier semestre 2026 dans son ensemble est le d...",
-      "link": "https://www.lemonde.fr/planete/article/2026/07/01/les-oceans-mondiaux-ont-enregistre-un-record-de-chaleur-en-juin-sous-l-effet-combine-d-el-nino-et-du-rechauffement_6717384_3244.html",
-      "time": "Il y a 3h",
-      "pubDate": 1782872841.0
-    },
-    {
-      "id": "Le Monde-913772681199269603",
-      "source": "Le Monde",
-      "title": "Aux Etats-Unis, la Cour suprême censure la Maison Blanche et confirme le droit du sol pour les enfants de sans-papiers",
-      "excerpt": "Après son dispositif de droits de douane réciproques, censuré en février, Donald Trump essuie une deuxième déconvenue majeure devant la plus haute instance judiciaire du pays. Il s’agissait d’une mesu...",
-      "link": "https://www.lemonde.fr/international/article/2026/07/01/aux-etats-unis-la-cour-supreme-censure-la-maison-blanche-et-confirme-le-droit-du-sol-pour-les-enfants-de-sans-papiers_6717346_3210.html",
-      "time": "Il y a 7h",
-      "pubDate": 1782860314.0
-    },
-    {
-      "id": "Le Monde--7672229478811037175",
-      "source": "Le Monde",
-      "title": "Explosion à Monaco : les troubles affaires de l’oligarque ukrainien Vadim Ermolaev",
-      "excerpt": "La bombe artisanale qui a explosé lundi 29 juin au soir, devant un immeuble de la Principauté, a vraisemblablement ciblé ce riche homme d’affaires ukrainien, gravement blessé. L’homme, qui a renoncé à...",
-      "link": "https://www.lemonde.fr/international/article/2026/06/30/explosion-a-monaco-les-troubles-affaires-de-l-oligarque-ukrainien-vadim-ermolaev_6717336_3210.html",
-      "time": "Il y a 10h",
-      "pubDate": 1782848718.0
-    },
-    {
-      "id": "France Info-7549006487529612206",
-      "source": "France Info",
-      "title": "Découvrez toutes les modalités du nouveau congé de naissance, accessible à partir du 1er juillet",
-      "excerpt": "Il s'agit d'un congé supplémentaire accordé à chacun des deux parents au moment de la naissance ou de l'adoption d'un enfant. D'une durée d'un ou deux mois selon le choix de chacun, il peut être pris...",
-      "link": "https://www.franceinfo.fr/societe/conge-de-naissance/decouvrez-toutes-les-modalites-du-nouveau-conge-de-naissance-accessible-a-partir-du-1er-juillet_8037980.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 21h",
-      "pubDate": 1782810151.0
     }
   ],
   "anglophone": [
     {
-      "id": "BBC News-3573485558057967306",
-      "source": "BBC News",
-      "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
-      "excerpt": "Video footage shows rescuers cheering as the child is pulled from rubble in La Guaira state.",
-      "link": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 12 min",
-      "pubDate": 1782885788.0
+      "id": "NPR--6775643591809214780",
+      "source": "NPR",
+      "title": "Greetings from London, where Banksy's flag man is a warning cry",
+      "excerpt": "As he marches on, his flag blows back into his face, leaving him unaware he is only a step away from a perilous fall. As usual with Banksy's art, the statue presents a sharp critique of society.",
+      "link": "https://www.npr.org/2026/07/01/nx-s1-5867594/banksy-flag-man-statue-london",
+      "time": "Il y a 14 min",
+      "pubDate": 1782900000.0
     },
     {
-      "id": "The Guardian--5473914045316493628",
+      "id": "The Guardian--2991110079200297688",
       "source": "The Guardian",
-      "title": "Wednesday briefing: After two powerful earthquakes, what is the reality on the ground in Venezuela?",
-      "excerpt": "In today’s newsletter: A country already in crisis since the removal of its leader earlier this year by the US, now has to find a way to rebuild with little state presence in evidence The shaking seem...",
-      "link": "https://www.theguardian.com/world/2026/jul/01/wednesday-briefing-after-two-powerful-earthquakes-what-is-the-reality-on-the-ground-in-venezuela",
-      "time": "Il y a 30 min",
-      "pubDate": 1782884690.0
+      "title": "Two confirmed dead in mass celebrations by Mexico fans after World Cup victory",
+      "excerpt": "<ul><li>Third death reported by local media but unconfirmed </li><li>More than a million people gathered in Mexico City </li></ul>At least two people died during massive celebrations in Mexico City as...",
+      "link": "https://www.theguardian.com/football/2026/jul/01/deaths-mexico-world-cup-fan-celebrations",
+      "time": "Il y a 38 min",
+      "pubDate": 1782898599.0
     },
     {
-      "id": "BBC News-3921788016507567767",
-      "source": "BBC News",
-      "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
-      "excerpt": "The ruling is a major setback for Donald Trump's immigration agenda, and has been welcomed by civil rights groups.",
-      "link": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 42 min",
-      "pubDate": 1782883946.0
-    },
-    {
-      "id": "NPR--5881992576501286630",
+      "id": "NPR-2818966764447665121",
       "source": "NPR",
-      "title": "Win or go home: The U.S. to face Bosnia and Herzegovina in World Cup knockout game",
-      "excerpt": "The U.S. men's team is favored in Wednesday's must-win Round of 32 match — but they haven't beaten a European team since 2021, nor won a World Cup knockout game since 2002.",
-      "link": "https://www.npr.org/2026/07/01/nx-s1-5876418/2026-world-cup-fifa-usmnt-bosnia-herzegovina-round-of-32",
+      "title": "Kids with autism are prone to drowning. Florida is trying to prevent that",
+      "excerpt": "Kids with autism can be 160 times more likely than other children to drown. Florida is dedicating state money to a program that prioritizes swim lessons for these kids.",
+      "link": "https://www.npr.org/2026/07/01/nx-s1-5812852/autism-drowning-florida-swim-lessons-voucher",
       "time": "Il y a 1h",
-      "pubDate": 1782882000.0
+      "pubDate": 1782896400.0
     },
     {
-      "id": "NPR-4099567527708230511",
+      "id": "NPR-2937244321022695696",
       "source": "NPR",
-      "title": "Democratic socialist Melat Kiros poised to become the first Gen Z woman in Congress",
-      "excerpt": "Kiros, a political newcomer, topped 15-term-incumbent Diana DeGette in the Democratic primary in Colorado's 1st Congressional District, a reliably blue House seat.",
-      "link": "https://www.npr.org/2026/07/01/nx-s1-5876122/colorado-primary-election-melat-kiros-democratic-socialist",
-      "time": "Il y a 2h",
-      "pubDate": 1782878792.0
+      "title": "Supreme Court deals some blows to Trump's agenda but leaves him with more expansive powers",
+      "excerpt": "President Trump has trumpeted his victories and sought workarounds for his losses.",
+      "link": "https://www.npr.org/2026/07/01/nx-s1-5876231/supreme-court-deals-some-blows-to-trumps-agenda-but-leaves-him-with-more-expansive-powers",
+      "time": "Il y a 1h",
+      "pubDate": 1782896400.0
     },
     {
-      "id": "BBC News-4121825975063169970",
-      "source": "BBC News",
-      "title": "Anthropic says US lifts export ban on its advanced AI tools",
-      "excerpt": "Fable and Mythos were abruptly suspended in June over concerns that they could be used by hackers.",
-      "link": "https://www.bbc.co.uk/news/articles/cdr42623e1do?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
-      "pubDate": 1782877184.0
+      "id": "NPR--7192652706614482467",
+      "source": "NPR",
+      "title": "World Cup's knockout rounds collide with a massive heat wave",
+      "excerpt": "A major heat wave is affecting much of the eastern half of the United States this week, bringing dangerous conditions to multiple World Cup matches.",
+      "link": "https://www.npr.org/2026/07/01/nx-s1-5875173/world-cup-heat-wave-dome-philadelphia-new-york-new-jersey",
+      "time": "Il y a 1h",
+      "pubDate": 1782896400.0
     },
     {
-      "id": "BBC News--2410607131795514375",
+      "id": "NPR--2054787756370783843",
+      "source": "NPR",
+      "title": "A federal law bans late voter roll purges. Republicans are pushing to reinterpret it",
+      "excerpt": "There's a ban on most states systematically purging voter rolls within 90 days before Election Day. Republicans are pushing courts to reinterpret that longstanding protection for eligible voters.",
+      "link": "https://www.npr.org/2026/07/01/nx-s1-5859333/voter-roll-purge-supreme-court",
+      "time": "Il y a 1h",
+      "pubDate": 1782896400.0
+    },
+    {
+      "id": "NPR-1235923237644984310",
+      "source": "NPR",
+      "title": "The majority of Americans are proud but worry about direction of the country",
+      "excerpt": "As the U.S. approaches its 250th birthday, Americans reflect on the state of the nation in the latest NPR/PBS News/Marist poll.",
+      "link": "https://www.npr.org/2026/07/01/nx-s1-5869563/american-pride-poll",
+      "time": "Il y a 1h",
+      "pubDate": 1782896400.0
+    },
+    {
+      "id": "NPR-1243607889933693562",
+      "source": "NPR",
+      "title": "In Colorado primaries, a democratic socialist wins; Bennet's governor bid ends",
+      "excerpt": "Democrats nominated their candidate to try to unseat a Republican House member and tapped the state's attorney general as a frontrunner for governor.",
+      "link": "https://www.npr.org/2026/07/01/nx-s1-5872791/kiros-colorado-democratic-socialist-weiser-bennet-primaries",
+      "time": "Il y a 1h",
+      "pubDate": 1782896400.0
+    },
+    {
+      "id": "NPR-1428550695146129953",
+      "source": "NPR",
+      "title": "5 safety tips to keep you out of the emergency room this summer",
+      "excerpt": "Experts share guidance on how to prevent common summertime health risks, such as drowning, fire accidents and heat exhaustion.",
+      "link": "https://www.npr.org/2026/07/01/nx-s1-5871208/5-safety-tips-to-keep-you-out-of-the-emergency-room-this-summer",
+      "time": "Il y a 1h",
+      "pubDate": 1782896400.0
+    },
+    {
+      "id": "NPR-7760618184591747389",
+      "source": "NPR",
+      "title": "How America has celebrated milestone birthdays, from world fairs to the World Cup",
+      "excerpt": "Two founding fathers died on America's 50th birthday, which was marked with toasts and parades. Over time, anniversary celebrations became more extravagant — and more controversial.",
+      "link": "https://www.npr.org/2026/07/01/nx-s1-5867587/america-250th-past-anniversaries",
+      "time": "Il y a 1h",
+      "pubDate": 1782896400.0
+    },
+    {
+      "id": "NPR--2387239250422268228",
+      "source": "NPR",
+      "title": "Crowded planes and airports set records, straining the U.S. aviation system",
+      "excerpt": "The summer travel season is setting records again. Airlines are carrying more passengers than ever while operating fewer flights than they did 20 years ago, pushing the limits of the aviation system.",
+      "link": "https://www.npr.org/2026/07/01/nx-s1-5869367/crowded-skies-strain-aviation",
+      "time": "Il y a 1h",
+      "pubDate": 1782896400.0
+    },
+    {
+      "id": "BBC News--5608891815539739466",
       "source": "BBC News",
       "title": "Trump made more than $1bn from crypto in first year back in office",
       "excerpt": "The president's crypto income far outpaces his earnings from real estate and Trump-themed items such as watches.",
       "link": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
       "time": "Il y a 2h",
-      "pubDate": 1782876668.0
+      "pubDate": 1782891053.0
     },
     {
-      "id": "BBC News--1764931925730143075",
+      "id": "The Guardian--4698905117357363055",
+      "source": "The Guardian",
+      "title": "‘Witch-hunt’ in Niger as military regime rounds up LGBTQ+ population",
+      "excerpt": "Fears of resurgence of HIV/Aids amid loss of access to PrEP drugs as at least 40 people arrested in ‘toxic’ climate A “witch-hunt” is under way in Niger, where dozens of people have been arrested for...",
+      "link": "https://www.theguardian.com/world/2026/jul/01/witch-hunt-in-niger-as-military-regime-rounds-up-lgbtq-population",
+      "time": "Il y a 3h",
+      "pubDate": 1782889229.0
+    },
+    {
+      "id": "BBC News--6995864630907970851",
+      "source": "BBC News",
+      "title": "Sudan's RSF committed crimes against humanity in el-Fasher, Amnesty says",
+      "excerpt": "The Amnesty report adds to evidence of atrocities in el-Fasher, which the UN says bore the hallmarks of genocide.",
+      "link": "https://www.bbc.co.uk/news/articles/cz9lqvx0z1vo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 3h",
+      "pubDate": 1782887371.0
+    },
+    {
+      "id": "BBC News--2625440968582754245",
+      "source": "BBC News",
+      "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
+      "excerpt": "Video footage shows rescuers cheering as the child is pulled from rubble in La Guaira state.",
+      "link": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 4h",
+      "pubDate": 1782885788.0
+    },
+    {
+      "id": "The Guardian--5253237181217015085",
+      "source": "The Guardian",
+      "title": "Wednesday briefing: After two powerful earthquakes, what is the reality on the ground in Venezuela?",
+      "excerpt": "In today’s newsletter: A country already in crisis since the removal of its leader earlier this year by the US, now has to find a way to rebuild with little state presence in evidence The shaking seem...",
+      "link": "https://www.theguardian.com/world/2026/jul/01/wednesday-briefing-after-two-powerful-earthquakes-what-is-the-reality-on-the-ground-in-venezuela",
+      "time": "Il y a 4h",
+      "pubDate": 1782884690.0
+    },
+    {
+      "id": "BBC News-6223190906207586186",
+      "source": "BBC News",
+      "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
+      "excerpt": "The ruling is a major setback for Donald Trump's immigration agenda, and has been welcomed by civil rights groups.",
+      "link": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 4h",
+      "pubDate": 1782883946.0
+    },
+    {
+      "id": "BBC News--3196500805018901263",
+      "source": "BBC News",
+      "title": "Anthropic says US lifts export ban on its advanced AI tools",
+      "excerpt": "Fable and Mythos were abruptly suspended in June over concerns that they could be used by hackers.",
+      "link": "https://www.bbc.co.uk/news/articles/cdr42623e1do?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 6h",
+      "pubDate": 1782877184.0
+    },
+    {
+      "id": "BBC News--1886259191346363197",
       "source": "BBC News",
       "title": "Afghan Taliban launch strikes on border with Pakistan as tensions escalate",
       "excerpt": "Pakistan's military says it shot down four rudimentary drones and will respond to any further provocation.",
       "link": "https://www.bbc.co.uk/news/articles/c621g086ek4o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 6h",
+      "time": "Il y a 10h",
       "pubDate": 1782863359.0
     },
     {
-      "id": "BBC News--5105341445350527444",
+      "id": "BBC News--1078468484039623418",
+      "source": "BBC News",
+      "title": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
+      "excerpt": "Qatar's foreign ministry spokesman says no high-level meetings or direct talks between the US and Iran are scheduled.",
+      "link": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 10h",
+      "pubDate": 1782862871.0
+    },
+    {
+      "id": "BBC News--1884656398067593385",
       "source": "BBC News",
       "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
       "excerpt": "The collision left holes on the side of the tower, but Beijing has scrubbed other visible traces of the incident.",
       "link": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 6h",
+      "time": "Il y a 10h",
       "pubDate": 1782861845.0
     },
     {
-      "id": "BBC News-7865098922681318594",
+      "id": "BBC News--2467805595351056438",
       "source": "BBC News",
       "title": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power",
       "excerpt": "The birthright ruling brings to an end a Supreme Court term that has delivered the president some key victories.",
       "link": "https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 7h",
+      "time": "Il y a 11h",
       "pubDate": 1782858587.0
     },
     {
-      "id": "NPR-969827721394508098",
-      "source": "NPR",
-      "title": "What the Supreme Court did on the final day of its term",
-      "excerpt": "The Supreme Court upheld the right of children born on U.S. soil to automatic American citizenship. In so doing, the court rejected President Trump's most aggressive attempt to limit immigration.",
-      "link": "https://www.npr.org/2026/06/30/nx-s1-5876238/the-biggest-news-from-the-final-day-of-this-supreme-court-term",
-      "time": "Il y a 8h",
-      "pubDate": 1782855976.0
-    },
-    {
-      "id": "BBC News--964466595818186265",
-      "source": "BBC News",
-      "title": "US Supreme Court upholds bans on transgender athletes in female school and college sports",
-      "excerpt": "President Trump called the ruling a \"big win\", while an LGBT group said it was \"heartbreaking\".",
-      "link": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 8h",
-      "pubDate": 1782854655.0
-    },
-    {
-      "id": "NPR-7652200491234406540",
-      "source": "NPR",
-      "title": "NPR discusses error in reporting on the last day of the Supreme Court term",
-      "excerpt": "All Things Considered host Scott Detrow speaks with NPR's editor-in-chief Thomas Evans and Nina Totenberg about her reporting on the final day of the Supreme Court term.",
-      "link": "https://www.npr.org/2026/06/30/nx-s1-5876268/npr-discusses-error-in-reporting-on-the-last-day-of-the-supreme-court-term",
-      "time": "Il y a 9h",
-      "pubDate": 1782853564.0
-    },
-    {
-      "id": "NPR-7036728897772633949",
-      "source": "NPR",
-      "title": "Meta considered buying Kalshi before developing its own prediction market app",
-      "excerpt": "Mark Zuckerberg met with Kalshi's CEO last year about a potential deal, but talks did not move forward. Now Meta is making its own prediction market app.",
-      "link": "https://www.npr.org/2026/06/30/nx-s1-5875468/meta-kalshi-prediction-market-acquisition-talks",
-      "time": "Il y a 9h",
-      "pubDate": 1782851584.0
-    },
-    {
-      "id": "BBC News-4842834565062234863",
+      "id": "BBC News--9094348273672791433",
       "source": "BBC News",
       "title": "Roof collapse kills 14 children at Pakistan tuition centre",
       "excerpt": "Two people are taken into custody after the incident in the Kahna suburb of Lahore.",
       "link": "https://www.bbc.co.uk/news/articles/cr7x38lle1jo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 10h",
+      "time": "Il y a 14h",
       "pubDate": 1782848208.0
     },
     {
-      "id": "BBC News-2985539882122981610",
-      "source": "BBC News",
-      "title": "What are US and Japanese soldiers doing in the middle of the Australian bush?",
-      "excerpt": "The BBC's Katy Watson explains why troops are training in remote Australia, thousands of kilometres from any major conflicts.",
-      "link": "https://www.bbc.co.uk/news/videos/cyv09p2vy87o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 11h",
-      "pubDate": 1782844679.0
-    },
-    {
-      "id": "NPR--783204687319613625",
-      "source": "NPR",
-      "title": "FDA scientists flag concerns with peptides, the trendy molecules RFK Jr. supports",
-      "excerpt": "Documents reviewing the research on peptides note lack of good evidence of efficacy or safety. Yet an FDA panel will consider easing access to them later this month.",
-      "link": "https://www.npr.org/2026/06/30/nx-s1-5876301/peptides-fda-panel-compounding-rfk",
-      "time": "Il y a 11h",
-      "pubDate": 1782844330.0
-    },
-    {
-      "id": "The Guardian-550301094410942512",
+      "id": "The Guardian-269518459413975845",
       "source": "The Guardian",
       "title": "‘Tonnes of rubble’: 58,000 buildings estimated destroyed in Venezuela earthquakes",
       "excerpt": "Preliminary analysis of satellite data suggests magnitude of natural disaster could dwarf official estimates  More than 58,000 buildings may have been damaged and destroyed by the twin earthquakes tha...",
       "link": "https://www.theguardian.com/world/2026/jun/30/tonnes-and-tonnes-of-rubble-more-than-58000-buildings-estimated-to-have-been-destroyed-in-venezuela-earthquakes",
-      "time": "Il y a 11h",
+      "time": "Il y a 15h",
       "pubDate": 1782843998.0
     },
     {
-      "id": "NPR--3065781182704101917",
-      "source": "NPR",
-      "title": "It's going to be a hot July Fourth for much of the country",
-      "excerpt": "The National Weather Service has issued heat warnings and watches for much of the Midwest and East heading into the holiday weekend. In many places, the temperatures could shatter records.",
-      "link": "https://www.npr.org/2026/06/30/nx-s1-5876093/heat-wave-fourth-midwest-east-coast",
-      "time": "Il y a 12h",
-      "pubDate": 1782840408.0
-    },
-    {
-      "id": "The Guardian--1872094710100945275",
+      "id": "The Guardian-5984977101262477180",
       "source": "The Guardian",
       "title": "Six feared dead after ‘bizarre’ sinking of charter boat off Canadian coast",
       "excerpt": "The vessel, thought to have been carrying 10 people, did not issue a mayday call before sinking in the strait of Georgia Search teams in Canada have launched a recovery effort for six people believed...",
       "link": "https://www.theguardian.com/world/2026/jun/30/sinking-boat-vancouver-canada",
-      "time": "Il y a 13h",
+      "time": "Il y a 17h",
       "pubDate": 1782838960.0
     },
     {
-      "id": "The Guardian--4356953313987786691",
+      "id": "The Guardian--1925488886299941339",
       "source": "The Guardian",
       "title": "‘They will attack me if I stay’: immigrants in South Africa flee for safety amid violence and anti-foreigner protests",
       "excerpt": "More than 2,000 anti-foreigner protesters march through Durban city centre as the arbitrary deadline passes for undocumented migrants to leave the country South Africa was holding its breath on Tuesda...",
       "link": "https://www.theguardian.com/world/2026/jun/30/they-will-attack-me-if-i-stay-immigrants-in-south-africa-flee-for-safety-amid-violence-and-anti-foreigner-protests",
-      "time": "Il y a 13h",
+      "time": "Il y a 17h",
       "pubDate": 1782837812.0
     },
     {
-      "id": "NPR--3990324651358481805",
-      "source": "NPR",
-      "title": "Rep. Tom Kean returns to Congress, says depression is why he went missing for months",
-      "excerpt": "The New Jersey Republican was missing for months with no explanation for his constituents. He explained in a House floor speech that after his diagnosis, there was no timeline for recovery.",
-      "link": "https://www.npr.org/2026/06/30/nx-s1-5876222/tom-kean-new-jersey-congress-depression",
-      "time": "Il y a 13h",
-      "pubDate": 1782836977.0
-    },
-    {
-      "id": "NPR-856146365890412304",
-      "source": "NPR",
-      "title": "Law professor discusses Supreme Court's final rulings this term",
-      "excerpt": "NPR's Michel Martin speaks with Kim Wehle {WAIL-ee}, professor of law at the University of Baltimore School of Law, about the Supreme Court's final decisions this term.",
-      "link": "https://www.npr.org/2026/06/30/nx-s1-5876109/law-professor-discusses-supreme-courts-final-rulings-this-term",
-      "time": "Il y a 14h",
-      "pubDate": 1782833371.0
-    },
-    {
-      "id": "NPR-1757638135485316574",
-      "source": "NPR",
-      "title": "Editor's note: NPR retracts Justice Samuel Alito story",
-      "excerpt": "",
-      "link": "https://www.npr.org/2026/06/30/nx-s1-4622951/samuel-alito-retires",
-      "time": "Il y a 15h",
-      "pubDate": 1782831083.0
-    },
-    {
-      "id": "The Guardian-5308941493071209692",
+      "id": "The Guardian-5422275854254244836",
       "source": "The Guardian",
       "title": "Police units deployed across South Africa before anti-immigration marches",
       "excerpt": "Government fears repeat of anti-migrant violence in 2008 that led to looting and resulted in deaths of 62 people South African authorities have deployed police units to towns and cities around the cou...",
       "link": "https://www.theguardian.com/world/2026/jun/30/south-africa-police-anti-immigrant-protests",
-      "time": "Il y a 19h",
+      "time": "Il y a 23h",
       "pubDate": 1782814852.0
     },
     {
-      "id": "The Guardian--6687804148350629840",
+      "id": "The Guardian--7475018929248172822",
       "source": "The Guardian",
       "title": "Peru’s Keiko Fujimori wins presidential election, in latest victory for Latin American right",
       "excerpt": "The 51-year-old daughter of late president Alberto Fujimori secured the top office after authorities spent weeks reviewing contested ballots Peru’s conservative president-elect Keiko Fujimori has vowe...",
@@ -507,16 +522,7 @@
       "pubDate": 1782778695.0
     },
     {
-      "id": "The Guardian--3628819170824445701",
-      "source": "The Guardian",
-      "title": "Venezuelans newly deported from US missing after hotel collapse",
-      "excerpt": "More than 100 people removed on ICE flight were being held in hotel in La Guaira when earthquakes struck More than 100 people just deported from the United States were being held in a hotel when earth...",
-      "link": "https://www.theguardian.com/world/2026/jun/29/venezuela-hotel-collapse-earthquake",
-      "time": "Il y a 1j",
-      "pubDate": 1782774615.0
-    },
-    {
-      "id": "The Guardian--2879960446108378387",
+      "id": "The Guardian-7672507342754720916",
       "source": "The Guardian",
       "title": "‘Everyone is talking about Cape Verde’: World Cup run delights diaspora community in UK",
       "excerpt": "Cape Verdeans in Britain feeling ‘incredibly proud’ after team’s hard-fought draws against Spain and Uruguay <ul><li><a href=\"https://www.theguardian.com/football/live/2026/jun/26/world-cup-2026-norwa...",
@@ -525,23 +531,14 @@
       "pubDate": 1782475405.0
     },
     {
-      "id": "The Guardian-8544994824835056910",
+      "id": "The Guardian--2395951338704484009",
       "source": "The Guardian",
       "title": "Whereabouts of nearly 300 people with Ebola unknown in DR Congo",
       "excerpt": "Fears over ‘huge community transmission’ as modelling predicts thousands of deaths in DRC by September The whereabouts of almost 300 people who have tested positive for Ebola in the Democratic Republi...",
       "link": "https://www.theguardian.com/global-development/2026/jun/26/whereabouts-of-nearly-300-people-with-ebola-unknown-in-drc",
       "time": "Il y a 4j",
       "pubDate": 1782471356.0
-    },
-    {
-      "id": "The Guardian-6121285614386293231",
-      "source": "The Guardian",
-      "title": "Outrage as woman jailed for three years after criticising Somali government online",
-      "excerpt": "Sentencing of 27-year-old Sadia Moalim Ali condemned by former president and prime ministers as well as rights groups A rickshaw driver in Somalia has been sentenced to three years in prison for comme...",
-      "link": "https://www.theguardian.com/global-development/2026/jun/26/woman-sadia-moalim-ali-three-year-jail-sentence-somalia-online-comments-governement",
-      "time": "Il y a 4j",
-      "pubDate": 1782468014.0
     }
   ],
-  "lastUpdate": "2026-07-01T06:15:14.869240"
+  "lastUpdate": "2026-07-01T10:14:47.495726"
 }
