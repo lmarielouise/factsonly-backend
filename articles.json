@@ -1,365 +1,371 @@
 {
   "francophone": [
     {
-      "id": "France Info--19424400324773847",
+      "id": "France Info-6959514835058757704",
       "source": "France Info",
-      "title": "Coupe du monde 2026 : l'Espagne devant à la pause face à l'Autriche (1-0)... Suivez le seizième de finale avec nous",
+      "title": "Coupe du monde 2026 : l'Espagne étouffe l'Autriche (3-0) et file en huitièmes de finale",
       "excerpt": "Tombé dans une poule plutôt facile, la Roja entre dans le vif du sujet. Mais gare à l'excès de confiance : elle n'a plus remporté le moindre match à élimination directe en Coupe du monde depuis son sa...",
       "link": "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-2026-la-belgique-et-les-etats-unis-qualifies-en-8es-de-finale-cette-nuit-le-senegal-et-la-bosnie-herzegovine-elimines_8088455.html#xtor=RSS-3-[lestitres]",
       "time": "Il y a 10 min",
-      "pubDate": 1783022197.0
+      "pubDate": 1783026620.0
     },
     {
-      "id": "France Info-678665876085962266",
+      "id": "Le Monde--7339539799647058872",
+      "source": "Le Monde",
+      "title": "Patrick Bruel visé par trois nouvelles plaintes, deux pour viol et une pour agression sexuelle",
+      "excerpt": "Les conseils du chanteur, Fanny Colin, Céline Lasek et Christophe Ingrain, ont précisé qu’il répondrait à « ces accusations fausses dans le seul cadre pertinent et adapté : la justice, si elle est sai...",
+      "link": "https://www.lemonde.fr/societe/article/2026/07/02/nouvelles-plaintes-pour-viol-et-agression-sexuelle-contre-patrick-bruel_6718235_3224.html",
+      "time": "Il y a 12 min",
+      "pubDate": 1783026446.0,
+      "sources": [
+        "Le Monde",
+        "France Info"
+      ],
+      "multiSource": true,
+      "sourceCount": 2
+    },
+    {
+      "id": "Le Monde--6322754433754005988",
+      "source": "Le Monde",
+      "title": "Tentative d’assassinat à Monaco : un suspect identifié, mandat d’arrêt émis",
+      "excerpt": "L’enquête sur l’attaque à l’explosif progresse, alors que les autorités accélèrent la traque internationale du principal suspect.",
+      "link": "https://www.lemonde.fr/societe/article/2026/07/02/tentative-d-assassinat-a-monaco-un-suspect-identifie-mandat-d-arret-emis_6718234_3224.html",
+      "time": "Il y a 19 min",
+      "pubDate": 1783026066.0
+    },
+    {
+      "id": "France Info-6012897532004691096",
+      "source": "France Info",
+      "title": "Sébastien Lecornu appelle \"avec gravité\" les parlementaires à doter le pays d'un budget à l'automne",
+      "excerpt": "Ne pas doter la France d'un budget pour 2027 à l'automne serait \"une erreur très grave\", a-t-il mis en garde jeudi.",
+      "link": "https://www.franceinfo.fr/economie/sebastien-lecornu-appelle-avec-gravite-les-parlementaires-a-doter-le-pays-d-un-budget-a-l-automne_8090939.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 39 min",
+      "pubDate": 1783024869.0
+    },
+    {
+      "id": "Libération-5199245629958524675",
+      "source": "Libération",
+      "title": "Le principal suspect de l’explosion ayant fait trois blessés à Monaco serait une femme",
+      "excerpt": "Selon les informations de France Info et du Figaro, elle serait d’origine ukrainienne et aurait une trentaine d’années. C’est elle qui, le lundi 29 juin, aurait déposé le colis piégé dans le hall de l...",
+      "link": "https://www.liberation.fr/international/europe/le-principal-suspect-de-lexplosion-ayant-fait-trois-blesses-a-monaco-est-une-femme-20260702_6EXMDFU3KZFUZHU3HPSXK64VLI/",
+      "time": "Il y a 46 min",
+      "pubDate": 1783024430.0
+    },
+    {
+      "id": "Libération-4997589426233087871",
+      "source": "Libération",
+      "title": "Canicule : la chaleur «repart» mais «aucun» département «classé rouge» ce week-end, assure Lecornu",
+      "excerpt": "Les députés écologistes ont déposé ce jeudi leur motion de censure contre le gouvernement, reprochant au Premier ministre d’avoir «aggravé» les «vulnérabilités du pays» face au changement climatique e...",
+      "link": "https://www.liberation.fr/environnement/climat/en-direct-canicule-lecornu-attendu-ce-jeudi-a-marseille-incendies-en-cours-dans-le-sud-du-pays-20260702_WOD76NAV7JGCPKEKT5V3IJXVFY/",
+      "time": "Il y a 51 min",
+      "pubDate": 1783024136.0
+    },
+    {
+      "id": "Libération--4881465704462511972",
+      "source": "Libération",
+      "title": "L’épisode d’hantavirus déclaré sur un bateau de croisière officiellement terminé selon l’OMS",
+      "excerpt": "Le directeur général de l’organisation a annoncé, ce jeudi 2 juillet, que la dernière personne exposée au virus avait achevé sa période de quarantaine à l’issue de laquelle elle avait été testée négat...",
+      "link": "https://www.liberation.fr/societe/sante/lepisode-dhantavirus-declare-sur-un-bateau-de-croisiere-officiellement-termine-selon-loms-20260702_4PRSXQVYDBBCHKNRY63JISPKGY/",
+      "time": "Il y a 52 min",
+      "pubDate": 1783024082.0
+    },
+    {
+      "id": "Libération-67340637797572462",
+      "source": "Libération",
+      "title": "«Un suicide environnemental et économique» : en Gironde, le projet de méga-usine de saumons se précise malgré les mobilisations",
+      "excerpt": "Près de 300 opposants au projet se sont rassemblés ce jeudi devant la préfecture, alors que le Conseil départemental de l’environnement et des risques sanitaires et technologiques a rendu un avis favo...",
+      "link": "https://www.liberation.fr/environnement/un-suicide-environnemental-et-economique-en-gironde-le-projet-de-mega-usine-de-saumons-se-precise-malgre-les-mobilisations-20260702_GWDE5PZBLRADLM6N75O6JNUIGE/",
+      "time": "Il y a 52 min",
+      "pubDate": 1783024055.0
+    },
+    {
+      "id": "Libération--1732402024707099357",
+      "source": "Libération",
+      "title": "Violences dans le périscolaire : dans les Yvelines, un animateur mis en examen pour viols et agressions sexuelles sur mineurs",
+      "excerpt": "Un homme de 28 ans a été placé en garde à vue, mardi 30 juin, après avoir été visé par plusieurs plaintes de parents d’élèves d’une maternelle de la commune de Saint-Cyr-l’Ecole.",
+      "link": "https://www.liberation.fr/societe/police-justice/violences-dans-le-periscolaire-dans-les-yvelines-un-animateur-mis-en-examen-pour-viols-et-agressions-sexuelles-sur-mineurs-20260702_KMOJAP7T6VFAHPCFXIOWEVXVCM/",
+      "time": "Il y a 55 min",
+      "pubDate": 1783023878.0
+    },
+    {
+      "id": "France Info-2072957619318081315",
+      "source": "France Info",
+      "title": "Le principal suspect de l'explosion ayant fait trois blessés à Monaco est une femme d'origine ukrainienne, un mandat d’arrêt émis",
+      "excerpt": "L'information, obtenue de sources proches du dossier, se base notamment sur les déclarations d'un témoin entendu par les enquêteurs. La suspecte est toujours recherchée par les enquêteurs.",
+      "link": "https://www.franceinfo.fr/faits-divers/le-principal-suspect-de-l-explosion-ayant-fait-trois-blesses-a-monaco-est-une-femme_8090672.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 58 min",
+      "pubDate": 1783023735.0
+    },
+    {
+      "id": "Libération--9011712011452624013",
+      "source": "Libération",
+      "title": "Ibrahim Alfa Jr : «Pourquoi copier ce qui existe déjà quand tu peux littéralement créer tout ce qui te plaît ?»",
+      "excerpt": "Sur son fantastique nouvel album «Infinite Black Inside», le Britannique donne à entendre une musique qui ne ressemble à aucune autre, composée dans une transe créative après une embolie pulmonaire qu...",
+      "link": "https://www.liberation.fr/culture/musique/ibrahim-alfa-jr-pourquoi-copier-ce-qui-existe-deja-quand-tu-peux-litteralement-creer-tout-ce-qui-te-plait-20260702_JEFJZQCONNHHXAA3O2M4UNX4MY/",
+      "time": "Il y a 1h",
+      "pubDate": 1783023300.0
+    },
+    {
+      "id": "France Info-6824489529484256445",
       "source": "France Info",
       "title": "Dans un cadre monumental au pied de la Sagrada Familia, Barcelone a accueilli les coureurs du Tour de France avant le Grand Départ samedi",
       "excerpt": "Premier temps fort de l'épreuve, la présentation des coureurs au pied de la basilique a animé la cité catalane, jeudi, moins de quarante-huit heures avant le début de la compétition.",
       "link": "https://www.franceinfo.fr/tour-de-france/reportage-dans-un-cadre-monumental-au-pied-de-la-sagrada-familia-barcelone-a-accueilli-les-coureurs-du-tour-de-france-avant-le-grand-depart-samedi_8090810.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 13 min",
+      "time": "Il y a 1h",
       "pubDate": 1783022015.0
     },
     {
-      "id": "France Info--4456383231897216765",
+      "id": "France Info-8609995122933512020",
       "source": "France Info",
       "title": "Une nouvelle édition du leasing social débute le 16 juillet, annonce Roland Lescure",
       "excerpt": "\"On va continuer la politique de leasing social. Ça permet d'avoir des véhicules entre 100 et 200 euros par mois\", a fait savoir jeudi à \"Nice Matin\" le ministre de l'Economie.",
       "link": "https://www.franceinfo.fr/economie/une-nouvelle-edition-du-leasing-social-debute-le-16-juillet-annonce-roland-lescure_8090912.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 13 min",
+      "time": "Il y a 1h",
       "pubDate": 1783022003.0
     },
     {
-      "id": "Libération-8054158693971015774",
-      "source": "Libération",
-      "title": "EN DIRECT - Canicule : la chaleur «repart» mais «aucun» département «classé rouge» ce week-end, assure Lecornu",
-      "excerpt": "Les députés écologistes ont déposé ce jeudi leur motion de censure contre le gouvernement, reprochant au Premier ministre d’avoir «aggravé» les «vulnérabilités du pays» face au changement climatique e...",
-      "link": "https://www.liberation.fr/environnement/climat/en-direct-canicule-lecornu-attendu-ce-jeudi-a-marseille-incendies-en-cours-dans-le-sud-du-pays-20260702_WOD76NAV7JGCPKEKT5V3IJXVFY/",
-      "time": "Il y a 25 min",
-      "pubDate": 1783021302.0
-    },
-    {
-      "id": "Libération-2064437333188068486",
+      "id": "Libération-6487295297102759705",
       "source": "Libération",
       "title": "La patronne de la BCE, Christine Lagarde, n’exclut pas de quitter son poste pour peser dans la présidentielle",
       "excerpt": "Dans un entretien aux «Echos», publié ce jeudi 2 juillet, l’ancienne ministre de l’Economie de Nicolas Sarkozy affirme ne pas être fermée à l’idée de «porter une voix européenne» dans le débat à venir...",
       "link": "https://www.liberation.fr/politique/la-patronne-de-la-bce-christine-lagarde-nexclut-pas-de-quitter-son-poste-pour-peser-dans-la-presidentielle-20260702_JEI2USOBANFF5NEIFJSVHVPEII/",
-      "time": "Il y a 26 min",
+      "time": "Il y a 1h",
       "pubDate": 1783021232.0
     },
     {
-      "id": "France Info--6987242257423427952",
-      "source": "France Info",
-      "title": "Patrick Bruel visé par deux nouvelles plaintes pour viol et une troisième pour agression sexuelle sur mineure",
-      "excerpt": "Parmi les trois nouvelles plaintes visant le chanteur, l'une concerne un viol qui aurait eu lieu en 2014, en marge d'un événement international de poker, révèle \"Mediapart\".",
-      "link": "https://www.franceinfo.fr/culture/musique/patrick-bruel/patrick-bruel-vise-par-deux-nouvelles-plaintes-pour-viol-et-une-troisieme-pour-agression-sexuelle-sur-mineure_8090867.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 37 min",
-      "pubDate": 1783020597.0
-    },
-    {
-      "id": "Libération-296476900244699534",
+      "id": "Libération--7148041051064738949",
       "source": "Libération",
       "title": "La députée RN Marine Hamelet visée par une plainte du Secours islamique France",
       "excerpt": "L’association caritative a poursuivi, lundi 1er juillet, l’élue du Tarn-et-Garonne pour diffamation après que cette dernière l’a accusé d’avoir des liens avec les Frères musulmans, considérée comme un...",
       "link": "https://www.liberation.fr/politique/la-deputee-rn-marine-hamelet-visee-par-une-plainte-du-secours-islamique-france-20260702_FLPSAMBUDZAFZC7KBR2RR5MMJY/",
-      "time": "Il y a 40 min",
+      "time": "Il y a 1h",
       "pubDate": 1783020408.0
     },
     {
-      "id": "Libération--978186880989628877",
+      "id": "Libération--4113481184547018635",
       "source": "Libération",
       "title": "Trois nouvelles plaintes pour violences sexuelles déposées contre Patrick Bruel les 25 juin et 1er juillet",
       "excerpt": "Deux femmes accusent le chanteur de viol et une troisième d’agression sexuelle sur mineure. Dans l’un des cas, les faits qui se sont déroulés en 2014 en marge d’un tournoi international de poker, ne s...",
       "link": "https://www.liberation.fr/societe/police-justice/trois-nouvelles-plaintes-deposees-contre-patrick-bruel-les-25-juin-et-1er-juillet-20260702_PRQBL4UUINA3DPPQ7WQYVIVRAE/",
-      "time": "Il y a 50 min",
+      "time": "Il y a 2h",
       "pubDate": 1783019805.0
     },
     {
-      "id": "Libération-5443770310669935291",
+      "id": "Libération-2422680281956503012",
       "source": "Libération",
       "title": "Un nouveau binôme pour la matinale de France Inter le week-end, Francis Letellier reprend les «4 vérités» sur France 2",
       "excerpt": "En ce début juillet, le mercato bat son plein, à la radio comme à la télévision. Les chaînes se mettent en ordre de marche pour l’année présidentielle. Passage en revue des annonces de ce jeudi 2 juil...",
       "link": "https://www.liberation.fr/economie/medias/arret-de-dimanche-politique-sur-france-3-francis-letellier-aux-4-verites-sur-france-2-20260702_7DFCPNEHFJC6TDCRITQLPL2EPQ/",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1783018887.0
     },
     {
-      "id": "France Info-1170561872590515469",
+      "id": "France Info--5910705629196625954",
       "source": "France Info",
       "title": "Incendies dans le sud de la France : \"tout le territoire national est prêt à s'embraser\", alerte le porte-parole des sapeurs-pompiers, qui compte \"plus de 30 feux\" jeudi",
       "excerpt": "Près de 3 000 personnes ont notamment dû être évacuées jeudi après qu'un incendie s'est déclaré dans les Pyrénées-Orientales.",
       "link": "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-dans-le-sud-de-la-france-1-200-hectares-parcourus-par-les-flammes-pres-de-marseille-dans-l-herault-et-dans-l-aude_8089571.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1783018764.0
     },
     {
-      "id": "Libération-3326092903059269660",
-      "source": "Libération",
-      "title": "Kyiv : au moins 25 morts dans «l’attaque la plus massive» depuis le début de la guerre, Zelensky assure que l’Ukraine ripostera",
-      "excerpt": "L’Union européenne a de son côté annoncé sa volonté de proposer de nouvelles sanctions contre Moscou, à l’encontre des «entités soutenant le complexe militaro-industriel russe».",
-      "link": "https://www.liberation.fr/international/europe/neuf-morts-a-kyiv-dans-des-frappes-russes-une-fois-de-plus-lennemi-vise-deliberement-des-civils-20260702_YCRZR46J35H2VF7FVW7TWIV3EU/",
-      "time": "Il y a 1h",
-      "pubDate": 1783018662.0
-    },
-    {
-      "id": "France Info-5522218617953404526",
+      "id": "France Info--705737086476588880",
       "source": "France Info",
       "title": "\"J'ai tellement bataillé que quand ça arrive, on a du mal à y croire\" : la condamnation à perpétuité de Dany Leprince annulée",
       "excerpt": "Cela fait 32 ans qu'il clame son innocence. Dans une décision rarissime, la Cour de révision a annulé, jeudi 2 juillet, la condamnation de Dany Leprince et ordonné un nouveau procès. Il avait été cond...",
       "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/j-ai-tellement-bataille-que-quand-ca-arrive-on-a-du-mal-a-y-croire-la-condamnation-a-perpetuite-de-dany-leprince-annulee_8090825.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1783018597.0
     },
     {
-      "id": "Libération--2273688720595082413",
-      "source": "Libération",
-      "title": "Un ado de 16 ans blessé lors d’un stage, le bras happé par un malaxeur à béton",
-      "excerpt": "Le garçon était en stage dans une entreprise de travaux publics à Montlebon dans le Doubs ce jeudi lorsque l’accident est arrivé. Hospitalisé à Besançon, son pronostic vital n’est pas engagé et une en...",
-      "link": "https://www.liberation.fr/economie/social/un-ado-de-16-ans-blesse-lors-dun-stage-le-bras-happe-par-un-malaxeur-a-beton-20260702_7TOE7DGCSVBTXD3DTCYRG3I7SY/",
-      "time": "Il y a 1h",
-      "pubDate": 1783018419.0
-    },
-    {
-      "id": "Le Monde--4640391624800067907",
+      "id": "Le Monde-2029158689219135815",
       "source": "Le Monde",
       "title": "Affaire Alexis Kohler : la cour d’appel juge prescrite une partie des faits reprochés à l’ex-bras droit d’Emmanuel Macron à l’Elysée",
-      "excerpt": "L’ancien secrétaire général de l’Elysée était mis en examen pour « prise illégale d’intérêts » en lien avec l’armateur MSC, dirigé par les cousins de sa mère, entre 2009 et 2016. Si les faits antérieu...",
+      "excerpt": "L’ancien secrétaire général de la présidence de la République était mis en examen pour prise illégale d’intérêts en raison de ses liens avec l’armateur MSC, dirigé par les cousins de sa mère, de 2009...",
       "link": "https://www.lemonde.fr/societe/article/2026/07/02/affaire-alexis-kohler-la-cour-d-appel-juge-prescrite-une-partie-des-faits-reproches-a-l-ancien-secretaire-general-de-l-elysee_6718225_3224.html",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1783017974.0
     },
     {
-      "id": "Libération-6546531180983096288",
-      "source": "Libération",
-      "title": "Epinglée sur ses prises de position droitières, Karine Le Marchand étale sa colère sur ses réseaux sociaux",
-      "excerpt": "L’animatrice qui a récemment fait polémique en se positionnant en faveur de la peine de mort, a publié une vidéo, ce jeudi 2 juillet, dans laquelle elle s’en prend vertement au «Parisien», auteur d’un...",
-      "link": "https://www.liberation.fr/economie/medias/epinglee-sur-ses-prises-de-position-droitieres-karine-le-marchand-etale-sa-colere-sur-ses-reseaux-sociaux-20260702_TYVLC55S2NHJ3C34RTKDUNUERU/",
-      "time": "Il y a 1h",
-      "pubDate": 1783017158.0
-    },
-    {
-      "id": "Libération-1322988013940546852",
-      "source": "Libération",
-      "title": "Faut-il interdire les sondages pour revigorer la campagne ? «On a changé les électeurs en stratèges qui ne lisent plus les programmes»",
-      "excerpt": "Le premier secrétaire du PS, Olivier Faure, dit à «Libération» être favorable à l’interdiction des enquêtes d’opinion, accusées de reléguer le débat d’idées au second plan. Alors que plusieurs autres...",
-      "link": "https://www.liberation.fr/politique/elections/faut-il-interdire-les-sondages-pour-revigorer-la-campagne-on-a-change-les-electeurs-en-strateges-qui-ne-lisent-plus-les-programmes-20260702_ZIS3ZO7RWRE6ZHKNMPPC3L425E/",
-      "time": "Il y a 1h",
-      "pubDate": 1783016459.0
-    },
-    {
-      "id": "Le Monde--4319217350962561885",
-      "source": "Le Monde",
-      "title": "Polytechnique : présentation en grande pompe de l’Institut Bernard-Arnault, aux Invalides et avec le premier ministre",
-      "excerpt": "Sébastien Lecornu, jeudi 2 juillet, a salué le don du patron de LVMH, d’un montant exceptionnel de 50 millions d’euros, afin de financer un institut de mathématiques qui entend rivaliser avec les cent...",
-      "link": "https://www.lemonde.fr/campus/article/2026/07/02/polytechnique-presentation-en-grande-pompe-de-l-institut-bernard-arnault-aux-invalides-et-avec-le-premier-ministre_6718223_4401467.html",
-      "time": "Il y a 1h",
-      "pubDate": 1783016001.0
-    },
-    {
-      "id": "Libération--1999716625532158176",
-      "source": "Libération",
-      "title": "Aux Etats-Unis, qui a gagné des milliards ? C’est Donald Trump",
-      "excerpt": "Entre cryptomonnaies, produits dérivés et deals immobiliers, le Président a gagné plus de deux milliards de dollars en 2025 et a transformé la Maison Blanche en machine à cash pour lui et ses proches.",
-      "link": "https://www.liberation.fr/international/amerique/aux-etats-unis-qui-a-gagne-des-milliards-cest-donald-trump-20260702_L7N5LJIQAZGPFJT6QV752P3PCQ/",
-      "time": "Il y a 1h",
-      "pubDate": 1783015800.0
-    },
-    {
-      "id": "Le Monde--98832702912608055",
+      "id": "Le Monde-6877475845718932503",
       "source": "Le Monde",
       "title": "Comment Montréal est devenue la ville du plus grand rassemblement de jazz au monde",
       "excerpt": "Avec environ 2 millions de visiteurs chaque année et près de 500 concerts répartis sur une vingtaine de scènes, le Festival international de jazz de Montréal est l’un des plus imposants toutes catégor...",
       "link": "https://www.lemonde.fr/culture/article/2026/07/02/comment-montreal-est-devenue-la-ville-du-plus-grand-rassemblement-de-jazz-au-monde_6718219_3246.html",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1783015200.0
     },
     {
-      "id": "Le Monde-2155989960611201004",
-      "source": "Le Monde",
-      "title": "Affaire Dany Leprince : pourquoi la justice a annulé sa condamnation et ordonné un nouveau procès",
-      "excerpt": "Dany Leprince clame de longue date son innocence au sujet des meurtres de son frère, de sa belle-sœur et de deux de ses nièces dans leur maison de Thorigné-sur-Dué, dans la Sarthe, voisine de la sienn...",
-      "link": "https://www.lemonde.fr/societe/article/2026/07/02/affaire-dany-leprince-pourquoi-la-justice-a-annule-sa-condamnation-et-ordonne-un-nouveau-proces_6718221_3224.html",
-      "time": "Il y a 2h",
-      "pubDate": 1783015200.0
-    },
-    {
-      "id": "Le Monde--2160746886305019729",
+      "id": "Le Monde--8235484966682168586",
       "source": "Le Monde",
       "title": "EN DIRECT, guerre en Ukraine : après la pire attaque russe de Kiev depuis le début du conflit, Volodymyr Zelensky promet une riposte",
       "excerpt": "Au moins 25 personnes ont été tuées, et plus de 80 blessées, par des missiles et drones russes, selon les autorités ukrainiennes. « La Russie frappe des cibles civiles uniquement pour creuser un fossé...",
       "link": "https://www.lemonde.fr/international/live/2026/07/02/en-direct-guerre-en-ukraine-apres-la-pire-attaque-russe-sur-kiev-depuis-le-debut-du-conflit-volodymyr-zelensky-promet-une-riposte_6716525_3210.html",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1783014505.0
     },
     {
-      "id": "France Info-3239898514968417582",
+      "id": "France Info--4083814682683388277",
       "source": "France Info",
       "title": "Un essai clinique portant sur deux traitements contre Ebola a commencé jeudi en RDC, annonce l'Organisation mondiale de la santé",
       "excerpt": "Cette étude est coordonnée par l'Institut national de recherche biomédicale de la République démocratique du Congo, avec le soutien d'une coalition de partenaires dont l'OMS.",
       "link": "https://www.franceinfo.fr/sante/maladie/ebola/un-essai-clinique-portant-sur-deux-traitements-contre-ebola-a-commence-jeudi-en-rdc-annonce-l-oms_8090657.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1783014327.0
     },
     {
-      "id": "France Info--5931139320859851190",
-      "source": "France Info",
-      "title": "Génération sans tabac, Nutri-Score, casque obligatoire à vélo... Les pistes de l'Assurance-maladie pour résorber son déficit",
-      "excerpt": "La sécurité sociale formule 40 propositions à l'adresse du gouvernement qui permettraient de réaliser 4 milliards d'euros d'économies en 2027.",
-      "link": "https://www.franceinfo.fr/sante/generation-sans-tabac-nutri-score-casque-obligatoire-a-velo-les-pistes-de-l-assurance-maladie-pour-resorber-son-deficit_8090681.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
-      "pubDate": 1783014066.0
-    },
-    {
-      "id": "France Info--5158144642341234895",
-      "source": "France Info",
-      "title": "Le principal suspect de l'explosion ayant fait trois blessés à Monaco est une femme d'origine ukrainienne",
-      "excerpt": "L'information, obtenue de sources proches du dossier, se base notamment sur les déclarations d'un témoin entendu par les enquêteurs. La suspecte est toujours recherchée par les enquêteurs.",
-      "link": "https://www.franceinfo.fr/faits-divers/le-principal-suspect-de-l-explosion-ayant-fait-trois-blesses-a-monaco-est-une-femme_8090672.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
-      "pubDate": 1783013627.0
-    },
-    {
-      "id": "Le Monde-7553328060432480535",
+      "id": "Le Monde-7563732667424458106",
       "source": "Le Monde",
       "title": "Guillaume Erner sanctionné d’un avertissement à l’issue d’une saison ponctuée de polémiques sur France Culture",
       "excerpt": "Après la controverse liée à la diffusion d’un montage trompeur de « Leon le média », le producteur des « Matins » a annoncé à la rédaction de la station publique, jeudi, qu’il ne s’occupera plus du bi...",
       "link": "https://www.lemonde.fr/economie/article/2026/07/02/france-culture-guillaume-erner-sanctionne-d-un-avertissement-a-l-issue-d-une-saison-ponctuee-de-polemiques_6718216_3234.html",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1783011658.0
     },
     {
-      "id": "Le Monde-839456532033494768",
+      "id": "Le Monde--2272149482525802781",
       "source": "Le Monde",
-      "title": "EN DIRECT, Espagne-Autriche : la Roja mène à la pause grâce à Mikel Oyarzabal et domine largement les débats",
-      "excerpt": "Après des débuts peu convaincants, les coéquipiers de Lamine Yamal entrent, jeudi, dans la phase à élimination directe. Première étape : face à l’Autriche, à Los Angeles.",
+      "title": "Espagne-Autriche : la Roja surclasse l’Autriche et signe sa première victoire dans un match à élimination directe dans un Mondial depuis 2010",
+      "excerpt": "Après des débuts peu convaincants dans cette édition 2026, Lamine Yamal et ses coéquipiers ont impressionné, jeudi, face à l’Autriche, en seizièmes de finale. De quoi les rassurer avant d’affronter le...",
       "link": "https://www.lemonde.fr/sport/live/2026/07/02/en-direct-espagne-autriche-suivez-le-seizieme-de-finale-de-la-coupe-du-monde-de-football_6718213_3242.html",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1783011608.0
     },
     {
-      "id": "Le Monde--4992374968527865723",
+      "id": "Le Monde-9203689965900919847",
       "source": "Le Monde",
       "title": "Mélanie Plouviez, philosophe : « Le riche n’est pas riche seul : il l’est dans un monde social qui reconnaît ce qu’il possède »",
       "excerpt": "La richesse ne se décrète pas uniquement à l’inventaire des biens possédés et accumulés, observe la philosophe Mélanie Plouviez dans un entretien au « Monde ». Depuis l’Antiquité, elle se réalise égal...",
       "link": "https://www.lemonde.fr/societe/article/2026/07/02/melanie-plouviez-philosophe-le-riche-n-est-pas-riche-seul-il-l-est-dans-un-monde-social-qui-reconnait-ce-qu-il-possede_6718200_3224.html",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1783008010.0
     },
     {
-      "id": "Le Monde--7502878445468004077",
+      "id": "Le Monde--368259344372349814",
       "source": "Le Monde",
       "title": "Daniela Amodei, présidente d’Anthropic : « Nous devons embrasser à la fois le côté positif et la part d’ombre de l’IA »",
       "excerpt": "La présidente de la start-up américaine d’intelligence artificielle, valorisée 965 milliards de dollars et connue pour ses alertes sur les risques de cette technologie, expose dans un entretien au « M...",
       "link": "https://www.lemonde.fr/economie/article/2026/07/02/daniela-amodei-presidente-d-anthropic-nous-devons-embrasser-le-cote-positif-et-la-part-d-ombre-de-l-ia_6718196_3234.html",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1783007125.0
     },
     {
-      "id": "Le Monde-556655393089274027",
+      "id": "Le Monde-4624104533314526011",
       "source": "Le Monde",
       "title": "Le point sur les incendies dans le sud de la France : d’importants dégâts à Canet-en-Roussillon, le feu dans l’Aude progresse toujours",
       "excerpt": "Le premier ministre, Sébastien Lecornu, préside à Marseille une cellule de crise sur la canicule et la situation des incendies, alors que les températures devraient être à nouveau très élevées ce week...",
       "link": "https://www.lemonde.fr/planete/article/2026/07/02/l-incendie-dans-l-aude-et-l-heraut-progresse-nouveau-depart-de-feu-vers-perpignan-sebastien-lecornu-a-marseille-le-point-sur-la-situation_6718190_3244.html",
-      "time": "Il y a 4h",
+      "time": "Il y a 6h",
       "pubDate": 1783005534.0
     },
     {
-      "id": "France Info--7173244627991915956",
+      "id": "France Info-3404543540331199435",
       "source": "France Info",
       "title": "\"Appelle-moi Mobut' !\" : pourquoi Kylian Mbappé est surnommé \"Mobutu\" par les internautes et ses coéquipiers des Bleus",
       "excerpt": "Depuis 2022, l'attaquant de l'équipe de France est comparé à l'ancien dictateur congolais sur internet en raison de son attitude jugée autoritaire sur le terrain comme dans les vestiaires. Les Bleus o...",
       "link": "https://www.franceinfo.fr/coupe-du-monde/appelle-moi-mobut-pourquoi-kylian-mbappe-est-surnomme-mobutu-par-les-internautes-et-ses-coequipiers-des-bleus_8089847.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1782999377.0
     }
   ],
   "anglophone": [
     {
-      "id": "BBC News-8965060395273830126",
+      "id": "BBC News--6124600117335384059",
       "source": "BBC News",
       "title": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
       "excerpt": "US authorities charged him with property destruction after renovations championed by President Donald Trump appeared to go awry.",
       "link": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 18 min",
-      "pubDate": 1783021701.0
+      "time": "Il y a 45 min",
+      "pubDate": 1783024492.0
     },
     {
-      "id": "BBC News--8752842821357251888",
+      "id": "BBC News--9134869111736778247",
+      "source": "BBC News",
+      "title": "'Most massive' Russian attack on Kyiv kills at least 27",
+      "excerpt": "The latest barrage deployed the largest number of weapons on the capital and hit locations over a wide area.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 1h",
+      "pubDate": 1783023494.0
+    },
+    {
+      "id": "NPR--5063781070318757921",
+      "source": "NPR",
+      "title": "Christian missionaries have found a new (virtual) mission territory",
+      "excerpt": "The room may be virtual, but the prayer — and the evangelism — are not.",
+      "link": "https://www.npr.org/2026/07/02/g-s1-131124/christian-missionaries-have-found-a-new-virtual-mission-territory",
+      "time": "Il y a 1h",
+      "pubDate": 1783022813.0
+    },
+    {
+      "id": "BBC News--9196138274794631022",
       "source": "BBC News",
       "title": "Killers of British couple in South Africa sentenced to life",
       "excerpt": "The pair had been collecting rare plants and seeds before their bodies were found days later in a river.",
       "link": "https://www.bbc.co.uk/news/articles/cvgm49j9692o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1783017787.0
     },
     {
-      "id": "BBC News--3425492067346566706",
-      "source": "BBC News",
-      "title": "'Most massive' Russian attack on Kyiv kills at least 25",
-      "excerpt": "The latest barrage deployed the largest number of weapons on the capital and hit locations over a wide area.",
-      "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 1h",
-      "pubDate": 1783017336.0
-    },
-    {
-      "id": "NPR-2639765455991808761",
+      "id": "NPR--7300809441514888051",
       "source": "NPR",
       "title": "What to know about the Society of St. Pius X, the schismatic group excommunicated by the Pope",
       "excerpt": "The Society of St. Pius X was excommunicated by Pope Leo for ordaining bishops without his permission. Its issues with the church run far deeper.<br />",
       "link": "https://www.npr.org/2026/07/02/g-s1-131791/what-to-know-about-the-society-of-st-pius-x-the-schismatic-group-excommunicated-by-the-pope",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1783016803.0
     },
     {
-      "id": "BBC News-72738689325328219",
+      "id": "BBC News--2789113339601319765",
       "source": "BBC News",
       "title": "Bomb blast at Damascus cafe kills six, Syrian state media say",
       "excerpt": "There was no immediate claim for the bombing at a cafe close to the Palace of Justice, a major government building.",
       "link": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1783014978.0
     },
     {
-      "id": "NPR-5097035232357277802",
+      "id": "NPR-8700278366663978675",
       "source": "NPR",
       "title": "Photos: Fans gather in the Bay Area for the World Cup match between the U.S. and Bosnia-Herzegovina",
       "excerpt": "World Cup watch parties in Santa Clara and the San Francisco Bay Area brought fans together for the United States vs. Bosnia-Herzegovina match, where the U.S. earned a 2-0 win to reach the Round of 16...",
       "link": "https://www.npr.org/sections/the-picture-show/2026/07/02/g-s1-131712/photos-fans-gather-in-the-bay-area-for-the-world-cup-match-between-the-u-s-and-bosnia-herzegovina",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1783014710.0
     },
     {
-      "id": "BBC News--4641749650985024261",
+      "id": "BBC News--883239683554915459",
       "source": "BBC News",
       "title": "Vatican excommunicates followers of global Catholic sect",
       "excerpt": "Around 600,000 followers of the Society of Saint Pius X, a Catholic sect, are affected.",
       "link": "https://www.bbc.co.uk/news/articles/c5yz95188jjo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1783013256.0
     },
     {
-      "id": "The Guardian--7413144043079350255",
+      "id": "The Guardian-837108582501255349",
       "source": "The Guardian",
       "title": "Venezuelan man saved from collapsed mall eight days after earthquakes",
       "excerpt": "Security guard Hernán Alberto Gil Flores, 43, initially told rescuers not to tell his wife in case he did not survive A 43-year-old security guard who survived last week’s devastating earthquakes in V...",
       "link": "https://www.theguardian.com/world/2026/jul/02/venezuelan-man-pulled-alive-from-collapsed-basement-eight-days-after-earthquakes",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1783013046.0
     },
     {
-      "id": "NPR--1467936966983787699",
+      "id": "NPR--6694432814322421139",
       "source": "NPR",
       "title": "The days are hot, but so are the nights. That's a problem, experts say",
       "excerpt": "As much of the Eastern U.S. experiences potentially record-breaking daytime temperatures, the nights are also staying unusually warm, leaving the human body no time to recover.",
       "link": "https://www.npr.org/2026/07/02/nx-s1-5879113/heat-wave-nighttime-climate-change",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1783011350.0
     },
     {
-      "id": "The Guardian--6197443591990859882",
+      "id": "The Guardian-6525983214164340722",
       "source": "The Guardian",
       "title": "Canadian boy dies of rabies after waking to find bat on his face",
       "excerpt": "Eleven-year-old developed symptoms 19 days after encounter in Ontario in ‘exceedingly rare’ case Doctors in Canada say a child who awoke to find a bat resting on his nose and mouth while visiting an O...",
       "link": "https://www.theguardian.com/world/2026/jul/02/canadian-boy-dies-rabies-bat-on-face",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1783009778.0,
       "sources": [
         "The Guardian",
@@ -369,133 +375,124 @@
       "sourceCount": 2
     },
     {
-      "id": "BBC News--4181005242388253019",
+      "id": "BBC News--7377928125976793475",
       "source": "BBC News",
       "title": "Venezuela quake survivor pulled out alive after eight days",
       "excerpt": "Hernán Gil was trapped under a collapsed multi-storey car park, and encouraged them as they inched closer to him.",
       "link": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 3h",
+      "time": "Il y a 5h",
       "pubDate": 1783008684.0
     },
     {
-      "id": "BBC News-4041306333643346839",
+      "id": "BBC News-4922817343787041939",
       "source": "BBC News",
       "title": "South Africa and Ghana in diplomatic row over alleged killing of migrant",
       "excerpt": "South Africa denies claims that a Ghanaian citizen was killed in anti-migrant protests in Cape Town.",
       "link": "https://www.bbc.co.uk/news/articles/c982k1j3d70o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 6h",
+      "time": "Il y a 8h",
       "pubDate": 1782997876.0
     },
     {
-      "id": "NPR--1413897328349859021",
+      "id": "NPR--271822324249804739",
       "source": "NPR",
       "title": "Trump denies conflict of interest over crypto. And, Vatican excommunicates rebel group",
       "excerpt": "Trump and his family earned over $1 billion last year through cryptocurrency ventures and other businesses. And, the Vatican declared that the traditionalist Society of St. Pius X has entered schism.",
       "link": "https://www.npr.org/2026/07/02/g-s1-131702/up-first-newsletter-trump-crypto-earnings-society-pope-pius-venezuela-world-cup",
-      "time": "Il y a 8h",
+      "time": "Il y a 9h",
       "pubDate": 1782991390.0
     },
     {
-      "id": "The Guardian-4875485608112672627",
+      "id": "The Guardian-7182969400040749397",
       "source": "The Guardian",
       "title": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
       "excerpt": "Authorities say rainy season getting deadlier, with Ghana reporting 13 dead and floods hitting Benin, Togo and Nigeria Floods in Côte d’Ivoire have killed 59 people since May, the communication minist...",
       "link": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains",
-      "time": "Il y a 9h",
+      "time": "Il y a 10h",
       "pubDate": 1782990092.0
     },
     {
-      "id": "NPR-5961234619556629859",
+      "id": "NPR-9118561901977032472",
       "source": "NPR",
       "title": "Former ethics lawyer says Trump's crypto poses 'clear conflict of interest'",
       "excerpt": "Former White House ethics lawyer Richard Painter says President Trump \"stands alone\" in having substantial financial conflicts of interest and that, \"for every other executive branch official, it woul...",
       "link": "https://www.npr.org/2026/07/02/nx-s1-5877487/trump-crypto-earnings-ethics",
-      "time": "Il y a 9h",
+      "time": "Il y a 10h",
       "pubDate": 1782989041.0
     },
     {
-      "id": "NPR-1164603065367858251",
+      "id": "NPR-4461699422774424633",
       "source": "NPR",
       "title": "Going outside in this heat? Follow these guidelines to stay safe",
       "excerpt": "Man, it's a hot one! Don't go out in this summer's heat wave before you arm yourself with these tips and a really big water bottle.",
       "link": "https://www.npr.org/2026/07/02/nx-s1-5878429/heat-wave-stroke-exhaustion-prevention-safety",
-      "time": "Il y a 10h",
+      "time": "Il y a 11h",
       "pubDate": 1782986400.0
     },
     {
-      "id": "BBC News--8851509506024988942",
+      "id": "BBC News--3321527599980197453",
       "source": "BBC News",
       "title": "China says pilot crashed small plane into skyscraper for 'personal reasons'",
       "excerpt": "The 66-year-old, who died in the crash, had anxiety and referenced \"ending his life\" in his diary.",
       "link": "https://www.bbc.co.uk/news/articles/cr47129ky6do?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 10h",
+      "time": "Il y a 11h",
       "pubDate": 1782984091.0
     },
     {
-      "id": "The Guardian--9151493914383683581",
+      "id": "The Guardian-7446595182522237673",
       "source": "The Guardian",
       "title": "Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak",
       "excerpt": "If we don’t know the source, not only do humans remain at risk but wildlife can suffer needlessly via retaliation While virologists and public health departments were palpitating over the news of an <...",
       "link": "https://www.theguardian.com/environment/2026/jul/02/understanding-ebola-wildlife-origins-crucial-preventing-next-big-outbreak",
-      "time": "Il y a 11h",
+      "time": "Il y a 12h",
       "pubDate": 1782982800.0
     },
     {
-      "id": "NPR-8225169813455683653",
+      "id": "NPR-7218656353402038336",
       "source": "NPR",
       "title": "The U.S. healthcare system is in crisis. A Supreme Court ruling could make things worse",
       "excerpt": "Mass deportations would be felt across hospitals and emergency rooms, which already face persistent staffing shortfalls. The long-term healthcare sector will suffer the greatest disruptions, experts s...",
       "link": "https://www.npr.org/2026/07/02/nx-s1-5878415/haitian-tps-healthcare-immigration-supreme-court",
-      "time": "Il y a 11h",
+      "time": "Il y a 12h",
       "pubDate": 1782982800.0
     },
     {
-      "id": "NPR--5522532790149883498",
+      "id": "NPR-3934791022025071323",
       "source": "NPR",
       "title": "Federal civil rights data holds schools accountable. Under Trump, it's 6 months late",
       "excerpt": "The Education Department has long collected civil rights data about things like bullying, harassment and disability services in schools, but it hasn't made the latest information public.",
       "link": "https://www.npr.org/2026/07/02/nx-s1-5859422/civil-rights-data-students-education",
-      "time": "Il y a 11h",
+      "time": "Il y a 12h",
       "pubDate": 1782982800.0
     },
     {
-      "id": "NPR--609667606419716357",
+      "id": "NPR--6201141717869600584",
       "source": "NPR",
       "title": "Vatican declares Society of St. Pius X in schism, excommunicates bishops",
       "excerpt": "The Vatican responded Thursday to a traditionalist society that consecrated bishops without the pope's consent, declaring the Society of St. Pius X in schism and excommunicating its bishops and priest...",
       "link": "https://www.npr.org/2026/07/02/nx-s1-5878916/vatican-society-of-st-pius-x-in-schism",
-      "time": "Il y a 11h",
+      "time": "Il y a 12h",
       "pubDate": 1782982488.0
     },
     {
-      "id": "NPR-5647670466135321888",
-      "source": "NPR",
-      "title": "U.S. job market slows in June",
-      "excerpt": "Employers added 57,000 jobs in June, the Labor Department said on Friday, as jobs growth slowed from the previous two months, while the unemployment rate ticked down to 4.2%.",
-      "link": "https://www.npr.org/2026/07/02/nx-s1-5877491/labor-department-to-release-latest-jobs-report-thursday",
-      "time": "Il y a 11h",
-      "pubDate": 1782982168.0
-    },
-    {
-      "id": "BBC News-5578232463148632379",
+      "id": "BBC News--5627018978217856211",
       "source": "BBC News",
       "title": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
       "excerpt": "Once described as \"the godfather\" of French migrant camps, he has been working in a Leicestershire village.",
       "link": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 15h",
+      "time": "Il y a 16h",
       "pubDate": 1782968403.0
     },
     {
-      "id": "The Guardian--2181237067504207735",
+      "id": "The Guardian-1975094085715111596",
       "source": "The Guardian",
       "title": "Trump refuses to renew US-Canada-Mexico trade pact he once championed",
       "excerpt": "Trump and US officials opted to keep USMCA alive on short leash of annual reviews rather than longer term renewal <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> has refused...",
       "link": "https://www.theguardian.com/us-news/2026/jul/01/trump-usmca-trade-treaty",
-      "time": "Il y a 23h",
+      "time": "Il y a 1j",
       "pubDate": 1782936541.0
     },
     {
-      "id": "The Guardian--7613827033797348072",
+      "id": "The Guardian--700265140481661377",
       "source": "The Guardian",
       "title": "Four people die in mass fan celebrations in Mexico City after World Cup victory",
       "excerpt": "<ul><li>Three of the victims died from suffocation </li><li>More than a million people gathered in Mexico City </li></ul>Four people died, three ⁠from suffocation, as thousands of fans crowded Mexico...",
@@ -504,7 +501,7 @@
       "pubDate": 1782931741.0
     },
     {
-      "id": "The Guardian-172762989239321087",
+      "id": "The Guardian--2956518102994459241",
       "source": "The Guardian",
       "title": "Canada to ​join Eurovision song contest from 2027",
       "excerpt": "Country is first to join since Australia in 2015 as event director says it ‘continues to welcome the world’ Canada will ​join the Eurovision song contest in 2027, becoming the first new ⁠participant s...",
@@ -513,7 +510,7 @@
       "pubDate": 1782925148.0
     },
     {
-      "id": "The Guardian--4919666036139215244",
+      "id": "The Guardian-8484572312028895489",
       "source": "The Guardian",
       "title": "Sudan’s RSF committed crimes against humanity in El Fasher, Amnesty says",
       "excerpt": "Report accuses paramilitary force of crimes including ethnic cleansing in systemic campaign against civilians The Sudanese paramilitary Rapid Support Forces committed crimes against humanity and ethni...",
@@ -522,7 +519,7 @@
       "pubDate": 1782909900.0
     },
     {
-      "id": "The Guardian-3813568450905792583",
+      "id": "The Guardian--7147437490018509965",
       "source": "The Guardian",
       "title": "‘Witch-hunt’ in Niger as military regime rounds up LGBTQ+ population",
       "excerpt": "Fears of resurgence of HIV/Aids amid loss of access to PrEP drugs as at least 40 people arrested in ‘toxic’ climate A “witch-hunt” is under way in Niger, where dozens of people have been arrested for...",
@@ -531,7 +528,7 @@
       "pubDate": 1782889229.0
     },
     {
-      "id": "The Guardian-8623498572520407119",
+      "id": "The Guardian-1085866630882606285",
       "source": "The Guardian",
       "title": "‘They will attack me if I stay’: immigrants in South Africa flee for safety amid violence and anti-foreigner protests",
       "excerpt": "More than 2,000 anti-foreigner protesters march through Durban city centre as the arbitrary deadline passes for undocumented migrants to leave the country South Africa was holding its breath on Tuesda...",
@@ -540,5 +537,5 @@
       "pubDate": 1782837812.0
     }
   ],
-  "lastUpdate": "2026-07-02T20:07:16.850661"
+  "lastUpdate": "2026-07-02T21:20:27.599864"
 }
