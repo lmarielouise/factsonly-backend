@@ -1,39 +1,147 @@
 {
   "francophone": [
     {
-      "id": "Libération-1050844095843866808",
+      "id": "Libération-8545581447672461178",
+      "source": "Libération",
+      "title": "EasyJet annonce un «accord de principe» pour un rachat par un fonds d’investissement américain",
+      "excerpt": "La compagnie aérienne britannique se dit «disposée à recommander aux actionnaires» d’accepter la proposition émise par Castlelake, la valorisant à 6,90 livres par action.",
+      "link": "https://www.liberation.fr/economie/transports/easyjet-annonce-un-accord-de-principe-pour-un-rachat-par-un-fonds-dinvestissement-americain-20260705_KKXW7OOMLVDOZMML4WMQLVVXYI/",
+      "time": "Il y a 6 min",
+      "pubDate": 1783276828.0
+    },
+    {
+      "id": "France Info--5694618801135307739",
+      "source": "France Info",
+      "title": "Coupe du monde 2026 : La Norvège défie le Brésil alors que le Mexique affronte l'Angleterre dans une nouvelle soirée de huitièmes de finale",
+      "excerpt": "Le Brésil reste favori même s'il n'a jamais battu en compétition officielle la Norvège d'Erling Haaland, le Mexique voudra briller à domicile",
+      "link": "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-2026-le-bresil-de-neymar-se-frotte-a-la-norvege-de-haaland-en-huitiemes-de-finale-dimanche-soir_8094095.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 7 min",
+      "pubDate": 1783276735.0
+    },
+    {
+      "id": "Libération-3162033716169308593",
+      "source": "Libération",
+      "title": "Incendies dans les Pyrénées-Orientales : plus de 10 000 personnes concernées au total, l’étape de lundi du Tour de France «adaptée» et «sans public»",
+      "excerpt": "Seize départements du sud et de l’ouest de la France passeront en vigilance orange canicule lundi, contre sept dimanche uniquement dans le Sud, a annoncé Météo-France. La troisième étape du Tour de Fr...",
+      "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-sept-departements-en-vigilance-rouge-aux-feux-de-foret-20260705_O3KQS7YGMRDCPHKXKFRAHXWJG4/",
+      "time": "Il y a 12 min",
+      "pubDate": 1783276434.0
+    },
+    {
+      "id": "Libération--2000878456055977573",
+      "source": "Libération",
+      "title": "Présidentielle : dans son premier meeting destiné à séduire la droite, Edouard Philippe demande «un peu de sueur» pour «l’avenir des enfants»",
+      "excerpt": "Devant 5 200 personnes à l’Adidas Arena, l’ex-Premier ministre a tenté ce dimanche de plaire aux électeurs toujours plus éparpillés de la droite et du centre. Mais est resté flou sur plusieurs de ses...",
+      "link": "https://www.liberation.fr/politique/elections/presidentielle-dans-son-premier-meeting-destine-a-seduire-la-droite-edouard-philippe-demande-un-peu-de-sueur-pour-lavenir-des-enfants-20260705_WC4C74EZYNHKHNZBPNOUACMCKU/",
+      "time": "Il y a 20 min",
+      "pubDate": 1783275978.0
+    },
+    {
+      "id": "France Info-5798758335615605982",
+      "source": "France Info",
+      "title": "Incendies : Laurent Nuñez annonce que \"le feu progresse\" dans les Pyrénées-Orientales 10 000 personnes, menacées sont en cours d'évacuation",
+      "excerpt": "Les habitants de la ville d'Ille-sur-Têt sont priés de partir de chez eux après les habitants du massif des AspresUn pompier et un habitant, qui a été brûlé, sont en urgence absolue.",
+      "link": "https://www.franceinfo.fr/faits-divers/incendie/direct-feux-de-foret-l-incendie-dans-les-pyrenees-orientales-reprend-de-la-vigueur-apres-avoir-parcouru-pres-de-1-000-hectares-depuis-samedi-soir_8094836.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 31 min",
+      "pubDate": 1783275330.0
+    },
+    {
+      "id": "Libération-8228105836684540655",
+      "source": "Libération",
+      "title": "«Sans doute proche des quatre millions d’euros» : en Alsace, le musée Lalique annonce avoir été cambriolé",
+      "excerpt": "Le ou les voleurs sont entrés par effraction vers 5 h 30 dans le lieu dédié au joaillier-verrier de l’Art nouveau et de l’Art déco, implanté à Wingen-sur-Moder. «L’établissement sera fermé dans les jo...",
+      "link": "https://www.liberation.fr/societe/police-justice/sans-doute-proche-des-quatre-millions-deuros-en-alsace-le-musee-lalique-annonce-avoir-ete-cambriole-20260705_IBKQOBBJ3FG2FKBMY6H4JHOJVI/",
+      "time": "Il y a 33 min",
+      "pubDate": 1783275193.0
+    },
+    {
+      "id": "Le Monde--82259224521071635",
+      "source": "Le Monde",
+      "title": "Tour de France 2026 : Isaac Del Toro, vainqueur, confirme la mainmise de l’équipe Tadej Pogacar, dès la deuxième étape",
+      "excerpt": "Lancé vers la victoire, Tadej Pogacar a finalement choisi de l’offrir à son équipier mexicain chez UAE Team Emirates-XRG, dimanche à Barcelone. Favori à sa propre succession, le Slovène semble dispose...",
+      "link": "https://www.lemonde.fr/sport/article/2026/07/05/tour-de-france-2026-isaac-del-toro-vainqueur-confirme-la-mainmise-de-l-equipe-tadej-pogacar-des-la-deuxieme-etape_6720909_3242.html",
+      "time": "Il y a 34 min",
+      "pubDate": 1783275123.0
+    },
+    {
+      "id": "Libération-1731689123228069082",
+      "source": "Libération",
+      "title": "Raphaël Glucksmann «sacrément privilégié», les «zadistes» de l’aile droite du PS… Marine Tondelier se paie les anti-union de la gauche",
+      "excerpt": "Au Festival des idées de La Charité-sur-Loire, ce dimanche, la secrétaire nationale des Ecologistes, Marine Tondelier, a ciblé l’attitude de l’eurodéputé, qui avait refusé l’alliance avec LFI au secon...",
+      "link": "https://www.liberation.fr/politique/raphael-glucksmann-sacrement-privilegie-les-zadistes-de-laile-droite-du-ps-marine-tondelier-se-paie-les-anti-union-de-la-gauche-20260705_Y2MAHWQEPNDEZO44HJLYKT3Z3E/",
+      "time": "Il y a 40 min",
+      "pubDate": 1783274779.0
+    },
+    {
+      "id": "Libération--4098745749201958863",
+      "source": "Libération",
+      "title": "Marine Le Pen définitivement inéligible en 2027 ? Une page de l’histoire peut-être en train de se tourner",
+      "excerpt": "Si la cour d’appel confirme mardi l’impossibilité pour Marine Le Pen de se présenter à la présidentielle l’an prochain, le RN dénoncera une «justice politique». Mais derrière cette décision se joue su...",
+      "link": "https://www.liberation.fr/idees-et-debats/editorial/marine-le-pen-definitivement-ineligible-en-2027-une-page-de-lhistoire-peut-etre-en-train-de-se-tourner-20260705_M2PWFPPREBERJNAHQBNAT52FAM/",
+      "time": "Il y a 44 min",
+      "pubDate": 1783274540.0
+    },
+    {
+      "id": "Le Monde--7924286541739898857",
+      "source": "Le Monde",
+      "title": "Alexandra de Hoop Scheffer, politiste : « Les Etats-Unis sont dans une logique de saturation stratégique »",
+      "excerpt": "Engagé sur plusieurs fronts, Washington renégocie le contrat transatlantique de façon unilatérale, en pressant les alliés européens de prendre en charge leur sécurité, explique la politiste, dans un e...",
+      "link": "https://www.lemonde.fr/international/article/2026/07/05/alexandra-de-hoop-scheffer-politiste-les-etats-unis-sont-dans-une-logique-de-saturation-strategique_6720907_3210.html",
+      "time": "Il y a 46 min",
+      "pubDate": 1783274410.0
+    },
+    {
+      "id": "Le Monde--8538281433157214930",
+      "source": "Le Monde",
+      "title": "Les contrôleurs aériens dans le viseur de la Cour des comptes, qui propose de les sortir de la fonction publique d’Etat",
+      "excerpt": "Dans un rapport rendu public dimanche, les magistrats dressent un bilan désastreux de la performance économique et de l’organisation du contrôle aérien en France.",
+      "link": "https://www.lemonde.fr/economie/article/2026/07/05/les-controleurs-aeriens-dans-le-viseur-de-la-cour-des-comptes-qui-propose-de-les-sortir-de-la-fonction-publique-d-etat_6720908_3234.html",
+      "time": "Il y a 46 min",
+      "pubDate": 1783274404.0
+    },
+    {
+      "id": "France Info--2809586198685865787",
+      "source": "France Info",
+      "title": "Retards et annulations de vols, temps de travail, gestion des emplois... La Cour des comptes épingle le contrôle aérien",
+      "excerpt": "La Cour des comptes pointe, dans un rapport qui sera publié lundi et que franceinfo a pu consulter, la gestion des ressources humaines à la Direction générale de l'aviation civile (DGAC).",
+      "link": "https://www.franceinfo.fr/economie/aeronautique/retards-et-annulations-de-vols-temps-de-travail-gestion-des-emplois-la-cour-des-comptes-epingle-le-controle-aerien_8093912.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 46 min",
+      "pubDate": 1783274402.0
+    },
+    {
+      "id": "Libération--1887103669340749858",
+      "source": "Libération",
+      "title": "Feux de forêt : «Tout miser sur la lutte n’est plus suffisant, il faut s’atteler à la prévention»",
+      "excerpt": "Alors que les incendies se multiplient, notamment dans le sud de la France, le géographe Arthur Guérin-Turcq appelle à des décisions portées par l’Etat, afin de créer des zones tampons autour des vill...",
+      "link": "https://www.liberation.fr/environnement/climat/feux-de-foret-tout-miser-sur-la-lutte-nest-plus-suffisant-il-faut-satteler-a-la-prevention-20260705_IRKCPMA4XFA3RHEVGXJVYNI6OY/",
+      "time": "Il y a 54 min",
+      "pubDate": 1783273955.0
+    },
+    {
+      "id": "Libération-1081314084379856548",
       "source": "Libération",
       "title": "La «GUD connexion» toujours privilégiée ? Le RN à nouveau soupçonné par le Parlement européen",
       "excerpt": "Dans un rapport révélé ce dimanche par «Mediapart», la direction générale financière de l’institution dénonce des «violations des principes fondamentaux régissant le droit de la commande publique». En...",
       "link": "https://www.liberation.fr/politique/la-gud-connexion-toujours-privilegiee-le-rn-a-nouveau-soupconne-par-le-parlement-europeen-20260705_UOVFS6XLLBAIJEML32WBD2CKEA/",
-      "time": "Il y a 1 min",
+      "time": "Il y a 1h",
       "pubDate": 1783273490.0
     },
     {
-      "id": "Libération-480947633558734558",
+      "id": "Libération--8103625934488341709",
       "source": "Libération",
       "title": "Coupe du monde : le Paraguay, les joueurs à 5 000 euros mensuels et l’altérité",
       "excerpt": "Le monde balisé dans lequel les Bleus évoluent tranche avec celui des Paraguayens : pour exister, ils ont lutté, joué dur, fermé, ressuscitant en quelque sorte le foot d’avant et montrant qu’il est bi...",
       "link": "https://www.liberation.fr/sports/football/coupe-du-monde-le-paraguay-les-joueurs-a-5-000-euros-mensuels-et-lalterite-20260705_WOWMFLPQPJGE5H756JUOHHYPFQ/",
-      "time": "Il y a 2 min",
+      "time": "Il y a 1h",
       "pubDate": 1783273431.0
     },
     {
-      "id": "France Info--3747406759942952642",
-      "source": "France Info",
-      "title": "Coupe du monde 2026 : Donald Trump remercie la FIFA d'avoir annulé le carton rouge infligé au joueur américain Folan Balogun",
-      "excerpt": "La Norvège défie le Brésil alors que le Mexique affronte l'Angleterre dans une nouvelle soirée de huitièmes de finale",
-      "link": "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-2026-le-bresil-de-neymar-se-frotte-a-la-norvege-de-haaland-en-huitiemes-de-finale-dimanche-soir_8094095.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 9 min",
-      "pubDate": 1783272994.0
-    },
-    {
-      "id": "Libération-5259279249981665087",
+      "id": "Libération--8987314272246967917",
       "source": "Libération",
       "title": "Belle-Ile-en-Mer : le maire de Locmaria meurt d’un arrêt cardiaque après une altercation avec un plaisancier",
       "excerpt": "Dominique Rousselot, élu de 57 ans, est mort samedi dans la soirée dans un port de l’île bretonne. «Il est trop tôt pour dire les circonstances exactes du décès et de l’altercation», a fait savoir la...",
       "link": "https://www.liberation.fr/societe/police-justice/belle-ile-en-mer-le-maire-de-locmaria-meurt-dun-arret-cardiaque-apres-une-altercation-avec-un-plaisancier-20260705_7HP374ICA5D77DGIYJC4VKEGBY/",
-      "time": "Il y a 10 min",
+      "time": "Il y a 1h",
       "pubDate": 1783272918.0,
       "sources": [
         "Libération",
@@ -43,396 +151,297 @@
       "sourceCount": 2
     },
     {
-      "id": "Libération--6804822157020564069",
-      "source": "Libération",
-      "title": "«Quoi qu’il arrive, ma voix ira au RN» : les électeurs partagés entre Bardella le jeune loup et Marine Le Pen l’expérimentée",
-      "excerpt": "A quelques jours de la décision de justice du 7 juillet qui doit dire si Marine Le Pen peut concourir à la présidentielle, les sympathisants du RN rencontrés par «Libé» balancent, même si le président...",
-      "link": "https://www.liberation.fr/politique/elections/quoi-quil-arrive-ma-voix-ira-au-rn-les-electeurs-partages-entre-bardella-le-jeune-loup-et-marine-le-pen-lexperimentee-20260705_UFDJT2WFPZAXDB2KLHL67W22DI/",
-      "time": "Il y a 10 min",
-      "pubDate": 1783272915.0
-    },
-    {
-      "id": "Le Monde--6135724415070049245",
+      "id": "Le Monde-4548094006365595811",
       "source": "Le Monde",
       "title": "France-Paraguay : le « sale football », c’est encore du football",
       "excerpt": "Préférer l’antijeu au jeu, comme le Paraguay contre la France, c’est moche mais cela fait partie du jeu. Et c’est peu efficace.",
       "link": "https://www.lemonde.fr/une-balle-dans-le-pied/article/2026/07/05/france-paraguay-le-sale-football-c-est-encore-du-football_6720904_6606027.html",
-      "time": "Il y a 15 min",
+      "time": "Il y a 1h",
       "pubDate": 1783272620.0
     },
     {
-      "id": "Libération--6311990766960936963",
-      "source": "Libération",
-      "title": "EN DIRECT - Incendies dans les Pyrénées-Orientales : l’étape de lundi du Tour de France «adaptée» et «sans public»",
-      "excerpt": "Un nouveau sinistre est en cours dans les Pyrénées-Orientales, alors que Météo France met en garde contre des «vents parfois forts» qui entraînent «un danger élevé à très élevé» dans les régions médit...",
-      "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-sept-departements-en-vigilance-rouge-aux-feux-de-foret-20260705_O3KQS7YGMRDCPHKXKFRAHXWJG4/",
-      "time": "Il y a 25 min",
-      "pubDate": 1783272031.0
-    },
-    {
-      "id": "Libération-7711349695971416105",
-      "source": "Libération",
-      "title": "A Marseille, des bateaux en proie aux flammes dans le Vieux-Port",
-      "excerpt": "Un incendie a touché plusieurs bateaux ce dimanche. Environ 150 marins-pompiers ont été déployés pour en venir à bout.",
-      "link": "https://www.liberation.fr/societe/a-marseille-le-vieux-port-en-proie-aux-flammes-20260705_MDWVLL2JM5BO7ILZTXXZHYR5RI/",
-      "time": "Il y a 30 min",
-      "pubDate": 1783271715.0
-    },
-    {
-      "id": "Libération-7349740816421036376",
-      "source": "Libération",
-      "title": "Tour de France 2026 : à Montjuïc, Pogacar donne la victoire d’une épreuve menacée par les flammes à Del Toro",
-      "excerpt": "Alors que l’étape de lundi devrait se dérouler «sans public» à cause des incendies dans les Pyrénées-Orientales, le Slovène a offert la victoire à l’un de ses coéquipiers, à Barcelone.",
-      "link": "https://www.liberation.fr/sports/cyclisme/tour-de-france-2026-a-montjuic-tadej-pogacar-donne-la-victoire-dune-epreuve-menacee-par-les-flammes-a-isaac-del-toro-20260705_SMOJTLJRO5H2DBVCPIMAS6JYU4/",
-      "time": "Il y a 44 min",
-      "pubDate": 1783270878.0
-    },
-    {
-      "id": "France Info-3883575324880562704",
+      "id": "France Info--5615133624461934876",
       "source": "France Info",
       "title": "\"Je vais me battre encore et encore\" : Edouard Philippe fixe le cap de sa campagne présidentielle lors de son premier meeting à Paris",
       "excerpt": "Le favori du bloc central pour la présidentielle 2027, qui a réuni plus de 5 000 personnes dimanche, est au défi de conserver, voire accentuer, l'avance qu'il a dans les sondages face à ses concurrent...",
       "link": "https://www.franceinfo.fr/politique/edouard-philippe/reportage-je-vais-me-battre-encore-et-encore-edouard-philippe-fixe-le-cap-de-sa-campagne-presidentielle-lors-de-son-premier-meeting-a-paris_8092415.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 45 min",
+      "time": "Il y a 1h",
       "pubDate": 1783270857.0
     },
     {
-      "id": "Libération--3619104131319285995",
-      "source": "Libération",
-      "title": "Qualification des Bleus, canicule et incendies, funérailles de Khamenei… L’actu de ce week-end du 4 et 5 juillet",
-      "excerpt": "La rédaction de «Libération» récapitule les principales actualités du week-end.",
-      "link": "https://www.liberation.fr/international/europe/qualification-des-bleus-canicule-et-incendies-funerailles-de-khamenei-lactu-de-ce-week-end-du-4-et-5-juillet-20260705_3LYOMTGW7FEYZPVO6AVF3C2RKY/",
-      "time": "Il y a 57 min",
-      "pubDate": 1783270106.0
-    },
-    {
-      "id": "Le Monde--3601598342210520870",
+      "id": "Le Monde--9004195124426950037",
       "source": "Le Monde",
-      "title": "Incendie dans les Pyrénées-Orientales : évacuation en cours de 5 000 personnes ; l’étape du Tour de France de lundi « adaptée » et « sans public », annonce le préfet",
+      "title": "Incendie dans les Pyrénées-Orientales : évacuation en cours de 10 500 personnes ; l’étape du Tour de France de lundi « adaptée » et « sans public », annonce le préfet",
       "excerpt": "Le feu a déjà parcouru 1 650 hectares et mobilise quelque 700 pompiers. Un sapeur-pompier et un habitant sont en urgence absolue.",
       "link": "https://www.lemonde.fr/planete/article/2026/07/05/incendie-dans-les-pyrenees-orientales-une-evacuation-en-cours-de-5-000-personnes-l-etape-du-tour-de-france-lundi-adaptee-et-sans-public-annonce-le-prefet_6720898_3244.html",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1783269770.0
     },
     {
-      "id": "Libération-4197639101940246149",
-      "source": "Libération",
-      "title": "Mort prématurée du chef Bertrand Grébaut : «Sa cuisine était tellement juste»",
-      "excerpt": "Le décès à l’âge de 44 ans du chef étoilé endeuille le monde de la gastronomie. Nombreux sont ceux qui rendent hommage à cet influent et discret pionnier de la bistronomie.",
-      "link": "https://www.liberation.fr/lifestyle/gastronomie/mort-prematuree-du-chef-bertrand-grebaut-sa-cuisine-etait-tellement-juste-20260705_TOGNXO7IFVBGRCKWAUAVCIJSEQ/",
-      "time": "Il y a 1h",
-      "pubDate": 1783269575.0
-    },
-    {
-      "id": "France Info-7594026229851879993",
-      "source": "France Info",
-      "title": "Cambriolage du musée Lalique : \"il n'est pas impossible que des pièces uniques aient été dérobées\", l'enquête est en cours",
-      "excerpt": "Le musée Lalique à Wingen-sur-Moder (Bas-Rhin), qui abrite de précieuses collections du maître verrier, a été cambriolé le 5 juillet au petit matin. L'enquête est en cours, le musée restera fermé jusq...",
-      "link": "https://france3-regions.franceinfo.fr/grand-est/bas-rhin/le-musee-lalique-a-ete-cambriole-il-restera-ferme-ce-5-juillet-3381592.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
-      "pubDate": 1783269496.0
-    },
-    {
-      "id": "Libération-5884117793234295925",
-      "source": "Libération",
-      "title": "Festival d’Avignon, jour 2 : Gosselin occupe la Cour d’honneur dans les grandes largeurs, Carolina Bianchi se donne corps et âpre et Catherine Pégard se fait recevoir",
-      "excerpt": "Et aussi ce dimanche : un massacre qui ressurgit et un fait divers qui nous laisse abasourdis.",
-      "link": "https://www.liberation.fr/culture/scenes/festival-davignon-jour-2-gosselin-occupe-la-cour-dhonneur-dans-les-grandes-largeurs-carolina-bianchi-se-donne-corps-et-apre-et-catherine-pegard-se-fait-recevoir-20260705_FK7TKQ7FIVEMFNH25HYW3NY7LM/",
-      "time": "Il y a 1h",
-      "pubDate": 1783269445.0
-    },
-    {
-      "id": "France Info--8934310876498559186",
-      "source": "France Info",
-      "title": "Incendies : 5 000 personnes évacuées dans les Pyrénées-Orientales, l'étape du Tour de France adaptée et sans public demain dans le département",
-      "excerpt": "Le feu a repris de la vigueur dans la matinée. Un pompier et un habitant qui a été brûlé sont en urgence absolue.",
-      "link": "https://www.franceinfo.fr/faits-divers/incendie/direct-feux-de-foret-l-incendie-dans-les-pyrenees-orientales-reprend-de-la-vigueur-apres-avoir-parcouru-pres-de-1-000-hectares-depuis-samedi-soir_8094836.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
-      "pubDate": 1783269097.0
-    },
-    {
-      "id": "France Info-8063802322364206332",
+      "id": "France Info--1253131969587712486",
       "source": "France Info",
       "title": "Tadej Pogacar offre à son coéquipier Isaac Del Toro la victoire sur la 2e étape du Tour de France 2026, Jonas Vingegaard reste en jaune",
       "excerpt": "Le coéquipier de Tadej Pogacar a remporté sa première victoire d'étape sur le Tour dans les rues de Barcelone, dimanche.",
       "link": "https://www.franceinfo.fr/tour-de-france/tadej-pogacar-offre-a-son-coequipier-isaac-del-toro-la-victoire-sur-la-2e-etape-du-tour-de-france-2026-jonas-vingegaard-reste-en-jaune_8095058.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1783268478.0
     },
     {
-      "id": "France Info--213236217230707411",
+      "id": "France Info-1488296487678184087",
       "source": "France Info",
       "title": "Canicule : à quoi s'attendre durant les prochains jours, alors que les fortes chaleurs reviennent en France ?",
       "excerpt": "Les températures devraient rester supérieures aux normales de saison toute la semaine, avertit Météo-France, alors que seize départements sont placés lundi en vigilance orange à la canicule.",
       "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/canicule-a-quoi-s-attendre-durant-les-prochains-jours-alors-que-les-fortes-chaleurs-reviennent-en-france_8094959.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1783268471.0
     },
     {
-      "id": "Le Monde-5728241053428421117",
+      "id": "Le Monde--4408001780040018141",
       "source": "Le Monde",
       "title": "Ce qu’il faut retenir de l’actualité du week-end des 4 et 5 juillet",
       "excerpt": "Vous n’avez pas suivi l’actualité samedi 4 et dimanche 5 juillet ? Voici ce qui s’est passé pendant ces quarante-huit dernières heures.",
       "link": "https://www.lemonde.fr/les-decodeurs/article/2026/07/05/ce-qu-il-faut-retenir-de-l-actualite-du-week-end-des-4-et-5-juillet_6720897_4355770.html",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1783268014.0
     },
     {
-      "id": "France Info--4931976267197068018",
+      "id": "France Info-2895767839326534727",
       "source": "France Info",
       "title": "Sébastien Lecornu promet l'examen d'un texte du PS sur l'adaptation au changement climatique, pour le dissuader de voter la motion de censure des Ecologistes",
       "excerpt": "Le Premier ministre, dans une lettre envoyée aux députés socialistes, s'engage à reprendre une de leur proposition de loi sur le changement climatique pour l'inscrire à l'ordre du jour du Sénat. Il n'...",
       "link": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/motion-de-censure-des-ecologistes-sebastien-lecornu-tente-d-obtenir-la-bienveillance-des-socialistes_8095148.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1783264944.0
     },
     {
-      "id": "Le Monde-3192940158185750114",
+      "id": "Le Monde-8088606840972544636",
       "source": "Le Monde",
       "title": "Edouard Philippe se dévoile lors d’un meeting à Paris et promet de demander aux Français un « effort collectif juste » ainsi qu’une « refonte massive de l’école »",
       "excerpt": "Le maire du Havre franchit une étape supplémentaire de sa campagne pour l’élection présidentielle de 2027, avec un discours mêlant anecdotes personnelles, promesses de campagne et attaques contre ses...",
       "link": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/07/05/edouard-philippe-se-devoile-lors-d-un-meeting-a-paris-et-promet-de-demander-aux-francais-un-effort-collectif-juste-ainsi-qu-une-refonte-massive-de-l-ecole_6720890_6205049.html",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1783263623.0
     },
     {
-      "id": "Le Monde-2889483351124329892",
-      "source": "Le Monde",
-      "title": "Au Venezuela, le séisme a mis en lumière une situation économique et sociale catastrophique : « J’ai peur qu’on connaisse à nouveau des pénuries »",
-      "excerpt": "Alors que les « barrios » de Caracas menacent de s’effondrer après les séismes du 24 juin, la population tente de s’organiser face à l’urgence humanitaire et à l’inflation galopante. Le ressentiment g...",
-      "link": "https://www.lemonde.fr/international/article/2026/07/05/avec-ce-seisme-j-ai-peur-qu-on-connaisse-a-nouveau-des-penuries-au-venezuela-le-tremblement-de-terre-a-mis-en-lumiere-une-situation-economique-et-sociale-catastrophique_6720889_3210.html",
-      "time": "Il y a 2h",
-      "pubDate": 1783263609.0
-    },
-    {
-      "id": "Le Monde--4328509281438356012",
+      "id": "Le Monde--5352137952374752073",
       "source": "Le Monde",
       "title": "La production audiovisuelle, confrontée à une chute des commandes, taille dans ses effectifs : « Nous sommes entrés dans un nouveau monde »",
       "excerpt": "L’heure étant aux économies dans les chaînes de télévision, privées comme publiques, les carnets de commandes des sociétés de production tardent à se remplir. Le secteur redoute un automne de casse so...",
       "link": "https://www.lemonde.fr/economie/article/2026/07/05/la-production-audiovisuelle-confrontee-a-une-chute-des-commandes-taille-dans-ses-effectifs-nous-sommes-entres-dans-un-nouveau-monde_6720888_3234.html",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1783262808.0
     },
     {
-      "id": "France Info-4210074117566265025",
+      "id": "France Info--6359393875371475715",
       "source": "France Info",
       "title": "\"Je n'avais jamais joué un match avec autant de coups, de coups en traître\" : l'arbitrage de France-Paraguay au centre des débats à la Coupe du monde",
       "excerpt": "Qualifiés pour les quarts de finale, les Français ont vécu une rencontre très hachée face au Paraguay, samedi, avec un arbitrage qui fait polémique autour du monde.",
       "link": "https://www.franceinfo.fr/coupe-du-monde/je-n-avais-jamais-joue-un-match-comme-ca-avec-autant-de-coups-l-arbitrage-de-france-paraguay-au-centre-des-debats-a-la-coupe-du-monde-2026_8095031.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1783258005.0
     },
     {
-      "id": "Le Monde--6843160357107697631",
-      "source": "Le Monde",
-      "title": "Tour de France : Isaac Del Toro s’impose à Barcelone devant Tadej Pogacar à l’issue de la deuxième étape ; Jonas Vingegaard conserve le maillot jaune",
-      "excerpt": "Le Danois perd cependant quelques secondes au classement général sur son rival slovène, qui a laissé la victoire à son coéquipier mexicain au terme d’un final réjouissant.",
-      "link": "https://www.lemonde.fr/sport/live/2026/07/05/en-direct-tour-de-france-suivez-la-deuxieme-etape-entre-tarragone-et-barcelone_6720868_3242.html",
-      "time": "Il y a 6h",
-      "pubDate": 1783251601.0
-    },
-    {
-      "id": "France Info--9085342372850791031",
+      "id": "France Info-4903053312136218066",
       "source": "France Info",
       "title": "Les funérailles d'Etat de l'ayatollah Ali Khamenei rassemblent une foule de pèlerins à Téhéran",
       "excerpt": "La Grande Mosalla de Téhéran, immense complexe politico-religieux au cœur de la capitale, continue d'accueillir la foule au deuxième jour des cérémonies. Celui-ci a été marqué par une prière funéraire...",
       "link": "https://www.franceinfo.fr/monde/iran/en-images-les-funerailles-d-etat-de-l-ayatollah-ali-khamenei-rassemblent-une-foule-de-pelerins-a-teheran_8094665.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1783251021.0
     },
     {
-      "id": "Le Monde-137655700616977707",
+      "id": "Le Monde-6645835371161397195",
       "source": "Le Monde",
       "title": "Avant la décision de la cour d’appel concernant Marine Le Pen, le RN entre « espérance » et renoncement",
       "excerpt": "A Liévin, dans le Pas-de-Calais, pour sa dernière prise de parole avant d’être fixée sur son sort, la cheffe de file de l’extrême droite s’est attachée à démontrer la solidité de son binôme avec Jorda...",
       "link": "https://www.lemonde.fr/politique/article/2026/07/05/avant-la-decision-de-la-cour-d-appel-concernant-marine-le-pen-le-rn-entre-esperance-et-renoncement_6720860_823448.html",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1783245620.0
     },
     {
-      "id": "Le Monde-3793951589823596847",
-      "source": "Le Monde",
-      "title": "Anne Chopinet, polytechnicienne : « Avant les lettres, j’ai écrit des chiffres sur un tableau noir »",
-      "excerpt": "« Je ne serais pas arrivée là si… » Chaque semaine, « Le Monde » interroge une personnalité sur un moment décisif de son existence. La première femme major d’entrée de l’Ecole polytechnique revient su...",
-      "link": "https://www.lemonde.fr/societe/article/2026/07/05/anne-chopinet-polytechnicienne-avant-les-lettres-j-ai-ecrit-des-chiffres-sur-un-tableau-noir_6720827_3224.html",
-      "time": "Il y a 13h",
-      "pubDate": 1783224018.0
-    },
-    {
-      "id": "Le Monde-4543111619259777506",
+      "id": "Le Monde-7218200183455675219",
       "source": "Le Monde",
       "title": "Derrière la rivalité entre Pékin et Washington, l’essor de l’IA chinoise aux Etats-Unis",
       "excerpt": "Avec le lancement de l’intelligence artificielle GLM-5.2 par la start-up Zhipu, la Chine prouve qu’elle peut concurrencer les meilleurs modèles américains au moment où les géants de la Silicon Valley...",
       "link": "https://www.lemonde.fr/economie/article/2026/07/05/derriere-la-rivalite-entre-pekin-et-washington-l-essor-de-l-ia-chinoise-aux-etats-unis_6720820_3234.html",
-      "time": "Il y a 14h",
+      "time": "Il y a 15h",
       "pubDate": 1783222212.0
     }
   ],
   "anglophone": [
     {
-      "id": "BBC News--7467293954510365669",
-      "source": "BBC News",
-      "title": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
-      "excerpt": "Nigeria's government said one of its nationals was reportedly killed by police officers \"using gruesome interrogation techniques\".",
-      "link": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 15 min",
-      "pubDate": 1783272645.0
-    },
-    {
-      "id": "NPR-115706485107372528",
+      "id": "NPR-5943874336063073573",
       "source": "NPR",
-      "title": "Guam and surrounding Pacific islands brace for impact of Super Typhoon Bavi",
-      "excerpt": "People in the Northern Mariana Islands – remote U.S. territories in the Pacific Ocean – are preparing for Super Typhoon Bavi, which experts say could bring winds of over 180 miles per hour.",
-      "link": "https://www.npr.org/2026/07/05/g-s1-132052/guam-pacific-islands-brace-super-typhoon-bavi",
-      "time": "Il y a 23 min",
-      "pubDate": 1783272175.0
+      "title": "Folarin Balogun's soccer ban suspended by FIFA, allowing U.S. striker to play Belgium",
+      "excerpt": "U.S. soccer star Folarin Balogun has had his World Cup ban suspended by FIFA, making him free to play in the United States' round of 16 game against Belgium on Monday.",
+      "link": "https://www.npr.org/2026/07/05/g-s1-132061/folarin-balogun-soccer-reinstated-ban-suspended-fifa-belgium",
+      "time": "Il y a 9 min",
+      "pubDate": 1783276639.0
     },
     {
-      "id": "BBC News--8296714015715103362",
+      "id": "BBC News--4198646767072819248",
+      "source": "BBC News",
+      "title": "Plane hit by firework while landing in Chicago",
+      "excerpt": "The plane had 52 passengers and six crew onboard. No injuries were reported.",
+      "link": "https://www.bbc.co.uk/news/articles/cj4gg89r9gdo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 27 min",
+      "pubDate": 1783275520.0
+    },
+    {
+      "id": "BBC News-8267210959680884671",
       "source": "BBC News",
       "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
       "excerpt": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the outset of the US-Israel war with Iran.",
       "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 1h",
-      "pubDate": 1783266535.0
+      "time": "Il y a 48 min",
+      "pubDate": 1783274281.0
     },
     {
-      "id": "BBC News--5799795253476543695",
+      "id": "BBC News--5859478762417011649",
+      "source": "BBC News",
+      "title": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
+      "excerpt": "Nigeria's government said one of its nationals was reportedly killed by police officers \"using gruesome interrogation techniques\".",
+      "link": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 1h",
+      "pubDate": 1783272645.0
+    },
+    {
+      "id": "NPR-7862904284985584040",
+      "source": "NPR",
+      "title": "Guam and surrounding Pacific islands brace for impact of Super Typhoon Bavi",
+      "excerpt": "People in the Northern Mariana Islands – remote U.S. territories in the Pacific Ocean – are preparing for Super Typhoon Bavi, which experts say could bring winds of over 180 miles per hour.",
+      "link": "https://www.npr.org/2026/07/05/g-s1-132052/guam-pacific-islands-brace-super-typhoon-bavi",
+      "time": "Il y a 1h",
+      "pubDate": 1783272175.0
+    },
+    {
+      "id": "BBC News--1256668150825137294",
       "source": "BBC News",
       "title": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
       "excerpt": "Some of the famous guests have been posting on social media about the big day in New York.",
       "link": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1783266500.0
     },
     {
-      "id": "BBC News--6032602085959250346",
+      "id": "BBC News-6607075510111533242",
       "source": "BBC News",
       "title": "Thousands welcome home Cape Verde footballers after stunning World Cup run",
       "excerpt": "Tens of thousands of fans formed an ocean of blue outside the airport in capital city, Praia.",
       "link": "https://www.bbc.co.uk/news/articles/c70yy4xkeexo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1783263550.0
     },
     {
-      "id": "NPR-2840307312841916005",
+      "id": "NPR--317643521015095365",
       "source": "NPR",
       "title": "Construction is a man's game. These women are demolishing the barriers",
       "excerpt": "Women make up a miniscule 3% of construction workers in Kenya. But a nonprofit group is offering them a way to get into the game ... and to get ahead.",
       "link": "https://www.npr.org/2026/07/05/g-s1-129643/construction-business-women-kenya",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1783260638.0
     },
     {
-      "id": "BBC News-7603104332478679371",
+      "id": "BBC News--5435185592104132671",
       "source": "BBC News",
       "title": "Australia probes mystery space balls that washed up on beach",
       "excerpt": "Officials are searching for the origins of six pieces of space debris discovered on Forrest Beach in Queensland.",
       "link": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1783256158.0
     },
     {
-      "id": "NPR-3103388787295384971",
+      "id": "NPR-2939063189622078721",
       "source": "NPR",
       "title": "A new law in California will clarify 'sell by' dates to reduce food waste",
       "excerpt": "NPR's Ayesha Rascoe speaks with Nick Lapis of Californians Against Waste about the new law that standardizes food label \"use by\" dates and how that reduces consumer confusion and tons of food waste.",
       "link": "https://www.npr.org/2026/07/05/nx-s1-5879284/a-new-law-in-california-will-clarify-sell-by-dates-to-reduce-food-waste",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1783254377.0
     },
     {
-      "id": "NPR--5370187595387197636",
+      "id": "NPR-292305652788935413",
       "source": "NPR",
       "title": "Pennsylvania's proposed data centers are bringing strangers together in protest",
       "excerpt": "Proposals to build six data centers in the small community of Archbald, Pennsylvania, have brought strangers together to fight the plans there — and elsewhere in the state.",
       "link": "https://www.npr.org/2026/07/05/nx-s1-5804732/proposed-data-centers-in-pennsylvania-are-leading-strangers-to-mobilize-in-protest",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1783254366.0
     },
     {
-      "id": "NPR-7936248843154039084",
+      "id": "NPR--6170353809632064998",
       "source": "NPR",
       "title": "Paul Pelosi in hit-and-run in California, car left with major damage, authorities say",
       "excerpt": "The husband of former House Speaker Nancy Pelosi was involved in a hit-and-run in California that left a parked car with \"major\" damage, authorities said Saturday.",
       "link": "https://www.npr.org/2026/07/05/g-s1-132046/paul-pelosi-hit-and-run-california-car-damage",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1783247322.0
     },
     {
-      "id": "BBC News--712040569141425314",
+      "id": "BBC News-7924165043570388655",
       "source": "BBC News",
       "title": "Evacuations in Guam as super typhoon Bavi approaches",
       "excerpt": "The storm is forecast to bring winds in excess of 160mph and waves nearly 11m high when it makes landfall on Monday.",
       "link": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 8h",
+      "time": "Il y a 9h",
       "pubDate": 1783243616.0
     },
     {
-      "id": "NPR-5236107741380053659",
+      "id": "NPR--1363287292049936051",
       "source": "NPR",
       "title": "Pastor freed from prison in China weeks after Trump requested his release",
       "excerpt": "A pastor of a prominent underground church who was detained in China in October has been released, less than two months after U.S. President Donald Trump brought up his case when meeting Chinese leade...",
       "link": "https://www.npr.org/2026/07/05/nx-s1-5882784/pastor-freed-prison-china-trump-request",
-      "time": "Il y a 9h",
+      "time": "Il y a 10h",
       "pubDate": 1783240207.0
     },
     {
-      "id": "BBC News-5639703172758258116",
+      "id": "BBC News-2636095214424281508",
       "source": "BBC News",
       "title": "US marks 250th birthday with fireworks, flyovers and extreme weather",
       "excerpt": "US President Donald Trump's speech included some of his political agenda but also honoured war veterans and American history.",
       "link": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 9h",
+      "time": "Il y a 10h",
       "pubDate": 1783239872.0
     },
     {
-      "id": "BBC News--3937040700508843655",
+      "id": "BBC News--5235059616563120678",
       "source": "BBC News",
       "title": "Chinese underground church figure Jin Mingri freed from prison",
       "excerpt": "The Zion Church founder's release comes after a direct plea to Xi Jinping from Donald Trump.",
       "link": "https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 11h",
+      "time": "Il y a 12h",
       "pubDate": 1783231101.0
     },
     {
-      "id": "BBC News--8066696990030069611",
+      "id": "BBC News-7236439660192198448",
       "source": "BBC News",
       "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
       "excerpt": "Far-right leader Marine Le Pen is appealing against a verdict which found her guilty of misusing EU funds.",
       "link": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 18h",
+      "time": "Il y a 19h",
       "pubDate": 1783207044.0
     },
     {
-      "id": "NPR--5520438952601249018",
+      "id": "NPR--9020931243795981207",
       "source": "NPR",
       "title": "In Mount Rushmore speech, Trump veers from U.S. exceptionalism to warnings about communism",
       "excerpt": "President Trump ushered in America's 250th anniversary with a darkly political speech that swerved from the typically apolitical, unifying speeches past presidents have given to mark Independence Day.",
       "link": "https://www.npr.org/2026/07/04/g-s1-132025/mount-rushmore-speech-trump-july-4-250",
-      "time": "Il y a 21h",
+      "time": "Il y a 22h",
       "pubDate": 1783197271.0
     },
     {
-      "id": "The Guardian-1788271119957811952",
+      "id": "The Guardian-3179017905555390555",
       "source": "The Guardian",
       "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
       "excerpt": "Well-preserved fourth-century quarters reveal details of daily life, urban development and economic activities Archaeologists in Egypt have uncovered a well-preserved Byzantine-era city in the western...",
       "link": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
-      "time": "Il y a 21h",
+      "time": "Il y a 22h",
       "pubDate": 1783197172.0
     },
     {
-      "id": "BBC News-1947587032185713425",
-      "source": "BBC News",
-      "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
-      "excerpt": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
-      "link": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 23h",
-      "pubDate": 1783190485.0
-    },
-    {
-      "id": "NPR--7514114894193269106",
+      "id": "NPR--2980849896963171757",
       "source": "NPR",
       "title": "Trump addresses nation and fireworks light up National Mall after storm delay",
       "excerpt": "President Trump lauded America's storied history on Saturday night in a speech marking the 250th anniversary of its independence, while also praising his war in Iran, railing against \"communists,\" and...",
@@ -441,7 +450,7 @@
       "pubDate": 1783183330.0
     },
     {
-      "id": "NPR--5205693994681655303",
+      "id": "NPR--7303499044867722286",
       "source": "NPR",
       "title": "Move over Chutes & Ladders: Schisto & Ladders has educational value plus worms",
       "excerpt": "Spread by parasitic worms that can infect via a splash of water, schistosomiasis causes debilitating symptoms. It hits kids hard. A board game teaches how to prevent it.",
@@ -450,7 +459,7 @@
       "pubDate": 1783180309.0
     },
     {
-      "id": "The Guardian-9169218282708676446",
+      "id": "The Guardian-8354912763551151369",
       "source": "The Guardian",
       "title": "‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes",
       "excerpt": "El Obeid becomes key battleground in war between Sudan’s armed forces and their paramilitary enemies, the RSF Fatima has lost count of the number of drone attacks on the besieged city of El Obeid in S...",
@@ -459,16 +468,7 @@
       "pubDate": 1783178058.0
     },
     {
-      "id": "NPR--3996668046921389488",
-      "source": "NPR",
-      "title": "China's military promotes 2 new generals after anti-corruption purge thins ranks",
-      "excerpt": "The shake-up is believed to be an effort to ensure the military's loyalty to the Communist Party and its leader, Xi Jinping.",
-      "link": "https://www.npr.org/2026/07/04/g-s1-131994/chinas-military-promotes-2-new-generals-after-anti-corruption-purge-thins-ranks",
-      "time": "Il y a 1j",
-      "pubDate": 1783174077.0
-    },
-    {
-      "id": "The Guardian--6547624332231807892",
+      "id": "The Guardian-7479500600459510408",
       "source": "The Guardian",
       "title": "How the 1986 Mexico World Cup was almost cancelled after a devastating earthquake",
       "excerpt": "Guardian reports after the disaster told of 5,000 deaths, much of the capital being razed, and doubts about Mexico hosting the finals <em>Mexico last hosted the World Cup in <a href=\"https://www.thegu...",
@@ -477,7 +477,7 @@
       "pubDate": 1783165231.0
     },
     {
-      "id": "The Guardian--2091931830928702727",
+      "id": "The Guardian-8633236211980215802",
       "source": "The Guardian",
       "title": "Overseas education project for women and girls axed by UK after two years",
       "excerpt": "The programme, aimed at keeping 1m girls in school across Africa, Asia and the Middle East, withdrawn after aid cuts A leading higher education programme, aimed at keeping 1 million girls in school ac...",
@@ -486,7 +486,7 @@
       "pubDate": 1783152008.0
     },
     {
-      "id": "The Guardian-889037525524673040",
+      "id": "The Guardian--3696083051263293436",
       "source": "The Guardian",
       "title": "New pipeline in Canada to proceed after C$150bn pledged to ease BC and First Nations concerns",
       "excerpt": "Port expansion and protections for whales part of BC and Alberta plan to expand country’s presence overseas The governments of <a href=\"https://www.theguardian.com/world/canada\">Canada</a> and the pro...",
@@ -495,7 +495,7 @@
       "pubDate": 1783092872.0
     },
     {
-      "id": "The Guardian-2047115825896900560",
+      "id": "The Guardian--7395525016776466165",
       "source": "The Guardian",
       "title": "‘I can only describe it as a war zone’: the rescuers navigating Venezuela’s post-quake hellscape",
       "excerpt": "Thousands of volunteers are joined by overseas teams in the hope of finding more survivors in the rubble, reports <strong>Tom Phillips</strong> in Caraballeda. Photography and video by Manu Quintero W...",
@@ -504,7 +504,7 @@
       "pubDate": 1783076924.0
     },
     {
-      "id": "The Guardian--659571646402700257",
+      "id": "The Guardian--799262061725859105",
       "source": "The Guardian",
       "title": "‘Give him any award, and he’ll come running’: Narendra Modi racks up honours on overseas trips",
       "excerpt": "Indian prime minister has a habit of collecting awards on his travels, some as their first and only recipient As Narendra Modi touched down in Seychelles over the weekend, the archipelago nation in th...",
@@ -513,7 +513,7 @@
       "pubDate": 1783036813.0
     },
     {
-      "id": "The Guardian-1627014814447261964",
+      "id": "The Guardian--8573472923539974518",
       "source": "The Guardian",
       "title": "Venezuelan man saved from collapsed mall eight days after earthquakes",
       "excerpt": "Security guard Hernán Alberto Gil Flores, 43, initially told rescuers not to tell his wife in case he did not survive A 43-year-old security guard who survived last week’s devastating earthquakes in V...",
@@ -522,7 +522,7 @@
       "pubDate": 1783013046.0
     },
     {
-      "id": "The Guardian--3629119279291777590",
+      "id": "The Guardian--2340869630048213153",
       "source": "The Guardian",
       "title": "Canadian boy dies of rabies after waking to find bat on his face",
       "excerpt": "Eleven-year-old developed symptoms 19 days after encounter in Ontario in ‘exceedingly rare’ case Doctors in Canada say a child who awoke to find a bat resting on his nose and mouth while visiting an O...",
@@ -531,7 +531,7 @@
       "pubDate": 1783009778.0
     },
     {
-      "id": "The Guardian-174180497924491974",
+      "id": "The Guardian-7016665856930262062",
       "source": "The Guardian",
       "title": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
       "excerpt": "Authorities say rainy season getting deadlier, with Ghana reporting 13 dead and floods hitting Benin, Togo and Nigeria Floods in Côte d’Ivoire have killed 59 people since May, the communication minist...",
@@ -540,5 +540,5 @@
       "pubDate": 1782990092.0
     }
   ],
-  "lastUpdate": "2026-07-05T17:46:00.509067"
+  "lastUpdate": "2026-07-05T18:46:40.758096"
 }
