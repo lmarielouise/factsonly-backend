@@ -1,58 +1,70 @@
 {
   "francophone": [
     {
-      "id": "France Info--826645078754586869",
+      "id": "France Info--209625226981096278",
       "source": "France Info",
-      "title": "Quelque 1 500 personnes rassemblées dans le Morbihan pour une rave-party illégale malgré la vigilance rouge canicule et un risque élevé d'incendie",
-      "excerpt": "Le préfet du département a interdit \"les rassemblements festifs à caractère musical (de type rave-party)\" jusqu'au 31 août.",
-      "link": "https://www.franceinfo.fr/faits-divers/police/1-500-personnes-rassemblees-dans-le-morbihan-pour-une-rave-party-illegale-malgre-la-vigilance-rouge-canicule-et-un-risque-eleve-d-incendie_8104250.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 8 min",
-      "pubDate": 1783789185.0
+      "title": "Le taux de réussite au bac 2026 atteint 91,4% après les rattrapages, 81,6% d'admis au brevet des collèges",
+      "excerpt": "Le taux de réussite du baccalauréat est en baisse de 0,4 point par rapport à 2025, a annoncé le ministère de l'Education nationale.",
+      "link": "https://www.franceinfo.fr/bac/le-taux-de-reussite-au-bac-2026-atteint-91-4-apres-les-rattrapages-81-6-d-admis-au-brevet-des-colleges_8104355.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 7 min",
+      "pubDate": 1783792487.0
     },
     {
-      "id": "Libération-6548071229058579149",
+      "id": "Libération-5109672789307062001",
+      "source": "Libération",
+      "title": "37 départements en vigilance rouge dimanche, l’étape du Tour de France raccourcie à cause de la chaleur",
+      "excerpt": "Localement, les températures peuvent atteindre 40 °C. La tour Eiffel, le Louvre et le musée d’Orsay ont avancé leur heure de fermeture, le Tour de France a amputé une partie de son étape de dimanche.",
+      "link": "https://www.liberation.fr/environnement/climat/en-direct-la-canicule-monte-encore-dun-cran-22-millions-de-francais-concernes-par-la-vigilance-rouge-20260711_YAYC24FV5BGM3CGHMKXYERMXZA/",
+      "time": "Il y a 13 min",
+      "pubDate": 1783792133.0
+    },
+    {
+      "id": "Libération-6672037968604712543",
+      "source": "Libération",
+      "title": "EN IMAGES - Les violents feux de forêt près d’Almería en Espagne",
+      "excerpt": "Les paysages de la province d’Almería se sont transformés en tableaux sinistres. Au moins 12 personnes sont mortes et plus de 6 000 hectares sont partis en fumée.",
+      "link": "https://www.liberation.fr/culture/photographie/en-images-terres-cramees-en-espagne-20260711_JWNVHUMYRNF3DLYJFRAA5WYQLU/",
+      "time": "Il y a 15 min",
+      "pubDate": 1783792024.0
+    },
+    {
+      "id": "France Info--9184058203658307889",
+      "source": "France Info",
+      "title": "La Tchèque Linda Noskova remporte son premier tournoi du Grand Chelem en dominant sa compatriote Karolina Muchova en finale de Wimbledon",
+      "excerpt": "La plus jeune des deux finalistes tchèques l'a emporté en trois sets, samedi à Londres, après avoir manqué cinq balles de matchs dans la deuxième manche.",
+      "link": "https://www.franceinfo.fr/sports/tennis/wimbledon/la-tcheque-linda-noskova-remporte-son-premier-tournoi-du-grand-chelem-en-dominant-sa-compatriote-karolina-muchova-en-finale-de-wimbledon_8104286.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 22 min",
+      "pubDate": 1783791593.0
+    },
+    {
+      "id": "Libération-8606593960406425436",
       "source": "Libération",
       "title": "Canicule et Tour de France 2026 : le parcours de la 9e étape en Corrèze réduit de 30 kilomètres",
       "excerpt": "L’épreuve dimanche a été raccourcie à cause du placement du département en vigilance rouge canicule, comme 36 autres.",
       "link": "https://www.liberation.fr/sports/cyclisme/canicule-et-tour-de-france-2026-le-parcours-de-la-9e-etape-en-correze-reduit-de-30-kilometres-20260711_3RBE2RFZJ5BUDBSQPI5S3ON7RY/",
-      "time": "Il y a 33 min",
-      "pubDate": 1783787681.0,
-      "sources": [
-        "Libération",
-        "France Info"
-      ],
-      "multiSource": true,
-      "sourceCount": 2
+      "time": "Il y a 1h",
+      "pubDate": 1783787681.0
     },
     {
-      "id": "Libération-7884475513678955263",
+      "id": "Libération--4382622147769607957",
       "source": "Libération",
       "title": "Relief escarpé, végétation sèche, résidents non hispanophones… En Espagne, autour de Los Gallardos, une région dans le piège de l’incendie",
       "excerpt": "Dans la province d’Almería, tous les ingrédients de la catastrophe étaient réunis avant le début de l’incendie, jeudi 9 juillet. Au moins 12 personnes sont mortes et plus de 6 000 hectares sont partis...",
       "link": "https://www.liberation.fr/international/europe/relief-escarpe-vegetation-seche-residents-non-hispanophones-en-espagne-autour-de-los-gallardos-une-region-dans-le-piege-de-lincendie-20260711_FZ3LCRJHP5HEPMJ6XQTYUCOHZU/",
-      "time": "Il y a 36 min",
+      "time": "Il y a 1h",
       "pubDate": 1783787492.0
     },
     {
-      "id": "Libération--103387876088516795",
-      "source": "Libération",
-      "title": "EN DIRECT - 37 départements en vigilance rouge dimanche, l’étape du Tour de France raccourcie à cause de la chaleur",
-      "excerpt": "Localement, les températures peuvent atteindre 40 °C. La tour Eiffel, le Louvre et le musée d’Orsay ont avancé leur heure de fermeture. A Paris, les traditionnels bals des pompiers ont été annulés et...",
-      "link": "https://www.liberation.fr/environnement/climat/en-direct-la-canicule-monte-encore-dun-cran-22-millions-de-francais-concernes-par-la-vigilance-rouge-20260711_YAYC24FV5BGM3CGHMKXYERMXZA/",
-      "time": "Il y a 38 min",
-      "pubDate": 1783787379.0
-    },
-    {
-      "id": "Libération--2036478250729416978",
+      "id": "Libération-8808681091585816569",
       "source": "Libération",
       "title": "«Dévoué comme un porc» : en Chine, polémique autour du message interne d’un géant de la viande porcine",
       "excerpt": "«L’Ode au cochon», récité par des salariés de l’entreprise Muyuan, a créé la polémique sur les réseaux sociaux chinois. L’indignation reflète le rejet grandissant d’une culture sacrificielle du travai...",
       "link": "https://www.liberation.fr/international/asie-pacifique/devoue-comme-un-porc-en-chine-polemique-autour-du-message-interne-dun-geant-de-la-viande-porcine-20260711_6NIPNHGCQBHN3F2HKWH4TEB5X4/",
-      "time": "Il y a 51 min",
+      "time": "Il y a 1h",
       "pubDate": 1783786617.0
     },
     {
-      "id": "France Info-6344866650535905016",
+      "id": "France Info--3780413342785022783",
       "source": "France Info",
       "title": "Météo-France place 37 départements en vigilance rouge canicule à partir de dimanche midi, 46 en vigilance orange",
       "excerpt": "\"Une masse d'air très chaud stagne sur le pays depuis plusieurs jours (…), engendrant un épisode caniculaire durable, intense et étendu\", explique l'institut météorologique.",
@@ -61,7 +73,7 @@
       "pubDate": 1783785932.0
     },
     {
-      "id": "France Info--9086915481132701842",
+      "id": "France Info--3632679999261968292",
       "source": "France Info",
       "title": "Feux d'artifice du 14-Juillet, bals des pompiers à Paris, festivals… On fait le point sur les perturbations provoquées par la canicule",
       "excerpt": "Vingt-quatre départements ont été placés en vigilance rouge à la canicule en France samedi. Dimanche, 13 départements viendront s'ajouter à cette liste à partir de midi, a annoncé Météo-France. Les ma...",
@@ -70,88 +82,79 @@
       "pubDate": 1783785755.0
     },
     {
-      "id": "Libération--7122062375491291123",
+      "id": "Libération--5154808884545720252",
       "source": "Libération",
       "title": "Grand Arles Express 2026, trois expos hors les murs",
       "excerpt": "Le festival arlésien, c’est aussi un événement régional avec des premières fois à Montpellier, des archives de Gaza avant la guerre à Marseille ou une photographe féministe à Mougins.",
       "link": "https://www.liberation.fr/culture/photographie/grand-arles-express-2026-trois-expos-hors-les-murs-20260711_KEY6Z76H3FD3PLPMMI62ANKVUQ/",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1783785601.0
     },
     {
-      "id": "France Info-859548327524868723",
+      "id": "France Info--2836099414841407071",
       "source": "France Info",
       "title": "Canicule : 26 millions de Français seront concernés par la vigilance rouge à partir de dimanche midi",
       "excerpt": "Treize nouveaux départements sont placés en vigilance rouge canicule, dès dimanche, à midi : l'Yonne, la Nièvre, l'Allier, la Creuse, la Corrèze, la Haute-Vienne, la Charente, la Dordogne, le Lot-et-G...",
       "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-la-france-suffoque-paris-et-une-vingtaine-de-departements-places-en-vigilance-rouge_8103668.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1783785280.0
     },
     {
-      "id": "Libération-1773971871897226326",
+      "id": "Libération--221948485546147371",
       "source": "Libération",
       "title": "Tour de France 2026 : à Bergerac, Tim Merlier, le plein tube de l’été",
       "excerpt": "Avec une deuxième victoire en deux jours, le Belge s’affirme comme le meilleur sprinter du peloton.",
       "link": "https://www.liberation.fr/sports/cyclisme/tour-de-france-2026-a-bergerac-tim-merlier-le-plein-tube-de-lete-20260711_VRHICVSTHVF6LLRR62PB4AIVOU/",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1783785255.0
     },
     {
-      "id": "Libération-1517148559141925404",
+      "id": "Libération--6748589229779594092",
       "source": "Libération",
       "title": "Le Louvre, la tour Eiffel et le musée d’Orsay réduisent leurs horaires d’ouverture : «Les montées en températures ne garantissent plus le confort des visiteurs ni des agents»",
       "excerpt": "En raison des fortes chaleurs, la tour Eiffel et le Louvre fermeront à 16 heures, Orsay à 17 heures.",
       "link": "https://www.liberation.fr/environnement/climat/le-louvre-la-tour-eiffel-et-le-musee-dorsay-reduisent-leurs-horaires-douverture-les-montees-en-temperatures-ne-garantissent-plus-le-confort-des-visiteurs-ni-des-agents-20260711_NNKKBNHRVZB7HBURCISXZVAR5E/",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1783784305.0
     },
     {
-      "id": "France Info-8960229248105332904",
+      "id": "France Info-7498890270454954697",
       "source": "France Info",
       "title": "\"L'armée américaine est prête à détruire complètement toutes les régions d'Iran\" : comment la trêve entre Washington et Téhéran a volé en éclats cette semaine",
       "excerpt": "Depuis mardi, les deux pays s'accusent mutuellement de violer l'accord signé le 17 juin, qui visait à permettre la reprise du trafic maritime dans le détroit d'Ormuz.",
       "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-armee-americaine-est-prete-a-detruire-completement-toutes-les-regions-d-iran-comment-la-treve-entre-washington-et-teheran-a-vole-en-eclats-cette-semaine_8103818.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1783782832.0
     },
     {
-      "id": "Libération--324017130006938292",
+      "id": "Libération--5053896546054311893",
       "source": "Libération",
       "title": "Présidentielle : Clémentine Autain renonce à sa candidature après le plantage de la primaire à gauche",
       "excerpt": "La députée qui comptait concourir à cette consultation de la gauche non mélenchoniste a pris acte du choix des militants PS, qui désigneront leur candidat via un vote «fermé» et ont ainsi «mis le clou...",
       "link": "https://www.liberation.fr/politique/elections/presidentielle-clementine-autain-renonce-a-sa-candidature-apres-le-plantage-de-la-primaire-a-gauche-20260711_6DAY75TQZBGJXEGEXHOG2CVQVU/",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1783781882.0
     },
     {
-      "id": "Libération-932194909467274987",
+      "id": "Libération--4865034251916860690",
       "source": "Libération",
       "title": "«Que ma tombe fasse perdurer le scandale !» : un sketch de catin sur Grisélidis Réal joué au cimetière de Genève",
       "excerpt": "Avant de mourir d’un cancer en 2005, la Suisse – la «catin révolutionnaire» – avait émis le vœu que sa stèle soit un lieu de «transgression des tabous». Les Balades théâtralisées lui consacrent, vers...",
       "link": "https://www.liberation.fr/lifestyle/intimites/que-ma-tombe-fasse-perdurer-le-scandale-un-sketch-de-catin-sur-griselidis-real-joue-au-cimetiere-de-geneve-20260711_447XD27R6BFQ3OU27ZZIHL5LTE/",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1783780128.0
     },
     {
-      "id": "Libération--7474508146919269178",
-      "source": "Libération",
-      "title": "L’avion Air Force One offert par le Qatar à Donald Trump est-il vraiment sûr ?",
-      "excerpt": "En renonçant soudainement, cette semaine, à utiliser son nouvel appareil pour quitter le sommet de l’Otan en Turquie, le chef d’Etat américain ravive les peurs sur la sécurité de cet avion.",
-      "link": "https://www.liberation.fr/international/amerique/lavion-air-force-one-offert-par-le-qatar-a-donald-trump-est-il-vraiment-sur-20260711_ER4OUXNNRBHNFHWUW5LXOVNRFE/",
-      "time": "Il y a 3h",
-      "pubDate": 1783778562.0
-    },
-    {
-      "id": "France Info--8666717104315551184",
+      "id": "France Info--933852331225109385",
       "source": "France Info",
       "title": "Coupe du monde 2026 : Erling Haaland est \"une machine, une bête\", déclare l'attaquant anglais Harry Kane, qui affronte la Norvège avec les Three Lions en quarts",
       "excerpt": "Les Scandinaves vont tenter samedi soir de se hisser pour la première fois de leur histoire dans le dernier carré du tournoi. Les Anglais, qui attendent, eux, un deuxième titre depuis 1966, partent né...",
       "link": "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-2026-lionel-messi-erling-haaland-harry-kane-les-stars-attendues-au-tournant-des-quarts-de-finale_8102834.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1783777279.0
     },
     {
-      "id": "France Info-8992264570501697995",
+      "id": "France Info--4458944696570669004",
       "source": "France Info",
       "title": "Un départ en vacances perturbés par les fortes chaleurs",
       "excerpt": "Les bouchons et la canicule marquent ce premier grand chassé-croisé de l'été. Avec près de 1 000 km d'embouteillages cumulés à la mi-journée, les vacanciers doivent affronter des températures dépassan...",
@@ -160,153 +163,171 @@
       "pubDate": 1783775256.0
     },
     {
-      "id": "France Info-2501194459313992696",
+      "id": "France Info--4395831212893139971",
       "source": "France Info",
       "title": "Orages dans le sud-ouest : de nombreux foyers encore privés d'électricité",
       "excerpt": "Les orages violents et la grêle ont frappé le Sud-Ouest vendredi 10 juillet, privant jusqu’à 20 000 foyers d’électricité. En Dordogne et en Gironde, la foudre a causé des incendies et des chutes d’arb...",
       "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/orages-dans-le-sud-ouest-de-nombreux-foyers-encore-prives-d-electricite_8104061.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1783774401.0
     },
     {
-      "id": "France Info-2881163151051207013",
+      "id": "France Info-6220886830859895602",
       "source": "France Info",
       "title": "Incendie dans le sud de l'Espagne : \"Franchement, j'ai vu la mort\", témoigne une touriste française",
       "excerpt": "L'incendie dans le sud Espagne a déjà ravagé 6 000 hectares et causé la mort de 12 personnes. Face à ce brasier inarrêtable, 1 400 habitants ont été évacués, dont des touristes français. Le feu reste...",
       "link": "https://www.franceinfo.fr/faits-divers/incendie/incendie-dans-le-sud-de-l-espagne-franchement-j-ai-vu-la-mort-temoigne-une-touriste-francaise_8104055.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1783773453.0
     },
     {
-      "id": "Le Monde--4482626263202370040",
+      "id": "Le Monde--8158101237881842098",
       "source": "Le Monde",
       "title": "Commerces : les faillites en cascade vident les centres-villes",
       "excerpt": "Minelli, Bouchara, Jennyfer, IKKS… les enseignes en difficulté sont de plus en plus nombreuses. Alors que, depuis début 2023, le commerce de détail a perdu 24 000 emplois, les rues désertées et les vi...",
       "link": "https://www.lemonde.fr/economie/article/2026/07/11/commerces-les-faillites-en-cascade-vident-les-centres-villes_6722674_3234.html",
-      "time": "Il y a 11h",
+      "time": "Il y a 12h",
       "pubDate": 1783749623.0
     },
     {
-      "id": "Le Monde--3843540890801917547",
+      "id": "Le Monde--3269451442369158894",
       "source": "Le Monde",
       "title": "EN DIRECT, canicule : jusqu’à 39 °C attendus samedi, 24 départements en vigilance rouge ; la troisième vague de chaleur en deux mois aggrave les risques d’incendies",
       "excerpt": "Les maximales, samedi, seront comprises, selon Météo-France, entre 35 °C et 38 °C dans la plupart des régions, avec des pointes à 39 °C « de la Bourgogne vers les Pays de la Loire ». Seuls les côtes d...",
       "link": "https://www.lemonde.fr/planete/live/2026/07/11/en-direct-canicule-24-departements-places-en-vigilance-rouge-samedi-jusqu-a-39-c-attendus-dans-la-journee_6720911_3244.html",
-      "time": "Il y a 12h",
+      "time": "Il y a 13h",
       "pubDate": 1783746012.0
     },
     {
-      "id": "Le Monde-7349973577797455937",
+      "id": "Le Monde-8907650830418334733",
       "source": "Le Monde",
       "title": "EN DIRECT, guerre en Ukraine : Kiev dit avoir abattu 111 drones et deux missiles russes pendant la nuit ; dix blessés signalés dans la capitale",
       "excerpt": "Selon le maire de la capitale ukrainienne, quatre personnes ont dû être hospitalisées. Le chef de l’administration militaire locale avait appelé dans la nuit la population à se réfugier dans des « lie...",
       "link": "https://www.lemonde.fr/international/live/2026/07/11/en-direct-guerre-en-ukraine-six-blesses-dans-des-attaques-de-missiles-russes-sur-kiev_6720832_3210.html",
-      "time": "Il y a 12h",
+      "time": "Il y a 13h",
       "pubDate": 1783744501.0
     },
     {
-      "id": "Le Monde-4568296553724930196",
+      "id": "Le Monde--7108732734823061268",
       "source": "Le Monde",
       "title": "Ségolène Royal, Raphaël Glucksmann, François Hollande… La primaire sociale-démocrate cherche ses candidats",
       "excerpt": "Après le choix par les militants socialistes d’un processus de désignation pour la présidentielle, certaines personnalités ont confirmé leur participation. D’autres, à l’instar de Raphaël Glucksmann,...",
       "link": "https://www.lemonde.fr/politique/article/2026/07/11/segolene-royal-raphael-glucksmann-francois-hollande-la-primaire-sociale-democrate-cherche-ses-candidats_6722668_823448.html",
-      "time": "Il y a 12h",
+      "time": "Il y a 13h",
       "pubDate": 1783744200.0
     },
     {
-      "id": "Le Monde--7682692251669737948",
+      "id": "Le Monde-2146531966754678392",
       "source": "Le Monde",
       "title": "Donald Trump affirme que l’Iran veut l’« assassiner », Téhéran maintient avoir « tenu parole » sur l’accord de cessez-le-feu",
       "excerpt": "Le président américain a menacé, vendredi soir, « de détruire complètement toutes les régions d’Iran » si la République islamique tentait de le tuer. Il « ne peut y avoir de respect que lorsqu’il est...",
       "link": "https://www.lemonde.fr/international/article/2026/07/11/donald-trump-affirme-que-l-iran-veut-l-assassiner-teheran-maintient-avoir-tenu-parole-sur-l-accord-de-cessez-le-feu_6722666_3210.html",
-      "time": "Il y a 12h",
+      "time": "Il y a 13h",
       "pubDate": 1783744103.0
     },
     {
-      "id": "Le Monde--2153721029142539663",
+      "id": "Le Monde--7453491672638643460",
       "source": "Le Monde",
       "title": "Le maire, la commerciale et le contrat à 38 000 euros : ces communes victimes de pratiques commerciales douteuses",
       "excerpt": "Du jour au lendemain, la petite ville de Bressey-sur-Tille (1 100 habitants), pensant s’équiper contre les cyberattaques, s’est vu réclamer plus de 38 000 euros… Partout en France, des dizaines de mai...",
       "link": "https://www.lemonde.fr/m-le-mag/article/2026/07/11/le-maire-la-commerciale-et-le-contrat-a-38-000-euros-ces-communes-victimes-de-pratiques-commerciales-douteuses_6722663_4500055.html",
-      "time": "Il y a 13h",
+      "time": "Il y a 14h",
       "pubDate": 1783742427.0
     },
     {
-      "id": "Le Monde--1966279300009520835",
+      "id": "Le Monde-9022815414997472868",
       "source": "Le Monde",
       "title": "NBA : Victor Wembanyama prolonge son contrat avec les San Antonio Spurs de plusieurs années",
       "excerpt": "Après avoir porté les Spurs jusqu’en finale de la NBA pour la première fois depuis 2014, le basketteur français s’inscrit dans la durée, confirmant son statut de figure centrale de la franchise texane...",
       "link": "https://www.lemonde.fr/sport/article/2026/07/11/nba-victor-wembanyama-prolonge-de-plusieurs-annees-avec-les-san-antonio-spurs_6722585_3242.html",
-      "time": "Il y a 15h",
+      "time": "Il y a 16h",
       "pubDate": 1783732338.0
     },
     {
-      "id": "Le Monde-5526307282917115364",
+      "id": "Le Monde-7877025129506013576",
       "source": "Le Monde",
       "title": "Coupe du monde 2026 : l’Espagne de Luis de la Fuente remporte face à la Belgique de Rudi Garcia un match tactique tout en coaching",
       "excerpt": "A Los Angeles, vendredi, la Roja s’est qualifiée (2-1) pour les demi-finales en éliminant les Diables rouges, handicapés à la fin de la rencontre par la sortie sur blessure du gardien Thibaut Courtois...",
       "link": "https://www.lemonde.fr/football/article/2026/07/11/coupe-du-monde-2026-l-espagne-de-luis-de-la-fuente-remporte-face-a-la-belgique-de-rudi-garcia-un-match-tactique-tout-en-coaching_6722552_1616938.html",
-      "time": "Il y a 16h",
+      "time": "Il y a 17h",
       "pubDate": 1783730834.0
     },
     {
-      "id": "Le Monde-4738612432311717996",
+      "id": "Le Monde--7141857969414912057",
       "source": "Le Monde",
       "title": "Projet de loi Ripost : l’Assemblée facilite l’expulsion des locations touristiques et des locaux squattés",
       "excerpt": "Le gouvernement avait prévu d’étendre la procédure d’évacuation administrative, confiée au préfet et non à la justice, aux cas où le locataire d’un meublé de tourisme refuse de partir. Les députés ont...",
       "link": "https://www.lemonde.fr/societe/article/2026/07/10/projet-de-loi-ripost-l-assemblee-facilite-l-expulsion-des-locations-touristiques-et-des-locaux-squattes_6722513_3224.html",
-      "time": "Il y a 22h",
+      "time": "Il y a 23h",
       "pubDate": 1783709628.0
     },
     {
-      "id": "Le Monde--339455848560935676",
+      "id": "Le Monde--8360818211854523391",
       "source": "Le Monde",
       "title": "L’épidémie d’Ebola, toujours hors de contrôle, se propage en RDC à une vitesse inédite",
       "excerpt": "La maladie se répand plus rapidement que les 16 épidémies précédentes qu’a connues le pays depuis l’identification d’Ebola en 1976. Le gouvernement assure agir avec force, ce dont doutent de nombreux...",
       "link": "https://www.lemonde.fr/afrique/article/2026/07/10/l-epidemie-d-ebola-toujours-hors-de-controle-se-propage-en-rdc-a-une-vitesse-record_6722502_3212.html",
-      "time": "Il y a 23h",
+      "time": "Il y a 1j",
       "pubDate": 1783705140.0
     }
   ],
   "anglophone": [
     {
-      "id": "BBC News-6789091572630804828",
+      "id": "BBC News-9211567867666200501",
+      "source": "BBC News",
+      "title": "China's second typhoon in a week makes landfall",
+      "excerpt": "Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
+      "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 20 min",
+      "pubDate": 1783791716.0
+    },
+    {
+      "id": "The Guardian-968930003536825172",
+      "source": "The Guardian",
+      "title": "Venezuela quake death toll passes 4,300 as scale of recovery effort looms large",
+      "excerpt": "Nearly 17,000 injured and thousands more listed as missing amid calls by president Delcy Rodríguez and UN for financial help The death toll in Venezuela’s devastating twin earthquakes has passed 4,300...",
+      "link": "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort",
+      "time": "Il y a 39 min",
+      "pubDate": 1783790599.0
+    },
+    {
+      "id": "BBC News-4018402400455727685",
       "source": "BBC News",
       "title": "Iran must pledge to stop shooting at ships in Strait of Hormuz, US officials say",
       "excerpt": "US media say Iran has told US officials an attack on ships crossing the strait early this week was \"a mistake\".",
       "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 12 min",
+      "time": "Il y a 1h",
       "pubDate": 1783788957.0
     },
     {
-      "id": "NPR-4982910679722453955",
+      "id": "NPR--4664924133531012992",
       "source": "NPR",
       "title": "Justice Department subpoenas New York Times reporters over Air Force One reporting",
       "excerpt": "The <em>Times</em> says federal agents turned up on the doorsteps of several of its journalists to force grand jury testimony next week over their coverage of the Air Force One plane gifted to Trump b...",
       "link": "https://www.npr.org/2026/07/11/g-s1-133160/justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporting",
-      "time": "Il y a 32 min",
+      "time": "Il y a 1h",
       "pubDate": 1783787724.0
     },
     {
-      "id": "BBC News-8835168111091398782",
+      "id": "BBC News--675183303648055581",
       "source": "BBC News",
       "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
       "excerpt": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar.",
       "link": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 56 min",
+      "time": "Il y a 1h",
       "pubDate": 1783786293.0
     },
     {
-      "id": "NPR-2881347531452995018",
+      "id": "NPR-4351049688120293317",
       "source": "NPR",
       "title": "The biggest steam locomotive is whistle-stopping across the U.S.",
       "excerpt": "Huge crowds of train fans turn out as the 1940s era Big Boy steam locomotive is making a rare trip cross country.",
       "link": "https://www.npr.org/2026/07/11/nx-s1-5872656/big-boy-locomotive-steam",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1783782882.0
     },
     {
-      "id": "BBC News--3601637821924227801",
+      "id": "BBC News--3593608646853365429",
       "source": "BBC News",
       "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
       "excerpt": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
@@ -315,160 +336,142 @@
       "pubDate": 1783782225.0
     },
     {
-      "id": "BBC News--7743791619624894867",
+      "id": "BBC News-5933607828562082738",
       "source": "BBC News",
       "title": "South Africa World Cup midfielder Adams dies aged 25",
       "excerpt": "South Africa and Mamelodi Sundowns midfielder Jayden Adams dies at the age of 25, just weeks after featuring for his country at the World Cup.",
       "link": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1783781267.0
     },
     {
-      "id": "BBC News-5602723523915854277",
+      "id": "BBC News--6806506030415489113",
       "source": "BBC News",
       "title": "More than 40 kidnapped children and teachers freed after Nigerian army operation",
       "excerpt": "\"I feel happy and elated… I feel joy,\" the head of the local teachers' union tells the BBC.",
       "link": "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1783779574.0
     },
     {
-      "id": "BBC News-3998979557813146919",
+      "id": "BBC News-2993281830963609357",
       "source": "BBC News",
       "title": "Indian tourists among 15 killed as speedboat capsizes in Vietnam",
       "excerpt": "Local media say 21 people were saved after the boat overturned in rough seas near an island in south Vietnam.",
       "link": "https://www.bbc.co.uk/news/articles/cwyd7x22lp1o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1783777443.0
     },
     {
-      "id": "BBC News-2018106537053505292",
+      "id": "BBC News-6515763699925782179",
       "source": "BBC News",
       "title": "Landmark US housing bill becomes law despite Trump protest",
       "excerpt": "The president had wanted voter ID legislation passed before the housing law, which aims to reduce costs and increase supply.",
       "link": "https://www.bbc.co.uk/news/articles/cn8qwj611qxo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1783776909.0
     },
     {
-      "id": "BBC News--963041347130679781",
+      "id": "BBC News-895144524464887725",
       "source": "BBC News",
       "title": "US pays out $3m to victims of mystery Havana Syndrome condition reported by spies",
       "excerpt": "US officials and diplomats and their families began reporting a mysterious illness a decade ago.",
       "link": "https://www.bbc.co.uk/news/articles/cr7xyl78vnko?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1783775512.0
     },
     {
-      "id": "BBC News-5518802132549252167",
-      "source": "BBC News",
-      "title": "China braced for second typhoon in a week as Bavi approaches landfall",
-      "excerpt": "Hundreds of thousands of people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
-      "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 5h",
-      "pubDate": 1783771607.0
-    },
-    {
-      "id": "NPR-4331828770912881251",
+      "id": "NPR--6402947845566308387",
       "source": "NPR",
       "title": "Opinion: Is democracy a joke? Count Binface says no.",
       "excerpt": "Populist British MP Nigel Farage resigned from Parliament over questions about his finances, and is running for re-election in his constituency. His biggest rival? Count Binface.",
       "link": "https://www.npr.org/2026/07/11/nx-s1-5881251/opinion-is-democracy-a-joke-count-binface-says-no",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1783771200.0
     },
     {
-      "id": "The Guardian-9130012049349779120",
+      "id": "The Guardian-3235127571877006653",
       "source": "The Guardian",
       "title": "Nigeria says army has killed 300 bandits in north-western state of Zamfara",
       "excerpt": "Vigilantes also took part in the fight that raged all night and the following morning, residents say Nigerian soldiers killed more than 300 members of kidnapping and cattle bandit gangs in the north-w...",
       "link": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1783771151.0
     },
     {
-      "id": "NPR-574489582908039280",
+      "id": "NPR--4570038585563163377",
       "source": "NPR",
       "title": "Most people who need glasses don't have them. Can the post office change that?",
       "excerpt": "In some towns in India, a visitor to the post office who's squinting at fine print might be asked: Do you want an eye test?",
       "link": "https://www.npr.org/2026/07/11/nx-s1-5887653/reading-glasses-post-office-india",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1783770587.0
     },
     {
-      "id": "NPR--2161681405908018748",
+      "id": "NPR-6971176235336435634",
       "source": "NPR",
       "title": "Minnesota is pulling troops early from D.C., as pressure grows on Michigan",
       "excerpt": "Minnesota Gov. Tim Walz is pulling his National Guard early from Washington, D.C. as the chorus against Democratic governors sending troops to the city amid President Trump's ongoing deployment grows...",
       "link": "https://www.npr.org/2026/07/11/nx-s1-5887666/national-guard-dc-trump-michigan-minnesota",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1783764000.0
     },
     {
-      "id": "NPR-1132014011764754739",
+      "id": "NPR-4579030100414143068",
       "source": "NPR",
       "title": "With the white nationalist group Patriot Front, what you see is not what you get",
       "excerpt": "Hundreds of masked white nationalists marched in the nation's capital on July Fourth. Who were they and where does their funding come from?",
       "link": "https://www.npr.org/2026/07/11/nx-s1-5888571/patriot-front-washington-dc",
-      "time": "Il y a 8h",
+      "time": "Il y a 9h",
       "pubDate": 1783760400.0
     },
     {
-      "id": "NPR-239496135204289",
+      "id": "NPR-4074190155721443217",
       "source": "NPR",
       "title": "Shy on the dance floor? Virtual reality 'partners' aim to help you find your groove",
       "excerpt": "VR dance lesson apps like Dance Guru and Trip the Light offer a judgment-free way to learn partner dancing.",
       "link": "https://www.npr.org/2026/07/11/nx-s1-5882228/dance-virtual-reality-vr-app-augmented-world-expo-weddings",
-      "time": "Il y a 8h",
+      "time": "Il y a 9h",
       "pubDate": 1783760400.0
     },
     {
-      "id": "BBC News-8007394142811286477",
+      "id": "BBC News--8567980365380581241",
       "source": "BBC News",
       "title": "New dinosaur species as long as cricket pitch discovered in Thailand",
       "excerpt": "The plant-eating dinosaur, named Uragasaurus kalasinensis, is thought to have lived about 150 million years ago.",
       "link": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 8h",
+      "time": "Il y a 9h",
       "pubDate": 1783758225.0
     },
     {
-      "id": "NPR--1738809642980935918",
+      "id": "NPR-6553884806913931272",
       "source": "NPR",
       "title": "Spain edges Belgium and will face France in World Cup semifinal",
       "excerpt": "Spain and France will meet Tuesday in Arlington, Texas, in a matchup anticipated for years. Neither team has lost at this year's World Cup.",
       "link": "https://www.npr.org/2026/07/11/nx-s1-5890030/spain-will-face-france-world-cup-semifinal",
-      "time": "Il y a 10h",
+      "time": "Il y a 11h",
       "pubDate": 1783753136.0
     },
     {
-      "id": "NPR-4421747816581987322",
+      "id": "NPR--3001786925839748327",
       "source": "NPR",
       "title": "Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing",
       "excerpt": "Trump made the comments on his Truth Social after U.S. officials demanded that Iran make a public statement saying the Strait of Hormuz is open.",
       "link": "https://www.npr.org/2026/07/11/nx-s1-5890029/trump-threatens-iran",
-      "time": "Il y a 10h",
+      "time": "Il y a 11h",
       "pubDate": 1783751649.0
     },
     {
-      "id": "NPR-1330679156929216444",
+      "id": "NPR--7337345731131014116",
       "source": "NPR",
       "title": "Trump administration rolls back a key protection for imperiled wildlife",
       "excerpt": "The Trump administration finalized a rule Friday that changes how agencies enforce the Endangered Species Act. The administration narrowed the definition of \"harm\" under the landmark law.",
       "link": "https://www.npr.org/2026/07/11/nx-s1-5890025/trump-administration-imperiled-wildlife",
-      "time": "Il y a 11h",
+      "time": "Il y a 12h",
       "pubDate": 1783748920.0
     },
     {
-      "id": "The Guardian-3213595603557935486",
-      "source": "The Guardian",
-      "title": "Venezuela quake death toll passes 4,000 as scale of recovery effort looms large",
-      "excerpt": "Nearly 17,000 injured and thousands more are listed as missing amid calls by UN and president Delcy Rodríguez for financial help The death toll in Venezuela’s devastating twin earthquakes has topped 4...",
-      "link": "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort",
-      "time": "Il y a 16h",
-      "pubDate": 1783730274.0
-    },
-    {
-      "id": "The Guardian-470830010914586559",
+      "id": "The Guardian-4824891499640787362",
       "source": "The Guardian",
       "title": "Developing countries spend more repaying foreign debt than on education, UN reveals",
       "excerpt": "Unesco report shows children lost out to servicing debt in 113 countries, with 18 spending five times more on loans Most developing countries spent less on education than they did repaying debt last y...",
@@ -477,7 +480,7 @@
       "pubDate": 1783666814.0
     },
     {
-      "id": "The Guardian-3116019961145714570",
+      "id": "The Guardian--6786960966170572718",
       "source": "The Guardian",
       "title": "Mexico investigates whether US lied about role in capture of drug lord",
       "excerpt": "Reporting suggests FBI involved in seizure of Ismael ‘El Mayo’ Zambada García from Mexican territory in 2024 Mexico has launched an investigation into <a href=\"https://www.nytimes.com/2026/07/09/world...",
@@ -486,7 +489,7 @@
       "pubDate": 1783621069.0
     },
     {
-      "id": "The Guardian-1544107511391430254",
+      "id": "The Guardian--9188370363780177675",
       "source": "The Guardian",
       "title": "Furore in Nigeria over fake federal agency set up in government HQ",
       "excerpt": "President orders investigation after fictitious body given funding, triggering renewed scrutiny of alleged corruption A fictitious federal entity that was allocated 1.3bn naira (£700,000) in Nigeria’s...",
@@ -495,7 +498,7 @@
       "pubDate": 1783614041.0
     },
     {
-      "id": "The Guardian--6641796562000971130",
+      "id": "The Guardian-4556313777126243553",
       "source": "The Guardian",
       "title": "LGBTQ+ cruise ship refused entry to Egypt days after Turkey turned it away",
       "excerpt": "Scarlet Lady’s 2,000 passengers told of change as one of those onboard says they will ‘sparkle and spend elsewhere’ An LGBTQ+ cruise ship blocked from Turkish waters this week has been refused entry i...",
@@ -504,7 +507,7 @@
       "pubDate": 1783601964.0
     },
     {
-      "id": "The Guardian-467896325417348623",
+      "id": "The Guardian--6453364897931699234",
       "source": "The Guardian",
       "title": "Species’ ingenious survival strategies no match for human destruction, red list reveals",
       "excerpt": "Newly endangered animals include desert frogs and snails in extreme ocean depths, both threatened by mining Life has colonised every corner of the planet by evolving ingenious survival strategies but...",
@@ -513,7 +516,7 @@
       "pubDate": 1783599609.0
     },
     {
-      "id": "The Guardian-1799743359161497943",
+      "id": "The Guardian--986934937880670653",
       "source": "The Guardian",
       "title": "UK judges begin hearing appeal over Trinidad and Tobago anti-gay law",
       "excerpt": "Activist is challenging ruling last year that restored colonial-era homophobic law against same-sex intimacy Some of the UK’s top judges are hearing arguments over whether a Trinidad and Tobago court...",
@@ -522,7 +525,7 @@
       "pubDate": 1783519295.0
     },
     {
-      "id": "The Guardian-2386054127858397413",
+      "id": "The Guardian-3080491660242394543",
       "source": "The Guardian",
       "title": "French prosecutors investigate racist abuse of Kylian Mbappé by Paraguayan senator",
       "excerpt": "Celeste Amarilla could face charges after French Football Federation complains about social media posts over World Cup match Prosecutors in France have opened an investigation into the racist attack o...",
@@ -531,7 +534,7 @@
       "pubDate": 1783436801.0
     },
     {
-      "id": "The Guardian--196560890182823219",
+      "id": "The Guardian-6291101051020469748",
       "source": "The Guardian",
       "title": "‘Living like this is agony’: Cuba suffers third nationwide blackout in six months",
       "excerpt": "Impoverished island was already struggling to keep the lights on before the US imposed a blockade in January Cuba on Monday suffered its third nationwide power outage since the start of the year, the...",
@@ -540,5 +543,5 @@
       "pubDate": 1783366209.0
     }
   ],
-  "lastUpdate": "2026-07-11T17:08:05.403425"
+  "lastUpdate": "2026-07-11T18:02:34.913759"
 }
