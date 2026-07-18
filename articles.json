@@ -1,392 +1,419 @@
 {
   "francophone": [
     {
-      "id": "Libération-4608025094291689541",
+      "id": "Libération-3631363645199777488",
+      "source": "Libération",
+      "title": "France–Angleterre : la petite finale se regarde en mangeant un fish and chips à la koliwada",
+      "excerpt": "La petite finale des Bleus contre les Anglais a lieu ce samedi 18 juillet à 23 heures. Pour l’occasion, on vous propose une recette fusion du chef indien Manoj Sharma du pub The Indian Arms, à Paris.",
+      "link": "https://www.liberation.fr/lifestyle/gastronomie/franceangleterre-la-petite-finale-se-regarde-en-mangeant-un-fish-and-chips-a-la-koliwada-20260718_ECZFMRT4PJDNNGLQ7K4EPUIPGI/",
+      "time": "Il y a 23 min",
+      "pubDate": 1784368020.0
+    },
+    {
+      "id": "Libération--2488604063286074666",
+      "source": "Libération",
+      "title": "Départs en vacances : bouchons sur les routes françaises en ce samedi rouge et grève à la gare de Pau",
+      "excerpt": "Plus de 230 km de bouchons ont déjà été recensés dans la matinée, alors que le pic est attendu à la mi-journée et que les difficultés devraient persister jusqu’au soir.",
+      "link": "https://www.liberation.fr/economie/transports/departs-en-vacances-bouchons-sur-les-routes-francaises-en-ce-samedi-rouge-et-greve-a-la-gare-de-pau-20260718_BQPK3G6VGRGSDLEC3RRQZ64ST4/",
+      "time": "Il y a 29 min",
+      "pubDate": 1784367658.0
+    },
+    {
+      "id": "Libération--6520638021659235869",
+      "source": "Libération",
+      "title": "Non, il n’est pas interdit de se maquiller dans les wagons de la RATP ou de la SNCF",
+      "excerpt": "L’intox partagée par la page Instagram «On n’y comprend rien», qui publie de nombreux contenus générés par IA, a été démentie par les deux entreprises ferroviaires.",
+      "link": "https://www.liberation.fr/checknews/non-il-nest-pas-interdit-de-se-maquiller-dans-les-wagons-de-la-ratp-ou-de-la-sncf-20260718_FSPAVT54PFCBDN2K23TS7CHK6A/",
+      "time": "Il y a 44 min",
+      "pubDate": 1784366760.0
+    },
+    {
+      "id": "France Info--9106663332573211476",
+      "source": "France Info",
+      "title": "Il était une figure française du jazz et un compagnon de route de Miles Davis : le pianiste français René Urtreger est décédé",
+      "excerpt": "Le pianiste et compositeur René Urtreger, figure de la scène jazz française connue pour avoir enregistré avec Miles Davis la musique du film \"Ascenseur pour l'échafaud\", est décédé à 92 ans.",
+      "link": "https://www.franceinfo.fr/culture/il-etait-une-figure-francaise-du-jazz-et-un-compagnon-de-route-de-miles-davis-le-pianiste-francais-rene-urtreger-est-decede_8112818.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 52 min",
+      "pubDate": 1784366271.0
+    },
+    {
+      "id": "Libération-2559292168028405713",
+      "source": "Libération",
+      "title": "Venezuela : le bilan du double séisme dépasse désormais les 5 000 morts, le FMI débloque des fonds",
+      "excerpt": "Le nombre de disparus pourrait atteindre 50 000 personnes selon l’ONU, alors que près de 20 000 sinistrés vivent dans des camps de fortune et que les recherches de corps sous les décombres, insuffisam...",
+      "link": "https://www.liberation.fr/international/amerique/venezuela-le-bilan-du-double-seisme-depasse-desormais-les-5-000-morts-le-fmi-debloque-des-fonds-20260718_H5V33CSKJZAUTFZ24CPVQ3TCKM/",
+      "time": "Il y a 53 min",
+      "pubDate": 1784366172.0
+    },
+    {
+      "id": "Libération--8509685678662764732",
+      "source": "Libération",
+      "title": "Bisbilles en héritage : le clan Delon, fratricides volontaires",
+      "excerpt": "(1/5) Depuis le décès de l’acteur en 2024, ses trois enfants se déchirent à coups de plaintes, de chien mort et de posts Instagram, avec à la clé plusieurs dizaines de millions d’euros. Malgré quelque...",
+      "link": "https://www.liberation.fr/societe/bisbilles-en-heritage-le-clan-delon-fratricides-volontaires-20260718_L23WSXJXRJFFRIAS7WYRQQKLHU/",
+      "time": "Il y a 59 min",
+      "pubDate": 1784365860.0
+    },
+    {
+      "id": "Libération--4807562519978280994",
+      "source": "Libération",
+      "title": "Au Markstein, une belle salade vosgienne",
+      "excerpt": "Chaque jour, «Libé» vous propose une recette de la région ou de la ville d’arrivée du Tour de France, trouvée par nos soins. Aujourd’hui, une recette traditionnelle du restaurant aux 2 Sapins, près de...",
+      "link": "https://www.liberation.fr/lifestyle/gastronomie/au-markstein-une-belle-salade-vosgienne-20260718_JX7TERNGRRA7NMCYDUTXII6X5I/",
+      "time": "Il y a 1h",
+      "pubDate": 1784365800.0
+    },
+    {
+      "id": "France Info--4410762175226872082",
+      "source": "France Info",
+      "title": "\"C'est important pour notre équilibre psychique\" : quand la science confirme les bienfaits des vacances sur notre cerveau",
+      "excerpt": "Alors que nous sommes extrêmement sollicités dans notre quotidien, la déconnexion estivale permet au cerveau de se mettre en \"mode par défaut\", qui a un réel bénéfice sur la mémoire, le bien-être ment...",
+      "link": "https://www.franceinfo.fr/decouverte/vacances/c-est-important-pour-notre-equilibre-psychique-quand-la-science-confirme-les-bienfaits-des-vacances-sur-notre-cerveau_8101226.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1784365442.0
+    },
+    {
+      "id": "Libération--1563665509326406690",
+      "source": "Libération",
+      "title": "«Nous ne reculerons pas» : en Ukraine, la rue réclame le retour du ministre de la Défense",
+      "excerpt": "A Kyiv, les manifestations s’enchaînent pour s’opposer au départ contraint du très populaire ministre Mykhaïlo Fedorov, en délicatesse avec le commandant en chef des armées, alors que les tensions int...",
+      "link": "https://www.liberation.fr/international/europe/nous-ne-reculerons-pas-en-ukraine-la-rue-reclame-le-retour-du-ministre-de-la-defense-20260718_5IZXV4MSCRE7FDYH5ALCPPYOFM/",
+      "time": "Il y a 1h",
+      "pubDate": 1784365061.0
+    },
+    {
+      "id": "Libération--912151184429864998",
       "source": "Libération",
       "title": "Guerre au Moyen-Orient : «Les conséquences pour les enfants se feront sentir pendant cinq, dix ans, voire le reste de leur vie»",
       "excerpt": "L’Unicef estime dans un rapport publié jeudi 16 juillet que le conflit pourrait plonger jusqu’à 23,4 millions d’enfants dans la pauvreté, en particulier en Afrique et en Asie. Avec des «répercussions...",
       "link": "https://www.liberation.fr/international/moyen-orient/guerre-au-moyen-orient-les-consequences-pour-les-enfants-se-feront-sentir-pendant-cinq-dix-ans-voire-le-reste-de-leur-vie-20260718_CWFBTBBORFAZRNHVB3D5NYZOTI/",
-      "time": "Il y a 4 min",
+      "time": "Il y a 1h",
       "pubDate": 1784364720.0
     },
     {
-      "id": "Libération-912659799686654621",
+      "id": "Libération-1045270902214229467",
       "source": "Libération",
       "title": "Septième nuit de frappes américaines, menace iranienne d’une «offensive totale», Ormuz bloqué… L’actu du conflit au Moyen-Orient ce 18 juillet",
       "excerpt": "L’essentiel des informations du jour sur la reprise des hostilités entre Washington et Téhéran.",
       "link": "https://www.liberation.fr/international/moyen-orient/septieme-nuit-de-frappes-americaines-menace-iranienne-dune-offensive-totale-ormuz-bloque-lactu-du-conflit-au-moyen-orient-ce-18-juillet-20260718_MM5C3EYZZRAJZITXAWOGQVV6QM/",
-      "time": "Il y a 6 min",
+      "time": "Il y a 1h",
       "pubDate": 1784364545.0
     },
     {
-      "id": "Libération-7772887611894605569",
+      "id": "Libération--2588152047947593601",
       "source": "Libération",
       "title": "La cause de l’épidémie de «diarrhées explosives» aux Etats-Unis identifiée dans la salade d’une grande chaîne de fast-food",
       "excerpt": "Depuis trois mois, des milliers d’Américains dans plusieurs Etats ont contracté la cyclosporose, maladie liée à un parasite, et 94 d’entre eux ont dû être hospitalisés. C’est la fameuse enseigne tex-m...",
       "link": "https://www.liberation.fr/international/amerique/la-cause-de-lepidemie-de-diarrhees-explosives-aux-etats-unis-identifiee-dans-la-salade-dune-grande-chaine-de-fast-food-20260718_E5VJU5REH5HCNMY47N76OHE33E/",
-      "time": "Il y a 7 min",
+      "time": "Il y a 1h",
       "pubDate": 1784364532.0
     },
     {
-      "id": "France Info--1193604509776325598",
+      "id": "France Info--5483437302108759430",
       "source": "France Info",
-      "title": "Un samedi de départ en vacances dense sur les routes, avec déjà plus de 230km de bouchons à 10 heures",
-      "excerpt": "Bison Futé a classé la journée en rouge à l'échelle du pays. Les embouteillages se concentrent notamment sur l'A7, l'A31 et l'A9.",
-      "link": "https://www.franceinfo.fr/economie/transports/trafic/un-samedi-de-depart-en-vacances-dense-sur-les-routes-avec-deja-plus-de-230km-de-bouchons-a-10-heures_8112779.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 35 min",
-      "pubDate": 1784362806.0
+      "title": "\"Ce qui reste autour de nous, c’est ce paysage en noir et blanc\" : aux côtés d'une agente de l’ONF, dans la forêt brûlée de Fontainebleau",
+      "excerpt": "Le feu est fixé depuis deux jours et pourtant, la forêt continue de brûler et reste interdite au public. L'autoroute A6 a pu rouvrir pour les départs en vacances mais les pompiers restent mobilisés en...",
+      "link": "https://www.franceinfo.fr/faits-divers/incendie/reportage-ce-qui-reste-autour-de-nous-c-est-ce-paysage-en-noir-et-blanc-au-c-ur-de-la-desolation-avec-une-agente-de-l-onf-dans-la-foret-brulee-de-fontainebleau_8112773.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1784364113.0
     },
     {
-      "id": "Libération-2600385196656064047",
-      "source": "Libération",
-      "title": "A Die, après le feu, les habitants attendent des réponses : «Pourquoi on se retrouve à pallier les défaillances de l’Etat ?»",
-      "excerpt": "Dans la Drôme, les pompiers sont parvenus jeudi 16 juillet à «fixer» le feu qui avait parcouru 4 400 hectares depuis fin juin. Les habitants s’interrogent sur la gestion de ce drame par les autorités.",
-      "link": "https://www.liberation.fr/environnement/a-die-apres-le-feu-les-habitants-attendent-des-reponses-pourquoi-on-se-retrouve-a-pallier-les-defaillances-de-letat-20260718_JIM4XGJMNJBONGOYDO6V7QJYTA/",
-      "time": "Il y a 43 min",
-      "pubDate": 1784362380.0
+      "id": "France Info-754517196797092376",
+      "source": "France Info",
+      "title": "Après sept ans d'absence, BTS retrouve la scène française et fait exulter le Stade de France",
+      "excerpt": "Le groupe coréen a donné ce vendredi soir le premier de ses deux concerts d'affilée à guichets fermés au Stade de France. Fraîchement sortis de service militaire, les sept membres font étape à Paris d...",
+      "link": "https://www.franceinfo.fr/culture/musique/reportage-apres-sept-ans-d-absence-bts-retrouve-la-scene-francaise-et-fait-exulter-le-stade-de-france_8112737.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1784364031.0
     },
     {
-      "id": "Libération--3794431642621169506",
-      "source": "Libération",
-      "title": "Après Deepseek, la nouvelle IA chinoise Kimi K3 fait sensation jusqu’aux Etats-Unis",
-      "excerpt": "Le nouveau modèle d’intelligence artificielle lancé vendredi par l’entreprise Moonshot AI affiche des performances proches de ceux des leaders américains Anthropic et OpenAI.",
-      "link": "https://www.liberation.fr/economie/economie-numerique/apres-deepseek-la-nouvelle-ia-chinoise-kimi-k3-fait-sensation-jusquaux-etats-unis-20260718_K7IR6H5ZXREULGMRO7ODSQAVXU/",
-      "time": "Il y a 52 min",
-      "pubDate": 1784361815.0
-    },
-    {
-      "id": "Libération-977673970165676504",
-      "source": "Libération",
-      "title": "«Oldigarchie» et «gérontonomie» : ce que l’argent et les idées des boomers font à l’Amérique",
-      "excerpt": "Avec un président octogénaire et un Sénat largement dominé par la génération née entre 1946 et 1964, les Etats-Unis s’enfoncent dans une forme de gérontocratie. Une mainmise politique d’autant plus cr...",
-      "link": "https://www.liberation.fr/international/amerique/oldigarchie-et-gerontonomie-ce-que-largent-et-les-idees-des-boomers-font-a-lamerique-20260718_SY2USHQDIVD4RDCDZHRWEQABEQ/",
-      "time": "Il y a 54 min",
-      "pubDate": 1784361720.0
-    },
-    {
-      "id": "Le Monde--3360888318667169610",
+      "id": "Le Monde--9635729331152096",
       "source": "Le Monde",
       "title": "La tapisserie de Bayeux, arrivée à Londres, désormais aux bons soins du British Museum",
       "excerpt": "La broderie millénaire de 70 mètres qui relate la conquête de l’Angleterre par Guillaume de Normandie a été extraite de sa caisse. Lundi 20 juillet, commencera un long travail d’observation de son éta...",
       "link": "https://www.lemonde.fr/culture/article/2026/07/18/la-tapisserie-de-bayeux-arrivee-a-londres-desormais-aux-bons-soins-du-british-museum_6724568_3246.html",
-      "time": "Il y a 55 min",
+      "time": "Il y a 2h",
       "pubDate": 1784361606.0
     },
     {
-      "id": "Libération--5481158055798197062",
-      "source": "Libération",
-      "title": "Canada : plus de 200 feux de forêt hors de contrôle, leurs fumées menacent la finale du Mondial dimanche",
-      "excerpt": "Les incendies brûlent principalement en Ontario, de l’autre côté de la frontière américaine. Au total, près de 2,8 millions d’hectares ont été réduits en cendre depuis le début de l’année au Canada.",
-      "link": "https://www.liberation.fr/international/amerique/canada-plus-de-200-feux-de-foret-hors-de-controle-leurs-fumees-menacent-la-finale-du-mondial-dimanche-20260718_FS756NMYGZC3VF5SFHNQVTGL2U/",
-      "time": "Il y a 1h",
-      "pubDate": 1784361317.0
-    },
-    {
-      "id": "France Info--5091225762860204935",
+      "id": "France Info--3171594364274768927",
       "source": "France Info",
       "title": "Le patrimoine mondial en péril face aux conflits et aux urgences écologiques",
       "excerpt": "Forteresses médiévales au Sud-Liban, site archéologique en Crimée, lac Baïkal, parcs naturels au Soudan du Sud... Face à la multiplication des conflits et des menaces environnementales, plusieurs site...",
       "link": "https://www.franceinfo.fr/culture/le-patrimoine-mondial-en-peril-face-aux-conflits-et-aux-urgences-ecologiques_8112728.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1784360669.0
     },
     {
-      "id": "Libération--2303077242061219079",
-      "source": "Libération",
-      "title": "Coupes budgétaires dans le spectacle vivant : pour les chargés de diffusion, le défi constant de trouver des scènes aux artistes",
-      "excerpt": "Courroie de transmission entre les artistes d’un côté, les programmateurs de l’autre, cette profession slalome entre mille embûches pour parvenir à faire «tourner» les œuvres. A Avignon, deux chargées...",
-      "link": "https://www.liberation.fr/culture/scenes/coupes-budgetaires-dans-le-spectacle-vivant-pour-les-charges-de-diffusion-le-defi-constant-de-trouver-des-scenes-aux-artistes-20260718_3R6RCYZP6NCWBIR6DABVGNLH7E/",
-      "time": "Il y a 1h",
-      "pubDate": 1784360520.0
-    },
-    {
-      "id": "Libération--2893794288399634146",
-      "source": "Libération",
-      "title": "Canicule : 7 départements du Sud-Est toujours en vigilance orange, des alertes aux orages dans le Centre et l’Est",
-      "excerpt": "«Les fortes chaleurs sont généralisées en Corse et du Roussillon à la basse vallée du Rhône et la Provence», souligne encore Météo France ce samedi. Les températures pourraient avoisiner 40 °C par end...",
-      "link": "https://www.liberation.fr/environnement/canicule-7-departements-du-sud-est-toujours-en-vigilance-orange-des-alertes-aux-orages-dans-le-centre-et-lest-20260718_TTCLCRYXWRGS3GKH36SRS3OFVA/",
-      "time": "Il y a 1h",
-      "pubDate": 1784358554.0
-    },
-    {
-      "id": "France Info--3086517078777088533",
-      "source": "France Info",
-      "title": "Guerre au Moyen-Orient : Bahreïn repousse une nouvelle attaque iranienne, après une septième nuit de frappes entre Washington et Téhéran",
-      "excerpt": "L'armée américaine a de nouveau ciblé plusieurs sites en Iran, avant que les Gardiens de la Révolution ne répliquent en déclenchant des tirs contre des bases américaines de la région.",
-      "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-bahrein-repousse-une-nouvelle-attaque-iranienne-apres-une-septieme-nuit-de-frappes-entre-washington-et-teheran_8112620.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
-      "pubDate": 1784358353.0
-    },
-    {
-      "id": "France Info--6253456893349878504",
-      "source": "France Info",
-      "title": "Bruit, risques de collision avec les animaux marins dans une zone protégée... Des ONG s'inquiètent des conséquences d'une course de bateaux électriques à Monaco",
-      "excerpt": "Durant tout le week-end à Monaco se déroule le Grand Prix de la série E1. \"On parle de bateaux qui vont être à plus de 100 ou 130 km/h\", alerte les ONG qui craignent des accidents avec les cétacés et...",
-      "link": "https://www.franceinfo.fr/environnement/biodiversite/animaux/bien-etre-animal/bruit-risques-de-collision-avec-les-animaux-marins-dans-une-zone-protegee-des-ong-s-inquietent-des-consequences-d-une-course-de-bateaux-electriques-a-monaco_8112704.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
-      "pubDate": 1784356839.0
-    },
-    {
-      "id": "France Info--833845195564597108",
-      "source": "France Info",
-      "title": "L'Ukraine diffuse une vidéo montrant le moment de l'explosion à Monaco qui a ciblé un homme d'affaires fin juin",
-      "excerpt": "\"Il s'agit d'un enregistrement vidéo provenant d'une caméra de surveillance (...) installée au préalable à proximité du lieu du crime\", a commenté le procureur général Rouslan Kravtchenko.",
-      "link": "https://www.franceinfo.fr/faits-divers/l-ukraine-diffuse-une-video-montrant-le-moment-de-l-explosion-a-monaco-qui-a-cible-un-homme-d-affaires-fin-juin_8112707.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
-      "pubDate": 1784356737.0
-    },
-    {
-      "id": "Libération--7980483542083284217",
-      "source": "Libération",
-      "title": "Mondial 2026 : à Miami, pour la petite finale, des Bleus du ciel à l’amer",
-      "excerpt": "A l’aube du match contre l’Angleterre, samedi en Floride, le bilan des Bleus laisse une impression désincarnée, brillante mais repliée sur elle-même et ses certitudes individuelles.",
-      "link": "https://www.liberation.fr/sports/football/mondial-2026-a-miami-pour-la-petite-finale-des-bleus-du-ciel-a-lamer-20260718_ZKKKIW32VND4XGLQKSLFRUEKSY/",
-      "time": "Il y a 2h",
-      "pubDate": 1784355709.0
-    },
-    {
-      "id": "Le Monde--609536916337171145",
+      "id": "Le Monde--940322893810271054",
       "source": "Le Monde",
       "title": "Pauline Clément, sociétaire à la Comédie-Française : « Je suis exactement la même que l’élève qui galérait à l’école. J’ai simplement trouvé ma place »",
       "excerpt": "« J’avais 20 ans ». « Le Monde » interroge une personnalité sur ses années d’études et son passage à l’âge adulte. Ce mois-ci, la comédienne de 39 ans, raconte une jeunesse marquée par les difficultés...",
       "link": "https://www.lemonde.fr/campus/article/2026/07/18/pauline-clement-societaire-a-la-comedie-francaise-je-suis-exactement-la-meme-que-l-eleve-qui-galerait-a-l-ecole-j-ai-simplement-trouve-ma-place_6724431_4401467.html",
-      "time": "Il y a 2h",
+      "time": "Il y a 4h",
       "pubDate": 1784354415.0
     },
     {
-      "id": "France Info-6156497510133781626",
+      "id": "France Info--8814827763510303368",
       "source": "France Info",
       "title": "Affaire Jubillar : les gendarmes spécialisés engagés dans une course contre la montre pour identifier les ossements retrouvés dans le Tarn",
       "excerpt": "Les ossements retrouvés dispersés dans un champ sont-ils ceux de Delphine Aussaguel ? Dans l'attente des résultats, franceinfo s'est rendu à Pontoise pour suivre la mission minutieuse réalisée par ces...",
       "link": "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/reportage-affaire-jubillar-les-gendarmes-specialises-engages-dans-une-course-contre-la-montre-pour-identifier-les-ossements-retrouves-dans-le-tarn_8112218.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
+      "time": "Il y a 4h",
       "pubDate": 1784354366.0
     },
     {
-      "id": "Le Monde--7836699795868086771",
+      "id": "France Info-6577731093849072671",
+      "source": "France Info",
+      "title": "Guerre au Moyen-Orient : les Etats-Unis bombardent l'Iran pour la septième nuit consécutive",
+      "excerpt": "Les frappes ont fait des morts et des blessés, selon l'agence Irna. Téhéran a menacé de passer à une \"offensive totale\" sur les frappes se poursuivaient encore deux à trois jours.",
+      "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-les-etats-unis-bombardent-l-iran-pour-la-septieme-nuit-consecutive_8112626.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 5h",
+      "pubDate": 1784351077.0
+    },
+    {
+      "id": "Le Monde-5028582778984716859",
       "source": "Le Monde",
       "title": "EN DIRECT, guerre en Ukraine : des centaines de drones ukrainiens ont frappé la Russie dans la nuit ; nouvel appel à manifester à Kiev pour soutenir Mykhaïlo Fedorov",
       "excerpt": "Les drones ukrainiens ont notamment attaqué des entrepôts de Wildberries, le géant russe du commerce en ligne. L’une des attaques a fait au moins sept morts, selon les autorités locales.",
       "link": "https://www.lemonde.fr/international/live/2026/07/18/en-direct-guerre-en-ukraine-sept-morts-et-vingt-quatre-blesses-apres-une-attaque-de-drone-en-russie-selon-les-autorites-locales_6722853_3210.html",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1784350278.0
     },
     {
-      "id": "France Info--4219107793884767014",
-      "source": "France Info",
-      "title": "Loi d'urgence agricole : \"Chaque député va être mis devant ses responsabilités\", prévient la députée LFI Aurélie Trouvé",
-      "excerpt": "Alors que la loi d'urgence agricole va être soumise à un ultime vote au Parlement en début de semaine, après un compromis trouvé en commission mixte paritaire, l'insoumise fait état d'\"un immense reje...",
-      "link": "https://www.franceinfo.fr/environnement/transition-ecologique-de-l-agriculture/pesticides/loi-d-urgence-agricole-chaque-depute-va-etre-mis-devant-ses-responsabilites-previent-la-deputee-lfi-aurelie-trouve_8112587.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 4h",
-      "pubDate": 1784349996.0
-    },
-    {
-      "id": "France Info--3838715916966944872",
+      "id": "France Info--186762054525466393",
       "source": "France Info",
       "title": "La petite finale de la Coupe du monde, ce match mal-aimé que la Fifa défend mordicus depuis près d'un siècle",
       "excerpt": "France-Angleterre, sur le papier, c'est une belle affiche. Mais dans le contexte d'un match sans grand enjeu avec des joueurs et des staffs démobilisés, ça risque de perdre une grande partie de sa sav...",
       "link": "https://www.franceinfo.fr/coupe-du-monde/la-petite-finale-de-la-coupe-du-monde-ce-match-mal-aime-que-la-fifa-defend-mordicus-depuis-pres-d-un-siecle_8108783.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1784349767.0
     },
     {
-      "id": "France Info-982620192357153472",
+      "id": "France Info--7344600705952578138",
       "source": "France Info",
       "title": "Aide à mourir : le patient ne rencontrera-t-il qu'un seul médecin avant la validation de sa demande, comme le dénonce François-Xavier Bellamy ?",
       "excerpt": "L'argument du vice-président des Républicains est trompeur. Car le texte adopté mercredi stipule que l'aide à mourir doit reposer sur une décision collégiale. Le médecin sollicité par le patient a l'o...",
       "link": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-aide-a-mourir-le-patient-ne-rencontrera-t-il-qu-un-seul-medecin-avant-la-validation-de-sa-demande-comme-le-denonce-francois-xavier-bellamy_8110238.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1784349655.0
     },
     {
-      "id": "Le Monde--2193143868404722067",
+      "id": "France Info--8087347097103987559",
+      "source": "France Info",
+      "title": "\"Le racisme est toujours bien vivace\" : on vous explique pourquoi les Bleus ont été la cible d'attaques pendant le Mondial",
+      "excerpt": "Les joueurs de Didier Deschamps ont été visés par des propos racistes pendant la Coupe du monde, venus notamment d'une élue paraguayenne ou d'un ancien Premier ministre espagnol. Ces attaques sont loi...",
+      "link": "https://www.franceinfo.fr/coupe-du-monde/le-racisme-est-toujours-bien-vivace-on-vous-explique-pourquoi-les-bleus-ont-ete-la-cible-d-attaques-pendant-le-mondial_8109878.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 5h",
+      "pubDate": 1784349606.0
+    },
+    {
+      "id": "Le Monde-5743688788954755881",
       "source": "Le Monde",
       "title": "L’épopée au goût d’inachevé de l’équipe de France à la Coupe du monde 2026 : des rêves d’une troisième étoile au retour brutal à la réalité",
       "excerpt": "Sèchement battus par l’Espagne en demi-finales, les Bleus affrontent l’Angleterre dans la « petite finale », samedi à Miami. Un épilogue aussi cruel qu’inattendu pour le groupe de Didier Deschamps, qu...",
       "link": "https://www.lemonde.fr/sport/article/2026/07/18/l-epopee-au-gout-d-inacheve-de-l-equipe-de-france-a-la-coupe-du-monde-2026-des-reves-d-une-troisieme-etoile-au-retour-brutal-a-la-realite_6724356_3242.html",
-      "time": "Il y a 4h",
+      "time": "Il y a 6h",
       "pubDate": 1784347237.0
     },
     {
-      "id": "Le Monde-7593292554280559419",
+      "id": "Le Monde-703646859239579308",
       "source": "Le Monde",
       "title": "Après trois canicules, des Français sidérés et inquiets : « L’année prochaine ça va être pire, comment on va faire ? »",
       "excerpt": "De la Bretagne aux Bouches-du-Rhône, de Paris à Périgueux, les Français ont découvert leur vulnérabilité aux températures extrêmes qui ont touché durablement leur pays ces dernières semaines.",
       "link": "https://www.lemonde.fr/planete/article/2026/07/18/apres-trois-canicules-des-francais-sideres-et-inquiets-l-annee-prochaine-ca-va-etre-pire-comment-on-va-faire_6724357_3244.html",
-      "time": "Il y a 4h",
+      "time": "Il y a 6h",
       "pubDate": 1784347227.0
     },
     {
-      "id": "Le Monde-4309354636451520404",
+      "id": "Le Monde-1103373035353950551",
       "source": "Le Monde",
       "title": "Frontex continue sa mission en Grèce, malgré de graves violations des droits des migrants",
       "excerpt": "Combien de temps Frontex tolérera-t-elle les violations croissantes des droits des migrants en Grèce ? Une enquête du « Monde » documente les multiples alertes adressées par le Bureau des droits fonda...",
       "link": "https://www.lemonde.fr/les-decodeurs/article/2026/07/18/frontex-continue-sa-mission-en-grece-malgre-de-graves-violations-des-droits-des-migrants_6724350_4355770.html",
-      "time": "Il y a 4h",
+      "time": "Il y a 6h",
       "pubDate": 1784347205.0
     },
     {
-      "id": "Le Monde-9030039122955256829",
+      "id": "Le Monde-6622101188046811718",
       "source": "Le Monde",
       "title": "EN DIRECT, guerre en Iran : le Koweït annonce qu’une deuxième centrale électrique et de dessalement a été attaquée ; Téhéran menace tous les pays accueillant des forces américaines de représailles",
       "excerpt": "L’Iran a fait état jeudi soir de trois morts lors de bombardements américains dans le sud du pays et a répliqué. L’armée jordanienne affirme avoir intercepté dix missiles ; Bahreïn et le Koweït ont au...",
       "link": "https://www.lemonde.fr/international/live/2026/07/18/en-direct-guerre-au-moyen-orient-l-armee-americaine-a-frappe-des-infrastructures-militaires-et-des-depots-d-armes-souterrains-en-iran_6722873_3210.html",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1784344416.0
     },
     {
-      "id": "Le Monde--5339625194310409659",
+      "id": "Le Monde-5893586807959187995",
       "source": "Le Monde",
       "title": "Pour l’élection présidentielle 2027, la gauche sociale-démocrate cherche toujours son candidat",
       "excerpt": "Le 9 juillet, les militants socialistes ont opté pour une primaire interne qui doit se tenir en octobre, mais ce choix n’a pas fait disparaître les profondes tensions au sein du PS. La multiplication...",
       "link": "https://www.lemonde.fr/politique/article/2026/07/18/hollande-cazeneuve-glucksmann-la-gauche-sociale-democrate-cherche-toujours-son-candidat_6724309_823448.html",
-      "time": "Il y a 5h",
+      "time": "Il y a 7h",
       "pubDate": 1784343604.0
     },
     {
-      "id": "Le Monde--8453233054854558566",
+      "id": "Le Monde-7323246152887502583",
       "source": "Le Monde",
       "title": "L’attente solitaire et désespérée de Blaise Compaoré, l’ancien président burkinabé, dans sa villa ivoirienne",
       "excerpt": "« Chefs d’Etat africains en exil » (6/6). Détrôné par une insurrection populaire en 2014, après vingt-sept années au pouvoir, le président burkinabé a fui en Côte d’Ivoire avec l’aide de la France. Co...",
       "link": "https://www.lemonde.fr/series-d-ete/article/2026/07/17/l-attente-solitaire-et-desesperee-de-blaise-compaore-l-ancien-president-burkinabe-dans-sa-villa-ivoirienne_6724240_3451060.html",
-      "time": "Il y a 11h",
+      "time": "Il y a 12h",
       "pubDate": 1784323807.0
     },
     {
-      "id": "France Info--6672089115836307084",
-      "source": "France Info",
-      "title": "Incendies de Fontainebleau : les images impressionnantes de la forêt dévastée après une semaine de lutte contre les flammes",
-      "excerpt": "En France, si l'incendie de Fontainebleau reste sous surveillance, vendredi 17 juillet, le feu est désormais fixé. Une semaine éprouvante pour les sapeurs-pompiers mobilisés, mais également pour les a...",
-      "link": "https://www.franceinfo.fr/faits-divers/incendie/incendies-de-fontainebleau-les-images-impressionnantes-de-la-foret-devastee-apres-une-semaine-de-lutte-contre-les-flammes_8112290.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 13h",
-      "pubDate": 1784317840.0
-    },
-    {
-      "id": "Le Monde-6292208488421895270",
+      "id": "Le Monde-7533279111163065098",
       "source": "Le Monde",
       "title": "Affaire Edouard Philippe : le tribunal administratif de Paris conforte le statut de lanceuse d’alerte de la plaignante",
       "excerpt": "Comme l’a appris « Le Monde », la juridiction a rejeté, mercredi 15 juillet, une requête de la Communauté urbaine du Havre, présidée par l’ex-premier ministre, qui demandait l’annulation d’un avis du...",
       "link": "https://www.lemonde.fr/societe/article/2026/07/17/affaire-edouard-philippe-le-tribunal-administratif-de-paris-conforte-le-statut-de-lanceuse-d-alerte-de-la-plaignante_6724236_3224.html",
-      "time": "Il y a 14h",
+      "time": "Il y a 15h",
       "pubDate": 1784312498.0
     }
   ],
   "anglophone": [
     {
-      "id": "BBC News-5616533567792653565",
+      "id": "NPR-1609905001777883836",
+      "source": "NPR",
+      "title": "The 2000s called. They want their digital camera back",
+      "excerpt": "Why are people who weren't born 25 years ago snapping up the digital camera of that era? Blame Taylor Swift, trend cycles, childhood nostalgia and smartphone fatigue.",
+      "link": "https://www.npr.org/2026/07/18/nx-s1-5896117/retro-digital-camera-analog-reboot",
+      "time": "Il y a 9 min",
+      "pubDate": 1784368860.0
+    },
+    {
+      "id": "BBC News--7271238385816319580",
+      "source": "BBC News",
+      "title": "Laos says it can't determine cause of  tourist deaths linked to methanol",
+      "excerpt": "Officials say they have no evidence of poisoning over the 2024 deaths because autopsies were not conducted.",
+      "link": "https://www.bbc.co.uk/news/articles/cdx8rj99endo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 39 min",
+      "pubDate": 1784367032.0
+    },
+    {
+      "id": "NPR-6471435990737381666",
+      "source": "NPR",
+      "title": "D'oh! I can't believe I did that! Graceful ways to handle awkward moments",
+      "excerpt": "Yes, there is a way to gracefully address that you've been walking around with spinach in your teeth. Here are tactics to quickly defuse your most embarrassing, cringe-inducing moments.",
+      "link": "https://www.npr.org/2026/07/18/nx-s1-5896217/how-to-respond-in-awkward-moments",
+      "time": "Il y a 1h",
+      "pubDate": 1784365200.0
+    },
+    {
+      "id": "BBC News--455754906757170524",
       "source": "BBC News",
       "title": "US strikes hit Iran for seventh consecutive night",
       "excerpt": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit.",
       "link": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1784360020.0
     },
     {
-      "id": "BBC News--9125869573568625698",
+      "id": "BBC News-8136831603619982416",
       "source": "BBC News",
       "title": "Space start-up launches India’s first commercial rocket designed for orbit",
       "excerpt": "India's first space-tech unicorn Skyroot Aerospace successfully launched Vikram-1 on Saturday.",
       "link": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 1h",
+      "time": "Il y a 3h",
       "pubDate": 1784358319.0
     },
     {
-      "id": "NPR-5168948320346997291",
+      "id": "NPR--3651905333596505447",
       "source": "NPR",
       "title": "U.S. and Iran escalate strikes across Mideast",
       "excerpt": "The United States and Iran exchanged strikes aimed at infrastructure and military targets on Saturday as their battle over the Strait of Hormuz intensified.",
       "link": "https://www.npr.org/2026/07/18/nx-s1-5898916/us-iran-escalate-strikes",
-      "time": "Il y a 2h",
+      "time": "Il y a 4h",
       "pubDate": 1784354480.0
     },
     {
-      "id": "BBC News--2795448266318672261",
+      "id": "BBC News--3338308446020490689",
       "source": "BBC News",
       "title": "Indian activist on hunger strike for 20 days forcibly taken to hospital",
       "excerpt": "Cockroach Janta Party founder Abhijeet Dipke has now begun an indefinite fast in Sonam Wangchuk's place.",
       "link": "https://www.bbc.co.uk/news/articles/cjej3dxxg2do?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
+      "time": "Il y a 4h",
       "pubDate": 1784354328.0
     },
     {
-      "id": "The Guardian--8485396484124763551",
+      "id": "The Guardian-233597727493068041",
       "source": "The Guardian",
       "title": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
       "excerpt": "Hand-painted works are often wildly unfaithful to the movies they portray – reinterpretations that sometimes resulted in threats, insults and even physical attacks from viewers who felt duped Sitting...",
       "link": "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art",
-      "time": "Il y a 4h",
+      "time": "Il y a 6h",
       "pubDate": 1784347247.0
     },
     {
-      "id": "BBC News--2645739243775639899",
+      "id": "BBC News--7314318175246096791",
       "source": "BBC News",
       "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
       "excerpt": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
       "link": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1784338187.0
     },
     {
-      "id": "NPR-7338127939889457705",
+      "id": "NPR--8422628432727507690",
       "source": "NPR",
       "title": "ICE shared Medicaid data it wasn't supposed to have with Palantir",
       "excerpt": "The revelations came out in a federal court case brought by Democratic states challenging ICE's access to Medicaid data to aid in deportation efforts.",
       "link": "https://www.npr.org/2026/07/17/nx-s1-5898504/ice-medicaid-palantir-data",
-      "time": "Il y a 9h",
+      "time": "Il y a 10h",
       "pubDate": 1784331122.0
     },
     {
-      "id": "NPR-498211889704917816",
+      "id": "NPR-2360880224018289830",
       "source": "NPR",
       "title": "Ex-wife says ICE agent who killed man in Maine had racist beliefs, violent tendencies",
       "excerpt": "Ashley Brouillette has identified her ex-husband, David Brouillette, as the officer who fatally shot Joan Sebastián Durán Guerrero in Biddeford, Maine, on Monday. She said she learned he was the offic...",
       "link": "https://www.npr.org/2026/07/17/nx-s1-5897460/maine-ice-shooting-brouillette",
-      "time": "Il y a 10h",
+      "time": "Il y a 11h",
       "pubDate": 1784327762.0
     },
     {
-      "id": "The Guardian--5526257567521473655",
+      "id": "The Guardian--2492236472529465951",
       "source": "The Guardian",
       "title": "Cuban dissident artist Luis Manuel Otero Alcántara cleared to travel to US",
       "excerpt": "Whereabouts of artist imprisoned after 2021 protests had been unknown following end of his prison term in July Luis Manuel Otero Alcántara, a prominent Cuban dissident artist whose whereabouts remaine...",
       "link": "https://www.theguardian.com/world/2026/jul/17/cuban-dissident-artist-luis-manuel-otero-alcantara-cleared-to-travel-to-us",
-      "time": "Il y a 10h",
+      "time": "Il y a 11h",
       "pubDate": 1784327322.0
     },
     {
-      "id": "BBC News-2294965531044346620",
+      "id": "BBC News-8947556048545360801",
       "source": "BBC News",
       "title": "White House defends Argentina team over Falklands banner",
       "excerpt": "The comments could further fuel the row over the incident, which has seen Downing Street back calls for Fifa to investigate.",
       "link": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 10h",
+      "time": "Il y a 11h",
       "pubDate": 1784326374.0
     },
     {
-      "id": "The Guardian--7131678212958317515",
+      "id": "The Guardian-7535984633645955577",
       "source": "The Guardian",
       "title": "More Canadian wildfire smoke shrouds US midwest, mid-Atlantic and north-east",
       "excerpt": "109 million people face another day of poor air quality as smoke from blazes in Ontario drifts over the US <ul><li><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-u...",
       "link": "https://www.theguardian.com/us-news/2026/jul/17/canada-wildfire-smoke-midwest-mid-atlantic-north-east",
-      "time": "Il y a 12h",
+      "time": "Il y a 13h",
       "pubDate": 1784320319.0
     },
     {
-      "id": "NPR-2958860988857645753",
+      "id": "NPR--2271697246126466179",
       "source": "NPR",
       "title": "Spain could make World Cup history: The first to win men's and women's trophies back-to-back",
       "excerpt": "The Spanish Men's National Team will face Argentina in Sunday's World Cup final. The country's women's team lifted its first World Cup trophy in 2023.",
       "link": "https://www.npr.org/2026/07/17/g-s1-134232/spain-world-cup-history-women-men",
-      "time": "Il y a 12h",
+      "time": "Il y a 13h",
       "pubDate": 1784319447.0
     },
     {
-      "id": "The Guardian--6982180368143294949",
+      "id": "The Guardian-1426860084323570193",
       "source": "The Guardian",
       "title": "CDC and FDA link lettuce at Taco Bell in five states to cyclospora outbreak",
       "excerpt": "FDA investigation identified a single supplier of the lettuce, but federal warnings did not name the company Federal health officials have identified lettuce from Mexico served by Taco Bell locations...",
       "link": "https://www.theguardian.com/us-news/2026/jul/17/cyclospora-lettuce-taco-bell",
-      "time": "Il y a 12h",
+      "time": "Il y a 13h",
       "pubDate": 1784319026.0,
       "sources": [
         "The Guardian",
@@ -396,106 +423,79 @@
       "sourceCount": 2
     },
     {
-      "id": "BBC News--7269416248046915548",
+      "id": "BBC News--8101452797707945307",
       "source": "BBC News",
       "title": "One anti-war critic fined, another held as Russia clamps down on dissent",
       "excerpt": "While Boris Nadezhdin is barred from running for parliament, blogger Ilya Remeslo is remanded in custody.",
       "link": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 12h",
+      "time": "Il y a 14h",
       "pubDate": 1784318454.0
     },
     {
-      "id": "NPR-1786403718955553859",
+      "id": "NPR--6860787537367927250",
       "source": "NPR",
       "title": "Move over, Super Bowl? There's an even bigger – and splashier – World Cup halftime show coming",
       "excerpt": "The show, which will begin somewhere around 3:45 PM ET, will air in the U.S. on Fox, Fox One and in Spanish on Telemundo, as well as on the Fox Sports app and streaming in Spanish on Peacock. It's exp...",
       "link": "https://www.npr.org/2026/07/17/nx-s1-5897510/bts-bieber-madonna-shakira-world-cup-halftime-show",
-      "time": "Il y a 13h",
+      "time": "Il y a 14h",
       "pubDate": 1784316292.0
     },
     {
-      "id": "NPR-4447689026821624053",
+      "id": "NPR--2636216341974913271",
       "source": "NPR",
       "title": "China signals possible return of U.S. trade privileges for Hong Kong",
       "excerpt": "The decision comes two months after President Donald Trump met with Xi Jinping, potentially warming ties ahead of Xi's expected U.S. visit.<br />",
       "link": "https://www.npr.org/2026/07/17/g-s1-134269/china-signals-possible-return-of-u-s-trade-privileges-for-hong-kong",
-      "time": "Il y a 13h",
+      "time": "Il y a 14h",
       "pubDate": 1784315776.0
     },
     {
-      "id": "BBC News-9035187954631041249",
+      "id": "BBC News-5684072680256856726",
       "source": "BBC News",
       "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
       "excerpt": "Protests erupted in Ukraine on Thursday after Mykhailo Fedorov's removal - and now soldiers are also criticising the move.",
       "link": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 13h",
+      "time": "Il y a 15h",
       "pubDate": 1784315049.0
     },
     {
-      "id": "NPR-262822302355557151",
+      "id": "NPR--3453992487331998837",
       "source": "NPR",
       "title": "The new $1 Trump coin doesn't just buck norms. Experts say it also breaks laws",
       "excerpt": "President Trump's face will appear on a new commemorative coin honoring the nation's 250th birthday. It's one of the many unusual places his likeness has popped up this year.",
       "link": "https://www.npr.org/2026/07/17/nx-s1-5897380/trump-coin-face-laws-treasury-250",
-      "time": "Il y a 13h",
+      "time": "Il y a 15h",
       "pubDate": 1784314776.0
     },
     {
-      "id": "BBC News--5405983542346410389",
+      "id": "BBC News-8008048464753458597",
       "source": "BBC News",
       "title": "EU proposes slowing down cuts to carbon emissions for businesses",
       "excerpt": "Under the proposals, the EU plans to relax its emissions trading system to give companies more time to reduce their carbon output.",
       "link": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 14h",
+      "time": "Il y a 15h",
       "pubDate": 1784313244.0
     },
     {
-      "id": "BBC News-1628216236740262461",
+      "id": "BBC News-5635081162835048143",
       "source": "BBC News",
       "title": "Magnitude 7.3 earthquake quake strikes off Mexico coast",
       "excerpt": "The US Tsunami Warning Center has recorded waves 0.3m (1.1 feet) high in Puerto Madero and Chiapas in Mexico after the quake.",
       "link": "https://www.bbc.co.uk/news/articles/cwyjv3815yxo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 14h",
+      "time": "Il y a 15h",
       "pubDate": 1784311974.0
     },
     {
-      "id": "NPR--768403353933992044",
-      "source": "NPR",
-      "title": "The U.S.-Iran battle over the Strait of Hormuz raises risks for global waterways",
-      "excerpt": "Recognizing Iran's control over the Strait of Hormuz could set a dangerous precedent, with other countries attempting to claim important waterways, analysts say.",
-      "link": "https://www.npr.org/2026/07/17/nx-s1-5884849/us-iran-strait-hormuz-global-shipping-risk",
-      "time": "Il y a 16h",
-      "pubDate": 1784307010.0
-    },
-    {
-      "id": "BBC News--3684650804356399016",
-      "source": "BBC News",
-      "title": "Air conditioner sparked deadly blaze at children's orphanage - police",
-      "excerpt": "Eleven people, including children, died in the fire that also injured 19 others.",
-      "link": "https://www.bbc.co.uk/news/articles/c9d8ylw60e9o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 16h",
-      "pubDate": 1784305245.0
-    },
-    {
-      "id": "NPR-3530055874665964344",
-      "source": "NPR",
-      "title": "Wildfire smoke is like smoking 'half a pack a day.' Here's how to protect yourself",
-      "excerpt": "As Canadian wildfires spread smoke across the U.S. the air pollution is dangerous to health. But there are ways to protect yourself. Here's what to know<strong>.</strong>",
-      "link": "https://www.npr.org/2026/07/17/g-s1-134227/wildfire-smoke-canada-us",
-      "time": "Il y a 17h",
-      "pubDate": 1784301889.0
-    },
-    {
-      "id": "The Guardian--8449750616087871344",
+      "id": "The Guardian-2320105809184533001",
       "source": "The Guardian",
       "title": "Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group",
       "excerpt": "Aid workers are first known people to quarantine at facility, which sparked huge opposition in Kenya  Seven American aid workers who had been in Congo to fight the Ebola outbreak are quarantining at a...",
       "link": "https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya",
-      "time": "Il y a 20h",
+      "time": "Il y a 21h",
       "pubDate": 1784290634.0
     },
     {
-      "id": "The Guardian--3092827790498366103",
+      "id": "The Guardian-8239441645033244204",
       "source": "The Guardian",
       "title": "Air quality plummets in 20 US states as smoke from Canadian wildfires spreads",
       "excerpt": "Millions of Americans face air quality alerts from Minnesota to New York as authorities urge people to stay indoors <ul><li><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaki...",
@@ -504,7 +504,7 @@
       "pubDate": 1784240468.0
     },
     {
-      "id": "The Guardian--8887391862051635097",
+      "id": "The Guardian--5105590511928076174",
       "source": "The Guardian",
       "title": "UK aid cuts ‘reduce bilateral support to some African countries by 90%’",
       "excerpt": "Critics say Foreign Office figures send ‘global message about the role the country wants to play on international stage’ Labour’s foreign aid cuts mean reductions of as much as 90% in the bilateral su...",
@@ -513,7 +513,7 @@
       "pubDate": 1784215258.0
     },
     {
-      "id": "The Guardian--6249839456037822984",
+      "id": "The Guardian-3441711469522999516",
       "source": "The Guardian",
       "title": "Uganda calls for travel restrictions to be lifted after last Ebola patient discharged",
       "excerpt": "Country begins 42-day countdown to outbreak being declared officially over, as numbers continue to rise in neighbouring Democratic Republic of the Congo Uganda has started lobbying countries to lift E...",
@@ -522,7 +522,7 @@
       "pubDate": 1784201607.0
     },
     {
-      "id": "The Guardian--4103613972501612229",
+      "id": "The Guardian-9012128728339399331",
       "source": "The Guardian",
       "title": "‘Malvinas are Argentinian’: World Cup holders celebrate win over England with Falklands banner",
       "excerpt": "<ul><li>Banner refers to Falkland Islands conflict in 1982 </li><li>UK business secretary calls for Fifa investigation  </li></ul>The Argentina players celebrated <a href=\"https://www.theguardian.com/...",
@@ -531,7 +531,7 @@
       "pubDate": 1784189630.0
     },
     {
-      "id": "The Guardian-3365614680564775489",
+      "id": "The Guardian--5311685749681399240",
       "source": "The Guardian",
       "title": "Moroccan intelligence insider reveals widespread use of Pegasus hacking software",
       "excerpt": "Whistleblower suggests internal security services deployed spyware from 2017 against key domestic and foreign targets A former member of Morocco’s domestic intelligence service has helped to provide a...",
@@ -540,5 +540,5 @@
       "pubDate": 1784176213.0
     }
   ],
-  "lastUpdate": "2026-07-18T08:56:03.264902"
+  "lastUpdate": "2026-07-18T10:10:08.591234"
 }
