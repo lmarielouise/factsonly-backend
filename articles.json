@@ -1,21 +1,39 @@
 {
   "francophone": [
     {
-      "id": "France Info-6089447279825793337",
+      "id": "France Info--4234381387145059392",
       "source": "France Info",
-      "title": "Incendies : Emmanuel Macron demande aux Armées \"de se mobiliser\" contre les feux dans le Sud-Ouest, une cellule interministérielle de crise convoquée",
+      "title": "Incendies : Sébastien Lecornu annonce l'arrivée de 500 militaires supplémentaires en Gironde, où 1,5 million de masques FFP2 vont être acheminés \"dès cette nuit\"",
       "excerpt": "Plus de 19 000 hectares ont déjà été dévorés par les flammes en Gironde et les incendies se dirigent désormais vers la métropole bordelaise, selon la préfète de Nouvelle-Aquitaine, qui a annoncé des é...",
       "link": "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendie-en-gironde-la-prefecture-ordonne-l-evacuation-sans-delai-des-premiers-villages-de-la-presqu-ile-du-capferret_8120039.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 7 min",
-      "pubDate": 1784926881.0
+      "time": "Il y a 17 min",
+      "pubDate": 1784930265.0
     },
     {
-      "id": "Libération--7471402646100353179",
+      "id": "France Info-8129756521446630524",
+      "source": "France Info",
+      "title": "Guerre en Ukraine : Kiev a des renseignements \"clairs\" indiquant que Moscou prépare une mobilisation militaire, affirme Volodymyr Zelensky",
+      "excerpt": "Cette nouvelle vague de mobilisation russe devrait survenir à l'automne, selon le président ukrainien, qui prévient que son homologue russe Vladimir Poutine \"a toujours l'intention d'étendre cette gue...",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-kiev-a-des-renseignements-clairs-indiquant-que-moscou-prepare-une-mobilisation-militaire-affirme-volodymyr-zelensky_8121251.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 31 min",
+      "pubDate": 1784929454.0
+    },
+    {
+      "id": "France Info--2265489558985254761",
+      "source": "France Info",
+      "title": "Guerre au Moyen-Orient : des sites militaires houthis visés au Yémen par la coalition menée par l'Arabie Saoudite",
+      "excerpt": "Les rebelles houthis avaient annoncé lundi vouloir entraver le trafic en mer Rouge et dans le golfe d'Aden des navires d'Arabie saoudite, premier exportateur mondial de brut. Ils l'avaient déjà fait p...",
+      "link": "https://www.franceinfo.fr/monde/proche-orient/guerre/direct-guerre-au-moyen-orient-nouvelles-frappes-de-l-armee-americaine-en-iran-pour-la-treizieme-nuit-consecutive_8120123.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 46 min",
+      "pubDate": 1784928518.0
+    },
+    {
+      "id": "Libération--691268964018712927",
       "source": "Libération",
       "title": "EN DIRECT - Incendies : 19 000 hectares parcourus en Gironde, la préfecture annonce des évacuations près de Bordeaux",
       "excerpt": "Alors que deux importants incendies sévissent, les évacuations se multiplient. La presqu’île du Cap Ferret est vidée de ses occupants. La France a fait appel au mécanisme de protection civile de l’Uni...",
       "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-19-000-hectares-parcourus-en-gironde-la-prefecture-annonce-des-evacuations-pres-de-bordeaux-20260724_OV2AGG6HQNGX5JSV5S6B6ORQK4/",
-      "time": "Il y a 11 min",
+      "time": "Il y a 1h",
       "pubDate": 1784926666.0,
       "sources": [
         "Libération",
@@ -25,477 +43,459 @@
       "sourceCount": 2
     },
     {
-      "id": "France Info--6866139049538423967",
-      "source": "France Info",
-      "title": "Le procureur de la CPI Karim Khan, visé par des allégations d'agression sexuelle, relevé de ses fonctions",
-      "excerpt": "L'Assemblée des 125 Etats membres de la Cour pénale internationale (CPI) a décidé vendredi de relever de ses fonctions le magistrat britannique, accusé par une de ses anciennes collaboratrice. Il va \"...",
-      "link": "https://www.franceinfo.fr/societe/justice/le-procureur-de-la-cpi-karim-khan-vise-par-des-allegations-d-agression-sexuelle-releve-de-ses-fonctions_8121227.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 28 min",
-      "pubDate": 1784925648.0
-    },
-    {
-      "id": "France Info-8964554200363902907",
-      "source": "France Info",
-      "title": "En Irlande, une bombe trouvée par la police dans un véhicule, la conductrice inculpée",
-      "excerpt": "Les agents ont découvert un engin explosif dans un véhicule près de la frontière avec l'Irlande du Nord. La conductrice, âgée de 25 ans, a été placée sous contrôle judiciaire. Un homme d'une quarantai...",
-      "link": "https://www.franceinfo.fr/monde/en-irlande-une-bombe-trouvee-par-la-police-dans-un-vehicule-la-conductrice-inculpee_8121254.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 45 min",
-      "pubDate": 1784924624.0
-    },
-    {
-      "id": "Libération--5360917274166386504",
+      "id": "Libération--1649862101613371447",
       "source": "Libération",
       "title": "Maxim Cain : avec le dessin «retrouver l’utilisation des sens»",
       "excerpt": "Ils sont écrivains, musiciens, photographes… Et racontent leurs rapports à la montagne.",
       "link": "https://www.liberation.fr/forums/maxim-cain-avec-le-dessin-retrouver-lutilisation-des-sens-20260724_P76FT2NXQNCTJOYVRSWCF4YE6Y/",
-      "time": "Il y a 56 min",
+      "time": "Il y a 2h",
       "pubDate": 1784923980.0
     },
     {
-      "id": "France Info--8280093320426360350",
+      "id": "France Info-6525843661711363370",
       "source": "France Info",
       "title": "\"Ça fait très mal au cœur, c'est notre terrain\" : la détresse des habitants, contraints d'évacuer face aux incendies qui ravagent le Sud-Ouest",
       "excerpt": "Au total, 75 000 personnes ont été évacuées dans les Landes et en Gironde en raison des incendies. Certaines ont quitté leur maison la peur au ventre, dans une atmosphère d'apocalypse.",
       "link": "https://www.franceinfo.fr/faits-divers/incendie/ca-fait-tres-mal-au-c-ur-c-est-notre-terrain-la-detresse-des-habitants-contraints-d-evacuer-face-aux-incendies-qui-ravagent-le-sud-ouest_8121194.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1784922588.0
     },
     {
-      "id": "Libération-7884818003284030625",
+      "id": "Libération-76065710830300988",
       "source": "Libération",
       "title": "Des incendies «hors norme», vraiment ?",
       "excerpt": "Ces deux mots disent bien ce qu’ils veulent dire, les feux auxquels nous assistons sont exceptionnels. Mais ces phénomènes qui débordent des mois d’été, les surfaces cramées plus grandes et les territ...",
       "link": "https://www.liberation.fr/idees-et-debats/editorial/des-incendies-hors-norme-vraiment-20260724_VW5WVSW2RBFUNLQMI3ALZMQOJI/",
-      "time": "Il y a 1h",
+      "time": "Il y a 3h",
       "pubDate": 1784920227.0
     },
     {
-      "id": "Libération-3395152513317624725",
+      "id": "Libération--2719541888994388749",
       "source": "Libération",
       "title": "«C’était effrayant» : en Gironde et dans les Landes, deux «ogres» de feu dévorent tout sur leur passage",
       "excerpt": "Déclenchés mercredi et jeudi, les incendies ravagent toujours, vendredi soir, cette partie du Sud-Ouest et ont déjà forcé l’évacuation de 110  000 personnes, en pleine saison touristique.",
       "link": "https://www.liberation.fr/environnement/cetait-effrayant-en-gironde-et-dans-les-landes-deux-ogres-de-feu-devorent-tout-sur-leur-passage-20260724_427JRR2BGZAXJI3DXEDMVOSWWI/",
-      "time": "Il y a 1h",
+      "time": "Il y a 3h",
       "pubDate": 1784920222.0
     },
     {
-      "id": "Libération-7614956869092072262",
+      "id": "Libération-1790407703239999894",
       "source": "Libération",
       "title": "Accusé d’agression sexuelle, le procureur général de la CPI Karim Khan est relevé de ses fonctions",
       "excerpt": "Au bout d’un vote qui s’annonçait incertain, les Etats membres de la Cour pénale internationale ont assez largement approuvé la destitution de l’ex-avocat britannique de 56 ans, vendredi 24 juillet.",
       "link": "https://www.liberation.fr/international/moyen-orient/accuse-dagression-sexuelle-le-procureur-general-de-la-cpi-karim-khan-est-releve-de-ses-fonctions-20260724_W4F6JRWA2JBP3LTT7HAYS24TAY/",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1784919918.0
     },
     {
-      "id": "France Info--1249296693169080598",
+      "id": "France Info-1248747700293367421",
       "source": "France Info",
       "title": "\"Il n'y a pas de nuit, on ne dort pas\" : aux côtés des pompiers qui combattent le feu en Gironde",
       "excerpt": "Le plus grand incendie de l’année est toujours hors de contrôle, dans la soirée de vendredi. Après avoir parcouru 12 500 hectares au nord du bassin d’Arcachon, le feu a détruit une cinquantaine de mai...",
       "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/il-n-y-a-pas-de-nuit-on-ne-dort-pas-aux-cotes-des-soldats-du-feu-en-gironde_8121161.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1784918948.0
     },
     {
-      "id": "Libération--5914521426288601580",
+      "id": "Libération-1002379610880984075",
       "source": "Libération",
       "title": "Incendies : les «sautes» de feu, ces cauchemars incandescents pour les pompiers",
       "excerpt": "Les brasiers qui ravagent le sud de la France ces dernières semaines s’étendent souvent par le biais de ce phénomène, qui provoque l’apparition de nouveaux foyers et complique la lecture du feu par le...",
       "link": "https://www.liberation.fr/environnement/climat/incendies-les-sautes-de-feu-ces-cauchemars-incandescents-pour-les-pompiers-20260723_PJF73PZF2VB2VCA2NDQ6FE5CPQ/",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1784917653.0
     },
     {
-      "id": "Libération-6726630886136223433",
+      "id": "Libération-3185458185330197598",
       "source": "Libération",
       "title": "«C’est le Saint-Tropez de la côte Atlantique» : la pointe du Cap Ferret, petit paradis des ultrariches menacé par les flammes",
       "excerpt": "Aimant à résidences secondaires de gens fortunés et de célébrités, la pointe des «44 hectares», discret paradis sur le bassin d’Arcachon, a dû être évacuée en raison de la progression du feu dans la n...",
       "link": "https://www.liberation.fr/economie/cest-le-saint-tropez-de-la-cote-atlantique-la-pointe-du-cap-ferret-petit-paradis-des-ultrariches-menace-par-les-flammes-20260724_BLI6Q5KFOJA65CIZHVUNVNAXGY/",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1784917318.0
     },
     {
-      "id": "Libération--2637287709631357074",
+      "id": "Libération-6915343710714570575",
       "source": "Libération",
       "title": "Festival d’Avignon, jour 21 : un bilan pour ne rien oublier",
       "excerpt": "Et enfin, ce vendredi : Trajal Harrell qui joue sa «Music Music» intérieure, un «Pas du monde» de toute portée et Dominique de Villepin qui ferme le rideau.",
       "link": "https://www.liberation.fr/culture/scenes/festival-davignon-jour-21-un-bilan-pour-ne-rien-oublier-20260724_Z5DKATHNPRDSFI7GHMKQD34BPQ/",
-      "time": "Il y a 2h",
+      "time": "Il y a 4h",
       "pubDate": 1784916676.0
     },
     {
-      "id": "Libération--2604265843423733869",
+      "id": "Libération--3228810778906345552",
       "source": "Libération",
       "title": "Le jeu vidéo «Looking for Fael» nous attrape par le coloc",
       "excerpt": "Porté par les studios français Swing Swing Submarine et la Poule noire, le puzzle game captivant nous enferme dans un appartement angoissant à la recherche d’un colocataire disparu.",
       "link": "https://www.liberation.fr/culture/le-jeu-video-looking-for-fael-nous-attrape-par-le-coloc-20260724_4VGK2FSZWBDCTAZB6BIBXG2AHA/",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1784915400.0
     },
     {
-      "id": "France Info--6785685237135944415",
+      "id": "France Info--4610832161460453239",
       "source": "France Info",
       "title": "Tadej Pogacar écrase la concurrence et s'impose facilement au sommet de l'Alpe d'Huez à l'issue de la 19e étape du Tour de France",
       "excerpt": "Le leader du classement général a survolé l'ascension du géant isérois, vendredi, reprenant des échappés pourtant aguerris en montagne et bénéficiant d'une confortable avance.",
       "link": "https://www.franceinfo.fr/tour-de-france/impressionnant-tadej-pogacar-ec-ure-les-echappes-et-s-impose-brillamment-au-sommet-de-l-alpe-d-huez-a-l-issue-de-la-19e-etape-du-tour-de-france_8120942.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 4h",
+      "time": "Il y a 6h",
       "pubDate": 1784909495.0
     },
     {
-      "id": "France Info--2635009278732720237",
+      "id": "France Info-7401915502418401186",
       "source": "France Info",
       "title": "Départs en vacances : Bison Futé classe une large partie du pays en rouge vendredi, et toute la France samedi",
       "excerpt": "Vendredi, les quarts nord-est et sud-ouest de la France sont classés en rouge, la marque de conditions de circulation \"très difficiles\".",
       "link": "https://www.franceinfo.fr/decouverte/vacances/departs-en-vacances-bison-fute-voit-rouge-vendredi-sur-une-large-partie-du-nord-est-et-du-sud-ouest-du-pays-dans-le-sens-des-departs_8120576.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1784907874.0
     },
     {
-      "id": "France Info--7222617997441876801",
+      "id": "France Info--5642559575651891949",
       "source": "France Info",
       "title": "Suivez au fil des heures l'avancée des incendies qui ravagent la Gironde et les Landes",
       "excerpt": "Cette carte est alimentée plusieurs fois par jour par les données satellites de la Nasa et de son  service de surveillance des incendies Firms.",
       "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/carte-suivez-au-fil-des-heures-l-avancee-des-incendies-qui-ravagent-la-gironde-et-les-landes_8120696.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1784907387.0
     },
     {
-      "id": "France Info-6832861671204993594",
+      "id": "France Info-8275433794320590979",
       "source": "France Info",
       "title": "Quatre Palestiniens et deux Israéliens tués dans des affrontements en Cisjordanie occupée, l'armée israélienne annonce une \"vaste opération antiterroriste\"",
       "excerpt": "Le Premier ministre israélien, Benyamin Nétanyahou, jurant d'agir \"avec fermeté\" après ce qu'il a qualifié \"d'attentat meurtrier\", a annoncé \"l'accélération de la légalisation d'avant-postes\" de colon...",
       "link": "https://www.franceinfo.fr/monde/palestine/un-israelien-et-quatre-palestiniens-tues-dans-des-affrontements-en-cisjordanie-l-armee-israelienne-annonce-se-preparer-a-mener-une-vaste-operation-antiterroriste_8120618.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1784904152.0
     },
     {
-      "id": "France Info-732900690315002994",
+      "id": "France Info--3173790871719730613",
       "source": "France Info",
       "title": "Un feu \"imprévisible\" et \"vorace\" : le récit en images des incendies en Gironde et dans les Landes",
       "excerpt": "Un incendie s'est déclenché mercredi en Gironde, près de la très touristique presqu'île du cap Ferret. Un autre est survenu jeudi dans le département voisin des Landes. Des milliers d'hectares ont été...",
       "link": "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/un-feu-imprevisible-et-vorace-on-fait-le-recit-en-images-des-incendies-en-gironde-et-dans-les-landes_8120582.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1784901847.0
     },
     {
-      "id": "Le Monde--6582624101007667052",
+      "id": "Le Monde-3005152406365454097",
       "source": "Le Monde",
       "title": "Concert interrompu de Barbara Butch : pour « l’insoumis » Bally Bagayoko, la DJ « a raison » de porter plainte",
       "excerpt": "Samedi soir, à Grenoble, le concert de l’artiste, de confession juive, avait été interrompu au bout d’une vingtaine de minutes en raison d’une action de militants propalestiniens et de LFI. Ils répond...",
       "link": "https://www.lemonde.fr/politique/article/2026/07/24/concert-interrompu-de-barbara-butch-pour-l-insoumis-bally-bagayoko-la-dj-a-raison-de-porter-plainte_6731470_823448.html",
-      "time": "Il y a 13h",
+      "time": "Il y a 14h",
       "pubDate": 1784879227.0
     },
     {
-      "id": "Le Monde--566001976670709330",
+      "id": "Le Monde--5806792419919460761",
       "source": "Le Monde",
       "title": "En Inde, le gouvernement peine à désamorcer un mouvement de contestation qui cible désormais Narendra Modi",
       "excerpt": "Après avoir tenté d’ignorer la mobilisation étudiante des « cafards » dénonçant  la corruption du système éducatif, le premier ministre, Narendra Modi, se voit de plus en plus mis en cause, alors que...",
       "link": "https://www.lemonde.fr/international/article/2026/07/24/en-inde-le-gouvernement-peine-a-desamorcer-un-mouvement-de-contestation-qui-cible-desormais-narendra-modi_6731469_3210.html",
-      "time": "Il y a 13h",
+      "time": "Il y a 14h",
       "pubDate": 1784878266.0
     },
     {
-      "id": "Le Monde-3765488056852644751",
+      "id": "Le Monde--6642814971950166158",
       "source": "Le Monde",
       "title": "Présidentielle 2027 : en Bretagne, Gabriel Attal mène campagne pour faire décoller sa candidature",
       "excerpt": "Arpentant trois jours la région, le candidat à l’Elysée s’est affiché, jeudi, aux côtés du patron Michel-Edouard Leclerc et a martelé sa volonté de réduire « l’écart entre le [salaire] net et le brut...",
       "link": "https://www.lemonde.fr/politique/article/2026/07/24/presidentielle-2027-en-bretagne-gabriel-attal-mene-campagne-pour-faire-decoller-sa-candidature_6731467_823448.html",
-      "time": "Il y a 13h",
+      "time": "Il y a 14h",
       "pubDate": 1784878211.0
     },
     {
-      "id": "Le Monde--4943430710923404674",
+      "id": "Le Monde-468200463955295342",
       "source": "Le Monde",
       "title": "Posez vos questions sur l’interdiction des réseaux sociaux aux moins de 15 ans",
       "excerpt": "Députés et sénateurs ont adopté, mardi 21 juillet, l’interdiction des réseaux sociaux aux moins de 15 ans. Florian Reynaud et Morgane Tual, journalistes au service Pixels du « Monde », répondent à vos...",
       "link": "https://www.lemonde.fr/pixels/live/2026/07/24/posez-vos-questions-sur-l-interdiction-des-reseaux-sociaux-aux-moins-de-15-ans_6731466_4408996.html",
-      "time": "Il y a 14h",
+      "time": "Il y a 15h",
       "pubDate": 1784876415.0
     },
     {
-      "id": "Le Monde--1387093343785133593",
+      "id": "Le Monde--7355485582196619906",
       "source": "Le Monde",
       "title": "Les Etats membres de la CPI s’apprêtent à décider du sort de son procureur, suspendu pour un « usage abusif de pouvoir ou d’autorité » sur son assistante",
       "excerpt": "Dans un contexte d’attaques américaines contre la Cour pénale internationale, les Etats membres de la juridiction votent, vendredi 24 juillet, pour ou contre la révocation de Karim Khan.",
       "link": "https://www.lemonde.fr/international/article/2026/07/24/les-etats-membres-de-la-cpi-s-appretent-a-decider-du-sort-de-son-procureur-suspendu-pour-un-usage-abusif-de-pouvoir-ou-d-autorite-sur-son-assistante_6731464_3210.html",
-      "time": "Il y a 14h",
+      "time": "Il y a 15h",
       "pubDate": 1784874609.0
     },
     {
-      "id": "Le Monde--48358346885156566",
+      "id": "Le Monde--9092078033962332102",
       "source": "Le Monde",
       "title": "EN DIRECT, incendies : la préfecture ordonne l’évacuation « de l’ensemble de la presqu’île » du cap Ferret, le feu a parcouru plus de 10 000 hectares",
       "excerpt": "La préfecture a ordonné ce matin « l’évacuation progressive de l’ensemble de la presqu’île du Bassin d’Arcachon, village après village, de Claouey jusqu’à la pointe du cap Ferret ». Aucun nouveau bles...",
       "link": "https://www.lemonde.fr/planete/live/2026/07/24/en-direct-incendies-plus-de-23-000-personnes-evacuees-dans-les-landes-en-gironde-la-prefecture-ordonne-l-evacuation-de-plusieurs-villages-de-la-presqu-ile-du-cap-ferret_6730417_3244.html",
-      "time": "Il y a 16h",
+      "time": "Il y a 17h",
       "pubDate": 1784868311.0
     },
     {
-      "id": "Le Monde--4521766235179922708",
+      "id": "Le Monde-3410585031363507506",
       "source": "Le Monde",
       "title": "EN DIRECT, guerre en Ukraine : une attaque de drones ukrainiens à Saint-Pétersbourg provoque un incendie dans un entrepôt",
       "excerpt": "« La frappe a visé des installations d’infrastructures civiles », a déclaré le gouverneur de la ville, Alexandre Beglov. Selon des images diffusées sur les réseaux sociaux et des médias locaux, des en...",
       "link": "https://www.lemonde.fr/international/live/2026/07/24/en-direct-guerre-en-ukraine-une-attaque-de-drones-ukrainiens-a-saint-petersbourg-provoque-un-incendie-dans-un-entrepot_6725306_3210.html",
-      "time": "Il y a 17h",
+      "time": "Il y a 18h",
       "pubDate": 1784865353.0
     },
     {
-      "id": "Le Monde-3632702488354277380",
+      "id": "Le Monde--5447214957753687318",
       "source": "Le Monde",
       "title": "L’été au bureau vu par Colcanopa : business plantes",
       "excerpt": "« L’été au bureau » (2/7). Le dessinateur Colcanopa a imaginé pour La Matinale du « Monde » les pérégrinations récréatives, et tout aussi loufoques, de salariés pendant les congés de leurs collègues....",
       "link": "https://www.lemonde.fr/series-d-ete/article/2026/07/24/l-ete-au-bureau-vu-par-colcanopa-business-plantes_6731417_3451060.html",
-      "time": "Il y a 17h",
+      "time": "Il y a 18h",
       "pubDate": 1784863830.0
     },
     {
-      "id": "Le Monde-3370263430987590265",
+      "id": "Le Monde-4732544377594225620",
       "source": "Le Monde",
       "title": "Quatre bassines d’irrigation doivent être démantelées en Charente-Maritime, ordonne la justice",
       "excerpt": "Selon l’association à l’origine du contentieux, de nombreux manquements ont entaché l’édification de ces réserves d’eau. Les agriculteurs ont décidé de faire appel de cette décision qui leur donne tro...",
       "link": "https://www.lemonde.fr/planete/article/2026/07/24/quatre-bassines-d-irrigation-doivent-etre-demantelees-en-charente-maritime-ordonne-la-justice_6731275_3244.html",
-      "time": "Il y a 21h",
+      "time": "Il y a 22h",
       "pubDate": 1784851392.0
     },
     {
-      "id": "Le Monde--8877250419375295362",
+      "id": "Le Monde-959031693828809971",
       "source": "Le Monde",
       "title": "Donald Trump ne s’opposera pas à l’extradition des frères Tate vers le Royaume-Uni, selon la Maison Blanche",
       "excerpt": "« Il n’y a aucun rôle à jouer pour nous à ce stade, et peut-être même jamais, dans cette affaire », a déclaré mercredi le secrétaire d’Etat américain, Marco Rubio.",
       "link": "https://www.lemonde.fr/international/article/2026/07/24/donald-trump-ne-s-opposera-pas-a-l-extradition-des-freres-tate-vers-le-royaume-uni-selon-la-maison-blanche_6731242_3210.html",
-      "time": "Il y a 21h",
+      "time": "Il y a 22h",
       "pubDate": 1784850526.0
     }
   ],
   "anglophone": [
     {
-      "id": "BBC News--6556715348694022542",
+      "id": "NPR--9159293913051496535",
+      "source": "NPR",
+      "title": "Democrats approve new primary election calendar, putting South Carolina first",
+      "excerpt": "Democrats chose South Carolina for the first 2028 presidential primary, then Nevada, prioritizing Black and Latino voters. New Hampshire, New Mexico, Michigan and Virginia also hold early contests.",
+      "link": "https://www.npr.org/2026/07/24/nx-s1-5906834/dnc-primary-election-calendar-south-carolina-2028",
+      "time": "Il y a 24 min",
+      "pubDate": 1784929841.0
+    },
+    {
+      "id": "BBC News-177945667471904512",
+      "source": "BBC News",
+      "title": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
+      "excerpt": "Authorities face the \"worst fire in the history of the region\", Madrid officials say, as French firefighters battle a blaze heading towards Bordeaux.",
+      "link": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 28 min",
+      "pubDate": 1784929636.0
+    },
+    {
+      "id": "NPR--3421377189846913120",
+      "source": "NPR",
+      "title": "ICC member states vote to remove chief prosecutor Karim Khan",
+      "excerpt": "The International Criminal Court voted to remove the global tribunal's chief prosecutor on Friday, nearly two years after sexual misconduct allegations against him first emerged, the court's oversight...",
+      "link": "https://www.npr.org/2026/07/24/g-s1-135498/icc-court-prosecutor-karim-khan-vote",
+      "time": "Il y a 37 min",
+      "pubDate": 1784929057.0
+    },
+    {
+      "id": "BBC News--4290517537132821383",
       "source": "BBC News",
       "title": "ICC top prosecutor removed over sexual misconduct allegations",
       "excerpt": "Karim Khan denies allegations of engaging in an improper sexual relationship with a junior ICC staff member and seeking to stop her pursuing her complaint.",
       "link": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 6 min",
+      "time": "Il y a 1h",
       "pubDate": 1784926950.0
     },
     {
-      "id": "BBC News--2343962087831154854",
+      "id": "BBC News--2769160527172614244",
       "source": "BBC News",
       "title": "Trump vows to investigate EU over fining of US tech companies",
       "excerpt": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
       "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 45 min",
+      "time": "Il y a 1h",
       "pubDate": 1784924638.0
     },
     {
-      "id": "NPR-3314292168413992052",
+      "id": "NPR-3666124521940572279",
       "source": "NPR",
       "title": "How The Illharmonic's mix of hip-hop and classical builds community, one show at a time",
       "excerpt": "The Illharmonic Orchestra's performances blend hip-hop lyricism with classical instrumentation, and feature all-Black musical ensembles. The group's leaders speak with NPR's Juana Summers about how th...",
       "link": "https://www.npr.org/2026/07/24/nx-s1-5863498/the-illharmonic-orchestra-hip-hop-classical-music",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1784923200.0
     },
     {
-      "id": "BBC News--36733150670338121",
+      "id": "BBC News--1119268132601641236",
       "source": "BBC News",
       "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
       "excerpt": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
       "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1784919077.0
     },
     {
-      "id": "BBC News-5023289768463342737",
+      "id": "BBC News-1953109336941697180",
       "source": "BBC News",
       "title": "Four Palestinians and two Israelis killed in West Bank shooting",
       "excerpt": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
       "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1784917163.0
     },
     {
-      "id": "BBC News--5630923087075214323",
+      "id": "BBC News-5174144384889678331",
       "source": "BBC News",
       "title": "US and Iran trade more strikes in Gulf as fears of escalation mount",
       "excerpt": "It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages.",
       "link": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
+      "time": "Il y a 4h",
       "pubDate": 1784916782.0
     },
     {
-      "id": "The Guardian--6699061397202392292",
+      "id": "The Guardian--7263605209749872693",
       "source": "The Guardian",
       "title": "Thousands of lightning strikes trigger fresh wildfires in western Canada",
       "excerpt": "At least 90 active blazes in British Columbia in what PM says is one of the country’s most intense seasons on record <ul><li><a href=\"https://www.theguardian.com/environment/2025/aug/13/how-dangerous-...",
       "link": "https://www.theguardian.com/world/2026/jul/24/thousands-of-lightning-strikes-trigger-fresh-wildfires-in-western-canada",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1784915880.0
     },
     {
-      "id": "BBC News-6382220718873370419",
+      "id": "BBC News-6247089002573252927",
       "source": "BBC News",
       "title": "World chess chief faces endgame after EU announces Russia war sanctions",
       "excerpt": "Arkady Dvorkovich, a former Russian deputy prime minister, now faces an EU travel ban and asset freeze.",
       "link": "https://www.bbc.co.uk/news/articles/cewrk58k2k4o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1784909331.0
     },
     {
-      "id": "The Guardian-2529399035520815872",
+      "id": "The Guardian--1095115899767135685",
       "source": "The Guardian",
       "title": "Guyanese authorities confirm death of 72 people in sinking of coastal ferry",
       "excerpt": "Of the estimated 179 people aboard, 76 were rescued as efforts continue to salvage the ship and recover all bodies The confirmed death toll from the recent capsizing of a state ferry off <a href=\"http...",
       "link": "https://www.theguardian.com/world/2026/jul/24/guyana-coastal-ferry-sinking-deaths-rescue",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1784906917.0
     },
     {
-      "id": "BBC News-2681477749876376992",
+      "id": "BBC News--3218773516620851200",
       "source": "BBC News",
       "title": "Nigeria's president approves largest military expansion in recent times",
       "excerpt": "The government is under intense pressure to tackle a slew of armed groups, many of whom attack civilians.",
       "link": "https://www.bbc.co.uk/news/articles/cwymjx3nrxvo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1784906576.0
     },
     {
-      "id": "The Guardian-4744515787875777851",
+      "id": "The Guardian--8417061377295001209",
       "source": "The Guardian",
       "title": "Canadian government urged to block Thomson Reuters data deal with US ICE",
       "excerpt": "US agency is to pay Canadian media company US$125m for use of investigative database to detect ‘immigration fraud’ A Canadian federal opposition party leader has called on Mark Carney’s government to...",
       "link": "https://www.theguardian.com/world/2026/jul/24/canada-government-mark-carney-block-data-sharing-deal-thomson-reuters-us-ice-avi-lewis",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1784901214.0
     },
     {
-      "id": "NPR--4726172784297343723",
+      "id": "NPR-1626867758028946896",
       "source": "NPR",
       "title": "A former nun explains why she ran away from her 'Cloistered' life",
       "excerpt": "Catherine Coldstream entered a Carmelite monastery at age 24, and lived a life of prayer and obedience for 12 years. Her memoir is C<em>loistered: My Years as a Nun.</em> <em>Originally published Marc...",
       "link": "https://www.npr.org/2026/07/24/nx-s1-5904598/a-former-nun-explains-why-she-ran-away-from-her-cloistered-life",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1784900884.0
     },
     {
-      "id": "BBC News--643132544660149033",
+      "id": "BBC News-164199490956939202",
       "source": "BBC News",
       "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
       "excerpt": "At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear.",
       "link": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1784899986.0
     },
     {
-      "id": "BBC News--7062876126518033754",
+      "id": "BBC News-9104894749297536650",
       "source": "BBC News",
       "title": "US hits dozens of countries with new wave of tariffs",
       "excerpt": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
       "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 8h",
+      "time": "Il y a 9h",
       "pubDate": 1784896844.0
     },
     {
-      "id": "BBC News-7015501867990900749",
-      "source": "BBC News",
-      "title": "South Africa's president wins bid to temporarily halt impeachment inquiry over 'Farmgate'",
-      "excerpt": "Ramaphosa has faced scrutiny following the theft of large sums of cash from his private farm in 2020.",
-      "link": "https://www.bbc.co.uk/news/articles/cwymj9lkx13o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 9h",
-      "pubDate": 1784894029.0
-    },
-    {
-      "id": "The Guardian-4190659696409253399",
+      "id": "The Guardian-4139219993485990308",
       "source": "The Guardian",
       "title": "Masked men invading and taking Amazon communities ‘hostage’ in organised crime surge, say local leaders",
       "excerpt": "Delegation sent to Brasília after gunmen from organised crime group enter homes in western Amazon Indigenous leaders on the Brazilian-Peruvian border have said their communities are being “taken hosta...",
       "link": "https://www.theguardian.com/environment/2026/jul/24/gangs-taking-villages-on-brazil-peru-border-hostage-say-indigenous-leaders",
-      "time": "Il y a 9h",
+      "time": "Il y a 10h",
       "pubDate": 1784893759.0
     },
     {
-      "id": "NPR--4499463223697397898",
+      "id": "NPR--332195541905236973",
       "source": "NPR",
       "title": "Oil surges to $100 per barrel. And, Trump imposes a new round of tariffs",
       "excerpt": "Oil surged to $100 per barrel after Iran-backed Houthi rebels attacked two Saudi tankers in the Red Sea. And, President Trump overnight replaced expiring tariffs with a slew of new ones.",
       "link": "https://www.npr.org/2026/07/24/g-s1-135418/up-first-newsletter-iran-war-oil-prices-tariffs-wisconsin-corey-ruiz",
-      "time": "Il y a 9h",
+      "time": "Il y a 10h",
       "pubDate": 1784893078.0
     },
     {
-      "id": "NPR--3863563001747449179",
+      "id": "NPR--4896679083623956099",
       "source": "NPR",
       "title": "Trump threatens a major escalation in Iran after 13 straight nights of strikes",
       "excerpt": "The U.S. continued airstrikes in Iran while Tehran launched retaliatory attacks on U.S. targets in the Gulf, as President Trump said he was close to deciding whether to launch \"a massive attack.\"",
       "link": "https://www.npr.org/2026/07/24/g-s1-135417/us-iran-war-updates",
-      "time": "Il y a 9h",
+      "time": "Il y a 10h",
       "pubDate": 1784892608.0
     },
     {
-      "id": "NPR--6395995110902189721",
+      "id": "NPR--4169161482678616171",
       "source": "NPR",
       "title": "U.S. allies hit with new tariffs object to Trump's forced labor allegations",
       "excerpt": "Australia and the European Union were among U.S. trade partners who criticized the tariffs.",
       "link": "https://www.npr.org/2026/07/24/nx-s1-5906301/us-global-trump-tariffs-reaction",
-      "time": "Il y a 10h",
+      "time": "Il y a 11h",
       "pubDate": 1784889068.0
     },
     {
-      "id": "NPR-1686377810608479925",
+      "id": "NPR-693232498826545273",
       "source": "NPR",
       "title": "What animal is the deformed-but-adorable Jimothy? The quiz knows — do you?",
       "excerpt": "Also: Ryan Gosling's regrets, Zohran Mamdani's exhortations and the Smithsonian's alleged wokeness.",
       "link": "https://www.npr.org/2026/07/24/g-s1-134821/jimothy-ai-uk-mamdani-strait-iran-news-quiz",
-      "time": "Il y a 12h",
+      "time": "Il y a 13h",
       "pubDate": 1784883660.0
     },
     {
-      "id": "NPR-3264698979803729591",
-      "source": "NPR",
-      "title": "A defiant Trump imposes replacement tariffs on biggest U.S. trading partners",
-      "excerpt": "The administration timed a new set of tariffs on all of its largest trading partners to take effect at the same time the old, global tariff ended.",
-      "link": "https://www.npr.org/2026/07/24/nx-s1-5905783/trump-tariff-trade-global-canada",
-      "time": "Il y a 12h",
-      "pubDate": 1784883600.0
-    },
-    {
-      "id": "NPR--6668028132507345540",
-      "source": "NPR",
-      "title": "Netflix viewers the world over are binge-watching South African series 'The Polygamist.' Here's why",
-      "excerpt": "Why is a Zulu-language drama taking the world by storm? The Polygamist mixes sex and scandal with a sharp portrait of modern South Africa.",
-      "link": "https://www.npr.org/2026/07/24/nx-s1-5901949/netflix-south-african-series-the-polygamist",
-      "time": "Il y a 12h",
-      "pubDate": 1784883600.0
-    },
-    {
-      "id": "NPR--4458104449516555631",
+      "id": "NPR-8724860237235174068",
       "source": "NPR",
       "title": "Video: Scientists watch orcas ram a sunfish so hard it explodes",
       "excerpt": "Marine biologists off of Baja California recorded one orca teeing up another to smash a sunfish into pieces. Scientists say there could be a reason for this behavior — or it could be just for entertai...",
       "link": "https://www.npr.org/2026/07/24/nx-s1-5905327/orcas-ram-sunfish-hard-explodes",
-      "time": "Il y a 12h",
+      "time": "Il y a 13h",
       "pubDate": 1784883600.0
     },
     {
-      "id": "NPR-9055370695168080596",
+      "id": "NPR-4508634130955787059",
       "source": "NPR",
-      "title": "West Virginia paid digital nomads to move there during COVID. Many are staying",
-      "excerpt": "Ascend West Virginia is one of dozens of relocation initiatives across the country offering cash and other incentives to move to states needing an economic boost. Here's how they're working out.",
-      "link": "https://www.npr.org/2026/07/24/nx-s1-5869402/remote-work-west-virginia-cash-incentive",
-      "time": "Il y a 12h",
+      "title": "A defiant Trump imposes replacement tariffs on biggest U.S. trading partners",
+      "excerpt": "The administration timed a new set of tariffs on all of its largest trading partners to take effect at the same time the old, global tariff ended.",
+      "link": "https://www.npr.org/2026/07/24/nx-s1-5905783/trump-tariff-trade-global-canada",
+      "time": "Il y a 13h",
       "pubDate": 1784883600.0
     },
     {
-      "id": "The Guardian-8775355574990170218",
+      "id": "The Guardian--2125900679429232548",
       "source": "The Guardian",
       "title": "Weather tracker: More than 900 wildfires rage across Canada",
       "excerpt": "Fires remain out of control in Northwest Territories and Ontario, while Argentina endures record night-time heat Recent hot, dry weather in Canada has triggered hundreds of wildfires across the countr...",
       "link": "https://www.theguardian.com/environment/2026/jul/24/weather-tracker-wildfires-canada-argentina-heat",
-      "time": "Il y a 12h",
+      "time": "Il y a 14h",
       "pubDate": 1784880691.0
     },
     {
-      "id": "The Guardian--5029153052114216344",
+      "id": "The Guardian--3800936092823209014",
       "source": "The Guardian",
       "title": "Two Russian men jailed in Angola for terrorism and spying",
       "excerpt": "The men were convicted over alleged plan to stage coup and organise deadly demonstrations over fuel prices last year Two Russian men have been found guilty by an Angolan court of terrorism and spying...",
@@ -504,7 +504,7 @@
       "pubDate": 1784816641.0
     },
     {
-      "id": "The Guardian--7009487889156113369",
+      "id": "The Guardian-369278438714123817",
       "source": "The Guardian",
       "title": "MoD cancels army training in Kenya over powers to prosecute British soldiers",
       "excerpt": "September exercise called off after Kenya raises concerns over funding and jurisdiction for criminal offences The British army has been forced to cancel training for its troops in Kenya after the Keny...",
@@ -513,7 +513,7 @@
       "pubDate": 1784815561.0
     },
     {
-      "id": "The Guardian--1413707405621555035",
+      "id": "The Guardian-3199198262724093559",
       "source": "The Guardian",
       "title": "Health worker monitored for Ebola in London hospital after working in DRC",
       "excerpt": "UK resident was evacuated from Democratic Republic of the Congo where there is an outbreak of the disease A humanitarian worker is being monitored at a specialist hospital in London after potential ex...",
@@ -522,7 +522,7 @@
       "pubDate": 1784673540.0
     },
     {
-      "id": "The Guardian--1581800207057689414",
+      "id": "The Guardian--6896371650614529516",
       "source": "The Guardian",
       "title": "Healthy diet too expensive for one in three people globally, UN report finds",
       "excerpt": "Global hunger declined for the third year in a row in 2025 but experts call for action to bring down costs of fruit, vegetables and dairy as report shows 2.69bn people can’t afford to eat well One in...",
@@ -531,7 +531,7 @@
       "pubDate": 1784628042.0
     },
     {
-      "id": "The Guardian--5991551166576188043",
+      "id": "The Guardian-8314837161622025711",
       "source": "The Guardian",
       "title": "São Tomé and Príncipe heads to polls in tense presidential election",
       "excerpt": "Incumbent Carlos Vila Nova hopes to defeat his former party and secure second term as independent Voters in <a href=\"https://www.theguardian.com/world/sao-tome-and-principe\">São Tomé and Príncipe</a>...",
@@ -540,5 +540,5 @@
       "pubDate": 1784433616.0
     }
   ],
-  "lastUpdate": "2026-07-24T21:09:22.251098"
+  "lastUpdate": "2026-07-24T22:15:25.789614"
 }
