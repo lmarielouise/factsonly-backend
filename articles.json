@@ -1,441 +1,465 @@
 {
   "francophone": [
     {
-      "id": "Le Monde--5179461512901136087",
+      "id": "France Info-2295100735553897712",
+      "source": "France Info",
+      "title": "Incendie dans le Var : le brasier \"n'est pas maîtrisé ni fixé\", des reprises de feu attendues avec la hausse des températures",
+      "excerpt": "L'incendie près de Carcassonne a quant à lui été fixé dimanche. La lutte continue également pour éteindre le mégafeu de Gironde.",
+      "link": "https://www.franceinfo.fr/faits-divers/incendie/direct-incendie-dans-l-aude-l-autoroute-a61-a-rouvert-dans-les-deux-sens-le-feu-fixe-mais-encore-sous-surveillance_8132693.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 6 min",
+      "pubDate": 1785739270.0
+    },
+    {
+      "id": "Libération--618805676086017164",
+      "source": "Libération",
+      "title": "Donald Trump annonce une reprise des négociations avec l’Iran ce lundi",
+      "excerpt": "Le chef d’Etat américain affirme retenir des frappes prévues avec Israël à condition qu’un accord soit conclu sur le détroit d’Ormuz. Ce dernier est verrouillé depuis la reprise des affrontements débu...",
+      "link": "https://www.liberation.fr/international/moyen-orient/donald-trump-annonce-une-reprise-des-negociations-avec-liran-ce-lundi-20260803_EBTNTDBRD5GXDPVVDKGYAMSYBU/",
+      "time": "Il y a 17 min",
+      "pubDate": 1785738621.0,
+      "sources": [
+        "Libération",
+        "France Info"
+      ],
+      "multiSource": true,
+      "sourceCount": 2
+    },
+    {
+      "id": "Libération--4570843604553503890",
+      "source": "Libération",
+      "title": "Massive Attack décrit une «expérience surréaliste» après avoir été banni de Singapour pour un drapeau palestinien",
+      "excerpt": "Les membres de la formation britannique ont été détenus par la police puis interdits de séjour pour avoir brandi un drapeau palestinien lors d’un concert mercredi. Ils l’ont raconté dimanche sur Insta...",
+      "link": "https://www.liberation.fr/culture/musique/massive-attack-decrit-une-experience-surrealiste-apres-avoir-ete-banni-de-singapour-pour-un-drapeau-palestinien-20260803_QGDYT5GA2BDC3NMDL3MVKRTQHM/",
+      "time": "Il y a 21 min",
+      "pubDate": 1785738396.0
+    },
+    {
+      "id": "France Info-4203107938774300515",
+      "source": "France Info",
+      "title": "\"Un quart des patients conservent un handicap\" : des médecins lyonnais alertent sur la multiplication d'accidents à cause de trottinettes électriques",
+      "excerpt": "Faciles à utiliser et rapides, ces petits engins sont la source de traumatismes crâniens parfois très graves ces dernières années, en particulier chez les jeunes garçons.",
+      "link": "https://www.franceinfo.fr/economie/transports/trottinettes-electriques/un-bon-quart-des-patients-conservent-un-handicap-des-medecins-lyonnais-lancent-l-alerte-sur-la-multiplication-d-accidents-a-cause-de-trottinettes-electriques_8132432.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 23 min",
+      "pubDate": 1785738242.0
+    },
+    {
+      "id": "Libération--8716206890018775660",
+      "source": "Libération",
+      "title": "Cet été, 30 chiffres aussi dingues qu’inutiles",
+      "excerpt": "Cléopâtre plus proche de l’iPhone que de la pyramide de Kheops, 45 millions de bananes pour mourir de radioactivité… Chaque jour de l’été, une statistique aussi rigoureuse que parfaitement inutile (ou...",
+      "link": "https://www.liberation.fr/plus/speciaux-cahier-ete/cet-ete-30-chiffres-aussi-dingues-quinutiles-20260717_QRWAGNLZEFAMTF7IEMFUPZF2BA/",
+      "time": "Il y a 37 min",
+      "pubDate": 1785737413.0
+    },
+    {
+      "id": "Libération-8725373328645653312",
+      "source": "Libération",
+      "title": "EN DIRECT - Incendies : situation stable en Gironde et dans le Var, alerte aux orages dans le Sud-Ouest",
+      "excerpt": "Grêle, rafales de vent et pluies intenses sont annoncées des Pyrénées aux régions du Nord et de l’Est tandis que les habitants de Lège-Cap-Ferret et du Porge, à l’exception des campings, vont pouvoir...",
+      "link": "https://www.liberation.fr/environnement/en-direct-incendies-situation-stable-en-gironde-et-dans-le-var-alerte-aux-orages-dans-le-sud-ouest-20260803_ZT5DAEOJ2BFNHHU2TSA55AO3ZA/",
+      "time": "Il y a 37 min",
+      "pubDate": 1785737411.0
+    },
+    {
+      "id": "Le Monde--1470550275511235392",
+      "source": "Le Monde",
+      "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
+      "excerpt": "Moscou dit avoir intercepté 245 drones ukrainiens au-dessus de plusieurs régions russes, dans la journée de dimanche. Le président ukrainien a, lui, dressé le bilan d’une semaine de frappes russes con...",
+      "link": "https://www.lemonde.fr/international/live/2026/08/03/en-direct-guerre-en-ukraine-les-dernieres-informations_6737250_3210.html",
+      "time": "Il y a 38 min",
+      "pubDate": 1785737355.0
+    },
+    {
+      "id": "France Info--3216079734314087980",
+      "source": "France Info",
+      "title": "Comment les méduses contribuent à la recherche médicale et au fonctionnement des océans",
+      "excerpt": "Elles sont le cauchemar des vacanciers l'été à la mer : les méduses rendent la baignade difficile et sont de plus en plus présentes sur nos côtes en raison du réchauffement des eaux. Cependant, la sci...",
+      "link": "https://www.franceinfo.fr/replay-radio/le-billet-sciences-du-week-end/comment-les-meduses-contribuent-a-la-recherche-medicale-et-au-fonctionnement-des-oceans_8105984.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 41 min",
+      "pubDate": 1785737209.0
+    },
+    {
+      "id": "France Info-8193663045101360678",
+      "source": "France Info",
+      "title": "\"Une gravité exceptionnelle\" : après deux suicides d'agents des services du Premier ministre et plusieurs tentatives, des enquêtes judiciaires et internes ouvertes",
+      "excerpt": "Une plainte a été déposée le 25 juin par une fonctionnaire après une tentative de suicide fin avril, révèle France Inter.",
+      "link": "https://www.franceinfo.fr/societe/justice/info-radio-france-une-gravite-exceptionnelle-apres-deux-suicides-d-agents-des-services-du-premier-ministre-et-plusieurs-tentatives-des-enquetes-judiciaires-et-internes-ouvertes_8132558.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 48 min",
+      "pubDate": 1785736789.0
+    },
+    {
+      "id": "Libération-3664809175987244407",
+      "source": "Libération",
+      "title": "Près de Rennes, la seconde jeunesse des constructions en terre crue, rempart face aux températures caniculaires",
+      "excerpt": "Traditionnellement utilisée dans la région, cette méthode de construction mêlant terre et paille connaît un regain d’intérêt, portée par des préoccupations écologiques et la volonté de valoriser un pa...",
+      "link": "https://www.liberation.fr/societe/logement/pres-de-rennes-la-seconde-jeunesse-des-constructions-en-terre-crue-rempart-face-aux-temperatures-caniculaires-20260803_OKEFXZBBFRAS3N7X2MCCRJTNHI/",
+      "time": "Il y a 1h",
+      "pubDate": 1785735000.0
+    },
+    {
+      "id": "France Info--4965998695962420207",
+      "source": "France Info",
+      "title": "\"Un espoir pour tous les artistes qui se font piller\" : victime d'un deepfake audio, l'acteur Denis Podalydès porte plainte pour \"hypertrucage\"",
+      "excerpt": "Une chaîne Youtube, désormais fermée, a publié une cinquantaine de vidéos philosophiques utilisant une voix synthétique très proche de celle de l'acteur. Avec le soutien de l'Adami, il a déposé plaint...",
+      "link": "https://www.franceinfo.fr/culture/un-espoir-pour-tous-les-artistes-qui-se-font-piller-victime-d-un-deepfake-audio-l-acteur-denis-podalydes-porte-plainte-pour-hypertrucage_8125574.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1785734895.0
+    },
+    {
+      "id": "France Info-5840174633918587698",
+      "source": "France Info",
+      "title": "Visé par une plainte pour viol, le maire de Concarneau doit \"se mettre provisoirement en retrait de ses fonctions\", estime l'opposition",
+      "excerpt": "Une plainte pour viol a été déposée au mois de mars contre Quentin Gaillard. Le maire (LR) de Concarneau, dans le Finistère conteste les faits.",
+      "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/vise-par-une-plainte-pour-viol-le-maire-de-concarneau-doit-se-mettre-provisoirement-en-retrait-de-ses-fonctions-estime-l-opposition_8132789.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1785734798.0
+    },
+    {
+      "id": "Libération-3069926969841690028",
+      "source": "Libération",
+      "title": "Sous les feux mal éteints, une conscience écologique à raviver, par Noël Mamère",
+      "excerpt": "Partout où des incendies, des inondations et des tempêtes «hors normes» ont éclaté, des alliances construites sur un mélange de déni et d’oubli ont émergé pour préserver un mode de vie «non négociable...",
+      "link": "https://www.liberation.fr/idees-et-debats/tribunes/sous-les-feux-mal-eteints-une-conscience-ecologique-a-raviver-par-noel-mamere-20260803_XSASPUJV35DZBCOP2XY5ZST24M/",
+      "time": "Il y a 1h",
+      "pubDate": 1785734040.0
+    },
+    {
+      "id": "Libération--4968018078166260484",
+      "source": "Libération",
+      "title": "Zola vs Cézanne : ne plus se voir en peinture",
+      "excerpt": "Entre l’écrivain et le peintre, l’amitié est née à l’adolescence. Mais quand le premier, trente ans plus tard, publie «l’Œuvre», le personnage principal ressemble tellement au second que la dispute en...",
+      "link": "https://www.liberation.fr/plus/speciaux-cahier-ete/zola-vs-cezanne-ne-plus-se-voir-en-peinture-20260803_WCXJIWP3XNCFBKS6ZFRXFJPLJU/",
+      "time": "Il y a 1h",
+      "pubDate": 1785733200.0
+    },
+    {
+      "id": "France Info--4472120181076766845",
+      "source": "France Info",
+      "title": "Tour de France femmes 2026 : 2 400 m de dénivelé positif, un terrain favorable aux baroudeuses pour l'arrivée dans l'Hexagone... La 3e étape en questions",
+      "excerpt": "Une journée accidentée attend les coureuses, lundi, avant la première arrivée en France, dans le Jura.",
+      "link": "https://www.franceinfo.fr/tour-de-france/etape-du-jour/tour-de-france-femmes-2026-2-400-m-de-denivele-positif-un-terrain-favorable-aux-baroudeuses-pour-l-arrivee-dans-l-hexagone-la-3e-etape-en-questions_8126822.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 2h",
+      "pubDate": 1785732302.0
+    },
+    {
+      "id": "France Info-5349140735366195676",
+      "source": "France Info",
+      "title": "Sept départements du quart sud-ouest passent en vigilance orange aux orages à partir de 16 heures, 20 départements toujours en alerte orange canicule",
+      "excerpt": "Météo-France anticipe \"une importante activité électrique, de fortes chutes de grêle\", \"de fortes rafales de vent\" et \"de très fortes intensités de précipitations\". Vingt départements de l'est restent...",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/sept-departements-du-quart-sud-ouest-passent-en-vigilance-orange-aux-orages-a-partir-de-16-heures-20-departements-toujours-en-alerte-orange-canicule_8132735.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 2h",
+      "pubDate": 1785732282.0
+    },
+    {
+      "id": "Libération-1987087121157293361",
+      "source": "Libération",
+      "title": "Au Rassemblement national, l’embarras autour du cas de Xenia Fedorova",
+      "excerpt": "L’égérie pro-Poutine du groupe Bolloré, visée par un arrêté d’expulsion depuis mercredi 29 juillet, cristallise les tensions au sein du parti d’extrême droite, incapable de trouver une ligne politique...",
+      "link": "https://www.liberation.fr/politique/elections/au-rassemblement-national-lembarras-autour-du-cas-de-xenia-fedorova-20260803_UISDNKK2E5GOJNEHFQY2USSNBM/",
+      "time": "Il y a 2h",
+      "pubDate": 1785732120.0
+    },
+    {
+      "id": "Libération--2413030257894893015",
+      "source": "Libération",
+      "title": "«Cet été, c’est hors de question» : après les affaires de violences sexuelles dans le périscolaire, les inscriptions diminuent dans les centres de loisirs",
+      "excerpt": "Marqués par les accusations de VSS dans le périscolaire à Paris, de nombreux parents ne font plus confiance aux équipes d’animateurs, et ont renoncé à inscrire leurs enfants au centre de loisirs cet é...",
+      "link": "https://www.liberation.fr/societe/familles/cet-ete-cest-hors-de-question-apres-les-affaires-de-violences-sexuelles-dans-le-periscolaire-les-inscriptions-diminuent-dans-les-centres-de-loisirs-20260803_RM2XB4XXI5BRZKIVJYCDVYKTZE/",
+      "time": "Il y a 2h",
+      "pubDate": 1785731580.0
+    },
+    {
+      "id": "Le Monde-8355120310144328464",
+      "source": "Le Monde",
+      "title": "Des Etats africains sommés par les Etats-Unis de quitter la CPI",
+      "excerpt": "L’administration de Donald Trump a annoncé à la mi-juillet une guerre totale contre la Cour pénale internationale, établie à La Haye, alors que le pays n’en a jamais été membre.",
+      "link": "https://www.lemonde.fr/afrique/article/2026/08/03/des-etats-africains-sommes-par-washington-de-quitter-la-cour-penale-internationale_6737339_3212.html",
+      "time": "Il y a 2h",
+      "pubDate": 1785731401.0
+    },
+    {
+      "id": "Le Monde--7784015743949619375",
+      "source": "Le Monde",
+      "title": "Cuba de nouveau confrontée à une panne de courant géante, y compris à La Havane",
+      "excerpt": "La compagnie nationale a signalé une « déconnexion totale » du système électrique national qui plonge le pays dans l’obscurité. Washington a imposé à l’île un blocus pétrolier qui complique l’approvis...",
+      "link": "https://www.lemonde.fr/international/article/2026/08/03/cuba-de-nouveau-confrontee-a-une-panne-de-courant-geante-y-compris-la-havane_6737337_3210.html",
+      "time": "Il y a 2h",
+      "pubDate": 1785730780.0
+    },
+    {
+      "id": "Le Monde-7947187784374857530",
+      "source": "Le Monde",
+      "title": "A Ceuta, les habitants entre colère, angoisse et compassion",
+      "excerpt": "Deux jours après que l’enclave a vu affluer 50 000 personnes depuis la frontière marocaine, le confetti a retrouvé son calme, dimanche, mais les habitants disent s’être sentis abandonnés par Madrid.",
+      "link": "https://www.lemonde.fr/afrique/article/2026/08/03/a-ceuta-les-habitants-entre-colere-angoisse-et-compassion_6737336_3212.html",
+      "time": "Il y a 2h",
+      "pubDate": 1785730507.0
+    },
+    {
+      "id": "Le Monde--3749314989990973793",
+      "source": "Le Monde",
+      "title": "« L’incertitude est presque pire que la guerre » : à Dubaï, le cœur financier du Moyen-Orient, la crainte d’un conflit qui s’enlise",
+      "excerpt": "L’émirat reste particulièrement attractif pour la finance de l’ombre. Mais, depuis le lancement de l’offensive américano-israélienne en Iran, en février, il n’exerce plus son rôle de refuge pour les g...",
+      "link": "https://www.lemonde.fr/economie/article/2026/08/03/l-incertitude-est-presque-pire-que-la-guerre-a-dubai-le-c-ur-financier-du-moyen-orient-la-crainte-d-un-conflit-qui-s-enlise_6737335_3234.html",
+      "time": "Il y a 2h",
+      "pubDate": 1785729631.0
+    },
+    {
+      "id": "Le Monde-4978911590601777586",
+      "source": "Le Monde",
+      "title": "Au Brésil, Lula officialise sa candidature à l’élection présidentielle",
+      "excerpt": "L’actuel chef de l’Etat, âgé de 80 ans, leader de la gauche, se présente le 4 octobre, pour un quatrième mandat. Il reste le mieux placé pour remporter le scrutin face à l’extrême droite.",
+      "link": "https://www.lemonde.fr/international/article/2026/08/03/au-bresil-lula-officialise-sa-candidature-a-l-election-presidentielle_6737334_3210.html",
+      "time": "Il y a 2h",
+      "pubDate": 1785729628.0
+    },
+    {
+      "id": "Libération-3108875867687884774",
+      "source": "Libération",
+      "title": "Quiz : à Paris en 2024, le «J», c’est le «O»",
+      "excerpt": "(14/30) Léon Marchand, Philippe Katerine, Lady Gaga ou les frères Lebrun... Les Jeux olympiques de Paris, c’était il y a deux ans déjà.",
+      "link": "https://www.liberation.fr/plus/speciaux-cahier-ete/quiz-a-paris-en-2024-le-j-cest-le-o-20260803_QM6UQ37ORZH7XGIHGWZGNXGZS4/",
+      "time": "Il y a 2h",
+      "pubDate": 1785729600.0
+    },
+    {
+      "id": "Le Monde-4830421723610181964",
+      "source": "Le Monde",
+      "title": "Elections sénatoriales : dans les Bouches-du-Rhône, Renaud Muselier pris dans une campagne agitée",
+      "excerpt": "A moins de deux mois du scrutin, le président du conseil régional de PACA se débat contre trois candidatures rivales et des accusations à répétition.",
+      "link": "https://www.lemonde.fr/politique/article/2026/08/03/elections-senatoriales-dans-les-bouches-du-rhone-renaud-muselier-pris-dans-une-campagne-agitee_6737325_823448.html",
+      "time": "Il y a 3h",
+      "pubDate": 1785727810.0
+    },
+    {
+      "id": "France Info-235061202153655621",
+      "source": "France Info",
+      "title": "Lorena Wiebes survole le début du Tour de France, Arthur Gea s'offre un premier titre, grosse frayeur pour Sébastien Ogier... Le récap sport du week-end",
+      "excerpt": "La Néerlandaise a remporté au sprint les deux premières étapes de la Grande Boucle et a endossé le maillot jaune.",
+      "link": "https://www.franceinfo.fr/sports/lorena-wiebes-survole-le-debut-du-tour-de-france-arthur-gea-s-offre-un-premier-titre-grosse-frayeur-pour-sebastien-ogier-le-recap-sport-du-week-end_8132006.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 3h",
+      "pubDate": 1785727801.0
+    },
+    {
+      "id": "Le Monde--1696694619047724523",
       "source": "Le Monde",
       "title": "Incendie en Gironde : la gestion des premières heures du feu au cœur des interrogations",
-      "excerpt": "Alors que le mégafeu qui a ravagé 42 000 hectares en Gironde est officiellement fixé depuis samedi, les habitants des communes les plus touchées disent leur colère et questionnent la façon dont les pr...",
+      "excerpt": "Alors que le mégafeu qui a ravagé 42 000 hectares en Gironde est officiellement fixé depuis samedi, les habitants des communes les plus touchées disent leur colère. Ils sont presque 1 000 à souhaiter...",
       "link": "https://www.lemonde.fr/planete/article/2026/08/03/incendie-en-gironde-la-gestion-des-premieres-heures-du-feu-au-c-ur-des-interrogations_6737323_3244.html",
-      "time": "Il y a 50 min",
+      "time": "Il y a 3h",
       "pubDate": 1785726003.0
     },
     {
-      "id": "Le Monde--5233038041266839309",
+      "id": "Le Monde-2736942679836685082",
       "source": "Le Monde",
-      "title": "EN DIRECT, guerre en Ukraine : Moscou dit avoir intercepté 245 drones ukrainiens au-dessus de plusieurs régions russes, dans la journée de dimanche",
-      "excerpt": "Le président ukrainien a, lui, dressé le bilan d’une semaine de frappes russes contre l’Ukraine. Volodymyr Zelensky dénombre 16 régions visées, environ 1 900 drones, près de 1 600 bombes aériennes et...",
-      "link": "https://www.lemonde.fr/international/live/2026/08/03/en-direct-guerre-en-ukraine-moscou-dit-avoir-intercepte-245-drones-ukrainiens-au-dessus-de-plusieurs-regions-russes-dans-la-journee-de-dimanche_6737250_3210.html",
-      "time": "Il y a 2h",
-      "pubDate": 1785718762.0
+      "title": "Quatre femmes accusant Mohammed Al-Fayed de violences sexuelles ont été reconnues par les autorités britanniques victimes de traite d’êtres humains",
+      "excerpt": "Quelque 157 personnes se sont manifestées auprès de la police britannique et accusent l’ancien propriétaire du magasin Harrods de viols, d’agressions sexuelles et d’exploitation à des fins sexuelles....",
+      "link": "https://www.lemonde.fr/societe/article/2026/08/03/quatre-femmes-accusant-mohammed-al-fayed-de-violences-sexuelles-ont-ete-reconnues-par-les-autorites-britanniques-victimes-de-traite-d-etres-humains_6737322_3224.html",
+      "time": "Il y a 5h",
+      "pubDate": 1785720067.0
     },
     {
-      "id": "Le Monde-1727211707861593986",
+      "id": "Le Monde--4353546428517047040",
       "source": "Le Monde",
-      "title": "EN DIRECT, guerre au Moyen-Orient : Donald Trump annonce des discussions avec l’Iran à partir de lundi",
-      "excerpt": "Après avoir déclaré, la veille, avoir renoncé à de nouvelles frappes sur l’Iran à condition qu’un accord soit rapidement conclu, le président américain a affirmé, dimanche, que des pourparlers avec Té...",
-      "link": "https://www.lemonde.fr/international/live/2026/08/03/en-direct-guerre-au-moyen-orient-donald-trump-annonce-des-discussions-avec-l-iran-a-partir-de-lundi_6737099_3210.html",
-      "time": "Il y a 3h",
-      "pubDate": 1785715412.0
-    },
-    {
-      "id": "Le Monde-732097005884926086",
-      "source": "Le Monde",
-      "title": "Donald Trump affirme que les Etats-Unis sont intervenus pour soutenir le yen, par « amitié » pour le Japon",
+      "title": "Donald Trump affirme que les Etats-Unis sont intervenus pour soutenir le yen par « amitié » pour le Japon",
       "excerpt": "La Réserve fédérale de New York a orchestré une vente d’euros inédite pour acheter des yens. La monnaie nippone avait enregistré en juillet ses plus bas niveaux depuis près de quarante ans.",
       "link": "https://www.lemonde.fr/economie/article/2026/08/03/donald-trump-affirme-que-les-etats-unis-sont-intervenus-pour-soutenir-le-yen-par-amitie-pour-le-japon_6737321_3234.html",
-      "time": "Il y a 4h",
+      "time": "Il y a 7h",
       "pubDate": 1785713326.0
-    },
-    {
-      "id": "France Info-7365122994766328707",
-      "source": "France Info",
-      "title": "Incendies en Grèce : deux hélicoptères entrent en collision, deux personnes sont mortes",
-      "excerpt": "En Grèce, les incendies sont toujours virulents et les pompiers luttent au péril de leur vie. En pleine intervention, dimanche 2 août, deux hélicoptères sont entrés en collision. Le pilote et le copil...",
-      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-grece-deux-helicopteres-entrent-en-collision-deux-personnes-sont-mortes_8132519.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 6h",
-      "pubDate": 1785704686.0
-    },
-    {
-      "id": "Libération--6008961323222049238",
-      "source": "Libération",
-      "title": "Incendies : en Gironde, réintégration autorisée lundi à Lège-Cap-Ferret et au Porge",
-      "excerpt": "Les deux communes girondines, particulièrement ciblées par les flammes figurent parmi les dernières à recevoir une autorisation de réintégration.",
-      "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-dans-le-var-un-feu-qui-progresse-plus-vite-quun-cheval-au-galop-20260801_JK5HKTGTI5DYXJ27VARYLXNFKI/",
-      "time": "Il y a 8h",
-      "pubDate": 1785698550.0
-    },
-    {
-      "id": "France Info--9022211051863006939",
-      "source": "France Info",
-      "title": "En première ligne face aux incendies, les pompiers mettent leur santé en danger",
-      "excerpt": "Depuis le début des incendies en Gironde, près d'une centaine de pompiers ont été intoxiqués. Selon les témoignages recueillis par France Télévisions, l'exposition aux fumées toxiques provoque des pat...",
-      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-premiere-ligne-face-aux-incendies-les-pompiers-mettent-leur-sante-en-danger_8132534.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 8h",
-      "pubDate": 1785698057.0
-    },
-    {
-      "id": "France Info--4452638476874427951",
-      "source": "France Info",
-      "title": "\"Nous saluons tout chemin de dialogue\", affirme le président vénézuélien déchu Nicolas Maduro, depuis sa prison aux Etats-Unis",
-      "excerpt": "Capturé par l'armée américaine début janvier, Nicolas Maduro a évoqué une \"renaissance nationale comme objectif commun\", alors que pouvoir et opposition vénézuéliennes vont entamer le dialogue politiq...",
-      "link": "https://www.franceinfo.fr/monde/venezuela/nous-saluons-tout-chemin-de-dialogue-affirme-le-president-venezuelien-dechu-nicolas-maduro-depuis-sa-prison-aux-etats-unis_8132537.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 8h",
-      "pubDate": 1785697926.0
-    },
-    {
-      "id": "Le Monde--2304500971181996386",
-      "source": "Le Monde",
-      "title": "Nirmal Purja, la mort d’un alpiniste sans limites",
-      "excerpt": "Le Népalo-Britannique, dont les exploits avaient été médiatisés dans un documentaire sur Netflix en 2021, a été emporté par une avalanche en gravissant le Broad Peak, au Pakistan, jeudi 30 juillet. Il...",
-      "link": "https://www.lemonde.fr/disparitions/article/2026/08/02/nirmal-purja-la-mort-d-un-alpiniste-sans-limites_6737317_3382.html",
-      "time": "Il y a 8h",
-      "pubDate": 1785697010.0
-    },
-    {
-      "id": "France Info--6036769631107171372",
-      "source": "France Info",
-      "title": "Une nouvelle ONG critique \"l'absence de communication officielle marocaine\", après l'afflux de migrants marocains dans l'enclave espagnole de Ceuta:",
-      "excerpt": "L'Observatoire du nord des droits de l'Homme (ONDH) \"dénonce l'absence de communication officielle marocaine clarifiant la réalité des faits, fournissant un bilan précis des victimes, des disparus et...",
-      "link": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/une-nouvelle-ong-critique-l-absence-de-communication-officielle-marocaine-apres-l-afflux-de-migrants-marocains-dans-l-enclave-espagnole-de-ceuta_8132531.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 8h",
-      "pubDate": 1785696980.0
-    },
-    {
-      "id": "Libération-8383139883467309833",
-      "source": "Libération",
-      "title": "37 degrés à Paris, 35 dans l’Est, le Sud-Est toujours dans la fournaise… l’épisode de chaleur va se poursuivre la semaine prochaine",
-      "excerpt": "Le phénomène devrait concerner le nord du pays en début de semaine, avant d’être atténué par les orages prévus au même moment, pour mieux se concentrer sur le quart sud-est au moins jusqu’à vendredi.",
-      "link": "https://www.liberation.fr/environnement/climat/37-degres-a-paris-35-dans-lest-le-sud-est-toujours-dans-la-fournaise-lepisode-de-chaleur-va-se-poursuivre-la-semaine-prochaine-20260802_MH44IZPCLJHR3B6TWQ372PJSJQ/",
-      "time": "Il y a 9h",
-      "pubDate": 1785696316.0
-    },
-    {
-      "id": "France Info-5027841345242802232",
-      "source": "France Info",
-      "title": "Matignon annonce un renforcement du contrôle de l'Etat sur les achats d'entreprises des secteurs sensibles par des investisseurs étrangers",
-      "excerpt": "Les services du Premier ministre justifient ce décret par un contexte géopolitique \"marqué par de fortes tensions\" \"pour se prémunir de prises de participations opportunistes non européennes dans des...",
-      "link": "https://www.franceinfo.fr/economie/entreprises/matignon-annonce-un-renforcement-du-controle-de-l-etat-sur-les-achats-d-entreprises-des-secteurs-sensibles-par-des-investisseurs-etrangers_8132510.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 9h",
-      "pubDate": 1785696274.0
-    },
-    {
-      "id": "Libération--840060448728682779",
-      "source": "Libération",
-      "title": "Dans les Landes, après les incendies, «il faut s’occuper des clients qui sont de retour pour limiter la casse»",
-      "excerpt": "A Biscarrosse et aux alentours, la fréquentation touristique a très timidement redémarré. Les professionnels de l’hôtellerie-restauration oscillent entre crainte des annulations et espoirs de reprise.",
-      "link": "https://www.liberation.fr/societe/dans-les-landes-apres-les-incendies-il-faut-soccuper-des-clients-qui-sont-de-retour-pour-limiter-la-casse-20260802_7SDI2BMLZJHMXFGX4RBC7KDRKA/",
-      "time": "Il y a 9h",
-      "pubDate": 1785696264.0
-    },
-    {
-      "id": "Libération-3847183038853697536",
-      "source": "Libération",
-      "title": "Accident de bus en Algérie : le chauffeur avait consommé des stupéfiants et roulait à plus de 120 km/h",
-      "excerpt": "Le parquet a dévoilé dimanche 2 août les premiers résultats de l’enquête sur l’accident qui a fait 28 morts et 36 blessés, vendredi 31 juillet dans le nord du pays. Le véhicule transportait par ailleu...",
-      "link": "https://www.liberation.fr/international/afrique/accident-de-bus-en-algerie-le-chauffeur-avait-consomme-des-stupefiants-et-roulait-a-plus-de-120-kmh-20260802_S3VW3PVVVZG2BEH2YFTKDY6VYA/",
-      "time": "Il y a 9h",
-      "pubDate": 1785695613.0
-    },
-    {
-      "id": "Libération--8551634731761460726",
-      "source": "Libération",
-      "title": "Gaza : treize morts dans des bombardements israéliens nocturnes après l’accord annoncé sur le désarmement du Hamas",
-      "excerpt": "Israël, qui n’a pas réagi après l’annonce de l’entente annoncée jeudi par le président américain, continue ses attaques sur le territoire. Elles ont visé des habitations dans la nuit de samedi à diman...",
-      "link": "https://www.liberation.fr/international/moyen-orient/gaza-huit-morts-dans-des-bombardements-israeliens-nocturnes-apres-laccord-annonce-sur-le-desarmement-du-hamas-20260802_RJWA7SPLIFABBGJGTZTTV5HWSI/",
-      "time": "Il y a 9h",
-      "pubDate": 1785695190.0
-    },
-    {
-      "id": "Le Monde-3525112853102059369",
-      "source": "Le Monde",
-      "title": "Au Brésil, Lula, 80 ans, lance sa campagne pour décrocher un quatrième mandat",
-      "excerpt": "Revenu en 2023 au pouvoir après deux premiers mandats (2003-2010), le président sortant de gauche a été investi lors d’une convention de son Parti des travailleurs. Il affrontera Flavio Bolsonaro, fil...",
-      "link": "https://www.lemonde.fr/international/article/2026/08/02/au-bresil-lula-80-ans-lance-sa-campagne-pour-decrocher-un-quatrieme-mandat_6737314_3210.html",
-      "time": "Il y a 9h",
-      "pubDate": 1785695068.0
-    },
-    {
-      "id": "Libération-1115500662762349809",
-      "source": "Libération",
-      "title": "La crise de Ceuta mérite mieux que les crises d’hystérie de la droite et de l’extrême droite",
-      "excerpt": "Les populistes européens agitent le chiffon rouge d’une «invasion» venue de l’enclave espagnole. La plupart des candidats à l’exil sont pourtant repartis au Maroc mais une centaine d’entre eux ont pér...",
-      "link": "https://www.liberation.fr/idees-et-debats/editorial/la-crise-de-ceuta-merite-mieux-que-les-crises-dhysterie-de-la-droite-et-de-lextreme-droite-20260802_BBQJRSY34BFG7OBFLCIHWXNOSY/",
-      "time": "Il y a 9h",
-      "pubDate": 1785694920.0
-    },
-    {
-      "id": "Libération--7226769078825252909",
-      "source": "Libération",
-      "title": "A Ceuta, après le drame migratoire, le retour au calme",
-      "excerpt": "Après les arrivées massives de migrants, le 30 et 31 juillet, plus de 69 000 personnes ont été reconduites à la frontière avec le Maroc par les militaires espagnols. Cet afflux inédit d’exilés a surto...",
-      "link": "https://www.liberation.fr/international/afrique/a-ceuta-apres-le-drame-migratoire-le-retour-au-calme-20260802_DCVNSG7KKFAN7CHMY4UYVLPBAU/",
-      "time": "Il y a 9h",
-      "pubDate": 1785694678.0
-    },
-    {
-      "id": "France Info--5549629551448825341",
-      "source": "France Info",
-      "title": "A 80 ans, le président brésilien Lula se dit \"en pleine forme\" et se porte candidat pour un quatrième et dernier mandat",
-      "excerpt": "Candidat pour la septième fois, l'ancien ouvrier et leader syndical, figure dominante de la politique brésilienne des dernières décennies, briguera un quatrième mandat face à Flavio Bolsonaro, fils de...",
-      "link": "https://www.franceinfo.fr/monde/bresil/a-80-ans-le-president-bresilien-lula-se-dit-en-pleine-forme-et-se-porte-candidat-pour-un-quatrieme-et-dernier-mandat_8132498.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 9h",
-      "pubDate": 1785693853.0
-    },
-    {
-      "id": "Libération--2967492330005345972",
-      "source": "Libération",
-      "title": "Brésil : Lula, 80 ans, se présente en anti-Trump pour un quatrième mandat à la présidence",
-      "excerpt": "Le président issu du Parti des travailleurs, qui fait face à Flavio Bolsonaro, fils de l’ancien président d’extrême droite soutenu par le dirigeant américain, a fait acte de candidature ce dimanche à...",
-      "link": "https://www.liberation.fr/international/amerique/bresil-lula-80-ans-se-presente-en-anti-trump-pour-un-quatrieme-mandat-a-la-presidence-20260802_2CZEDCMWIVFOPGAUXWW4C5I6XQ/",
-      "time": "Il y a 9h",
-      "pubDate": 1785693643.0
-    },
-    {
-      "id": "Libération-8327225326320427583",
-      "source": "Libération",
-      "title": "Incendies : Sébastien Lecornu veut amorcer le temps de la réparation et des indemnisations",
-      "excerpt": "Le Premier ministre a annoncé dans «la Tribune Dimanche» la création d’un coordinateur national pour piloter la reconstruction du bâti brûlé en Gironde mais aussi dans les Landes et le Var. L’attitude...",
-      "link": "https://www.liberation.fr/economie/incendies-sebastien-lecornu-veut-amorcer-le-temps-de-la-reparation-et-des-indemnisations-20260802_VGCPMSDPDBH4DP2IKVKE37H7CM/",
-      "time": "Il y a 10h",
-      "pubDate": 1785692743.0
-    },
-    {
-      "id": "Libération-7730265847318944035",
-      "source": "Libération",
-      "title": "Tour de France : Lorena Wiebes encore servie à Genève",
-      "excerpt": "La sprinteuse néerlandaise a maté dimanche 2 août ses concurrentes en Suisse, décrochant son deuxième succès en deux étapes, et conservant son maillot jaune.",
-      "link": "https://www.liberation.fr/sports/cyclisme/tour-de-france-lorena-wiebes-encore-servie-a-geneve-20260802_K4ACWJB4NVG7HAMRSMURZYOLAY/",
-      "time": "Il y a 10h",
-      "pubDate": 1785691652.0
-    },
-    {
-      "id": "France Info-8371178762880503294",
-      "source": "France Info",
-      "title": "L'avocat Antoine Vey, ex-associé d'Eric Dupond-Moretti, mis en examen pour harcèlement moral et abus de confiance",
-      "excerpt": "Il a également été placé sous le statut de témoin assisté pour les faits de harcèlement sexuel. Le pénaliste est connu pour avoir défendu le Chilien Nicolas Zepeda, l'ex-ministre français Jérôme Cahuz...",
-      "link": "https://www.franceinfo.fr/societe/justice/l-avocat-antoine-vey-ex-associe-de-dupond-moretti-mis-en-examen-pour-harcelement-moral-et-abus-de-confiance_8132333.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 10h",
-      "pubDate": 1785691410.0
-    },
-    {
-      "id": "France Info--448818848484355733",
-      "source": "France Info",
-      "title": "Maillot jaune, deux victoires d’étape… Le début de Tour de France femmes rêvé pour Lorena Wiebes, bien plus que la meilleure sprinteuse du monde",
-      "excerpt": "La Néerlandaise de 27 ans a remporté les deux premières étapes du Tour de France femmes 2026.",
-      "link": "https://www.franceinfo.fr/tour-de-france/femmes/maillot-jaune-deux-victoires-d-etape-le-debut-de-tour-de-france-femmes-reve-pour-lorena-wiebes-bien-plus-que-la-meilleure-sprinteuse-du-monde_8132480.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 10h",
-      "pubDate": 1785690673.0
-    },
-    {
-      "id": "Le Monde-770131331980328980",
-      "source": "Le Monde",
-      "title": "Ce qu’il faut retenir de l’actualité du week-end des 1ᵉʳ et 2 août",
-      "excerpt": "Vous n’avez pas suivi l’actualité ? Voici ce qu’il s’est passé pendant ces dernières quarante-huit heures.",
-      "link": "https://www.lemonde.fr/les-decodeurs/article/2026/08/02/ce-qu-il-faut-retenir-de-l-actualite-du-week-end-des-1-et-2-aout_6737311_4355770.html",
-      "time": "Il y a 10h",
-      "pubDate": 1785690005.0
-    },
-    {
-      "id": "France Info--4027092418173462144",
-      "source": "France Info",
-      "title": "Sept personnes en situation de handicap, 40 enfants, 38 femmes... Pas moins de 112 corps retrouvés sous des décombres à Gaza, selon la Défense civile",
-      "excerpt": "Les opérations ont été menées pendant environ deux semaines dans un secteur résidentiel. Selon le responsable du projet d'extraction des dépouilles, 157 autres personnes étaient portées disparues sous...",
-      "link": "https://www.franceinfo.fr/monde/palestine/gaza/sept-personnes-en-situation-de-handicap-40-enfants-38-femmes-pas-moins-de-112-corps-retrouves-sous-des-decombres-a-gaza-selon-la-defense-civile_8132405.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 11h",
-      "pubDate": 1785687586.0
-    },
-    {
-      "id": "Le Monde-4495293291935827387",
-      "source": "Le Monde",
-      "title": "Gianni Infantino, un président de la FIFA fragilisé par sa soif de profits",
-      "excerpt": "Sous pression, le président de l’instance dirigeante du football a renoncé, samedi, à son projet destiné à l’ouvrir aux investisseurs privés. Ses opposants le soupçonnaient de vouloir devenir le patro...",
-      "link": "https://www.lemonde.fr/sport/article/2026/08/02/gianni-infantino-un-president-de-la-fifa-fragilise-par-sa-soif-de-profits_6737305_3242.html",
-      "time": "Il y a 11h",
-      "pubDate": 1785686412.0
-    },
-    {
-      "id": "France Info--3170132166399961714",
-      "source": "France Info",
-      "title": "\"Généré par IA\" : on vous explique ce que change la nouvelle loi de l'Union européenne sur l'intelligence artificielle",
-      "excerpt": "A partir du 2 août, des icônes officielles doivent informer les utilisateurs lorsqu'un contenu est généré ou modifié par l'IA. L'Union européenne va également disposer de davantage de pouvoir pour rég...",
-      "link": "https://www.franceinfo.fr/internet/intelligence-artificielle/genere-par-ia-on-vous-explique-ce-que-change-la-nouvelle-loi-de-l-union-europeenne-sur-l-intelligence-artificielle_8132225.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 11h",
-      "pubDate": 1785685923.0
-    },
-    {
-      "id": "Le Monde-4635712287461967274",
-      "source": "Le Monde",
-      "title": "« Les gens viennent ici pour se reposer. Mais il devient très difficile de leur offrir cette sérénité » : en Tunisie, le secteur du tourisme affecté par les coupures d’électricité et d’eau à répétition",
-      "excerpt": "Le pays est confronté à des chaleurs exceptionnelles qui mettent à rude épreuve les réseau d’approvisionnement. Avec de lourdes conséquences pour les hôteliers et les restaurateurs, en pleine saison e...",
-      "link": "https://www.lemonde.fr/international/article/2026/08/02/les-gens-viennent-ici-pour-se-reposer-mais-il-devient-tres-difficile-de-leur-offrir-cette-serenite-en-tunisie-le-secteur-du-tourisme-affecte-par-les-coupures-d-electricite-et-d-eau-a-repetition_6737300_3210.html",
-      "time": "Il y a 12h",
-      "pubDate": 1785682800.0
-    },
-    {
-      "id": "Le Monde--3529366642137032459",
-      "source": "Le Monde",
-      "title": "Crise de Ceuta : entre l’Espagne et le Maroc, trente ans de rapprochements stratégiques et beaucoup d’arrière-pensées",
-      "excerpt": "L’afflux de migrants dans l’enclave de Ceuta, les 30 et 31 juillet, est un nouvel épisode des relations tumultueuses qu’entretiennent les deux pays depuis la signature de leur traité « d’amitié, de bo...",
-      "link": "https://www.lemonde.fr/international/article/2026/08/02/crise-de-ceuta-entre-l-espagne-et-le-maroc-trente-ans-de-rapprochements-strategiques-et-beaucoup-d-arriere-pensees_6737297_3210.html",
-      "time": "Il y a 13h",
-      "pubDate": 1785680104.0
     }
   ],
   "anglophone": [
     {
-      "id": "BBC News--8552686089006614503",
+      "id": "NPR-89947828987812061",
+      "source": "NPR",
+      "title": "U.S. dollar weakens sharply against the Japanese yen after market interventions",
+      "excerpt": "The U.S. dollar weakened sharply Monday against the Japanese yen after U.S. President Donald Trump and Japan's finance minister confirmed both sides had intervened in markets.",
+      "link": "https://www.npr.org/2026/08/03/g-s1-136866/us-dollar-japanese-yen-market-interventions",
+      "time": "Il y a 1h",
+      "pubDate": 1785735691.0
+    },
+    {
+      "id": "NPR--5786254392043308032",
+      "source": "NPR",
+      "title": "Todd Blanche rescinds Trump's 'anti-weaponization fund' ahead of nomination hearing",
+      "excerpt": "Acting Attorney General Todd Blanche issued a formal order late Sunday terminating President Donald Trump's $1.8 billion \"anti-weaponization fund\" to compensate his political allies.",
+      "link": "https://www.npr.org/2026/08/03/g-s1-136864/todd-blanche-rescinds-trump-anti-weaponization-fund",
+      "time": "Il y a 1h",
+      "pubDate": 1785733459.0
+    },
+    {
+      "id": "NPR-2934059916920893786",
+      "source": "NPR",
+      "title": "A blaze on an Indonesian passenger ferry leaves at least 5 dead and dozens missing",
+      "excerpt": "An Indonesian ferry carrying 271 people has caught fire in waters off Madura island, killing at least five people and leaving 41 others unaccounted for, authorities said",
+      "link": "https://www.npr.org/2026/08/03/g-s1-136858/blaze-indonesian-passenger-ferry",
+      "time": "Il y a 2h",
+      "pubDate": 1785729971.0
+    },
+    {
+      "id": "BBC News--1051579037461502491",
+      "source": "BBC News",
+      "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
+      "excerpt": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
+      "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 3h",
+      "pubDate": 1785727941.0
+    },
+    {
+      "id": "BBC News-4830047545248461443",
+      "source": "BBC News",
+      "title": "Malaysian boy on trial for allegedly murdering girl in school",
+      "excerpt": "The high-profile case has shocked Malaysia and sparked debate about the effect of social media on children.",
+      "link": "https://www.bbc.co.uk/news/articles/cgewq549988o?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 5h",
+      "pubDate": 1785721396.0
+    },
+    {
+      "id": "BBC News-1837784232040341239",
+      "source": "BBC News",
+      "title": "Massive Attack respond after Singapore ban over Palestine display",
+      "excerpt": "The UK band says they are \"surprised and disappointed\" by their treatment over shouting \"free Palestine\" at a concert there.",
+      "link": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 5h",
+      "pubDate": 1785720665.0
+    },
+    {
+      "id": "BBC News-2677908078151686150",
       "source": "BBC News",
       "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
       "excerpt": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
       "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
+      "time": "Il y a 5h",
       "pubDate": 1785719011.0
     },
     {
-      "id": "NPR-8565431974870566327",
+      "id": "BBC News-6648861933762928341",
+      "source": "BBC News",
+      "title": "Trump suggests new talks with Iran to begin on Monday",
+      "excerpt": "Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only for strikes to resume.",
+      "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 6h",
+      "pubDate": 1785715878.0
+    },
+    {
+      "id": "NPR--2095704460279114592",
       "source": "NPR",
       "title": "Defunct part of SpaceX Falcon 9 rocket will slam into the moon",
       "excerpt": "A defunct part of a Falcon 9 rocket could slam into the moon at more than 5,000 miles per hour, according to scientists.",
       "link": "https://www.npr.org/2026/08/02/nx-s1-5917201/space-x-falcon-nine-moon",
-      "time": "Il y a 4h",
+      "time": "Il y a 7h",
       "pubDate": 1785713885.0
     },
     {
-      "id": "NPR--1182354922495007530",
+      "id": "BBC News-4974216565572064756",
+      "source": "BBC News",
+      "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
+      "excerpt": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says.",
+      "link": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 7h",
+      "pubDate": 1785712514.0
+    },
+    {
+      "id": "NPR-5332929485559662963",
       "source": "NPR",
       "title": "Capital One says it closed Trump Organization accounts over money-laundering concerns",
       "excerpt": "The bank is asking a judge to permanently dismiss a lawsuit from Trump-affiliated businesses, arguing a monthslong internal review — not the Jan. 6 riot — explains why hundreds of accounts were shut d...",
       "link": "https://www.npr.org/2026/08/02/g-s1-136834/capital-one-trump-bank-anti-money-laundering",
-      "time": "Il y a 9h",
+      "time": "Il y a 12h",
       "pubDate": 1785695494.0
     },
     {
-      "id": "BBC News--8794573300947059276",
+      "id": "BBC News--6522813027612120282",
       "source": "BBC News",
       "title": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
       "excerpt": "Yonatan Netanyahu was the only Israeli soldier to die as he led a mission to free more than 100 hostages.",
       "link": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 11h",
+      "time": "Il y a 14h",
       "pubDate": 1785688622.0
     },
     {
-      "id": "BBC News-1258748010785784692",
+      "id": "BBC News--6601208362509785573",
       "source": "BBC News",
       "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
       "excerpt": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
       "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 11h",
+      "time": "Il y a 14h",
       "pubDate": 1785685859.0
     },
     {
-      "id": "BBC News-920909163056716251",
+      "id": "BBC News--180367259184560314",
       "source": "BBC News",
       "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
       "excerpt": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.",
       "link": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 12h",
+      "time": "Il y a 15h",
       "pubDate": 1785685680.0
     },
     {
-      "id": "NPR-3878997228473338238",
+      "id": "NPR-9166715361708287616",
       "source": "NPR",
       "title": "Thousands of people under evacuation order from wildfires in Spokane, Wash.",
       "excerpt": "There are at least three fires in and around the city. Large parts of Spokane are under Level 3 evacuation orders, which read: \"Leave NOW! This may be your only notice.\"",
       "link": "https://www.npr.org/2026/08/02/g-s1-136814/washington-state-wildfires-old-trails-fire-spokane",
-      "time": "Il y a 14h",
+      "time": "Il y a 17h",
       "pubDate": 1785677743.0
     },
     {
-      "id": "The Guardian-1229612441719190926",
+      "id": "The Guardian-6949723638791369933",
       "source": "The Guardian",
       "title": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets",
       "excerpt": "People among the more than 50,000 who entered Spanish enclave this week describe the journey and their prospects Four days ago, Youssef El Abbas saw an opportunity to reclaim the life he had lost seve...",
       "link": "https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco",
-      "time": "Il y a 14h",
+      "time": "Il y a 17h",
       "pubDate": 1785676316.0
     },
     {
-      "id": "NPR-1857103145924256793",
+      "id": "NPR-7374766460509878179",
       "source": "NPR",
       "title": "A teen was killed at a Seattle protest. New video evidence shows what really happened",
       "excerpt": "An 18-month investigation by The Seattle Times, KUOW and NPR's <em>Embedded</em> podcast and a review of more than a dozen videos from the night of the shooting reveal the most comprehensive view to d...",
       "link": "https://www.npr.org/2026/07/31/g-s1-133360/chop-digital",
-      "time": "Il y a 15h",
+      "time": "Il y a 18h",
       "pubDate": 1785672000.0
     },
     {
-      "id": "BBC News-4536590152800766888",
-      "source": "BBC News",
-      "title": "Five dead and 41 missing after Indonesia ferry catches fire",
-      "excerpt": "The vessel with at least 250 people on board caught fire off Madura island.",
-      "link": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 16h",
-      "pubDate": 1785671380.0
-    },
-    {
-      "id": "BBC News-2722602701083680186",
-      "source": "BBC News",
-      "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-      "excerpt": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
-      "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 16h",
-      "pubDate": 1785669120.0
-    },
-    {
-      "id": "NPR--5927747298075714312",
+      "id": "NPR-211068101520781935",
       "source": "NPR",
       "title": "Why is the rate of premature births so high in this community?",
       "excerpt": "About 1 in 4 babies in the Pakistani fishing settlement of Rehri Goth are born prematurely. Researchers are trying to figure out how to bring the numbers down.",
       "link": "https://www.npr.org/2026/08/02/g-s1-135946/premature-birth-slum-pakistan",
-      "time": "Il y a 16h",
+      "time": "Il y a 19h",
       "pubDate": 1785668627.0
     },
     {
-      "id": "BBC News--95677745305290275",
-      "source": "BBC News",
-      "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-      "excerpt": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
-      "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 17h",
-      "pubDate": 1785666748.0
-    },
-    {
-      "id": "NPR-4776288161259869231",
+      "id": "NPR-6935151631716006948",
       "source": "NPR",
       "title": "We asked a first grader to interview his hero: A bird scientist",
       "excerpt": "NPR asked an aspiring scientist in Philadelphia to interview an adult who is living his dream about his career in conservation science.",
       "link": "https://www.npr.org/2026/08/02/nx-s1-5758054/we-asked-a-first-grader-to-interview-his-hero-a-bird-scientist",
-      "time": "Il y a 18h",
+      "time": "Il y a 21h",
       "pubDate": 1785661200.0
     },
     {
-      "id": "NPR--9103381259461607983",
+      "id": "NPR-7707558254448868750",
       "source": "NPR",
       "title": "What Cyclospora does inside the gut and how it gets there",
       "excerpt": "<em>Cyclospora</em>, the parasite that has sickened thousands this summer in the U.S., requires time in the human digestive tract to reproduce.",
       "link": "https://www.npr.org/2026/08/02/nx-s1-5914624/cyclospora-michigan-infection-lettuce-parasite-outbreak",
-      "time": "Il y a 18h",
+      "time": "Il y a 21h",
       "pubDate": 1785661200.0
     },
     {
-      "id": "NPR--4566350196507322567",
-      "source": "NPR",
-      "title": "Idaho fast food restaurant shooting leaves 3 dead, city spokesman says",
-      "excerpt": "Police who responded to the shooting found the body of the suspected gunman in an area near the restaurant.",
-      "link": "https://www.npr.org/2026/08/02/nx-s1-5917121/idaho-fast-food-restaurant-shooting-3-dead",
-      "time": "Il y a 19h",
-      "pubDate": 1785657687.0
-    },
-    {
-      "id": "NPR-1762826496329079548",
-      "source": "NPR",
-      "title": "Trump says he's cancelling Iran strikes, deal pending",
-      "excerpt": "Trump said Iran and other Middle Eastern countries had asked the U.S. \"to hold off any attack\" on Iran because \"the perimeters of a deal has been agreed to.\"",
-      "link": "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending",
-      "time": "Il y a 20h",
-      "pubDate": 1785656067.0
-    },
-    {
-      "id": "The Guardian--4346200448162359233",
+      "id": "The Guardian-6587331595194097136",
       "source": "The Guardian",
       "title": "Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn",
       "excerpt": "Activists in the region say politicians regard LGBTQ+ people as ‘the easiest scapegoats to maintain their power’ A growing number of west African countries are implementing or strengthening anti-LGBTQ...",
       "link": "https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn",
-      "time": "Il y a 23h",
+      "time": "Il y a 1j",
       "pubDate": 1785643211.0
     },
     {
-      "id": "BBC News--3898367984719801091",
+      "id": "BBC News-542565295583441651",
       "source": "BBC News",
       "title": "Tourist plane crashes in Peru, killing 13",
       "excerpt": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
@@ -444,25 +468,7 @@
       "pubDate": 1785630595.0
     },
     {
-      "id": "BBC News-7286448093040656161",
-      "source": "BBC News",
-      "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
-      "excerpt": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
-      "link": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 1j",
-      "pubDate": 1785625415.0
-    },
-    {
-      "id": "NPR-370258680796959655",
-      "source": "NPR",
-      "title": "'Sopranos' actor Vincent Pastore, known for playing mobsters and tough guys, dead at 80",
-      "excerpt": "Vincent Pastore appeared in movies dating back to the 1980s and had roles in big movies including \"Goodfellas\" and \"Awakenings,\" both in 1990.",
-      "link": "https://www.npr.org/2026/08/01/nx-s1-5916418/vincent-pastore-sopranos-obit",
-      "time": "Il y a 1j",
-      "pubDate": 1785623564.0
-    },
-    {
-      "id": "The Guardian--8262748259569404657",
+      "id": "The Guardian-1985502291428442078",
       "source": "The Guardian",
       "title": "Tourist plane crashes during flight over Peru’s Nazca Lines, killing 13",
       "excerpt": "Aircraft crashes into field after departing from nearby city of Pisco, according to local authorities Police in Peru report that 13 people, among them foreign tourists, have been killed in a plane cra...",
@@ -471,7 +477,7 @@
       "pubDate": 1785623473.0
     },
     {
-      "id": "The Guardian--6669789751769152065",
+      "id": "The Guardian--7694311651776125809",
       "source": "The Guardian",
       "title": "EU to hold urgent meeting of interior ministers on Tuesday over Ceuta crisis",
       "excerpt": "Divisions remain in the bloc over mass crossing of migrants into Spanish territory in north Africa The EU is to hold an urgent meeting of interior ministers on Tuesday amid continued divisions in the...",
@@ -480,16 +486,7 @@
       "pubDate": 1785611019.0
     },
     {
-      "id": "BBC News--7339666549302662733",
-      "source": "BBC News",
-      "title": "Italy putting nearly all major cities on highest heat alert",
-      "excerpt": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be.",
-      "link": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 1j",
-      "pubDate": 1785606706.0
-    },
-    {
-      "id": "The Guardian--6442723592356791546",
+      "id": "The Guardian--1185494888519829",
       "source": "The Guardian",
       "title": "At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
       "excerpt": "Pedro Sánchez decries ‘violation of territorial integrity’ as other EU countries criticise Madrid over incident At least 57 people have died trying to reach the Spanish enclave of Ceuta after as many...",
@@ -498,7 +495,7 @@
       "pubDate": 1785520331.0
     },
     {
-      "id": "The Guardian--5020311576912932234",
+      "id": "The Guardian--3361702783733192533",
       "source": "The Guardian",
       "title": "HIV prevention drug could reduce cases globally but USAID cuts prevent access, say experts",
       "excerpt": "Injectable PrEP drug holds promise but investment in HIV prevention has declined dramatically worldwide <ul><li><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-e...",
@@ -507,7 +504,7 @@
       "pubDate": 1785515354.0
     },
     {
-      "id": "The Guardian--6960998988012315732",
+      "id": "The Guardian-2774344210175242656",
       "source": "The Guardian",
       "title": "Archbishop of Canterbury vows to support £100m pledge helping communities affected by enslavement",
       "excerpt": "During visit to Ghana, Sarah Mullally expresses regret and says controversial fund symbolises Christian belief in repentance At a former British castle where thousands of enslaved Africans were held b...",
@@ -516,7 +513,7 @@
       "pubDate": 1785497926.0
     },
     {
-      "id": "The Guardian-2771995437578084615",
+      "id": "The Guardian--1714823384598195326",
       "source": "The Guardian",
       "title": "Canadians spent $3.3bn less on travel to US in 2025 after Trump’s return to office",
       "excerpt": "Data shows Canadians have replaced US vacations with other international trips in apparent rebuke to Trump Canadians spent $3.3bn less on travel to the US in 2025 than in the previous year, as Donald...",
@@ -525,7 +522,7 @@
       "pubDate": 1785257165.0
     },
     {
-      "id": "The Guardian-6557687568621519467",
+      "id": "The Guardian-2494120920586326988",
       "source": "The Guardian",
       "title": "Past fires suggest effects of Europe and North America wildfires may linger for years",
       "excerpt": "Three years after Maui wildfires many still struggle with ‘biological, emotional and social consequences’, study says A spate of ferocious wildfires across North America and Europe, worsened by the cl...",
@@ -534,7 +531,7 @@
       "pubDate": 1785243604.0
     },
     {
-      "id": "The Guardian--512146141992761139",
+      "id": "The Guardian-7121651903668082023",
       "source": "The Guardian",
       "title": "Javier Milei accuses US Democrats of financing ‘anti-Argentina campaign’ at World Cup",
       "excerpt": "President also blames Brazil and Mexico and says online critics ‘do not want the ideas of freedom to succeed’ More than a week has passed since Ferran Torres scored the extra-time goal that gave Spain...",
@@ -543,5 +540,5 @@
       "pubDate": 1785234106.0
     }
   ],
-  "lastUpdate": "2026-08-03T03:50:18.379569"
+  "lastUpdate": "2026-08-03T06:48:03.757019"
 }
