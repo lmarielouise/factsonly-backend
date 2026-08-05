@@ -1,486 +1,501 @@
 {
   "francophone": [
     {
-      "id": "Le Monde-4989848706222963459",
-      "source": "Le Monde",
-      "title": "Le méga projet d’extension des capacités de l’aéroport Charles-de-Gaulle entre dans sa dernière ligne droite",
-      "excerpt": "L’Etat et le groupe ADP viennent de se mettre d’accord sur un grand plan d’investissement de 8,2 milliards d’euros qui permettrait à Roissy d’accueillir près de 90 millions de passagers par an. Un pro...",
-      "link": "https://www.lemonde.fr/economie/article/2026/08/05/le-mega-projet-d-extension-des-capacites-de-l-aeroport-charles-de-gaulle-entre-dans-sa-derniere-ligne-droite_6739355_3234.html",
-      "time": "Il y a 14 min",
-      "pubDate": 1785902434.0
+      "id": "Libération-8027527186669078666",
+      "source": "Libération",
+      "title": "Guerre en Ukraine : quinze personnes meurent dans des frappes russes",
+      "excerpt": "Plusieurs quartiers de Kyiv ont été touchés par des drones et des missiles balistiques lancés par l’armée russe, dans la nuit du 4 au 5 août.",
+      "link": "https://www.liberation.fr/international/europe/guerre-en-ukraine-quinze-personnes-meurent-dans-des-frappes-russes-20260805_NFRRGI4V45FX3ORWCDB3FONH7Y/",
+      "time": "Il y a 4 min",
+      "pubDate": 1785911823.0
     },
     {
-      "id": "Libération-2293466963874926657",
+      "id": "Libération-6547983820051939036",
+      "source": "Libération",
+      "title": "EN DIRECT - Incendies : après une nuit «calme», les pompiers de la Drôme s’attendent à une journée difficile",
+      "excerpt": "280 hectares ont brûlé dans le département, à quelques kilomètres de l’incendie massif qui avait brûlé près de Die pendant une bonne partie du mois de juillet.",
+      "link": "https://www.liberation.fr/environnement/en-direct-incendies-apres-une-nuit-calme-les-pompiers-de-la-drome-sattendent-a-une-journee-difficile-20260805_WJYUHXJDYNC2NIOHOPWQAEN5DQ/",
+      "time": "Il y a 14 min",
+      "pubDate": 1785911257.0
+    },
+    {
+      "id": "France Info-5046178557387133919",
+      "source": "France Info",
+      "title": "Une femme portée disparue en Haute-Savoie après avoir été emportée par une rivière à la suite d'un violent orage, des évacuations par hélicoptère",
+      "excerpt": "Une coulée de boue a également eu lieu dans le Cirque du Fer à Cheval, un gigantesque amphithéâtre naturel calcaire très prisé des randonneurs et des touristes.",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/une-femme-portee-disparue-en-haute-savoie-apres-avoir-ete-emportee-par-une-riviere-a-la-suite-d-un-violent-orage-des-evacuations-par-helicoptere_8135513.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 19 min",
+      "pubDate": 1785910971.0
+    },
+    {
+      "id": "France Info--5262673152969850460",
+      "source": "France Info",
+      "title": "Incendie dans le Var : les pompiers poursuivent la lutte contre les reprises de feu, une hausse des températures et du vent à prévoir",
+      "excerpt": "Quelque 1 200 pompiers sont toujours mobilisés près du massif du Gros Bessillon. La piste de départs de feu volontaires est \"sérieusement envisagée\" par le parquet de Draguignan.",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendie-dans-le-var-les-pompiers-poursuivent-la-lutte-contre-les-reprises-de-feu-hausse-des-temperatures-et-du-vent-a-prevoir_8135408.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 33 min",
+      "pubDate": 1785910120.0
+    },
+    {
+      "id": "France Info--3472487371692958140",
+      "source": "France Info",
+      "title": "Guerre en Ukraine : au moins 15 morts et 27 blessés dans des bombardements russes sur la région de Kiev",
+      "excerpt": "La région de la capitale ukrainienne a été la cible d'\"une attaque massive de drones et de missiles balistiques\" russes, selon les services d'urgence ukrainiens.",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-au-moins-15-morts-et-27-blesses-dans-des-bombardements-russes-sur-la-region-de-kiev_8135441.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 40 min",
+      "pubDate": 1785909665.0,
+      "sources": [
+        "France Info",
+        "Le Monde"
+      ],
+      "multiSource": true,
+      "sourceCount": 2
+    },
+    {
+      "id": "Le Monde-5184503009793821175",
+      "source": "Le Monde",
+      "title": "Tour de France Femmes 2026 : le parcours de la cinquième étape (Mâcon - Belleville-en-Beaujolais)",
+      "excerpt": "Avec 2 850 mètres de dénivelé et huit difficultés répertoriées au fil des 140 kilomètres de course, cette étape accidentée devrait être particulièrement animée, mercredi, à mi-parcours de la cinquième...",
+      "link": "https://www.lemonde.fr/sport/article/2026/08/05/tour-de-france-femmes-2026-le-parcours-de-la-cinquieme-etape-macon-belleville-en-beaujolais_6739395_3242.html",
+      "time": "Il y a 41 min",
+      "pubDate": 1785909604.0
+    },
+    {
+      "id": "Libération-6951108656491626826",
+      "source": "Libération",
+      "title": "Face à la ménopause, «vive la testostérone» ? Ce que dit la médecine de l’hormone vantée par de plus en plus de femmes",
+      "excerpt": "Aux Etats-Unis ou au Royaume-Uni, les traitements hormonaux masculins sont délivrés à des femmes cisgenres pour leurs bienfaits supposés sur le moral, l’insomnie ou les bouffées de chaleur. Pourtant,...",
+      "link": "https://www.liberation.fr/societe/sante/face-a-la-menopause-vive-la-testosterone-ce-que-dit-la-medecine-de-lhormone-vantee-par-de-plus-en-plus-de-femmes-20260805_7LJTX3TWURDP7AYC3C3AK56SDU/",
+      "time": "Il y a 57 min",
+      "pubDate": 1785908700.0
+    },
+    {
+      "id": "Libération-3841043735453818880",
+      "source": "Libération",
+      "title": "Kodak, un design qui annonce la couleur",
+      "excerpt": "Retour sur l’origine et le succès de logos mondialement connus. Dans ce troisième épisode, la signalétique «K» de l’entreprise américaine, devenu le décor de nos souvenirs.",
+      "link": "https://www.liberation.fr/lifestyle/design/kodak-un-design-qui-annonce-la-couleur-20260805_HGYZCPREWVCFDMQIGDEMKLROF4/",
+      "time": "Il y a 1h",
+      "pubDate": 1785907560.0
+    },
+    {
+      "id": "Libération-2827440751204851108",
+      "source": "Libération",
+      "title": "Le nouveau coup de main d’Elon Musk aux influenceurs d’extrême droite français",
+      "excerpt": "Interpellé par une militante identitaire française, Elon Musk est intervenu samedi pour réactiver des comptes d’extrême droite suspendus sur X. Si l’épisode n’est pas une première, il pose la question...",
+      "link": "https://www.liberation.fr/politique/le-nouveau-coup-de-main-delon-musk-aux-influenceurs-dextreme-droite-francais-20260805_UJXOL7CMGREWXKCBKTRMWHQVW4/",
+      "time": "Il y a 1h",
+      "pubDate": 1785907200.0
+    },
+    {
+      "id": "Libération-3612960686191006322",
+      "source": "Libération",
+      "title": "Comment «l’arc républicain» pave la voie de Marine Le Pen au pouvoir, par Michel Feher",
+      "excerpt": "Politique migratoire, retour des pesticides, présomption de légitime défense des policiers… La droite et le macronisme font tout pour que nul ne constate de changement notable entre la fin de la manda...",
+      "link": "https://www.liberation.fr/idees-et-debats/tribunes/comment-larc-republicain-pave-la-voie-de-marine-le-pen-au-pouvoir-par-michel-feher-20260805_V3YQ55MFKVBIJHOU4M2SMDNBLM/",
+      "time": "Il y a 1h",
+      "pubDate": 1785906000.0
+    },
+    {
+      "id": "Libération--8646232729409349517",
+      "source": "Libération",
+      "title": "Coco Chanel et Elsa Schiaparelli, mépris de grande classe",
+      "excerpt": "Figures majeures de la haute couture, les deux femmes fréquentaient les mêmes cercles mais ne cachaient pas leur inimitié. Récit d’une rivalité qui révèle deux façons presque opposées de penser la mod...",
+      "link": "https://www.liberation.fr/plus/speciaux-cahier-ete/coco-chanel-et-elsa-schiaparelli-mepris-de-grande-classe-20260805_YTOYLIWJ6JGU3K7AZTC4UO3O4Q/",
+      "time": "Il y a 1h",
+      "pubDate": 1785906000.0
+    },
+    {
+      "id": "Le Monde--100604183978021379",
+      "source": "Le Monde",
+      "title": "Moyen-Orient : les négociations s’accélèrent autour d’une réouverture du détroit d’Ormuz",
+      "excerpt": "Selon des sources régionales citées par le média « Axios », un accord temporaire, qui pourrait être annoncé mercredi 5 août, est en discussion pour sécuriser le passage maritime, sans imposer de péage...",
+      "link": "https://www.lemonde.fr/international/article/2026/08/05/moyen-orient-les-negociations-s-accelerent-autour-d-une-reouverture-du-detroit-d-ormuz_6739360_3210.html",
+      "time": "Il y a 1h",
+      "pubDate": 1785905391.0
+    },
+    {
+      "id": "France Info-5235384315144883504",
+      "source": "France Info",
+      "title": "Guerre au Moyen-Orient : soit le détroit d'Ormuz ouvre \"très bientôt\", soit l'Iran \"sera frappé très fort\", avertit Donald Trump",
+      "excerpt": "\"Il y a une chance que nous parvenions\" à un accord entre Washington et Téhéran ce mercredi, a déclaré le ministre des Finances américain Scott Bessent.",
+      "link": "https://www.franceinfo.fr/monde/iran/direct-guerre-au-moyen-orient-soit-le-detroit-d-ormuz-ouvre-tres-bientot-soit-l-iran-sera-frappe-tres-fort-avertit-donald-trump_8135411.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1785905120.0
+    },
+    {
+      "id": "Libération-777024984433984674",
+      "source": "Libération",
+      "title": "Détention des médecins palestiniens par Israël : quand soigner devient un crime",
+      "excerpt": "Arrêté en 2024, le pédiatre Hussam Abu Safiya fait partie de la centaine de docteurs gazaouis détenus dans les geôles israéliennes. S’ils sont ciblés, c’est parce que chaque patient qu’ils ramènent à...",
+      "link": "https://www.liberation.fr/idees-et-debats/tribunes/detention-des-medecins-palestiniens-par-israel-quand-soigner-devient-un-crime-20260805_WMKBJMDAYRGKLD5ZKQTMCNXYXA/",
+      "time": "Il y a 2h",
+      "pubDate": 1785904320.0
+    },
+    {
+      "id": "Libération--957201648852715437",
+      "source": "Libération",
+      "title": "Imax 70 mm : avec «l’Odyssée», Nolan invente le blockbuster de niche",
+      "excerpt": "La promotion par Christopher Nolan du format ultra-rare des projections pellicule 70 mm semble être une stratégie efficace pour galvaniser le public autour de l’expérience démesurée en salle, prolonge...",
+      "link": "https://www.liberation.fr/culture/cinema/imax-70-avec-lodyssee-nolan-invente-le-blockbuster-de-niche-20260805_GA7ZTZKRFVDWZG5U24NXWDMYQI/",
+      "time": "Il y a 2h",
+      "pubDate": 1785903600.0
+    },
+    {
+      "id": "France Info-2405868215687873731",
+      "source": "France Info",
+      "title": "Mehdi Laribi, présenté comme l'un des fondateurs de la DZ Mafia, a été arrêté en Algérie fin juillet",
+      "excerpt": "Considéré comme l'un des cinq ou six membres fondateurs du groupe criminel, Mehdi Laribi a été placé sous contrôle judiciaire.",
+      "link": "https://www.franceinfo.fr/societe/drogue/info-franceinfo-mehdi-laribi-presente-comme-l-un-des-fondateurs-de-la-dz-mafia-arrete-en-algerie-il-y-a-quelques-jours_8135381.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 2h",
+      "pubDate": 1785903423.0
+    },
+    {
+      "id": "France Info-1417389146172061476",
+      "source": "France Info",
+      "title": "Promotion refusée, sections féminines fermées... Pourquoi certains clubs de foot féminin désertent le monde professionnel ?",
+      "excerpt": "Le 6 septembre, la Seconde Ligue reprendra ses droits avec 11 équipes au lieu de 12. Pour des raisons principalement économiques, plusieurs clubs ont décidé de ne pas participer à ce championnat profe...",
+      "link": "https://www.franceinfo.fr/sports/foot/promotion-refusee-sections-feminines-fermees-pourquoi-certains-clubs-de-foot-feminin-desertent-le-monde-professionnel_8119721.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 2h",
+      "pubDate": 1785903302.0
+    },
+    {
+      "id": "France Info-2520759732158984082",
+      "source": "France Info",
+      "title": "Encore dix départements de l'est en vigilance orange canicule, après la sortie de l'Ain, la Savoie et la Haute-Savoie",
+      "excerpt": "Les très fortes chaleurs ne devraient bientôt plus concerner \"que les régions méditerranéennes\", selon Météo-France.",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/encore-dix-departements-de-l-est-en-vigilance-orange-canicule-apres-la-sortie-de-l-ain-la-savoie-et-la-haute-savoie_8135378.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 2h",
+      "pubDate": 1785903297.0
+    },
+    {
+      "id": "Le Monde-7499682179351377232",
+      "source": "Le Monde",
+      "title": "Le mégaprojet d’extension des capacités de l’aéroport Charles-de-Gaulle entre dans sa dernière ligne droite",
+      "excerpt": "L’Etat et le Groupe ADP viennent de se mettre d’accord sur un grand plan d’investissement de 8,2 milliards d’euros qui permettrait à Roissy d’accueillir près de 90 millions de passagers par an. Un pro...",
+      "link": "https://www.lemonde.fr/economie/article/2026/08/05/le-mega-projet-d-extension-des-capacites-de-l-aeroport-charles-de-gaulle-entre-dans-sa-derniere-ligne-droite_6739355_3234.html",
+      "time": "Il y a 2h",
+      "pubDate": 1785902413.0
+    },
+    {
+      "id": "Le Monde-5674863630283324018",
+      "source": "Le Monde",
+      "title": "Crédit immobilier : comment profiter de taux encore attractifs pour acheter son logement",
+      "excerpt": "La rentrée sera probablement mois favorable pour ceux qui doivent emprunter, mais il est encore possible d’obtenir des conditions relativement intéressantes.",
+      "link": "https://www.lemonde.fr/argent/article/2026/08/05/credit-immobilier-comment-profiter-de-taux-encore-attractifs-pour-acheter-son-logement_6739352_1657007.html",
+      "time": "Il y a 2h",
+      "pubDate": 1785902413.0
+    },
+    {
+      "id": "Libération--1095763535057642442",
       "source": "Libération",
       "title": "Quiz : quand les vacances présidentielles prennent l’eau",
       "excerpt": "(16/30) Du fort de Brégançon aux virées moins officielles, partez en vacances avec nos présidents.",
       "link": "https://www.liberation.fr/plus/speciaux-cahier-ete/quiz-quand-les-vacances-presidentielles-prennent-leau-20260805_YWFQZGBHYND6LFDOEQOYFQ3ME4/",
-      "time": "Il y a 15 min",
+      "time": "Il y a 2h",
       "pubDate": 1785902401.0
     },
     {
-      "id": "Le Monde-3635984928092708035",
-      "source": "Le Monde",
-      "title": "SpaceX double quasiment son chiffre d’affaires, sans enrayer la chute de son titre récemment introduit en Bourse",
-      "excerpt": "Les pertes du groupe d’Elon Musk inquiètent les marchés malgré des revenus en forte hausse, portés par Starlink et l’intelligence artificielle. Le développement de cette dernière branche exige des inv...",
-      "link": "https://www.lemonde.fr/economie/article/2026/08/05/spacex-double-quasiment-son-chiffre-d-affaires-sans-enrayer-la-chute-de-son-titre-recemment-introduit-en-bourse_6739349_3234.html",
-      "time": "Il y a 16 min",
-      "pubDate": 1785902309.0
-    },
-    {
-      "id": "France Info-3272753316017485807",
-      "source": "France Info",
-      "title": "Comment la hausse des prix des carburants a fait exploser les bénéfices des grands groupes pétroliers",
-      "excerpt": "Les géants du pétrole affichent des bénéfices records alors que les tensions géopolitiques font grimper les cours du brut.",
-      "link": "https://www.franceinfo.fr/economie/automobile/essence/comment-la-hausse-des-prix-des-carburants-a-fait-exploser-les-benefices-des-grands-groupes-petroliers_8134121.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 17 min",
-      "pubDate": 1785902281.0
-    },
-    {
-      "id": "France Info-5200586307659093948",
-      "source": "France Info",
-      "title": "\"Un décor sorti d'un film d'horreur\" : au Royaume-Uni, un directeur de pompes funèbres lourdement condamné pour avoir conservé des corps dans des \"conditions épouvantables\"",
-      "excerpt": "Robert Bush, reconnu coupable d'avoir conservé des corps en décomposition au lieu de les incinérer et d'avoir remis à des familles des cendres d'inconnus, a écopé de vingt ans de prison.",
-      "link": "https://www.franceinfo.fr/monde/royaume-uni/un-decor-sorti-d-un-film-d-horreur-au-royaume-uni-un-directeur-de-pompes-funebres-lourdement-condamne-pour-avoir-conserve-des-corps-dans-des-conditions-epouvantables_8133107.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 17 min",
-      "pubDate": 1785902252.0
-    },
-    {
-      "id": "France Info-5233510950995808067",
+      "id": "France Info-7383705301366315503",
       "source": "France Info",
       "title": "Vous ne voulez pas louper l'éclipse solaire du 12 août ? On répond à sept questions pas si bêtes sur les lunettes de protection",
       "excerpt": "Pour regarder ce phénomène exceptionnel, veillez à utiliser des protections portant le marquage CE et respectant la norme internationale ISO 12312-2. \"Même avec des équipements adaptés, il est conseil...",
       "link": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/vous-ne-voulez-pas-louper-l-eclipse-solaire-du-12-aout-on-repond-a-sept-questions-pas-si-betes-sur-les-lunettes-de-protection_8129738.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 18 min",
+      "time": "Il y a 2h",
       "pubDate": 1785902218.0
     },
     {
-      "id": "France Info--6955405541209425987",
+      "id": "France Info--8562242048581516325",
       "source": "France Info",
       "title": "De \"La Pat' Patrouille - Mission dino\" à \"La Fin d'Oak Street\", le film de dinosaures est loin d'être menacé d'extinction",
       "excerpt": "Alors que l'intérêt du public ne se dément pas pour les films mettant en scène des T. rex et autres stégosaures, le genre peine à se renouveler après le carton des \"Jurassic Park\". Mais un alignement...",
       "link": "https://www.franceinfo.fr/culture/cinema/de-la-pat-patrouille-mission-dino-a-la-fin-d-oak-street-le-film-de-dinosaures-est-loin-d-etre-menace-d-extinction_8128655.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 19 min",
+      "time": "Il y a 2h",
       "pubDate": 1785902180.0
     },
     {
-      "id": "Le Monde--4002566046981465712",
+      "id": "Le Monde--9008898478069092434",
       "source": "Le Monde",
-      "title": "EN DIRECT, guerre en Ukraine : des bombardements sur Kiev et sa région font au moins deux morts",
-      "excerpt": "Les autorités locales ont annoncé la mort de deux personnes, dans la nuit de mardi à mercredi, suite à une nouvelle offensive russe visant la capitale ukrainienne et ses environs. En Russie, l’oblast...",
-      "link": "https://www.lemonde.fr/international/live/2026/08/05/en-direct-guerre-en-ukraine-des-bombardements-sur-kiev-et-sa-region-font-au-moins-deux-morts_6737250_3210.html",
-      "time": "Il y a 42 min",
-      "pubDate": 1785900795.0
-    },
-    {
-      "id": "Le Monde--3502709784573635507",
-      "source": "Le Monde",
-      "title": "Records de sécheresse et de chaleur en juillet : « La question de l’eau devient absolument critique »",
+      "title": "Sécheresse et températures inédites en juillet : « La question de l’eau devient absolument critique »",
       "excerpt": "Avec une température moyenne de 24,9 °C sur l’ensemble du territoire, juillet 2026 est le mois le plus chaud jamais enregistré en France hexagonale depuis le début des mesures à l’entame du XXᵉ siècle...",
       "link": "https://www.lemonde.fr/planete/article/2026/08/05/records-de-secheresse-et-de-chaleur-en-juillet-la-question-de-l-eau-devient-absolument-critique_6739248_3244.html",
-      "time": "Il y a 1h",
-      "pubDate": 1785899710.0
+      "time": "Il y a 3h",
+      "pubDate": 1785899707.0
     },
     {
-      "id": "Libération-1275154329930271548",
-      "source": "Libération",
-      "title": "«Kyma, l’onde mystérieuse» de Romain Daudet-Jahan : le club des trois",
-      "excerpt": "Dans un récit de science-fiction rurale ouvertement inspiré de Spielberg, le français Romain Daudet-Jahan signe un premier film un brin frileux mais terriblement sympathique.",
-      "link": "https://www.liberation.fr/culture/cinema/kyma-londe-mysterieuse-de-romain-daudet-jahan-le-club-des-trois-20260805_57A65MAMENAPZDGQA53XKTIU4I/",
-      "time": "Il y a 1h",
-      "pubDate": 1785898980.0
-    },
-    {
-      "id": "Le Monde-822813502793684928",
+      "id": "Le Monde--6007145452479039030",
       "source": "Le Monde",
       "title": "Le blanchiment d’argent menace de « diluer la distinction entre économie légale et économie illégale », selon un rapport de la police judiciaire",
       "excerpt": "Le document confidentiel, que « Le Monde » a pu consulter, alerte sur les menées de groupes criminels hautement spécialisés, souples, résilients et particulièrement efficaces.",
       "link": "https://www.lemonde.fr/societe/article/2026/08/05/le-blanchiment-d-argent-menace-de-diluer-la-distinction-entre-economie-legale-et-economie-illegale-selon-un-rapport-de-la-police-judiciaire_6739214_3224.html",
-      "time": "Il y a 1h",
-      "pubDate": 1785898809.0
+      "time": "Il y a 3h",
+      "pubDate": 1785898804.0
     },
     {
-      "id": "Le Monde-5074184004101542267",
+      "id": "Le Monde--9107049452588567807",
       "source": "Le Monde",
       "title": "Les films à l’affiche : « Girl », « Les Silences de Riyad », « Cotton Queen », « Enamorada »…",
       "excerpt": "Chaque mercredi, dans La Matinale, les journalistes cinéma du « Monde » livrent leurs critiques des films à découvrir en salle. Aujourd’hui, notamment, la condition féminine derrière la caméra de Shu...",
       "link": "https://www.lemonde.fr/cinema/article/2026/08/05/les-films-a-l-affiche-girl-les-silences-de-riyad-cotton-queen-enamorada_6739181_3476.html",
-      "time": "Il y a 1h",
+      "time": "Il y a 4h",
       "pubDate": 1785897012.0
     },
     {
-      "id": "Le Monde-4823458934007883201",
+      "id": "Le Monde--19643295466813856",
       "source": "Le Monde",
       "title": "Un homme armé arrêté dans un golf de Donald Trump en Californie, deux jours avant une visite du président sur place",
       "excerpt": "L’individu de 38 ans au comportement jugé suspect a été interpellé, dimanche 2 août, par les services du shérif du comté de Los Angeles. Un pistolet chargé ainsi que des munitions ont été retrouvés da...",
       "link": "https://www.lemonde.fr/international/article/2026/08/05/un-homme-arme-arrete-dans-un-golf-de-donald-trump-en-californie-deux-jours-avant-une-visite-du-president-sur-place-mardi_6739114_3210.html",
-      "time": "Il y a 2h",
+      "time": "Il y a 5h",
       "pubDate": 1785892612.0
     },
     {
-      "id": "Le Monde-7478216207101973508",
+      "id": "Le Monde--1588805671738183148",
       "source": "Le Monde",
-      "title": "Un étage d’une fusée de SpaceX va s’écraser sur la Lune à plus de 8 500 km/h, mercredi matin",
-      "excerpt": "Conséquence d’un changement de trajectoire inattendu, la collision laissera un cratère à la surface lunaire. La NASA assure que l’impact sera sans danger pour la Terre.",
+      "title": "Un étage d’une fusée de SpaceX va s’écraser sur la Lune à plus de 8 500 kilomètres à l’heure, mercredi matin",
+      "excerpt": "Conséquence d’un changement de trajectoire inattendu, la collision laissera un cratère sur la surface lunaire. La NASA assure que l’impact sera sans danger pour la Terre.",
       "link": "https://www.lemonde.fr/sciences/article/2026/08/05/un-etage-d-une-fusee-de-spacex-va-s-ecraser-sur-la-lune-a-plus-de-8-500-km-h-mercredi-matin_6739081_1650684.html",
-      "time": "Il y a 3h",
+      "time": "Il y a 6h",
       "pubDate": 1785890003.0
     },
     {
-      "id": "Le Monde--5729565547464241319",
-      "source": "Le Monde",
-      "title": "Le PDG de Paramount, David Ellison, défend le rachat de Warner Bros en assurant préserver « l’indépendance » et en écartant toute « domination » du marché",
-      "excerpt": "Cette acquisition majeure suscite de nombreuses critiques et des recours judiciaires. Outre les studios de cinéma et les services de streaming, elle mettra sous le même toit deux des principales chaîn...",
-      "link": "https://www.lemonde.fr/international/article/2026/08/05/le-pdg-de-paramount-david-ellison-defend-le-rachat-de-warner-bros-en-assurant-preserver-l-independance-et-en-ecartant-toute-domination-du-marche_6739015_3210.html",
-      "time": "Il y a 4h",
-      "pubDate": 1785886542.0
-    },
-    {
-      "id": "France Info-326454557175091094",
+      "id": "France Info--7836428354502699368",
       "source": "France Info",
       "title": "L'étage supérieur d'une fusée de SpaceX va s'écraser ce mercredi sur la Lune, et y laissera un cratère",
       "excerpt": "L'événement sera scruté par les scientifiques, afin de mesurer les risques induits par les débris spatiaux.",
       "link": "https://www.franceinfo.fr/sciences/espace/l-etage-superieur-d-une-fusee-de-spacex-va-s-ecraser-ce-mercredi-sur-la-lune-et-y-laissera-un-cratere_8135024.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 5h",
+      "time": "Il y a 7h",
       "pubDate": 1785885093.0
-    },
-    {
-      "id": "France Info-8180492601853971650",
-      "source": "France Info",
-      "title": "\"Des clichés pour l'histoire\" : quand les pompiers photographient leurs interventions contre les incendies",
-      "excerpt": "Au cœur des incendies de Gironde, les pompiers diffusent des images qui racontent leur combat contre les flammes. Un photographe est chargé d'immortaliser ces efforts, dans un devoir de mémoire.",
-      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/c-est-un-peu-des-cliches-pour-l-histoire-quand-les-pompiers-photographient-leurs-interventions-contre-les-incendies_8134919.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 8h",
-      "pubDate": 1785873227.0
-    },
-    {
-      "id": "Le Monde-5492877817965492512",
-      "source": "Le Monde",
-      "title": "Crise de Ceuta : le Maroc appelle l’Union européenne à ne pas « handicaper » son développement",
-      "excerpt": "Le ministère de l’intérieur marocain et celui des affaires étrangères ont pris la parole, dimanche et lundi, rejetant la responsabilité de la crise migratoire sur le gouvernement de Pedro Sanchez.",
-      "link": "https://www.lemonde.fr/afrique/article/2026/08/04/crise-de-ceuta-le-maroc-appelle-l-union-europeenne-a-ne-pas-handicaper-son-developpement_6738916_3212.html",
-      "time": "Il y a 8h",
-      "pubDate": 1785871811.0
-    },
-    {
-      "id": "France Info--220665549624567128",
-      "source": "France Info",
-      "title": "En Ukraine, une vidéo diffusée par les autorités montre un homme pris en chasse par un drone à Kherson",
-      "excerpt": "A Kherson, un drone russe a traqué un civil ukrainien sur un marché, une scène de chasse à l'homme filmée par la police. Ce vendeur de légumes de 52 ans, qui a survécu à l'explosion de l'appareil, tém...",
-      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ukraine-un-civil-pris-en-chasse-par-un-drone-russe_8134901.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 8h",
-      "pubDate": 1785871569.0
-    },
-    {
-      "id": "Libération--5650932343365162938",
-      "source": "Libération",
-      "title": "A Gaza, une trêve de façade rythmée par les frappes israéliennes",
-      "excerpt": "La feuille de route du Conseil de la paix, présidé par Donald Trump, a été rejetée par le gouvernement Nétanyahou, qui a intensifié les bombardements sur l’enclave depuis le début du mois d’août.",
-      "link": "https://www.liberation.fr/international/moyen-orient/a-gaza-une-treve-de-facade-rythmee-par-les-frappes-israeliennes-20260804_P6S4XYWJTZEK7E5D2NUF74HU6U/",
-      "time": "Il y a 8h",
-      "pubDate": 1785871500.0
-    },
-    {
-      "id": "Libération-863736150703416925",
-      "source": "Libération",
-      "title": "Les hôtesses et stewards d’EasyJet déposent un large préavis de grève du 7 août au 2 septembre",
-      "excerpt": "Les syndicats, qui dénoncent notamment «l’instabilité chronique des plannings», et «l’absence totale de mesures protectrices» de la part de leur direction, précisent que les jours de mobilisation sero...",
-      "link": "https://www.liberation.fr/economie/social/les-hotesses-et-stewards-deasyjet-deposent-un-large-preavis-de-greve-du-7-aout-au-2-septembre-20260804_K4AMWS75CREFLCDAXLTVCDHGWE/",
-      "time": "Il y a 8h",
-      "pubDate": 1785871129.0
-    },
-    {
-      "id": "Libération-8796103727206761468",
-      "source": "Libération",
-      "title": "Marseille : un jeune garçon de deux ans retrouvé mort dans un appartement, ses proches en garde à vue",
-      "excerpt": "La mère de 35 ans, son conjoint de 18 ans et une adolescente ont été placés en garde à vue, après la macabre découverte, dimanche 2 août, dans le XIVe arrondissement de la ville. Les circonstances de...",
-      "link": "https://www.liberation.fr/societe/police-justice/marseille-un-jeune-garcon-de-deux-ans-retrouve-mort-dans-un-appartement-ses-proches-en-garde-a-vue-20260804_XCD4BPSNUBFJRE4IAHJWI6IYQA/",
-      "time": "Il y a 9h",
-      "pubDate": 1785870608.0
-    },
-    {
-      "id": "Libération-705798152920185536",
-      "source": "Libération",
-      "title": "A Besançon, le musée de la Résistance et de la Déportation face à une recrudescence de saluts nazis",
-      "excerpt": "Deux personnes ont été interpellées et placées en garde à vue, lundi 3 août, après avoir tendu leur bras devant un drapeau du IIIe Reich exposé dans l’établissement. Selon la direction, ces actes font...",
-      "link": "https://www.liberation.fr/politique/a-besancon-le-musee-de-la-resistance-et-de-la-deportation-face-a-une-recrudescence-de-saluts-nazis-20260804_5EGPDB4IHBFDDEDHDVUHXUY2FI/",
-      "time": "Il y a 9h",
-      "pubDate": 1785869825.0
-    },
-    {
-      "id": "Libération-9128625875759150673",
-      "source": "Libération",
-      "title": "Gianni Infantino, de plus en plus isolé à la tête de la Fifa",
-      "excerpt": "De son numéro 2 à Arsène Wenger, des voix s’élèvent pour prendre leurs distances avec le président de la Fédération internationale  de foot et son projet d’ouverture aux investisseurs privés. De quoi...",
-      "link": "https://www.liberation.fr/sports/football/gianni-infantino-de-plus-en-plus-isole-a-la-tete-de-la-fifa-20260804_C5ZVWD3ZHJFWTOF66MR3EBNRQE/",
-      "time": "Il y a 9h",
-      "pubDate": 1785869797.0
-    },
-    {
-      "id": "Libération-2579261175629711083",
-      "source": "Libération",
-      "title": "Présidentielle 2027 : cet été, Gabriel Attal passe son rattrapage",
-      "excerpt": "Pour combler son retard sur Edouard Philippe, son grand concurrent du centre droit, l’ex-Premier ministre profite de l’espace médiatique laisser libre par la plupart des présidentiables pour écumer la...",
-      "link": "https://www.liberation.fr/politique/elections/presidentielle-2027-cet-ete-gabriel-attal-passe-son-rattrapage-20260804_X2QVXTXTZVF3JLZJCZSLQUETCA/",
-      "time": "Il y a 9h",
-      "pubDate": 1785869400.0
-    },
-    {
-      "id": "Libération-3882504136558393278",
-      "source": "Libération",
-      "title": "Crise de Ceuta : «Il y a effectivement eu une vague de désinformation»",
-      "excerpt": "Après le drame migratoire dans l’enclave espagnole, la juriste Chloé Peyronnet rappelle que l’UE dispose déjà de nombreux outils pour gérer les crises, au prix d’une externalisation croissante du cont...",
-      "link": "https://www.liberation.fr/international/afrique/crise-de-ceuta-il-y-a-effectivement-eu-une-vague-de-desinformation-20260804_DGXXABMNOBBLXDJOVTREAMBDS4/",
-      "time": "Il y a 9h",
-      "pubDate": 1785868846.0
-    },
-    {
-      "id": "Libération-9096303521227693456",
-      "source": "Libération",
-      "title": "Incendies : 280 hectares brûlés dans la Drôme, météo défavorable mercredi",
-      "excerpt": "L’incendie avait repris vendredi 31 juillet au sud de l’important brasier fixé quelques jours plus tôt près du massif du Gros Bessillon. Ce mardi, plus de 1 000 pompiers tentaient toujours d’éteindre...",
-      "link": "https://www.liberation.fr/environnement/en-direct-incendies-dans-le-var-rien-ne-peut-etre-considere-comme-acquis-20260804_SMEV5QSCB5GB5IJEYA7MKN77PI/",
-      "time": "Il y a 9h",
-      "pubDate": 1785868319.0
-    },
-    {
-      "id": "France Info--8606836243217757284",
-      "source": "France Info",
-      "title": "Le Guatemala déclenche l'alerte maximale après l'éruption du volcan Fuego, à une trentaine de kilomètres de la capitale",
-      "excerpt": "Considéré comme l'un des plus actifs d'Amérique centrale, le Fuego est entré en phase éruptive lundi matin et son activité s'est amplifiée au cours de la nuit.",
-      "link": "https://www.franceinfo.fr/monde/ameriques/le-guatemala-declenche-l-alerte-maximale-apres-l-eruption-du-volcan-fuego-a-une-trentaine-de-kilometres-de-la-capitale_8134859.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 10h",
-      "pubDate": 1785866221.0
-    },
-    {
-      "id": "France Info-6432271592246847322",
-      "source": "France Info",
-      "title": "Un appel à la grève a été lancé chez Quantic Dream, éditeur français de jeux vidéo en difficulté",
-      "excerpt": "Le Syndicat des travailleureuses du jeu vidéo a lancé un appel à la mobilisation, redoutant le licenciement d'une centaine de personnes.",
-      "link": "https://www.franceinfo.fr/culture/jeux-video/un-appel-a-la-greve-a-ete-lance-chez-quantic-dream-editeur-francais-de-jeux-video-en-difficulte_8134841.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 10h",
-      "pubDate": 1785864720.0
-    },
-    {
-      "id": "France Info-6464356254366381640",
-      "source": "France Info",
-      "title": "Températures records, absence de pluie, incendies... Six chiffres à retenir du mois de juillet 2026, le plus chaud et l'un des plus secs jamais enregistrés en France",
-      "excerpt": "Sur l'ensemble du pays, un \"soleil accablant\" a régné, selon le bilan climatique publié mardi par Météo-France.",
-      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/temperatures-elevees-absence-de-pluie-incendies-six-chiffres-a-retenir-du-mois-de-juillet-2026-le-plus-chaud-et-l-un-des-plus-secs-jamais-enregistres-en-france_8134268.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 15h",
-      "pubDate": 1785847988.0
     }
   ],
   "anglophone": [
     {
-      "id": "NPR--2811874117970276939",
+      "id": "The Guardian-7025140553435860030",
+      "source": "The Guardian",
+      "title": "Wednesday briefing: ​How misinformation and ​a​ hardened immigration policy ​turned Ceuta ​into Europe’s ​latest ​flashpoint",
+      "excerpt": "In today’s newsletter: The past week shows how quickly images, rumours and ​right-wing political opportunism can eclipse the facts on the ground Good morning. Last week, an estimated 72,000 migrants b...",
+      "link": "https://www.theguardian.com/world/2026/aug/05/wednesday-briefing-how-misinformation-and-a-hardened-immigration-policy-turned-ceuta-into-europes-latest-flashpoint",
+      "time": "Il y a 47 min",
+      "pubDate": 1785909294.0
+    },
+    {
+      "id": "BBC News-6889830643056694850",
+      "source": "BBC News",
+      "title": "Russian ballistic missile strike on Kyiv kills at least 14, officials say",
+      "excerpt": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" the region around the city.",
+      "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 1h",
+      "pubDate": 1785906523.0
+    },
+    {
+      "id": "The Guardian--34555292325564153",
+      "source": "The Guardian",
+      "title": "Hundreds in Morocco gather near Ceuta border in anxious wait for missing loved ones",
+      "excerpt": "People hope to see friends or relatives among those still returning as death toll from mass crossing nears 100 Hundreds of people have gathered in the northern Moroccan town of Fnideq, near the border...",
+      "link": "https://www.theguardian.com/world/2026/aug/05/hundreds-in-morocco-gather-near-ceuta-border-in-anxious-wait-for-missing-loved-ones",
+      "time": "Il y a 2h",
+      "pubDate": 1785902408.0
+    },
+    {
+      "id": "NPR--8108004989929666579",
       "source": "NPR",
       "title": "MLS named LAFC co-owner Larry Berg as its next commissioner. Here's what to know",
       "excerpt": "For their commissioner of the future, MLS owners chose a soccer native. Berg's team is seen as one of MLS's best-run franchises, and he has embraced rule changes designed to modernize the league.",
       "link": "https://www.npr.org/2026/08/05/nx-s1-5919621/mls-commissioner-larry-berg-major-league-soccer",
-      "time": "Il y a 15 min",
+      "time": "Il y a 2h",
       "pubDate": 1785902400.0
     },
     {
-      "id": "BBC News--5346230499938730589",
+      "id": "BBC News--8392466497086038534",
       "source": "BBC News",
       "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
       "excerpt": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
       "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 30 min",
+      "time": "Il y a 2h",
       "pubDate": 1785901470.0
     },
     {
-      "id": "BBC News-4875815802036777379",
-      "source": "BBC News",
-      "title": "Russian ballistic missile strike on Kyiv kills two and injures others, officials say",
-      "excerpt": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" and has hit residential buildings.",
-      "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 37 min",
-      "pubDate": 1785901070.0
-    },
-    {
-      "id": "The Guardian--246337022160340344",
+      "id": "The Guardian-6782267194086880421",
       "source": "The Guardian",
       "title": "US revokes Brazil ambassador’s visa in escalation of diplomatic feud",
       "excerpt": "Move is retaliation for Lula’s government refusal to approve Trump’s nominee for ambassador in Brasília Donald Trump’s administration has <a href=\"https://www.reuters.com/world/americas/us-revokes-vis...",
       "link": "https://www.theguardian.com/us-news/2026/aug/04/us-revokes-brazil-ambassador-visa",
-      "time": "Il y a 2h",
+      "time": "Il y a 5h",
       "pubDate": 1785894067.0
     },
     {
-      "id": "NPR--4625675484120063556",
+      "id": "NPR--4278105877664697662",
       "source": "NPR",
       "title": "Authorities arrested a man with ammo and apparently monitoring security at Trump golf course near LA",
       "excerpt": "The Los Angeles County Sheriff's Department said Jeanine John Taele, 38, was taking photos and video and had a 16-round magazine with ammunition in his pocket.",
       "link": "https://www.npr.org/2026/08/04/g-s1-137415/trump-golf-course-arrest-california",
-      "time": "Il y a 3h",
+      "time": "Il y a 6h",
       "pubDate": 1785889848.0
     },
     {
-      "id": "BBC News-7811773328499732087",
+      "id": "BBC News-7317665567770620924",
       "source": "BBC News",
       "title": "Armed man arrested near Trump's golf course ahead of president's visit",
       "excerpt": "The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California.",
       "link": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 3h",
+      "time": "Il y a 6h",
       "pubDate": 1785889144.0
     },
     {
-      "id": "NPR-2991104669669271936",
+      "id": "NPR--1508769761790307115",
       "source": "NPR",
       "title": "SpaceX's revenue rises as its once-soaring stock price drifts back to Earth",
       "excerpt": "On their first earnings call since SpaceX's June public offering, executives said the company is pouring funds into rocket development, Starlink satellites and AI.",
       "link": "https://www.npr.org/2026/08/04/nx-s1-5918536/spacex-first-earnings-report-since-ipo",
-      "time": "Il y a 6h",
+      "time": "Il y a 8h",
       "pubDate": 1785880923.0
     },
     {
-      "id": "BBC News--6741249328521372647",
+      "id": "BBC News-7493843776846676835",
       "source": "BBC News",
       "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
       "excerpt": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
       "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 6h",
+      "time": "Il y a 8h",
       "pubDate": 1785879920.0
     },
     {
-      "id": "BBC News-5575623185122612553",
+      "id": "BBC News--6686512740846728013",
       "source": "BBC News",
       "title": "Projectile sinks Indian-flagged ship off Yemen coast",
       "excerpt": "All 14 people on board the Indian-flagged vessel were safely rescued, India's ministry of external affairs says.",
       "link": "https://www.bbc.co.uk/news/articles/cly84we1y37o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 6h",
+      "time": "Il y a 9h",
       "pubDate": 1785878690.0
     },
     {
-      "id": "NPR--7083150253327248545",
+      "id": "NPR-4341064292608151430",
       "source": "NPR",
       "title": "Oregon's wildfire season is pushing ranchers to evacuate their cattle",
       "excerpt": "Oregon has been having an extremely active fire season. Some of the areas burning are critical to ranchers whose livelihoods depend on cattle.",
       "link": "https://www.npr.org/2026/08/04/nx-s1-5919329/ranchers-evacuate-cattle",
-      "time": "Il y a 7h",
+      "time": "Il y a 10h",
       "pubDate": 1785874603.0
     },
     {
-      "id": "NPR-7453815304991820740",
+      "id": "NPR-788096666224185156",
       "source": "NPR",
       "title": "One Maine community's fight to save a birthing center",
       "excerpt": "In mid-coast Maine a grassroots coalition is fighting to prevent the proposed closure of Miles Hospital's labor and delivery center.",
       "link": "https://www.npr.org/2026/08/04/nx-s1-5910852/maine-birthing-center-fight",
-      "time": "Il y a 7h",
+      "time": "Il y a 10h",
       "pubDate": 1785874586.0
     },
     {
-      "id": "NPR--383275711100667556",
+      "id": "NPR--1124296529682408488",
       "source": "NPR",
       "title": "House Ethics Committee will investigate Ohio Republican Max Miller",
       "excerpt": "The committee said it was reviewing allegations that Miller \"may have engaged in domestic violence.\" Miller has denied the allegations, which have swirled around his bid for a third term in Congress.",
       "link": "https://www.npr.org/2026/08/04/g-s1-137389/max-miller-congress-house-ethics-committee-investigation",
-      "time": "Il y a 8h",
+      "time": "Il y a 11h",
       "pubDate": 1785872402.0
     },
     {
-      "id": "BBC News-1034370092248081506",
+      "id": "BBC News-4475399775580853636",
       "source": "BBC News",
       "title": "Arrests in Egypt after people allegedly impersonate judges",
       "excerpt": "Egyptian authorities say the alleged scam involved fabricated scenes in court as part of a plot to defraud people.",
       "link": "https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 8h",
+      "time": "Il y a 11h",
       "pubDate": 1785871500.0
     },
     {
-      "id": "BBC News--5786110992956852147",
+      "id": "BBC News--1359414048553200673",
       "source": "BBC News",
       "title": "How to avoid the worst of the Italian heat",
       "excerpt": "From supermarkets to night-time tours, experts share how to make the most of Italy during this latest heatwave.",
       "link": "https://www.bbc.co.uk/news/articles/c05q1gz0p1yo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 9h",
+      "time": "Il y a 12h",
       "pubDate": 1785867660.0
     },
     {
-      "id": "NPR--1774998084880495599",
+      "id": "NPR-3942195688353799441",
       "source": "NPR",
       "title": "The soaring demand for Patriot missiles, from the Middle East to Ukraine",
       "excerpt": "The U.S. and its partners depend on Patriot interceptors to shoot down incoming ballistic missiles. But Russia and Iran are firing their weapons at rates far higher than Patriots can be produced.",
       "link": "https://www.npr.org/2026/08/04/g-s1-137287/us-patriot-missiles-ukraine-middle-east-iran-war",
-      "time": "Il y a 10h",
+      "time": "Il y a 12h",
       "pubDate": 1785866464.0
     },
     {
-      "id": "NPR-3184679236938626727",
+      "id": "NPR--8896180763584803226",
       "source": "NPR",
       "title": "Senate Democrats say banks turned blind eye to suspicious moves by Jeffrey Epstein",
       "excerpt": "A report from Senate Democrats accuses big banks of failing to report suspicious money transfers made by Jeffrey Epstein until after his arrest in 2019.",
       "link": "https://www.npr.org/2026/08/04/nx-s1-5919238/jeffrey-epstein-jpmorgan-bank-of-america-deutsche-bank-senate-democrats",
-      "time": "Il y a 10h",
+      "time": "Il y a 12h",
       "pubDate": 1785865386.0
     },
     {
-      "id": "The Guardian-1884438658882650221",
+      "id": "The Guardian--3666434358839509304",
       "source": "The Guardian",
       "title": "Guatemala volcano eruption prompts evacuation of hundreds of people",
       "excerpt": "Eruption of the Fuego volcano sends lava and ash nearly four miles into the sky as country declares second-highest alert Hundreds of people living on the slopes of <a href=\"https://www.theguardian.com...",
       "link": "https://www.theguardian.com/world/2026/aug/04/guatemala-volcano-eruption-prompts-evacuation-of-hundreds-of-people",
-      "time": "Il y a 10h",
+      "time": "Il y a 13h",
       "pubDate": 1785864697.0
     },
     {
-      "id": "BBC News--9166543071458621565",
+      "id": "BBC News-8681598737499270925",
       "source": "BBC News",
       "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
       "excerpt": "Ukraine said the video - showing a terrified civilian being hounded by a remotely controlled drone - amounted to a war crime.",
       "link": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 10h",
+      "time": "Il y a 13h",
       "pubDate": 1785864366.0
     },
     {
-      "id": "NPR--8285235912504268057",
+      "id": "NPR--6140717470434906340",
       "source": "NPR",
       "title": "Europe's heat wave fuels drought, wildfires and fears about energy supplies",
       "excerpt": "Europe's heat wave exposes buried history and new threats — Nazi-era wrecks emerge from the Danube, nuclear reactors face cooling risks, and Greece battles deadly wildfires.",
       "link": "https://www.npr.org/2026/08/04/nx-s1-5919214/europe-heatwave-danube-rhine-wildfires",
-      "time": "Il y a 11h",
+      "time": "Il y a 14h",
       "pubDate": 1785861458.0
     },
     {
-      "id": "BBC News--2569771527549927093",
+      "id": "BBC News-913549092237833995",
       "source": "BBC News",
       "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
       "excerpt": "The bodies - belonging to members of two extended families - have only recently been recovered from under rubble in Gaza City.",
       "link": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 13h",
+      "time": "Il y a 15h",
       "pubDate": 1785856072.0
     },
     {
-      "id": "NPR-5813507992989809277",
+      "id": "NPR--4000084853239533386",
       "source": "NPR",
       "title": "13 new books in August will get you through the dog days of summer",
       "excerpt": "This month brings riveting novels about dogs, Hollywood stars, small towns and characters with bigger woes than just the sweltering summer heat and humidity.",
       "link": "https://www.npr.org/2026/08/04/nx-s1-5905346/new-books-august-2026",
-      "time": "Il y a 14h",
+      "time": "Il y a 17h",
       "pubDate": 1785850485.0
     },
     {
-      "id": "BBC News--2069175573990545702",
+      "id": "BBC News-8828397059443015591",
       "source": "BBC News",
       "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
       "excerpt": "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver.",
       "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 16h",
+      "time": "Il y a 19h",
       "pubDate": 1785842341.0
     },
     {
-      "id": "The Guardian--5626582100514302833",
+      "id": "The Guardian--620798487490755161",
       "source": "The Guardian",
       "title": "White elephant in the room: Colombia swears in costumed anti-corruption activist as senator",
       "excerpt": "Luis Carlos Rúa revealed himself to be Elefante blanco just three days before election for ‘his own safety’. Now he is tackling graft from senate floor When 102 senators were sworn in for Colombia’s l...",
       "link": "https://www.theguardian.com/world/2026/aug/04/white-elephant-colombia-anti-corruption-activist-senator-luis-carlos-rua",
-      "time": "Il y a 18h",
+      "time": "Il y a 20h",
       "pubDate": 1785837647.0
     },
     {
-      "id": "The Guardian-8667392417391255674",
+      "id": "The Guardian--1643846324053617287",
       "source": "The Guardian",
       "title": "Stronger EU borders needed after Ceuta crisis, von der Leyen says",
       "excerpt": "European Commission president says work needed in five areas of migration control including returning more people The president of the European Commission has called for action to strengthen Europe’s...",
@@ -489,7 +504,7 @@
       "pubDate": 1785779041.0
     },
     {
-      "id": "The Guardian--5382514808831541832",
+      "id": "The Guardian-4700545284740541246",
       "source": "The Guardian",
       "title": "How Ceuta migrant crisis exposes divisions within Europe - The Latest",
       "excerpt": "Dozens of people died attempting to reach the Spanish enclave of Ceuta after an estimated 50,000 crossed from Morocco last week. The incident has led to a political crisis in Spain and criticism from...",
@@ -498,7 +513,7 @@
       "pubDate": 1785773120.0
     },
     {
-      "id": "The Guardian-7062892305573055974",
+      "id": "The Guardian--8518407494424660484",
       "source": "The Guardian",
       "title": "Ceuta leader accuses Morocco over ‘atrocity’ of mass border crossing",
       "excerpt": "Juan Jesús Vivas says influx seen as ‘at least encouraged or permitted’ by Rabat, as Spain demands EU solidarity <ul><li><a href=\"https://www.theguardian.com/world/2026/jul/31/ceuta-spain-eu-border-af...",
@@ -507,7 +522,7 @@
       "pubDate": 1785766381.0
     },
     {
-      "id": "The Guardian--2598973844299128633",
+      "id": "The Guardian-64605453603935732",
       "source": "The Guardian",
       "title": "Weather tracker: Austria breaks heat records as Japan braces for Typhoon Dolphin",
       "excerpt": "Soaring temperatures continue to sweep parts of Europe, while Okinawa faces powerful winds and storm surges <ul><li><a href=\"https://www.theguardian.com/world/live/2026/aug/03/europe-heatwave-wildfire...",
@@ -516,25 +531,7 @@
       "pubDate": 1785744998.0
     },
     {
-      "id": "The Guardian--430534975385534865",
-      "source": "The Guardian",
-      "title": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets",
-      "excerpt": "People among the more than 50,000 who entered Spanish enclave this week describe the journey and their prospects Four days ago, Youssef El Abbas saw an opportunity to reclaim the life he had lost seve...",
-      "link": "https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco",
-      "time": "Il y a 2j",
-      "pubDate": 1785676316.0
-    },
-    {
-      "id": "The Guardian-5338261727469892622",
-      "source": "The Guardian",
-      "title": "Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn",
-      "excerpt": "Activists in the region say politicians regard LGBTQ+ people as ‘the easiest scapegoats to maintain their power’ A growing number of west African countries are implementing or strengthening anti-LGBTQ...",
-      "link": "https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn",
-      "time": "Il y a 3j",
-      "pubDate": 1785643211.0
-    },
-    {
-      "id": "The Guardian-5372615707400339015",
+      "id": "The Guardian--1412943455055773272",
       "source": "The Guardian",
       "title": "Tourist plane crashes during flight over Peru’s Nazca Lines, killing 13",
       "excerpt": "Aircraft crashes into field after departing from nearby city of Pisco, according to local authorities Police in Peru report that 13 people, among them foreign tourists, have been killed in a plane cra...",
@@ -543,5 +540,5 @@
       "pubDate": 1785623473.0
     }
   ],
-  "lastUpdate": "2026-08-05T04:15:25.074949"
+  "lastUpdate": "2026-08-05T06:42:04.173319"
 }
