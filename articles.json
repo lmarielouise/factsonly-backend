@@ -1,30 +1,45 @@
 {
   "francophone": [
     {
-      "id": "France Info--9208785021101860613",
+      "id": "France Info-1284249885609810035",
+      "source": "France Info",
+      "title": "L'Espagne impose des contrôles aux frontières aux voyageurs venant d'Italie, en réponse aux mesures prises par Rome après la crise de Ceuta",
+      "excerpt": "Cette mesure miroir est prévue jusqu'au 7 septembre, a annoncé le ministère de l'Intérieur espagnol, ce qui accentue encore la crise diplomatique entre les deux Etats membres de l'UE.",
+      "link": "https://www.franceinfo.fr/monde/espagne/l-espagne-impose-des-controles-aux-frontieres-aux-voyageurs-venant-d-italie-en-reponse-aux-mesures-prises-par-rome-apres-la-crise-de-ceuta_8139068.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 12 min",
+      "pubDate": 1786132562.0,
+      "sources": [
+        "France Info",
+        "Le Monde"
+      ],
+      "multiSource": true,
+      "sourceCount": 2
+    },
+    {
+      "id": "France Info-2209425626666397360",
       "source": "France Info",
       "title": "Un militaire a été mis en examen à Metz pour avoir détourné l'IA de l'armée à des fins pédopornographiques",
       "excerpt": "Il avait réalisé plus de 10 000 requêtes pour forcer la création d'images à caractère pédopornographique\", a déclaré le procureur de la République.",
       "link": "https://www.franceinfo.fr/faits-divers/un-militaire-a-ete-mis-en-examen-a-metz-pour-avoir-detourne-l-ia-de-l-armee-a-des-fins-pedopornographiques_8139062.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 9 min",
+      "time": "Il y a 44 min",
       "pubDate": 1786130648.0
     },
     {
-      "id": "Libération--185389002115387204",
+      "id": "Libération--2483286610866145870",
       "source": "Libération",
       "title": "Aux Etats-Unis, le chantier de la salle de bal de Trump bloqué par la justice",
       "excerpt": "Une cour d’appel fédérale a confirmé vendredi 7 août la suspension du chantier pharaonique voulu par le président américain, estimant qu’il ne pouvait remodeler la résidence présidentielle sans l’aval...",
       "link": "https://www.liberation.fr/international/amerique/aux-etats-unis-le-chantier-de-la-salle-de-bal-de-trump-bloque-par-la-justice-20260807_4UA4S7N6EVFJLN4BOMRIICHFAI/",
-      "time": "Il y a 19 min",
+      "time": "Il y a 54 min",
       "pubDate": 1786130023.0
     },
     {
-      "id": "Libération--1616337916542416704",
+      "id": "Libération-7819914375394613795",
       "source": "Libération",
       "title": "Arabie saoudite, Pakistan et Turquie scellent un pacte de défense en pleine guerre au Moyen-Orient",
       "excerpt": "Cet accord prévoit qu’une attaque contre l’un des trois pays sera considérée comme une attaque contre tous. Un rapprochement accéléré par les tensions régionales et la défiance croissante envers Washi...",
       "link": "https://www.liberation.fr/international/moyen-orient/arabie-saoudite-pakistan-et-turquie-scellent-un-pacte-de-defense-en-pleine-guerre-au-moyen-orient-20260807_VTPNOEBCZVHWLLOJXNDLBMSQKI/",
-      "time": "Il y a 25 min",
+      "time": "Il y a 1h",
       "pubDate": 1786129636.0,
       "sources": [
         "Libération",
@@ -34,61 +49,61 @@
       "sourceCount": 2
     },
     {
-      "id": "Le Monde-2840896832592838658",
+      "id": "Le Monde--2690328577678226568",
       "source": "Le Monde",
       "title": "Tour de France Femmes 2026 : Katarzyna Niewiadoma se pare de jaune sur le mont Ventoux",
       "excerpt": "Auteure d’une attaque pleine de maîtrise sur les pentes du « Géant de Provence », la coureuse polonaise de la formation Canyon-SRAM a levé les bras pour la première fois sur la Grande Boucle, et pris...",
       "link": "https://www.lemonde.fr/sport/article/2026/08/07/tour-de-france-femmes-2026-katarzyna-niewiadoma-se-pare-de-jaune-sur-le-mont-ventoux_6740537_3242.html",
-      "time": "Il y a 34 min",
+      "time": "Il y a 1h",
       "pubDate": 1786129094.0
     },
     {
-      "id": "Libération--7961722363545509067",
+      "id": "Libération--3480702148192963597",
       "source": "Libération",
       "title": "Incendies : dans le Var, le feu du Gros Bessillon fixé après 18 jours de mobilisation",
       "excerpt": "Déclaré fin juillet dans le centre du département, l’incendie avait depuis parcouru 6 300 hectares, menacé plusieurs villages et détruit des dizaines d’habitations. La préfecture l’a qualifié d’«inédi...",
       "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-le-feu-dans-laude-desormais-fixe-legere-reprise-dans-la-drome-20260807_DLBDW73KIBG2HBOCVJ7UFV2SBU/",
-      "time": "Il y a 35 min",
+      "time": "Il y a 1h",
       "pubDate": 1786129042.0
     },
     {
-      "id": "France Info-2788907913417764275",
+      "id": "France Info-5842696143862175619",
       "source": "France Info",
       "title": "Incendie dans le Var : le feu est officiellement fixé après 18 jours de mobilisation des pompiers, annonce la préfecture",
       "excerpt": "Au moins 700 pompiers étaient encore mobilisés sur les lieux et poursuivaient le traitement des lisières et des points chauds. Le feu a brûlé 5 700 hectares sur plusieurs communes du secteur.",
       "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendies-les-flammes-progressent-dans-la-drome-trois-departements-en-risque-tres-eleve-de-feux-de-foret_8138174.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 35 min",
+      "time": "Il y a 1h",
       "pubDate": 1786129036.0
     },
     {
-      "id": "Libération--2561069480141571269",
+      "id": "Libération--1337936839457156204",
       "source": "Libération",
       "title": "La Fédération norvégienne réclame la démission d’Infantino à la tête de la Fifa",
       "excerpt": "En difficulté depuis l’échec de son projet d’ouverture de la Fifa aux investisseurs privés, l’Italo-Suisse voit la contestation s’intensifier de jour en jour.",
       "link": "https://www.liberation.fr/sports/football/la-federation-norvegienne-reclame-la-demission-dinfantino-a-la-tete-de-la-fifa-20260807_J4IYXKQTKZBQZAYBBNH4N6N7U4/",
-      "time": "Il y a 38 min",
+      "time": "Il y a 1h",
       "pubDate": 1786128904.0
     },
     {
-      "id": "Libération-2185155084458209063",
+      "id": "Libération-838604163806127081",
       "source": "Libération",
       "title": "Avec «le Camp des saints», l’extrême droite relit son classique sur l’immigration",
       "excerpt": "La crise migratoire à Ceuta a fait ressortir les références à l’ouvrage de Jean Raspail. Présenté comme une dystopie, le livre qui raconte l’arrivée d’un million de réfugiés pacifiques en France est r...",
       "link": "https://www.liberation.fr/politique/elections/avec-le-camp-des-saints-lextreme-droite-relit-son-classique-20260807_645AEHUFZ5BFDOGMIHDMQMO7YY/",
-      "time": "Il y a 51 min",
+      "time": "Il y a 1h",
       "pubDate": 1786128122.0
     },
     {
-      "id": "Libération--2962017131407367392",
+      "id": "Libération-6501566223571974082",
       "source": "Libération",
       "title": "«Ils disent que c’est l’un des meilleurs spots» : à 20 mètres au-dessus de la Seine, les plongeurs de haut vol impressionnent",
       "excerpt": "Les épreuves de plongeon à 20 mètres des Championnats d’Europe de natation, face à la Tour Eiffel, ont réuni des milliers de badauds autour d’une discipline aussi risquée que spectaculaire, vendredi 7...",
       "link": "https://www.liberation.fr/sports/ils-disent-que-cest-lun-des-meilleurs-spots-a-20-metres-au-dessus-de-la-seine-les-plongeurs-de-haut-vol-impressionnent-20260807_HYD7VCDWNBEPDMW7DCPYSNDXUI/",
-      "time": "Il y a 54 min",
+      "time": "Il y a 1h",
       "pubDate": 1786127912.0
     },
     {
-      "id": "Libération--3791904411291814774",
+      "id": "Libération-8757851114491910342",
       "source": "Libération",
       "title": "Robots humanoïdes : comment l’intelligence artificielle leur a donné un nouveau souffle",
       "excerpt": "Sur la piste de danse, à l’usine ou dans le salon… Après des années de ringardise, l’androïde fait son grand retour, propulsé par les progrès de l’IA et au cœur d’une compétition internationale dominé...",
@@ -97,61 +112,61 @@
       "pubDate": 1786126800.0
     },
     {
-      "id": "Libération-593897070502585893",
+      "id": "Libération-8075244721932709607",
       "source": "Libération",
       "title": "Tour de France : Kasia Niewiadoma première dame du Ventoux",
       "excerpt": "La coureuse polonaise, vainqueure du Tour 2024, s’est imposée en solitaire ce vendredi 7 août lors de la 7e étape du Tour, qui empruntait pour la première fois la célèbre ascension. Elle s’empare du m...",
       "link": "https://www.liberation.fr/sports/cyclisme/tour-de-france-kasia-niewiadoma-en-demonstration-sur-les-pentes-du-mont-ventoux-20260807_ZLFBDKOH55AZTC7KSRWA33RKUQ/",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1786125941.0
     },
     {
-      "id": "Libération--2814260992218001040",
+      "id": "Libération--672445540564459494",
       "source": "Libération",
       "title": "Robots humanoïdes, le nouveau vertige",
       "excerpt": "Interrogations philosophiques, impacts sociaux et économiques colossaux: la fusion de l’IA et des androïdes promet des lendemains qui chantent… ou qui déchantent.",
       "link": "https://www.liberation.fr/idees-et-debats/editorial/robots-humanoides-le-nouveau-vertige-20260807_LTX44P53WZAFJBX5EFHNWUIOWI/",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1786125914.0
     },
     {
-      "id": "Libération--5916378794552376171",
+      "id": "Libération-7369568083513510725",
       "source": "Libération",
       "title": "Opération hybride, «incursion terrestre limitée» : le renseignement américain n’exclut plus une offensive de la Russie contre un pays de l’Otan",
       "excerpt": "Un rapport américain relayé par le «Wall Street Journal» vendredi revoit à la hausse le risque d’une provocation russe contre un pays allié dans les prochaines années.",
       "link": "https://www.liberation.fr/international/amerique/operation-hybride-incursion-terrestre-limitee-le-renseignement-americain-nexclut-plus-une-offensive-de-la-russie-contre-un-pays-de-lotan-20260807_ZTYL3642OJGJLOYHJC4NF426LQ/",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1786125821.0
     },
     {
-      "id": "France Info-9015069637908313899",
+      "id": "France Info-3910017672505990589",
       "source": "France Info",
       "title": "Hausse du taux de chômage : pour le ministre du Travail, ces chiffres ne sont \"pas une surprise\"",
       "excerpt": "Selon l'Insee, le taux de chômage en France augmente de 0,2 point au deuxième trimestre et s'établit à 8,3%, son plus haut niveau depuis l'automne 2020.",
       "link": "https://www.franceinfo.fr/economie/emploi/chomage/hausse-du-taux-de-chomage-pour-le-ministre-du-travail-ces-chiffres-ne-sont-pas-une-surprise_8138996.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1786125658.0
     },
     {
-      "id": "Le Monde-6390851158486817632",
+      "id": "Le Monde--5979818124450524931",
       "source": "Le Monde",
       "title": "Maroc : après l’archevêque de Rabat, un prêtre de Casablanca accusé de violences sexuelles",
       "excerpt": "Alors qu’une femme assure avoir été violée par le prêtre, l’Eglise a classé l’affaire au printemps. L’enquête sur Cristobal Lopez Romero se poursuit, quant à elle, avec la venue à Rabat de deux enquêt...",
       "link": "https://www.lemonde.fr/afrique/article/2026/08/07/maroc-apres-l-archeveque-de-rabat-un-pretre-de-casablanca-accuse-de-violences-sexuelles_6740534_3212.html",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1786125607.0
     },
     {
-      "id": "France Info-4385313682802373572",
+      "id": "France Info-3828304639673398304",
       "source": "France Info",
       "title": "L'OMS appelle à organiser un essai clinique avec l'ancien vaccin Ervebo pour lutter contre l'épidémie d'Ebola en République démocratique du Congo",
       "excerpt": "Certaines données préliminaires sont encourageantes, et aucun problème de sécurité majeur n'a été relevé. A terme, l'objectif reste de trouver un vaccin spécifique.",
       "link": "https://www.franceinfo.fr/sante/maladie/ebola/l-oms-appelle-a-organiser-un-essai-clinique-avec-l-ancien-vaccin-ervebo-pour-lutter-contre-le-nouveau-variant-d-ebola-qui-sevit-en-republique-democratique-du-congo_8138966.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1786124038.0
     },
     {
-      "id": "France Info--5192498274396095279",
+      "id": "France Info-7100761886384517674",
       "source": "France Info",
       "title": "Kasia Niewiadoma Phinney, le jour de gloire d’une championne pleine de panache trop souvent sous-estimée",
       "excerpt": "Vainqueure du Tour de France 2024 avec quatre secondes d’avance, la Polonaise a remporté sa première étape sur le Tour, vendredi.",
@@ -160,25 +175,25 @@
       "pubDate": 1786122624.0
     },
     {
-      "id": "France Info-3985428977213305755",
+      "id": "France Info--8701584232362037882",
       "source": "France Info",
       "title": "La justice américaine bloque en appel le chantier de la salle de bal voulue par Donald Trump à la Maison Blanche",
       "excerpt": "Il est reproché au président de ne pas avoir obtenu le feu vert du Congrès avant de lancer ces travaux monumentaux. L'intéressé a dénoncé un \"jugement politique\" et entend se tourner vers la Cour supr...",
       "link": "https://www.franceinfo.fr/monde/usa/la-justice-americaine-bloque-en-appel-le-chantier-de-la-salle-de-bal-voulue-par-donald-trump-a-la-maison-blanche_8138942.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1786122240.0
     },
     {
-      "id": "Le Monde--1004501462799350597",
+      "id": "Le Monde--9151169978934866926",
       "source": "Le Monde",
       "title": "Les obsessions en plâtre et ciment de Lucien Favreau, ouvrier anarcho-mystique parti sans livrer tous ses secrets",
       "excerpt": "La France de l’art brut (5/6). Lucien Favreau, décédé en 1990, et sa maison baptisée « Ma Bohême », à Yviers, en Charente, dont les œuvres dressent le portrait d’un humaniste révolté par les tourments...",
       "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/07/les-obsessions-en-platre-et-ciment-de-lucien-favreau-ouvrier-anarcho-mystique-parti-sans-livrer-tous-ses-secrets_6740528_3451060.html",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1786122006.0
     },
     {
-      "id": "France Info-2652124319901170895",
+      "id": "France Info--8933353734505249963",
       "source": "France Info",
       "title": "Perséides, Voie lactée, éclipse solaire… Ce qu'il faut savoir sur l'édition 2026 des Nuits des étoiles, qui débute vendredi",
       "excerpt": "Les Nuits des étoiles reviennent du vendredi 7 au dimanche 9 août partout en France. Plus de 600 rendez-vous gratuits sont organisés à travers le pays pour permettre au public d'observer le ciel d'été...",
@@ -187,7 +202,7 @@
       "pubDate": 1786119640.0
     },
     {
-      "id": "Le Monde-4335826028571476191",
+      "id": "Le Monde-4120584090185789399",
       "source": "Le Monde",
       "title": "Salle de bal de Donald Trump : une cour d’appel fédérale bloque la construction ; le président américain annonce vouloir solliciter la Cour suprême",
       "excerpt": "Ce blocage n’a « rien à voir » avec la pertinence du projet lui-même, mais s’explique par le fait que le président américain a lancé les travaux sans obtenir l’autorisation du Congrès.",
@@ -196,43 +211,34 @@
       "pubDate": 1786119366.0
     },
     {
-      "id": "France Info-8311170775027140952",
-      "source": "France Info",
-      "title": "L'Espagne menace l'Italie de mesures de rétorsion si les contrôles aux frontières sont maintenus, Rome déclare \"n'accepter aucun ultimatum\"",
-      "excerpt": "\"L’Italie n’accepte aucun ultimatum ni aucune imposition de l'étranger en matière de sécurité nationale et de contrôle des frontières\", a rétorqué le gouvernement italien.",
-      "link": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/l-espagne-met-en-garde-l-italie-contre-des-mesures-de-retorsion-si-les-controles-aux-frontieres-sont-maintenus-rome-affirme-n-accepter-aucun-ultimatum_8138570.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 4h",
-      "pubDate": 1786116382.0
-    },
-    {
-      "id": "Le Monde-3409761730609131470",
+      "id": "Le Monde-2394355936707332142",
       "source": "Le Monde",
       "title": "Le maire de Saint-Denis, Bally Bagayoko, visé par une plainte d’AC !! Anti-corruption",
       "excerpt": "L’association a porté plainte pour des soupçons de détournement de fonds publics et d’emploi fictif, après la publication d’un article du « Canard enchaîné ».",
       "link": "https://www.lemonde.fr/politique/article/2026/08/07/le-maire-de-saint-denis-bally-bagayoko-vise-par-une-plainte-d-ac-anti-corruption_6740517_823448.html",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1786114633.0
     },
     {
-      "id": "Le Monde-533756485476763810",
+      "id": "Le Monde--6794625838218782426",
       "source": "Le Monde",
       "title": "L’enquête sur le drone explosif de l’aéroport de Leipzig, en Allemagne, passe au niveau fédéral",
       "excerpt": "La nature du dispositif découvert dans la nuit du 4 au 5 août, sa proximité avec un avion-cargo ukrainien et l’importance stratégique du site aéroportuaire orientent les autorités allemandes vers l’hy...",
       "link": "https://www.lemonde.fr/international/article/2026/08/07/l-enquete-sur-le-drone-explosif-de-l-aeroport-de-leipzig-en-allemagne-passe-au-niveau-federal_6740515_3210.html",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1786113909.0
     },
     {
-      "id": "France Info-2377019670903300711",
+      "id": "France Info--8808792231766140432",
       "source": "France Info",
       "title": "L'Isère, le Rhône, la Savoie et la Haute-Savoie rejoindront samedi à midi les huit départements déjà en vigilance orange canicule",
       "excerpt": "La vigilance orange canicule est maintenue demain dans les Alpes-Maritimes, l'Ardèche, la Corse-du-Sud, la Haute-Corse, la Drôme, le Gard, le Var et le Vaucluse",
       "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/huit-departements-du-sud-est-maintenus-en-vigilance-orange-canicule_8137973.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1786113410.0
     },
     {
-      "id": "Le Monde--724310413474577137",
+      "id": "Le Monde-7573433262695014737",
       "source": "Le Monde",
       "title": "Renforcement attendu de la vague de chaleur ces prochains jours : vers l’une des plus longues jamais observées en France",
       "excerpt": "Les prévisionnistes anticipent une extension de la chaleur vers le nord et l’est du pays. Les épisodes caniculaires se succèdent à un rythme inédit sur la France et une partie de l’Europe.",
@@ -241,54 +247,54 @@
       "pubDate": 1786112212.0
     },
     {
-      "id": "Le Monde--4522940528648855966",
+      "id": "Le Monde-549864372979855312",
       "source": "Le Monde",
       "title": "Les lunettes d’observation de l’éclipse solaire déjà en rupture de stock chez certains revendeurs",
       "excerpt": "Les achats de lunettes de protection individuelle, indispensable pour observer le phénomène, ont fortement augmenté à l’approche du 12 août. La répression des fraudes a multiplié les contrôles.",
       "link": "https://www.lemonde.fr/economie/article/2026/08/07/les-lunettes-d-observation-de-l-eclipse-solaire-deja-en-rupture-de-stock-chez-certains-revendeurs_6740504_3234.html",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1786111208.0
     },
     {
-      "id": "France Info-37235385765642174",
+      "id": "France Info--4319256471744123775",
       "source": "France Info",
       "title": "Où et quand l'éclipse du 12 août sera-t-elle la plus impressionnante dans l'Hexagone ?",
       "excerpt": "Mercredi 12 août, une éclipse solaire se produira peu avant le coucher du soleil. En France, la lune occultera presque totalement l'astre durant quelques minutes.",
       "link": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/carte-ou-et-quand-l-eclipse-du-12-aout-sera-t-elle-la-plus-impressionnante-dans-l-hexagone_8135849.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1786107989.0
-    },
-    {
-      "id": "Le Monde--4854190875059730284",
-      "source": "Le Monde",
-      "title": "« Les musulmans de l’enclave sont constamment sommés de prouver qu’ils sont de vrais Espagnols » : Ceuta à l’épreuve d’une crise migratoire sans précédent",
-      "excerpt": "L’irruption dans l’enclave espagnole de 72 000 personnes venues du Maroc, entre le 30 et le 31 juillet, a mis en lumière les fêlures et les solidarités qui traversent cette ville où coexistent depuis...",
-      "link": "https://www.lemonde.fr/afrique/article/2026/08/07/ceuta-bastion-multiculturel-fragile-a-l-epreuve-d-une-crise-migratoire-sans-precedent_6740461_3212.html",
-      "time": "Il y a 15h",
-      "pubDate": 1786077003.0
     }
   ],
   "anglophone": [
     {
-      "id": "BBC News-2727232209626324950",
+      "id": "BBC News-6800856894881743304",
       "source": "BBC News",
-      "title": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
-      "excerpt": "Italy has said it will not accept \"ultimatums or impositions\" after the mass crossing of migrants from Morocco to Ceuta last week.",
+      "title": "Spain to impose border controls against Italy as row over Ceuta migrant influx intensifies",
+      "excerpt": "Italy introduced border controls following an influx of about 78,000 migrants from neighbouring Morocco into the Spanish exclave of Ceuta.",
       "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 36 min",
-      "pubDate": 1786128993.0
+      "time": "Il y a 17 min",
+      "pubDate": 1786132276.0
     },
     {
-      "id": "The Guardian--3026800978179815334",
+      "id": "NPR--1499429167942275189",
+      "source": "NPR",
+      "title": "Trump renews push to fire Fed Governor Lisa Cook",
+      "excerpt": "Trump is once again threatening to fire Cook over unproven allegations of mortgage fraud after an earlier effort to remove Cook was struck down by the Supreme Court.",
+      "link": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve",
+      "time": "Il y a 32 min",
+      "pubDate": 1786131335.0
+    },
+    {
+      "id": "The Guardian--3455532297397334605",
       "source": "The Guardian",
       "title": "Judge approves Trump effort to end South Sudan TPS protections",
       "excerpt": "Decision follows supreme court ruling that allowed US government to strip protections for Haitians and Syrians Temporary protected status (TPS) for hundreds of South Sudanese nationals in the United S...",
       "link": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps",
-      "time": "Il y a 58 min",
+      "time": "Il y a 1h",
       "pubDate": 1786127674.0
     },
     {
-      "id": "NPR--3499029932062750984",
+      "id": "NPR--877808914593022569",
       "source": "NPR",
       "title": "Another court blocks White House ballroom work, teeing up a Supreme Court review",
       "excerpt": "A federal appeals court says above-ground construction cannot continue without approval from Congress, siding with historic preservation advocates.",
@@ -297,34 +303,34 @@
       "pubDate": 1786126237.0
     },
     {
-      "id": "NPR-3002501564532889561",
+      "id": "NPR--6397372368064470757",
       "source": "NPR",
       "title": "Monty Roberts, who trained horses through trust, dies at 91",
       "excerpt": "The internationally acclaimed horseman defied the conventional method of breaking horses and developed his own gentler approach — based on horses' non-verbal language. Roberts spoke with <em>Fresh Air...",
       "link": "https://www.npr.org/2026/08/07/nx-s1-5924104/monty-roberts-horse-training",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1786124897.0
     },
     {
-      "id": "BBC News-6172682791014624704",
+      "id": "BBC News-1383946458506952730",
       "source": "BBC News",
       "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
       "excerpt": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
       "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1786124574.0
     },
     {
-      "id": "NPR--5439856809744110029",
+      "id": "NPR-6554884439047058576",
       "source": "NPR",
       "title": "Senate passes Russia sanctions bill that was long championed by Lindsey Graham",
       "excerpt": "The bill is meant to stifle Russia's economy by allowing for tough new tariffs against major importers of Russian energy. The legislation was led by Lindsey Graham before his unexpected death in July.",
       "link": "https://www.npr.org/2026/08/07/nx-s1-5924914/senate-passes-russia-sanctions-bill-that-was-long-championed-by-lindsey-graham",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1786124020.0
     },
     {
-      "id": "BBC News--4977010180409012144",
+      "id": "BBC News--3362971998621900954",
       "source": "BBC News",
       "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
       "excerpt": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons.",
@@ -333,34 +339,34 @@
       "pubDate": 1786119225.0
     },
     {
-      "id": "BBC News-5173060212228230067",
+      "id": "BBC News--4625014608138112568",
       "source": "BBC News",
       "title": "Seven killed after Thai student opens fire at home and school",
       "excerpt": "Authorities say the 14-year-old killed his grandparents before gunning down five teachers at his school.",
       "link": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1786117876.0
     },
     {
-      "id": "NPR-8271759874970956120",
+      "id": "NPR--1121229170985309727",
       "source": "NPR",
       "title": "Colombia's new president vows to remake the country — and challenge rebel groups",
       "excerpt": "A new political era for Colombia: a hard-right president promises order, growth and confrontation.",
       "link": "https://www.npr.org/2026/08/07/nx-s1-5924775/colombias-new-president-vows-to-remake-the-country-and-challenge-its-fragile-peace",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1786117305.0
     },
     {
-      "id": "BBC News-3791891110794541115",
+      "id": "BBC News-7610690048430579649",
       "source": "BBC News",
       "title": "Mexico and Peru restore diplomatic relations after asylum row",
       "excerpt": "Relations broke down after former Peruvian Prime Minister Betssy Chávez sought asylum in the Mexican embassy in November 2025.",
       "link": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1786117108.0
     },
     {
-      "id": "NPR--5139277017729681227",
+      "id": "NPR--5550571130338176487",
       "source": "NPR",
       "title": "Blanche's path to confirmation appears clear after winning key Republican's support",
       "excerpt": "A key Republican senator, Bill Cassidy of Louisiana, said he would back Todd Blanche's nomination as attorney general, smoothing the path for his ultimate confirmation by the Senate.",
@@ -369,16 +375,16 @@
       "pubDate": 1786111979.0
     },
     {
-      "id": "The Guardian--8357893265746833256",
+      "id": "The Guardian-5906663442552682233",
       "source": "The Guardian",
       "title": "Colombia on the brink: ELN guerrilla group prepares for return to war",
       "excerpt": "As Abelardo de la Espriella takes office as president vowing a new military offensive, the country’s last leftwing rebels are getting ready to fight back As the boat approached the riverbank, camoufla...",
       "link": "https://www.theguardian.com/world/ng-interactive/2026/aug/07/colombia-on-the-brink-eln-guerrilla-group-prepares-for-return-to-war",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1786111232.0
     },
     {
-      "id": "BBC News--8885999039178075590",
+      "id": "BBC News-5385966552542727456",
       "source": "BBC News",
       "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
       "excerpt": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
@@ -387,7 +393,7 @@
       "pubDate": 1786109561.0
     },
     {
-      "id": "NPR-4650095645981703072",
+      "id": "NPR--3099002776869838836",
       "source": "NPR",
       "title": "Employers unexpectedly cut 23,000 jobs in a sign of a wilting labor market",
       "excerpt": "U.S. employers cut 23,000 jobs in July, and job gains for the two previous months were weaker than initially reported, according to a report Friday from the Labor Department.",
@@ -396,52 +402,43 @@
       "pubDate": 1786108210.0
     },
     {
-      "id": "NPR--1323994759370076555",
+      "id": "NPR--3960337389022314340",
       "source": "NPR",
       "title": "A new vaccine could vanquish a major cause of deadly diarrheal disease",
       "excerpt": "Over 1 million people a year die from diarrheal disease. Nearly half are kids under age 5. A new vaccine in trials offers great hope.",
       "link": "https://www.npr.org/2026/08/07/g-s1-137456/diarrhea-disease-vaccine-childhood-deaths-shigella",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1786102593.0
     },
     {
-      "id": "The Guardian-7141107175301722357",
+      "id": "The Guardian--1327172873841381211",
       "source": "The Guardian",
       "title": "Haitians face arrest and deportation after US removes TPS protections",
       "excerpt": "DHS secretary Markwayne Mullin says ‘We’re going after them right now’ despite threat of violence in home country  Hundreds of thousands of Haitians are faced with the prospect of imminent risk of arr...",
       "link": "https://www.theguardian.com/us-news/2026/aug/07/haitians-us-deportation-tps-immigration",
-      "time": "Il y a 8h",
+      "time": "Il y a 9h",
       "pubDate": 1786100416.0
     },
     {
-      "id": "NPR-808754613985044037",
+      "id": "NPR-7926601602672232151",
       "source": "NPR",
       "title": "Trump targets birthright citizenship. And, Iran aims to ban U.S. from Strait of Hormuz",
       "excerpt": "President Trump says he has signed two new orders targeting birthright citizenship. And, Iran is aiming to ban U.S. ships from the Strait of Hormuz.",
       "link": "https://www.npr.org/2026/08/07/g-s1-137730/up-first-newsletter-trump-birthright-citizenship-iran-oman-strait-of-hormuz-anthony-fauci-mitch-mcconnell",
-      "time": "Il y a 8h",
+      "time": "Il y a 9h",
       "pubDate": 1786100179.0
     },
     {
-      "id": "NPR-1195372223954557815",
-      "source": "NPR",
-      "title": "Kalshi and Polymarket bets on clinical trials criticized as 'ghastly'",
-      "excerpt": "Researchers warn betting on clinical trials could incentivize insider trading and interfere with drug development. But Kalshi and Polymarket say they provide valuable information to patients.",
-      "link": "https://www.npr.org/2026/08/07/nx-s1-5922530/patients-betting-kalshi-polymarket-clinical-trials",
-      "time": "Il y a 9h",
-      "pubDate": 1786096800.0
-    },
-    {
-      "id": "NPR--5515068918294246347",
+      "id": "NPR-7068242233705652606",
       "source": "NPR",
       "title": "Everyone's talking about hormone therapy for menopause. Should I be on it?",
       "excerpt": "For years, doctors advised against hormone therapy for women in the menopausal transition. Now everyone's talking about how great it is. Is it really a wonder drug that women should all be on?",
       "link": "https://www.npr.org/2026/08/07/nx-s1-5922746/menopause-hormone-therapy-hrt-heart",
-      "time": "Il y a 9h",
+      "time": "Il y a 10h",
       "pubDate": 1786096800.0
     },
     {
-      "id": "BBC News--3147616054504018334",
+      "id": "BBC News-8809529527626406707",
       "source": "BBC News",
       "title": "Meta fined $567m in largest child safety ruling against social media giant",
       "excerpt": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
@@ -450,7 +447,7 @@
       "pubDate": 1786094523.0
     },
     {
-      "id": "BBC News--4243062139121125919",
+      "id": "BBC News-3322327271380040611",
       "source": "BBC News",
       "title": "A new youth agitation grips an Indian state after 'cockroach' protests",
       "excerpt": "Weeks after the CJP protests shook Delhi, a new youth-led movement over jobs and recruitment is gathering force in Jharkhand.",
@@ -459,25 +456,25 @@
       "pubDate": 1786091577.0
     },
     {
-      "id": "BBC News--758610479331845319",
+      "id": "BBC News--189134011145500331",
       "source": "BBC News",
       "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
       "excerpt": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C.",
       "link": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 13h",
+      "time": "Il y a 14h",
       "pubDate": 1786081469.0
     },
     {
-      "id": "BBC News-7878046454747193653",
+      "id": "BBC News-4115920813625510052",
       "source": "BBC News",
       "title": "Trump again tries to limit US birthright citizenship with new executive orders",
       "excerpt": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.",
       "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 18h",
+      "time": "Il y a 19h",
       "pubDate": 1786062854.0
     },
     {
-      "id": "The Guardian--6594376974738755475",
+      "id": "The Guardian-3808390143799112975",
       "source": "The Guardian",
       "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
       "excerpt": "Cases have passed 4,000 and health watchdog plans to go door to door to find patients in major response escalation The virus causing a massive outbreak of Ebola in the Democratic Republic of the Congo...",
@@ -486,7 +483,7 @@
       "pubDate": 1786033126.0
     },
     {
-      "id": "The Guardian--1620282381562249215",
+      "id": "The Guardian-6011284879935583988",
       "source": "The Guardian",
       "title": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
       "excerpt": "State department informs Congress of planned closures in Canada, Grenada, Japan, Indonesia and Cameroon The US state department is to shut five foreign consulates and missions across Asia, Africa, Nor...",
@@ -495,7 +492,7 @@
       "pubDate": 1786030889.0
     },
     {
-      "id": "The Guardian--7338669135177652483",
+      "id": "The Guardian--6742767540640189219",
       "source": "The Guardian",
       "title": "Top Ugandan footballer killed by robbers armed with paving stones",
       "excerpt": "David Owori, who played for the national team, died in hospital after he tried to stop robbers taking his phone The Ugandan football community is in mourning after the death of a player who was fatall...",
@@ -504,7 +501,7 @@
       "pubDate": 1786026632.0
     },
     {
-      "id": "The Guardian-6999060184483078846",
+      "id": "The Guardian--8158664311631097903",
       "source": "The Guardian",
       "title": "Nigerian security forces free more than 300 hostages in ‘largest single-day recovery’",
       "excerpt": "President hails operation to rescue captives held in dense forests of Kainji Lake national park in north-central region Nigerian security forces have rescued more than 300 abducted people in what the...",
@@ -513,7 +510,7 @@
       "pubDate": 1786020032.0
     },
     {
-      "id": "The Guardian-5132735831540981510",
+      "id": "The Guardian--1137882930226491199",
       "source": "The Guardian",
       "title": "Toronto zoo announces birth of pygmy hippo calf, third for mother Kindia",
       "excerpt": "The 20-year-old’s third calf is being monitored by officials as survival rates for the species are challenging, the zoo said The Toronto Zoo has announced the birth of a female pygmy hippo calf. Kindi...",
@@ -522,7 +519,7 @@
       "pubDate": 1785968180.0
     },
     {
-      "id": "The Guardian-8578230751905391884",
+      "id": "The Guardian--2128843685244373106",
       "source": "The Guardian",
       "title": "Mexican influencer shot dead while streaming live on social media",
       "excerpt": "César Gastélum was filming outside a fast-food outlet in Sinaloa state when he was killed by a motorbike driver A popular Mexican influencer has been shot dead while doing a live stream on social medi...",
@@ -531,7 +528,7 @@
       "pubDate": 1785951087.0
     },
     {
-      "id": "The Guardian--7310246841658412389",
+      "id": "The Guardian-1456537105967515199",
       "source": "The Guardian",
       "title": "Peruvian cardinal hails $150m lead poisoning settlement for 1,300 people as a ‘historic milestone’",
       "excerpt": "Cardinal Pedro Barreto received death threats and harassment during his almost 20-year campaign against a US mining company’s operations in the Andes A Peruvian cardinal who received a barrage of deat...",
@@ -540,5 +537,5 @@
       "pubDate": 1785926403.0
     }
   ],
-  "lastUpdate": "2026-08-07T19:33:14.508365"
+  "lastUpdate": "2026-08-07T20:08:31.346110"
 }
