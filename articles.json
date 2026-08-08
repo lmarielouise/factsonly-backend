@@ -1,79 +1,142 @@
 {
   "francophone": [
     {
-      "id": "France Info--3649099067358385731",
+      "id": "France Info-3588979058347605879",
+      "source": "France Info",
+      "title": "Les vendanges débutent en Bourgogne avec un nouveau record de précocité",
+      "excerpt": "Ce record est dû aux canicules successives. Cela affecte les rendements pour les vignerons car les raisins ont peu grossi à cause de la sécheresse.",
+      "link": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/les-vendanges-debutent-en-bourgogne-avec-un-nouveau-record-de-precocite_8139575.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 6 min",
+      "pubDate": 1786182180.0
+    },
+    {
+      "id": "Libération--352021461936886046",
+      "source": "Libération",
+      "title": "Soupçons de cumul d’emplois à la ville et à la RATP : une association anticorruption porte plainte contre Bally Bagayoko",
+      "excerpt": "Réagissant à un article du «Canard enchaîné» qui évoque dans le passé du nouveau maire insoumis de Saint-Denis un «double agenda» à la ville et à la RATP, AC !! Anti-Corruption a déposé une plainte au...",
+      "link": "https://www.liberation.fr/politique/soupcons-de-cumul-demplois-a-la-ville-et-a-la-ratp-une-association-anticorruption-porte-plainte-contre-bally-bagayoko-20260807_KWB5RW3HPBCB3LPGOXK7GQQCVA/",
+      "time": "Il y a 6 min",
+      "pubDate": 1786182159.0
+    },
+    {
+      "id": "Le Monde--6569289432829294601",
+      "source": "Le Monde",
+      "title": "La metteuse en scène et comédienne Catherine Dasté, pionnière du théâtre jeune public, est morte",
+      "excerpt": "Elle a notamment fondé la compagnie La Pomme verte pour mettre en scène des spectacles basés sur la parole des enfants, et a créé, avec l’appui de Françoise Dolto, le premier centre dramatique pour l’...",
+      "link": "https://www.lemonde.fr/disparitions/article/2026/08/08/la-metteuse-en-scene-et-comedienne-catherine-daste-pionniere-du-theatre-jeune-public-est-morte_6741227_3382.html",
+      "time": "Il y a 10 min",
+      "pubDate": 1786181902.0
+    },
+    {
+      "id": "Libération--1835469763693209466",
+      "source": "Libération",
+      "title": "EN DIRECT - Incendies : 34 départements classés en risque «élevé» de feu de forêt ce samedi",
+      "excerpt": "La chaleur devrait faire un «retour en force» progressif dans les prochains jours, a annoncé Météo-France, qui a également placé 12 départements en vigilance orange canicule samedi. Jusqu’à 39 degrés...",
+      "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-le-feu-est-fixe-dans-le-var-mais-poursuit-sa-progression-dans-la-drome-20260808_CLNZ3Y5XOZBVBAQUJGX7J4BODA/",
+      "time": "Il y a 18 min",
+      "pubDate": 1786181434.0
+    },
+    {
+      "id": "France Info--6013316268289668286",
+      "source": "France Info",
+      "title": "Prairies à sec, fruits et légumes \"brûlés\", récoltes en berne… Les agriculteurs face à \"l'immensité de la crise\" climatique",
+      "excerpt": "Maraîchers et éleveurs témoignent d'un été \"sans précédent\" dans les champs, marqué par une sécheresse record et des canicules sans fin. La production risque d'être affectée pour de longs mois.",
+      "link": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/prairies-a-sec-fruits-et-legumes-brules-recoltes-en-berne-les-agriculteurs-face-a-l-immensite-de-la-crise-climatique_8136905.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 28 min",
+      "pubDate": 1786180817.0
+    },
+    {
+      "id": "France Info-7074006236445276449",
+      "source": "France Info",
+      "title": "Incendie fixé dans le Var : \"Nous ne crions pas victoire trop vite\", prévient le Service départemental d'incendie et de secours",
+      "excerpt": "L'incendie du Gros Bessillon a été fixé vendredi. Environ 450 sapeurs-pompiers sont encore mobilisés sur le terrain.",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendie-dans-le-var-apres-18-jours-de-mobilisation-des-pompiers-le-feu-du-gros-bessillon-est-fixe_8139485.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 33 min",
+      "pubDate": 1786180531.0
+    },
+    {
+      "id": "Le Monde--3339273549812481231",
+      "source": "Le Monde",
+      "title": "EN DIRECT, guerre en Ukraine : de nouvelles frappes russes sur Kiev et sa région font quatre morts",
+      "excerpt": "Mercredi, au moins 17 personnes ont été tuées dans des frappes nocturnes sur Kiev et sa région. Samedi, Volodymyr Zelensky a exhorté d’autres pays, notamment les Etats-Unis, à fournir davantage de mun...",
+      "link": "https://www.lemonde.fr/international/live/2026/08/08/en-direct-guerre-en-ukraine-de-nouvelles-frappes-russes-sur-kiev-et-sa-region-font-quatre-morts_6737250_3210.html",
+      "time": "Il y a 35 min",
+      "pubDate": 1786180440.0
+    },
+    {
+      "id": "Libération-5136959185980211331",
+      "source": "Libération",
+      "title": "«Le soir où Bobby Fischer n’est pas venu jouer» de Mayra Montero : découvrez les premières pages du livre",
+      "excerpt": "Dans son dernier roman à paraître en septembre, l’autrice cubaine base son histoire sur un moment particulier de sa vie : une nuit passée avec le maître des échecs.",
+      "link": "https://www.liberation.fr/culture/livres/le-soir-ou-bobby-fischer-nest-pas-venu-jouer-de-mayra-montero-decouvrez-les-premieres-pages-du-livre-20260808_WIGFKLN3ZNFXJJLQMU2TVTMHFU/",
+      "time": "Il y a 41 min",
+      "pubDate": 1786180080.0
+    },
+    {
+      "id": "France Info-1714310837598760699",
+      "source": "France Info",
+      "title": "Le Sénat américain approuve la nomination de l'ancien avocat de Donald Trump comme ministre de la Justice",
+      "excerpt": "Todd Blanche était déjà ministre de la Justice par intérim depuis le moi d'avril. L'opposition démocrate, qui dénonce une utilisation politique de la justice, s'opposait fermement à sa nomination.",
+      "link": "https://www.franceinfo.fr/monde/usa/le-senat-americain-approuve-la-nomination-de-l-ancien-avocat-de-donald-trump-comme-ministre-de-la-justice_8139599.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 47 min",
+      "pubDate": 1786179684.0
+    },
+    {
+      "id": "France Info-3878140073829531200",
+      "source": "France Info",
+      "title": "Les réseaux d'eau potable d'une douzaine d'États américains ciblés par des hackers iraniens",
+      "excerpt": "La Géorgie notamment a été visée la semaine dernière par une cyberattaque, qui selon certains chercheurs aurait pu être anticipée. Ces attaques viseraient à influencer le climat politique aux États-Un...",
+      "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/les-reseaux-d-eau-potable-d-une-douzaine-d-etats-americains-cibles-par-des-hackers-iraniens_8139560.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 53 min",
+      "pubDate": 1786179361.0
+    },
+    {
+      "id": "France Info-7436182336603875689",
       "source": "France Info",
       "title": "Gabriel Attal porte plainte après des soupçons d'ingérence russe",
       "excerpt": "Le candidat Renaissance à l'élection présidentielle a été visé mercredi et jeudi par une opération de désinformation provenant de modes opératoires pro-russes, selon ses avocats.",
       "link": "https://www.franceinfo.fr/monde/russie/gabriel-attal-porte-plainte-apres-des-soupcons-d-ingerence-russe_8139455.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 16 min",
+      "time": "Il y a 59 min",
       "pubDate": 1786178945.0
     },
     {
-      "id": "Le Monde-1557051891052514381",
+      "id": "Le Monde--2205777888509690538",
       "source": "Le Monde",
       "title": "Le Sénat américain approuve à une courte majorité la nomination de Todd Blanche, l’ancien avocat personnel de Donald Trump, comme ministre de la justice",
-      "excerpt": "L’opposition démocrate, qui dénonce une utilisation politique de la justice, s’opposait fermement à cette nomination.",
+      "excerpt": "L’opposition démocrate s’opposait en bloc à sa nomination, dénonçant l’utilisation par l’administration du ministère de la justice comme d’une arme politique contre ses opposants.",
       "link": "https://www.lemonde.fr/international/article/2026/08/08/le-senat-americain-approuve-de-justesse-la-nomination-de-todd-blanche-l-ancien-avocat-personnel-de-donald-trump-comme-ministre-de-la-justice_6741160_3210.html",
-      "time": "Il y a 17 min",
+      "time": "Il y a 1h",
       "pubDate": 1786178895.0
     },
     {
-      "id": "Libération-922611122424328920",
+      "id": "Libération-2617632800303003648",
       "source": "Libération",
       "title": "«Une première» : la justice reconnaît un préjudice d’anxiété pour une victime du «violeur de la Sambre»",
       "excerpt": "Jusqu’à l’arrestation en 2018 de Dino Scala,  condamné en 2022 à 20 ans de prison pour une cinquantaine de viols, elle a vécu dans une «hypervigilance constante», a fait part son avocat auprès de la «...",
       "link": "https://www.liberation.fr/societe/police-justice/une-premiere-la-justice-reconnait-un-prejudice-danxiete-pour-une-victime-du-violeur-de-la-sambre-20260808_U4JZABUGQJBDBJM4M3ETNBUTWA/",
-      "time": "Il y a 18 min",
+      "time": "Il y a 1h",
       "pubDate": 1786178798.0
     },
     {
-      "id": "Libération-7037016638637008421",
-      "source": "Libération",
-      "title": "EN DIRECT - Incendies : 34 départements classés en risque «élevé» de feu de forêt ce samedi",
-      "excerpt": "Le feu qui sévit depuis cinq jours dans le massif de Claps, dans la Drôme, a parcouru vendredi soir près de 300 hectares de forêt et la situation reste «complexe» au niveau de plusieurs points chauds,...",
-      "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-le-feu-est-fixe-dans-le-var-mais-poursuit-sa-progression-dans-la-drome-20260808_CLNZ3Y5XOZBVBAQUJGX7J4BODA/",
-      "time": "Il y a 24 min",
-      "pubDate": 1786178478.0
-    },
-    {
-      "id": "Libération--7690138495691563477",
+      "id": "Libération--5446333920578807046",
       "source": "Libération",
       "title": "Ma pire rando : «J’ai peur de m’endormir. On reste collés, sinon on se dit qu’on va mourir !»",
       "excerpt": "En randonnée, il y a le marcheur qui anticipe le moindre pépin et celui qui part la fleur au fusil. Jusqu’au jour où la catastrophe arrive. Dans ce quinzième épisode, Anaïs se souvient d’un bivouac gl...",
       "link": "https://www.liberation.fr/lifestyle/voyages/ma-pire-rando-jai-peur-de-mendormir-on-reste-colles-sinon-on-se-dit-quon-va-mourir-20260808_DQ6IHV7GYVFGLITWGAOAHZIOKQ/",
-      "time": "Il y a 25 min",
+      "time": "Il y a 1h",
       "pubDate": 1786178400.0
     },
     {
-      "id": "France Info-2381675620842285922",
-      "source": "France Info",
-      "title": "Incendie fixé dans le Var : \"Nous ne crions pas victoire trop vite\", assure le Service départemental d'incendie et de secours, 450 sapeurs-pompiers encore mobilisés sur le terrain",
-      "excerpt": "L'incendie du Gros Bessillon a été fixé vendredi. Environ 450 sapeurs-pompiers sont encore mobilisés sur le terrain.",
-      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-incendie-dans-le-var-apres-18-jours-de-mobilisation-des-pompiers-le-feu-du-gros-bessillon-est-fixe_8139485.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 30 min",
-      "pubDate": 1786178079.0
-    },
-    {
-      "id": "Libération-1887583359391613656",
+      "id": "Libération-7958586604078383607",
       "source": "Libération",
       "title": "En Colombie, le nouveau président Abelardo de la Espriella sonne le retour de «l’ordre» et de Dieu",
       "excerpt": "Le nouveau dirigeant d’extrême-droite a pris ses fonctions vendredi 7 août, lors d’une cérémonie aux accents militaires et religieux. Promettant le retour de «l’ordre» et de «l’autorité», il tourne la...",
       "link": "https://www.liberation.fr/international/amerique/en-colombie-le-nouveau-president-abelardo-de-la-espriella-sonne-le-retour-de-lordre-et-de-dieu-20260808_S3WZU7AGGNAKTOW5P57A4WWQ4Y/",
-      "time": "Il y a 49 min",
+      "time": "Il y a 1h",
       "pubDate": 1786176968.0
     },
     {
-      "id": "Le Monde--6726948430475449304",
-      "source": "Le Monde",
-      "title": "Carlos Echeverria Jesus, politiste : « La crise de Ceuta traduit les ambitions territoriales du Maroc »",
-      "excerpt": "Après que 72 000 migrants venus de la ville marocaine de Fnideq ont atteint l’enclave espagnole de Ceuta les 30 et 31 juillet, le directeur de l’Observatoire de Ceuta et Melilla analyse, dans un entre...",
-      "link": "https://www.lemonde.fr/afrique/article/2026/08/08/carlos-echeverria-jesus-politiste-la-crise-de-ceuta-traduit-les-ambitions-territoriales-du-maroc_6741060_3212.html",
-      "time": "Il y a 1h",
-      "pubDate": 1786176011.0
-    },
-    {
-      "id": "Libération-2830015807754594234",
+      "id": "Libération-3203920669483610842",
       "source": "Libération",
       "title": "Deepfakes, faux reportages vidéo, fausses unes de journaux : Gabriel Attal porte plainte, dénonçant une ingérence russe",
       "excerpt": "Le candidat à la présidentielle et patron du parti Renaissance a porté plainte pour «ingérence étrangère» en «provenance de réseaux russes», ont fait part samedi 8 août ses avocats.",
@@ -82,34 +145,25 @@
       "pubDate": 1786175562.0
     },
     {
-      "id": "France Info--3203613496138948177",
-      "source": "France Info",
-      "title": "Prairies à sec, fruits et légumes \"brûlés\", récoltes en berne… Les agriculteurs face à \"l'immensité de la crise\" climatique",
-      "excerpt": "Maraîchers et éleveurs témoignent d'un été \"sans précédent\" dans les champs, marqué par une sécheresse record et des canicules sans fin. La production risque d'être affectée pour de longs mois.",
-      "link": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/prairies-a-sec-fruits-et-legumes-brules-recoltes-en-berne-les-agriculteurs-face-a-l-immensite-de-la-crise-climatique_8136905.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
-      "pubDate": 1786174412.0
-    },
-    {
-      "id": "Libération--194605461834400969",
+      "id": "Libération-6959767497865554333",
       "source": "Libération",
       "title": "Les voyageurs venant d’Italie sont désormais contrôlés aux frontières espagnoles",
       "excerpt": "Cible de Rome depuis l’arrivée massive d’exilés dans l’enclave espagnole de Ceuta, Madrid a répondu vendredi 7 août en appliquant des mesures similaires à celles imposées par l’Italie aux personnes ve...",
       "link": "https://www.liberation.fr/international/europe/les-voyageurs-venant-ditalie-sont-desormais-controles-aux-frontieres-espagnoles-20260808_URLGXZ6S6BFWTHRI5SJML2CIGM/",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1786173997.0
     },
     {
-      "id": "France Info--695821133967438070",
+      "id": "France Info-8195358466697396467",
       "source": "France Info",
       "title": "Les prix du carburant poursuivent leur léger recul et perdent 2 centimes en moyenne en 24h",
       "excerpt": "Cette baisse intervient au moment où l'essence est passée en dessous de la barre symbolique des 2 euros le litre vendredi.",
       "link": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/les-prix-du-carburant-poursuivent-leur-leger-recul-et-perdent-2-centimes-en-moyenne-en-24h_8139542.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1786173442.0
     },
     {
-      "id": "Libération-506716230152002100",
+      "id": "Libération--1648724305239872812",
       "source": "Libération",
       "title": "Maïram Guissé : «Tu manges des glaces, tu inventes des jeux : tu découvres le bonheur des petites choses»",
       "excerpt": "Quels souvenirs garde-t-on de ces «vacances» particulières ? Aujourd’hui, Maïram Guissé, journaliste et autrice, revient sur sa jeunesse dans le quartier des Roses, à Canteleu, près de Rouen (Seine-Ma...",
@@ -118,7 +172,7 @@
       "pubDate": 1786172640.0
     },
     {
-      "id": "Libération--7764791964545026496",
+      "id": "Libération--687973992988729179",
       "source": "Libération",
       "title": "Cet été, 30 chiffres aussi dingues qu’inutiles",
       "excerpt": "Cléopâtre plus proche de l’iPhone que de la pyramide de Kheops, 45 millions de bananes pour mourir de radioactivité… Chaque jour de l’été, une statistique aussi rigoureuse que parfaitement inutile (ou...",
@@ -127,34 +181,16 @@
       "pubDate": 1786172400.0
     },
     {
-      "id": "Libération--1315838461157737599",
-      "source": "Libération",
-      "title": "Aux Etats-Unis, Donald Trump repart en guerre contre le droit du sol",
-      "excerpt": "Malgré un premier revers infligé par la Cour suprême, le président américain a signé jeudi 6 août deux nouveaux décrets s’attaquant à l’obtention de la nationalité pour des enfants nés sur le sol amér...",
-      "link": "https://www.liberation.fr/international/amerique/aux-etats-unis-donald-trump-repart-en-guerre-contre-le-droit-du-sol-20260808_6SEEHIYIVNH2PPVN3PKPNKQ5RY/",
-      "time": "Il y a 2h",
-      "pubDate": 1786171438.0
-    },
-    {
-      "id": "Libération--4074657703272913955",
-      "source": "Libération",
-      "title": "Ce que proposent les partis politiques pour lutter contre les ingérences étrangères",
-      "excerpt": "Alors que 2027 verra se dérouler l’élection présidentielle, la multiplication des contenus visant certains candidats laisse craindre une campagne minée par ces opérations de désinformation. Le gouvern...",
-      "link": "https://www.liberation.fr/politique/ce-que-proposent-les-partis-politiques-pour-lutter-contre-les-ingerences-etrangeres-20260808_OF4PVSJ4PNFYBIXTIHKBDZPBHE/",
-      "time": "Il y a 2h",
-      "pubDate": 1786169400.0
-    },
-    {
-      "id": "Le Monde--6526705765003241982",
+      "id": "Le Monde-5598280934659230226",
       "source": "Le Monde",
       "title": "Présidentielle 2027 : Gabriel Attal porte plainte « pour une ingérence numérique extérieure » et « en provenance de Russie »",
       "excerpt": "La plainte, déposée vendredi soir, dénonce « des faits d’ingérence étrangère, de manipulation de l’information, de fabrication de contenus truqués, susceptibles de porter atteinte aux intérêts fondame...",
       "link": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/08/gabriel-attal-porte-plainte-pour-une-ingerence-numerique-exterieure-et-en-provenance-de-russie_6740860_6205049.html",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1786166922.0
     },
     {
-      "id": "France Info-7292830497935968546",
+      "id": "France Info-6446606639894968044",
       "source": "France Info",
       "title": "Horizon dégagé, météo... Comment trouver le bon endroit pour observer l'éclipse solaire du 12 août",
       "excerpt": "Plusieurs conditions doivent être réunies pour pouvoir regarder la tant attendue éclipse solaire qui aura lieu mercredi soir dans le ciel. Elle sera totale en Espagne et partiellement visible en Franc...",
@@ -163,7 +199,7 @@
       "pubDate": 1786164825.0
     },
     {
-      "id": "France Info-1423029143996862379",
+      "id": "France Info-6188501946438871553",
       "source": "France Info",
       "title": "Guerre au Moyen-Orient : les Etats-Unis ont-ils épuisé leurs stocks de missiles ?",
       "excerpt": "Plusieurs médias américains affirment que les Etats-Unis sont à court de missiles défensifs et offensifs en raison de la guerre au Moyen-Orient. Donald Trump nie toute pénurie. Il a assuré jeudi que l...",
@@ -172,16 +208,7 @@
       "pubDate": 1786164782.0
     },
     {
-      "id": "Le Monde-7984879326151353041",
-      "source": "Le Monde",
-      "title": "EN DIRECT, guerre en Ukraine : de nouvelles frappes russes sur Kiev et sa région font au moins trois morts",
-      "excerpt": "Des dégâts ont été constatés en trois endroits de la localité de Brovary, au nord-est de la capitale ukrainienne, à la suite de cette attaque qui a également fait au moins sept blessés. Mercredi, au m...",
-      "link": "https://www.lemonde.fr/international/live/2026/08/08/en-direct-guerre-en-ukraine-de-nouvelles-frappes-russes-sur-kiev-et-sa-region-font-au-moins-trois-morts-dont-un-enfant_6737250_3210.html",
-      "time": "Il y a 4h",
-      "pubDate": 1786164756.0
-    },
-    {
-      "id": "France Info-3863897241595530131",
+      "id": "France Info-6827392939104645270",
       "source": "France Info",
       "title": "NOS JOURS HEUREUX. \"On regarde le ciel comme des enfants\" : à l'observatoire de Saint-Véran, les férus de montagne visent la Lune et les étoiles",
       "excerpt": "Notre série \"Nos jours heureux\" explore les moments de bonheur et de joie pendant l'été. Dans cet épisode, un groupe d'amateurs s'initie à l'astronomie lors d'une nuit inoubliable dans le Queyras.",
@@ -190,25 +217,7 @@
       "pubDate": 1786164697.0
     },
     {
-      "id": "France Info-5396055145826107666",
-      "source": "France Info",
-      "title": "Tour de France femmes 2026 : nouveau sprint attendu et Lorena Wiebes pour la passe de trois à Nice ? La 8e étape en questions",
-      "excerpt": "Les coureuses retrouvent une étape de plaine, samedi, à la veille de l'arrivée de cette édition 2026.",
-      "link": "https://www.franceinfo.fr/tour-de-france/etape-du-jour/tour-de-france-femmes-2026-nouveau-sprint-attendu-et-lorena-wiebes-pour-la-passe-de-trois-a-nice-la-8e-etape-en-questions_8136020.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 4h",
-      "pubDate": 1786164301.0
-    },
-    {
-      "id": "Le Monde-955871851699111924",
-      "source": "Le Monde",
-      "title": "« Si en plus on nous enlève nos animaux mignons, on se sent trahis » : ce que les vidéos d’animaux générées par IA disent de nous et d’Internet",
-      "excerpt": "Les images d’adorables chatons, l’un des socles de la culture Internet, sont de plus en plus souvent générées par intelligence artificielle. Symptôme des évolutions du réseau des réseaux, elles provoq...",
-      "link": "https://www.lemonde.fr/pixels/article/2026/08/08/si-en-plus-on-nous-enleve-nos-animaux-mignons-on-se-sent-trahis-ce-que-les-videos-d-animaux-generees-par-ia-disent-de-nous-et-d-internet_6740822_4408996.html",
-      "time": "Il y a 4h",
-      "pubDate": 1786162506.0
-    },
-    {
-      "id": "Le Monde--1723563184117231342",
+      "id": "Le Monde--8915412861030318836",
       "source": "Le Monde",
       "title": "Incendies dans le Var : les leçons d’un feu qui a tenu tête aux pompiers pendant dix-huit jours",
       "excerpt": "Commencé le 21 juillet, le « plus long feu » du département, extrêmement complexe, a été déclaré « fixé » le 7 août dans le massif du Gros Bessillon. Le combat pour le maîtriser a illustré l’importanc...",
@@ -217,7 +226,7 @@
       "pubDate": 1786161631.0
     },
     {
-      "id": "Le Monde--4164845117758110007",
+      "id": "Le Monde-4320833947395393528",
       "source": "Le Monde",
       "title": "L’Arabie saoudite, la Turquie et le Pakistan scellent à La Mecque une alliance de défense inédite",
       "excerpt": "Riyad, Ankara et Islamabad ont signé, vendredi 7 août, un pacte prévoyant qu’une attaque contre l’un des trois Etats sera considérée comme une attaque contre les trois alliés. L’accord marque un tourn...",
@@ -226,7 +235,7 @@
       "pubDate": 1786161620.0
     },
     {
-      "id": "Le Monde-2044591229225981607",
+      "id": "Le Monde--6874915066621405470",
       "source": "Le Monde",
       "title": "Derrière le succès du Tour de France Femmes, la crainte d’un cyclisme féminin à deux vitesses",
       "excerpt": "Si la discipline s’est largement professionnalisée depuis le retour de la Grande Boucle en 2022, certaines actrices du secteur s’inquiètent que cet essor rapide lèse les équipes et coureuses qui n’évo...",
@@ -235,72 +244,63 @@
       "pubDate": 1786161620.0
     },
     {
-      "id": "France Info--222324096156706750",
-      "source": "France Info",
-      "title": "\"Cotton Queen\", \"Des fleurs pour Tokyo\", \"Girl\" : quels sont les films à voir (ou pas) cette semaine au cinéma ?",
-      "excerpt": "Découvrez les critiques de notre sélection des films sortis en salles le mercredi 5 août 2026.",
-      "link": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/cotton-queen-des-fleurs-pour-tokyo-girl-quels-sont-les-films-a-voir-ou-pas-cette-semaine-au-cinema_8137166.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 5h",
-      "pubDate": 1786161601.0
-    },
-    {
-      "id": "Le Monde-3458718721110203730",
+      "id": "Le Monde--8237332463726807971",
       "source": "Le Monde",
-      "title": "Après la mort de Lyhanna, les rapports explosifs des magistrats sur les enquêtes pour atteintes sexuelles aux mineurs",
-      "excerpt": "Dossiers à l’« abandon » ou « perdus », personnels mal formés : un courrier adressé par le ministre de la justice, Gérald Darmanin, à son homologue de l’intérieur, Laurent Nuñez, révélé par « Le Monde...",
-      "link": "https://www.lemonde.fr/societe/article/2026/08/08/dossiers-a-l-abandon-ou-perdus-malgre-des-auteurs-identifies-personnels-mal-formes-les-rapports-explosifs-des-magistrats-sur-les-enquetes-pour-atteintes-sexuelles-aux-mineurs_6740745_3224.html",
-      "time": "Il y a 5h",
-      "pubDate": 1786159800.0
+      "title": "Atmarupananda, le gourou missionnaire à la tête de la petite communauté de l’ashram de Gretz-Armainvilliers",
+      "excerpt": "« Gourous et ashrams, la ruée vers l’Ouest » (5/6). Situé en pleine campagne de la Seine-et-Marne, un ashram perpétue la philosophie hindoue auprès d’un public restreint, mais souvent très engagé, de...",
+      "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/08/atmarupananda-le-gourou-missionnaire-a-la-tete-de-la-petite-communaute-de-l-ashram-de-gretz-armainvilliers_6740746_3451060.html",
+      "time": "Il y a 6h",
+      "pubDate": 1786159813.0
     },
     {
-      "id": "Le Monde-4448866364635730109",
+      "id": "Le Monde--4693930861200959583",
       "source": "Le Monde",
       "title": "Les arrestations en Algérie de Mehdi Laribi et Djamel Djeha, deux cadres présumés du narcotrafic, signe du timide réchauffement entre Paris et Alger",
       "excerpt": "Le ministre de la justice, Gérald Darmanin, s’est félicité, jeudi 6 août, de cette « coopération relancée au service de la sécurité de nos deux pays ». Mais le fait qu’aucun des deux suspects n’ait ét...",
       "link": "https://www.lemonde.fr/afrique/article/2026/08/08/les-arrestations-en-algerie-de-mehdi-laribi-et-djamel-djeha-deux-cadres-presumes-du-narcotrafic-signe-du-timide-rechauffement-entre-paris-et-alger_6740743_3212.html",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1786159800.0
     },
     {
-      "id": "France Info--4606632421858306308",
-      "source": "France Info",
-      "title": "Les dix BD et romans graphiques à croquer sans modération cet été",
-      "excerpt": "Le premier semestre 2026 a vu la parution de nombreux romans graphiques et BD de très bonne qualité.",
-      "link": "https://www.franceinfo.fr/culture/bd/les-dix-bd-et-romans-graphiques-a-croquer-sans-moderation-cet-ete_8052227.html#xtor=RSS-3-[lestitres]",
-      "time": "04 Jul",
-      "pubDate": 1783157134.0
+      "id": "Le Monde--3502063522862122714",
+      "source": "Le Monde",
+      "title": "« S’il fait moche, on se met en mode “éco” » : comment les refuges de montagne expérimentent déjà la sobriété du futur",
+      "excerpt": "« Havres des cimes » (4/7). Du fait de leur situation isolée, coupés de tout réseau, les refuges de montagne ont fait de la frugalité une vertu cardinale, élevée toujours plus haut sous la pression du...",
+      "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/08/s-il-fait-moche-on-se-met-en-mode-eco-comment-les-refuges-de-montagne-experimentent-deja-la-sobriete-du-futur_6740608_3451060.html",
+      "time": "Il y a 7h",
+      "pubDate": 1786154411.0
     }
   ],
   "anglophone": [
     {
-      "id": "NPR-7624001734159496064",
+      "id": "NPR-5441007073733943331",
       "source": "NPR",
       "title": "Data centers are a political issue crossing party lines, driving voters to candidates",
       "excerpt": "Wisconsin Democratic candidate for governor Francesca Hong called for a moratorium on data centers. So did Ohio Republican governor hopeful Vivek Ramaswamy, as data centers begin to dominate campaigns...",
       "link": "https://www.npr.org/2026/08/08/g-s1-137853/data-centers-primaries-midterms",
-      "time": "Il y a 5 min",
+      "time": "Il y a 49 min",
       "pubDate": 1786179600.0
     },
     {
-      "id": "NPR-7949366125798907378",
+      "id": "NPR--2398395259909521507",
       "source": "NPR",
       "title": "Senate votes to confirm Todd Blanche as attorney general",
       "excerpt": "The Senate narrowly confirmed Todd Blanche as U.S. attorney general early Saturday morning, elevating President Trump's former personal lawyer to head the Justice Department.",
       "link": "https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general",
-      "time": "Il y a 18 min",
+      "time": "Il y a 1h",
       "pubDate": 1786178799.0
     },
     {
-      "id": "BBC News-5154571124012984206",
+      "id": "BBC News-3413127168080424469",
       "source": "BBC News",
       "title": "Child among three killed in Russian missile attacks near Kyiv",
       "excerpt": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
       "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1786169576.0
     },
     {
-      "id": "The Guardian--3428381847401180502",
+      "id": "The Guardian--8031991967432115321",
       "source": "The Guardian",
       "title": "‘I couldn’t breathe’: the deadly health burden of wildfire smoke",
       "excerpt": "Scientists race to untangle complex links between exposure and mortality as fire weather grows more prevalent A thousand kilometres from the infernos gorging on northern Ontario’s boreal forests, Erin...",
@@ -309,16 +309,16 @@
       "pubDate": 1786165237.0
     },
     {
-      "id": "The Guardian--5414710675313376309",
+      "id": "The Guardian--1026971974733757041",
       "source": "The Guardian",
       "title": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown",
       "excerpt": "Trump ally Abelardo De La ‌Espriella vows to start ‘profound transformation’ of country’s destiny as he is sworn in The ​Trump administration plans to provide $1bn in security assistance to the ⁠gover...",
       "link": "https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1786162098.0
     },
     {
-      "id": "BBC News--5880762800964663728",
+      "id": "BBC News-5233486176784350210",
       "source": "BBC News",
       "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
       "excerpt": "Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances.",
@@ -327,52 +327,52 @@
       "pubDate": 1786147369.0
     },
     {
-      "id": "BBC News-8755753958685619647",
+      "id": "BBC News--6458417137950888605",
       "source": "BBC News",
       "title": "The phone book that led us to Assad's spy chief in hiding",
       "excerpt": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
       "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 9h",
+      "time": "Il y a 10h",
       "pubDate": 1786144992.0
     },
     {
-      "id": "BBC News-6056532019715990376",
+      "id": "BBC News-6497964186588940889",
       "source": "BBC News",
       "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
       "excerpt": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
       "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 10h",
+      "time": "Il y a 11h",
       "pubDate": 1786140835.0
     },
     {
-      "id": "BBC News--1841990834720377264",
+      "id": "BBC News--4750633278438641632",
       "source": "BBC News",
       "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
       "excerpt": "In a wide-ranging BBC interview, the former president's son denied having any interest in running for office and said his father's cancer has spread.",
       "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 10h",
+      "time": "Il y a 11h",
       "pubDate": 1786140420.0
     },
     {
-      "id": "The Guardian--3137413487513862604",
+      "id": "The Guardian-5664299996396547800",
       "source": "The Guardian",
       "title": "Spain to introduce temporary border checks on visitors from Italy",
       "excerpt": "Move comes in response to Rome imposing similar measures after mass migration rush to Ceuta Spain has announced it will introduce temporary border checks on visitors from Italy in response to Rome imp...",
       "link": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
-      "time": "Il y a 11h",
+      "time": "Il y a 12h",
       "pubDate": 1786139078.0
     },
     {
-      "id": "BBC News--4168580295174116769",
+      "id": "BBC News--2573568331209636942",
       "source": "BBC News",
       "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
       "excerpt": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
       "link": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 11h",
+      "time": "Il y a 12h",
       "pubDate": 1786137567.0
     },
     {
-      "id": "The Guardian-974722547563504095",
+      "id": "The Guardian--4301231092005119850",
       "source": "The Guardian",
       "title": "US police officer accused of killing three people in Mexico arrested at border",
       "excerpt": "Chad Eberle of Texas charged over deadly shooting in Saltillo that officials say stemmed from custody dispute A <a href=\"https://www.theguardian.com/us-news/texas\">Texas</a> police officer has been ar...",
@@ -381,115 +381,115 @@
       "pubDate": 1786135764.0
     },
     {
-      "id": "NPR-8998377823442458644",
+      "id": "NPR--3169097381791563462",
       "source": "NPR",
       "title": "Women in Maine may choose the victor in this year's Senate race",
       "excerpt": "The race between Susan Collins and Troy Jackson is one of the nation's most high-profile Senate contests this year -- and may ultimately be decided by an especially powerful voting bloc: Maine women.",
       "link": "https://www.npr.org/2026/08/07/nx-s1-5915655/women-in-maine-may-choose-the-victor-in-this-years-senate-race",
-      "time": "Il y a 12h",
+      "time": "Il y a 13h",
       "pubDate": 1786134278.0
     },
     {
-      "id": "NPR-3941745915198104471",
+      "id": "NPR--1220420728410312100",
       "source": "NPR",
       "title": "Trump renews push to fire Fed Governor Lisa Cook",
       "excerpt": "Trump is once again threatening to fire Cook over unproven allegations of mortgage fraud after an earlier effort to remove Cook was struck down by the Supreme Court.",
       "link": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve",
-      "time": "Il y a 13h",
+      "time": "Il y a 14h",
       "pubDate": 1786131335.0
     },
     {
-      "id": "The Guardian-5341441019853506130",
+      "id": "The Guardian-561647281229716394",
       "source": "The Guardian",
       "title": "Judge approves Trump effort to end South Sudan TPS protections",
       "excerpt": "Decision follows supreme court ruling that allowed US government to strip protections for Haitians and Syrians Temporary protected status (TPS) for hundreds of South Sudanese nationals in the United S...",
       "link": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps",
-      "time": "Il y a 14h",
+      "time": "Il y a 15h",
       "pubDate": 1786127674.0
     },
     {
-      "id": "NPR-3450544774261500621",
+      "id": "NPR--6388773635786807632",
       "source": "NPR",
       "title": "Another court blocks White House ballroom work, teeing up a Supreme Court review",
       "excerpt": "A federal appeals court says above-ground construction cannot continue without approval from Congress, siding with historic preservation advocates.",
       "link": "https://www.npr.org/2026/08/07/nx-s1-5925123/white-house-ballroom-appeals-court-congress",
-      "time": "Il y a 14h",
+      "time": "Il y a 15h",
       "pubDate": 1786126237.0
     },
     {
-      "id": "BBC News--7855163537134532601",
+      "id": "BBC News-6037175411797562523",
       "source": "BBC News",
       "title": "Book hidden in fireplace returned to Australian library 150 years overdue",
       "excerpt": "It is thought an apprentice stonemason who worked on the Houses of Parliament in London borrowed it.",
       "link": "https://www.bbc.co.uk/news/articles/c39eprxln0go?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 14h",
+      "time": "Il y a 15h",
       "pubDate": 1786126018.0
     },
     {
-      "id": "NPR-8845333854717859423",
+      "id": "NPR-5034651058479866244",
       "source": "NPR",
       "title": "Monty Roberts, who trained horses through trust, dies at 91",
       "excerpt": "The internationally acclaimed horseman defied the conventional method of breaking horses and developed his own gentler approach — based on horses' non-verbal language. Roberts spoke with <em>Fresh Air...",
       "link": "https://www.npr.org/2026/08/07/nx-s1-5924104/monty-roberts-horse-training",
-      "time": "Il y a 15h",
+      "time": "Il y a 16h",
       "pubDate": 1786124897.0
     },
     {
-      "id": "BBC News--495801525900729089",
+      "id": "BBC News-225775464227475465",
       "source": "BBC News",
       "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
       "excerpt": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
       "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 15h",
+      "time": "Il y a 16h",
       "pubDate": 1786124574.0
     },
     {
-      "id": "NPR-235746301093834497",
+      "id": "NPR-2478726311661873818",
       "source": "NPR",
       "title": "Senate passes Russia sanctions bill that was long championed by Lindsey Graham",
       "excerpt": "The bill is meant to stifle Russia's economy by allowing for tough new tariffs against major importers of Russian energy. The legislation was led by Lindsey Graham before his unexpected death in July.",
       "link": "https://www.npr.org/2026/08/07/nx-s1-5924914/senate-passes-russia-sanctions-bill-that-was-long-championed-by-lindsey-graham",
-      "time": "Il y a 15h",
+      "time": "Il y a 16h",
       "pubDate": 1786124020.0
     },
     {
-      "id": "BBC News-8359648523275962162",
+      "id": "BBC News-9097232280904397669",
       "source": "BBC News",
       "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
       "excerpt": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons.",
       "link": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 16h",
+      "time": "Il y a 17h",
       "pubDate": 1786119225.0
     },
     {
-      "id": "NPR-2176416042363832516",
+      "id": "NPR--8800169313526796954",
       "source": "NPR",
       "title": "Colombia's new president vows to remake the country — and challenge rebel groups",
       "excerpt": "A new political era for Colombia: a hard-right president promises order, growth and confrontation.",
       "link": "https://www.npr.org/2026/08/07/nx-s1-5924775/colombias-new-president-vows-to-remake-the-country-and-challenge-its-fragile-peace",
-      "time": "Il y a 17h",
+      "time": "Il y a 18h",
       "pubDate": 1786117305.0
     },
     {
-      "id": "BBC News-5737696414622032948",
+      "id": "BBC News-1835257114461160032",
       "source": "BBC News",
       "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
       "excerpt": "The student says she feared never seeing her mother again after the attack killed five teachers.",
       "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 18h",
+      "time": "Il y a 19h",
       "pubDate": 1786112427.0
     },
     {
-      "id": "NPR-5944093213757620936",
+      "id": "NPR--217760191573157019",
       "source": "NPR",
       "title": "Blanche's path to confirmation appears clear after winning key Republican's support",
       "excerpt": "A key Republican senator, Bill Cassidy of Louisiana, said he would back Todd Blanche's nomination as attorney general, smoothing the path for his ultimate confirmation by the Senate.",
       "link": "https://www.npr.org/2026/08/07/g-s1-137773/lisa-murkowski-todd-blanche-attorney-general",
-      "time": "Il y a 18h",
+      "time": "Il y a 19h",
       "pubDate": 1786111979.0
     },
     {
-      "id": "The Guardian-1337562895610598809",
+      "id": "The Guardian-7412217035769724188",
       "source": "The Guardian",
       "title": "Colombia on the brink: ELN guerrilla group prepares for return to war",
       "excerpt": "As Abelardo de la Espriella takes office as president vowing a new military offensive, the country’s last leftwing rebels are getting ready to fight back As the boat approached the riverbank, camoufla...",
@@ -498,16 +498,16 @@
       "pubDate": 1786111232.0
     },
     {
-      "id": "NPR-1625877473831267163",
+      "id": "NPR-7651249271778577615",
       "source": "NPR",
       "title": "Employers unexpectedly cut 23,000 jobs in a sign of a wilting labor market",
       "excerpt": "U.S. employers cut 23,000 jobs in July, and job gains for the two previous months were weaker than initially reported, according to a report Friday from the Labor Department.",
       "link": "https://www.npr.org/2026/08/07/nx-s1-5924786/employers-economy-labor-jobs-federal-reserve",
-      "time": "Il y a 19h",
+      "time": "Il y a 20h",
       "pubDate": 1786108210.0
     },
     {
-      "id": "The Guardian--6990609692700243823",
+      "id": "The Guardian-6569844975110337526",
       "source": "The Guardian",
       "title": "Haitians face arrest and deportation after US removes TPS protections",
       "excerpt": "DHS secretary Markwayne Mullin says ‘We’re going after them right now’ despite threat of violence in home country  Hundreds of thousands of Haitians are faced with the prospect of imminent risk of arr...",
@@ -516,7 +516,7 @@
       "pubDate": 1786100416.0
     },
     {
-      "id": "The Guardian--5034491031333314496",
+      "id": "The Guardian--1866081648760927190",
       "source": "The Guardian",
       "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
       "excerpt": "Cases have passed 4,000 and health watchdog plans to go door to door to find patients in major response escalation The virus causing a massive outbreak of Ebola in the Democratic Republic of the Congo...",
@@ -525,7 +525,7 @@
       "pubDate": 1786033126.0
     },
     {
-      "id": "The Guardian--8755549708297749228",
+      "id": "The Guardian--3995666874425844926",
       "source": "The Guardian",
       "title": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
       "excerpt": "State department informs Congress of planned closures in Canada, Grenada, Japan, Indonesia and Cameroon The US state department is to shut five foreign consulates and missions across Asia, Africa, Nor...",
@@ -534,7 +534,7 @@
       "pubDate": 1786030889.0
     },
     {
-      "id": "The Guardian--4236187499931845600",
+      "id": "The Guardian--8751864604404587552",
       "source": "The Guardian",
       "title": "Top Ugandan footballer killed by robbers armed with paving stones",
       "excerpt": "David Owori, who played for the national team, died in hospital after he tried to stop robbers taking his phone The Ugandan football community is in mourning after the death of a player who was fatall...",
@@ -543,5 +543,5 @@
       "pubDate": 1786026632.0
     }
   ],
-  "lastUpdate": "2026-08-08T09:05:22.217909"
+  "lastUpdate": "2026-08-08T09:49:07.127927"
 }
