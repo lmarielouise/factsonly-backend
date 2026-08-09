@@ -1,70 +1,97 @@
 {
   "francophone": [
     {
-      "id": "Libération--6419480048311561237",
+      "id": "France Info--7773761998518014702",
+      "source": "France Info",
+      "title": "Tour de France femmes 2026 : suivez la 9e et dernière étape qui attend les coureuses de la Grande Boucle",
+      "excerpt": "Les coureuses du Tour de France se mesurent au col d'Eze lors de la 9e et dernière étape.",
+      "link": "https://www.franceinfo.fr/tour-de-france/femmes/en-direct-tour-de-france-femmes-2026-une-derniere-etape-cruciale-attend-les-coureuses-de-la-grand-boucle_8140544.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 9 min",
+      "pubDate": 1786291654.0
+    },
+    {
+      "id": "France Info--4235602497224124685",
+      "source": "France Info",
+      "title": "Vingt-deux départements, du Cher à la Corse, placés en vigilance orange \"canicule\" pour la journée de lundi",
+      "excerpt": "Huit départements du Sud-Ouest sont par ailleurs placés en vigilance orange aux orages dimanche, treize autres en alerte orange \"canicule\".",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/huit-departements-du-sud-ouest-de-la-france-hexagonale-passeront-en-vigilance-orange-orage-dimanche-en-fin-d-apres-midi-treize-autres-departements-en-vigilance-orange-canicule_8140418.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 12 min",
+      "pubDate": 1786291450.0
+    },
+    {
+      "id": "Le Monde--5649267460545063685",
+      "source": "Le Monde",
+      "title": "Thaïlande : après une fusillade mortelle dans un lycée, le débat sur les armes relancé",
+      "excerpt": "Le 7 août, un adolescent de 14 ans a tué huit personnes par arme à feu, dont six dans son collège-lycée. Malgré une législation relativement stricte, près de 10 millions d’armes sont en circulation da...",
+      "link": "https://www.lemonde.fr/international/article/2026/08/09/thailande-apres-une-fusillade-mortelle-dans-un-lycee-le-debat-sur-les-armes-relance_6742671_3210.html",
+      "time": "Il y a 26 min",
+      "pubDate": 1786290599.0
+    },
+    {
+      "id": "France Info-4737128415298091797",
+      "source": "France Info",
+      "title": "Discussions entre l'Iran et Oman, exigences envers les Etats-Unis : où en sont les négociations sur le détroit d'Ormuz ?",
+      "excerpt": "Samedi, Téhéran a posé un nouvel ultimatum à Washington : si les Etats-Unis ne se plient pas aux exigences iraniennes, ils  devront assumer la responsabilité de la paralysie quasi-totale de cette voie...",
+      "link": "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/discussions-entre-l-iran-et-oman-exigences-envers-les-etats-unis-ou-en-sont-les-negociations-sur-le-detroit-d-ormuz_8140562.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 35 min",
+      "pubDate": 1786290035.0
+    },
+    {
+      "id": "Le Monde--4384058488777987129",
+      "source": "Le Monde",
+      "title": "« Léon, au-delà de l’or », sur France.tv : quand on a tout gagné à 22 ans en devenant champion olympique",
+      "excerpt": "Un père, Xavier Marchand, filme son fils et ses questionnements dans un triptyque documentaire dont les enjeux affectifs et existentiels dépassent le cadre de la compétition.",
+      "link": "https://www.lemonde.fr/culture/article/2026/08/09/leon-au-dela-de-l-or-sur-france-tv-quand-on-a-tout-gagne-a-22-ans-en-devenant-champion-olympique_6742638_3246.html",
+      "time": "Il y a 46 min",
+      "pubDate": 1786289412.0
+    },
+    {
+      "id": "Libération--5424961232978102771",
       "source": "Libération",
       "title": "«Un véritable musée submergé» : une épave romaine vieille d’au moins 2 100 ans et chargée de centaines d’amphores découverte au large de la Sicile",
       "excerpt": "Le bateau, retrouvé par des plongeurs italiens dans l’ouest de la Sicile, a été qualifié par le ministre italien de la Culture, Alessandro Giuli, comme «l’une des plus importantes découvertes récentes...",
       "link": "https://www.liberation.fr/international/europe/un-veritable-musee-submerge-une-epave-romaine-vieille-dau-moins-2-100-ans-et-chargee-de-centaines-damphores-decouverte-au-large-de-la-sicile-20260809_BJRRVUMD7VGAPDIEROGSD45CZQ/",
-      "time": "Il y a 26 min",
+      "time": "Il y a 50 min",
       "pubDate": 1786289181.0
     },
     {
-      "id": "France Info--5877584745021060045",
-      "source": "France Info",
-      "title": "\"Chicas tristes\" : la réalisatrice mexicaine Fernanda Tovar signe un premier film sensible et éclairant sur le viol et le consentement",
-      "excerpt": "\"Chicas tristes\" décortique de l'intérieur un cas de viol subi par une jeune fille de la part d'un jeune garçon de son entourage.",
-      "link": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/chicas-tristes-la-realisatrice-mexicaine-fernanda-tovar-signe-un-premier-film-sensible-et-eclairant-sur-le-viol-et-le-consentement_8110355.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 30 min",
-      "pubDate": 1786288918.0
-    },
-    {
-      "id": "Libération-3927313702129752858",
+      "id": "Libération--5296876970004399683",
       "source": "Libération",
       "title": "Il fallait l’inventer (7/8) : Samuel Tomatis, vague à l’algue",
       "excerpt": "Sensible au sort du vivant, le jeune designer industriel développe avec des scientifiques des biomatériaux à partir d’ulves ou de sargasses.",
       "link": "https://www.liberation.fr/portraits/il-fallait-linventer-78-samuel-tomatis-vague-a-lalgue-20260809_WHMWK4A25JEBVBLDVJ353RSWRI/",
-      "time": "Il y a 43 min",
+      "time": "Il y a 1h",
       "pubDate": 1786288150.0
     },
     {
-      "id": "Libération--2859666909848836671",
+      "id": "Libération-4182220694926885655",
       "source": "Libération",
       "title": "Michèle Pedinielli et le mystère du squelette de l’Institut",
       "excerpt": "Dans «les Flots rances de l’Arno», un épisode de la série «la Fille du Poulpe», l’autrice niçoise nous embarque en Toscane sur les traces d’une étrange disparition.",
       "link": "https://www.liberation.fr/culture/livres/michele-pedinielli-le-mystere-du-squelette-de-linstitut-20260809_E4TSJPSMNBBRDFN6K25YFZLIRU/",
-      "time": "Il y a 46 min",
+      "time": "Il y a 1h",
       "pubDate": 1786288007.0
     },
     {
-      "id": "Libération-7214437508612666934",
+      "id": "Libération--3572868117324651359",
       "source": "Libération",
       "title": "EN DIRECT – Vague de chaleur : 22 départements du quart sud-est placés en vigilance orange canicule lundi",
       "excerpt": "Dans son bulletin de 16 heures, Météo France précise qu’un nouvel épisode caniculaire va s’étendre à de nombreuses régions de France dans les prochains jours, après un «léger repli à l’échelle nationa...",
       "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-un-feu-en-cours-sur-un-camp-militaire-en-gironde-dans-une-zone-polluee-et-impenetrable-20260809_GINLHM4TYRBTTGBN7BSTCMEAEY/",
-      "time": "Il y a 49 min",
+      "time": "Il y a 1h",
       "pubDate": 1786287795.0
     },
     {
-      "id": "France Info--3341665925788648673",
-      "source": "France Info",
-      "title": "Vingt-deux départements, du Cher à la Corse, placés en vigilance orange \"canicule\" pour la journée de lundi",
-      "excerpt": "Huit départements du Sud-Ouest placés sont par ailleurs placés en vigilance orange aux orages dimanche, treize autres en alerte orange \"canicule\".",
-      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/huit-departements-du-sud-ouest-de-la-france-hexagonale-passeront-en-vigilance-orange-orage-dimanche-en-fin-d-apres-midi-treize-autres-departements-en-vigilance-orange-canicule_8140418.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 50 min",
-      "pubDate": 1786287718.0
-    },
-    {
-      "id": "France Info--2736829954061032739",
+      "id": "France Info--5404706096089406375",
       "source": "France Info",
       "title": "\"Tout ce qui peut être plus transparent est forcément une bonne nouvelle\", se félicite une association après un nouveau décret sur l'encadrement des Ehpad",
       "excerpt": "D'après un décret paru dimanche au Journal officiel, les Ehpad devront désormais transmettre chaque année trois nouveaux indicateurs à la Caisse nationale de solidarité pour l'autonomie, qui les publi...",
       "link": "https://www.franceinfo.fr/sante/senior/maltraitance-dans-les-ehpad/tout-ce-qui-peut-etre-plus-transparent-est-forcement-une-bonne-nouvelle-se-felicite-une-association-apres-un-nouveau-decret-sur-l-encadrement-des-ehpad_8140889.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 54 min",
+      "time": "Il y a 1h",
       "pubDate": 1786287476.0
     },
     {
-      "id": "Libération--936813566633067205",
+      "id": "Libération-3584031253553571448",
       "source": "Libération",
       "title": "Une compagnie pétrolière proche de Donald Trump s’apprête à forer au Groenland sans autorisation",
       "excerpt": "Le gouvernement de l’île arctique a lancé un «avertissement ferme» à Greenland Energy, qui a fait débarquer du matériel de forage dans une région reculée du Groenland afin d’extraire du pétrole.",
@@ -73,7 +100,7 @@
       "pubDate": 1786287031.0
     },
     {
-      "id": "Libération-7325072577639093882",
+      "id": "Libération--1498598506750398018",
       "source": "Libération",
       "title": "Les frères Achiba : «On prenait en cachette la Renault de papa pour aller acheter des sandwichs la nuit…»",
       "excerpt": "Quels souvenirs garde-t-on de ces «vacances» particulières ? Aujourd’hui, Mounir, ingénieur à la SNCF et Fouad, cadre dans l’administration, se remémorent leur jeunesse dans le quartier du Parc des Fr...",
@@ -82,61 +109,52 @@
       "pubDate": 1786285930.0
     },
     {
-      "id": "Libération-2967550210117233678",
+      "id": "Libération--2590624348723581091",
       "source": "Libération",
       "title": "La comédienne Dominique Frot est morte à l’âge de 68 ans",
       "excerpt": "Connue pour son rôle dans la série «Soda» et dans de nombreux longs métrages, la sœur cadette de Catherine Frot est morte vendredi 9 août, ont annoncé ce dimanche sa famille et son agent.",
       "link": "https://www.liberation.fr/culture/cinema/la-comedienne-dominique-frot-est-morte-a-lage-de-68-ans-20260809_6Q72BX7IORB3RB2ZCB3ID4C7GI/",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1786284828.0
     },
     {
-      "id": "Le Monde-4123127141358545204",
+      "id": "Le Monde--8875228603011629353",
       "source": "Le Monde",
       "title": "La guerre des serviettes : « Vous avez vu ce qui s’est passé en Catalogne ? »",
       "excerpt": "« Les douleurs des vacances » (4/7). Au bord de la piscine, le drap de bain posé sur un transat vide vaut titre de propriété. La course à la privatisation commence donc dès l’aube et peut parfois alle...",
       "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/09/la-guerre-des-serviettes-vous-avez-vu-ce-qui-s-est-passe-en-catalogne_6742571_3451060.html",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1786284737.0
     },
     {
-      "id": "Libération-9078127543119625892",
+      "id": "Libération--2948272334349509200",
       "source": "Libération",
       "title": "Canicules : au centre de soins de la faune sauvage à Maisons-Alfort, on en a plein les pattes",
       "excerpt": "Le seul établissement «toutes espèces» d’Ile-de-France a connu un mois de juin exceptionnel, avec plus de 1 100 animaux accueillis en une semaine, conséquence de la vague de chaleur historique coïncid...",
       "link": "https://www.liberation.fr/environnement/biodiversite/canicules-au-centre-de-soins-de-la-faune-sauvage-a-maisons-alfort-on-en-a-plein-les-pattes-20260809_7B7WFRYHKZB2FMFTTHOWCJ7RVA/",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1786284208.0
     },
     {
-      "id": "France Info-7736471511115928498",
-      "source": "France Info",
-      "title": "Tour de France femmes 2026 : suivez la 9e et dernière étape qui attend les coureuses de la Grande Boucle",
-      "excerpt": "Les coureuses du Tour de France vont se mesurer au col d'Eze lors de la 9e et dernière étape.",
-      "link": "https://www.franceinfo.fr/tour-de-france/femmes/en-direct-tour-de-france-femmes-2026-une-derniere-etape-cruciale-attend-les-coureuses-de-la-grand-boucle_8140544.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
-      "pubDate": 1786284189.0
-    },
-    {
-      "id": "France Info--8998332981859107057",
+      "id": "France Info--3756834195425006380",
       "source": "France Info",
       "title": "En Ukraine, un entrepôt de l'Organisation mondiale de la santé a été détruit, annonce le patron de l'institution",
       "excerpt": "L'entrepôt \"contenait des fournitures médicales humanitaires destinées aux établissements de santé de la ligne de front, principalement des fournitures d'urgence de l'OMS\", a annoncé dimanche le dirig...",
       "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-un-entrepot-de-l-organisation-mondiale-de-la-sante-a-ete-detruit-annonce-le-patron-de-l-institution_8140844.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1786283932.0
     },
     {
-      "id": "Le Monde-823159906028938400",
+      "id": "Le Monde--9196411319937956502",
       "source": "Le Monde",
-      "title": "EN DIRECT, Tour de France Femmes 2026 : Marlen Reusser chute dans la descente du col d’Eze, onze coureuses en tête à mi-parcours",
+      "title": "EN DIRECT, Tour de France Femmes 2026 : Isabella Holmgren seule en tête avant la dernière ascension du col d’Eze",
       "excerpt": "Qui va remporter cette édition 2026 ? Le peloton s’élance, dimanche, dans quatre boucles autour de Nice à l’occasion de la neuvième et dernière étape, à l’issue de laquelle sera connue la successeure...",
       "link": "https://www.lemonde.fr/sport/live/2026/08/09/en-direct-tour-de-france-femmes-2026-suivez-la-neuvieme-et-derniere-etape_6742569_3242.html",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1786283701.0
     },
     {
-      "id": "France Info--2368818093393039300",
+      "id": "France Info-1288118576918155826",
       "source": "France Info",
       "title": "Un enfant gravement brûlé par un jouet anti-stress dans le Pas-de-Calais, le parquet ouvre une enquête pour \"blessures involontaires\"",
       "excerpt": "Les investigations doivent déterminer les circonstances exactes de l'incident et si celui-ci est imputable à une \"défectuosité du produit\".",
@@ -145,7 +163,7 @@
       "pubDate": 1786282872.0
     },
     {
-      "id": "France Info--7720363928927195799",
+      "id": "France Info--4761321473707279500",
       "source": "France Info",
       "title": "Benyamin Nétanyahou \"rejette\" le plan américain pour Gaza et écarte tout retrait israélien tant que le Hamas n'est pas \"réellement désarmé\"",
       "excerpt": "L'accord accepté par le Hamas liait notamment le désarmement du mouvement à un retrait progressif des troupes israéliennes du territoire palestinien.",
@@ -154,7 +172,7 @@
       "pubDate": 1786282194.0
     },
     {
-      "id": "Libération-2564630094115241557",
+      "id": "Libération--5243724939086220390",
       "source": "Libération",
       "title": "Nétanyahou «rejette» le plan américain pour Gaza accepté par le Hamas, conditionnant tout retrait israélien à un «véritable» désarmement",
       "excerpt": "«Israël rejette le document en 15 points» présenté fin juillet par le «Conseil de Paix» de Donald Trump, a annoncé le Premier ministre israélien ce dimanche 9 août.",
@@ -163,7 +181,7 @@
       "pubDate": 1786281978.0
     },
     {
-      "id": "Libération--6103227367733049555",
+      "id": "Libération-599887660618472528",
       "source": "Libération",
       "title": "En Italie, le Parlement se projette sur la création de son propre CNC",
       "excerpt": "S’inspirant du modèle français, le gouvernement italien souhaite réformer le cinéma en créant une agence publique autonome. Une «bonne chose» pour les professionnels du secteur, qui déplorent tout de...",
@@ -172,7 +190,7 @@
       "pubDate": 1786281683.0
     },
     {
-      "id": "France Info--8591212035609686765",
+      "id": "France Info-4199049562234982345",
       "source": "France Info",
       "title": "Un jeune homme entre la vie et la mort après avoir été percuté à trottinette par un fourgon de CRS à Rennes",
       "excerpt": "L'homme est âgé de 22 ans, son pronostic vital est engagé. Une enquête a été ouverte.",
@@ -181,7 +199,7 @@
       "pubDate": 1786278523.0
     },
     {
-      "id": "Le Monde--706827890062524687",
+      "id": "Le Monde-8755195068071577718",
       "source": "Le Monde",
       "title": "Israël « rejette » le plan américain pour Gaza accepté par le Hamas, annonce Benyamin Nétanyahou",
       "excerpt": "L’Etat hébreu a rejeté le document présenté fin juillet par le Conseil de la paix de Donald Trump. Son armée « n’effectuera aucun retrait [du territoire palestinien] tant que le Hamas ne sera pas véri...",
@@ -190,16 +208,16 @@
       "pubDate": 1786275742.0
     },
     {
-      "id": "Le Monde--7404220248848165450",
+      "id": "Le Monde--67095211942108222",
       "source": "Le Monde",
       "title": "Trente ans après le meurtre du rappeur Tupac Shakur, un procès pour résoudre une affaire jamais élucidée",
       "excerpt": "Le procès de Duane « Keefe D » Davis, accusé d’avoir organisé et participé au meurtre, en 1996, du rappeur Tupac Shakur, débute lundi 10 août à Las Vegas. Personne n’a jamais été condamné dans cette a...",
       "link": "https://www.lemonde.fr/international/article/2026/08/09/trente-ans-apres-le-meurtre-du-rappeur-tupac-shakur-un-proces-pour-resoudre-une-affaire-jamais-elucidee_6742402_3210.html",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1786273349.0
     },
     {
-      "id": "Le Monde--3825115944702869676",
+      "id": "Le Monde--5772752751880914941",
       "source": "Le Monde",
       "title": "Le typhon Dolphin a touché terre dans l’est de la Chine ; des fortes pluies et des vents violents sur de larges portions du littoral",
       "excerpt": "Le Centre météorologique national de Chine a émis dimanche matin une alerte rouge au typhon – son niveau le plus élevé – prévoyant des « pluies torrentielles exceptionnelles » dans certaines zones du...",
@@ -208,7 +226,7 @@
       "pubDate": 1786271026.0
     },
     {
-      "id": "Le Monde--7763385528222053661",
+      "id": "Le Monde--4349116206563421804",
       "source": "Le Monde",
       "title": "Après l’incendie en Gironde, le retour dans leurs Ehpad des seniors évacués en urgence",
       "excerpt": "Face aux incendies, 2 388 personnes vulnérables ont été évacuées des établissements de Gironde et des Landes. A l’Ehpad Paul-Louis-Weiller d’Arès, 16 résidents sont rentrés, vendredi 7 août. Une joie...",
@@ -217,16 +235,7 @@
       "pubDate": 1786264204.0
     },
     {
-      "id": "Le Monde--8541094158762028417",
-      "source": "Le Monde",
-      "title": "« Si aller à l’université consiste à rédiger quelques requêtes pour l’IA, des décennies d’efforts pour l’égalité des chances vont s’effondrer »",
-      "excerpt": "L’usage intensif de l’intelligence artificielle générative par les enseignants-chercheurs et leurs étudiants met à mal les grands principes de la vie universitaire, basée sur la confiance, déplore le...",
-      "link": "https://www.lemonde.fr/idees/article/2026/08/09/si-aller-a-l-universite-consiste-a-rediger-quelques-requetes-pour-l-ia-des-decennies-d-efforts-pour-l-egalite-des-chances-vont-s-effondrer_6742133_3232.html",
-      "time": "Il y a 7h",
-      "pubDate": 1786262405.0
-    },
-    {
-      "id": "Le Monde--6553693098106370243",
+      "id": "Le Monde--848036836309878052",
       "source": "Le Monde",
       "title": "Canicule et orages : vingt-deux départements seront en vigilance orange lundi",
       "excerpt": "Météo-France a en outre placé les départements de la Haute-Garonne, du Gers, des Landes, du Lot-et-Garonne, des Pyrénées-Atlantiques, des Hautes-Pyrénées, du Tarn et du Tarn-et-Garonne en vigilance or...",
@@ -235,7 +244,7 @@
       "pubDate": 1786254094.0
     },
     {
-      "id": "France Info--3113495989539972347",
+      "id": "France Info-7424637471860362302",
       "source": "France Info",
       "title": "\"L'Odyssée\", \"La Bataille de Gaulle\", \"Spider-Man\"... Comment l'été 2026 devient celui de tous les succès au cinéma",
       "excerpt": "Dopées par des films variés, des vagues de chaleur à répétition et des franchises à succès, les salles de cinéma n'ont pas de peine à se remplir en cette période estivale.",
@@ -244,7 +253,7 @@
       "pubDate": 1786251102.0
     },
     {
-      "id": "France Info--1769889461174663928",
+      "id": "France Info-5669025582079943266",
       "source": "France Info",
       "title": "\"On ne profite pas du spectacle de la même manière\" : observer l'éclipse à 99% plutôt qu'à 100%, c'est le jour et la nuit !",
       "excerpt": "\"La bande de centralité\", c'est-à-dire la zone où l'éclipse du 12 août sera visible à 100%, traversera l'Espagne et frôlera la France. Elle sera visible à 99,5% à Biarritz, 96% à Marseille ou encore 9...",
@@ -253,45 +262,36 @@
       "pubDate": 1786251060.0
     },
     {
-      "id": "Le Monde-235527421358339449",
+      "id": "Le Monde--5277427500501315269",
       "source": "Le Monde",
       "title": "Maria Angelicoussis, la discrète armatrice la plus puissante de Grèce",
       "excerpt": "Le groupe Angelicoussis, qu’elle dirige depuis 2021, est le plus grand armateur privé du monde en tonnage, et profite de l’essor du gaz naturel liquéfié en Europe. La PDG de 44 ans est la femme la plu...",
       "link": "https://www.lemonde.fr/economie/article/2026/08/09/maria-angelicoussis-la-discrete-armatrice-la-plus-puissante-de-grece_6741918_3234.html",
-      "time": "Il y a 11h",
-      "pubDate": 1786248006.0
-    },
-    {
-      "id": "Le Monde--8225234147153548119",
-      "source": "Le Monde",
-      "title": "Au Sénégal, le long combat des héritiers d’El Hadj Omar Tall pour le retour du « trésor de Ségou » pillé sous la colonisation",
-      "excerpt": "Le guide spirituel soufi, dont les disciples se comptent par centaines de milliers, était un érudit et un combattant anticolonialiste du XIXᵉ siècle. L’adoption par la France, en avril, d’une loi sur...",
-      "link": "https://www.lemonde.fr/afrique/article/2026/08/09/au-senegal-le-long-combat-des-heritiers-d-el-hadj-omar-tall-pour-le-retour-du-tresor-de-segou-pille-sous-la-colonisation_6741885_3212.html",
       "time": "Il y a 12h",
-      "pubDate": 1786247111.0
+      "pubDate": 1786248006.0
     }
   ],
   "anglophone": [
     {
-      "id": "BBC News-3501655104291788478",
+      "id": "BBC News-2838206243334622861",
+      "source": "BBC News",
+      "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
+      "excerpt": "A Good Samaritan vessel rescued 12 people from the water before police arrived, the US Coast Guard says.",
+      "link": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 6 min",
+      "pubDate": 1786291791.0
+    },
+    {
+      "id": "BBC News--973425755830095588",
       "source": "BBC News",
       "title": "Ecuador charges ex-minister over presidential candidate assassination case",
       "excerpt": "Prosecutors accuse six others, including the leader of cartel Los Lobos, of having an indirect role in the murder of Fernando Villavicencio.",
       "link": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 18 min",
+      "time": "Il y a 42 min",
       "pubDate": 1786289644.0
     },
     {
-      "id": "BBC News--458959236765278224",
-      "source": "BBC News",
-      "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
-      "excerpt": "Twelve people were rescued from the water after a large search and rescue operation, police say.",
-      "link": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 27 min",
-      "pubDate": 1786289150.0
-    },
-    {
-      "id": "BBC News--1977058029613074066",
+      "id": "BBC News--734043565298994402",
       "source": "BBC News",
       "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
       "excerpt": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
@@ -300,16 +300,16 @@
       "pubDate": 1786285090.0
     },
     {
-      "id": "BBC News--7020834720974883917",
+      "id": "BBC News--6483909052860441573",
       "source": "BBC News",
       "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
       "excerpt": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over more than 39 sq miles (103 sq km).",
       "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1786280901.0
     },
     {
-      "id": "NPR--8435660504101318971",
+      "id": "NPR-9140289633204807771",
       "source": "NPR",
       "title": "Haunted by Hoover, Trump searches for an endgame in Iran",
       "excerpt": "President Trump is confronting a question that has haunted presidents throughout history: how a war - that has gone on longer than predicted - can reshape a presidency.",
@@ -318,7 +318,7 @@
       "pubDate": 1786279187.0
     },
     {
-      "id": "BBC News-3955446892894221535",
+      "id": "BBC News-7584783410411928864",
       "source": "BBC News",
       "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
       "excerpt": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
@@ -327,7 +327,7 @@
       "pubDate": 1786279158.0
     },
     {
-      "id": "BBC News--6611216266603125562",
+      "id": "BBC News--784692032597433791",
       "source": "BBC News",
       "title": "Ancient Roman shipwreck discovered off Sicily coast",
       "excerpt": "Italy's culture minister says it is one of the most important underwater archaeological finds in years.",
@@ -336,25 +336,25 @@
       "pubDate": 1786278446.0
     },
     {
-      "id": "NPR-7158669326637891214",
+      "id": "NPR--1355774819496351301",
       "source": "NPR",
       "title": "There's a birth control backlash online. Can it explain the rise in abortions?",
       "excerpt": "The number of abortions is up in the United States. Is it because fewer people are using birth control pills?",
       "link": "https://www.npr.org/2026/08/09/nx-s1-5887615/abortion-rate-birth-control-pills-roe-v-wade",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1786277535.0
     },
     {
-      "id": "NPR--4476697567152290680",
+      "id": "NPR--4251815591582218597",
       "source": "NPR",
       "title": "This rising painter reimagines Renaissance art in a cocoa plantation in Cameroon",
       "excerpt": "A new gallery show in London features the paintings of Marc Padeu, playing with themes from Renaissance art and bringing them to his homeland of Cameroon.",
       "link": "https://www.npr.org/2026/08/09/g-s1-137636/paintings-religious-renaissance-old-masters-marc-padeu-african-cameroon-artist",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1786276682.0
     },
     {
-      "id": "NPR-6138409078417310771",
+      "id": "NPR--9029135186066003441",
       "source": "NPR",
       "title": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
       "excerpt": "Meanwhile, Iran has made new demands about the restart of negotiations and the reopening of the Strait of Hormuz, and the Pentagon is pressing the U.S. defense industry to accelerate production of wea...",
@@ -363,16 +363,16 @@
       "pubDate": 1786268642.0
     },
     {
-      "id": "The Guardian-2787065029383666552",
+      "id": "The Guardian-4034249476790871231",
       "source": "The Guardian",
       "title": "Costa Rican diplomat emerges as strong contender to be first female head of UN",
       "excerpt": "Rebeca Grynspan seen as continuity candidate with tacit support from current secretary general, António Guterres A Costa Rican diplomat and former vice-president whose parents were refugees from the H...",
       "link": "https://www.theguardian.com/world/2026/aug/09/costa-rican-diplomat-rebeca-grynspan-contender-first-female-head-of-un",
-      "time": "Il y a 8h",
+      "time": "Il y a 9h",
       "pubDate": 1786258808.0
     },
     {
-      "id": "BBC News-1710027835640582250",
+      "id": "BBC News-1876697067545454869",
       "source": "BBC News",
       "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
       "excerpt": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family.",
@@ -381,25 +381,25 @@
       "pubDate": 1786249926.0
     },
     {
-      "id": "NPR--5516478445553688211",
+      "id": "NPR--1812936094011837407",
       "source": "NPR",
       "title": "Solar eclipse to occur next week. Here is what to know",
       "excerpt": "It will be visible in parts of the U.S. on Wednesday.",
       "link": "https://www.npr.org/2026/08/08/nx-s1-5925939/solar-eclipse-august-2026",
-      "time": "Il y a 14h",
+      "time": "Il y a 15h",
       "pubDate": 1786236981.0
     },
     {
-      "id": "BBC News-2175470578043355437",
+      "id": "BBC News--2207746299439804340",
       "source": "BBC News",
       "title": "An unbearable rotting stench is plaguing an LA neighbourhood",
       "excerpt": "Heaps of rotting meat have been festering in the summer sun after a fire ripped through a huge food warehouse.",
       "link": "https://www.bbc.co.uk/news/articles/c2elpz33zp2o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 15h",
+      "time": "Il y a 16h",
       "pubDate": 1786234528.0
     },
     {
-      "id": "BBC News--2193881625280089129",
+      "id": "BBC News--407030638894303706",
       "source": "BBC News",
       "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
       "excerpt": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
@@ -408,7 +408,7 @@
       "pubDate": 1786232624.0
     },
     {
-      "id": "NPR--5081008433664591607",
+      "id": "NPR--7223184623797572189",
       "source": "NPR",
       "title": "Meet the man circumnavigating the Arctic Ocean, alone",
       "excerpt": "Matt Rutherford is sailing 10,000 nautical miles, through ice floes and gales, to try and accomplish a world first. He spoke with NPR from the cabin of his boat.",
@@ -417,7 +417,7 @@
       "pubDate": 1786224656.0
     },
     {
-      "id": "NPR--35159102459018671",
+      "id": "NPR--2179966965293430838",
       "source": "NPR",
       "title": "Tanker sailors still face danger in the Strait of Hormuz",
       "excerpt": "An agreement over the Strait of Hormuz is still far away. Tim Wilkins, who works for a tanker industry group, says the ships stuck around the waterway are in limbo, and transiting is still dangerous.",
@@ -426,7 +426,7 @@
       "pubDate": 1786223994.0
     },
     {
-      "id": "BBC News-821550292516222792",
+      "id": "BBC News--6122626325322788366",
       "source": "BBC News",
       "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
       "excerpt": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
@@ -435,7 +435,7 @@
       "pubDate": 1786216737.0
     },
     {
-      "id": "NPR--3117945944479758432",
+      "id": "NPR--6866073254495809565",
       "source": "NPR",
       "title": "Ukraine mourns 'collector of souls' Oleksiy Yukov, killed recovering war dead",
       "excerpt": "Oleksiy Yukov spent two decades recovering the bodies of soldiers — including many Russians. He was killed during a recovery mission after stepping on a landmine.",
@@ -444,7 +444,7 @@
       "pubDate": 1786211165.0
     },
     {
-      "id": "NPR--7204771241526115223",
+      "id": "NPR--1044861008338953240",
       "source": "NPR",
       "title": "K-pop's global wave inspires Chile's next pop stars",
       "excerpt": "K-pop conquered the world — now Chile's young creatives are remixing the movement and making it their own.",
@@ -453,7 +453,7 @@
       "pubDate": 1786196085.0
     },
     {
-      "id": "NPR-5989686424352554569",
+      "id": "NPR--5038802785196041665",
       "source": "NPR",
       "title": "Opinion: Europe's summer of heat",
       "excerpt": "Europe is in another brutal heat wave. The summer's earlier record-breaking weather already damaged crops, sparked wildfires and led to increased deaths.",
@@ -462,7 +462,7 @@
       "pubDate": 1786190400.0
     },
     {
-      "id": "The Guardian-3128390171624543008",
+      "id": "The Guardian-8790094677800668855",
       "source": "The Guardian",
       "title": "‘I couldn’t breathe’: the deadly health burden of wildfire smoke",
       "excerpt": "Scientists race to untangle complex links between exposure and mortality as fire weather grows more prevalent A thousand kilometres from the infernos gorging on northern Ontario’s boreal forests, Erin...",
@@ -471,7 +471,7 @@
       "pubDate": 1786165237.0
     },
     {
-      "id": "The Guardian--6113397670787642725",
+      "id": "The Guardian-6506545538512326863",
       "source": "The Guardian",
       "title": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown",
       "excerpt": "Trump ally Abelardo De La ‌Espriella vows to start ‘profound transformation’ of country’s destiny as he is sworn in The ​Trump administration plans to provide $1bn in security assistance to the ⁠gover...",
@@ -480,7 +480,7 @@
       "pubDate": 1786162098.0
     },
     {
-      "id": "The Guardian--1715828179705459506",
+      "id": "The Guardian--2871253154782986240",
       "source": "The Guardian",
       "title": "Spain to introduce temporary border checks on visitors from Italy",
       "excerpt": "Move comes in response to Rome imposing similar measures after mass migration rush to Ceuta Spain has announced it will introduce temporary border checks on visitors from Italy in response to Rome imp...",
@@ -489,7 +489,7 @@
       "pubDate": 1786139078.0
     },
     {
-      "id": "The Guardian-860310893891833902",
+      "id": "The Guardian-4784875804548689333",
       "source": "The Guardian",
       "title": "US police officer accused of killing three people in Mexico arrested at border",
       "excerpt": "Chad Eberle of Texas charged over deadly shooting in Saltillo that officials say stemmed from custody dispute A <a href=\"https://www.theguardian.com/us-news/texas\">Texas</a> police officer has been ar...",
@@ -498,7 +498,7 @@
       "pubDate": 1786135764.0
     },
     {
-      "id": "The Guardian-7909714308377104530",
+      "id": "The Guardian--3646669368120117634",
       "source": "The Guardian",
       "title": "Judge approves Trump effort to end South Sudan TPS protections",
       "excerpt": "Decision follows supreme court ruling that allowed US government to strip protections for Haitians and Syrians Temporary protected status (TPS) for hundreds of South Sudanese nationals in the United S...",
@@ -507,7 +507,7 @@
       "pubDate": 1786127674.0
     },
     {
-      "id": "The Guardian--9201717146822348605",
+      "id": "The Guardian-4012681300618127208",
       "source": "The Guardian",
       "title": "Colombia on the brink: ELN guerrilla group prepares for return to war",
       "excerpt": "As Abelardo de la Espriella takes office as president vowing a new military offensive, the country’s last leftwing rebels are getting ready to fight back As the boat approached the riverbank, camoufla...",
@@ -516,7 +516,7 @@
       "pubDate": 1786111232.0
     },
     {
-      "id": "The Guardian-4272918387616622396",
+      "id": "The Guardian-1671675572511021921",
       "source": "The Guardian",
       "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
       "excerpt": "Cases have passed 4,000 and health watchdog plans to go door to door to find patients in major response escalation The virus causing a massive outbreak of Ebola in the Democratic Republic of the Congo...",
@@ -525,7 +525,7 @@
       "pubDate": 1786033126.0
     },
     {
-      "id": "The Guardian-8148434050228541743",
+      "id": "The Guardian-3410363025398007635",
       "source": "The Guardian",
       "title": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
       "excerpt": "State department informs Congress of planned closures in Canada, Grenada, Japan, Indonesia and Cameroon The US state department is to shut five foreign consulates and missions across Asia, Africa, Nor...",
@@ -534,7 +534,7 @@
       "pubDate": 1786030889.0
     },
     {
-      "id": "The Guardian-8107295967354778093",
+      "id": "The Guardian-825827674562504871",
       "source": "The Guardian",
       "title": "Top Ugandan footballer killed by robbers armed with paving stones",
       "excerpt": "David Owori, who played for the national team, died in hospital after he tried to stop robbers taking his phone The Ugandan football community is in mourning after the death of a player who was fatall...",
@@ -543,5 +543,5 @@
       "pubDate": 1786026632.0
     }
   ],
-  "lastUpdate": "2026-08-09T15:52:57.867697"
+  "lastUpdate": "2026-08-09T16:16:37.001254"
 }
