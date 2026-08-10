@@ -1,124 +1,160 @@
 {
   "francophone": [
     {
-      "id": "France Info-7244697137201383631",
+      "id": "Le Monde--2957900465284050541",
+      "source": "Le Monde",
+      "title": "Une nouvelle arrestation dans l’affaire de l’attentat à l’explosif contre le journaliste italien Sigfrido Ranucci",
+      "excerpt": "Le 16 octobre 2025, un engin explosif avait été déclenché devant le domicile du journaliste, menacé par la mafia, détruisant ses deux voitures sans faire de victimes dans un quartier résidentiel de Po...",
+      "link": "https://www.lemonde.fr/international/article/2026/08/10/une-nouvelle-arrestation-dans-l-affaire-de-l-attentat-a-l-explosif-contre-le-journaliste-italien-sigfrido-ranucci_6743542_3210.html",
+      "time": "Il y a 5 min",
+      "pubDate": 1786391632.0
+    },
+    {
+      "id": "France Info--8725080587173946613",
+      "source": "France Info",
+      "title": "Léon XIV en France : le pape remplit le Stade de France en quelques heures, les croyants attendent \"un moment grandiose\"",
+      "excerpt": "Le Stade de France s'est rempli en moins d'une heure pour une veillée avec le pape Léon XIV, le 25 septembre prochain. Les inscriptions, ouvertes lundi 10 août, ont été prises d'assaut. Pour la messe...",
+      "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/le-pape-leon-xiv-remplit-le-stade-de-france_8142302.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 6 min",
+      "pubDate": 1786391565.0
+    },
+    {
+      "id": "Libération--8895571304023781122",
+      "source": "Libération",
+      "title": "Euro de natation : le relais français du 4x200 m médaillé d’argent grâce à un immense Léon Marchand",
+      "excerpt": "Portés par leur star et ses prodigieuses coulées, les Bleus ont terminé à la deuxième place de leur finale, lundi aux Championnats d’Europe de natation à Saint-Denis.",
+      "link": "https://www.liberation.fr/sports/euro-de-natation-le-relais-francais-du-4x200-m-medaille-dargent-avec-leon-marchand-20260810_U46QYJL52VB45KSOTWXXWMKJEQ/",
+      "time": "Il y a 21 min",
+      "pubDate": 1786390680.0
+    },
+    {
+      "id": "Libération-3748755913455815502",
+      "source": "Libération",
+      "title": "Jouets «Squishy» : une enseigne retire de la vente le produit qui a blessé un enfant dans le Nord, les autorités appellent à la prudence",
+      "excerpt": "La répression des fraudes affirme ce lundi 10 août qu’elle mène des analyses sur différents modèles de plusieurs marques de balles anti-stress. Une enquête a été ouverte après les graves brûlures caus...",
+      "link": "https://www.liberation.fr/societe/sante/jouets-squishy-une-enseigne-retire-de-la-vente-le-produit-qui-a-blesse-un-enfant-dans-le-nord-les-autorites-appellent-a-la-prudence-20260810_G4ESDWMI3NAVPNRNXUAZXS5OCA/",
+      "time": "Il y a 34 min",
+      "pubDate": 1786389888.0
+    },
+    {
+      "id": "France Info--4808175630476273101",
       "source": "France Info",
       "title": "Canicule : 43 départements en vigilance orange mardi, des trains Intercités supprimés mercredi et jeudi entre Paris et Clermont",
       "excerpt": "Près de 70% du territoire métropolitain français fait l'objet de mesures de restrictions de l'usage de l'eau, selon le ministère de la Transition écologique.",
       "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-quelque-22-departement-places-en-vigilance-orange-canicule-lundi-au-premier-jour-d-une-semaine-qui-s-annonce-particulierement-chaude_8141534.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 11 min",
-      "pubDate": 1786388385.0
+      "time": "Il y a 36 min",
+      "pubDate": 1786389753.0
     },
     {
-      "id": "Libération-663701745279702127",
+      "id": "Libération-9101438684792136319",
       "source": "Libération",
-      "title": "Alexandria Ocasio-Cortez, figure de la gauche américaine, chronique sa congélation d’ovocytes sur les réseaux sociaux",
-      "excerpt": "La démocrate de 36 ans a publié, dimanche 9 août, une vidéo sur Instagram afin de partager son expérience, a-t-elle expliqué, et lutter contre l’invisibilisation des parcours liés à la fertilité fémin...",
-      "link": "https://www.liberation.fr/international/amerique/alexandria-ocasio-cortez-figure-de-la-gauche-americaine-chronique-sa-congelation-dovocytes-sur-les-reseaux-sociaux-20260810_WZ27EMFN3ZFV7KHLU4NDKVNDDU/",
-      "time": "Il y a 14 min",
-      "pubDate": 1786388191.0
+      "title": "«Crise légumière majeure» à cause de la sécheresse et d’une canicule inédite, alerte l’entreprise Prince de Bretagne",
+      "excerpt": "Plusieurs cultures de légumes, dont les tomates, les brocolis et les courgettes, sont lourdement affectées par la chaleur excessive, alerte la marque ce lundi 10 août. Elle demande aux autorités des m...",
+      "link": "https://www.liberation.fr/environnement/agriculture/crise-legumiere-majeure-a-cause-de-la-secheresse-et-dune-canicule-inedite-alerte-lentreprise-prince-de-bretagne-20260810_KBYW53UBK5DDRBTOOCVSYW5GYE/",
+      "time": "Il y a 46 min",
+      "pubDate": 1786389151.0
     },
     {
-      "id": "France Info--1377757631785016801",
-      "source": "France Info",
-      "title": "Un séisme de magnitude 7,4 fait au moins 111 morts dans l'ouest de la Colombie, le président décrète l'état d'urgence",
-      "excerpt": "Des \"dommages importants\" ont été observés à Cali, la troisième ville du pays, selon les autorités locales.",
-      "link": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/un-seisme-de-magnitude-7-4-en-colombie-fait-au-moins-18-morts-et-des-degats-dans-l-ouest-du-pays_8142011.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 15 min",
-      "pubDate": 1786388150.0
-    },
-    {
-      "id": "Le Monde--5995500865231024444",
-      "source": "Le Monde",
-      "title": "EN DIRECT, guerre en Ukraine : Kiev revendique l’attaque du complexe pétrochimique de Tobolsk-Neftekhim ; des bombardements russes dans la région de Dnipropetrovsk font quatre morts",
-      "excerpt": "L’état-major ukrainien a déclaré que ce complexe situé dans la région de Tioumen avait été touché. Plusieurs vidéos publiées dans des médias rapportent les dégâts causés par l’attaque ukrainienne.",
-      "link": "https://www.lemonde.fr/international/live/2026/08/10/en-direct-guerre-en-ukraine-kiev-revendique-l-attaque-du-complexe-petrochimique-de-tobolsk-neftekhim-des-bombardements-russes-dans-la-region-de-dnipropetrovsk-font-quatre-morts_6741928_3210.html",
-      "time": "Il y a 17 min",
-      "pubDate": 1786388018.0
-    },
-    {
-      "id": "Libération-1864457770334315277",
-      "source": "Libération",
-      "title": "Colombie : le pays en «état d’urgence» après un puissant séisme qui a fait au moins 111 morts et 87 blessés dans l’ouest du pays",
-      "excerpt": "D’intenses secousses ont été ressenties jusqu’à Bogotá ce lundi 10 août au matin. De nombreuses victimes ont été décomptées dans plusieurs régions, notamment à Pereira, Manizales et Cali, la troisième...",
-      "link": "https://www.liberation.fr/international/amerique/colombie-un-fort-seisme-de-magnitude-66-ressenti-a-bogota-20260810_RE3YRNO4P5GHHA5PGOCLU6V5RM/",
-      "time": "Il y a 18 min",
-      "pubDate": 1786387957.0
-    },
-    {
-      "id": "Libération-3826370632515513702",
-      "source": "Libération",
-      "title": "Avec les chiffres du chômage en hausse, les oppositions accusent dix ans de gouvernance : «Macron aurait menti, ben alors ça !!!»",
-      "excerpt": "Depuis l’annonce, vendredi 7 août par l’Insee, de la hausse des chiffres du chômage pour le 2e trimestre 2026, une première depuis 2020, les responsables politiques s’en donnent à cœur joie contre Emm...",
-      "link": "https://www.liberation.fr/politique/avec-les-chiffres-du-chomage-en-hausse-les-oppositions-accusent-dix-ans-de-gouvernance-macron-aurait-menti-ben-alors-ca-20260810_I6PXFZF32RBAPOOO5KGBD7QFH4/",
-      "time": "Il y a 25 min",
-      "pubDate": 1786387557.0
-    },
-    {
-      "id": "Le Monde--6506922908604590335",
-      "source": "Le Monde",
-      "title": "Séisme en Colombie : au moins 111 morts ; le président Abelardo de la Espriella décrète l’« état d’urgence »",
-      "excerpt": "« Il a été décidé de déclarer l’état d’urgence », a annoncé le chef de l’Etat de Bogota, en présentant un bilan actualisé après le tremblement de terre de magnitude 7,4 qui a provoqué d’importantes de...",
-      "link": "https://www.lemonde.fr/planete/article/2026/08/10/seisme-en-colombie-au-moins-111-morts-le-gouvernement-decrete-l-etat-d-urgence_6743410_3245.html",
-      "time": "Il y a 26 min",
-      "pubDate": 1786387506.0
-    },
-    {
-      "id": "Le Monde--4720779595371705025",
-      "source": "Le Monde",
-      "title": "Rencontres d’Arles : les livres de photos pour enfants, petites merveilles et signatures prestigieuses",
-      "excerpt": "Curiosités et trésors d’inventivité alternent au fil du parcours de l’exposition « R comme regarder », qui rassemble une centaine d’ouvrages publiés dans différents pays, des années 1930 à aujourd’hui...",
-      "link": "https://www.lemonde.fr/culture/article/2026/08/10/rencontres-d-arles-les-livres-de-photos-pour-enfants-petites-merveilles-et-signatures-prestigieuses_6743505_3246.html",
-      "time": "Il y a 28 min",
-      "pubDate": 1786387342.0
-    },
-    {
-      "id": "Libération--5189069872683715032",
-      "source": "Libération",
-      "title": "Etats-Unis : un burrito à 20 dollars entraîne un séisme politique",
-      "excerpt": "A trois mois des élections de mi-mandat prévues le 3 novembre, le mépris des élus conservateurs face à la colère étudiante sur la hausse du prix du sandwich mexicain pourrait bouleverser le scrutin.",
-      "link": "https://www.liberation.fr/international/amerique/etats-unis-un-burrito-a-20-dollars-entraine-un-seisme-politique-20260810_3JXAC3PNFRB35EC4EVQICCA7IU/",
-      "time": "Il y a 29 min",
-      "pubDate": 1786387273.0
-    },
-    {
-      "id": "France Info--7499861533527777162",
-      "source": "France Info",
-      "title": "En Russie, la justice interdit au seul parti opposé à la guerre en Ukraine de présenter des candidats aux législatives de septembre",
-      "excerpt": "La Cour suprême prive ainsi les électeurs opposés au conflit de la possibilité de réclamer d'y mettre fin via leur bulletin de vote.",
-      "link": "https://www.franceinfo.fr/monde/russie/en-russie-la-justice-interdit-au-seul-parti-oppose-a-la-guerre-en-ukraine-de-presenter-des-candidats-aux-legislatives-de-septembre_8142296.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 32 min",
-      "pubDate": 1786387092.0
-    },
-    {
-      "id": "Libération--7061918060145196154",
+      "id": "Libération-2487073320726707202",
       "source": "Libération",
       "title": "EN DIRECT - Canicule : 43 départements dont la Manche et la pointe bretonne en vigilance orange mardi à partir de midi",
       "excerpt": "Concentrées sur le quart sud-est de la France ce lundi, les fortes chaleurs frapperont jusqu’au Finistère dès demain. «Entre mercredi et vendredi, les 35 °C concerneront une grande partie du pays», al...",
       "link": "https://www.liberation.fr/environnement/climat/en-direct-canicule-22-departements-en-vigilance-orange-des-incendies-en-cours-dans-la-drome-et-en-lozere-20260810_F5XEKZLHD5BJRA42V6PENSF2ME/",
-      "time": "Il y a 34 min",
-      "pubDate": 1786387030.0
+      "time": "Il y a 50 min",
+      "pubDate": 1786388904.0
     },
     {
-      "id": "Libération--6398624064223622191",
+      "id": "Libération-6701225302540742379",
+      "source": "Libération",
+      "title": "Alexandria Ocasio-Cortez, figure de la gauche américaine, chronique sa congélation d’ovocytes sur les réseaux sociaux",
+      "excerpt": "La démocrate de 36 ans a publié, dimanche 9 août, une vidéo sur Instagram afin de partager son expérience, a-t-elle expliqué, et lutter contre l’invisibilisation des parcours liés à la fertilité fémin...",
+      "link": "https://www.liberation.fr/international/amerique/alexandria-ocasio-cortez-figure-de-la-gauche-americaine-chronique-sa-congelation-dovocytes-sur-les-reseaux-sociaux-20260810_WZ27EMFN3ZFV7KHLU4NDKVNDDU/",
+      "time": "Il y a 1h",
+      "pubDate": 1786388191.0
+    },
+    {
+      "id": "France Info--1457905369400201349",
+      "source": "France Info",
+      "title": "Un séisme de magnitude 7,4 fait au moins 111 morts dans l'ouest de la Colombie, le président décrète l'état d'urgence",
+      "excerpt": "Des \"dommages importants\" ont été observés à Cali, la troisième ville du pays, selon les autorités locales.",
+      "link": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/un-seisme-de-magnitude-7-4-en-colombie-fait-au-moins-18-morts-et-des-degats-dans-l-ouest-du-pays_8142011.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1786388150.0
+    },
+    {
+      "id": "Le Monde-292232702383270915",
+      "source": "Le Monde",
+      "title": "EN DIRECT, guerre en Ukraine : Kiev revendique l’attaque du complexe pétrochimique de Tobolsk-Neftekhim ; des bombardements russes dans la région de Dnipropetrovsk font quatre morts",
+      "excerpt": "L’état-major ukrainien a déclaré que ce complexe situé dans la région de Tioumen avait été touché. Plusieurs vidéos publiées dans des médias rapportent les dégâts causés par l’attaque ukrainienne.",
+      "link": "https://www.lemonde.fr/international/live/2026/08/10/en-direct-guerre-en-ukraine-kiev-revendique-l-attaque-du-complexe-petrochimique-de-tobolsk-neftekhim-des-bombardements-russes-dans-la-region-de-dnipropetrovsk-font-quatre-morts_6741928_3210.html",
+      "time": "Il y a 1h",
+      "pubDate": 1786388018.0
+    },
+    {
+      "id": "Libération-5067992567919765317",
+      "source": "Libération",
+      "title": "Colombie : le pays en «état d’urgence» après un puissant séisme qui a fait au moins 111 morts et 87 blessés dans l’ouest du pays",
+      "excerpt": "D’intenses secousses ont été ressenties jusqu’à Bogotá ce lundi 10 août au matin. De nombreuses victimes ont été décomptées dans plusieurs régions, notamment à Pereira, Manizales et Cali, la troisième...",
+      "link": "https://www.liberation.fr/international/amerique/colombie-un-fort-seisme-de-magnitude-66-ressenti-a-bogota-20260810_RE3YRNO4P5GHHA5PGOCLU6V5RM/",
+      "time": "Il y a 1h",
+      "pubDate": 1786387957.0
+    },
+    {
+      "id": "Libération--5264481140602610552",
+      "source": "Libération",
+      "title": "Avec les chiffres du chômage en hausse, les oppositions accusent dix ans de gouvernance : «Macron aurait menti, ben alors ça !!!»",
+      "excerpt": "Depuis l’annonce, vendredi 7 août par l’Insee, de la hausse des chiffres du chômage pour le 2e trimestre 2026, une première depuis 2020, les responsables politiques s’en donnent à cœur joie contre Emm...",
+      "link": "https://www.liberation.fr/politique/avec-les-chiffres-du-chomage-en-hausse-les-oppositions-accusent-dix-ans-de-gouvernance-macron-aurait-menti-ben-alors-ca-20260810_I6PXFZF32RBAPOOO5KGBD7QFH4/",
+      "time": "Il y a 1h",
+      "pubDate": 1786387557.0
+    },
+    {
+      "id": "Le Monde--584901272439909647",
+      "source": "Le Monde",
+      "title": "Séisme en Colombie : au moins 111 morts ; le président Abelardo de la Espriella décrète l’« état d’urgence »",
+      "excerpt": "« Il a été décidé de déclarer l’état d’urgence », a annoncé le chef de l’Etat de Bogota, en présentant un bilan actualisé après le tremblement de terre de magnitude 7,4 qui a provoqué d’importantes de...",
+      "link": "https://www.lemonde.fr/planete/article/2026/08/10/seisme-en-colombie-au-moins-111-morts-le-gouvernement-decrete-l-etat-d-urgence_6743410_3245.html",
+      "time": "Il y a 1h",
+      "pubDate": 1786387506.0
+    },
+    {
+      "id": "Libération--6249255956981359698",
+      "source": "Libération",
+      "title": "Etats-Unis : un burrito à 20 dollars entraîne un séisme politique",
+      "excerpt": "A trois mois des élections de mi-mandat prévues le 3 novembre, le mépris des élus conservateurs face à la colère étudiante sur la hausse du prix du sandwich mexicain pourrait bouleverser le scrutin.",
+      "link": "https://www.liberation.fr/international/amerique/etats-unis-un-burrito-a-20-dollars-entraine-un-seisme-politique-20260810_3JXAC3PNFRB35EC4EVQICCA7IU/",
+      "time": "Il y a 1h",
+      "pubDate": 1786387273.0
+    },
+    {
+      "id": "France Info--8558489974201188048",
+      "source": "France Info",
+      "title": "En Russie, la justice interdit au seul parti opposé à la guerre en Ukraine de présenter des candidats aux législatives de septembre",
+      "excerpt": "La Cour suprême prive ainsi les électeurs opposés au conflit de la possibilité de réclamer d'y mettre fin via leur bulletin de vote.",
+      "link": "https://www.franceinfo.fr/monde/russie/en-russie-la-justice-interdit-au-seul-parti-oppose-a-la-guerre-en-ukraine-de-presenter-des-candidats-aux-legislatives-de-septembre_8142296.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1786387092.0
+    },
+    {
+      "id": "Libération--9163321639999171195",
       "source": "Libération",
       "title": "Les chiffres du chômage en hausse, une illustration des promesses brisées d’Emmanuel Macron",
       "excerpt": "Obnubilé par ses «premiers de cordée» et sa politique de l’offre, le Président termine ses deux mandats avec la plupart des indicateurs économiques dans le rouge.",
       "link": "https://www.liberation.fr/idees-et-debats/editorial/les-chiffres-du-chomage-en-hausse-une-illustration-des-promesses-brisees-demmanuel-macron-20260810_5GHEQ6CVL5BMRHX5JGHTPNF6NI/",
-      "time": "Il y a 42 min",
+      "time": "Il y a 1h",
       "pubDate": 1786386502.0
     },
     {
-      "id": "France Info--4969749316119116198",
+      "id": "France Info-1594724653904732537",
       "source": "France Info",
       "title": "Mis sur orbite par Léon Marchand, le relais français décroche l'argent sur le 4x200 mètres masculin des championnats d'Europe de natation",
       "excerpt": "Avec Pierre Largeron, Sauveur Christofini et Roman Fuchs, le quadruple champion olympique a décroché sa première médaille européenne, lundi.",
       "link": "https://www.franceinfo.fr/sports/natation/championnats-d-europe/idealement-lance-par-leon-marchand-le-relais-francais-decroche-l-argent-sur-le-4x200-m-masculin-des-championnats-d-europe-de-natation_8142206.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 56 min",
+      "time": "Il y a 1h",
       "pubDate": 1786385654.0
     },
     {
-      "id": "Libération-7559154660861389785",
+      "id": "Libération--3361839809467677617",
       "source": "Libération",
       "title": "Chômage, déficit, dette… Les paris économiques perdus des quinquennats Macron",
       "excerpt": "Emmanuel Macron avait promis le plein-emploi et la réduction du déficit. Alors qu’il s’apprête à quitter l’Elysée, ces promesses électorales semblent bel et bien compromises. La proportion des demande...",
@@ -127,79 +163,43 @@
       "pubDate": 1786385411.0
     },
     {
-      "id": "Libération-635680488145828712",
-      "source": "Libération",
-      "title": "Euro de natation : le relais français du 4x200 m médaillé d’argent avec Léon Marchand",
-      "excerpt": "Portés par le nageur français, les Bleus ont remporté la médaille d’argent lundi aux Championnats d’Europe de natation de Paris.",
-      "link": "https://www.liberation.fr/sports/euro-de-natation-le-relais-francais-du-4x200-m-medaille-dargent-avec-leon-marchand-20260810_U46QYJL52VB45KSOTWXXWMKJEQ/",
-      "time": "Il y a 1h",
-      "pubDate": 1786384820.0
-    },
-    {
-      "id": "Libération-1775919306267892442",
-      "source": "Libération",
-      "title": "Guerre au Moyen-Orient : Trump annonce qu’il va réclamer des «compensations» à l’Iran",
-      "excerpt": "Le président américain affirme ce lundi 10 août que Téhéran doit payer pour les morts liées à des attaques menées par l’Iran ces dernières décennies contre ses adversaires à l’étranger ou contre des m...",
-      "link": "https://www.liberation.fr/international/amerique/guerre-au-moyen-orient-trump-annonce-quil-va-reclamer-des-compensations-a-liran-20260810_FQMQIPKD2RCQVKU5VY5KRJV75U/",
-      "time": "Il y a 1h",
-      "pubDate": 1786384755.0
-    },
-    {
-      "id": "Le Monde-569872884432111288",
+      "id": "Le Monde-1290580851742884642",
       "source": "Le Monde",
       "title": "Lancé par un immense Léon Marchand, le relais français du 4 x 200 m nage libre remporte la médaille d’argent aux championnats d’Europe",
       "excerpt": "La France a ouvert son compteur de médaille en natation course, lundi, grâce au relais masculin du 4 x 200 m nage libre. Renforcé par la présence de Léon Marchand en finale, il s’est classé 2ᵉ, derriè...",
       "link": "https://www.lemonde.fr/sport/article/2026/08/10/lance-par-un-immense-leon-marchand-le-relais-francais-du-4-x-200-m-nage-libre-remporte-la-medaille-d-argent-aux-championnats-d-europe_6743470_3242.html",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1786384332.0
     },
     {
-      "id": "Libération-1333484256207852798",
-      "source": "Libération",
-      "title": "Cochons décomposés : enquête ouverte contre un élevage porcin des Côtes-d’Armor, «l’un des pires cas d’abandon documenté par L214»",
-      "excerpt": "Le parquet de Saint-Brieuc a ouvert une enquête après que l’association de défense des animaux a filmé dans un élevage breton lié à la coopérative Eureden des «images difficilement soutenables» montra...",
-      "link": "https://www.liberation.fr/environnement/animaux/cochons-decomposes-enquete-ouverte-contre-un-elevage-porcin-des-cotes-darmor-lun-des-pires-cas-dabandon-documente-par-l214-20260810_XVKCMHRU2BASBA6GZJKFV4WMRI/",
-      "time": "Il y a 1h",
-      "pubDate": 1786383869.0
-    },
-    {
-      "id": "France Info--5506043810661660597",
+      "id": "France Info--1250581126149331758",
       "source": "France Info",
       "title": "Seul candidat en lice, Jordan Bardella assuré d'être réélu président du Rassemblement national en octobre",
       "excerpt": "Aucun rival ne s'est déclaré pour contester la suprématie du leader du parti, qui avait pris l'intérim de Marine Le Pen en 2021 avant d'être dûment élu en 2022 avec 85% des voix face à Louis Aliot.",
       "link": "https://www.franceinfo.fr/politique/jordan-bardella/seul-candidat-en-lice-jordan-bardella-assure-d-etre-reelu-president-du-rassemblement-national-en-octobre_8142236.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1786383776.0
     },
     {
-      "id": "France Info-7970653991768339502",
-      "source": "France Info",
-      "title": "Incendies : 42 départements placés en risque \"élevé\" de départs de feux de forêt pour la journée de mardi, contre 17 lundi",
-      "excerpt": "Le retour des fortes chaleurs cette semaine à l'échelle nationale s'accompagne d'une vigilance particulière sur le front des incendies",
-      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/direct-l-incendie-declare-dimanche-a-massegros-causses-gorges-en-lozere-a-parcouru-153-hectares-et-est-desormais-fixe-annonce-la-prefecture_8141315.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
-      "pubDate": 1786382127.0
-    },
-    {
-      "id": "France Info-2908941705104818418",
+      "id": "France Info--733197984379884090",
       "source": "France Info",
       "title": "\"Dune\", \"Le Fantôme de l'Opéra\", \"I Play Rocky\"... Neuf films très attendus dans les prochains mois se dévoilent",
       "excerpt": "Sagas, remakes ou biopics : retrouvez quelques-unes des grosses sorties annoncées fin 2026 et début 2027.",
       "link": "https://www.franceinfo.fr/culture/cinema/dune-troisieme-partie-le-fantome-de-l-opera-i-play-rocky-neuf-films-a-noter-dans-son-calendrier-cine_8138825.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1786382075.0
     },
     {
-      "id": "Le Monde--3525297982646560413",
+      "id": "Le Monde-5206214436845530032",
       "source": "Le Monde",
       "title": "Sécheresse : un record absolu en France et en Suisse en juillet ; près des trois quarts de l’Angleterre concernés",
       "excerpt": "A l’échelle de l’Union européenne, plus de la moitié des sols sont secs. Ce mois de juillet 2026 est le deuxième mois de juillet le plus sec jamais enregistré, après celui de 2022.",
       "link": "https://www.lemonde.fr/planete/article/2026/08/10/secheresse-un-record-absolu-en-france-et-en-suisse-en-juillet-pres-des-trois-quarts-de-l-angleterre-concernes_6743433_3244.html",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1786382025.0
     },
     {
-      "id": "Le Monde--899985369362830653",
+      "id": "Le Monde-2865730474626499761",
       "source": "Le Monde",
       "title": "Ligne très haute tension en Camargue : face à des agriculteurs à bout de nerfs, RTE pousse son projet",
       "excerpt": "Alors que l’Etat instruit le dossier de la déclaration d’utilité publique, les propriétaires concernés par le tracé dénoncent une stratégie de « harcèlement » du gestionnaire du réseau électrique.",
@@ -208,25 +208,25 @@
       "pubDate": 1786377608.0
     },
     {
-      "id": "France Info-1450864025817500018",
+      "id": "France Info-5784621839503994809",
       "source": "France Info",
       "title": "\"Ce qui était peut-être acceptable à l'époque ne l'est plus\" : ce que l'on sait des accusations visant l'animateur Guillaume Pley",
       "excerpt": "Une enquête publiée par \"Les Inrockuptibles\" met notamment en cause l'ancien animateur de radio, fondateur du podcast \"Legend\", évoquant des comportements inappropriés avec des mineures et une culture...",
       "link": "https://www.franceinfo.fr/economie/medias/ce-qui-etait-peut-etre-acceptable-a-l-epoque-ne-l-est-plus-ce-que-l-on-sait-des-accusations-visant-l-animateur-guillaume-pley_8141597.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1786377530.0
     },
     {
-      "id": "France Info--3567656604704894164",
+      "id": "France Info-2643911172002433268",
       "source": "France Info",
       "title": "Le patient gravement brûlé dans l'incendie de sa chambre d'hôpital du Mans est mort",
       "excerpt": "Un incendie s'était déclaré dimanche dans une chambre du Centre hospitalier du Mans. Une enquête est en cours pour déterminer les causes de l'incendie.",
       "link": "https://www.franceinfo.fr/sante/hopital/le-patient-gravement-brule-dans-l-incendie-de-sa-chambre-d-hopital-du-mans-est-mort_8142077.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1786376788.0
     },
     {
-      "id": "Le Monde--2577343979846369744",
+      "id": "Le Monde--6540136207247628768",
       "source": "Le Monde",
       "title": "Comment Veles, petite ville des Balkans, est devenue la capitale des infox pro-Trump",
       "excerpt": "« Dix ans de post-vérité » (1/5). En 2016, Donald Trump est élu président des Etats-Unis, porté par le soutien inattendu d’un trafic de clics issu de la ville macédonienne, devenue symbole de l’ère de...",
@@ -235,34 +235,34 @@
       "pubDate": 1786374009.0
     },
     {
-      "id": "Le Monde-1780405940746830511",
+      "id": "Le Monde-3970359006720050207",
+      "source": "Le Monde",
+      "title": "Fonction publique : l’Etat appelé à faire le ménage dans les primes de ses agents",
+      "excerpt": "Dans une « revue de dépenses » publiée fin juillet, l’inspection générale des finances et l’inspection générale de l’administration préconisent d’accentuer l’effort de rationalisation des primes. Elle...",
+      "link": "https://www.lemonde.fr/politique/article/2026/08/10/fonction-publique-l-etat-appele-a-faire-le-menage-dans-les-primes-de-ses-agents_6743411_823448.html",
+      "time": "Il y a 5h",
+      "pubDate": 1786373189.0
+    },
+    {
+      "id": "Le Monde--1029188837985260704",
       "source": "Le Monde",
       "title": "Guillaume Pley, le fondateur du média « Legend », accusé d’échanges en ligne à caractère sexuel avec plusieurs mineures",
       "excerpt": "L’ancien animateur de NRJ a publié vendredi un communiqué pour se défendre des accusations d’une série d’enquêtes. Depuis, plusieurs anciens proches se sont désolidarisés de Guillaume Pley, dont la dé...",
       "link": "https://www.lemonde.fr/pixels/article/2026/08/10/guillaume-pley-le-fondateur-de-legend-accuse-d-echanges-en-ligne-a-caractere-sexuel-avec-plusieurs-mineures_6743407_4408996.html",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1786371688.0
     },
     {
-      "id": "Le Monde--1691692101797256903",
-      "source": "Le Monde",
-      "title": "Présidentielle 2027 : Raphaël Glucksmann soutenu par Daniel Cohn-Bendit, qui vante son « positionnement nouveau »",
-      "excerpt": "Pour l’ancien député européen, le leader de Place publique, qui doit encore confirmer sa participation à la primaire de l’espace social-démocrate, est le seul qui « formule ou ébauche une politique de...",
-      "link": "https://www.lemonde.fr/politique/article/2026/08/10/presidentielle-2027-raphael-glucksmann-soutenu-par-daniel-cohn-bendit-qui-vante-son-positionnement-nouveau_6743338_823448.html",
-      "time": "Il y a 6h",
-      "pubDate": 1786367297.0
-    },
-    {
-      "id": "France Info--3891936363150960513",
+      "id": "France Info-8731835128051230612",
       "source": "France Info",
       "title": "Alors que près de 70% de l'Hexagone est soumis à des restrictions d'eau, vérifiez si vous êtes concernés par ces mesures",
       "excerpt": "Franceinfo publie une carte, mise à jour quotidiennement, des zones touchées par la sécheresse et visées par des restrictions d'eau en France hexagonale. Vérifiez si c'est le cas dans votre commune.",
       "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/carte-verifiez-si-vous-etes-concernes-par-des-restrictions-d-eau-alors-que-la-france-souffre-de-la-secheresse-et-des-canicules_8109944.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1786362641.0
     },
     {
-      "id": "Le Monde-3503444791213503734",
+      "id": "Le Monde-1463189308770280624",
       "source": "Le Monde",
       "title": "Ces femmes qui découvrent leur autisme à l’âge adulte : « C’est un soulagement, je ne suis pas folle »",
       "excerpt": "A l’instar de la journaliste Maïtena Biraben, qui a découvert à 57 ans qu’elle avait un trouble du spectre de l’autisme, de nombreuses femmes sont diagnostiquées à plus de 40 ans. Pourtant, leurs souf...",
@@ -273,34 +273,52 @@
   ],
   "anglophone": [
     {
-      "id": "The Guardian-8203010816394590381",
+      "id": "BBC News--7959048843794125820",
+      "source": "BBC News",
+      "title": "Trump signs order to limit and split childhood vaccines",
+      "excerpt": "The Trump administration has long pushed a discredited link between vaccines and autism.",
+      "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 23 min",
+      "pubDate": 1786390509.0
+    },
+    {
+      "id": "The Guardian-2834852994778981233",
       "source": "The Guardian",
       "title": "More than 100 dead and buildings collapsed after 7.4-magnitude earthquake shakes Colombia – latest news",
       "excerpt": "More than a dozen buildings collapsed in aftermath of earthquake, which has also prompted evacuations <strong>People remain trapped in Cali, one of Colombia’s largest cities, ​after more than two doze...",
       "link": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
-      "time": "Il y a 20 min",
-      "pubDate": 1786387855.0
+      "time": "Il y a 39 min",
+      "pubDate": 1786389567.0
     },
     {
-      "id": "BBC News-7795433030744349530",
+      "id": "BBC News--6250382858812561474",
+      "source": "BBC News",
+      "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
+      "excerpt": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 41 min",
+      "pubDate": 1786389431.0
+    },
+    {
+      "id": "BBC News--4140134881101562176",
       "source": "BBC News",
       "title": "New train service connects Finland and Sweden for first time in decades",
       "excerpt": "The service will enable rail travel from Portugal to Lapland - what is believed to be the longest train journey in Europe.",
       "link": "https://www.bbc.co.uk/news/articles/cx2lwpzz6qjo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 43 min",
+      "time": "Il y a 1h",
       "pubDate": 1786386491.0
     },
     {
-      "id": "BBC News-5910905294115124953",
+      "id": "BBC News-3448140656448716879",
       "source": "BBC News",
       "title": "Russian court bars only anti-war party from standing in parliamentary elections",
       "excerpt": "Russia's only liberal, anti-war party will not be able to take part in next month's parliamentary elections, a Moscow court rules.",
       "link": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 51 min",
+      "time": "Il y a 1h",
       "pubDate": 1786385981.0
     },
     {
-      "id": "The Guardian--8283727201455494658",
+      "id": "The Guardian-7792773826874390005",
       "source": "The Guardian",
       "title": "Scores dead after powerful earthquake strikes western Colombia",
       "excerpt": "Quake of 7.4 magnitude collapses and severely damages buildings in several major cities, including Cali and Pereira <ul><li><a href=\"https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-ear...",
@@ -309,34 +327,34 @@
       "pubDate": 1786385466.0
     },
     {
-      "id": "BBC News-1247765620856735555",
+      "id": "BBC News--8140488099496808343",
       "source": "BBC News",
       "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
       "excerpt": "Infection rates are high, adding to concern that authorities are struggling to get to grips with the disease.",
       "link": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1786384229.0
     },
     {
-      "id": "NPR--5249805951485530664",
+      "id": "NPR-4320794181400998712",
       "source": "NPR",
       "title": "'The Nerd Reich' tracks the 'unmasking of Silicon Valley's true politics'",
       "excerpt": "Journalist Gil Durán argues that a small circle of Silicon Valley billionaires and venture capitalists have concluded that democracy is in their way — and that they should be governing in its place.",
       "link": "https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1786383492.0
     },
     {
-      "id": "BBC News-5792632753912773346",
+      "id": "BBC News-6928433698337964910",
       "source": "BBC News",
-      "title": "'Total incinerated destruction': Canada wildfire evacuees wonder if they still have homes",
-      "excerpt": "More than 12,000 people have been forced to evacuate over the weekend after a wildfire quickly tore through Canada's picturesque Okanagan region.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
+      "title": "30 years later, a former gang member will stand trial for Tupac's murder",
+      "excerpt": "It’s been three decades since Tupac was killed, and since then, his reputation has only grown.",
+      "link": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss",
       "time": "Il y a 3h",
-      "pubDate": 1786378256.0
+      "pubDate": 1786380767.0
     },
     {
-      "id": "NPR--4866091568283977137",
+      "id": "NPR-943803621504164839",
       "source": "NPR",
       "title": "Despite Mideast wars, 20 million gather in Iraq for Shia pilgrimage",
       "excerpt": "Despite wars ranging across the Middle East, more than 20 million Shia pilgrims gather in Iraq shrine city for Arbaeen festival",
@@ -345,70 +363,52 @@
       "pubDate": 1786378086.0
     },
     {
-      "id": "BBC News-254973038013018044",
-      "source": "BBC News",
-      "title": "Former Thai MP allegedly kills official and confesses on YouTube",
-      "excerpt": "Chalong Riewrang called a YouTube livestream to say he had shot a government official.",
-      "link": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 3h",
-      "pubDate": 1786375287.0
-    },
-    {
-      "id": "BBC News--2974752823371411294",
+      "id": "BBC News-9195087325973145820",
       "source": "BBC News",
       "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
       "excerpt": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.",
       "link": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1786372988.0
     },
     {
-      "id": "BBC News--9158995407203751531",
+      "id": "BBC News-3281673232436724514",
       "source": "BBC News",
       "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
       "excerpt": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
       "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1786372465.0
     },
     {
-      "id": "NPR-2617397168339038001",
+      "id": "NPR--2788994979220245895",
       "source": "NPR",
       "title": "Does spending money make you feel bad? Read this comic",
       "excerpt": "If spending — or not spending — money makes you feel shame or regret, you might be grappling with financial guilt. Financial planner Lauryn Williams breaks down three types and how to deal.",
       "link": "https://www.npr.org/2026/08/10/nx-s1-5860936/does-spending-money-make-you-feel-bad-read-this-comic",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1786371635.0
     },
     {
-      "id": "NPR-842269061323003700",
+      "id": "NPR-5908308680610684608",
       "source": "NPR",
       "title": "Flood death toll in India's Assam reaches 100 as thousands lose their homes",
       "excerpt": "Days of heavy monsoon rain has caused rivers, including the Brahmaputra, to overflow, inundating communities, disrupting livelihoods and damaging infrastructure.",
       "link": "https://www.npr.org/2026/08/10/g-s1-138015/flood-death-toll-in-indias-assam-reaches-100-as-thousands-lose-their-homes",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1786365545.0
     },
     {
-      "id": "BBC News-219360691625445016",
-      "source": "BBC News",
-      "title": "Alleged rebel leader killed in Colombia as president targets armed groups",
-      "excerpt": "The military operation against Hernando Forero Mosquera was carried out just days after Colombia's new president was sworn in.",
-      "link": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 6h",
-      "pubDate": 1786364601.0
-    },
-    {
-      "id": "NPR--2030288582893036121",
+      "id": "NPR-5092754329709989978",
       "source": "NPR",
       "title": "Decades of abuse revealed at Michigan art school. And, the Iran war's impact on midterms",
       "excerpt": "A new report has revealed decades of alleged abuse at an elite art school. NPR spoke with one of the victims. And, Iran is playing the long game with negotiations, which could impact midterms.",
       "link": "https://www.npr.org/2026/08/10/g-s1-138013/up-first-newsletter-epstein-interlochen-center-for-the-arts-trump-iran-midterms-wildfires",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1786362178.0
     },
     {
-      "id": "NPR-8710015536368201368",
+      "id": "NPR-8570769203021864331",
       "source": "NPR",
       "title": "Some disabled people want to advance their careers. They say Medicaid rules stop them",
       "excerpt": "Medicaid will have new work requirements next year. But some people with disabilities, who already work, say they'd like to work more, but risk losing their Medicaid coverage if they earn too much.",
@@ -417,16 +417,16 @@
       "pubDate": 1786359600.0
     },
     {
-      "id": "BBC News-8381182112026069161",
+      "id": "BBC News--5099378507810426680",
       "source": "BBC News",
       "title": "World's oceans hit record-high July temperatures",
       "excerpt": "Global oceans recorded their hottest July on record, partly fuelled by developing El Niño conditions, as wildfires continue to ravage western Europe.",
       "link": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 8h",
+      "time": "Il y a 9h",
       "pubDate": 1786357486.0
     },
     {
-      "id": "The Guardian--1208501946555394593",
+      "id": "The Guardian-1475527334948609768",
       "source": "The Guardian",
       "title": "‘Shoved the tube so hard it tore my nose’: Kurdish film-maker recounts ‘inhumane’ ICE force-feeding",
       "excerpt": "Gabar Choli tells of how, for months, he was shackled, pinned and forcibly fed – and the physical and emotional scars the ordeal has left In June 2025, a sluggish and thin Gabar Choli, with sunken tem...",
@@ -435,16 +435,16 @@
       "pubDate": 1786356043.0
     },
     {
-      "id": "The Guardian--1249314906177236825",
+      "id": "The Guardian--4578075267087676968",
       "source": "The Guardian",
       "title": "Kurdish hunger striker says ICE force-feeding ‘mentally broke me’",
-      "excerpt": "Exclusive: Film-maker Gabar Choli describes how he endured coercive treatment over eight months in detention in Texas A Kurdish man who was force fed over the course of eight months while on hunger st...",
+      "excerpt": "Exclusive: Film-maker Gabar Choli describes how he endured coercive treatment over eight months in detention in Texas A Kurdish man who was force-fed over the course of eight months while on hunger st...",
       "link": "https://www.theguardian.com/us-news/2026/aug/10/kurdish-hunger-striker-ice-force-feeding",
       "time": "Il y a 9h",
       "pubDate": 1786356040.0
     },
     {
-      "id": "NPR--5855447893530363752",
+      "id": "NPR-6163936689858790032",
       "source": "NPR",
       "title": "An arts school where Epstein allegedly preyed on students reveals decades of abuse",
       "excerpt": "In a new report,<strong> </strong>former Interlochen students detail some 70 allegations of sexual abuse by nearly 50 adults employed or affiliated with the school. One of the former students tells hi...",
@@ -453,7 +453,7 @@
       "pubDate": 1786352400.0
     },
     {
-      "id": "NPR--2412087960926958520",
+      "id": "NPR--7179331174624193007",
       "source": "NPR",
       "title": "In a competitive Maine Senate race, women voters could be the deciders",
       "excerpt": "The race between Susan Collins and Troy Jackson is one of this year's most high-profile Senate contests. To win, both candidates will need support from an especially powerful voting bloc: Maine women.",
@@ -462,7 +462,7 @@
       "pubDate": 1786352400.0
     },
     {
-      "id": "NPR-8853363433625969830",
+      "id": "NPR-8341425556962728587",
       "source": "NPR",
       "title": "Voters are sick of the 2-party system. A new poll shows they're open to big changes",
       "excerpt": "A new poll shows support for moving the U.S. toward proportional representation, a system that elects multiple representatives in a single district in rough proportion to a party's vote share.",
@@ -471,7 +471,7 @@
       "pubDate": 1786352400.0
     },
     {
-      "id": "NPR-646617738025268992",
+      "id": "NPR--8733315339030844900",
       "source": "NPR",
       "title": "Who really needs testosterone?",
       "excerpt": "The military plans to start screening service members for low testosterone, and social media is overflowing with claims about testosterone therapy. But who actually needs it?",
@@ -480,7 +480,7 @@
       "pubDate": 1786352400.0
     },
     {
-      "id": "BBC News--8379281258064360772",
+      "id": "BBC News-8386404505380952758",
       "source": "BBC News",
       "title": "Evidence that South African special forces murdered top detective shared with BBC",
       "excerpt": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.",
@@ -489,7 +489,7 @@
       "pubDate": 1786316729.0
     },
     {
-      "id": "The Guardian--5309390575780955515",
+      "id": "The Guardian--6126193646524770251",
       "source": "The Guardian",
       "title": "Canadian government steps in as ‘out of control’ wildfires force thousands to flee",
       "excerpt": "British Columbia battling 102 fires day and night across province, as breakneck speed hampers firefighters’ efforts Canada’s federal government has announced it will provide urgent assistance to Briti...",
@@ -498,7 +498,7 @@
       "pubDate": 1786299625.0
     },
     {
-      "id": "The Guardian-5010080512272192989",
+      "id": "The Guardian-2551297660314683220",
       "source": "The Guardian",
       "title": "Spain to introduce temporary border checks on visitors from Italy",
       "excerpt": "Move comes in response to Rome imposing similar measures after mass migration rush to Ceuta Spain has announced it will introduce temporary border checks on visitors from Italy in response to Rome imp...",
@@ -507,7 +507,7 @@
       "pubDate": 1786139078.0
     },
     {
-      "id": "The Guardian-5886173012272672737",
+      "id": "The Guardian--9184199241973503147",
       "source": "The Guardian",
       "title": "Judge approves Trump effort to end South Sudan TPS protections",
       "excerpt": "Decision follows supreme court ruling that allowed US government to strip protections for Haitians and Syrians Temporary protected status (TPS) for hundreds of South Sudanese nationals in the United S...",
@@ -516,7 +516,7 @@
       "pubDate": 1786127674.0
     },
     {
-      "id": "The Guardian--7083304702342204514",
+      "id": "The Guardian--3127645306786405433",
       "source": "The Guardian",
       "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
       "excerpt": "Cases have passed 4,000 and health watchdog plans to go door to door to find patients in major response escalation The virus causing a massive outbreak of Ebola in the Democratic Republic of the Congo...",
@@ -525,7 +525,7 @@
       "pubDate": 1786033126.0
     },
     {
-      "id": "The Guardian-5580770577455198362",
+      "id": "The Guardian-705473377071616666",
       "source": "The Guardian",
       "title": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
       "excerpt": "State department informs Congress of planned closures in Canada, Grenada, Japan, Indonesia and Cameroon The US state department is to shut five foreign consulates and missions across Asia, Africa, Nor...",
@@ -534,7 +534,7 @@
       "pubDate": 1786030889.0
     },
     {
-      "id": "The Guardian-5196039051916581222",
+      "id": "The Guardian-5111332031175411586",
       "source": "The Guardian",
       "title": "Top Ugandan footballer killed by robbers armed with paving stones",
       "excerpt": "David Owori, who played for the national team, died in hospital after he tried to stop robbers taking his phone The Ugandan football community is in mourning after the death of a player who was fatall...",
@@ -543,5 +543,5 @@
       "pubDate": 1786026632.0
     }
   ],
-  "lastUpdate": "2026-08-10T19:11:12.780206"
+  "lastUpdate": "2026-08-10T19:59:03.842816"
 }
