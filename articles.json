@@ -1,70 +1,121 @@
 {
   "francophone": [
     {
-      "id": "Le Monde-5930808540357123226",
-      "source": "Le Monde",
-      "title": "EN DIRECT, guerre en Ukraine : la Corée du Sud exclut toute livraison de systèmes de défense antiaérienne à Kiev",
-      "excerpt": "Le président ukrainien, Volodymyr Zelensky, avait appelé Séoul à soutenir et coopérer avec Kiev face à la Russie qui bénéficie, selon lui, de renfort humain et matériel nord-coréen.",
-      "link": "https://www.lemonde.fr/international/live/2026/08/11/en-direct-guerre-en-ukraine-la-coree-du-sud-exclut-toute-livraison-de-systemes-de-defense-antiaerienne-a-kiev_6741928_3210.html",
-      "time": "Il y a 7 min",
-      "pubDate": 1786448798.0
+      "id": "Libération--2605955445239199686",
+      "source": "Libération",
+      "title": "Colombie : le pays en «état d’urgence» après un puissant séisme qui a fait au moins 169 morts et 600 blessés dans l’ouest du pays",
+      "excerpt": "D’intenses secousses ont été ressenties jusqu’à Bogotá lundi. De nombreuses victimes ont été décomptées dans plusieurs régions, notamment à Pereira, Manizales et Cali. Six aéroports ont été mis à l’ar...",
+      "link": "https://www.liberation.fr/international/amerique/colombie-un-fort-seisme-de-magnitude-66-ressenti-a-bogota-20260810_RE3YRNO4P5GHHA5PGOCLU6V5RM/",
+      "time": "Il y a 9 min",
+      "pubDate": 1786450934.0
     },
     {
-      "id": "France Info--6124025808245125666",
+      "id": "France Info-2487441729794372833",
+      "source": "France Info",
+      "title": "Au moins 169 morts, 165 bâtiments effondrés, des survivants recherchés… Les dégâts du séisme en Colombie",
+      "excerpt": "Le pays a été frappé par un séisme de magnitude 7,4 lundi. Les recherches de survivants sont toujours en cours.",
+      "link": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/en-images-au-moins-132-morts-86-batiments-effondres-recherche-de-survivants-les-degats-du-seisme-en-colombie_8142965.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 15 min",
+      "pubDate": 1786450552.0
+    },
+    {
+      "id": "Libération-7427197044884427992",
+      "source": "Libération",
+      "title": "Des méduses contraignent à nouveau EDF à arrêter trois réacteurs de la centrale nucléaire de Gravelines",
+      "excerpt": "Un an exactement après un incident similaire, l’électricien a dû stopper une partie des réacteurs de la plus grande installation nucléaire d’Europe de l’Ouest après une nouvelle intrusion massive de c...",
+      "link": "https://www.liberation.fr/environnement/nucleaire/des-meduses-contraignent-edf-a-arreter-trois-reacteurs-de-la-centrale-nucleaire-de-gravelines-20260811_ZPQSSGJGM5GL7IGZVW4CZV5KZA/",
+      "time": "Il y a 43 min",
+      "pubDate": 1786448886.0,
+      "sources": [
+        "Libération",
+        "France Info"
+      ],
+      "multiSource": true,
+      "sourceCount": 2
+    },
+    {
+      "id": "Le Monde--5978208247560932721",
+      "source": "Le Monde",
+      "title": "EN DIRECT, guerre en Ukraine : la Corée du Sud exclut toute livraison de systèmes de défense antiaérienne à Kiev",
+      "excerpt": "Le président ukrainien, Volodymyr Zelensky, avait appelé Séoul à soutenir son pays et à coopérer avec lui, alors que la Russie bénéficie, selon lui, d’un renfort humain et matériel nord-coréen.",
+      "link": "https://www.lemonde.fr/international/live/2026/08/11/en-direct-guerre-en-ukraine-la-coree-du-sud-exclut-toute-livraison-de-systemes-de-defense-antiaerienne-a-kiev_6741928_3210.html",
+      "time": "Il y a 45 min",
+      "pubDate": 1786448794.0
+    },
+    {
+      "id": "Le Monde-883083214833086789",
+      "source": "Le Monde",
+      "title": "En Thaïlande, les permis d’armes à feu suspendus après une fusillade dans un lycée",
+      "excerpt": "Un adolescent de 14 ans a abattu, vendredi 7 août, ses grands-parents à leur domicile, avant de tuer six autres personnes dans son collège-lycée avec le pistolet de son grand-père, puis de retourner l...",
+      "link": "https://www.lemonde.fr/international/article/2026/08/11/en-thailande-les-permis-d-armes-a-feu-suspendus-apres-une-fusillade-dans-un-lycee_6743795_3210.html",
+      "time": "Il y a 1h",
+      "pubDate": 1786447420.0
+    },
+    {
+      "id": "France Info--7646666427964994688",
       "source": "France Info",
       "title": "La nouvelle épidémie d'Ebola a franchi le cap des 2 000 morts en République démocratique du Congo",
       "excerpt": "La maladie a tué plus de 15 000 personnes en Afrique au cours des 50 dernières années.",
       "link": "https://www.franceinfo.fr/sante/maladie/ebola/l-epidemie-d-ebola-a-franchi-le-cap-des-2-000-morts-en-republique-democratique-du-congo_8143049.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 34 min",
+      "time": "Il y a 1h",
       "pubDate": 1786447176.0
     },
     {
-      "id": "France Info--7934967626171785224",
-      "source": "France Info",
-      "title": "Des méduses obligent EDF à arrêter trois réacteurs de la centrale nucléaire de Gravelines",
-      "excerpt": "L'énergéticien a dû faire face lundi à un \"afflux massif de méduses\". Trois réacteurs ont été arrêtés et un autre a vu sa production réduite de moitié.",
-      "link": "https://www.franceinfo.fr/environnement/energie/nucleaire/des-meduses-obligent-edf-a-arreter-trois-reacteurs-de-la-centrale-nucleaire-de-gravelines_8143100.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 43 min",
-      "pubDate": 1786446630.0
+      "id": "Le Monde--566626331462686623",
+      "source": "Le Monde",
+      "title": "Mort de Dominique Libault, haut fonctionnaire et ancien directeur de la Sécurité sociale, à l’âge de 64 ans",
+      "excerpt": "Cette « figure majeure de notre protection sociale » a joué un « rôle déterminant dans la construction de la politique de l’autonomie », ont notamment salué plusieurs ministres dans un communiqué comm...",
+      "link": "https://www.lemonde.fr/disparitions/article/2026/08/11/mort-de-dominique-libault-haut-fonctionnaire-et-ancien-directeur-de-la-securite-sociale-a-l-age-de-64-ans_6743794_3382.html",
+      "time": "Il y a 1h",
+      "pubDate": 1786447173.0
     },
     {
-      "id": "Libération-1905165912345198589",
+      "id": "Le Monde-8585757859679312845",
+      "source": "Le Monde",
+      "title": "En Malaisie, les réfugiés rohingya, frappés par une vague de haine, sont devenus indésirables",
+      "excerpt": "Nourrie par une campagne de désinformation sur les réseaux sociaux, une xénophobie sans précédent touche les Rohingya, minorité musulmane apatride originaire de Birmanie. Les ONG dénoncent une instrum...",
+      "link": "https://www.lemonde.fr/international/article/2026/08/11/en-malaisie-les-refugies-rohingya-frappes-par-une-vague-de-haine-sont-devenus-indesirables_6743792_3210.html",
+      "time": "Il y a 1h",
+      "pubDate": 1786446008.0
+    },
+    {
+      "id": "Libération-6980853728229710368",
       "source": "Libération",
       "title": "Le démagogisme de Gabriel Attal qui veut «faire du maire l’élu le plus puissant de France»",
       "excerpt": "L’autonomie des territoires, qui ne saurait exister sans l’autonomie financière, est constamment remise cause par des responsables politiques de droite et d’extrême droite, pointe Sébastien Margotteau...",
       "link": "https://www.liberation.fr/idees-et-debats/tribunes/le-demagogisme-de-gabriel-attal-qui-veut-faire-du-maire-lelu-le-plus-puissant-de-france-par-sebastien-margotteau-20260811_KPT5HW5GGZGZBPL3KM7XKQIBGE/",
-      "time": "Il y a 53 min",
+      "time": "Il y a 1h",
       "pubDate": 1786446000.0
     },
     {
-      "id": "Libération--5165732151138222307",
+      "id": "Libération--6187608417121746921",
       "source": "Libération",
       "title": "Splendeurs et misères de la rue avec le photographe Seba Lallemand",
       "excerpt": "Pour les «Rencontres Image et Environnement», du 11 au 13 septembre, à Thoré-la-Rochette (Loir-et-Cher), l’artiste a sélectionné 47 pellicules qu’il avait confiées à Jean-Pierre, SDF à Paris, qui a ca...",
       "link": "https://www.liberation.fr/culture/photographie/splendeurs-et-miseres-de-la-rue-avec-le-photographe-seba-lallemand-20260811_KZHFCOWFMFEU7CCBTMIVGVAYQI/",
-      "time": "Il y a 54 min",
+      "time": "Il y a 1h",
       "pubDate": 1786445940.0
     },
     {
-      "id": "France Info-7651650036862666585",
+      "id": "France Info-6459609051669813868",
       "source": "France Info",
       "title": "4 000 fichiers pédopornographiques, poupée sexuelle à l'effigie de mineurs : un trentenaire piégé en ligne par une \"cyberpatrouille\", enquête ouverte à Vesoul",
       "excerpt": "Un homme né en 1988 a été interpellé à Vesoul (Haute-Saône) après avoir été repéré par une \"cyberpatrouille\" de la police pour détention de contenus pédopornographiques. Plus de 4 000 images et des ob...",
       "link": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/haute-saone/vesoul/4-000-fichiers-pedopornographiques-poupee-sexuelle-a-l-effigie-de-mineurs-un-trentenaire-piege-en-ligne-par-une-cyberpatrouille-enquete-ouverte-a-vesoul-3399838.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 55 min",
+      "time": "Il y a 1h",
       "pubDate": 1786445894.0
     },
     {
-      "id": "Libération-595574943808704381",
+      "id": "Libération--6281805681502160664",
       "source": "Libération",
       "title": "Grousset en 50 m papillon, Gastaldello et Wattel en 100 m crawl : les Bleus à suivre en finale de l’Euro de natation ce mardi 11 août",
       "excerpt": "Quatre finales impliquant des Français sont au programme de la deuxième soirée des championnats d’Europe à Saint-Denis. Le champion du monde en titre Maxime Grousset est notamment très attendu sur sa...",
       "link": "https://www.liberation.fr/sports/grousset-en-50-m-papillon-gastaldello-et-wattel-en-100-m-crawl-les-bleus-a-suivre-en-finale-de-leuro-de-natation-ce-mardi-11-aout-20260811_47LEF3DMQJHCRKRJ24GMU62PME/",
-      "time": "Il y a 58 min",
+      "time": "Il y a 1h",
       "pubDate": 1786445688.0
     },
     {
-      "id": "Libération--6666253493823167425",
+      "id": "Libération--7493336992882133893",
       "source": "Libération",
       "title": "La longévité à toute épreuve de «l’Empereur» Laurent Cathala, maire de Créteil",
       "excerpt": "Le socialiste est l’édile le plus ancien de France, à la tête de la préfecture du Val-de-Marne depuis 1977 – cas unique pour une ville de cette taille. Jusqu’ici sans casserole, son règne sans partage...",
@@ -73,7 +124,7 @@
       "pubDate": 1786445531.0
     },
     {
-      "id": "Libération-7359970201250342971",
+      "id": "Libération--7175594830271216908",
       "source": "Libération",
       "title": "EN DIRECT - Incendies et fortes chaleurs : la canicule s’étend ce mardi jusqu’à la Manche et la pointe bretonne",
       "excerpt": "Dans les 43 départements concernés par la vigilance orange, les températures monteront «entre 35 et 39 degrés au sud». Météo France table sur un «pic probable» de ce nouvel épisode caniculaire «vers l...",
@@ -82,7 +133,7 @@
       "pubDate": 1786445428.0
     },
     {
-      "id": "Libération--8179247552703396891",
+      "id": "Libération-5507532172863151919",
       "source": "Libération",
       "title": "A Chalon-sur-Saône, l’intervention des CRS fait grimper la tension autour d’un collectif artistique menacé d’expulsion",
       "excerpt": "La fête de fin du festival Chalon dans la rue a tourné à l’affrontement avec les forces de l’ordre. Alors que la chambre de commerce et d’industrie n’a pas renouvelé le bail du tiers-lieu inclusif la...",
@@ -91,7 +142,7 @@
       "pubDate": 1786445249.0
     },
     {
-      "id": "Libération-5822886072284792193",
+      "id": "Libération--5265383250248217053",
       "source": "Libération",
       "title": "Toulouse : deux enquêtes ouvertes après la mort d’un adolescent lors d’une course-poursuite",
       "excerpt": "Un conducteur de scooter de 17 ans est mort vendredi soir. Le parquet de Toulouse a ouvert deux enquêtes : pour recherche des causes de la mort, et refus d’obtempérer aggravé par la mise en danger d’a...",
@@ -100,7 +151,7 @@
       "pubDate": 1786445215.0
     },
     {
-      "id": "Libération-8233834145701622865",
+      "id": "Libération--3863725056758904258",
       "source": "Libération",
       "title": "En RDC, l’épidémie d’Ebola franchit le cap des 2 000 morts",
       "excerpt": "Le bilan de cette 17e vague se rapproche dangereusement de celle de 2018-2020, qui avec près de 2 300 victimes était jusqu’à présent la plus meurtrière jamais enregistrée.",
@@ -109,7 +160,7 @@
       "pubDate": 1786444593.0
     },
     {
-      "id": "Le Monde-7329610570128913052",
+      "id": "Le Monde--5535901205452770849",
       "source": "Le Monde",
       "title": "Avant de regarder l’éclipse solaire du 12 août, neuf questions pour bien se préparer",
       "excerpt": "Une éclipse solaire sera visible en France mercredi 12 août, pour la première fois depuis 1999. Un phénomène rare et attrayant, mais qui peut être dangereux s’il n’est pas observé dans de bonnes condi...",
@@ -118,7 +169,7 @@
       "pubDate": 1786444422.0
     },
     {
-      "id": "France Info--332093933667244897",
+      "id": "France Info-1274343089990288783",
       "source": "France Info",
       "title": "Quatre conseils pour faire de belles photos de l'éclipse solaire en toute sécurité",
       "excerpt": "Avant de se lancer dans la photographie de cet événement astronomique rare, il faut s'assurer de disposer d'un filtre solaire et d'avoir le bon équipement.",
@@ -127,61 +178,25 @@
       "pubDate": 1786444309.0
     },
     {
-      "id": "Libération-42799589718564600",
-      "source": "Libération",
-      "title": "Résumés IA de Google : les quotidiens français saisissent l’Autorité de la concurrence",
-      "excerpt": "L’Alliance de la presse d’information générale (Apig), organisme qui regroupe près de 300 quotidiens dont «Libération», exige que l’entreprise étasunienne respecte «ses engagements pris en 2022».",
-      "link": "https://www.liberation.fr/economie/economie-numerique/resumes-ia-de-google-les-quotidiens-francais-saisissent-lautorite-de-la-concurrence-20260811_GORRGGMJLJCKBAFFFIZGRTR6GM/",
-      "time": "Il y a 1h",
-      "pubDate": 1786443667.0
-    },
-    {
-      "id": "France Info-8193255675793653488",
+      "id": "France Info-9060841444595490563",
       "source": "France Info",
       "title": "\"On essaie de proposer des supports différents\" : à quelques mois de l'élection présidentielle, Renaissance et LFI misent sur les cahiers de vacances pour faire campagne durant l'été",
       "excerpt": "Classique estival pour les élèves, le marché du cahier de vacances à destination des adultes s'est fortement développé ces derrières années. Le PC et le PS ont déjà tenté l'expérience par le passé. Ce...",
       "link": "https://www.franceinfo.fr/elections/presidentielle/a-quelques-mois-de-l-election-presidentielle-renaissance-et-lfi-misent-sur-le-cahier-de-vacances-pour-faire-passer-des-messages_8142749.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1786443043.0
     },
     {
-      "id": "Le Monde-8461088728668029231",
+      "id": "Le Monde-5729263740310024407",
       "source": "Le Monde",
       "title": "Résumés IA de Google : l’Alliance de la presse d’information générale saisit l’Autorité de la concurrence",
       "excerpt": "L’APIG, qui regroupe près de 300 quotidiens français, demande au gendarme de la concurrence d’intervenir « pour demander le respect par Google des engagements pris en 2022 ».",
       "link": "https://www.lemonde.fr/actualite-medias/article/2026/08/11/resumes-ia-de-google-l-alliance-de-la-presse-d-information-generale-dont-le-monde-est-membre-saisit-l-autorite-de-la-concurrence_6743786_3236.html",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1786442349.0
     },
     {
-      "id": "France Info--3124891443890035802",
-      "source": "France Info",
-      "title": "Au moins 132 morts, 86 bâtiments effondrés, des survivants recherchés… Les dégâts du séisme en Colombie",
-      "excerpt": "Le pays a été frappé par un séisme de magnitude 7,4 lundi. Les recherches de survivants sont toujours en cours.",
-      "link": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/seismes/en-images-au-moins-132-morts-86-batiments-effondres-recherche-de-survivants-les-degats-du-seisme-en-colombie_8142965.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
-      "pubDate": 1786442193.0
-    },
-    {
-      "id": "Le Monde--4460012724009869254",
-      "source": "Le Monde",
-      "title": "En Iran, le nouveau Guide suprême prépare l’appareil militaire et sécuritaire à une confrontation prolongée avec les Etats-Unis et Israël",
-      "excerpt": "Invisible depuis son accession au pouvoir, début mars, Mojtaba Khamenei a procédé, ces derniers jours, à une série de nominations renforçant son autorité au sommet de l’appareil d’Etat de la Républiqu...",
-      "link": "https://www.lemonde.fr/international/article/2026/08/11/en-iran-le-nouveau-guide-supreme-prepare-l-appareil-militaire-et-securitaire-a-une-confrontation-prolongee-avec-les-etats-unis-et-israel_6743785_3210.html",
-      "time": "Il y a 2h",
-      "pubDate": 1786441878.0
-    },
-    {
-      "id": "Libération--5387259249919677148",
-      "source": "Libération",
-      "title": "Dans le Midwest, l’aile gauche du Parti démocrate veut pousser son avantage",
-      "excerpt": "Après la victoire d’Abdul El-Sayed dans le Michigan, les primaires dans le Wisconsin et le Minnesota, mardi 11 août, pourraient consacrer deux nouvelles figures progressistes. Et relancer, chez les dé...",
-      "link": "https://www.liberation.fr/international/amerique/dans-le-midwest-laile-gauche-du-parti-democrate-veut-pousser-son-avantage-20260811_DLGLSUGANNEJJHM3D7FCGGAA4Q/",
-      "time": "Il y a 2h",
-      "pubDate": 1786441588.0
-    },
-    {
-      "id": "France Info--1620446943915561325",
+      "id": "France Info--711154248746592563",
       "source": "France Info",
       "title": "L'ex-dictateur Bachar al-Assad condamné à la peine de mort par contumace par un tribunal syrien",
       "excerpt": "Les autorités de transition ont aussi condamné à mort, en sa présence, Atef Najib, ancien chef de la sécurité politique à Deraa dans le sud du pays. Il s'agit des premiers jugements à l'encontre de me...",
@@ -190,25 +205,16 @@
       "pubDate": 1786441321.0
     },
     {
-      "id": "France Info--3610293837623639547",
+      "id": "France Info-265281078122473620",
       "source": "France Info",
       "title": "Deux policiers municipaux ont été blessés à l'arme blanche à Toulouse",
       "excerpt": "\"Les investigations ont été confiées par le parquet à la police nationale pour déterminer les circonstances et les motivations de cette agression\", a souligné mardi le ministre de l'Intérieur.",
       "link": "https://www.franceinfo.fr/faits-divers/deux-policiers-municipaux-ont-ete-blesses-a-l-arme-blanche-a-toulouse_8142941.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1786438531.0
     },
     {
-      "id": "Le Monde--4070018378456524351",
-      "source": "Le Monde",
-      "title": "Bachar Al-Assad condamné, en son absence, à la peine de mort en Syrie pour « crimes de guerre » et « crimes contre l’humanité »",
-      "excerpt": "L’ex-dictateur a fui avec sa famille à Moscou, en Russie, lors de la prise de Damas en décembre 2024 par une coalition menée par des islamistes.",
-      "link": "https://www.lemonde.fr/international/article/2026/08/11/bachar-al-assad-condamne-a-la-peine-de-mort-par-contumace-en-syrie-pour-crimes-de-guerre-et-crimes-contre-l-humanite_6743778_3210.html",
-      "time": "Il y a 3h",
-      "pubDate": 1786438213.0
-    },
-    {
-      "id": "France Info-4514179617933461564",
+      "id": "France Info--451403255117744946",
       "source": "France Info",
       "title": "Volodymyr Zelensky affirme que la Russie a utilisé des \"missiles balistiques nord-coréens\" contre l'Ukraine",
       "excerpt": "Les Russes \"se préparent désormais à déployer un contingent supplémentaire de Nord-Coréens sur leur territoire. Ils ont reçu (...) des missiles balistiques supplémentaires de la Corée du Nord\", a écri...",
@@ -217,16 +223,16 @@
       "pubDate": 1786433967.0
     },
     {
-      "id": "Le Monde-5451321693535576936",
+      "id": "Le Monde--5312333332887844169",
       "source": "Le Monde",
       "title": "La tambouille de saison : « C’est après l’été qu’on se retrouve à commander des spritz en novembre »",
       "excerpt": "« Les négos de l’été » (5/8). Qui dit grandes vacances dit gros et petits conflits à arbitrer. Certains plats et boissons qu’on réservait aux congés estivaux jouent désormais les prolongations le rest...",
       "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/11/la-tambouille-de-saison-c-est-apres-l-ete-qu-on-se-retrouve-a-commander-des-spritz-en-novembre_6743768_3451060.html",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1786431603.0
     },
     {
-      "id": "France Info--30651655436519051",
+      "id": "France Info--1929719060707935992",
       "source": "France Info",
       "title": "Canicule : un nouvel épisode de fortes chaleurs s'installe en France ce mardi",
       "excerpt": "Météo-France prévoit de placer 24 départements supplémentaires, dont Paris et sa petite couronne, à partir de mercredi midi. L'organsime table sur un \"pic probable de l'épisode vers le milieu de semai...",
@@ -235,54 +241,45 @@
       "pubDate": 1786426805.0
     },
     {
-      "id": "Le Monde-3493865248735371615",
+      "id": "Le Monde-5747380811677457284",
       "source": "Le Monde",
       "title": "« Ebola se propage à une vitesse que nous n’avions encore jamais observée » : l’alerte de Jean-Jacques Muyembe, codécouvreur du virus",
       "excerpt": "Le virologue congolais, qui a mis au jour le virus en 1976, revient, dans un entretien au « Monde », sur l’actuelle propagation de l’épidémie due à Ebola en République démocratique du Congo. En seulem...",
       "link": "https://www.lemonde.fr/afrique/article/2026/08/11/jean-jacques-muyembe-virologue-congolais-ebola-se-propage-a-une-vitesse-que-nous-n-avions-encore-jamais-observee_6743759_3212.html",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1786422605.0
     },
     {
-      "id": "Le Monde-460514767268769818",
+      "id": "Le Monde-5182925192281960196",
       "source": "Le Monde",
       "title": "Yannick Jadot : « Climatosceptiques et climato-arrangeants sont des capitulards qui nous condamnent au pire »",
       "excerpt": "Alors que les écologistes lancent l’alerte depuis des années, les véritables responsables de la catastrophe en cours ont l’aplomb de leur en faire porter la responsabilité, dénonce le sénateur écologi...",
       "link": "https://www.lemonde.fr/idees/article/2026/08/11/yannick-jadot-climatosceptiques-et-climato-arrangeants-sont-des-capitulards-qui-nous-condamnent-au-pire_6743755_3232.html",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1786420839.0
     },
     {
-      "id": "Le Monde--4236303088069701943",
-      "source": "Le Monde",
-      "title": "Des aspirantes mannequins prises au piège d’une escroquerie tentaculaire et d’une justice à la peine : « Lors du dépôt de plainte, on m’a fait comprendre que j’étais trop conne »",
-      "excerpt": "Quatre personnes seront jugées, en mars 2027, pour « escroquerie en bande organisée » au préjudice de 123 personnes. Une affaire ancienne à travers laquelle se font jour les difficultés de la lutte co...",
-      "link": "https://www.lemonde.fr/societe/article/2026/08/11/des-aspirantes-mannequins-prises-au-piege-d-une-escroquerie-tentaculaire-et-d-une-justice-a-la-peine-lors-du-depot-de-plainte-on-m-a-fait-comprendre-que-j-etais-trop-conne_6743747_3224.html",
-      "time": "Il y a 7h",
-      "pubDate": 1786420748.0
-    },
-    {
-      "id": "Le Monde--1122283266998729949",
+      "id": "Le Monde--3308483937209452635",
       "source": "Le Monde",
       "title": "Fragilisés par la perte de brevets, les Big Pharma multiplient les acquisitions de biotechs pour mettre la main sur les prochains médicaments vedettes",
       "excerpt": "Les opérations de rachat s’accélèrent depuis 2025, alors que l’industrie s’apprête à faire face à une expiration massive des brevets de traitements ces prochaines années.",
       "link": "https://www.lemonde.fr/economie/article/2026/08/11/pour-assurer-leur-avenir-les-big-pharma-multiplient-les-acquisitions-de-biotechs_6743676_3234.html",
-      "time": "Il y a 8h",
+      "time": "Il y a 9h",
       "pubDate": 1786417205.0
     }
   ],
   "anglophone": [
     {
-      "id": "NPR--2031732588254441931",
+      "id": "NPR--6719730043006602175",
       "source": "NPR",
       "title": "1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia",
       "excerpt": "Today marks one year since the National Guard was deployed to the nation's capital. Here's what has happened since. And, a 7.4 magnitude earthquake leaves more than 100 people dead in Colombia.",
       "link": "https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines",
-      "time": "Il y a 42 min",
+      "time": "Il y a 1h",
       "pubDate": 1786446674.0
     },
     {
-      "id": "BBC News-4922019965963944487",
+      "id": "BBC News--1977471059608237472",
       "source": "BBC News",
       "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
       "excerpt": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
@@ -291,61 +288,61 @@
       "pubDate": 1786444987.0
     },
     {
-      "id": "NPR-1986936822469304895",
+      "id": "NPR-8698019901104022301",
       "source": "NPR",
       "title": "The secret economics inside the new Planet Money board game",
       "excerpt": "From Nobel Prize-winning research to the Laffer Curve, Scabby the Rat, Veblen's peacock, and more — the economic ideas and inside jokes hiding throughout Planet Money's new board game.",
       "link": "https://www.npr.org/sections/planet-money/2026/08/11/g-s1-138059/the-secret-economics-inside-the-new-planet-money-board-game",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1786444200.0
     },
     {
-      "id": "The Guardian--36150566353679996",
+      "id": "The Guardian--2529232118008841979",
       "source": "The Guardian",
       "title": "Scores dead in Colombia after powerful earthquake strikes west of country",
       "excerpt": "Quake of 7.4 magnitude collapses and severely damages buildings in several major cities, including Cali and Pereira More than 100 people died after a powerful earthquake struck western Colombia, colla...",
       "link": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1786443241.0
     },
     {
-      "id": "NPR-2661780615195384783",
+      "id": "NPR-2655955953551584494",
       "source": "NPR",
       "title": "Former Syrian President Assad sentenced to death in absentia",
       "excerpt": "A Syrian court sentenced Assad along with his brother to death in absentia for crimes against humanity and war crimes during Syria's 14-year conflict that left about half a million people dead.",
       "link": "https://www.npr.org/2026/08/11/g-s1-138166/syria-assad-sentenced-to-death",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1786442834.0
     },
     {
-      "id": "BBC News--8026756509380410922",
+      "id": "BBC News--345719789144603074",
       "source": "BBC News",
       "title": "Trump signs order to limit childhood vaccines and split MMR shots",
       "excerpt": "The American Academy of Pediatrics calls the recommendation on measles, mumps and rubella shots \"dangerous\".",
       "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1786442404.0
     },
     {
-      "id": "NPR-8619417349831379611",
+      "id": "NPR-3660332660156549300",
       "source": "NPR",
       "title": "A midwife crosses 'maternity deserts' to make a difference for Black moms and babies",
       "excerpt": "New research from the March of Dimes says more than half of U.S. counties have no labor and delivery hospitals. One Black midwife tries to make a difference for moms in Alabama.",
       "link": "https://www.npr.org/2026/08/11/nx-s1-5678523/maternity-desert-birth-midwife-black-moms-babies",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1786442400.0
     },
     {
-      "id": "BBC News-4883202065488721609",
+      "id": "BBC News-7286279993172288765",
       "source": "BBC News",
       "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
       "excerpt": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
       "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1786442325.0
     },
     {
-      "id": "BBC News--4023936498243155035",
+      "id": "BBC News--1011232686058008497",
       "source": "BBC News",
       "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
       "excerpt": "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally.",
@@ -354,43 +351,43 @@
       "pubDate": 1786441198.0
     },
     {
-      "id": "NPR-4529270283383859921",
-      "source": "NPR",
-      "title": "Alabama holds second primary Tuesday, leading to confusion, concerns about low turnout",
-      "excerpt": "After Alabama redrew its congressional maps in May, voters in several districts saw their primaries pushed to August. Now, it's time to vote and there are concerns confusion will dampen voter turnout.",
-      "link": "https://www.npr.org/2026/08/11/nx-s1-5927490/alabama-primary-election-2026-midterms-redistricting",
-      "time": "Il y a 2h",
-      "pubDate": 1786438800.0
-    },
-    {
-      "id": "NPR--2753911239902285229",
-      "source": "NPR",
-      "title": "In Minnesota and Wisconsin, competitive primaries will again test power of progressive candidates",
-      "excerpt": "A week after the Michigan primary, tests of progressive power will play out in the Midwest, raising questions of whether far left candidates can win come November or if the GOP can pick up moderates.",
-      "link": "https://www.npr.org/2026/08/11/nx-s1-5927455/minnesota-wisconsin-primaries-hong-dsa-crowley-lindell-craig-flanagan-trump",
-      "time": "Il y a 2h",
-      "pubDate": 1786438800.0
-    },
-    {
-      "id": "NPR--7561938894803684040",
-      "source": "NPR",
-      "title": "The school year begins in LA with one big change: limited screen time",
-      "excerpt": "As educators in the nation's second-largest district prepare for the new limits on classroom screen time, some teachers say it will be a difficult adjustment.",
-      "link": "https://www.npr.org/2026/08/11/nx-s1-5913745/screen-limits-begin-la-schools",
-      "time": "Il y a 2h",
-      "pubDate": 1786438800.0
-    },
-    {
-      "id": "NPR--6374481490948540064",
+      "id": "NPR-3455878316330347497",
       "source": "NPR",
       "title": "A year in, thousands of armed troops have quietly become a fixture of D.C. life",
       "excerpt": "The deployment is expected to cost in the billions after it was quietly extended until Inauguration Day of 2029.",
       "link": "https://www.npr.org/2026/08/11/nx-s1-5927230/national-guard-dc-anniversary-trump",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1786438800.0
     },
     {
-      "id": "NPR--8558791361254776499",
+      "id": "NPR-2966649973484069079",
+      "source": "NPR",
+      "title": "Alabama holds second primary Tuesday, leading to confusion, concerns about low turnout",
+      "excerpt": "After Alabama redrew its congressional maps in May, voters in several districts saw their primaries pushed to August. Now, it's time to vote and there are concerns confusion will dampen voter turnout.",
+      "link": "https://www.npr.org/2026/08/11/nx-s1-5927490/alabama-primary-election-2026-midterms-redistricting",
+      "time": "Il y a 3h",
+      "pubDate": 1786438800.0
+    },
+    {
+      "id": "NPR-4481872954774916909",
+      "source": "NPR",
+      "title": "In Minnesota and Wisconsin, competitive primaries will again test power of progressive candidates",
+      "excerpt": "A week after the Michigan primary, tests of progressive power will play out in the Midwest, raising questions of whether far left candidates can win come November or if the GOP can pick up moderates.",
+      "link": "https://www.npr.org/2026/08/11/nx-s1-5927455/minnesota-wisconsin-primaries-hong-dsa-crowley-lindell-craig-flanagan-trump",
+      "time": "Il y a 3h",
+      "pubDate": 1786438800.0
+    },
+    {
+      "id": "NPR-5612844458395771453",
+      "source": "NPR",
+      "title": "The school year begins in LA with one big change: limited screen time",
+      "excerpt": "As educators in the nation's second-largest district prepare for the new limits on classroom screen time, some teachers say it will be a difficult adjustment.",
+      "link": "https://www.npr.org/2026/08/11/nx-s1-5913745/screen-limits-begin-la-schools",
+      "time": "Il y a 3h",
+      "pubDate": 1786438800.0
+    },
+    {
+      "id": "NPR--7238464784463143064",
       "source": "NPR",
       "title": "Morning news brief",
       "excerpt": "Voters in six states head to the polls Tuesday for high-profile primaries, Trump signals his strategy with Iran is shifting, 7.4 magnitude earthquake kills at least 111 people in Colombia.",
@@ -399,34 +396,34 @@
       "pubDate": 1786437161.0
     },
     {
-      "id": "BBC News--7076942379933401091",
+      "id": "BBC News-5597596533476833249",
       "source": "BBC News",
       "title": "Libyan authorities battle big blaze at major oil refinery",
       "excerpt": "Monday's drone strike on the Zawiya refinery was the third such incident in two days.",
       "link": "https://www.bbc.co.uk/news/articles/cp308z9pl30o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1786436904.0
     },
     {
-      "id": "BBC News-2267140674306927973",
+      "id": "BBC News--1921513463650058376",
       "source": "BBC News",
       "title": "Australia PM under fire for remarks on Japanese counterpart's melon gifts",
       "excerpt": "An ex-Japanese envoy said the \"sexist\" comments \"betrayed the close bond\" between the countries.",
       "link": "https://www.bbc.co.uk/news/articles/c0jl6ewvq42o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1786434922.0
     },
     {
-      "id": "NPR-1034399157366797093",
+      "id": "NPR--7845729349573490592",
       "source": "NPR",
       "title": "Turkey's parliament approves a pardon-like bill for thousands of PKK militants",
       "excerpt": "Turkey's parliament approved legislation that would introduce a conditional pardon for thousands of Kurdish militants in a bid to advance the government's peace initiative with their insurgent group.",
       "link": "https://www.npr.org/2026/08/11/g-s1-138162/turkey-kurdish-militants",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1786428229.0
     },
     {
-      "id": "The Guardian-540875951331606944",
+      "id": "The Guardian-8088587822896717042",
       "source": "The Guardian",
       "title": "Colombia quake leaves more than 110 dead – as it happened",
       "excerpt": "This blog is now closed – a <a href=\"https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco\">full report is here</a> <strong>People remain trapped in Cali, one of Colombi...",
@@ -435,25 +432,25 @@
       "pubDate": 1786426328.0
     },
     {
-      "id": "BBC News-5153517585621832075",
+      "id": "BBC News--2822869160693190589",
       "source": "BBC News",
       "title": "At least 132 killed in Colombia's largest  earthquake in years",
       "excerpt": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
       "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1786421167.0
     },
     {
-      "id": "BBC News-5180348709013721056",
+      "id": "BBC News--7845902843293637557",
       "source": "BBC News",
       "title": "Canada flight cancelled after child refuses to wear seat belt",
       "excerpt": "The incident has sparked a debate over child safety and discipline on commercial planes.",
       "link": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 14h",
+      "time": "Il y a 15h",
       "pubDate": 1786395987.0
     },
     {
-      "id": "BBC News--3101482501424526264",
+      "id": "BBC News-2511878046144471446",
       "source": "BBC News",
       "title": "Watch: What we know about Tupac murder suspect Duane 'Keffe D' Davis",
       "excerpt": "The trial of the 63-year-old former gang boss kicked off on Monday, and he has entered a not guilty plea.",
@@ -462,7 +459,7 @@
       "pubDate": 1786394729.0
     },
     {
-      "id": "BBC News--8181370784418384439",
+      "id": "BBC News-3681885516873407399",
       "source": "BBC News",
       "title": "World's oceans hit record-high July temperatures",
       "excerpt": "Global oceans recorded their hottest July on record, partly fuelled by developing El Niño conditions, as wildfires continue to ravage western Europe.",
@@ -471,7 +468,7 @@
       "pubDate": 1786357486.0
     },
     {
-      "id": "The Guardian--2680675722758289213",
+      "id": "The Guardian--2009068484144005764",
       "source": "The Guardian",
       "title": "‘Shoved the tube so hard it tore my nose’: Kurdish film-maker recounts ‘inhumane’ ICE force-feeding",
       "excerpt": "Gabar Choli tells of how, for months, he was shackled, pinned and forcibly fed – and the physical and emotional scars the ordeal has left In June 2025, a sluggish and thin Gabar Choli, with sunken tem...",
@@ -480,7 +477,7 @@
       "pubDate": 1786356043.0
     },
     {
-      "id": "The Guardian-1963499419381486443",
+      "id": "The Guardian--2935760899137226985",
       "source": "The Guardian",
       "title": "Kurdish hunger striker says ICE force-feeding ‘mentally broke me’",
       "excerpt": "Exclusive: Film-maker Gabar Choli describes how he endured coercive treatment over eight months in detention in Texas A Kurdish man who was force-fed over the course of eight months while on hunger st...",
@@ -489,7 +486,7 @@
       "pubDate": 1786356040.0
     },
     {
-      "id": "The Guardian-8443292346123693116",
+      "id": "The Guardian-5167196593836027605",
       "source": "The Guardian",
       "title": "Canadian government steps in as ‘out of control’ wildfires force thousands to flee",
       "excerpt": "British Columbia battling 102 fires day and night across province, as breakneck speed hampers firefighters’ efforts Canada’s federal government has announced it will provide urgent assistance to Briti...",
@@ -498,7 +495,7 @@
       "pubDate": 1786299625.0
     },
     {
-      "id": "The Guardian--5054181568763439662",
+      "id": "The Guardian-234607340692348764",
       "source": "The Guardian",
       "title": "Spain to introduce temporary border checks on visitors from Italy",
       "excerpt": "Move comes in response to Rome imposing similar measures after mass migration rush to Ceuta Spain has announced it will introduce temporary border checks on visitors from Italy in response to Rome imp...",
@@ -507,7 +504,7 @@
       "pubDate": 1786139078.0
     },
     {
-      "id": "The Guardian--2402263567770389073",
+      "id": "The Guardian-5919870572026224543",
       "source": "The Guardian",
       "title": "Judge approves Trump effort to end South Sudan TPS protections",
       "excerpt": "Decision follows supreme court ruling that allowed US government to strip protections for Haitians and Syrians Temporary protected status (TPS) for hundreds of South Sudanese nationals in the United S...",
@@ -516,7 +513,7 @@
       "pubDate": 1786127674.0
     },
     {
-      "id": "The Guardian--3945957033343703911",
+      "id": "The Guardian--6057728402657703166",
       "source": "The Guardian",
       "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
       "excerpt": "Cases have passed 4,000 and health watchdog plans to go door to door to find patients in major response escalation The virus causing a massive outbreak of Ebola in the Democratic Republic of the Congo...",
@@ -525,7 +522,7 @@
       "pubDate": 1786033126.0
     },
     {
-      "id": "The Guardian--4589838250089748830",
+      "id": "The Guardian-1594564650530404289",
       "source": "The Guardian",
       "title": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
       "excerpt": "State department informs Congress of planned closures in Canada, Grenada, Japan, Indonesia and Cameroon The US state department is to shut five foreign consulates and missions across Asia, Africa, Nor...",
@@ -534,7 +531,7 @@
       "pubDate": 1786030889.0
     },
     {
-      "id": "The Guardian--51484990267999016",
+      "id": "The Guardian-4294421212995572918",
       "source": "The Guardian",
       "title": "Top Ugandan footballer killed by robbers armed with paving stones",
       "excerpt": "David Owori, who played for the national team, died in hospital after he tried to stop robbers taking his phone The Ugandan football community is in mourning after the death of a player who was fatall...",
@@ -543,5 +540,5 @@
       "pubDate": 1786026632.0
     }
   ],
-  "lastUpdate": "2026-08-11T11:53:46.968805"
+  "lastUpdate": "2026-08-11T12:31:50.552803"
 }
