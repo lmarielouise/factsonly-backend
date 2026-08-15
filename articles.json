@@ -1,30 +1,66 @@
 {
   "francophone": [
     {
-      "id": "Le Monde--1014958258382818717",
+      "id": "Libération--5822107018575206653",
+      "source": "Libération",
+      "title": "Jason Arday, ancien plus jeune professeur noir de Cambridge, retrouvé mort après des accusations de plagiat",
+      "excerpt": "Au cœur d’un retentissant scandale de plagiat sur fond de racisme, le doctorant en sociologie de 41 ans a été retrouvé mort vendredi 14 août chez lui. Sa famille dénonce une «campagne de harcèlement».",
+      "link": "https://www.liberation.fr/international/europe/jason-arday-ancien-plus-jeune-professeur-noir-de-cambridge-retrouve-mort-apres-des-accusations-de-plagiat-20260815_25GJDLS3HVC6JG3E34VSCE4XKY/",
+      "time": "Il y a 3 min",
+      "pubDate": 1786794323.0
+    },
+    {
+      "id": "France Info--1944270069108137631",
+      "source": "France Info",
+      "title": "Aurélien Quinion remporte la médaille de bronze sur le marathon marche lors des championnats d'Europe d'athlétisme",
+      "excerpt": "Le marcheur de 33 ans est allé chercher, samedi, la 7e médaille de l'équipe de France depuis le début de la compétition.",
+      "link": "https://www.franceinfo.fr/sports/athletisme/championnats-d-europe/video-aurelien-quinion-remporte-la-medaille-de-bronze-sur-le-marathon-marche-lors-des-championnats-d-europe-d-athletisme_8148647.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 16 min",
+      "pubDate": 1786793535.0
+    },
+    {
+      "id": "France Info-2219085249779508419",
+      "source": "France Info",
+      "title": "Incendie dans les Landes : près de 1 600 hectares ont brûlé pendant la nuit, météo plus \"favorable\" samedi",
+      "excerpt": "Après un début de nuit plus favorable, l'incendie en cours depuis jeudi s'est à nouveau propagé samedi à l'aube, a annoncé le préfet du département.",
+      "link": "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-dans-les-landes-le-feu-a-repris-dans-la-nuit-pres-de-1-600-hectares-ont-brule_8148473.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 16 min",
+      "pubDate": 1786793531.0
+    },
+    {
+      "id": "Le Monde-8606026662051160470",
       "source": "Le Monde",
       "title": "En Ukraine, Volodymyr Zelensky en passe de reprendre la main après un mois de crise politique",
       "excerpt": "Après avoir limogé son populaire ministre de la défense, Mykhaïlo Fedorov, et provoqué la colère de la rue et de l’opposition, le président ukrainien semble avoir contenu la fronde, mais en sort affai...",
       "link": "https://www.lemonde.fr/international/article/2026/08/15/en-ukraine-volodymyr-zelensky-en-passe-de-reprendre-la-main-apres-un-mois-de-crise-politique_6746666_3210.html",
-      "time": "Il y a 3 min",
+      "time": "Il y a 18 min",
       "pubDate": 1786793411.0
     },
     {
-      "id": "France Info--1741161950513092600",
+      "id": "France Info--2190601984388976957",
       "source": "France Info",
       "title": "Jordan Bardella a perçu plus d'un million d'euros de droits d'auteur en deux ans",
       "excerpt": "Le président du RN a connu un grand succès en librairie avec au moins 320 000 exemplaires vendus de ses livres, dont 230 000 pour le premier ouvrage, d'après les estimations les plus récentes.",
       "link": "https://www.franceinfo.fr/politique/jordan-bardella/jordan-bardella-a-percu-plus-d-un-million-d-euros-de-droits-d-auteur-en-deux-ans_8148764.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 5 min",
+      "time": "Il y a 20 min",
       "pubDate": 1786793284.0
     },
     {
-      "id": "Libération-5680515507814960732",
+      "id": "Le Monde--8824307613245546593",
+      "source": "Le Monde",
+      "title": "Mort de Finlay Tarling au Tour du Portugal : l’équipe NSN se retire de la course",
+      "excerpt": "Un porte-parole de la garde nationale républicaine du Portugal, Tiago Machado, a déclaré qu’il y avait eu une collision entre le coureur et un véhicule léger, et a annoncé qu’une enquête serait ouvert...",
+      "link": "https://www.lemonde.fr/sport/article/2026/08/15/mort-de-finlay-tarling-au-tour-du-portugal-l-equipe-nsn-se-retire-de-la-course_6746665_3242.html",
+      "time": "Il y a 23 min",
+      "pubDate": 1786793109.0
+    },
+    {
+      "id": "Libération-6470866956949628714",
       "source": "Libération",
       "title": "Indonésie : au moins 38 morts dans un puissant séisme",
       "excerpt": "Un puissant séisme de magnitude 7,7 a secoué samedi matin l’est de l’Indonésie, faisant au moins 38 morts et poussant des milliers d’habitants des côtes à évacuer de crainte d’une montée des eaux.",
       "link": "https://www.liberation.fr/international/asie-pacifique/indonesie-au-moins-20-morts-dans-un-puissant-seisme-20260815_ZA2BHKRBQVATDAOEQCOWV5Q7N4/",
-      "time": "Il y a 19 min",
+      "time": "Il y a 35 min",
       "pubDate": 1786792423.0,
       "sources": [
         "Libération",
@@ -34,61 +70,52 @@
       "sourceCount": 2
     },
     {
-      "id": "Libération-8954330055934723421",
+      "id": "Libération--6759558379137637051",
       "source": "Libération",
       "title": "Mort à 19 ans du cycliste britannique Finlay Tarling, percuté par une voiture lors du Tour du Portugal",
       "excerpt": "Le coureur de l’équipe NSN Development Team a été tué ce vendredi 14 août par un véhicule qui circulait semble-t-il en sens inverse sur le parcours de la huitième étape.",
       "link": "https://www.liberation.fr/sports/cyclisme/mort-du-cycliste-britannique-finlay-tarling-percute-par-une-voiture-lors-du-tour-du-portugal-20260814_CTCXQEF6RFFEJOJS5BAECMKP4I/",
-      "time": "Il y a 25 min",
+      "time": "Il y a 40 min",
       "pubDate": 1786792113.0
     },
     {
-      "id": "Libération-5937760789588890680",
+      "id": "Libération--4783730938533939504",
       "source": "Libération",
       "title": "Grève massive à Easyjet : au moins 98 vols annulés au départ de la France ce week-end",
       "excerpt": "La moitié des vols sont concernés par ce mouvement social samedi et dimanche. Hôtesses et stewards de la compagnie aérienne dénoncent des conditions de travail détériorées.",
       "link": "https://www.liberation.fr/economie/transports/greve-massive-a-easyjet-une-centaine-de-vols-au-depart-de-la-france-annules-ce-week-end-20260815_PZRQYWB7NNAKNFPDABZCU2B7PY/",
-      "time": "Il y a 34 min",
+      "time": "Il y a 49 min",
       "pubDate": 1786791541.0
     },
     {
-      "id": "Libération-9052240979137035133",
+      "id": "Libération-3510740494726905816",
       "source": "Libération",
       "title": "Rétrospective Frank Stella : à Saint-Etienne, un parc d’abstraction",
       "excerpt": "De ses peintures noires à ses toiles monumentales, l’artiste américain n’a cessé de repousser les limites du tableau. Le Musée d’art moderne et contemporain de la ville revient sur une carrière où l’œ...",
       "link": "https://www.liberation.fr/culture/arts/art-contemporain/retrospective-frank-stella-a-saint-etienne-un-parc-dabstraction-20260815_QQLKFWLBLNC4NBCS33WGR53DNI/",
-      "time": "Il y a 48 min",
+      "time": "Il y a 1h",
       "pubDate": 1786790700.0
     },
     {
-      "id": "Libération-1014629231372065081",
-      "source": "Libération",
-      "title": "Jason Arday, ancien plus jeune professeur noir de Cambridge, retrouvé mort après des accusations de plagiat",
-      "excerpt": "Au cœur d’un retentissant scandale de plagiat sur fond de racisme, le doctorant en sociologie de 41 ans a été retrouvé mort vendredi 14 août chez lui. Sa famille dénonce une «campagne de harcèlement».",
-      "link": "https://www.liberation.fr/international/europe/jason-arday-ancien-plus-jeune-professeur-noir-de-cambridge-retrouve-mort-apres-des-accusations-de-plagiat-20260815_25GJDLS3HVC6JG3E34VSCE4XKY/",
-      "time": "Il y a 49 min",
-      "pubDate": 1786790675.0
-    },
-    {
-      "id": "Libération--3287041303404229268",
+      "id": "Libération--3385697562466100391",
       "source": "Libération",
       "title": "Au Japon, un mode d’emploi pour épouser un personnage de manga",
       "excerpt": "Un manuel japonais permet de tout savoir pour «épouser un être fictif» et des agences de mariage dédiées proposent faux certificats et alliances. Bienvenue au pays des amours artificiels.",
       "link": "https://www.liberation.fr/lifestyle/intimites/au-japon-un-mode-demploi-pour-epouser-un-personnage-de-manga-20260815_MU2DEIJV4ZFQXM63H5ZEWZUX2M/",
-      "time": "Il y a 56 min",
+      "time": "Il y a 1h",
       "pubDate": 1786790220.0
     },
     {
-      "id": "Le Monde-6656054324086832320",
+      "id": "Le Monde-3428151278519318979",
       "source": "Le Monde",
       "title": "Catapultes américaines : « aucun risque » identifié pour le futur porte-avions français « France-Libre », selon le ministère des armées",
       "excerpt": "La décision de Donald Trump de renoncer aux catapultes électromagnétiques est supposée entrer en vigueur pour un porte-avions devant être livré en 2034. Or, les trois autres bâtiments de classe Ford a...",
       "link": "https://www.lemonde.fr/international/article/2026/08/15/catapultes-americaines-aucun-risque-identifie-pour-le-futur-porte-avions-francais-france-libre-selon-le-ministere-des-armees_6746660_3210.html",
-      "time": "Il y a 58 min",
+      "time": "Il y a 1h",
       "pubDate": 1786790083.0
     },
     {
-      "id": "France Info--4357856339187169794",
+      "id": "France Info-2816424799525191455",
       "source": "France Info",
       "title": "\"On ne va pas embêter quelqu'un pour trois géraniums\" : en Côte-d'Or, les agents de l'OFB font respecter les restrictions d'eau avec pédagogie",
       "excerpt": "Franceinfo a suivi une équipe de l'Office français de la biodiversité au cours d'une mission de police dans le secteur de Beaune, alors que l'arrosage et le nettoyage sont interdits dans la plupart de...",
@@ -97,7 +124,7 @@
       "pubDate": 1786789999.0
     },
     {
-      "id": "Libération-4693539961766773838",
+      "id": "Libération--2214874771308275367",
       "source": "Libération",
       "title": "Première finale individuelle de Léon Marchand, jubilé de Florent Manaudou : une soirée festive à l’Euro de natation",
       "excerpt": "Une flopée de nageurs, venus célébrer l’adieu aux bassins du sextuple médaillé olympique, doit investir la piscine de Saint-Denis, qui sera à partir de 18 h 30 le théâtre de finales et demies promette...",
@@ -106,7 +133,7 @@
       "pubDate": 1786789683.0
     },
     {
-      "id": "Libération-4069488347255810049",
+      "id": "Libération-7995653061507526413",
       "source": "Libération",
       "title": "Le champion du monde espagnol Ferran Torres, 26 ans, s’envole vers le PSG : une destination «de rêve»",
       "excerpt": "L’unique buteur de la finale de la coupe du monde face à l’Argentine rejoint les doubles champions d’Europe jusqu’en 2031, a annoncé ce samedi le club parisien. Un transfert estimé à 45 millions d’eur...",
@@ -115,7 +142,7 @@
       "pubDate": 1786789362.0
     },
     {
-      "id": "France Info--2998602331189097059",
+      "id": "France Info-1823438524791216958",
       "source": "France Info",
       "title": "Clause de conscience, patients sous curatelle ou tutelle... Quelles sont les réserves formulées par le Conseil constitutionnel sur l'aide à mourir ?",
       "excerpt": "Les Sages ont validé vendredi le texte qui légalise une forme d'assistance au suicide, voire d'euthanasie, mais ont toutefois émis trois réserves d'interprétation.",
@@ -124,7 +151,7 @@
       "pubDate": 1786789174.0
     },
     {
-      "id": "France Info--7579795709113715509",
+      "id": "France Info--7160426914259104210",
       "source": "France Info",
       "title": "Le champion du monde espagnol Ferran Torres s'engage avec le PSG en provenance du Barça",
       "excerpt": "L'attaquant était l'une des priorités de Luis Enrique cet été. Les champions de France ont officialisé son arrivée, samedi.",
@@ -133,7 +160,7 @@
       "pubDate": 1786789096.0
     },
     {
-      "id": "Libération-7715510382366494470",
+      "id": "Libération-5344451936485911010",
       "source": "Libération",
       "title": "EN DIRECT - Incendies en Europe : alerte maximale en Grèce, une cinquantaine de départs de feux en 24 heures",
       "excerpt": "Les pompiers sont sur le qui-vive ce samedi sur l’île méditerranéenne en raison de vents violents, à l’origine du départ d’une cinquantaine de feux ces dernières 24 heures.",
@@ -142,7 +169,7 @@
       "pubDate": 1786788323.0
     },
     {
-      "id": "Libération-1117614040367557353",
+      "id": "Libération--1996186486589670886",
       "source": "Libération",
       "title": "Souviens-toi l’été d’avant la présidentielle : 2021, Zemmour tente de tuer la maison Le Pen",
       "excerpt": "Alors que le RN se remet de la claque des élections régionales et départementales et que les espoirs s’amenuisent pour la cheffe du parti en 2022, les réseaux du polémiste d’extrême droite s’activent...",
@@ -151,25 +178,16 @@
       "pubDate": 1786788000.0
     },
     {
-      "id": "France Info--7504851126022243634",
-      "source": "France Info",
-      "title": "Aurélien Quinion remporte la médaille de bronze sur le marathon marche lors des championnats d'Europe d'athlétisme",
-      "excerpt": "Le marcheur de 33 ans est allé chercher, samedi, la 7e médaille de l'équipe de France depuis le début de la compétition.",
-      "link": "https://www.franceinfo.fr/sports/athletisme/championnats-d-europe/video-aurelien-quinion-remporte-la-medaille-de-bronze-sur-le-marathon-marche-lors-des-championnats-d-europe-d-athletisme_8148647.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
-      "pubDate": 1786787913.0
-    },
-    {
-      "id": "France Info--8490029777983217643",
+      "id": "France Info--4142796796638260933",
       "source": "France Info",
       "title": "Au Liban, des frappes israéliennes cause la mort de neuf personnes dans le sud du pays",
       "excerpt": "Le président du Liban, Joseph Aoun, a dénoncé \"la mort d'une famille entière dans le village d'Ansar\". L'armée israélienne a affirmé de son côté avoir notamment ciblé des \"infrastructures terroristes...",
       "link": "https://www.franceinfo.fr/monde/proche-orient/liban/au-liban-une-frappe-israelienne-cause-la-mort-de-sept-personnes-dans-le-sud-du-pays_8148638.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1786787295.0
     },
     {
-      "id": "France Info-8490343966770139806",
+      "id": "France Info--2538335252204975596",
       "source": "France Info",
       "title": "Cinq ans après le retour des talibans au pouvoir à Kaboul, les femmes afghanes toujours invisibilisées",
       "excerpt": "Une délégation des talibans a été reçue en juin à Bruxelles, mais sans évoquer les droits des femmes, déplore Human Rights Watch.",
@@ -178,7 +196,7 @@
       "pubDate": 1786785377.0
     },
     {
-      "id": "Le Monde--9122642137893422199",
+      "id": "Le Monde-2523679407721093705",
       "source": "Le Monde",
       "title": "A Gaza, l’accord sur le désarmement du Hamas entre avancée historique et blocage israélien",
       "excerpt": "Pour la première fois en trente-neuf ans d’existence, le mouvement islamiste palestinien a accepté de mettre la question de son désarmement sur la table. La feuille de route du Conseil de la paix appr...",
@@ -187,16 +205,7 @@
       "pubDate": 1786784401.0
     },
     {
-      "id": "France Info--3039810846880825465",
-      "source": "France Info",
-      "title": "Incendie dans les Landes : le feu a repris dans la nuit, près de 1 600 hectares ont brûlé",
-      "excerpt": "Après un début de nuit plus favorable, l'incendie en cours depuis jeudi s'est à nouveau propagé samedi à l'aube, a annoncé le préfet du département.",
-      "link": "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-dans-les-landes-le-feu-a-repris-dans-la-nuit-pres-de-1-600-hectares-ont-brule_8148473.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 4h",
-      "pubDate": 1786779194.0
-    },
-    {
-      "id": "France Info--6689009118926779358",
+      "id": "France Info--7588886964362545651",
       "source": "France Info",
       "title": "\"Ce courrier, c'est dur\" : les policiers attendent que Laurent Nuñez prenne leur défense après la note de Gérald Darmanin sur les violences sexuelles sur mineurs",
       "excerpt": "Le ministre de l'Intérieur a annoncé jeudi qu'il allait \"répondre point par point\" à la note accablante adressée par le garde des Sceaux sur le traitement des violences sexuelles sur mineurs par les p...",
@@ -205,7 +214,7 @@
       "pubDate": 1786770116.0
     },
     {
-      "id": "France Info-5072355146206978064",
+      "id": "France Info--3819226505553202910",
       "source": "France Info",
       "title": "Face aux ingérences étrangères, que proposent les partis politiques, à huit mois de l'élection présidentielle ?",
       "excerpt": "Alors que plusieurs candidats ont déjà été ciblés par des campagnes de désinformation attribuées à la Russie, les formations politiques avancent des réponses différentes, de la régulation des réseaux...",
@@ -214,16 +223,7 @@
       "pubDate": 1786769974.0
     },
     {
-      "id": "Le Monde--6909602351211659343",
-      "source": "Le Monde",
-      "title": "Classement de Shanghaï : la Chine, un partenaire académique devenu incontournable",
-      "excerpt": "Malgré des risques d’ingérence et d’espionnage, des établissements français maintiennent et poussent même à développer une coopération scientifique étroite avec l’empire du Milieu, passé expert en int...",
-      "link": "https://www.lemonde.fr/campus/article/2026/08/15/classement-de-shanghai-la-chine-un-partenaire-academique-devenu-incontournable_6746543_4401467.html",
-      "time": "Il y a 7h",
-      "pubDate": 1786768214.0
-    },
-    {
-      "id": "Le Monde-7115187124501425250",
+      "id": "Le Monde-5729228286579548478",
       "source": "Le Monde",
       "title": "Un plongeur italien découvre des centaines d’amphores antique en Sicile",
       "excerpt": "Cette trouvaille est déjà considérée par les autorités italiennes comme « l’une des découvertes archéologiques sous-marines les plus importantes de ces dernières années ». Le plongeur Giacomo De Mola...",
@@ -232,7 +232,7 @@
       "pubDate": 1786766448.0
     },
     {
-      "id": "Le Monde-3263927409264456682",
+      "id": "Le Monde-8652798301715085694",
       "source": "Le Monde",
       "title": "« Une attraction puissante » : pourquoi le Rassemblement national gagne du terrain dans la fonction publique",
       "excerpt": "Selon le chercheur Luc Rouban, qui s’appuie sur des données concernant les attitudes politiques des fonctionnaires en 2026, le parti d’extrême droite est celui dont les agents publics se disent aujour...",
@@ -241,7 +241,7 @@
       "pubDate": 1786766418.0
     },
     {
-      "id": "Le Monde-5983880177122672063",
+      "id": "Le Monde--151225102545258991",
       "source": "Le Monde",
       "title": "Dans le Sud-Est, une vague de chaleur qui ne retombe jamais : « J’ai l’impression de revivre le confinement »",
       "excerpt": "Dès le mois de mai, les températures ont atteint les 36 °C à l’intérieur des terres et des plaines varoises. Depuis, les périodes d’accalmie ont été aussi rares que brèves. Une persistance qui pousse...",
@@ -250,7 +250,7 @@
       "pubDate": 1786764609.0
     },
     {
-      "id": "Le Monde-1069662031128232560",
+      "id": "Le Monde--3015462814671958186",
       "source": "Le Monde",
       "title": "Le domaine de George Sand à Nohant, un refuge de verdure et d’écriture",
       "excerpt": "« Artistes en leur jardin » (5/6). Dans l’Indre, l’autrice, morte il y a 150 ans, a fait de son lieu d’enfance, omniprésent dans ses livres, une oasis et une métaphore de son œuvre, entre naturel et m...",
@@ -259,7 +259,7 @@
       "pubDate": 1786726803.0
     },
     {
-      "id": "Le Monde--2082786376557181087",
+      "id": "Le Monde-1519101440054015523",
       "source": "Le Monde",
       "title": "La guerre sous cloche de l’administration Trump contre l’Iran, entre rétention d’informations, objectifs fluctuants et art de la dissimulation",
       "excerpt": "La presse américaine fait état de conditions de vie dégradées pour les marins à bord du porte-avions USS « Abraham-Lincoln », en mission depuis plus de huit mois. Pourtant, la Maison Blanche n’est guè...",
@@ -270,25 +270,25 @@
   ],
   "anglophone": [
     {
-      "id": "BBC News--7464905696548915032",
+      "id": "BBC News--9079124351491239618",
       "source": "BBC News",
       "title": "Seven killed in Israeli strike on southern Lebanon, country's PM says",
       "excerpt": "Among those killed in the strike on Ansar included three children and two women, state media reports.",
       "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 9 min",
+      "time": "Il y a 24 min",
       "pubDate": 1786793064.0
     },
     {
-      "id": "BBC News--5844619996850971966",
+      "id": "BBC News-7553058936264330143",
       "source": "BBC News",
       "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
       "excerpt": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
       "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 37 min",
+      "time": "Il y a 52 min",
       "pubDate": 1786791382.0
     },
     {
-      "id": "NPR--1097064241905070960",
+      "id": "NPR--5235911985606930364",
       "source": "NPR",
       "title": "ICE detained a Venezuelan soccer pro. His case shows the immigration backlog crisis",
       "excerpt": "Homero Calderón's detention by ICE spotlights the massive backlog in the U.S. immigration system. <strong>  </strong>",
@@ -297,16 +297,16 @@
       "pubDate": 1786788600.0
     },
     {
-      "id": "BBC News--5477821122906845375",
+      "id": "BBC News-5326743069921804172",
       "source": "BBC News",
       "title": "South Korea proposes talks to officially end war with North",
       "excerpt": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.",
       "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1786786523.0
     },
     {
-      "id": "NPR--7840594720265408570",
+      "id": "NPR-8353935377076961030",
       "source": "NPR",
       "title": "5 exercises that can prevent (and relieve!) pregnancy pain",
       "excerpt": "Hemorrhoids, leg cramps, sciatica — oh my! Alongside the joy of pregnancy often comes a parade of physical discomfort. Alleviate and prevent common aches with these exercises.",
@@ -315,7 +315,7 @@
       "pubDate": 1786784640.0
     },
     {
-      "id": "NPR-6703932095871432604",
+      "id": "NPR-8324316379477936565",
       "source": "NPR",
       "title": "They fought for the U.S. in Afghanistan. Now they worry about losing their green cards",
       "excerpt": "When the U.S. withdrew from Afghanistan five years ago, thousands of Afghans who helped U.S. troops were brought here to rebuild their lives. But now, some fear the U.S. may want to send them back.",
@@ -324,7 +324,7 @@
       "pubDate": 1786784400.0
     },
     {
-      "id": "BBC News--6511849174195951696",
+      "id": "BBC News-1037796953293013404",
       "source": "BBC News",
       "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
       "excerpt": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
@@ -333,7 +333,7 @@
       "pubDate": 1786783975.0
     },
     {
-      "id": "NPR-5720291581336754930",
+      "id": "NPR--7077095302468260358",
       "source": "NPR",
       "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 38",
       "excerpt": "A powerful magnitude 7.7 earthquake struck off the coast of Indonesia early Saturday, killing at least 38 people, collapsing buildings as well as causing panic in a region prone to deadly quakes.",
@@ -342,7 +342,7 @@
       "pubDate": 1786782560.0
     },
     {
-      "id": "BBC News-5652769046112928831",
+      "id": "BBC News--4006099255574246795",
       "source": "BBC News",
       "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
       "excerpt": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021.",
@@ -351,7 +351,7 @@
       "pubDate": 1786752113.0
     },
     {
-      "id": "The Guardian-5472006193581161255",
+      "id": "The Guardian--4752703938334433082",
       "source": "The Guardian",
       "title": "Ontario free to axe Toronto bike lanes, region’s top court rules",
       "excerpt": "Win is significant for region’s premier, Doug Ford, who blames protected zones for city’s traffic ills The Ontario government is now free to rip out Toronto’s bike lanes on its busiest streets after t...",
@@ -360,7 +360,7 @@
       "pubDate": 1786741423.0
     },
     {
-      "id": "BBC News-707960358003715934",
+      "id": "BBC News-9024215295056614367",
       "source": "BBC News",
       "title": "Dozens injured and thousands evacuated in Croatia wildfire",
       "excerpt": "Officials say the blaze, near the port town of Omis, is one of the worst in Croatia's history.",
@@ -369,7 +369,7 @@
       "pubDate": 1786738976.0
     },
     {
-      "id": "BBC News--2877032000298775959",
+      "id": "BBC News-2646384243864764113",
       "source": "BBC News",
       "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
       "excerpt": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
@@ -378,7 +378,7 @@
       "pubDate": 1786731938.0
     },
     {
-      "id": "NPR--7887839249504326173",
+      "id": "NPR-3990578455799334085",
       "source": "NPR",
       "title": "How Americans deceive ourselves about slavery",
       "excerpt": "Clint Smith's <em>How the Word Is Passed </em>explores how slavery is — and isn't — taught. And <em>Above Ground</em> includes poems to his children about what their ancestors endured and escaped. He...",
@@ -387,16 +387,16 @@
       "pubDate": 1786731180.0
     },
     {
-      "id": "BBC News--4674349195007350657",
+      "id": "BBC News--120078257544613867",
       "source": "BBC News",
       "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
       "excerpt": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
       "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 17h",
+      "time": "Il y a 18h",
       "pubDate": 1786728987.0
     },
     {
-      "id": "BBC News-7100038117859540283",
+      "id": "BBC News-944737198129083090",
       "source": "BBC News",
       "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
       "excerpt": "Two families have been trapped in their homes in the occupied West Bank for several days.",
@@ -405,7 +405,7 @@
       "pubDate": 1786726997.0
     },
     {
-      "id": "NPR--3445231978903232956",
+      "id": "NPR--1356116456897084781",
       "source": "NPR",
       "title": "As speed cameras spread to more states, so does the backlash from drivers",
       "excerpt": "Millions of drivers across the country are encountering speed cameras for the first time, or will soon. Some don't like it, but advocates say there's clear evidence that cameras make roads safer.<br /...",
@@ -414,25 +414,25 @@
       "pubDate": 1786726498.0
     },
     {
-      "id": "NPR--1972319680948016406",
+      "id": "NPR--3051779220516864443",
       "source": "NPR",
       "title": "Is there a summer COVID-19 surge this year? Yep, it's ramping up again",
       "excerpt": "Just like all previous summers since the pandemic began, COVID-19 cases are ticking up again, even while other health threats make more headlines.",
       "link": "https://www.npr.org/2026/08/14/nx-s1-5927115/summer-vaccine-covid-19-surge",
-      "time": "Il y a 18h",
+      "time": "Il y a 19h",
       "pubDate": 1786725474.0
     },
     {
-      "id": "BBC News-2164689694809801205",
+      "id": "BBC News--3748221400195826843",
       "source": "BBC News",
       "title": "France's top court blocks social media ban for under-15s",
       "excerpt": "The Constitutional Council says it infringes upon freedom of expression - but President Macron vows to prepare a new draft.",
       "link": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 18h",
+      "time": "Il y a 19h",
       "pubDate": 1786725306.0
     },
     {
-      "id": "The Guardian-4310730577819748582",
+      "id": "The Guardian--3160186770511882457",
       "source": "The Guardian",
       "title": "Canadian plasma clinics pause collections after deaths of two donors",
       "excerpt": "Grifols, which runs private chain of clinics, to temporarily stop taking donations after new government investigation A chain of private plasma donation clinics in Canada has said it is pausing collec...",
@@ -441,7 +441,7 @@
       "pubDate": 1786724499.0
     },
     {
-      "id": "NPR--7301018413797095134",
+      "id": "NPR-2124469489773171878",
       "source": "NPR",
       "title": "Mangione pleads guilty in federal court, leaving fate of state trial uncertain",
       "excerpt": "Mangione has pleaded guilty to stalking charges in connection with the death of Brian Thompson, a health care executive. A separate judge will decide the future of Mangione's state trial.",
@@ -450,7 +450,7 @@
       "pubDate": 1786723524.0
     },
     {
-      "id": "The Guardian--3110846821755505184",
+      "id": "The Guardian-6804044827940692326",
       "source": "The Guardian",
       "title": "American missionary kidnapped in Niger freed after nine months",
       "excerpt": "Kevin Rideout, who was abducted by unknown assailants in Niamey, said to be in good health and in care of US officials An American missionary who was kidnapped in Niger in October has been released, h...",
@@ -459,25 +459,25 @@
       "pubDate": 1786719317.0
     },
     {
-      "id": "NPR--1227195671717126836",
+      "id": "NPR-6896105279028180961",
       "source": "NPR",
       "title": "We learned 5 important things about the economy this week",
       "excerpt": "<em>From inflation, to credit card debt, to who's actually doing the spending: These are key takeaways from this week in economic news.</em>",
       "link": "https://www.npr.org/2026/08/14/nx-s1-5929422/inflation-spending-economy-groceries-gas",
-      "time": "Il y a 20h",
+      "time": "Il y a 21h",
       "pubDate": 1786718835.0
     },
     {
-      "id": "NPR-4661477365468215130",
+      "id": "NPR-843525263564106415",
       "source": "NPR",
       "title": "The Taliban has taken a terrible toll on the education of girls -- and boys as well",
       "excerpt": "Saturday marks the 5th anniversary of the current Taliban rule in Aghanistan. They've had a devastating impact on girls' education. A lesser told story is their impact on the education of boys.",
       "link": "https://www.npr.org/2026/08/14/g-s1-138584/taliban-afghanistan-boys-girls-education-school",
-      "time": "Il y a 20h",
+      "time": "Il y a 21h",
       "pubDate": 1786718482.0
     },
     {
-      "id": "The Guardian-5277681710815814914",
+      "id": "The Guardian--4915537100352920945",
       "source": "The Guardian",
       "title": "BP to develop offshore gasfield in Venezuela with firms linked to Trump administration",
       "excerpt": "Move will be one of first large-scale foreign investments in country since US ousted leader Nicolás Maduro in January BP has answered Donald Trump’s call for oil companies to help rebuild Venezuela’s...",
@@ -486,7 +486,7 @@
       "pubDate": 1786716289.0
     },
     {
-      "id": "The Guardian--3138464241897485897",
+      "id": "The Guardian-247361032140996389",
       "source": "The Guardian",
       "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
       "excerpt": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth provin...",
@@ -495,7 +495,7 @@
       "pubDate": 1786634233.0
     },
     {
-      "id": "The Guardian--7692029516906937566",
+      "id": "The Guardian-5446491613264844335",
       "source": "The Guardian",
       "title": "French ambassador to CAR investigated over claims he hosted dozens of women",
       "excerpt": "Disciplinary proceedings under way after security concerns raised over reported visits to official residence France has opened disciplinary proceedings against its ambassador to Central African Republ...",
@@ -504,7 +504,7 @@
       "pubDate": 1786630912.0
     },
     {
-      "id": "The Guardian--6996834148680849693",
+      "id": "The Guardian--646024946685917285",
       "source": "The Guardian",
       "title": "Zambia elections haunted by ghost of incumbent president’s arch-rival",
       "excerpt": "Hakainde Hichilema is bidding for second term, but feud between him and family of Edgar Lungu, who died in 2025, continues As Zambians go to the polls on Thursday, the ghost of the current president’s...",
@@ -513,7 +513,7 @@
       "pubDate": 1786593649.0
     },
     {
-      "id": "The Guardian-4753775626164896251",
+      "id": "The Guardian-1538706836516540797",
       "source": "The Guardian",
       "title": "Former Mexican governor charged in case of 43 students who vanished in 2014",
       "excerpt": "Ángel Aguirre indicted in case that rocked Mexico and became symbol of its brutal cartel violence The former governor of Guerrero state in Mexico has been formally charged over his alleged involvement...",
@@ -522,7 +522,7 @@
       "pubDate": 1786560390.0
     },
     {
-      "id": "The Guardian-889734682252618921",
+      "id": "The Guardian--4596162787428822648",
       "source": "The Guardian",
       "title": "Canadian airline WestJet agrees to settle flight attendants’ sexual harassment class action",
       "excerpt": "Female staff alleged company failed to maintain safe workplace, after allegations of sexual assault against pilot The Canadian airline WestJet has agreed to pay C$4.5m (£2.4m) to settle a decade-long...",
@@ -531,7 +531,7 @@
       "pubDate": 1786545636.0
     },
     {
-      "id": "The Guardian--7174937231430570796",
+      "id": "The Guardian-253748470649897389",
       "source": "The Guardian",
       "title": "At least 44 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe",
       "excerpt": "Operation under way to rescue dozens missing after boat overturned by waves at world’s largest human-made lake At least 44 people have died<strong> </strong>after an overcrowded ferry capsized on Lake...",
@@ -540,5 +540,5 @@
       "pubDate": 1786537268.0
     }
   ],
-  "lastUpdate": "2026-08-15T11:33:43.040372"
+  "lastUpdate": "2026-08-15T11:48:50.961029"
 }
