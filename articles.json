@@ -1,88 +1,115 @@
 {
   "francophone": [
     {
-      "id": "Libération--1936546507581596249",
+      "id": "Le Monde-7912377838791450060",
+      "source": "Le Monde",
+      "title": "EN DIRECT, guerre en Ukraine : des attaques ukrainiennes ont fait six morts en Russie ; Moscou visée par 600 drones pendant la nuit",
+      "excerpt": "Le ministère de la défense russe a affirmé que 822 drones ukrainiens avaient été détruits, dont 600 qui se dirigeaient vers la capitale russe. A Kryvy Rih, dans le centre de l’Ukraine, une personne a...",
+      "link": "https://www.lemonde.fr/international/live/2026/08/16/en-direct-guerre-en-ukraine-des-attaques-ukrainiennes-ont-fait-six-morts-en-russie-moscou-visee-par-600-drones-pendant-la-nuit_6746952_3210.html",
+      "time": "Il y a 4 min",
+      "pubDate": 1786868248.0
+    },
+    {
+      "id": "Libération-2944971537166902958",
+      "source": "Libération",
+      "title": "Séismes en Indonésie : au moins 48 morts et des milliers d’évacués",
+      "excerpt": "Un puissant séisme de magnitude 7,7, puis plus de 300 répliques, ont secoué samedi 15 août l’Indonésie. Des milliers d’habitants ont fui les côtes par crainte d’une montée des eaux.",
+      "link": "https://www.liberation.fr/international/asie-pacifique/indonesie-au-moins-20-morts-dans-un-puissant-seisme-20260815_ZA2BHKRBQVATDAOEQCOWV5Q7N4/",
+      "time": "Il y a 12 min",
+      "pubDate": 1786867741.0
+    },
+    {
+      "id": "France Info--6989379605509618477",
+      "source": "France Info",
+      "title": "Les Girondins de Bordeaux, menacés d'exclusion des championnats nationaux, vont déposer un recours en référé au tribunal administratif",
+      "excerpt": "Le club, via la voix de son futur président, l'a annoncé dans un entretien accordé à Sud Ouest dimanche.",
+      "link": "https://www.franceinfo.fr/sports/foot/les-girondins-de-bordeaux-menaces-d-exclusion-des-championnats-nationaux-vont-deposer-un-recours-en-refere-au-tribunal-administratif_8149595.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 26 min",
+      "pubDate": 1786866904.0
+    },
+    {
+      "id": "Libération--1770381729894480770",
       "source": "Libération",
       "title": "EN DIRECT - Incendies : dans les Landes et dans les Ardennes, des situations plus «favorables» ce dimanche matin",
       "excerpt": "Dans un point presse, le préfet des Landes a indiqué qu’il n’y avait pas eu de reprise de feu majeure dans la nuit mais que le retour des évacués n’était pas «à l’ordre du jour». Même mot d’ordre dans...",
       "link": "https://www.liberation.fr/environnement/climat/en-direct-incendie-dans-les-landes-la-situation-evolue-plutot-favorablement-mais-pas-encore-de-retour-a-domicile-20260816_RXAJR6YU4NGMRAXNPXSLV4I2PE/",
-      "time": "Il y a 4 min",
+      "time": "Il y a 29 min",
       "pubDate": 1786866748.0
     },
     {
-      "id": "France Info--7728526479519085141",
+      "id": "France Info-7164420433246553516",
       "source": "France Info",
       "title": "Un bus se renverse en Hongrie faisant 12 morts et au moins 10 blessés graves",
       "excerpt": "L'accident est survenu vers 1 heure du matin sur l'autoroute M3, alors qu'il circulait vers Mezokeresztes, à environ 140 kilomètres à l'est de Budapest.",
       "link": "https://www.franceinfo.fr/faits-divers/accident/un-bus-se-renverse-en-hongrie-faisant-12-morts-et-au-moins-10-blesses-graves_8149577.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 19 min",
+      "time": "Il y a 43 min",
       "pubDate": 1786865887.0
     },
     {
-      "id": "Libération--3358788146981150358",
+      "id": "Libération--8302336381051266810",
       "source": "Libération",
       "title": "A neuf mois de la présidentielle : Zemmour et Knafo sont sur un rafiot…",
       "excerpt": "Comme en 2021, le chef de file d’extrême droite laisse planer le faux suspense de sa candidature à l’élection de 2027, au bénéfice de sa compagne et numéro 2 de Reconquête.",
       "link": "https://www.liberation.fr/politique/elections/a-neuf-mois-de-la-presidentielle-zemmour-et-knafo-sont-sur-un-rafiot-20260816_R2RAAIGENNEG5LF2CZYIPFCF24/",
-      "time": "Il y a 24 min",
+      "time": "Il y a 48 min",
       "pubDate": 1786865580.0
     },
     {
-      "id": "Libération-5570757418870223283",
+      "id": "Libération-6390928993203254726",
       "source": "Libération",
       "title": "Un bus s’est renversé en Hongrie, 12 morts et au moins 10 blessés graves",
       "excerpt": "L’autocar, immatriculé en Pologne, circulait de la Serbie vers la Pologne et transportait 57 passagers lorsqu’il s’est couché sur l’autoroute.",
       "link": "https://www.liberation.fr/international/europe/un-bus-sest-renverse-en-hongrie-12-morts-et-au-moins-10-blesses-graves-20260816_KUJ7HFXN6FAQPO7X3J4HL7XEXU/",
-      "time": "Il y a 25 min",
+      "time": "Il y a 49 min",
       "pubDate": 1786865506.0
     },
     {
-      "id": "Libération-6503876607767434513",
+      "id": "Libération-1875135229611919708",
       "source": "Libération",
       "title": "Gabriel Attal appelle à un référendum sur l’interdiction des réseaux sociaux aux moins de 15 ans",
       "excerpt": "Selon l’ancien Premier ministre qui s’exprime dans la «Tribune dimanche», ce dispositif serait la façon la plus rapide et la plus efficace de sortir 1,5 million d’enfants «des griffes des algorithmes»...",
       "link": "https://www.liberation.fr/politique/gabriel-attal-appelle-a-un-referendum-sur-linterdiction-des-reseaux-sociaux-aux-moins-de-15-ans-20260816_7ROBUUANWNC7BKUPZILRBWR6VY/",
-      "time": "Il y a 28 min",
+      "time": "Il y a 53 min",
       "pubDate": 1786865308.0
     },
     {
-      "id": "Libération--3373158757659782129",
+      "id": "Libération-6384580984248824174",
       "source": "Libération",
       "title": "Marine Tondelier se dit «prête à rediscuter avec tout le monde à gauche»",
       "excerpt": "Dans une interview à «la Tribune dimanche» et dans un courrier cosigné avec les chefs de groupes parlementaires, la secrétaire nationale des verts relance la question des alliances à gauche pour 2027.",
       "link": "https://www.liberation.fr/politique/marine-tondelier-se-dit-prete-a-rediscuter-avec-tout-le-monde-a-gauche-20260816_OPGWFNAASRFKZFVPHBXFMJZTO4/",
-      "time": "Il y a 28 min",
+      "time": "Il y a 53 min",
       "pubDate": 1786865302.0
     },
     {
-      "id": "France Info--7240629947428851726",
+      "id": "France Info--6250984576107090300",
       "source": "France Info",
       "title": "De son titre olympique à 21 ans à sa médaille de bronze aux JO de Paris, les 14 ans de carrière de Florent Manaudou en sept dates",
       "excerpt": "Le nageur de 35 ans a mis un terme à sa carrière, samedi, à Saint-Denis où se déroulent les championnats d'Europe de natation.",
       "link": "https://www.franceinfo.fr/sports/natation/de-son-titre-olympique-a-21-ans-a-sa-medaille-de-bronze-aux-jo-de-paris-les-14-ans-de-carriere-de-florent-manaudou-en-sept-dates_8147615.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 45 min",
+      "time": "Il y a 1h",
       "pubDate": 1786864283.0
     },
     {
-      "id": "France Info-8996673275691034034",
+      "id": "France Info-5929657946491547343",
       "source": "France Info",
       "title": "\"La peopolisation ne fabrique pas de la légitimité\" : faire la couverture de \"Paris-Match\" est-il une opération payante pour les politiques ?",
       "excerpt": "La dernière une de l'hebdomadaire, qui met en scène Emmanuel Macron et Raphaël Glusckmann durant leurs vacances respectives, a suscité de multiples réactions et controverses. A l'approche de la présid...",
       "link": "https://www.franceinfo.fr/politique/emmanuel-macron/la-peopolisation-ne-fabrique-pas-de-la-legitimite-faire-la-couverture-de-paris-match-est-il-une-operation-payante-pour-les-politiques_8147498.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 46 min",
+      "time": "Il y a 1h",
       "pubDate": 1786864229.0
     },
     {
-      "id": "France Info--7106775736823888555",
+      "id": "France Info-2113190941566356634",
       "source": "France Info",
       "title": "\"Une course contre la montre a démarré\" : Gabriel Attal appelle à un référendum sur l'interdiction des réseaux aux moins de 15 ans",
       "excerpt": "Le Conseil constitutionnel a censuré vendredi la loi interdisant les réseaux sociaux aux moins de 15 ans.",
       "link": "https://www.franceinfo.fr/internet/reseaux-sociaux/une-course-contre-la-montre-a-demarre-gabriel-attal-appelle-a-un-referendum-sur-l-interdiction-des-reseaux-aux-moins-de-15-ans_8149565.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 56 min",
+      "time": "Il y a 1h",
       "pubDate": 1786863620.0
     },
     {
-      "id": "Libération--6623870536230405669",
+      "id": "Libération--7320589460405488150",
       "source": "Libération",
       "title": "Isère : une enquête ouverte après des propos jugés antisémites tenus par une commerçante dans la station des Deux-Alpes",
       "excerpt": "Dans une vidéo devenue virale publiée vendredi, on entend un échange entre un client et la propriétaire d’une buvette qui lance :«La communauté juive, vous êtes trop nombreux.» Les ministres Laurent N...",
@@ -91,7 +118,7 @@
       "pubDate": 1786862929.0
     },
     {
-      "id": "Libération--1165638084322525464",
+      "id": "Libération--8467705961081103421",
       "source": "Libération",
       "title": "Roumanie : un drone abattu par un avion de combat espagnol dans la nuit",
       "excerpt": "L’interception de l’engin arrivé depuis la Moldavie a été effectuée à 4 h 01, a précisé le ministre roumain de la Défense. De possibles débris ont pu chuter dans une zone inhabitée de la région de Gal...",
@@ -100,16 +127,7 @@
       "pubDate": 1786862834.0
     },
     {
-      "id": "France Info-2958689655311056703",
-      "source": "France Info",
-      "title": "\"Le choix dépend du terrain et de la durée de la randonnée\" : comment bien s'équiper pour partir en balade en forêt ou en montagne",
-      "excerpt": "La randonnée est devenue l'activité physique préférée des Français. Tenues et équipements ont accompagné la tendance.",
-      "link": "https://www.franceinfo.fr/culture/mode/le-choix-depend-du-terrain-et-de-la-duree-de-la-randonnee-comment-bien-s-equiper-pour-partir-en-balade-en-foret-ou-en-montagne_7997561.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
-      "pubDate": 1786862752.0
-    },
-    {
-      "id": "France Info--4443768177864595381",
+      "id": "France Info--3161159178773834268",
       "source": "France Info",
       "title": "\"Un prédateur est dans les Landes\" : une victime d'un ancien prêtre, exclu de sa congrégation après plusieurs plaintes pour agression sexuelle, redoute qu'il récidive",
       "excerpt": "Cet ancien membre de la congrégation des Lazaristes a été exclu de la communauté mais exerce toujours en tant que prêtre, ce que dénoncent les femmes qui ont porté plainte contre lui.",
@@ -118,7 +136,7 @@
       "pubDate": 1786862727.0
     },
     {
-      "id": "France Info--2128752182378942206",
+      "id": "France Info--6221192572301045312",
       "source": "France Info",
       "title": "Incendie dans les Landes : \"la situation évolue plutôt favorablement\", sans reprise de feu majeure cette nuit, selon le préfet",
       "excerpt": "La surface parcourue par les flammes a été réévaluée à 1 700 hectares, a également annoncé le préfet du département.",
@@ -127,7 +145,7 @@
       "pubDate": 1786862602.0
     },
     {
-      "id": "Libération--1395643215147645080",
+      "id": "Libération--2933424948733323150",
       "source": "Libération",
       "title": "Cyclisme : le biathlète Emilien Jacquelin entre «trac» et «excitation» pour ses débuts pros en Normandie ce dimanche",
       "excerpt": "Le sportif de 31 ans, médaillé d’or aux Jeux Olympiques en biathlon, va disputer ce 16 août sa première course professionnelle de vélo, la Polynormande. 169 kilomètres entre Avranches et Saint-Martin-...",
@@ -136,16 +154,16 @@
       "pubDate": 1786862507.0
     },
     {
-      "id": "Le Monde--6369405539665233775",
+      "id": "Le Monde-4451434302925834826",
       "source": "Le Monde",
       "title": "Un premier porte-conteneurs chinois, le « Dubai Tower », a pris la route de l’Europe via l’Arctique",
       "excerpt": "Ce voyage inaugural, qui doit être hebdomadaire, s’inscrit dans le projet chinois de « route de la soie polaire » et permet d’éviter une région Proche-Moyen-Orient de plus en plus instable.",
       "link": "https://www.lemonde.fr/international/article/2026/08/16/un-premier-porte-conteneurs-chinois-le-dubai-tower-a-pris-la-route-de-l-europe-via-l-arctique_6747232_3210.html",
       "time": "Il y a 1h",
-      "pubDate": 1786862478.0
+      "pubDate": 1786862476.0
     },
     {
-      "id": "Libération-2512013071559254033",
+      "id": "Libération-5643807406416214159",
       "source": "Libération",
       "title": "Les Parisiens sont-ils désagréables et grossiers ? «Tout le monde est charmant, adorable et gentil»",
       "excerpt": "Souvent décrits comme froids voire malpolis, les habitants de la capitale traînent derrière eux une mauvaise réputation tenace. Mais dans les rues de la ville, les touristes rencontrés racontent une r...",
@@ -154,25 +172,16 @@
       "pubDate": 1786861740.0
     },
     {
-      "id": "France Info--4069688512701060822",
+      "id": "France Info--315464604454885199",
       "source": "France Info",
       "title": "En Espagne, deux femmes meurent dans une inondation, deux bébés sont blessés",
       "excerpt": "Les deux enfants ont été soignés pour des contusions.",
       "link": "https://www.franceinfo.fr/monde/espagne/en-espagne-deux-femmes-meurent-dans-une-inondation-deux-bebes-sont-blesses_8149529.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1786860299.0
     },
     {
-      "id": "Libération--3496881779127415809",
-      "source": "Libération",
-      "title": "Réseaux sociaux pour les moins de 15 ans : de la liberté de scroller comme principe constitutionnel, par Abel Quentin",
-      "excerpt": "La décision du Conseil constitutionnel de censurer l’interdiction des réseaux sociaux pour les moins de 15 ans, au motif que cela constituerait une atteinte à la liberté d’expression, est une «suprême...",
-      "link": "https://www.liberation.fr/idees-et-debats/tribunes/reseaux-sociaux-pour-les-moins-de-15-ans-de-la-liberte-de-scroller-comme-principe-constitutionnel-par-abel-quentin-20260816_IA262Q2O2NC7RGOA2U7UH6N4WY/",
-      "time": "Il y a 1h",
-      "pubDate": 1786860000.0
-    },
-    {
-      "id": "Le Monde-3480615498310648229",
+      "id": "Le Monde--4154946127104340876",
       "source": "Le Monde",
       "title": "Au Japon, les pluies diluviennes près de Tokyo causent la mort d’au moins neuf personnes",
       "excerpt": "Dès vendredi matin, le cumul sur la ville de Chiba dépassait de plus de trois fois le total de précipitations habituel pour un mois d’août entier, d’après le ministère des territoires. Selon les scien...",
@@ -181,25 +190,25 @@
       "pubDate": 1786859787.0
     },
     {
-      "id": "France Info--1133354964477115272",
+      "id": "France Info-7580202283358824081",
       "source": "France Info",
       "title": "Quelles sont les limites de notre corps face aux fortes chaleurs prolongées ?",
       "excerpt": "Notre corps met en place plusieurs mécanismes pour maintenir sa température autour de 37°C. Mais lorsque les fortes températures persistent, ces défenses peuvent atteindre leur point de rupture et fai...",
       "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/quelles-sont-les-limites-de-notre-corps-face-aux-fortes-chaleurs-prolongees_8138318.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1786857022.0
     },
     {
-      "id": "France Info-8942178276890290631",
+      "id": "France Info-4044175126091589385",
       "source": "France Info",
       "title": "\"En couple, j'avais tendance à me sacrifier pour l'autre\" : célibataires, ils racontent pourquoi ils ont arrêté de chercher l'amour",
       "excerpt": "Plus d'un adulte sur cinq vivait seul en France en 2023. Un choix loin d'être toujours subi. Succession de rendez-vous amoureux décevants, ancienne relation toxique, envie de mieux se connaître seul.....",
       "link": "https://www.franceinfo.fr/societe/temoignages-en-couple-j-avais-tendance-a-me-sacrifier-pour-l-autre-celibataires-ils-racontent-pourquoi-ils-ont-arrete-de-chercher-l-amour_8143337.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1786856949.0
     },
     {
-      "id": "Le Monde-5446510264187024213",
+      "id": "Le Monde--6446449416734381766",
       "source": "Le Monde",
       "title": "EN DIRECT, incendies et canicule : 28 départements de l’est de la France en vigilance orange ; dans les Landes, pas de « reprise majeure » du feu au cours des dernières heures",
       "excerpt": "La situation évolue « plutôt favorablement » dans les Landes, où l’incendie qui s’est déclaré jeudi à Luglon n’a pas connu de « reprise majeure » dans la nuit, a annoncé le préfet dimanche matin, tout...",
@@ -208,52 +217,43 @@
       "pubDate": 1786855554.0
     },
     {
-      "id": "Le Monde-7036243853623703834",
+      "id": "Le Monde--3244790030853403294",
       "source": "Le Monde",
       "title": "Présidentielle 2027 : le jeu trouble de l’Elysée, qui agite l’hypothèse Lecornu",
       "excerpt": "Le chef de l’Etat, omniprésent, n’a pas l’intention de s’effacer à l’approche de la présidentielle. Alors que les deux candidats déclarés du bloc central, Edouard Philippe et Gabriel Attal, sont insat...",
       "link": "https://www.lemonde.fr/politique/article/2026/08/16/presidentielle-2027-le-jeu-trouble-de-l-elysee-qui-agite-l-hypothese-lecornu_6747128_823448.html",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1786852832.0
     },
     {
-      "id": "Le Monde-2979873322599477036",
+      "id": "Le Monde--6301020660831936030",
       "source": "Le Monde",
       "title": "« Les luttes de faction à Téhéran pèsent sur les pourparlers avec les Etats-Unis »",
       "excerpt": "Les gardiens de la révolution ne contrôlent pas seulement les opérations militaires, ils imposent aussi leurs exigences au président iranien et à ses négociateurs, analyse l’historien Jean-Pierre Fili...",
       "link": "https://www.lemonde.fr/un-si-proche-orient/article/2026/08/16/les-luttes-de-faction-a-teheran-pesent-sur-les-pourparlers-avec-les-etats-unis_6747122_6116995.html",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1786852820.0
     },
     {
-      "id": "Le Monde--2122265644465903316",
+      "id": "Le Monde-8760098241121813689",
       "source": "Le Monde",
       "title": "Meublé de tourisme : quand l’appartement n’a pas de fenêtre et que l’annonce ne le précise pas",
       "excerpt": "Des voyageurs ont découvert à leur arrivée que la seule ouverture d’un logement situé dans le Morbihan est la porte d’entrée. Malgré les avis négatifs répétés, l’annonce est restée sur Booking.com.",
       "link": "https://www.lemonde.fr/argent/article/2026/08/16/meuble-de-tourisme-quand-l-appartement-n-a-pas-de-fenetre-et-que-l-annonce-ne-le-precise-pas_6747120_1657007.html",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1786852810.0
     },
     {
-      "id": "Le Monde-4173455351782866851",
+      "id": "Le Monde-1065379617647078033",
       "source": "Le Monde",
       "title": "« Les questions que pose une famille qui veut s’installer, c’est : “Où est l’école et où peut-on se faire soigner ?” » : dans les Vosges, les maires essaient d’attirer les jeunes couples",
       "excerpt": "Le département vosgien pourrait perdre un tiers de ses habitants d’ici à 2070. Un électrochoc pour les élus locaux, qui tentent de sauver leurs villages.",
       "link": "https://www.lemonde.fr/politique/article/2026/08/16/les-questions-que-pose-une-famille-qui-veut-s-installer-c-est-ou-est-l-ecole-et-ou-peut-on-se-faire-soigner-dans-les-vosges-les-maires-essaient-d-attirer-les-jeunes-couples_6747052_823448.html",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1786849202.0
     },
     {
-      "id": "Le Monde-7834282553684362970",
-      "source": "Le Monde",
-      "title": "EN DIRECT, guerre en Ukraine : au moins trois blessés à Kiev après une attaque de missiles ; Moscou visée par 600 drones pendant la nuit",
-      "excerpt": "A Kryvy Rih, dans le centre de l’Ukraine, une personne a été tuée et six autres blessées. Par ailleurs, Moscou a été visée par 600 drones pendant la nuit, une attaque d’une rare ampleur qui a fait au...",
-      "link": "https://www.lemonde.fr/international/live/2026/08/16/en-direct-guerre-en-ukraine-le-maire-de-kiev-annonce-une-attaque-de-missiles-alors-que-retentissent-des-explosions-dans-la-capitale_6746952_3210.html",
-      "time": "Il y a 7h",
-      "pubDate": 1786841260.0
-    },
-    {
-      "id": "Le Monde-4750625010953109394",
+      "id": "Le Monde-8568453139804179037",
       "source": "Le Monde",
       "title": "Championnats d’Europe de natation 2026 : Mary-Ambre Moluh, sacrée sur le 100 m dos, poursuit sa belle lancée vers les Jeux 2028",
       "excerpt": "La Francilienne de 20 ans s’est offert une nouvelle médaille dans la compétition, samedi, quelques jours après s’être adjugé l’or sur le relais 4 × 100 m quatre nages mixte et l’argent sur le 50 m dos...",
@@ -262,7 +262,7 @@
       "pubDate": 1786818281.0
     },
     {
-      "id": "Le Monde--8448514947391857040",
+      "id": "Le Monde--1689804660818105341",
       "source": "Le Monde",
       "title": "L’autrice Emma Becker racontée par son clan : « Elle a appris l’érotisme dans notre bibliothèque ! »",
       "excerpt": "« Un écrivain dans la famille » (6/6). Qu’elle décrive son expérience de la prostitution à Berlin dans « La Maison », ou sa torride relation extraconjugale dans « Le Mal joli », Emma Becker a pris le...",
@@ -273,34 +273,43 @@
   ],
   "anglophone": [
     {
-      "id": "BBC News--1969426590856837622",
+      "id": "BBC News--7563265305817843531",
+      "source": "BBC News",
+      "title": "Three killed as Russia launches fresh aerial attacks across Ukraine",
+      "excerpt": "Firefighters are tackling a fire at a market in Kyiv, while Moscow reports that a warehouse was hit.",
+      "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 6 min",
+      "pubDate": 1786868096.0
+    },
+    {
+      "id": "BBC News--5254032315714033366",
+      "source": "BBC News",
+      "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
+      "excerpt": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
+      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 23 min",
+      "pubDate": 1786867082.0
+    },
+    {
+      "id": "BBC News-8116732107342224152",
       "source": "BBC News",
       "title": "Twelve killed as Polish bus veers off Hungarian motorway",
       "excerpt": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
       "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 53 min",
+      "time": "Il y a 1h",
       "pubDate": 1786863857.0
     },
     {
-      "id": "BBC News-8297268727417131356",
-      "source": "BBC News",
-      "title": "Hawaii battles strong winds and rain as Hurricane Lala threat looms",
-      "excerpt": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
-      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 1h",
-      "pubDate": 1786863202.0
-    },
-    {
-      "id": "BBC News-6409676884433258602",
+      "id": "BBC News--6952775849959420053",
       "source": "BBC News",
       "title": "Rescuers search for survivors of powerful Indonesia earthquake",
       "excerpt": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
       "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1786853612.0
     },
     {
-      "id": "BBC News--8246306978684980732",
+      "id": "BBC News-2769191427608199010",
       "source": "BBC News",
       "title": "Australian state to launch gun buyback after Bondi Beach attack",
       "excerpt": "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms.",
@@ -309,7 +318,7 @@
       "pubDate": 1786830103.0
     },
     {
-      "id": "NPR-430551359288121939",
+      "id": "NPR--4339208356478159522",
       "source": "NPR",
       "title": "Are robotaxis finally here?",
       "excerpt": "Fully self-driving cars for hire have been hailed as the technology of the future for years now. That future has finally arrived -- but only in some cities.",
@@ -318,52 +327,52 @@
       "pubDate": 1786829421.0
     },
     {
-      "id": "NPR-3520909956842063916",
+      "id": "NPR-5645191491195877531",
       "source": "NPR",
       "title": "State Department spokesperson on Iran war and U.S. visa revocations",
       "excerpt": "NPR's Rob Schmitz speaks with State Department spokesperson Tommy Pigott about the with Iran and the hundreds of thousands of foreign nationals who have had their U.S. visa revoked.",
       "link": "https://www.npr.org/2026/08/15/nx-s1-5931811/state-department-spokesperson-on-iran-war-and-u-s-visa-revocations",
-      "time": "Il y a 10h",
+      "time": "Il y a 11h",
       "pubDate": 1786828851.0
     },
     {
-      "id": "BBC News--9061624127301611572",
+      "id": "BBC News-2534892051323257182",
       "source": "BBC News",
       "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
       "excerpt": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
       "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 10h",
+      "time": "Il y a 11h",
       "pubDate": 1786827837.0
     },
     {
-      "id": "BBC News-1525568774523644231",
+      "id": "BBC News--5658103422164418847",
       "source": "BBC News",
       "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
       "excerpt": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
       "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 10h",
+      "time": "Il y a 11h",
       "pubDate": 1786827511.0
     },
     {
-      "id": "BBC News-7455134175015669307",
+      "id": "BBC News-4801641543825364415",
       "source": "BBC News",
       "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
       "excerpt": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
       "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 11h",
+      "time": "Il y a 12h",
       "pubDate": 1786825274.0
     },
     {
-      "id": "NPR--2219168033416419257",
+      "id": "NPR--3302229162775854514",
       "source": "NPR",
       "title": "The Midwest braces for more heavy flooding, as Indiana seeks federal aid",
       "excerpt": "Indiana, Illinois and surrounding states are preparing for another stretch of flooding through this weekend.",
       "link": "https://www.npr.org/2026/08/15/nx-s1-5932552/midwest-flooding-indiana-fema",
-      "time": "Il y a 11h",
+      "time": "Il y a 12h",
       "pubDate": 1786824253.0
     },
     {
-      "id": "BBC News--8752153314266253913",
+      "id": "BBC News-350996800588572455",
       "source": "BBC News",
       "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
       "excerpt": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
@@ -372,7 +381,7 @@
       "pubDate": 1786822917.0
     },
     {
-      "id": "The Guardian-2169779720907408421",
+      "id": "The Guardian-2843411001420176906",
       "source": "The Guardian",
       "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
       "excerpt": "Eighteen children among the people killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on...",
@@ -381,7 +390,7 @@
       "pubDate": 1786822747.0
     },
     {
-      "id": "BBC News-6826454979995885755",
+      "id": "BBC News--6738713050746383601",
       "source": "BBC News",
       "title": "Multiple suspects at large after five shot at Virginia State University, police say",
       "excerpt": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday.",
@@ -390,25 +399,25 @@
       "pubDate": 1786822462.0
     },
     {
-      "id": "NPR--5994960616839397717",
+      "id": "NPR--3685959159751153293",
       "source": "NPR",
       "title": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
       "excerpt": "President Trump said the USS Abraham Lincoln deployment is \"not nearly long enough.\" A family member of a sailor on board that ship said those comments are shameful.",
       "link": "https://www.npr.org/2026/08/15/nx-s1-5932539/uss-lincoln-trump-dire-conditions",
-      "time": "Il y a 13h",
+      "time": "Il y a 14h",
       "pubDate": 1786818092.0
     },
     {
-      "id": "The Guardian--2374802207584492034",
+      "id": "The Guardian--7159946045567283997",
       "source": "The Guardian",
       "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
       "excerpt": "Border security tightened after social media posts call for another mass crossing into Spain’s north African territory Moroccan police have arrested 111 people as they tried to enter Spain’s north Afr...",
       "link": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
-      "time": "Il y a 13h",
+      "time": "Il y a 14h",
       "pubDate": 1786817301.0
     },
     {
-      "id": "NPR-6259556000527829123",
+      "id": "NPR--3434304230519664139",
       "source": "NPR",
       "title": "Trump administration wants to allow companies to hack foreign cybercriminals",
       "excerpt": "The White House memorandum is thin on details, but it aims to give private businesses the ability to sabotage or spy on certain foreign actors.",
@@ -417,52 +426,43 @@
       "pubDate": 1786814734.0
     },
     {
-      "id": "NPR-5724926361245064853",
+      "id": "NPR-8888587665192721516",
       "source": "NPR",
       "title": "Jason Arday, Cambridge professor accused of plagiarism, is found dead",
       "excerpt": "Arday was 37 when he became Cambridge's youngest Black professor in 2023. He was found unresponsive Friday at a home in southwest London.",
       "link": "https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead",
-      "time": "Il y a 14h",
+      "time": "Il y a 15h",
       "pubDate": 1786813483.0
     },
     {
-      "id": "BBC News--4845806666481557697",
-      "source": "BBC News",
-      "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
-      "excerpt": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
-      "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 18h",
-      "pubDate": 1786801269.0
-    },
-    {
-      "id": "NPR-7322931767589538419",
+      "id": "NPR-8091756893868111022",
       "source": "NPR",
       "title": "ICE detained a Venezuelan soccer pro. His case shows the immigration backlog crisis",
       "excerpt": "Homero Calderón's detention by ICE spotlights the massive backlog in the U.S. immigration system. <strong>  </strong>",
       "link": "https://www.npr.org/2026/08/15/nx-s1-5928322/ice-detained-a-venezuelan-soccer-pro-his-case-shows-the-immigration-backlog-crisis",
-      "time": "Il y a 21h",
+      "time": "Il y a 22h",
       "pubDate": 1786788600.0
     },
     {
-      "id": "NPR--1970326393939159038",
+      "id": "NPR-1743909050548910388",
       "source": "NPR",
       "title": "5 exercises that can prevent (and relieve!) pregnancy pain",
       "excerpt": "Hemorrhoids, leg cramps, sciatica — oh my! Alongside the joy of pregnancy often comes a parade of physical discomfort. Alleviate and prevent common aches with these exercises.",
       "link": "https://www.npr.org/2026/08/15/nx-s1-5930423/strength-exercises-to-relieve-prevent-pregnancy-pain",
-      "time": "Il y a 22h",
+      "time": "Il y a 23h",
       "pubDate": 1786784640.0
     },
     {
-      "id": "NPR-8884662753515336248",
+      "id": "NPR--9165710021566862974",
       "source": "NPR",
       "title": "They fought for the U.S. in Afghanistan. Now they worry about losing their green cards",
       "excerpt": "When the U.S. withdrew from Afghanistan five years ago, thousands of Afghans who helped U.S. troops were brought here to rebuild their lives. But now, some fear the U.S. may want to send them back.",
       "link": "https://www.npr.org/2026/08/15/nx-s1-5897606/afghanistan-visa-green-card-deport",
-      "time": "Il y a 22h",
+      "time": "Il y a 23h",
       "pubDate": 1786784400.0
     },
     {
-      "id": "NPR--791804385769183908",
+      "id": "NPR--4932450743419301420",
       "source": "NPR",
       "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 47",
       "excerpt": "A powerful earthquake struck off the coast of Indonesia early Saturday, collapsing buildings as well as causing panic in a region prone to deadly quakes.",
@@ -471,7 +471,7 @@
       "pubDate": 1786782560.0
     },
     {
-      "id": "The Guardian--3000518362762637342",
+      "id": "The Guardian--2760671852983621149",
       "source": "The Guardian",
       "title": "Ontario free to axe Toronto bike lanes, region’s top court rules",
       "excerpt": "Win is significant for region’s premier, Doug Ford, who blames protected zones for city’s traffic ills The Ontario government is now free to rip out Toronto’s bike lanes on its busiest streets after t...",
@@ -480,7 +480,7 @@
       "pubDate": 1786741423.0
     },
     {
-      "id": "The Guardian--5365644630429429214",
+      "id": "The Guardian--3853792678053705743",
       "source": "The Guardian",
       "title": "Canadian plasma clinics pause collections after deaths of two donors",
       "excerpt": "Grifols, which runs private chain of clinics, to temporarily stop taking donations after new government investigation A chain of private plasma donation clinics in Canada has said it is pausing collec...",
@@ -489,7 +489,7 @@
       "pubDate": 1786724499.0
     },
     {
-      "id": "The Guardian-8604812963404275536",
+      "id": "The Guardian-9157326873015001982",
       "source": "The Guardian",
       "title": "American missionary kidnapped in Niger freed after nine months",
       "excerpt": "Kevin Rideout, who was abducted by unknown assailants in Niamey, said to be in good health and in care of US officials An American missionary who was kidnapped in Niger in October has been released, h...",
@@ -498,7 +498,7 @@
       "pubDate": 1786719317.0
     },
     {
-      "id": "The Guardian--5231649789215612847",
+      "id": "The Guardian-2854276313397763409",
       "source": "The Guardian",
       "title": "BP to develop offshore gasfield in Venezuela with firms linked to Trump administration",
       "excerpt": "Move will be one of first large-scale foreign investments in country since US ousted leader Nicolás Maduro in January BP has answered Donald Trump’s call for oil companies to help rebuild Venezuela’s...",
@@ -507,7 +507,7 @@
       "pubDate": 1786716289.0
     },
     {
-      "id": "The Guardian--4325859240681306643",
+      "id": "The Guardian--2735557195071835524",
       "source": "The Guardian",
       "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
       "excerpt": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth provin...",
@@ -516,7 +516,7 @@
       "pubDate": 1786634233.0
     },
     {
-      "id": "The Guardian--5999955217936270664",
+      "id": "The Guardian--4788568600395023448",
       "source": "The Guardian",
       "title": "French ambassador to CAR investigated over claims he hosted dozens of women",
       "excerpt": "Disciplinary proceedings under way after security concerns raised over reported visits to official residence France has opened disciplinary proceedings against its ambassador to Central African Republ...",
@@ -525,7 +525,7 @@
       "pubDate": 1786630912.0
     },
     {
-      "id": "The Guardian-4948830909201879759",
+      "id": "The Guardian-5629697600803217441",
       "source": "The Guardian",
       "title": "Former Mexican governor charged in case of 43 students who vanished in 2014",
       "excerpt": "Ángel Aguirre indicted in case that rocked Mexico and became symbol of its brutal cartel violence The former governor of Guerrero state in Mexico has been formally charged over his alleged involvement...",
@@ -534,7 +534,7 @@
       "pubDate": 1786560390.0
     },
     {
-      "id": "The Guardian--2426198414610588560",
+      "id": "The Guardian--1904628388620248422",
       "source": "The Guardian",
       "title": "Canadian airline WestJet agrees to settle flight attendants’ sexual harassment class action",
       "excerpt": "Female staff alleged company failed to maintain safe workplace, after allegations of sexual assault against pilot The Canadian airline WestJet has agreed to pay C$4.5m (£2.4m) to settle a decade-long...",
@@ -543,5 +543,5 @@
       "pubDate": 1786545636.0
     }
   ],
-  "lastUpdate": "2026-08-16T07:57:22.372279"
+  "lastUpdate": "2026-08-16T08:21:36.727172"
 }
