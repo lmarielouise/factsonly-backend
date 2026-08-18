@@ -1,115 +1,160 @@
 {
   "francophone": [
     {
-      "id": "Libération--7667078876968653147",
+      "id": "Libération-3269028561712998256",
+      "source": "Libération",
+      "title": "Publicités illégales de thérapies cellulaires : «Leurs promoteurs jouent sur la méconnaissance pour vendre du rêve»",
+      "excerpt": "L’Agence française du médicament a récemment sanctionné deux sociétés turques vantant les effets prétendus de leurs traitements – non autorisés – contre des maladies graves. Le directeur général adjoi...",
+      "link": "https://www.liberation.fr/societe/sante/publicites-illegales-de-therapies-cellulaires-leurs-promoteurs-jouent-sur-la-meconnaissance-pour-vendre-du-reve-20260818_J4WMIIDIUZGQ5ED6ESNISBLBJY/",
+      "time": "Il y a 7 min",
+      "pubDate": 1787067454.0
+    },
+    {
+      "id": "Libération-4434553148299731877",
+      "source": "Libération",
+      "title": "Cécile Duflot : pour 2027, «je suis tiraillée entre la flemme et le sens du devoir»",
+      "excerpt": "Certaine que «l’histoire est loin d’être écrite», l’ex-ministre désormais à la tête d’Oxfam France veut participer, à sa manière, à la présidentielle en créant un «lieu de rassemblement» baptisé Point...",
+      "link": "https://www.liberation.fr/politique/elections/cecile-duflot-pour-2027-je-suis-tiraillee-entre-la-flemme-et-le-sens-du-devoir-20260818_VTE3L65XZNDIZEKHIOUD5UGMBY/",
+      "time": "Il y a 8 min",
+      "pubDate": 1787067439.0
+    },
+    {
+      "id": "Libération-360757232721053324",
+      "source": "Libération",
+      "title": "Mort accidentelle du producteur d’«OSS 117» Nicolas Altmayer et de Mathilde Favier, responsable chez Dior",
+      "excerpt": "Le couple a été tué lundi sur une route départementale des Deux-Sèvres. Le parquet de Niort a ouvert a ouvert une enquête pour «homicide involontaire par conducteur», afin de déterminer les circonstan...",
+      "link": "https://www.liberation.fr/culture/cinema/mort-accidentelle-du-producteur-doss-117-nicolas-altmayer-et-de-mathilde-favier-responsable-chez-dior-20260818_5VHE5FVZUZHYZAOCALQTVMPRXI/",
+      "time": "Il y a 9 min",
+      "pubDate": 1787067363.0
+    },
+    {
+      "id": "Le Monde-1341348492377740940",
+      "source": "Le Monde",
+      "title": "EN DIRECT, piratage du site des impôts : le gouvernement détaille les trois fuites de données qui concernent aussi les données cadastrales et les successions",
+      "excerpt": "David Amiel, ministre de l’action et des comptes publics, la direction générale des finances publiques (DGFiP) et l’Agence nationale de la sécurité des systèmes d’information (Anssi) ont pris la parol...",
+      "link": "https://www.lemonde.fr/pixels/live/2026/08/18/en-direct-piratage-du-site-des-impots-le-gouvernement-detaille-les-trois-fuites-de-donnees-qui-concernent-aussi-les-donnees-cadastrales-et-les-successions_6749047_4408996.html",
+      "time": "Il y a 18 min",
+      "pubDate": 1787066843.0
+    },
+    {
+      "id": "France Info--8903515544728417276",
+      "source": "France Info",
+      "title": "Aux Etats-Unis, le procès de Lindsay Clancy, jugée pour le meurtre de ses trois enfants, met en lumière la \"psychose post-partum\"",
+      "excerpt": "Les avocats de l'infirmière de 36 ans invoquent ce trouble psychiatrique pour défendre son irresponsabilité pénale. Les procureurs estiment eux que la mère de famille a tué ses enfants \"de manière dél...",
+      "link": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-le-proces-de-lindsay-clancy-jugee-pour-le-meurtre-de-ses-trois-enfants-met-en-lumiere-une-maladie-rare-la-psychose-post-partum_8151923.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 19 min",
+      "pubDate": 1787066754.0
+    },
+    {
+      "id": "France Info--8597150676583829547",
+      "source": "France Info",
+      "title": "Les effectifs militaires en Allemagne au plus haut depuis treize ans",
+      "excerpt": "Avec une hausse des candidatures de 26%, ces chiffres sont de bonne augure pour le gouvernement allemand au moment où la Russie accroît ses menaces sur les pays membres de l'Otan, comme l'Allemagne.",
+      "link": "https://www.franceinfo.fr/monde/europe/allemagne/nouvelles-recrues-objectifs-de-l-otan-les-effectifs-militaires-en-allemagne-au-plus-haut-depuis-treize-ans_8152289.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 24 min",
+      "pubDate": 1787066443.0
+    },
+    {
+      "id": "France Info-7313806063601553934",
+      "source": "France Info",
+      "title": "La direction générale des finances publiques annonce une \"troisième fuite\" sur des données liées aux successions vacantes, rapidement \"coupée\"",
+      "excerpt": "Cette fuite n'est toutefois \"pas du tout de la même ampleur\" que le récent piratage ciblant le fisc, a précisé mardi la DGFiP. Le ministre des Finances publiques, David Amiel, a lui présenté des \"excu...",
+      "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/la-direction-generale-des-finances-publiques-annonce-une-troisieme-fuite-sur-des-donnees-liees-aux-successions-vacantes-rapidement-coupee_8152328.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 25 min",
+      "pubDate": 1787066418.0
+    },
+    {
+      "id": "France Info--629893153476936275",
+      "source": "France Info",
+      "title": "Plus de 1 500 personnes incarcérées depuis début juin après l'affaire Lyhanna, annonce Gérald Darmanin",
+      "excerpt": "Quelque 2 100 informations judiciaires, confiées à des juges d'instruction, ont également été ouvertes depuis le 8 juin.",
+      "link": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/plus-de-1-500-personnes-incarcerees-depuis-debut-juin-apres-l-affaire-lyhanna-annonce-gerald-darmanin_8152319.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 34 min",
+      "pubDate": 1787065878.0
+    },
+    {
+      "id": "Libération-6827928409449024104",
       "source": "Libération",
       "title": "«Oklahoma Honey» avec Matthew McConaughey, de ruches idées",
       "excerpt": "Ovni aux incessants revirements, le film d’Andrew Patterson avec Matthew McConaughey est tellement inattendu qu’il séduit, même s’il évoque parfois une suite de sketchs vaguement reliés entre eux.",
       "link": "https://www.liberation.fr/culture/cinema/oklahoma-honey-avec-matthew-mcconaughey-de-ruches-idees-20260818_BLUBKIWVBZEYPKVG3ENFFBP3FE/",
-      "time": "Il y a 4 min",
+      "time": "Il y a 35 min",
       "pubDate": 1787065800.0
     },
     {
-      "id": "Libération--2115076025486395887",
+      "id": "Libération-430356713263852623",
       "source": "Libération",
       "title": "France Inter : le patron de France Musique, Marc Voinchet, remplace Nora Hamadi à la revue de presse dès lundi",
       "excerpt": "Après seulement une saison au micro de la radio publique, la journaliste cède sa place à celui qui dirige la station essentiellement consacrée à la musique classique depuis une dizaine d’années.",
       "link": "https://www.liberation.fr/economie/medias/france-inter-le-patron-de-france-musique-marc-voinchet-remplace-nora-hamadi-a-la-revue-de-presse-20260818_QJ3IXEI5AFFX7JWEEL2YWK4R6Q/",
-      "time": "Il y a 9 min",
+      "time": "Il y a 41 min",
       "pubDate": 1787065464.0
     },
     {
-      "id": "France Info--7364414435897209748",
-      "source": "France Info",
-      "title": "La direction générale des finances publiques annonce une \"troisième fuite\" sur des données liées aux successions vacantes, rapidement \"coupée\"",
-      "excerpt": "Cette fuite n'est toutefois \"pas du tout de la même ampleur\" que le récent piratage ciblant le fisc, a précisé mardi la DGFIP.",
-      "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/la-direction-generale-des-finances-publiques-annonce-une-troisieme-fuite-sur-des-donnees-liees-aux-successions-vacantes-rapidement-coupee_8152328.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 11 min",
-      "pubDate": 1787065355.0
-    },
-    {
-      "id": "Libération-6380957026688445858",
+      "id": "Libération--6722559270821784763",
       "source": "Libération",
       "title": "Piratage du fisc : une «troisième fuite» annoncée, cette fois sur des données liées aux successions",
-      "excerpt": "Le ministre de l’Action et des Comptes publics, David Amiel, a assuré ce mardi 18 août que cette nouvelle fuite a été rapidement «coupée». Il a par ailleurs présenté les «excuses» de l’administration...",
+      "excerpt": "La directrice générale de l’administration fiscale a assuré ce mardi 18 août que cette nouvelle fuite a été rapidement «coupée». Le ministre de l’Action et des Comptes publics a présenté des «excuses»...",
       "link": "https://www.liberation.fr/economie/piratage-du-fisc-une-troisieme-fuite-annoncee-cette-fois-sur-des-donnees-liees-aux-successions-20260818_XXPOT34ARNGTZF6MRBRETN5MNE/",
-      "time": "Il y a 14 min",
+      "time": "Il y a 45 min",
       "pubDate": 1787065178.0
     },
     {
-      "id": "France Info-2008142111653073040",
-      "source": "France Info",
-      "title": "Repéré par Michel Platini, ancien secrétaire général adjoint de l'UEFA, homme de l'ombre respecté... Qui est Kévin Lamour, le n°3 de la Fifa licencié lundi ?",
-      "excerpt": "Le Français de 45 ans, qui s'était opposé publiquement au projet, finalement avorté, de Gianni Infantino de vente des parts de la Coupe du monde, a été licencié, lundi.",
-      "link": "https://www.franceinfo.fr/sports/foot/giovanni-infantino/repere-par-michel-platini-ancien-secretaire-general-adjoint-de-l-uefa-homme-de-l-ombre-respecte-qui-est-kevin-lamour-le-n-3-de-la-fifa-licencie-lundi_8152256.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 22 min",
-      "pubDate": 1787064700.0
-    },
-    {
-      "id": "Libération-6165514114955311151",
+      "id": "Libération--5874299127618119166",
       "source": "Libération",
       "title": "Meurtre de Thomas Perotto à Crépol : le parquet de Valence conteste la circonstance aggravante de racisme",
       "excerpt": "Dans son réquisitoire définitif, consulté par «Libé», la juridiction est allée à l’encontre de la décision des juges d’instruction de reconnaître dans les motivations des prévenus le racisme «anti-bla...",
       "link": "https://www.liberation.fr/societe/police-justice/meurtre-de-thomas-perotto-a-crepol-le-parquet-de-valence-conteste-la-circonstance-aggravante-de-racisme-20260818_D24O54VCAVEIJNY332LD4I5ZGE/",
-      "time": "Il y a 25 min",
+      "time": "Il y a 57 min",
       "pubDate": 1787064496.0
     },
     {
-      "id": "Libération--2938553740958954803",
+      "id": "Libération--2025672383080676454",
       "source": "Libération",
       "title": "Que faire si, comme l’insoumise Manon Aubry, vous êtes mordu par une vipère ?",
       "excerpt": "L’eurodéputée LFI de 36 ans fait partie des quelque 300 personnes mordues chaque année en France par des serpents, dont une partie s’accompagne de venin. Mieux vaut appeler les secours dans tous les c...",
       "link": "https://www.liberation.fr/societe/sante/que-faire-si-comme-manon-aubry-vous-etes-mordu-par-une-vipere-20260818_PFURGTH4UJADJFD37ILLP6TOYQ/",
-      "time": "Il y a 35 min",
+      "time": "Il y a 1h",
       "pubDate": 1787063941.0
     },
     {
-      "id": "Le Monde--7437804585057829883",
+      "id": "Le Monde-917594181974762437",
       "source": "Le Monde",
       "title": "Edouard Philippe et la stratégie des ralliements, première étape de sa campagne pour contrer le RN à la présidentielle 2027",
       "excerpt": "Le ministre de la justice, Gérald Darmanin, a annoncé, lundi, son soutien à l’ancien premier ministre. Ce dernier, qui a déjà l’appui de plusieurs figures du macronisme, espère attirer des cadres de L...",
       "link": "https://www.lemonde.fr/politique/article/2026/08/18/edouard-philippe-et-la-strategie-des-ralliements-premiere-etape-de-sa-campagne-pour-contrer-le-rn-a-la-presidentielle-2027_6749066_823448.html",
-      "time": "Il y a 39 min",
+      "time": "Il y a 1h",
       "pubDate": 1787063680.0
     },
     {
-      "id": "Le Monde--2064434065776131244",
+      "id": "Le Monde--2690343395396327968",
       "source": "Le Monde",
       "title": "La chaîne ABC poursuit l’administration Trump au nom de la liberté d’expression, après des menaces contre ses licences de diffusion",
       "excerpt": "La chaîne de télévision américaine dénonce des attaques menées selon elle par le gouvernement fédéral et son régulateur des télécoms parce que ces derniers « ne sont pas d’accord avec ce que ABC diffu...",
       "link": "https://www.lemonde.fr/international/article/2026/08/18/la-chaine-abc-poursuit-l-administration-trump-au-nom-de-la-liberte-d-expression-apres-des-menaces-contre-ses-licences-de-diffusion_6749065_3210.html",
-      "time": "Il y a 41 min",
-      "pubDate": 1787063559.0
+      "time": "Il y a 1h",
+      "pubDate": 1787063558.0
     },
     {
-      "id": "Libération-4810104266123665291",
+      "id": "Libération-3467148042226342243",
       "source": "Libération",
       "title": "Ralliement de Darmanin à Philippe : au secours, l’UMP revient !",
       "excerpt": "Le soutien du ministre de la Justice au candidat Horizons à la présidentielle est tout sauf une surprise. C’est la confirmation que, dans un monde sans Emmanuel Macron, la droite française est en plei...",
       "link": "https://www.liberation.fr/politique/elections/ralliement-de-darmanin-a-philippe-au-secours-lump-revient-20260818_32OIHBHGBJCPJFUT4XLP5G5Q3U/",
-      "time": "Il y a 42 min",
+      "time": "Il y a 1h",
       "pubDate": 1787063512.0
     },
     {
-      "id": "Libération-2543707437160943801",
+      "id": "Libération-1667203918623520202",
       "source": "Libération",
       "title": "Droits voisins : Meta s’obstine à ne pas payer en France",
       "excerpt": "Le géant californien refuse toujours de rétribuer les éditeurs de presse pour l’utilisation massive de leurs contenus. Il vient de saisir la cour d’appel de Paris pour contester les injonctions de l’A...",
       "link": "https://www.liberation.fr/economie/droits-voisins-meta-sobstine-a-ne-pas-payer-en-france-20260818_HNLK64UPJVFWLENDDNKI6MBTQQ/",
-      "time": "Il y a 58 min",
+      "time": "Il y a 1h",
       "pubDate": 1787062517.0
     },
     {
-      "id": "Libération-1258196367817772963",
-      "source": "Libération",
-      "title": "Etats-Unis : détenue par Disney, la chaîne ABC attaque en justice l’administration Trump sur la liberté d’expression",
-      "excerpt": "La plainte déposée ce mardi 18 août accuse les autorités fédérales de mener «une campagne de représailles». L’animateur star de la chaîne de télé, Jimmy Kimmel, est une cible de longue date de Donald...",
-      "link": "https://www.liberation.fr/international/amerique/etats-unis-detenue-par-disney-la-chaine-abc-attaque-en-justice-ladministration-trump-sur-la-liberte-dexpression-20260818_3WPESMNSCVAUFI7BLZTGJQCK5M/",
-      "time": "Il y a 1h",
-      "pubDate": 1787062285.0
-    },
-    {
-      "id": "France Info-2960919772902991131",
+      "id": "France Info-7170546504123636787",
       "source": "France Info",
       "title": "Visite du pape à Metz : les tarifs des chambres grimpent en flèche pour la venue du souverain pontife fin septembre",
       "excerpt": "Gigantesque engouement autour de la visite du pape en France fin septembre. À Metz (Moselle), où Léon XIV donnera une messe, les hôtels affichent déjà complet, et les hôteliers assument une hausse pas...",
@@ -118,25 +163,16 @@
       "pubDate": 1787061673.0
     },
     {
-      "id": "Libération-4550052391219720486",
-      "source": "Libération",
-      "title": "«Pourquoi la municipalité veut-elle nous retirer notre plage ?» : en Italie, des religieuses se battent pour continuer à exploiter leur beach club",
-      "excerpt": "La commune de Spotorno a annoncé que la concession ferait l’objet d’un appel d’offres public à l’automne. Les Sœurs assurent que les bénéfices servent à des œuvres caritatives, selon le quotidien brit...",
-      "link": "https://www.liberation.fr/international/europe/pourquoi-la-municipalite-veut-elle-nous-retirer-notre-plage-en-italie-des-religieuses-se-battent-pour-continuer-a-exploiter-leur-beach-club-20260818_3U77X4LM5VFYHC5H26FMGRGPHM/",
+      "id": "Le Monde-173531072609699545",
+      "source": "Le Monde",
+      "title": "En Corse, les groupes mafieux multiplient les incendies criminels pour étendre leur mainmise sur l’économie locale",
+      "excerpt": "Hôtels, restaurants et commerces sont de plus en plus la cible d’actes de destruction volontaire, comme l’incendie qui a ravagé une paillote dans la nuit du 10 au 11 août à Ajaccio. Un phénomène que l...",
+      "link": "https://www.lemonde.fr/societe/article/2026/08/18/en-corse-les-groupes-mafieux-multiplient-les-incendies-criminels-pour-etendre-leur-mainmise-sur-l-economie-locale_6749063_3224.html",
       "time": "Il y a 1h",
-      "pubDate": 1787061460.0
+      "pubDate": 1787061605.0
     },
     {
-      "id": "Libération--4510371157298465482",
-      "source": "Libération",
-      "title": "«Paradise» de Jérémy Comte, l’arnaqueur a ses raisons",
-      "excerpt": "Plongée dans le monde des fraudes sentimentales à travers les vies croisées de deux jeunes, le premier film du cinéaste, éveillé et minutieux, jongle entre intime et suspense.",
-      "link": "https://www.liberation.fr/culture/cinema/paradise-de-jeremy-comte-larnaqueur-a-ses-raisons-20260818_FKWLMBDUF5CP7DE7TK6V3UEW54/",
-      "time": "Il y a 1h",
-      "pubDate": 1787061254.0
-    },
-    {
-      "id": "France Info--6345425473844364928",
+      "id": "France Info--6335277524428521267",
       "source": "France Info",
       "title": "Yvette Roudy, première ministre des \"droits de la femme\" de 1981 à 1986 sous François Mitterrand, est morte à l'âge de 97 ans",
       "excerpt": "Ministre lors du premier mandat de François Mitterrand, elle fit voter le remboursement de l'IVG et laissa son nom à la loi de 1983 sur l'égalité professionnelle entre les hommes et les femmes.",
@@ -145,43 +181,52 @@
       "pubDate": 1787060888.0
     },
     {
-      "id": "France Info-4288424319348629569",
+      "id": "France Info--617200108022502986",
       "source": "France Info",
       "title": "\"Je suis dehors !\" : l'astronaute française Sophie Adenot entre dans l'Histoire en devenant la première Française à sortir dans l'espace",
       "excerpt": "Sophie Adenot débute une mission d'au moins six heures avec l'Américain Anil Menon, afin de remplacer une antenne dédiée aux communications entre l'ISS et les équipes sur Terre.",
       "link": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/video-je-suis-dehors-l-astronaute-francaise-sophie-adenot-entre-dans-l-histoire-en-devenant-la-premiere-francaise-a-sortir-dans-l-espace_8152217.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1787060462.0
     },
     {
-      "id": "Le Monde-1705340158412114297",
+      "id": "Le Monde-8838217813587448036",
       "source": "Le Monde",
       "title": "Yvette Roudy, ancienne ministre des droits de la femme à l’origine du remboursement de l’IVG, est morte",
       "excerpt": "L’ancienne ministre, infatigable militante, est morte mardi à l’âge de 97 ans. En 1982, elle avait obtenu le remboursement de l’interruption volontaire de grossesse par la Sécurité sociale.",
       "link": "https://www.lemonde.fr/disparitions/article/2026/08/18/yvette-roudy-ancienne-ministre-des-droits-de-la-femme-a-l-origine-du-remboursement-de-l-ivg-est-morte_6749059_3382.html",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1787060081.0
     },
     {
-      "id": "Le Monde--1422934091342625762",
+      "id": "Le Monde-6691649999221883132",
       "source": "Le Monde",
       "title": "EN DIRECT, guerre en Ukraine : Kiev pourra atteindre la Russie avec des missiles balistiques de sa propre fabrication d’ici trois à six mois, selon l’ex-ministre de la défense ukrainien",
       "excerpt": "Jusqu’à présent, l’Ukraine s’appuie principalement sur des drones à longue portée et des missiles de croisière pour attaquer la Russie en profondeur, des armes plus lentes et plus vulnérables aux syst...",
       "link": "https://www.lemonde.fr/international/live/2026/08/18/en-direct-guerre-en-ukraine-kiev-pourra-atteindre-la-russie-avec-des-missiles-balistiques-de-sa-propre-fabrication-d-ici-trois-a-six-mois-selon-l-ex-ministre-de-la-defense-ukrainien_6746952_3210.html",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1787059158.0
     },
     {
-      "id": "France Info--2749439844275998783",
+      "id": "France Info-2826367474969939090",
       "source": "France Info",
       "title": "\"Il y a toujours un risque\" : à Correns, dans le Var, les vendanges débutent avec amertume après les incendies",
       "excerpt": "Dans le Var, sévèrement touché par les incendies cet été, Emmanuel Macron a promis lundi un plan d'aide similaire à celui de la Gironde. Les flammes ont endommagé plusieurs domaines viticoles. Certain...",
       "link": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/on-a-toujours-un-risque-a-correns-dans-le-var-les-vendanges-debutent-avec-amertume-apres-les-incendies_8152214.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1787059156.0
     },
     {
-      "id": "Le Monde--3341941799844488223",
+      "id": "Le Monde--1058764807363329682",
+      "source": "Le Monde",
+      "title": "François d’Assise ou le « petit pauvre » : l’épreuve d’une vie dans une sacrée misère",
+      "excerpt": "« François d’Assise, le saint contemporain » (2/6). Le saint homme du XIIᵉ siècle a vécu dans les marges de la société, engagé dans une ascèse absolue. Son objectif : prêcher par l’exemple, au plus pr...",
+      "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/18/francois-d-assise-ou-le-petit-pauvre-l-epreuve-d-une-vie-dans-une-sacree-misere_6749055_3451060.html",
+      "time": "Il y a 2h",
+      "pubDate": 1787058003.0
+    },
+    {
+      "id": "Le Monde--245811676983828800",
       "source": "Le Monde",
       "title": "Sophie Adenot est devenue la première Française à sortir dans l’espace : suivez l’événement en vidéo",
       "excerpt": "Agée de 44 ans, l’astronaute, en mission dans la Station spatiale internationale (ISS) depuis la mi-février, est la deuxième femme européenne à réaliser une telle sortie, après l’Italienne Samantha Cr...",
@@ -190,7 +235,7 @@
       "pubDate": 1787057292.0
     },
     {
-      "id": "Le Monde--7004528786603454271",
+      "id": "Le Monde--1831921969642191629",
       "source": "Le Monde",
       "title": "Mickaël Labbé, philosophe : « L’éloignement des abattoirs prépare notre ignorance des conditions de vie des animaux »",
       "excerpt": "Les infrastructures où sont produits les aliments carnés sont construits loin des villes et échappent à notre regard, ce qui permet au consommateur d’oublier l’exploitation et les violences subies par...",
@@ -199,43 +244,16 @@
       "pubDate": 1787054959.0
     },
     {
-      "id": "Le Monde-2455269537303289488",
-      "source": "Le Monde",
-      "title": "EN DIRECT, piratage du site des impôts : le gouvernement détaille les trois fuites de données qui concernent aussi les données cadastrales et les successions",
-      "excerpt": "David Amiel, ministre de l’action et des comptes publics, la direction générale des finances publiques (DGFiP) et l’Agence nationale de la sécurité des systèmes d’information (Anssi) prennent la parol...",
-      "link": "https://www.lemonde.fr/pixels/live/2026/08/18/en-direct-piratage-des-sites-des-impots-quels-risques-quelles-responsabilites-qui-est-concerne-posez-vos-questions_6749047_4408996.html",
-      "time": "Il y a 3h",
-      "pubDate": 1787052746.0
-    },
-    {
-      "id": "France Info--4759434045234895686",
+      "id": "France Info--2766909982134571896",
       "source": "France Info",
       "title": "\"Je n'ai pas encensé le programme de Jean-Luc Mélenchon\" : la ministre Monique Barbut précise ses propos favorables au candidat LFI tenus dans \"Libération\"",
       "excerpt": "La ministre de la Transition écologique ne se rendra pas aux universités d'été de La France insoumise, comme le lui a proposé mardi Manuel Bompard.",
       "link": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/je-n-ai-pas-encense-le-programme-de-jean-luc-melenchon-la-ministre-monique-barbut-precise-ses-propos-favorables-au-candidat-lfi-tenus-dans-liberation_8151935.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1787052106.0
     },
     {
-      "id": "France Info--2897843770333905843",
-      "source": "France Info",
-      "title": "Dans la bande de Gaza, seulement 3% des terres agricoles restent intactes et accessibles, alerte l'ONU",
-      "excerpt": "Malgré le cessez-le-feu, la superficie agricole exploitable et non endommagée s'est effondrée, passant de 601 hectares en octobre 2025 à seulement 448 hectares fin juin.",
-      "link": "https://www.franceinfo.fr/monde/palestine/gaza/dans-la-bande-de-gaza-seulement-3-des-terres-agricoles-restent-intactes-et-accessibles-alerte-l-onu_8152136.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 4h",
-      "pubDate": 1787050714.0
-    },
-    {
-      "id": "France Info-6351128698565816076",
-      "source": "France Info",
-      "title": "Le parquet de Paris enquête sur des soupçons d'ingérence russe ciblant Edouard Philippe et Gabriel Attal",
-      "excerpt": "Le ministère public s'était déjà saisi de faits similiaires visant cette fois Raphaël Glucksmann, avait-il fait savoir début août.",
-      "link": "https://www.franceinfo.fr/politique/ingerence/le-parquet-de-paris-enquete-sur-des-soupcons-d-ingerence-russe-ciblant-edouard-philippe-et-gabriel-attal_8151992.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 5h",
-      "pubDate": 1787045266.0
-    },
-    {
-      "id": "France Info--8827356430754851760",
+      "id": "France Info-4641555620355073082",
       "source": "France Info",
       "title": "\"Un lent déclin\" : à cause de la sécheresse, les porte-conteneurs ont disparu du port fluvial de Strasbourg",
       "excerpt": "Le Rhin est à un niveau historiquement bas. Dans le port fluvial de Strasbourg, une seule barge de conteneurs transite chaque semaine, contre 20 barges habituellement.",
@@ -244,36 +262,27 @@
       "pubDate": 1787044373.0
     },
     {
-      "id": "Le Monde--4862425255550044441",
+      "id": "Le Monde-5081109585535089052",
       "source": "Le Monde",
       "title": "En Israël, la primaire du Likoud révélatrice de la stratégie de Nétanyahou pour conserver le pouvoir",
       "excerpt": "Les adhérents étaient appelés, le 17 août, à désigner les candidats aux législatives du 27 octobre, au cours d’un scrutin marqué par la radicalisation du parti de droite et l’emprise du premier minist...",
       "link": "https://www.lemonde.fr/international/article/2026/08/18/en-israel-la-primaire-du-likoud-revelatrice-de-la-strategie-de-netanyahou-pour-conserver-le-pouvoir_6748903_3210.html",
       "time": "Il y a 6h",
       "pubDate": 1787043609.0
-    },
-    {
-      "id": "Le Monde--6435227375344541878",
-      "source": "Le Monde",
-      "title": "Incendie en Belgique : les pompiers veulent « encercler définitivement » le feu historique d’un parc naturel",
-      "excerpt": "Près de 500 personnes sont sur le pont pour tenter de contenir les flammes qui ravagent une partie de cette grande forêt proche de l’Allemagne.",
-      "link": "https://www.lemonde.fr/planete/article/2026/08/18/incendie-en-belgique-les-pompiers-veulent-encercler-definitivement-le-feu-historique-d-un-parc-naturel_6748870_3244.html",
-      "time": "Il y a 6h",
-      "pubDate": 1787042600.0
-    },
-    {
-      "id": "Le Monde-8923054005854838960",
-      "source": "Le Monde",
-      "title": "Les colonies de vacances confrontées à une « crise rampante », entre crainte des violences sexuelles et coûts financiers élevés",
-      "excerpt": "Ces séjours, qui ont connu leur heure de gloire dans la seconde moitié du XXᵉ siècle, peinent à convaincre les familles, dont le reste à charge est plus élevé du fait d’un désengagement de l’Etat, des...",
-      "link": "https://www.lemonde.fr/societe/article/2026/08/18/les-colonies-de-vacances-confrontees-a-une-crise-rampante-entre-crainte-des-violences-sexuelles-et-couts-financiers-eleves_6748721_3224.html",
-      "time": "Il y a 11h",
-      "pubDate": 1787025610.0
     }
   ],
   "anglophone": [
     {
-      "id": "BBC News--2940686900236522523",
+      "id": "NPR--3143345468455919193",
+      "source": "NPR",
+      "title": "S. Korea stresses US alliance amid confusion over Trump drill cut",
+      "excerpt": "Lee's comments Tuesday come as many South Koreans remain baffled and concerned about U.S. President Donald Trump's abrupt order to \"substantially reduce\" military exercises with South Korea.",
+      "link": "https://www.npr.org/2026/08/18/g-s1-139096/s-korea-stresses-us-alliance-amid-confusion-over-trump-drill-cut",
+      "time": "Il y a 25 min",
+      "pubDate": 1787066380.0
+    },
+    {
+      "id": "BBC News-2094339082464608238",
       "source": "BBC News",
       "title": "Brazil's President Lula hails oil discovery near Amazon river",
       "excerpt": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
@@ -282,16 +291,16 @@
       "pubDate": 1787058834.0
     },
     {
-      "id": "BBC News-7546073440313563638",
+      "id": "BBC News-4505738951245232821",
       "source": "BBC News",
       "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
       "excerpt": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
       "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1787056571.0
     },
     {
-      "id": "BBC News--8473891562053047357",
+      "id": "BBC News--6129484137288959757",
       "source": "BBC News",
       "title": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
       "excerpt": "Recovery efforts continue in what is the country's deadliest transport disaster.",
@@ -300,34 +309,34 @@
       "pubDate": 1787054651.0
     },
     {
-      "id": "NPR--7457555046815589945",
+      "id": "NPR--6429112133993277873",
       "source": "NPR",
       "title": "U.S. and Iran miss peace talks deadline. And, Alaska, Florida and Wyoming primaries",
       "excerpt": "The U.S. and Iran missed a deadline to begin peace talks this week. The monthslong war has depleted U.S. resources. And, what to know about Alaska's U.S. Senate seat primary.",
       "link": "https://www.npr.org/2026/08/18/g-s1-139072/up-first-newsletter-iran-south-korea-jared-kushner-florida-wyoming-alaska-primaries-luigi-mangione",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1787053235.0
     },
     {
-      "id": "NPR--5791868944068930980",
+      "id": "NPR-7031379895069892043",
       "source": "NPR",
       "title": "The grueling fight over who profits from AI music",
       "excerpt": "AI can generate songs in seconds. But behind every AI track is a complicated question: Who should get paid? And, how? The fights have started.",
       "link": "https://www.npr.org/sections/planet-money/2026/08/18/g-s1-138852/grueling-fight-over-who-profits-from-ai-music",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1787049000.0
     },
     {
-      "id": "NPR--797140967979148447",
+      "id": "NPR-2353384842073085075",
       "source": "NPR",
       "title": "In Portland, this soap box derby combines downhill speed with extreme pageantry",
       "excerpt": "Soap box derbies send motorless cars down a steep incline. At one event, contestants make their cars look like cartoon characters, subway cars, food, and giant animals (among other outlandish shapes).",
       "link": "https://www.npr.org/2026/08/18/nx-s1-5935518/portland-oregon-soap-box-derby-race-pdx",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1787045400.0
     },
     {
-      "id": "NPR--1606605454306978818",
+      "id": "NPR--5098858992227771342",
       "source": "NPR",
       "title": "Many recent grads say AI is making it harder to get a job. Economists aren't so sure",
       "excerpt": "The unemployment rate for young adults with new degrees is higher than the rate for all workers, according to the New York Fed. Is AI the problem, or is it more complicated?",
@@ -336,7 +345,7 @@
       "pubDate": 1787043600.0
     },
     {
-      "id": "NPR-7660125096441723639",
+      "id": "NPR-7010371206508543967",
       "source": "NPR",
       "title": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
       "excerpt": "The GOP primary in Florida's 19th District includes candidates who are new to the state, candidates who've run for Congress before and two candidates who have received pardons from President Trump.",
@@ -345,7 +354,7 @@
       "pubDate": 1787043600.0
     },
     {
-      "id": "NPR-8262959947065473220",
+      "id": "NPR-5454991799425977934",
       "source": "NPR",
       "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
       "excerpt": "A 29-year-old woman confided her suicidal thoughts to an AI chatbot — not to her therapist, not to her parents, not to her best friend. What can AI learn from her death?",
@@ -354,25 +363,25 @@
       "pubDate": 1787043600.0
     },
     {
-      "id": "BBC News--122304494264995809",
+      "id": "BBC News--5580361622786989827",
       "source": "BBC News",
       "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
       "excerpt": "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday.",
       "link": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1787042650.0
     },
     {
-      "id": "NPR--8405276685880509179",
+      "id": "NPR--426314177038067822",
       "source": "NPR",
       "title": "Morning news brief",
       "excerpt": "Jared Kushner and Israel's prime minister meet in attempt to move Gaza ceasefire plan forward, U.S. focus on Iran draws key resources from Asia, voters head to the polls for primaries Tuesday.",
       "link": "https://www.npr.org/2026/08/18/nx-s1-5931251/morning-news-brief",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1787042479.0
     },
     {
-      "id": "BBC News--580381786961206514",
+      "id": "BBC News-4694275102837938741",
       "source": "BBC News",
       "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
       "excerpt": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
@@ -381,25 +390,25 @@
       "pubDate": 1787040457.0
     },
     {
-      "id": "BBC News--408686718108625961",
+      "id": "BBC News-3542267153735838385",
       "source": "BBC News",
       "title": "Indian student leader ends hunger strike after 16 days",
       "excerpt": "Devendra Nath Mahto was part of a larger protest which began weeks ago, demanding exam reforms in Jharkhand state.",
       "link": "https://www.bbc.co.uk/news/articles/cly8m31nvmgo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1787038052.0
     },
     {
-      "id": "BBC News--1004595410998115126",
+      "id": "BBC News--1736612398060109212",
       "source": "BBC News",
       "title": "China censors public mourning as it holds former premier's funeral",
       "excerpt": "While hailing Zhu’s legacy, authorities are wary that the nostalgia could lead to criticisms of Xi’s rule.",
       "link": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1787037427.0
     },
     {
-      "id": "NPR-269355141603365858",
+      "id": "NPR--4904263208295944176",
       "source": "NPR",
       "title": "A dispute about fact vs. fiction at the trial over Tupac Shakur's 1996 killing",
       "excerpt": "A prosecutor said that while few have been willing to speak about the 1996 killing of Tupac Shakur, Duane \"Keffe D\" Davis is the \"one person who has a hard time being silent.\"",
@@ -408,7 +417,7 @@
       "pubDate": 1787032604.0
     },
     {
-      "id": "NPR--5438029663551994063",
+      "id": "NPR-5990146254951107096",
       "source": "NPR",
       "title": "Palestinian American returns to his West Bank home, under siege by Israeli settlers",
       "excerpt": "The Palestinian American whose home in the occupied West Bank has been besieged by Israeli settlers traveled to his property on Monday to join other family members who have been defending it.",
@@ -417,16 +426,16 @@
       "pubDate": 1787032310.0
     },
     {
-      "id": "BBC News--1898857379793011062",
+      "id": "BBC News-7070628011442549800",
       "source": "BBC News",
       "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
       "excerpt": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer \"we'll take care of it\", an officer testified.",
       "link": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 9h",
+      "time": "Il y a 10h",
       "pubDate": 1787030655.0
     },
     {
-      "id": "BBC News-9005631686066088638",
+      "id": "BBC News--8694701857777113485",
       "source": "BBC News",
       "title": "Inside secret police warehouse as Germany targets small boats gangs",
       "excerpt": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
@@ -435,25 +444,16 @@
       "pubDate": 1787029378.0
     },
     {
-      "id": "BBC News-8804931128893975115",
+      "id": "BBC News--7179345785915083958",
       "source": "BBC News",
       "title": "Student killed in Philippines Catholic school shooting",
       "excerpt": "The alleged shooter, also a student, later took his own life.",
       "link": "https://www.bbc.co.uk/news/articles/c1e154qjw96o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 11h",
+      "time": "Il y a 12h",
       "pubDate": 1787024633.0
     },
     {
-      "id": "NPR--8479189164531967811",
-      "source": "NPR",
-      "title": "Part of a key firearms law lapsed following a federal court decision. What happens now?",
-      "excerpt": "A federal judge's decision in Texas has major implications for the National Firearms Act. What does this mean for certain guns and other weapons?",
-      "link": "https://www.npr.org/2026/08/17/nx-s1-5935562/firearms-law-lapsed-federal-court-ruling",
-      "time": "Il y a 16h",
-      "pubDate": 1787006278.0
-    },
-    {
-      "id": "The Guardian--2794164499397900516",
+      "id": "The Guardian-3025662729896056009",
       "source": "The Guardian",
       "title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
       "excerpt": "At least 2,325 people have died from the virus, according to official data, with outbreak on track to be biggest in history The Ebola outbreak in the Democratic Republic of the Congo is now the deadli...",
@@ -462,7 +462,7 @@
       "pubDate": 1786975651.0
     },
     {
-      "id": "The Guardian--3776527382867312923",
+      "id": "The Guardian--5610129784269216202",
       "source": "The Guardian",
       "title": "Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way",
       "excerpt": "President, 80, vows to keep far-right from power as Flávio Bolsonaro tells supporters he will ‘fight this system’ Brazil’s leftwing president, Luiz Inácio Lula da Silva, has launched his campaign for...",
@@ -471,7 +471,7 @@
       "pubDate": 1786905881.0
     },
     {
-      "id": "The Guardian--8209161472501691625",
+      "id": "The Guardian--7773384196569077222",
       "source": "The Guardian",
       "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
       "excerpt": "Eighteen children among the people killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on...",
@@ -480,7 +480,7 @@
       "pubDate": 1786822747.0
     },
     {
-      "id": "The Guardian-1636467930765330552",
+      "id": "The Guardian-5255832730440510449",
       "source": "The Guardian",
       "title": "Moroccan police arrest more than 100 people attempting to enter Ceuta",
       "excerpt": "Border security tightened after social media posts call for another mass crossing into Spain’s north African territory Moroccan police have arrested 111 people as they tried to enter Spain’s north Afr...",
@@ -489,7 +489,7 @@
       "pubDate": 1786817301.0
     },
     {
-      "id": "The Guardian-1779579257892894335",
+      "id": "The Guardian--6788772719854469606",
       "source": "The Guardian",
       "title": "Ontario free to axe Toronto bike lanes, region’s top court rules",
       "excerpt": "Win is significant for region’s premier, Doug Ford, who blames protected zones for city’s traffic ills The Ontario government is now free to rip out Toronto’s bike lanes on its busiest streets after t...",
@@ -498,7 +498,7 @@
       "pubDate": 1786741423.0
     },
     {
-      "id": "The Guardian-6182038204021873621",
+      "id": "The Guardian--5683232649285972412",
       "source": "The Guardian",
       "title": "Canadian plasma clinics pause collections after deaths of two donors",
       "excerpt": "Grifols, which runs private chain of clinics, to temporarily stop taking donations after new government investigation A chain of private plasma donation clinics in Canada has said it is pausing collec...",
@@ -507,7 +507,7 @@
       "pubDate": 1786724499.0
     },
     {
-      "id": "The Guardian-7688222203423247756",
+      "id": "The Guardian--6459791801543181440",
       "source": "The Guardian",
       "title": "American missionary kidnapped in Niger freed after nine months",
       "excerpt": "Kevin Rideout, who was abducted by unknown assailants in Niamey, said to be in good health and in care of US officials An American missionary who was kidnapped in Niger in October has been released, h...",
@@ -516,7 +516,7 @@
       "pubDate": 1786719317.0
     },
     {
-      "id": "The Guardian-3961729820107448093",
+      "id": "The Guardian--2069285429710625320",
       "source": "The Guardian",
       "title": "BP to develop offshore gasfield in Venezuela with firms linked to Trump administration",
       "excerpt": "Move will be one of first large-scale foreign investments in country since US ousted leader Nicolás Maduro in January BP has answered Donald Trump’s call for oil companies to help rebuild Venezuela’s...",
@@ -525,16 +525,16 @@
       "pubDate": 1786716289.0
     },
     {
-      "id": "The Guardian--2434720600642672676",
+      "id": "The Guardian-2155266451603780687",
       "source": "The Guardian",
       "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
       "excerpt": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth provin...",
       "link": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
-      "time": "Il y a 4j",
+      "time": "Il y a 5j",
       "pubDate": 1786634233.0
     },
     {
-      "id": "The Guardian--4364979033240583275",
+      "id": "The Guardian--7827141469586197594",
       "source": "The Guardian",
       "title": "Former Mexican governor charged in case of 43 students who vanished in 2014",
       "excerpt": "Ángel Aguirre indicted in case that rocked Mexico and became symbol of its brutal cartel violence The former governor of Guerrero state in Mexico has been formally charged over his alleged involvement...",
@@ -543,5 +543,5 @@
       "pubDate": 1786560390.0
     }
   ],
-  "lastUpdate": "2026-08-18T15:14:03.183883"
+  "lastUpdate": "2026-08-18T15:45:31.488019"
 }
