@@ -1,88 +1,178 @@
 {
   "francophone": [
     {
-      "id": "Libération--2884772292486139629",
+      "id": "Libération-675606119729261307",
+      "source": "Libération",
+      "title": "ChatGPT va désormais intégrer des publicités au milieu de ses réponses",
+      "excerpt": "A partir du lundi 24 août, les utilisateurs européens des formules gratuites et les moins chères du robot conversationnel d’OpenAI seront exposés à des encarts publicitaires.",
+      "link": "https://www.liberation.fr/economie/economie-numerique/chatgpt-va-desormais-integrer-des-publicites-au-milieu-de-ses-reponses-20260819_YRUIFYDTLJH4BFE2ATNUL4ANHU/",
+      "time": "Il y a 6 min",
+      "pubDate": 1787147204.0
+    },
+    {
+      "id": "Libération--2984787311917762333",
+      "source": "Libération",
+      "title": "Judith Lyon-Caen : splendeurs et misères de la vie posthume de Balzac",
+      "excerpt": "Révolutionnaire chez Hugo, royaliste pour Barbey, fasciste d’après Bardèche… L’historienne retrace la série des relectures et récupérations subies par l’auteur de «la Comédie humaine» jusque dans les...",
+      "link": "https://www.liberation.fr/culture/livres/judith-lyon-caen-splendeurs-et-miseres-de-la-vie-posthume-de-balzac-20260819_52JPYZXNENFZXBZASQ6WIAIQYQ/",
+      "time": "Il y a 13 min",
+      "pubDate": 1787146800.0
+    },
+    {
+      "id": "France Info-3462810343350344486",
+      "source": "France Info",
+      "title": "Pendant la canicule du début du mois de juillet, \"1 243 décès en excès\" ont été recensés, annonce Santé publique France",
+      "excerpt": "Cette augmentation de la mortalité ne peut toutefois pas encore être imputé avec certitude à la chaleur. Les autorités sanitaires le sauront à la fin de l'été, une fois que toutes les données auront é...",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/pendant-la-canicule-du-debut-du-mois-de-juillet-1-243-deces-en-exces-ont-ete-recenses-annonce-sante-publique-france_8153282.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 18 min",
+      "pubDate": 1787146496.0
+    },
+    {
+      "id": "Le Monde--5895145928231459117",
+      "source": "Le Monde",
+      "title": "Dans les lacs et rivières de France, les proliférations de cyanobactéries empêchent la baignade : « On pensait pouvoir au moins tremper les pieds, mais c’est interdit »",
+      "excerpt": "Boostés par la chaleur et la baisse de qualité de l’eau, les micro-organismes se développent abondamment l’été dans l’eau douce, entraînant des restrictions de baignade, comme au lac de Bairon, dans l...",
+      "link": "https://www.lemonde.fr/planete/article/2026/08/19/dans-les-lacs-et-rivieres-de-france-les-proliferations-de-cyanobacteries-empechent-la-baignade-on-pensait-pouvoir-au-moins-tremper-les-pieds-mais-c-est-interdit_6749874_3244.html",
+      "time": "Il y a 23 min",
+      "pubDate": 1787146201.0
+    },
+    {
+      "id": "France Info--7852670763636987435",
+      "source": "France Info",
+      "title": "Le corps retrouvé calciné dans le Gard est bien celui de l'influenceuse Sonia Bellina, deux hommes placés en garde à vue",
+      "excerpt": "Le corps avait été retrouvé entre des rangs de vignes à Saint-Gilles (Gard) le 12 août.",
+      "link": "https://www.franceinfo.fr/faits-divers/le-corps-retrouve-calcine-dans-le-gard-est-bien-celui-de-l-influenceuse-sonia-bellina-deux-hommes-places-en-garde-a-vue_8153642.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 27 min",
+      "pubDate": 1787145949.0
+    },
+    {
+      "id": "Libération--1709370808658733532",
+      "source": "Libération",
+      "title": "Championnat d’Europe de cécifoot à Strasbourg : «Avec la médaille d’or aux JO 2024, ça a pris une ampleur totalement différente»",
+      "excerpt": "La capitale alsacienne accueille cette semaine les championnats d’Europe. Les tribunes pleines et les bonnes audiences traduisent un engouement toujours là, deux ans après les Jeux de Paris. Même si l...",
+      "link": "https://www.liberation.fr/sports/football/championnat-deurope-de-cecifoot-a-strasbourg-avec-la-medaille-dor-aux-jo-2024-ca-a-pris-une-ampleur-totalement-differente-20260819_Y7PFLFQ2PJCL7BLJAISK6MV734/",
+      "time": "Il y a 27 min",
+      "pubDate": 1787145948.0
+    },
+    {
+      "id": "Libération-5756454730967504346",
+      "source": "Libération",
+      "title": "Dans le Gard, le cadavre calciné retrouvé la semaine dernière dans les vignes est celui de l’influenceuse Sonia Bellina",
+      "excerpt": "Le parquet de Nîmes a confirmé l’identité de la Tiktokeuse aux près de 260 000 abonnés ce mercredi 19 août. Deux personnes ont été placées en garde à vue dans le cadre d’une enquête pour assassinat.",
+      "link": "https://www.liberation.fr/societe/police-justice/dans-le-gard-un-cadavre-calcine-retrouve-la-semaine-derniere-dans-les-vignes-serait-celui-dune-influenceuse-20260818_TZJ6LV7GXVBTJJI3RMQEUSDSYU/",
+      "time": "Il y a 32 min",
+      "pubDate": 1787145697.0
+    },
+    {
+      "id": "Libération-1162709147101338714",
+      "source": "Libération",
+      "title": "Haine en ligne : l’influenceuse Sonia Bellina n’a commis aucun crime, juste celui d’être une femme libre",
+      "excerpt": "Alors que le corps calciné de la tiktokeuse a été retrouvée dans le Gard, le 12 août, la famille fait face, sur Internet, à un harcèlement frontalement misogyne. Le symptôme d’un classement inhumain e...",
+      "link": "https://www.liberation.fr/societe/droits-des-femmes/haine-en-ligne-linfluenceuse-sonia-bellina-na-commis-aucun-crime-juste-celui-detre-une-femme-libre-20260819_N6NWMY2MHFCNVJFO4J6VQZWM5U/",
+      "time": "Il y a 33 min",
+      "pubDate": 1787145584.0
+    },
+    {
+      "id": "Libération-2519407123671544107",
+      "source": "Libération",
+      "title": "Sécheresse : aux abois, les jardins botaniques aussi doivent repenser leur modèle pour demain",
+      "excerpt": "Après plusieurs vagues de chaleur et des semaines sans pluie, les parcs français voient certaines espèces dépérir et commencent à repenser leurs plantations pour s’adapter à un climat plus chaud et pl...",
+      "link": "https://www.liberation.fr/environnement/biodiversite/secheresse-aux-abois-les-jardins-botaniques-aussi-doivent-repenser-leur-modele-pour-demain-20260819_URG7THPKVZAQDJFMM5JT7QRBFI/",
+      "time": "Il y a 45 min",
+      "pubDate": 1787144907.0
+    },
+    {
+      "id": "Libération--6066041439624840462",
       "source": "Libération",
       "title": "Mort du sénateur François Patriat, grand fidèle d’Emmanuel Macron",
       "excerpt": "L’ancien socialiste, «marcheur» de la première heure et président du groupe macroniste au Sénat, avait été hospitalisé en juillet après un grave accident de vélo. Il avait 83 ans.",
       "link": "https://www.liberation.fr/politique/mort-du-senateur-francois-patriat-grand-fidele-demmanuel-macron-20260819_3Z7XPMFY7BCE3IGTXBX6PQWKAI/",
-      "time": "Il y a 2 min",
+      "time": "Il y a 47 min",
       "pubDate": 1787144759.0
     },
     {
-      "id": "France Info-9176119462196985262",
-      "source": "France Info",
-      "title": "Le corps retrouvé calciné dans le Gard est bien celui de l'influenceuse Sonia Bellina, deux hommes placés en garde à vue",
-      "excerpt": "Le corps avait été retrouvé entre des rangs de vignes à Saint-Gilles (Gard) le 12 août.",
-      "link": "https://www.franceinfo.fr/faits-divers/le-corps-retrouve-calcine-dans-le-gard-est-bien-celui-de-l-influenceuse-sonia-bellina-deux-hommes-places-en-garde-a-vue_8153642.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 7 min",
-      "pubDate": 1787144472.0
+      "id": "Le Monde--3240347605017961162",
+      "source": "Le Monde",
+      "title": "Canicule : 1 243 morts en excès ont été recensés entre le 3 et le 22 juillet par Santé publique France",
+      "excerpt": "Ces décès, comptabilisés par Santé publique France, sont survenus « dans tous les lieux », a précisé le ministère, « mais avec un signal fort concernant les décès à domicile ».",
+      "link": "https://www.lemonde.fr/societe/article/2026/08/19/canicule-1-243-morts-en-exces-ont-ete-recenses-entre-le-3-et-le-22-juillet-par-sante-publique-france_6749871_3224.html",
+      "time": "Il y a 48 min",
+      "pubDate": 1787144699.0
     },
     {
-      "id": "France Info-7858089748615655870",
+      "id": "Le Monde--71696200419083682",
+      "source": "Le Monde",
+      "title": "EN DIRECT, guerre en Ukraine : à Moscou, la distribution de carburant rationnée dans plusieurs réseaux de stations-service",
+      "excerpt": "Selon l’application de suivi GdeBenz, le taux de disponibilité globale du carburant dans les stations-service de la Russie s’est effondré à 28,1 % au 16 août, contre 41 % une semaine plus tôt. A l’ori...",
+      "link": "https://www.lemonde.fr/international/live/2026/08/19/en-direct-guerre-en-ukraine-a-moscou-la-distribution-de-carburant-rationnee-dans-plusieurs-reseaux-de-stations-service_6746952_3210.html",
+      "time": "Il y a 49 min",
+      "pubDate": 1787144647.0
+    },
+    {
+      "id": "France Info--6314989712336238847",
       "source": "France Info",
       "title": "Le Portugal interdit le port du voile intégral",
       "excerpt": "La loi, promulguée mardi, avait été adoptée par le Parlement en juillet, avec les voix de la coalition gouvernementale de droite et de l'extrême droite.",
       "link": "https://www.franceinfo.fr/monde/europe/le-portugal-interdit-le-port-du-voile-integral_8153603.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 12 min",
+      "time": "Il y a 57 min",
       "pubDate": 1787144159.0
     },
     {
-      "id": "Libération--2881587092350573561",
+      "id": "Libération-7853975126566585108",
       "source": "Libération",
       "title": "L’incendie est «éteint» dans le Var, «fixé» dans la Drôme, «ne progresse plus» en Gironde : le point sur les brasiers en France",
       "excerpt": "En France, depuis le début de l’année, les incendies ont déjà parcouru 115 000 hectares selon le dernier bilan officiel du ministre de l’Intérieur. Un triste record qui pourrait encore empirer, tandis...",
       "link": "https://www.liberation.fr/environnement/lincendie-est-eteint-dans-le-var-fixe-dans-la-drome-ne-progresse-plus-en-gironde-le-point-sur-les-brasiers-en-france-20260819_3SBNZKMCRFHPZJIFZZOI7CWEKQ/",
-      "time": "Il y a 15 min",
+      "time": "Il y a 1h",
       "pubDate": 1787144014.0
     },
     {
-      "id": "Libération--5667770222007894832",
+      "id": "Libération-4666507785312949977",
       "source": "Libération",
       "title": "Canicule : 1 243 morts de plus qu’attendu entre le 3 et le 22 juillet, estime Santé publique France",
       "excerpt": "L’agence sanitaire publie ce mercredi un nouveau bilan de surmortalité toutes causes confondues, cette fois sur les premières semaines de juillet, exceptionnellement chaudes.",
       "link": "https://www.liberation.fr/societe/sante/canicule-1-243-morts-de-plus-quattendu-entre-le-3-et-le-22-juillet-estime-sante-publique-france-20260819_IYM674A6QRFIXHGPEHJ5VBFZII/",
-      "time": "Il y a 22 min",
+      "time": "Il y a 1h",
       "pubDate": 1787143540.0
     },
     {
-      "id": "France Info-3979200328861448546",
+      "id": "France Info-3132064383636891307",
       "source": "France Info",
       "title": "François Patriat, président du groupe macroniste au Sénat, est mort à l'âge de 83 ans",
       "excerpt": "L'élu de Côte-d'Or est mort à l'hôpital de Dijon, \"des suites d'un grave accident de vélo\", selon son groupe parlementaire.",
       "link": "https://www.franceinfo.fr/politique/le-senateur-francois-patriat-president-du-groupe-macroniste-au-senat-est-mort-a-l-age-de-83-ans_8153612.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 26 min",
+      "time": "Il y a 1h",
       "pubDate": 1787143348.0
     },
     {
-      "id": "France Info-1293424368181946647",
+      "id": "France Info--4045240378688821829",
       "source": "France Info",
       "title": "Qu'est-il reproché au groupe Meta, jugé aux Etats-Unis pour avoir \"appâté\" les adolescents sur Instagram et Facebook ?",
       "excerpt": "Quatre Etats américains réclament à la multinationale près de 200 milliards de dollars de pénalités et une refonte de ses deux applications phares pour mieux protéger les jeunes utilisateurs.",
       "link": "https://www.franceinfo.fr/internet/reseaux-sociaux/une-campagne-pour-tromper-ses-utilisateurs-qu-est-il-reproche-au-groupe-meta-juge-aux-etats-unis-pour-avoir-appate-les-adolescents-sur-instagram-et-facebook_8153156.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 47 min",
+      "time": "Il y a 1h",
       "pubDate": 1787142057.0
     },
     {
-      "id": "France Info--677125982919426478",
+      "id": "France Info--6666252502098247935",
       "source": "France Info",
       "title": "La France dénonce les propos \"insupportables et inhumains\" sur Gaza du ministre israélien Itamar Ben Gvir",
       "excerpt": "Le ministre d'extrême droite, chargé de la Sécurité nationale, a appelé au meurtre de plusieurs dizaines de Palestiniens dans la bande de Gaza.",
       "link": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/la-france-denonce-les-propos-insupportables-et-inhumains-sur-gaza-du-ministre-israelien-itamar-ben-gvir_8153585.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 48 min",
+      "time": "Il y a 1h",
       "pubDate": 1787142004.0
     },
     {
-      "id": "Le Monde-3713877226208020108",
+      "id": "Le Monde--1711717897160924181",
       "source": "Le Monde",
       "title": "François Patriat, ancien ministre socialiste et fidèle de la première heure d’Emmanuel Macron, est mort à 83 ans",
       "excerpt": "Le vétérinaire bourguignon avait adhéré au Parti socialiste en 1974, cumulant les mandats à partir des années 1980. Sénateur de la Côte-d’Or depuis 2008 et président du groupe macroniste au Sénat depu...",
       "link": "https://www.lemonde.fr/disparitions/article/2026/08/19/francois-patriat-ancien-ministre-socialiste-et-fidele-de-la-premiere-heure-d-emmanuel-macron-est-mort-a-83-ans_6749865_3382.html",
-      "time": "Il y a 59 min",
+      "time": "Il y a 1h",
       "pubDate": 1787141342.0
     },
     {
-      "id": "Le Monde--3110394153875628094",
+      "id": "Le Monde-5564484174824353747",
       "source": "Le Monde",
       "title": "« Insupportables et inhumains » : la France et l’Allemagne condamnent les propos d’Itamar Ben Gvir, ministre d’extrême droite israélien, appelant au meurtre des habitants de Gaza",
       "excerpt": "Le ministre de la sécurité nationale israélien a appelé à tuer « chaque nuit à Gaza (…) 30 ou 40 » personnes. « Pas seulement ceux qui vous mettent actuellement en danger. Ce sont des gens qui ne devr...",
@@ -91,7 +181,7 @@
       "pubDate": 1787141064.0
     },
     {
-      "id": "Libération-7492969615817522329",
+      "id": "Libération--2534783327334911907",
       "source": "Libération",
       "title": "Yannick Jadot annonce «une initiative pour refonder la gauche autour de la social-écologie»",
       "excerpt": "Alors que les débats stratégiques pour 2027 traversent les Ecologistes, leur ancien candidat à la présidentielle répète son opposition a tout accord avec La France insoumise et lance un appel pour un...",
@@ -100,115 +190,43 @@
       "pubDate": 1787140800.0
     },
     {
-      "id": "Libération-1784155298272324406",
-      "source": "Libération",
-      "title": "Aide à mourir : dans les établissements privés, les dangers de l’exception confessionnelle",
-      "excerpt": "En admettant que certaines structures de soin, notamment catholiques, puissent refuser que l’aide à mourir soit pratiquée dans leurs murs, le Conseil constitutionnel fragilise l’égalité d’accès à ce d...",
-      "link": "https://www.liberation.fr/idees-et-debats/aide-a-mourir-dans-les-etablissements-prives-les-dangers-de-lexception-confessionnelle-20260819_U42KBRPK2BAK7AYK34LZY4MKMU/",
-      "time": "Il y a 1h",
-      "pubDate": 1787139660.0
-    },
-    {
-      "id": "France Info--7597212891131361048",
+      "id": "France Info-2879403930570602073",
       "source": "France Info",
       "title": "Le braqueur multirécidiviste Rédoine Faïd restera incarcéré à la prison de Condé-sur-Sarthe",
       "excerpt": "La cour d'appel de Caen infirme la décision d'une juge d'application des peines de transférer Rédoine Faïd vers une autre prison en raison de ses conditions de détention, appris mercredi franceinfo.",
       "link": "https://www.franceinfo.fr/faits-divers/evasions/evasion-de-redoine-faid/le-braqueur-multirecidiviste-redoine-faid-restera-incarcere-a-la-prison-de-conde-sur-sarthe_8153579.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1787138561.0
     },
     {
-      "id": "Libération-8786366705718153165",
-      "source": "Libération",
-      "title": "Robots humanoïdes : le carton en Bourse du champion chinois Unitree",
-      "excerpt": "L’entreprise a fait ce mercredi à Shanghai une entrée en Bourse spectaculaire. Un signe de la confiance des investisseurs dans un secteur où la Chine détient une longueur d’avance.",
-      "link": "https://www.liberation.fr/international/asie-pacifique/robots-humanoides-le-carton-en-bourse-du-champion-chinois-unitree-20260819_6V5OJHMX2VCCTI46NIEA46TDAQ/",
-      "time": "Il y a 2h",
-      "pubDate": 1787137577.0
-    },
-    {
-      "id": "Libération-777145558284136337",
-      "source": "Libération",
-      "title": "Mort du sociologue grec Konstantinos Tsoukalas, penseur du «nous tous»",
-      "excerpt": "L’un des derniers intellectuels grecs à la renommée internationale est décédé le 18 août à Athènes. Il laisse derrière lui une œuvre vaste, qui dissèque notamment les mécanismes de corruption du pouvo...",
-      "link": "https://www.liberation.fr/idees-et-debats/mort-du-sociologue-grec-konstantinos-tsoukalas-penseur-du-nous-tous-20260819_FE32YWSUFFAO3D27KLPQIH3HPU/",
-      "time": "Il y a 2h",
-      "pubDate": 1787137561.0
-    },
-    {
-      "id": "Libération--1191442132987388174",
-      "source": "Libération",
-      "title": "En Belgique, l’incendie historique des Hautes Fagnes est désormais «encerclé», mais la situation «reste compliquée»",
-      "excerpt": "Les 500 pompiers mobilisés ont réussi à faire la jonction entre les fronts nord et est, alors que les particularités du terrain favorisent les reprises de feu. 3 000 hectares du parc naturel ont déjà...",
-      "link": "https://www.liberation.fr/international/europe/en-belgique-lincendie-historique-des-hautes-fagnes-est-desormais-encercle-mais-la-situation-reste-compliquee-20260819_F64YCRR5M5BBVDQ6QOI4S5RWTU/",
-      "time": "Il y a 2h",
-      "pubDate": 1787136936.0
-    },
-    {
-      "id": "Libération-7309777337927022613",
-      "source": "Libération",
-      "title": "Nick Kyrgios positif à la cocaïne, un tennisman définitivement hors de contrôle",
-      "excerpt": "L’Australien de 31 ans a reconnu les faits. Une probable fin de carrière qui ressemble au parcours d’un joueur aussi spectaculaire que fantasque, à la santé mentale vacillante.",
-      "link": "https://www.liberation.fr/sports/tennis/nick-kyrgios-positif-a-la-cocaine-un-tennisman-definitivement-hors-de-controle-20260819_KY57CI7RPBAENKKO3L6AICVZCI/",
-      "time": "Il y a 2h",
-      "pubDate": 1787136446.0
-    },
-    {
-      "id": "Libération-1744765164923955762",
-      "source": "Libération",
-      "title": "Après les propos d’une de ses joueuses, la WNBA confrontée à une offensive transphobe",
-      "excerpt": "Sophie Cunningham, la basketteuse du Fever de l’Indiana, s’est prononcée contre l’inclusion des femmes transgenres dans la Ligue. Si la majorité des joueuses d’une Ligue historiquement progressiste on...",
-      "link": "https://www.liberation.fr/sports/apres-les-propos-dune-de-ses-joueuses-la-wnba-confrontee-a-une-offensive-transphobe-20260819_IDZ677EHZZDMJAZPLHUAASTQUY/",
-      "time": "Il y a 2h",
-      "pubDate": 1787136070.0
-    },
-    {
-      "id": "France Info-7273617552556632060",
+      "id": "France Info--2494736945732681308",
       "source": "France Info",
       "title": "\"Je ne m'imaginais pas derrière les barreaux\" : l'opposant russe Boris Nadejdine, ciblé par le pouvoir judiciaire, raconte sa fuite \"bouleversante\" jusqu'en France",
       "excerpt": "L'ancien candidat à la présidentielle de 2024 briguait un siège de député aux législatives de septembre. Mais il s'est heurté à des poursuites judiciaires, également dirigées contre d'autres forces d'...",
       "link": "https://www.franceinfo.fr/monde/russie/je-ne-m-imaginais-pas-derriere-les-barreaux-l-opposant-russe-boris-nadejdine-cible-par-le-pouvoir-judiciaire-raconte-sa-fuite-bouleversante-jusqu-en-france_8151947.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1787135886.0
     },
     {
-      "id": "Le Monde--7854918853388489599",
+      "id": "Le Monde-9105599631671425963",
       "source": "Le Monde",
       "title": "Le Portugal interdit officiellement le port du voile intégral en public, à l’initiative de l’extrême droite",
       "excerpt": "La version finale du texte promulgué par le président, décrit par les médias locaux comme « la loi des burqas », interdit le port de vêtements destinés à dissimuler le visage ou empêcher son identific...",
       "link": "https://www.lemonde.fr/international/article/2026/08/19/portugal-le-president-promulgue-une-loi-interdisant-le-port-du-voile-integral_6749814_3210.html",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1787133142.0
     },
     {
-      "id": "France Info--565279340536903338",
+      "id": "France Info--8376215667038275653",
       "source": "France Info",
       "title": "\"Il n'y a aucun passe-droit\", assurent les avocates de Patrick Bruel après l'assouplissement de son contrôle judiciaire",
       "excerpt": "La justice avait imposé à l'artiste, mis en examen dans quatre affaires, de ne pas quitter le territoire français. Cette mesure a été levée.",
       "link": "https://www.franceinfo.fr/culture/musique/patrick-bruel/affaire-de-violences-sexuelles/il-n-y-a-aucun-passe-droit-assurent-les-avocates-de-patrick-bruel-apres-l-assouplissement-de-son-controle-judiciaire_8153435.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1787132240.0
     },
     {
-      "id": "France Info-2602813116471853009",
-      "source": "France Info",
-      "title": "La vague de chaleur en cours devient la deuxième plus longue jamais enregistrée en France",
-      "excerpt": "Selon Météo-France, elle dure depuis 22 jours, dépassant en durée celle de juillet 2006, et approchant celle de 1983, durant laquelle la France a suffoqué pendant 23 jours.",
-      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/la-vague-de-chaleur-en-cours-devient-la-deuxieme-plus-longue-jamais-enregistree-selon-meteo-france_8153369.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 3h",
-      "pubDate": 1787132115.0
-    },
-    {
-      "id": "Le Monde-7326122063759883604",
-      "source": "Le Monde",
-      "title": "Canicule : la France hexagonale a déjà connu 52 jours de vagues de chaleur depuis la mi-juin, un nombre annuel jamais enregistré",
-      "excerpt": "La vague de chaleur en cours est la deuxième plus longue jamais enregistrée avec 22 jours d’affilée, selon Météo-France.",
-      "link": "https://www.lemonde.fr/climat/article/2026/08/19/la-vague-de-chaleur-en-cours-est-la-seconde-plus-longue-jamais-enregistree-avec-22-jours-d-affilee_6749811_1652612.html",
-      "time": "Il y a 4h",
-      "pubDate": 1787130141.0
-    },
-    {
-      "id": "Le Monde-5367577695170301600",
+      "id": "Le Monde-255624815868673296",
       "source": "Le Monde",
       "title": "En Suisse, l’élevage affronte l’une des plus sévères sécheresses de l’histoire du « château d’eau de l’Europe »",
       "excerpt": "Températures record, stress hydrique sur 99 % du territoire et agriculture en détresse : le pays alpin, pourtant riche de grandes réserves d’eau douce, traverse un été particulièrement calamiteux.",
@@ -217,7 +235,7 @@
       "pubDate": 1787130004.0
     },
     {
-      "id": "Le Monde-2847157038120575350",
+      "id": "Le Monde-4832520848628663391",
       "source": "Le Monde",
       "title": "A Madagascar, « entre désir de liberté et attachement aux traditions », la « gen Z » photographiée par Charlotte Yonga",
       "excerpt": "« Jeunesse en milieux hostiles » (6/7). A Madagascar, la « gen Z » a été à l’origine d’un vaste mouvement de contestation qui, en 2025, a fait tomber le pouvoir en place. Un an plus tôt, la photograph...",
@@ -226,99 +244,90 @@
       "pubDate": 1787122807.0
     },
     {
-      "id": "Le Monde--5913581990754834767",
+      "id": "Le Monde-1486959235465988950",
       "source": "Le Monde",
       "title": "Incendie en Belgique : le feu est « encerclé » dans les Hautes Fagnes, mais la situation « reste compliquée »",
       "excerpt": "Le ministre de l’intérieur belge, Bernard Quintin, a averti que l’extinction de l’incendie, qui a ravagé quelque 3 000 hectares dans les Hautes Fagnes, prendrait encore « des semaines ».",
       "link": "https://www.lemonde.fr/planete/article/2026/08/19/en-belgique-l-incendie-est-encercle-mais-la-situation-reste-compliquee_6749605_3244.html",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1787121934.0
     },
     {
-      "id": "France Info-5497426540420800257",
+      "id": "France Info--3988765998329252307",
       "source": "France Info",
       "title": "La loi créant un droit à l'aide à mourir a été promulguée par Emmanuel Macron et publiée au Journal officiel",
       "excerpt": "Avant que les premiers malades puissent avoir recours au dispositif créé par le texte, adopté définitivement au Parlement mi-juillet, le gouvernement devra publier les décrets d'application nécessaire...",
       "link": "https://www.franceinfo.fr/societe/euthanasie/la-loi-sur-l-aide-a-mourir-a-ete-promulguee-par-emmanuel-macron-macron-et-publiee-au-journal-officiel_8153051.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 8h",
+      "time": "Il y a 9h",
       "pubDate": 1787113996.0
     },
     {
-      "id": "Le Monde-53758955910912662",
+      "id": "Le Monde-810560498732906612",
       "source": "Le Monde",
-      "title": "La hausse du chômage enterre la promesse d’Emmanuel Macron de retrouver le plein-emploi",
-      "excerpt": "Pour la sixième fois de suite, le taux de chômage a augmenté au deuxième trimestre et se rapproche des chiffres de 2017. Les candidats à la présidentielle, comme l’ancien premier ministre Edouard Phil...",
-      "link": "https://www.lemonde.fr/politique/article/2026/08/19/la-hausse-du-chomage-enterre-la-promesse-d-emmanuel-macron-de-retrouver-le-plein-emploi_6749465_823448.html",
-      "time": "Il y a 8h",
+      "title": "Le konjac, icône des jeunes obsédés par le contrôle de leur alimentation : « C’est insipide, mais avec un peu de sauce tomate ou de curry, ça passe ! »",
+      "excerpt": "« Les jeunes à table » (3/6). Traquer glucides et lipides jusqu’à l’obsession est le quotidien d’une partie des jeunes qui ont développé un rapport tourmenté à la nourriture. Symbole de cette alimenta...",
+      "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/19/le-konjac-icone-des-jeunes-obsedes-par-le-controle-de-leur-alimentation-c-est-insipide-mais-avec-un-peu-de-sauce-tomate-ou-de-curry-ca-passe_6749466_3451060.html",
+      "time": "Il y a 9h",
       "pubDate": 1787113804.0
-    },
-    {
-      "id": "Le Monde--8008042084716104343",
-      "source": "Le Monde",
-      "title": "A Kiev, ces Ukrainiens qui dorment dans le métro, même quand il n’y a pas de frappes : « Sinon, tu passes ta nuit à attendre nerveusement »",
-      "excerpt": "Face à l’intensification des bombardements russes et à l’affaiblissement de la défense antiaérienne, de plus en plus d’habitants de la capitale ukrainienne préfèrent descendre dans les stations de man...",
-      "link": "https://www.lemonde.fr/international/article/2026/08/19/guerre-en-ukraine-ces-habitants-de-kiev-qui-dorment-dans-le-metro-meme-quand-il-n-y-a-pas-de-frappes_6749462_3210.html",
-      "time": "Il y a 9h",
-      "pubDate": 1787112009.0
-    },
-    {
-      "id": "Le Monde-5656185524492507886",
-      "source": "Le Monde",
-      "title": "Les films à l’affiche : « Fjord », « Oklahoma Honey », « Paradise » et « Wake in Fright »",
-      "excerpt": "Chaque mercredi, dans La Matinale, les journalistes cinéma du « Monde » livrent leurs critiques des films à découvrir en salle. Aujourd’hui, notamment, le dernier long-métrage de Cristian Mungiu, reve...",
-      "link": "https://www.lemonde.fr/cinema/article/2026/08/19/les-films-a-l-affiche-fjord-oklahoma-honey-paradise-et-wake-in-fright_6749392_3476.html",
-      "time": "Il y a 9h",
-      "pubDate": 1787110212.0
     }
   ],
   "anglophone": [
     {
-      "id": "BBC News-7933761927757330673",
+      "id": "The Guardian-2528242537746851804",
+      "source": "The Guardian",
+      "title": "Adviser to far-right Latin American leaders arrested for allegedly plotting to kill girlfriend",
+      "excerpt": "Fernando Cerimedo, 42, arrested on suspicion of ordering shooting of Bolivian lawyer Nadia Beller A senior adviser to many of Latin America’s new wave of far-right leaders has been arrested for allege...",
+      "link": "https://www.theguardian.com/world/2026/aug/19/fernando-cerimedo-adviser-far-right-latin-american-leaders-arrested-allegedly-plotting-kill-girlfriend",
+      "time": "Il y a 8 min",
+      "pubDate": 1787147097.0
+    },
+    {
+      "id": "BBC News-4889100557451305662",
       "source": "BBC News",
       "title": "Six tourists and pilot killed in Kenya helicopter crash",
       "excerpt": "The Aircraft Accident Investigation Department tells the BBC the nationalities are yet to be confirmed.",
       "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 8 min",
+      "time": "Il y a 53 min",
       "pubDate": 1787144409.0
     },
     {
-      "id": "BBC News-6547929516749502179",
+      "id": "BBC News-8292365951951936043",
       "source": "BBC News",
       "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
       "excerpt": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022.",
       "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 20 min",
+      "time": "Il y a 1h",
       "pubDate": 1787143673.0
     },
     {
-      "id": "BBC News-3855953886097112970",
+      "id": "BBC News--756502600767878747",
       "source": "BBC News",
       "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
       "excerpt": "The five-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024.",
       "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 26 min",
+      "time": "Il y a 1h",
       "pubDate": 1787143306.0
     },
     {
-      "id": "BBC News--7437738115791654621",
+      "id": "BBC News--3090319425673552377",
       "source": "BBC News",
       "title": "Head-on collision between bus and lorry in Brazil kills more than 20",
       "excerpt": "It is not yet clear what caused the two vehicles to crash into each other in the early hours of Wednesday morning.",
       "link": "https://www.bbc.co.uk/news/articles/cpvwgk1n2k8o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 43 min",
+      "time": "Il y a 1h",
       "pubDate": 1787142330.0
     },
     {
-      "id": "NPR--6325145259597622590",
+      "id": "NPR-8792751529975859436",
       "source": "NPR",
       "title": "U.S. delays 50% tariff on Canadian imports. And, takeaways from Florida's primaries",
       "excerpt": "President Trump has announced that the U.S. is delaying a 50% tariff on Canadian imports after reaching a deal. And, how progressive Democrats fared in Florida's primary elections yesterday.",
       "link": "https://www.npr.org/2026/08/19/g-s1-139173/up-first-newsletter-florida-primary-canada-tariffs-trump-meta-trial",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1787138071.0
     },
     {
-      "id": "BBC News-4656763038134404581",
+      "id": "BBC News-7082080484569049478",
       "source": "BBC News",
       "title": "Sacked Ukrainian defence minister calls for presidential election",
       "excerpt": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
@@ -327,25 +336,25 @@
       "pubDate": 1787137221.0
     },
     {
-      "id": "BBC News-768171409761218221",
+      "id": "BBC News-1346830477113602100",
       "source": "BBC News",
       "title": "Liberia agrees to accept 1,200 foreign deportees from the US",
       "excerpt": "Liberia says the deal is a \"humanitarian arrangement\" and is receiving no compensation.",
       "link": "https://www.bbc.co.uk/news/articles/cpq8g22715vo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1787136442.0
     },
     {
-      "id": "BBC News-6724498527771259651",
+      "id": "BBC News--781303029929433633",
       "source": "BBC News",
       "title": "Apparent human remains found in US reservoir as water levels hit record low",
       "excerpt": "The skeletal remains in Lake Mead include what appears to be a human jaw with teeth attached, a witness says.",
       "link": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1787134209.0
     },
     {
-      "id": "NPR--8228101209180641567",
+      "id": "NPR-7082182430814917497",
       "source": "NPR",
       "title": "How India's blocking of a film exposing real-life police abuses backfired",
       "excerpt": "When Indian authorities scrubbed the biopic of activist Jaswant Singh Khalra, local villagers and activists turned its censorship into a grassroots movement.",
@@ -354,7 +363,7 @@
       "pubDate": 1787133720.0
     },
     {
-      "id": "NPR--3906456787296508667",
+      "id": "NPR--8107995771092254950",
       "source": "NPR",
       "title": "Striking hospital employees sound alarm over workplace violence",
       "excerpt": "In addition to pay, striking hospital workers say patient violence is an issue. Hospital workers are seven times more likely to be injured at work due to violent acts than the general working populati...",
@@ -363,16 +372,16 @@
       "pubDate": 1787133600.0
     },
     {
-      "id": "NPR--1103922953834579383",
+      "id": "NPR-2243583144255071119",
       "source": "NPR",
       "title": "Congo's Ebola outbreak reaches 5,000 cases as it outpaces response efforts",
       "excerpt": "Government data showed the outbreak had so far recorded 5,021 cases, including 2,378 deaths. The outbreak has infected and killed more people at a greater speed than any other outbreak in history.",
       "link": "https://www.npr.org/2026/08/19/g-s1-139164/congo-ebola-outbreak",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1787131780.0
     },
     {
-      "id": "NPR--7079864716872874183",
+      "id": "NPR--574342232476357798",
       "source": "NPR",
       "title": "Feeling restless? Level up your life by starting a side quest",
       "excerpt": "Feeling restless in life? Level up your main quest with an activity that has no other purpose than to add whimsy to your life. Play experts share tips on how to find the perfect side quest.",
@@ -381,7 +390,7 @@
       "pubDate": 1787130120.0
     },
     {
-      "id": "The Guardian--5405231829722044608",
+      "id": "The Guardian-5881864742841420243",
       "source": "The Guardian",
       "title": "Activist forced out of US after criticising Trump-aligned Colombian politician",
       "excerpt": "Beto Coral held up banners in Florida warning fellow Colombians to not vote for Abelardo de la Espriella In the week before Colombia’s presidential election, Beto Coral, a well-known activist living i...",
@@ -390,7 +399,7 @@
       "pubDate": 1787130012.0
     },
     {
-      "id": "NPR--6906626174169463664",
+      "id": "NPR--450564862029422928",
       "source": "NPR",
       "title": "Elbridge who? How the name of a forgotten founder lives on in the word 'gerrymander'",
       "excerpt": "Elbridge Gerry was an important early figure in the American Revolution, but his decision to approve a \"gerrymandered\" state legislative map inadvertently won him lasting infamy.",
@@ -399,16 +408,7 @@
       "pubDate": 1787130000.0
     },
     {
-      "id": "NPR-5443406866925173052",
-      "source": "NPR",
-      "title": "15 states have laws that allow corporal punishment in schools. Here's where, and why",
-      "excerpt": "There is broad consensus among psychologists that corporal punishment can be harmful to children, but the U.S. has no federal laws banning it in public schools.",
-      "link": "https://www.npr.org/2026/08/19/nx-s1-5803505/school-corporal-punishment-policy-tracker",
-      "time": "Il y a 4h",
-      "pubDate": 1787130000.0
-    },
-    {
-      "id": "NPR--1841751271444081515",
+      "id": "NPR--5339086251316788049",
       "source": "NPR",
       "title": "Why more than 400,000 kids are on waitlists for federal childcare assistance",
       "excerpt": "The Child Care and Development Fund, the U.S. government's main source of funding to help low-income families pay for childcare, serves over 1.6 million children in a typical month.",
@@ -417,25 +417,34 @@
       "pubDate": 1787130000.0
     },
     {
-      "id": "BBC News-6584614445980102124",
+      "id": "NPR-7705550877281090442",
+      "source": "NPR",
+      "title": "15 states have laws that allow corporal punishment in schools. Here's where, and why",
+      "excerpt": "There is broad consensus among psychologists that corporal punishment can be harmful to children, but the U.S. has no federal laws banning it in public schools.",
+      "link": "https://www.npr.org/2026/08/19/nx-s1-5803505/school-corporal-punishment-policy-tracker",
+      "time": "Il y a 4h",
+      "pubDate": 1787130000.0
+    },
+    {
+      "id": "BBC News--4602503257245560596",
       "source": "BBC News",
       "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told",
       "excerpt": "Erin Patterson's defence team appeal against her conviction for killing relatives with a beef Wellington laced with toxic mushrooms.",
       "link": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1787127903.0
     },
     {
-      "id": "NPR--4905749680537049358",
+      "id": "NPR-3252110988792396771",
       "source": "NPR",
       "title": "Israel strikes an air base in Syria to prevent Turkish troops from deploying",
       "excerpt": "Israel struck an air base in northwest Syria early Tuesday, saying it aimed to prevent Turkish troops from deploying there. Turkey, which has close ties with the Syrian government and has been providi...",
       "link": "https://www.npr.org/2026/08/19/nx-s1-5937400/israel-strikes-syria",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1787125919.0
     },
     {
-      "id": "NPR--6500946156372443726",
+      "id": "NPR-2072542331443985202",
       "source": "NPR",
       "title": "Liberia agrees to take 1,200 third-country deportees from the U.S.",
       "excerpt": "The 1,200 deportees will include Africans as well as nationals from North America, South America and the Caribbean, with the first batch of 20 expected on Thursday.",
@@ -444,7 +453,7 @@
       "pubDate": 1787122671.0
     },
     {
-      "id": "BBC News-6130386719479419818",
+      "id": "BBC News-5488669757776973301",
       "source": "BBC News",
       "title": "South Korea shortens war games with US, citing Washington request",
       "excerpt": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
@@ -453,7 +462,7 @@
       "pubDate": 1787118833.0
     },
     {
-      "id": "BBC News-8756615027935143188",
+      "id": "BBC News--4119971808949432241",
       "source": "BBC News",
       "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
       "excerpt": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
@@ -462,16 +471,16 @@
       "pubDate": 1787111795.0
     },
     {
-      "id": "The Guardian-4029735966622262981",
+      "id": "The Guardian--3770490607157128031",
       "source": "The Guardian",
       "title": "Trump hits pause on Canada tariffs threat, and hints at revival of Keystone XL oil pipeline project",
       "excerpt": "US president delays 50% tariffs by three days, and says contentious oil project ‘may be awoken from the grave’ Canada has temporarily avoided a bruising 50% US tariff, reaching a Tuesday-evening agree...",
       "link": "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline",
-      "time": "Il y a 9h",
+      "time": "Il y a 10h",
       "pubDate": 1787111232.0
     },
     {
-      "id": "The Guardian-1965296868344688252",
+      "id": "The Guardian-7227652359395005011",
       "source": "The Guardian",
       "title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
       "excerpt": "At least 2,325 people have died from the virus, according to official data, with outbreak on track to be biggest in history The Ebola outbreak in the Democratic Republic of the Congo is now the deadli...",
@@ -480,7 +489,7 @@
       "pubDate": 1786975651.0
     },
     {
-      "id": "The Guardian-8545852326957916543",
+      "id": "The Guardian-4977236168200617501",
       "source": "The Guardian",
       "title": "Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way",
       "excerpt": "President, 80, vows to keep far-right from power as Flávio Bolsonaro tells supporters he will ‘fight this system’ Brazil’s leftwing president, Luiz Inácio Lula da Silva, has launched his campaign for...",
@@ -489,7 +498,7 @@
       "pubDate": 1786905881.0
     },
     {
-      "id": "The Guardian-4405980332758856563",
+      "id": "The Guardian--5193437141399882217",
       "source": "The Guardian",
       "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
       "excerpt": "Eighteen children among the people killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on...",
@@ -498,7 +507,7 @@
       "pubDate": 1786822747.0
     },
     {
-      "id": "The Guardian--2575032694551597764",
+      "id": "The Guardian-1265601729239195113",
       "source": "The Guardian",
       "title": "Moroccan police arrest more than 100 people attempting to enter Ceuta",
       "excerpt": "Border security tightened after social media posts call for another mass crossing into Spain’s north African territory Moroccan police have arrested 111 people as they tried to enter Spain’s north Afr...",
@@ -507,7 +516,7 @@
       "pubDate": 1786817301.0
     },
     {
-      "id": "The Guardian--5530225743122483542",
+      "id": "The Guardian--195228448653688400",
       "source": "The Guardian",
       "title": "Ontario free to axe Toronto bike lanes, region’s top court rules",
       "excerpt": "Win is significant for region’s premier, Doug Ford, who blames protected zones for city’s traffic ills The Ontario government is now free to rip out Toronto’s bike lanes on its busiest streets after t...",
@@ -516,16 +525,7 @@
       "pubDate": 1786741423.0
     },
     {
-      "id": "The Guardian-3429399454009507123",
-      "source": "The Guardian",
-      "title": "Canadian plasma clinics pause collections after deaths of two donors",
-      "excerpt": "Grifols, which runs private chain of clinics, to temporarily stop taking donations after new government investigation A chain of private plasma donation clinics in Canada has said it is pausing collec...",
-      "link": "https://www.theguardian.com/world/2026/aug/14/canadian-plasma-clinics-pause-collections-after-deaths-of-donors-grifols",
-      "time": "Il y a 4j",
-      "pubDate": 1786724499.0
-    },
-    {
-      "id": "The Guardian--8389591150597134880",
+      "id": "The Guardian-5684633970514623422",
       "source": "The Guardian",
       "title": "American missionary kidnapped in Niger freed after nine months",
       "excerpt": "Kevin Rideout, who was abducted by unknown assailants in Niamey, said to be in good health and in care of US officials An American missionary who was kidnapped in Niger in October has been released, h...",
@@ -534,7 +534,7 @@
       "pubDate": 1786719317.0
     },
     {
-      "id": "The Guardian--4326955198772442844",
+      "id": "The Guardian--2142649837095021945",
       "source": "The Guardian",
       "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
       "excerpt": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth provin...",
@@ -543,5 +543,5 @@
       "pubDate": 1786634233.0
     }
   ],
-  "lastUpdate": "2026-08-19T13:08:41.540323"
+  "lastUpdate": "2026-08-19T13:53:39.261667"
 }
