@@ -1,106 +1,172 @@
 {
   "francophone": [
     {
-      "id": "France Info-2755035860934073505",
+      "id": "Libération-182763580753923558",
+      "source": "Libération",
+      "title": "Patrick Bruel visé par une nouvelle plainte pour tentative de viol",
+      "excerpt": "Les faits seraient survenus alors que la jeune femme était «à peine majeure», annonce ce mercredi 19 août sur France Inter Myriam Guedj-Benayoun, avocate de plusieurs plaignantes. Sous contrôle judici...",
+      "link": "https://www.liberation.fr/societe/police-justice/patrick-bruel-vise-par-une-nouvelle-plainte-pour-tentative-de-viol-20260819_4G5KHYMSKZBS5MAIL3BZCYUKTA/",
+      "time": "Il y a 6 min",
+      "pubDate": 1787122320.0,
+      "sources": [
+        "Libération",
+        "France Info"
+      ],
+      "multiSource": true,
+      "sourceCount": 2
+    },
+    {
+      "id": "Libération-4004285027905912676",
+      "source": "Libération",
+      "title": "Sanctions des Etats-Unis contre la CPI, promulgation de la loi sur l’aide à mourir, mort du batteur Franck Beard… L’actu de ce mercredi 19 août au matin",
+      "excerpt": "La rédaction de «Libération» compile les principales infos de ce mercredi 19 août.",
+      "link": "https://www.liberation.fr/international/europe/sanctions-des-etats-unis-contre-la-cpi-promulgation-de-la-loi-sur-laide-a-mourir-mort-du-batteur-franck-beard-lactu-de-ce-mercredi-19-aout-au-matin-20260819_SBF2NTU2NJDOXFOSTMLFCNMC6I/",
+      "time": "Il y a 19 min",
+      "pubDate": 1787121540.0
+    },
+    {
+      "id": "Libération-1109369774323764961",
+      "source": "Libération",
+      "title": "Deux Français arrêtés et détenus au Togo depuis le 27 juillet",
+      "excerpt": "Selon des médias locaux, il s’agit de deux journalistes réalisateurs dont le reportage devait être diffusé sur France Télévisions.",
+      "link": "https://www.liberation.fr/international/afrique/deux-francais-arretes-et-detenus-au-togo-depuis-le-27-juillet-20260819_VNEY2HQNHVF2RIOVIFHHO35MSY/",
+      "time": "Il y a 22 min",
+      "pubDate": 1787121344.0
+    },
+    {
+      "id": "France Info--4704233614434736589",
+      "source": "France Info",
+      "title": "La Corée du Sud et les Etats-Unis écourtent leurs exercices militaires après les critiques de Donald Trump",
+      "excerpt": "Ces manœuvres devaient initialement durer jusqu'au 27 août, et prendront finalement fin dès vendredi. Un changement de pied qui intervient après que Donald Trump les a vivement critiquées.",
+      "link": "https://www.franceinfo.fr/monde/coree-du-sud/la-coree-du-sud-et-les-etats-unis-ecourtent-leurs-exercices-militaires-apres-les-critiques-de-donald-trump_8153198.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 30 min",
+      "pubDate": 1787120865.0
+    },
+    {
+      "id": "Libération--2355875712880157757",
+      "source": "Libération",
+      "title": "Emmanuel Macron a promulgué la loi sur l’aide à mourir",
+      "excerpt": "Après l’avis favorable du Conseil constitutionnel et sa publication au Journal officiel, le texte n’attend plus que ses décrets d’application pour être effectif.",
+      "link": "https://www.liberation.fr/societe/sante/emmanuel-macron-a-promulgue-la-loi-sur-laide-a-mourir-20260819_AUU42X27ZVGGDHNEKDIGRNPULY/",
+      "time": "Il y a 34 min",
+      "pubDate": 1787120652.0
+    },
+    {
+      "id": "Libération--3183756423577590589",
+      "source": "Libération",
+      "title": "Frank Beard, batteur du groupe de blues rock ZZ Top, est mort à 77 ans",
+      "excerpt": "Le Texan était en soins palliatifs, a annoncé le groupe sur son site Internet mardi 18 août. Deux dates de concerts ont été annulées, mais la tournée reprendra dès ce week-end à Austin.",
+      "link": "https://www.liberation.fr/culture/musique/frank-beard-batteur-du-groupe-de-blues-rock-zz-top-est-mort-a-77-ans-20260819_KFJJQWEYLJCBJL5BN6A2L5MM6Y/",
+      "time": "Il y a 36 min",
+      "pubDate": 1787120494.0,
+      "sources": [
+        "Libération",
+        "Le Monde"
+      ],
+      "multiSource": true,
+      "sourceCount": 2
+    },
+    {
+      "id": "France Info--8012245027926592280",
+      "source": "France Info",
+      "title": "\"Rassurer\", \"expliquer\"… Les appels de contribuables concernés par le piratage de leurs données affluent au fisc",
+      "excerpt": "Depuis lundi, les victimes \"sont informées individuellement par la DGFiP, par courriel ou par courrier, des données susceptibles d’avoir été consultées ou extraites et, le cas échéant, des mesures de...",
+      "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/rassurer-expliquer-les-appels-de-contribuables-concernes-par-le-piratage-de-leurs-donnees-affluent-au-fisc_8153108.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 46 min",
+      "pubDate": 1787119935.0
+    },
+    {
+      "id": "France Info--6776450139814545402",
+      "source": "France Info",
+      "title": "\"Elle traverse une épreuve d'une violence extrême\", la famille de l'influenceuse retrouvée morte calcinée dans les vignes appelle au respect",
+      "excerpt": "Sous réserve d'un retour d'analyses ADN, la procureure du parquet de Nîmes confirme la probabilité que la femme retrouvée morte au milieu des vignes à Saint-Gilles, le 12 août, soit bien l'influenceus...",
+      "link": "https://france3-regions.franceinfo.fr/occitanie/gard/nimes/elle-traverse-une-epreuve-d-une-violence-extreme-la-famille-de-l-influenceuse-retrouvee-morte-calcinee-dans-les-vignes-appelle-au-respect-3403177.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 50 min",
+      "pubDate": 1787119685.0
+    },
+    {
+      "id": "Libération-1781902067466806965",
+      "source": "Libération",
+      "title": "«Un sombre été» de Vera Buck, entre légendes et souvenirs enfouis",
+      "excerpt": "Avec son dernier roman, l’autrice allemande livre un thriller qui entremêle les voix et les histoires et dans lequel se niche un système de violence et d’oppression.",
+      "link": "https://www.liberation.fr/culture/livres/un-sombre-ete-de-vera-buck-entre-legendes-et-souvenirs-enfouis-20260819_YMA4GZGP7FCFRBRJIA4ITRYTJI/",
+      "time": "Il y a 58 min",
+      "pubDate": 1787119200.0
+    },
+    {
+      "id": "Le Monde-4473909660453700943",
+      "source": "Le Monde",
+      "title": "En Zambie, le président sortant, Hakainde Hichilema, réélu, son principal adversaire conteste le résultat",
+      "excerpt": "Dénonçant des restrictions et des actes d’intimidation pendant la campagne, son principal concurrent, Brian Mundubile, a déclaré qu’il « présenterait des preuves aux instances judiciaires compétentes...",
+      "link": "https://www.lemonde.fr/afrique/article/2026/08/19/en-zambie-le-president-sortant-hakainde-hichilema-reelu-son-principal-adversaire-conteste-le-resultat_6749506_3212.html",
+      "time": "Il y a 1h",
+      "pubDate": 1787118712.0
+    },
+    {
+      "id": "France Info--8668471028915401895",
       "source": "France Info",
       "title": "L'épidémie d'Ebola en République démocratique du Congo est \"loin d'être maîtrisée\", prévient l'OMS",
       "excerpt": "\"Près de 5 000 personnes ont désormais été infectées et plus de 2 300 sont décédées\", a rapporté mardi le responsable de l'OMS, Tedros Adhanom Ghebreyesus, qui pointe un risque \"élevé\" de propagation...",
       "link": "https://www.franceinfo.fr/sante/maladie/ebola/l-epidemie-d-ebola-en-republique-democratique-du-congo-est-loin-d-etre-maitrisee-previent-l-oms_8153150.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 12 min",
+      "time": "Il y a 1h",
       "pubDate": 1787118658.0
     },
     {
-      "id": "Libération--3521836363319882176",
+      "id": "Libération-5131712133166539414",
       "source": "Libération",
       "title": "Etudiants en galère d’appart : «Ils me demandent de faire un virement avant la visite»",
       "excerpt": "Comment profiter de son été quand on ne sait pas où l’on vivra en septembre à la reprise des cours ? Dans notre troisième épisode, Manon doit faire face aux arnaques.",
       "link": "https://www.liberation.fr/lifestyle/argent-boulot/etudiants-en-galere-dappart-ils-me-demandent-de-faire-un-virement-avant-la-visite-20260819_SQE4P5D6JZGFXD2TNWNLCUIEDY/",
-      "time": "Il y a 20 min",
+      "time": "Il y a 1h",
       "pubDate": 1787118180.0
     },
     {
-      "id": "France Info--8859516930642104977",
+      "id": "France Info--1533113410681733217",
       "source": "France Info",
-      "title": "En Ukraine, l'ex-ministre de la Défense, limogé en juillet par Volodymyr Zelensky, demande d'ouvrir la voie à des élections",
-      "excerpt": "Pour Mikhaïlo Fedorov, il est nécessaire de \"trouver une solution\" à la loi martiale en vigueur qui interdit la tenue d'un scrutin en temps de guerre.",
+      "title": "L'ex-ministre de la Défense ukrainien Mikhaïlo Fedorov, limogé par Volodymyr Zelensky en juillet, demande d'ouvrir la voie à des élections",
+      "excerpt": "Populaire, il avait été soutenu par d'importantes manifestations après son départ. Il juge nécessaire de \"trouver une solution\" à la loi martiale en vigueur, qui interdit la tenue d'un scrutin en temp...",
       "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-l-ex-ministre-de-la-defense-limoge-en-juillet-par-volodymyr-zelensky-demande-d-ouvrir-la-voie-a-des-elections_8153141.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 29 min",
+      "time": "Il y a 1h",
       "pubDate": 1787117687.0
     },
     {
-      "id": "Libération--2670977008744533386",
+      "id": "Libération-8245551012623511587",
       "source": "Libération",
       "title": "Brésil : Donald Trump est en train de faire la campagne de Lula",
       "excerpt": "A deux mois du scrutin, la pression américaine permet au président brésilien d’éviter le débat qu’il redoutait – son bilan – pour endosser le rôle qui lui convient le mieux : celui du défenseur de la...",
       "link": "https://www.liberation.fr/idees-et-debats/tribunes/bresil-donald-trump-est-en-train-de-faire-la-campagne-de-lula-20260819_GOKERVJGNVAPNN4JG3BDTEEXZY/",
-      "time": "Il y a 36 min",
+      "time": "Il y a 1h",
       "pubDate": 1787117220.0
     },
     {
-      "id": "Libération-9198161713065187096",
+      "id": "Libération--4015233221247756138",
       "source": "Libération",
       "title": "Emilien Jacquelin, le champion de biathlon devenu cycliste : «J’ai la chance inestimable à 31 ans de pouvoir rattraper mon rêve d’enfant»",
       "excerpt": "Le quadruple médaillé olympique a troqué en avril ses skis et sa carabine pour le vélo. Après sa première course professionnelle et en plein Tour du Limousin, il raconte à «Libé» sa reconversion. Et m...",
       "link": "https://www.liberation.fr/sports/cyclisme/emilien-jacquelin-le-champion-de-biathlon-devenu-cycliste-jai-la-chance-inestimable-a-31-ans-de-pouvoir-rattraper-mon-reve-denfant-20260819_2GQOKBF4IVCZTFSYDBCY7DUACA/",
-      "time": "Il y a 51 min",
+      "time": "Il y a 1h",
       "pubDate": 1787116320.0
     },
     {
-      "id": "Libération--4272522119833071942",
+      "id": "Libération-5542173976812326753",
       "source": "Libération",
       "title": "En Afrique, faire honte aux femmes au sujet de leurs désirs sexuels est un moyen de les contrôler, par Nana Darkoa Sekyiamah, autrice ghanéenne",
       "excerpt": "La féministe et autrice de «la Vie sexuelle des femmes africaines» raconte sa participation au mouvement de libération de la parole sur la sexualité des femmes du continent africain et l’évolution de...",
       "link": "https://www.liberation.fr/idees-et-debats/en-afrique-faire-honte-aux-femmes-au-sujet-de-leurs-desirs-sexuels-est-un-moyen-de-les-controler-par-nana-darkoa-sekyiamah-autrice-ghaneenne-20260819_5HBENUG7UBG3ZP2NIFZSGVKOEU/",
-      "time": "Il y a 54 min",
+      "time": "Il y a 1h",
       "pubDate": 1787116140.0
     },
     {
-      "id": "Libération--1439766450169122648",
-      "source": "Libération",
-      "title": "Entre Barcelone et Madrid, une rivalité capitale",
-      "excerpt": "Historique, sportive, culturelle… Retour sur l’éternelle opposition entre les deux principales villes d’Espagne, de la Guerre de succession à l’iconique «Clasicó» footballistique.",
-      "link": "https://www.liberation.fr/plus/speciaux-cahier-ete/entre-barcelone-et-madrid-une-rivalite-capitale-20260819_HHPCN2IPMNB2LAVJ5AER7XIQPQ/",
-      "time": "Il y a 1h",
-      "pubDate": 1787115600.0
-    },
-    {
-      "id": "Libération--2571684596750396198",
-      "source": "Libération",
-      "title": "«La Fille Condor» d’Alvaro Olmos Torrico, conte et les Andes",
-      "excerpt": "Clara, enfant de sage-femme en Bolivie, refuse son destin et s’enfuit pour rejoindre la ville et poursuivre une carrière de chanteuse. Un long métrage dur sur le fond et doux sur la forme.",
-      "link": "https://www.liberation.fr/culture/cinema/la-fille-condor-dalvaro-olmos-torrico-conte-et-les-andes-20260819_JGJ3KYSAF5H7XMDSF4G6WED7VI/",
-      "time": "Il y a 1h",
-      "pubDate": 1787115420.0
-    },
-    {
-      "id": "France Info-4857224695954234729",
+      "id": "France Info--5836005497604408300",
       "source": "France Info",
       "title": "La loi créant un droit à l'aide à mourir a été promulguée par Emmanuel Macron et publiée au Journal officiel",
       "excerpt": "Avant que les premiers malades puissent avoir recours au dispositif créé par le texte, adopté définitivement au Parlement mi-juillet, le gouvernement devra publier les décrets d'application nécessaire...",
       "link": "https://www.franceinfo.fr/societe/euthanasie/la-loi-sur-l-aide-a-mourir-a-ete-promulguee-par-emmanuel-macron-macron-et-publiee-au-journal-officiel_8153051.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1787113996.0
     },
     {
-      "id": "Libération-7351610762150224458",
-      "source": "Libération",
-      "title": "Fontaines DC, en passe de devenir le groupe de rock le plus exaltant de notre temps ?",
-      "excerpt": "Après avoir tout éclipsé lors de 34e édition de la Route du rock de Saint-Malo, l’annonce (et l’écoute) de leur nouvel album, «Dopamine Chamber» en octobre confirme qu’il faudra désormais s’habituer à...",
-      "link": "https://www.liberation.fr/culture/musique/fontaines-dc-en-passe-de-devenir-le-groupe-de-rock-le-plus-exaltant-de-notre-temps-20260819_4IRJVRTGBZC23CEIPQA62AUSAU/",
-      "time": "Il y a 1h",
-      "pubDate": 1787113980.0
-    },
-    {
-      "id": "Libération-7274171664937809663",
-      "source": "Libération",
-      "title": "VPN, avatar 3D et vente de comptes vérifiés : un marché en préparation pour contourner l’interdiction des réseaux sociaux aux moins de 15 ans",
-      "excerpt": "Après la censure du Conseil constitutionnel, le gouvernement refuse d’abandonner sa loi pour bannir l’accès aux plateformes aux plus jeunes. Une aubaine pour les différents outils permettant de trompe...",
-      "link": "https://www.liberation.fr/lifestyle/vpn-avatar-3d-et-vente-de-comptes-verifies-un-marche-en-preparation-pour-contourner-linterdiction-des-reseaux-sociaux-aux-moins-de-15-ans-20260819_NEBNR4YJTFB3PEGNWPO4ZZTWIA/",
-      "time": "Il y a 1h",
-      "pubDate": 1787112300.0
-    },
-    {
-      "id": "France Info--7865835054431162031",
+      "id": "France Info-8126047256422595192",
       "source": "France Info",
       "title": "\"On va avoir un changement net\" : après la baisse des températures, que nous réserve la météo pour la fin de l'été ?",
       "excerpt": "Après plusieurs épisodes caniculaires, la France connaît enfin un répit, avec la fin de la vigilance orange \"canicule\" sur l'ensemble des départements. Mais il est encore trop tôt pour dire si nous so...",
@@ -109,270 +175,198 @@
       "pubDate": 1787112101.0
     },
     {
-      "id": "France Info-4831693428927755125",
+      "id": "France Info--1713259645089167281",
       "source": "France Info",
       "title": "\"C'est le chantier de fond de la rentrée\" : comment Sébastien Lecornu prépare le budget 2027, le dernier avant l'élection présidentielle",
-      "excerpt": "Avant la présentation du projet de loi de finances le 30 septembre, le Premier ministre doit trouver la formule magique pour trouver des économies sans risquer d'être renversé.",
+      "excerpt": "Avant la présentation du projet de loi de finances, le 30 septembre, le Premier ministre cherche la formule magique pour trouver des économies sans risquer d'être renversé.",
       "link": "https://www.franceinfo.fr/economie/impots/c-est-le-chantier-de-fond-de-la-rentree-comment-sebastien-lecornu-prepare-le-budget-2027-le-dernier-avant-l-election-presidentielle_8150600.html#xtor=RSS-3-[lestitres]",
       "time": "Il y a 2h",
       "pubDate": 1787112048.0
     },
     {
-      "id": "Libération-3404245364017683414",
-      "source": "Libération",
-      "title": "Quiz : interro surprise sur les noms d’écoles !",
-      "excerpt": "(27/30) Quel est le nom le plus donné aux collèges publics ? Et aux écoles maternelles ? Quels noms sont surreprésentés en ZEP ?",
-      "link": "https://www.liberation.fr/plus/speciaux-cahier-ete/quiz-interro-surprise-sur-les-noms-decoles-20260819_AWTOIMMFMFABVODIV3D5DNN6TM/",
-      "time": "Il y a 2h",
-      "pubDate": 1787112000.0
-    },
-    {
-      "id": "Le Monde-8200839067664976257",
-      "source": "Le Monde",
-      "title": "Les Etats-Unis suspendent les surtaxes douanières de 50 % vis-à-vis du Canada après la conclusion d’un accord",
-      "excerpt": "Ces nouveaux droits de douane, qui devaient entrer en vigueur mercredi matin, sont suspendus pour trois jours. Ils portaient sur l’équivalent de 20 milliards de dollars d’importations canadiennes et c...",
-      "link": "https://www.lemonde.fr/international/article/2026/08/19/les-etats-unis-suspendent-les-surtaxes-douanieres-de-50-envers-le-canada-apres-la-conclusion-d-un-accord_6749460_3210.html",
-      "time": "Il y a 2h",
-      "pubDate": 1787111577.0
-    },
-    {
-      "id": "Libération--9145290658599916428",
-      "source": "Libération",
-      "title": "Ensemencement des nuages pour lutter contre les feux en Indonésie : «Il n’y a pas de consensus scientifique sur le sujet»",
-      "excerpt": "En proie à des incendies ravageurs, le pays mise sur la manipulation du ciel pour provoquer artificiellement de la pluie. Pour la chercheuse Marine Guglielmo Weber, cette technique reste toutefois ent...",
-      "link": "https://www.liberation.fr/international/asie-pacifique/ensemencement-des-nuages-pour-lutter-contre-les-feux-en-indonesie-il-ny-a-pas-de-consensus-scientifique-sur-le-sujet-20260819_NM4TXNSFUZHMTINJPVUEOIPWYE/",
-      "time": "Il y a 2h",
-      "pubDate": 1787110800.0
-    },
-    {
-      "id": "Le Monde-4216381482678870161",
+      "id": "Le Monde-4838000068023061559",
       "source": "Le Monde",
       "title": "Le bombardement par Israël d’une base aérienne en Syrie, un avertissement à Damas et à Ankara",
       "excerpt": "Alors que les négociations sur un accord de sécurité avec le nouveau pouvoir syrien sont au point mort, l’Etat hébreu a frappé un site militaire pour empêcher le pays de reconstruire sa force aérienne...",
       "link": "https://www.lemonde.fr/international/article/2026/08/19/le-bombardement-par-israel-d-une-base-aerienne-en-syrie-un-avertissement-a-damas-et-a-ankara_6749427_3210.html",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1787110668.0
     },
     {
-      "id": "Le Monde-2756165831847572019",
+      "id": "Le Monde-4238657295335101047",
       "source": "Le Monde",
       "title": "En Ukraine, l’ancien ministre de la défense Mykhaïlo Fedorov réclame la tenue d’élections et dénonce la corruption, dans un acte de défi à Volodymyr Zelensky",
       "excerpt": "Le populaire ex-ministre, dont l’exclusion du gouvernement a précipité une crise politique dans le pays, franchit une ligne jamais dépassée depuis le début de l’invasion russe en appelant, dans une vi...",
       "link": "https://www.lemonde.fr/international/article/2026/08/19/en-ukraine-l-ancien-ministre-de-la-defense-mykhailo-fedorov-reclame-la-tenue-d-elections-et-denonce-la-corruption-dans-un-acte-de-defi-a-volodymyr-zelensky_6749426_3210.html",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1787110485.0
     },
     {
-      "id": "Le Monde--4247275325976309090",
+      "id": "Le Monde-7008726186792375485",
       "source": "Le Monde",
       "title": "Les films à l’affiche : « Fjord », « Oklahoma Honey », « Paradise » et « Wake in Fright »",
       "excerpt": "Chaque mercredi, dans La Matinale, les journalistes cinéma du « Monde » livrent leurs critiques des films à découvrir en salle. Aujourd’hui, notamment, le dernier long-métrage de Cristian Mungiu, reve...",
       "link": "https://www.lemonde.fr/cinema/article/2026/08/19/les-films-a-l-affiche-fjord-oklahoma-honey-paradise-et-wake-in-fright_6749392_3476.html",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1787110212.0
     },
     {
-      "id": "Le Monde--3445104792323269059",
+      "id": "Le Monde-6550742762572271900",
       "source": "Le Monde",
       "title": "Au procès de Meta, la firme de Mark Zuckerberg accusée d’avoir ciblé les enfants et minoré les dangers d’Instagram",
       "excerpt": "L’entreprise est jugée au civil en Californie, poursuivie par 29 Etats fédérés pour avoir trompé les consommateurs et violé la loi fédérale sur la protection des mineurs, en exposant les jeunes utilis...",
       "link": "https://www.lemonde.fr/economie/article/2026/08/19/au-proces-de-meta-la-firme-de-mark-zuckerberg-accusee-d-avoir-cible-les-enfants-et-minore-les-dangers-d-instagram_6749391_3234.html",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1787109219.0
     },
     {
-      "id": "Le Monde-356064571974437255",
+      "id": "Le Monde-3473967643385155458",
       "source": "Le Monde",
       "title": "Les exercices militaires conjoints de la Corée du Sud et des Etats-Unis écourtés de six jours, annonce Séoul après les critiques émises par Donald Trump",
       "excerpt": "Ces manœuvres annuelles, qui devaient initialement durer onze jours, ont commencé lundi 17 août. Le locataire de la Maison Blanche a annoncé, dimanche, réduire la participation américaine à ces opérat...",
       "link": "https://www.lemonde.fr/international/article/2026/08/19/les-exercices-militaires-conjoints-de-la-coree-du-sud-et-des-etats-unis-ecourtes-de-six-jours-annonce-seoul-apres-les-critiques-emises-par-trump_6749324_3210.html",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1787104338.0
     },
     {
-      "id": "Le Monde-3785842771983631449",
+      "id": "Le Monde-3976953307712424146",
       "source": "Le Monde",
       "title": "L’aide à mourir officiellement autorisée en France après la promulgation de la loi par Emmanuel Macron",
       "excerpt": "Le texte, validé par le Conseil constitutionnel avec quelques réserves, a été publié, mercredi 19 août, au « Journal officiel ». Il crée un droit à l’aide à mourir, sous plusieurs conditions, pour cer...",
       "link": "https://www.lemonde.fr/societe/article/2026/08/19/l-aide-a-mourir-officiellement-autorisee-en-france-apres-la-promulgation-de-la-loi-par-emmanuel-macron_6749291_3224.html",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1787102342.0
     },
     {
-      "id": "Le Monde--7450178444135416370",
-      "source": "Le Monde",
-      "title": "Frank Beard, batteur historique du groupe de rock ZZ Top, est mort à 77 ans",
-      "excerpt": "Seul membre du trio d’origine à ne pas avoir la barbe, Frank Beard avait dû quitter la tournée actuelle du groupe au début du mois d’août, en raison de problèmes de santé qui n’ont pas été précisés.",
-      "link": "https://www.lemonde.fr/disparitions/article/2026/08/19/frank-beard-batteur-historique-du-groupe-de-rock-zz-top-est-mort-a-77-ans_6749190_3382.html",
-      "time": "Il y a 6h",
-      "pubDate": 1787095642.0
-    },
-    {
-      "id": "France Info-3739753142511881686",
-      "source": "France Info",
-      "title": "La France va expulser deux diplomates iraniens \"dans les tout prochains jours\"",
-      "excerpt": "Cette décision a été prise en représailles à la décision de l'Iran d'interdire le retour de deux diplomates de l'ambassade de France à Téhéran, a déclaré mardi le ministre des Affaires étrangères fran...",
-      "link": "https://www.franceinfo.fr/monde/iran/la-france-va-expulser-deux-diplomates-iraniens-dans-les-tout-prochains-jours_8152658.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 8h",
-      "pubDate": 1787090599.0
-    },
-    {
-      "id": "France Info-7176865194745545681",
-      "source": "France Info",
-      "title": "\"Merci, quelle journée\" : l'astronaute française Sophie Adenot est rentrée dans la Station spatiale internationale après six heures dans l'espace, sans avoir pu achever sa mission",
-      "excerpt": "A bord de la Station spatiale internationale depuis février, Sophie Adenot a réalisé sa première sortie extravéhiculaire, mardi après-midi. Elle devait, avec son collègue américain Anil Menon, remplac...",
-      "link": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/merci-quelle-journee-l-astronaute-francaise-sophie-adenot-est-rentree-dans-la-station-spatiale-internationale-apres-six-heures-dans-l-espace-sans-avoir-pu-achever-sa-mission_8152652.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 9h",
-      "pubDate": 1787083634.0
-    },
-    {
-      "id": "France Info--6102242278508820238",
+      "id": "France Info-7618565258612237017",
       "source": "France Info",
       "title": "L'incendie dans le Var est officiellement éteint après un mois de combat",
       "excerpt": "Ce feu qui a parcouru 6 300 hectares s'était déclaré le 21 juillet à Pontevès (Var). Plus de 11 000 pompiers ont été mobilisés sur cet incendie.",
       "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/l-incendie-dans-le-var-est-officiellement-eteint-apres-un-mois-de-combat_8152679.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 10h",
+      "time": "Il y a 11h",
       "pubDate": 1787082388.0
     },
     {
-      "id": "Le Monde--4785985015681002229",
+      "id": "Le Monde-4588765285973975599",
       "source": "Le Monde",
       "title": "Piratage du site des impôts : le ministère des comptes publics présente des « excuses », mais peine à contenir la crise",
       "excerpt": "David Amiel a dévoilé des premières « mesures d’urgence » après la vaste attaque informatique visant le fisc. Pour ne rien arranger, l’administration fiscale a révélé une nouvelle brèche dans ses syst...",
       "link": "https://www.lemonde.fr/politique/article/2026/08/18/piratage-du-fisc-bercy-presente-ses-excuses-mais-peine-a-contenir-la-crise_6749090_823448.html",
-      "time": "Il y a 10h",
+      "time": "Il y a 11h",
       "pubDate": 1787081821.0
     },
     {
-      "id": "France Info--3413055878478248634",
-      "source": "France Info",
-      "title": "Excuses du gouvernement, troisième fuite de données… Ce qu'il faut retenir de la conférence de presse sur le piratage du fisc",
-      "excerpt": "La directrice générale du fisc, Amélie Verdier, a reconnu mardi une \"troisième fuite\" concernant des données liées aux successions.",
-      "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/excuses-du-gouvernement-troisieme-fuite-de-donnees-ce-qu-il-faut-retenir-de-la-conference-de-presse-sur-le-piratage-du-fisc_8152358.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 12h",
-      "pubDate": 1787073202.0
-    },
-    {
-      "id": "France Info-8700409015577682091",
-      "source": "France Info",
-      "title": "Aux Etats-Unis, le procès de Lindsay Clancy, jugée pour le meurtre de ses trois enfants, met en lumière la \"psychose post-partum\"",
-      "excerpt": "Les avocats de l'infirmière de 36 ans invoquent ce trouble psychiatrique pour défendre son irresponsabilité pénale. Les procureurs estiment eux que la mère de famille a tué ses enfants \"de manière dél...",
-      "link": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-le-proces-de-lindsay-clancy-jugee-pour-le-meurtre-de-ses-trois-enfants-met-en-lumiere-une-maladie-rare-la-psychose-post-partum_8151923.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 14h",
-      "pubDate": 1787066754.0
-    },
-    {
-      "id": "Le Monde-4793517149336935311",
+      "id": "Le Monde--6680390969294360059",
       "source": "Le Monde",
       "title": "Sophie Adenot est devenue la première Française à sortir dans l’espace",
       "excerpt": "Agée de 44 ans, l’astronaute, en mission dans la Station spatiale internationale (ISS) depuis la mi-février, est la deuxième femme européenne à réaliser une telle sortie, après l’Italienne Samantha Cr...",
       "link": "https://www.lemonde.fr/sciences/article/2026/08/18/sophie-adenot-devient-la-premiere-francaise-a-sortir-dans-l-espace-suivez-l-evenement-en-video_6748734_1650685.html",
-      "time": "Il y a 17h",
+      "time": "Il y a 18h",
       "pubDate": 1787057292.0
     }
   ],
   "anglophone": [
     {
-      "id": "BBC News--1413110893516101383",
+      "id": "BBC News-8193910046227250397",
       "source": "BBC News",
       "title": "South Korea shortens war games with US, citing Washington request",
       "excerpt": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
       "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 9 min",
+      "time": "Il y a 1h",
       "pubDate": 1787118833.0
     },
     {
-      "id": "NPR-8782351879234420065",
+      "id": "BBC News-5393103263413962488",
+      "source": "BBC News",
+      "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
+      "excerpt": "More than 200 women accuse Christian Nègre of drugging them to make them urinate - two share their stories.",
+      "link": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 1h",
+      "pubDate": 1787115639.0
+    },
+    {
+      "id": "NPR--988913773632075426",
       "source": "NPR",
       "title": "Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports",
       "excerpt": "President Trump said he was delaying the 50% U.S. tariffs on Canadian imports after the two countries reached a last-minute deal less than two hours before the sanctions were to go into effect.",
       "link": "https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1787115308.0
     },
     {
-      "id": "BBC News--7888557052732100657",
+      "id": "BBC News--5340044845012960540",
       "source": "BBC News",
       "title": "Sacked Ukrainian defence minister calls for presidential election",
       "excerpt": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
       "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1787114681.0
     },
     {
-      "id": "BBC News--7616138507445638249",
+      "id": "BBC News--2382632127981369838",
       "source": "BBC News",
       "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
       "excerpt": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.",
       "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1787111795.0
     },
     {
-      "id": "The Guardian--8150601532406617227",
+      "id": "The Guardian-8901979831633710614",
       "source": "The Guardian",
       "title": "Trump hits pause on Canada tariffs threat, and hints at revival of Keystone XL oil pipeline project",
       "excerpt": "US president delays 50% tariffs by three days, and says contentious oil project ‘may be awoken from the grave’ Canada has temporarily avoided a bruising 50% US tariff, reaching a Tuesday-evening agree...",
       "link": "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1787111232.0
     },
     {
-      "id": "BBC News--1260167124412703141",
-      "source": "BBC News",
-      "title": "Five Australian rules footy players suspended amid police investigation",
-      "excerpt": "The suspensions, for drinking and inviting women to a hotel, come as police investigate an alleged sexual assault.",
-      "link": "https://www.bbc.co.uk/news/articles/cg4d7q2ne7go?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
-      "pubDate": 1787110619.0
-    },
-    {
-      "id": "BBC News-7037611264987261686",
+      "id": "BBC News-3017288242277943693",
       "source": "BBC News",
       "title": "Iranian academic writes of US detention 'hell' over link to 1979 hostage crisis",
       "excerpt": "The immigration status of Maryam Tahmasebi was revoked because her husband is the son of a prominent figure in Iran.",
       "link": "https://www.bbc.co.uk/news/articles/cgjeped6ewxo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1787109126.0
     },
     {
-      "id": "BBC News--6639343502871023576",
+      "id": "BBC News-5656914747623888100",
       "source": "BBC News",
       "title": "Husband and mother-in-law charged over Indian bride's death",
       "excerpt": "Twisha Sharma, a model and actor, had been married for just five months when she was found dead in May.",
       "link": "https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1787108647.0
     },
     {
-      "id": "BBC News-3621726911311221831",
+      "id": "BBC News-2449570084334100007",
       "source": "BBC News",
-      "title": "Witness gets combative in Tupac murder trial - 'I don't want to send him to prison'",
-      "excerpt": "The witness said he had little love for the man on trial for the rapper's murder, but refused to answer questions that he thought would send Duane \"Keffe D\" to prison.",
+      "title": "'I don't want to send you to prison', witness tells Tupac accused in combative testimony",
+      "excerpt": "A member of Tupac Shakur's entourage said he was threatened with contempt of court if he did not testify in the murder trial of Duane \"Keffe D\" Davis.",
       "link": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
       "time": "Il y a 3h",
       "pubDate": 1787108435.0
     },
     {
-      "id": "BBC News-478890650671758404",
+      "id": "BBC News-4192780093258882294",
       "source": "BBC News",
-      "title": "ZZ Top drummer Frank Beard dies aged 77",
-      "excerpt": "A statement on the blues-rock band's website said he died on Monday in hospice",
-      "link": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 7h",
-      "pubDate": 1787091946.0
+      "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
+      "excerpt": "Damascus called the attacks \"an unjustified act of aggression\" that imperilled regional security.",
+      "link": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 6h",
+      "pubDate": 1787100496.0
     },
     {
-      "id": "BBC News--1108284854711897237",
+      "id": "BBC News--3531606491774981809",
       "source": "BBC News",
       "title": "Meta hooked children on Facebook and Instagram, US court hears",
       "excerpt": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.",
       "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1787091067.0
     },
     {
-      "id": "NPR--7943463260306130249",
+      "id": "NPR--1799032081164504158",
       "source": "NPR",
       "title": "Key results from Florida primaries, so far",
       "excerpt": "Voters in Florida are picking their party's candidates for governor, Senate and a number of U.S. House seats after redistricting.",
@@ -381,88 +375,88 @@
       "pubDate": 1787086877.0
     },
     {
-      "id": "NPR--39154125828546790",
+      "id": "NPR-6709127504889403071",
       "source": "NPR",
       "title": "Embattled Florida Republican Rep. Cory Mills loses his fight to keep his House seat",
       "excerpt": "Mills is the latest lawmaker in a recent string of congressional members facing scandals and allegations of domestic abuse while trying to run for elected office.",
       "link": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
-      "time": "Il y a 9h",
+      "time": "Il y a 10h",
       "pubDate": 1787083458.0
     },
     {
-      "id": "NPR--6639387174810243209",
+      "id": "NPR--3521536906769489641",
       "source": "NPR",
       "title": "ABC and Disney sue FCC, alleging First Amendment violations",
       "excerpt": "The ABC network has sued the Federal Communications Commission, alleging that the Trump administration is violating its First Amendment rights by challenging ABC broadcast licenses and investigating t...",
       "link": "https://www.npr.org/2026/08/18/nx-s1-5936406/abc-and-disney-sue-fcc-alleging-first-amendment-violations",
-      "time": "Il y a 10h",
+      "time": "Il y a 11h",
       "pubDate": 1787082687.0
     },
     {
-      "id": "NPR--2709331844523609516",
+      "id": "NPR--6876240933128983089",
       "source": "NPR",
       "title": "'Profits won.' The child safety trial against Meta kicks off in federal court",
       "excerpt": "Opening arguments are underway in a trial that pits four states against the company that owns Facebook and Instagram. They allege that Meta knew its products could hook kids — and lied about the dange...",
       "link": "https://www.npr.org/2026/08/18/nx-s1-5935458/meta-child-safety-social-media-addiction-trial-opening",
-      "time": "Il y a 12h",
+      "time": "Il y a 13h",
       "pubDate": 1787074769.0
     },
     {
-      "id": "NPR-7508526907443651910",
+      "id": "NPR-4303466556550960467",
       "source": "NPR",
       "title": "S. Korea stresses US alliance amid confusion over Trump drill cut",
       "excerpt": "Lee's comments Tuesday come as many South Koreans remain baffled and concerned about U.S. President Donald Trump's abrupt order to \"substantially reduce\" military exercises with South Korea.",
       "link": "https://www.npr.org/2026/08/18/g-s1-139096/s-korea-stresses-us-alliance-amid-confusion-over-trump-drill-cut",
-      "time": "Il y a 14h",
+      "time": "Il y a 15h",
       "pubDate": 1787066380.0
     },
     {
-      "id": "BBC News-6900140830915481217",
+      "id": "BBC News-4113276295305205351",
       "source": "BBC News",
       "title": "Brazil's President Lula hails oil discovery near Amazon river",
       "excerpt": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
       "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 16h",
+      "time": "Il y a 17h",
       "pubDate": 1787058834.0
     },
     {
-      "id": "NPR--1273949996406284778",
+      "id": "NPR--6134733402555885375",
       "source": "NPR",
       "title": "U.S. and Iran miss peace talks deadline. And, Alaska, Florida and Wyoming primaries",
       "excerpt": "The U.S. and Iran missed a deadline to begin peace talks this week. The monthslong war has depleted U.S. resources. And, what to know about Alaska's U.S. Senate seat primary.",
       "link": "https://www.npr.org/2026/08/18/g-s1-139072/up-first-newsletter-iran-south-korea-jared-kushner-florida-wyoming-alaska-primaries-luigi-mangione",
-      "time": "Il y a 18h",
+      "time": "Il y a 19h",
       "pubDate": 1787053235.0
     },
     {
-      "id": "NPR-4841885955965096501",
+      "id": "NPR-3358098292820139336",
       "source": "NPR",
       "title": "The grueling fight over who profits from AI music",
       "excerpt": "AI can generate songs in seconds. But behind every AI track is a complicated question: Who should get paid? And, how? The fights have started.",
       "link": "https://www.npr.org/sections/planet-money/2026/08/18/g-s1-138852/grueling-fight-over-who-profits-from-ai-music",
-      "time": "Il y a 19h",
+      "time": "Il y a 20h",
       "pubDate": 1787049000.0
     },
     {
-      "id": "NPR--7580350548686841565",
+      "id": "NPR--2646348534312495152",
       "source": "NPR",
       "title": "In Portland, this soap box derby combines downhill speed with extreme pageantry",
       "excerpt": "Soap box derbies send motorless cars down a steep incline. At one event, contestants make their cars look like cartoon characters, subway cars, food, and giant animals (among other outlandish shapes).",
       "link": "https://www.npr.org/2026/08/18/nx-s1-5935518/portland-oregon-soap-box-derby-race-pdx",
-      "time": "Il y a 20h",
+      "time": "Il y a 21h",
       "pubDate": 1787045400.0
     },
     {
-      "id": "NPR--1765274431172488533",
+      "id": "NPR-1841866013464801398",
       "source": "NPR",
-      "title": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
-      "excerpt": "The GOP primary in Florida's 19th District includes candidates who are new to the state, candidates who've run for Congress before and two candidates who have received pardons from President Trump.",
-      "link": "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers",
+      "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
+      "excerpt": "A 29-year-old woman confided her suicidal thoughts to an AI chatbot — not to her therapist, not to her parents, not to her best friend. What can AI learn from her death?",
+      "link": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
       "time": "Il y a 21h",
       "pubDate": 1787043600.0
     },
     {
-      "id": "The Guardian--4569003390663069982",
+      "id": "The Guardian-1241657465460965113",
       "source": "The Guardian",
       "title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
       "excerpt": "At least 2,325 people have died from the virus, according to official data, with outbreak on track to be biggest in history The Ebola outbreak in the Democratic Republic of the Congo is now the deadli...",
@@ -471,7 +465,7 @@
       "pubDate": 1786975651.0
     },
     {
-      "id": "The Guardian--8672244566091263221",
+      "id": "The Guardian-5384676501629889331",
       "source": "The Guardian",
       "title": "Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way",
       "excerpt": "President, 80, vows to keep far-right from power as Flávio Bolsonaro tells supporters he will ‘fight this system’ Brazil’s leftwing president, Luiz Inácio Lula da Silva, has launched his campaign for...",
@@ -480,7 +474,7 @@
       "pubDate": 1786905881.0
     },
     {
-      "id": "The Guardian-3105884373179831169",
+      "id": "The Guardian--2572211443602623058",
       "source": "The Guardian",
       "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
       "excerpt": "Eighteen children among the people killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on...",
@@ -489,7 +483,7 @@
       "pubDate": 1786822747.0
     },
     {
-      "id": "The Guardian--7873795178010036107",
+      "id": "The Guardian--3283623307239557713",
       "source": "The Guardian",
       "title": "Moroccan police arrest more than 100 people attempting to enter Ceuta",
       "excerpt": "Border security tightened after social media posts call for another mass crossing into Spain’s north African territory Moroccan police have arrested 111 people as they tried to enter Spain’s north Afr...",
@@ -498,7 +492,7 @@
       "pubDate": 1786817301.0
     },
     {
-      "id": "The Guardian-3320747485492777725",
+      "id": "The Guardian-813239706444973604",
       "source": "The Guardian",
       "title": "Ontario free to axe Toronto bike lanes, region’s top court rules",
       "excerpt": "Win is significant for region’s premier, Doug Ford, who blames protected zones for city’s traffic ills The Ontario government is now free to rip out Toronto’s bike lanes on its busiest streets after t...",
@@ -507,7 +501,7 @@
       "pubDate": 1786741423.0
     },
     {
-      "id": "The Guardian--3958864205425332606",
+      "id": "The Guardian-2536641724110366961",
       "source": "The Guardian",
       "title": "Canadian plasma clinics pause collections after deaths of two donors",
       "excerpt": "Grifols, which runs private chain of clinics, to temporarily stop taking donations after new government investigation A chain of private plasma donation clinics in Canada has said it is pausing collec...",
@@ -516,7 +510,7 @@
       "pubDate": 1786724499.0
     },
     {
-      "id": "The Guardian--3448232107504357338",
+      "id": "The Guardian-3740708068175602309",
       "source": "The Guardian",
       "title": "American missionary kidnapped in Niger freed after nine months",
       "excerpt": "Kevin Rideout, who was abducted by unknown assailants in Niamey, said to be in good health and in care of US officials An American missionary who was kidnapped in Niger in October has been released, h...",
@@ -525,7 +519,7 @@
       "pubDate": 1786719317.0
     },
     {
-      "id": "The Guardian-1246343451154893659",
+      "id": "The Guardian-720483583161715585",
       "source": "The Guardian",
       "title": "BP to develop offshore gasfield in Venezuela with firms linked to Trump administration",
       "excerpt": "Move will be one of first large-scale foreign investments in country since US ousted leader Nicolás Maduro in January BP has answered Donald Trump’s call for oil companies to help rebuild Venezuela’s...",
@@ -534,7 +528,7 @@
       "pubDate": 1786716289.0
     },
     {
-      "id": "The Guardian--1091651652463629249",
+      "id": "The Guardian-1762459008479346254",
       "source": "The Guardian",
       "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
       "excerpt": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth provin...",
@@ -543,5 +537,5 @@
       "pubDate": 1786634233.0
     }
   ],
-  "lastUpdate": "2026-08-19T06:03:51.307921"
+  "lastUpdate": "2026-08-19T06:58:18.434071"
 }
