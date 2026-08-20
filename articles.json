@@ -1,67 +1,133 @@
 {
   "francophone": [
     {
-      "id": "Libération-3982295168874260873",
+      "id": "Libération-607113539689585045",
+      "source": "Libération",
+      "title": "Le chef d’orchestre Manfred Honeck, honnête et précis",
+      "excerpt": "Dirigeant le Pittsburgh Symphony Orchestra, l’Autrichien, visionnaire et profondément humain dans son art, entame mercredi 26 août une tournée européenne, de l’Italie à la Pologne, et jouera notamment...",
+      "link": "https://www.liberation.fr/culture/musique/le-chef-dorchestre-manfred-honeck-honnete-et-precis-20260820_36BRTNG3MNAPXORM4BBHL2YKGA/",
+      "time": "Il y a 7 min",
+      "pubDate": 1787233800.0
+    },
+    {
+      "id": "France Info-3463176082837420304",
+      "source": "France Info",
+      "title": "Corps calciné, deux hommes arrêtés, une arme retrouvée... Ce que l'on sait de la mort de l'influenceuse Sonia Bellina dans le Gard",
+      "excerpt": "Le corps de la jeune femme de 29 ans a été retrouvé mi-août à Saint-Gilles, un village situé à une vingtaine de kilomètres de Nîmes. Une enquête a été ouverte pour assassinat.",
+      "link": "https://www.franceinfo.fr/faits-divers/corps-calcine-deux-hommes-arretes-ce-que-l-on-sait-de-la-mort-de-l-influenceuse-sonia-bellina-dans-le-gard_8154482.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 14 min",
+      "pubDate": 1787233350.0
+    },
+    {
+      "id": "Libération--7885554287426795359",
+      "source": "Libération",
+      "title": "Annulée en juin en raison de la canicule, la Marche des Fiertés se tiendra le 3 octobre",
+      "excerpt": "Reportée sur demande de la préfecture de police, la marche qui se tient dans les rues de la capitale aura finalement lieu le samedi 3 octobre, ont fait savoir les organisateurs.",
+      "link": "https://www.liberation.fr/societe/sexualite-et-genres/annulee-en-juin-en-raison-de-la-canicule-la-marche-des-fiertes-se-tiendra-le-3-octobre-20260820_2H22T25F2ZHPZDXAIZN4LFHZMM/",
+      "time": "Il y a 25 min",
+      "pubDate": 1787232675.0
+    },
+    {
+      "id": "Libération-1506807816025355457",
+      "source": "Libération",
+      "title": "Changement climatique : les surfaces brûlées par les incendies vont augmenter en Europe, préviennent des chercheurs",
+      "excerpt": "Sur le Vieux Continent, la superficie calcinée devrait augmenter avec le réchauffement du climat, selon une étude publiée ce jeudi 20 août. Mais cette hausse dépendra du niveau de l’augmentation des t...",
+      "link": "https://www.liberation.fr/environnement/changement-climatique-les-surfaces-brulees-par-les-incendies-vont-augmenter-en-europe-previennent-des-chercheurs-20260820_DQD2MT2E7ZAZHA6GJHLEBSREBE/",
+      "time": "Il y a 29 min",
+      "pubDate": 1787232454.0
+    },
+    {
+      "id": "France Info-5656268496149444703",
+      "source": "France Info",
+      "title": "Le maire d'Arcachon, Yves Foulon, condamné à 5 000 euros d'amende pour menaces et violences envers son principal opposant",
+      "excerpt": "L'édile a également été condamné à une amende de 30 euros pour injures, et à verser 2 500 euros à Vital Baude pour le préjudice subi.",
+      "link": "https://www.franceinfo.fr/societe/justice/le-maire-d-arcachon-yves-foulon-condamne-a-5-000-euros-d-amende-pour-menaces-et-violences-envers-son-principal-opposant_8154986.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 34 min",
+      "pubDate": 1787232135.0
+    },
+    {
+      "id": "Libération-5702350494177259728",
+      "source": "Libération",
+      "title": "Envers mon endroit (8/8) – La digue de Wimereux, par Ivan Jablonka : Opale en couleurs",
+      "excerpt": "Méconnue, voire méprisée, la promenade du Pas-de-Calais est un lieu propice à la rêverie et à la mixité sociale, loue l’historien et écrivain.",
+      "link": "https://www.liberation.fr/portraits/envers-mon-endroit-88-la-digue-de-wimereux-par-ivan-jablonka-opale-en-couleurs-20260820_TMTYN4OEMNFDNND23QIBLXJBQE/",
+      "time": "Il y a 50 min",
+      "pubDate": 1787231220.0
+    },
+    {
+      "id": "France Info--7148267902703682825",
+      "source": "France Info",
+      "title": "Affaire Le Scouarnec : un collectif de victimes redoute \"une posture politique\" de Gérald Darmanin lors d'une rencontre en Bretagne vendredi",
+      "excerpt": "L'ancien chirurgien, déjà condamné pour près de 300 viols et agressions sexuelles, est à nouveau visé par une information judiciaire concernant 10 viols et 40 agressions sexuelles.",
+      "link": "https://www.franceinfo.fr/faits-divers/affaire-le-scouarnec/affaire-le-scouarnec-un-collectif-de-victimes-redoute-une-posture-politique-de-gerald-darmanin-lors-d-une-rencontre-en-bretagne-vendredi_8154971.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 56 min",
+      "pubDate": 1787230827.0
+    },
+    {
+      "id": "Le Monde--565351528533370076",
+      "source": "Le Monde",
+      "title": "Défense : les exportations d’armes françaises encore à des sommets en 2025",
+      "excerpt": "Grâce notamment aux ventes de Rafale à l’Inde et de missiles, la France a exporté pour 21,2 milliards d’euros d’armements en 2025, soit autant qu’en 2024. Si elle reste le deuxième exportateur mondial...",
+      "link": "https://www.lemonde.fr/economie/article/2026/08/20/defense-les-exportations-d-armes-francaises-encore-a-des-sommets-en-2025_6750975_3234.html",
+      "time": "Il y a 57 min",
+      "pubDate": 1787230804.0
+    },
+    {
+      "id": "France Info--6449804045328955984",
+      "source": "France Info",
+      "title": "En Roumanie, un avion de chasse abat un drone maritime près d'un projet gazier en mer Noire",
+      "excerpt": "Le président roumain, Nicusor Dan, a \"fermement\" condamné sur X \"l'escalade de ces incidents irresponsables\", qu'il a imputés à la Russie.",
+      "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/un-avion-de-chasse-roumain-abat-un-drone-maritime-pres-d-un-projet-gazier-en-mer-noire_8154965.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 58 min",
+      "pubDate": 1787230715.0
+    },
+    {
+      "id": "Libération-5132549853268316642",
       "source": "Libération",
       "title": "«GTA VI» : des militaires américains auront droit à une «permission spéciale» pour pouvoir y jouer",
       "excerpt": "Les soldats d’un bataillon de l’Etat de Géorgie bénéficieront de quatre jours libres pour découvrir le jeu vidéo, dont la sortie très attendue est prévue le 19 novembre… à condition de rempiler pour p...",
       "link": "https://www.liberation.fr/international/amerique/gta-vi-des-militaires-americains-auront-droit-a-une-permission-speciale-pour-pouvoir-y-jouer-20260820_HFTCOGCTIVAKTLBBWIGJXVC3IE/",
-      "time": "Il y a 14 min",
+      "time": "Il y a 59 min",
       "pubDate": 1787230637.0
     },
     {
-      "id": "Le Monde--4207771516089580446",
+      "id": "Le Monde-6193097165744908681",
       "source": "Le Monde",
-      "title": "Des scientifiques découvrent l’étoile la plus rapide de notre galaxie",
-      "excerpt": "Baptisée S301, elle pourrait permettre d’ici une dizaine d’années de mesurer directement la rotation du trou noir et de tester la théorie de la relativité générale d’Einstein.",
-      "link": "https://www.lemonde.fr/sciences/article/2026/08/20/des-scientifiques-decouvrent-l-etoile-la-plus-rapide-de-notre-galaxie_6750973_1650684.html",
-      "time": "Il y a 18 min",
-      "pubDate": 1787230381.0
+      "title": "Cour des comptes : un rapport interne appelle à une « vigilance accrue » sur la liberté d’expression des magistrats de l’institution",
+      "excerpt": "Missionné par Amélie de Montchalin, l’ancien premier président de la Cour des comptes Didier Migaud a remis début juillet son rapport consacré à l’indépendance des juridictions financières. Ses conclu...",
+      "link": "https://www.lemonde.fr/politique/article/2026/08/20/cour-des-comptes-un-rapport-interne-appelle-a-une-vigilance-accrue-sur-la-liberte-d-expression-des-magistrats-de-l-institution_6750972_823448.html",
+      "time": "Il y a 1h",
+      "pubDate": 1787229976.0
     },
     {
-      "id": "Libération-1420210992784082723",
+      "id": "Libération--8905031784124536086",
       "source": "Libération",
       "title": "Casque obligatoire à vélo : madame la ministre, ne nous prenez pas la tête !",
       "excerpt": "En l’état, les études sont contre-intuitives, mais formelles : rendre obligatoire cette mesure de protection dite de bon sens souhaitée par le corps médical, rend la pratique du vélo en ville plus dan...",
       "link": "https://www.liberation.fr/idees-et-debats/casque-obligatoire-a-velo-madame-la-ministre-ne-nous-prenez-pas-la-tete-20260820_ZJ3DOHQSPBBPVBWIEOCZH7HSUI/",
-      "time": "Il y a 28 min",
+      "time": "Il y a 1h",
       "pubDate": 1787229768.0
     },
     {
-      "id": "Le Monde-2485026751640438730",
+      "id": "Le Monde-4452775753905306578",
       "source": "Le Monde",
-      "title": "EN DIRECT, guerre en Ukraine : une journée de deuil prévue vendredi à Kiev après les attaques russes qui ont fait 16 morts dans la région",
-      "excerpt": "Après les attaques russes de la nuit, les autorités dénombrent plus de 40 blessés. « Environ 20 immeubles résidentiels, une école, un hôpital pour enfants et une crèche ont été gravement endommagés da...",
+      "title": "EN DIRECT, guerre en Ukraine : près de 40 000 personnes se sont réfugiées dans le métro de Kiev lors de l’attaque russe dans la nuit de mercredi à jeudi",
+      "excerpt": "Après les attaques russes de la nuit, les autorités dénombrent 16 morts et plus de 40 blessés. « Environ 20 immeubles résidentiels, une école, un hôpital pour enfants et une crèche ont été gravement e...",
       "link": "https://www.lemonde.fr/international/live/2026/08/20/en-direct-guerre-en-ukraine-une-journee-de-deuil-prevue-vendredi-a-kiev-apres-les-attaques-russes-qui-ont-fait-16-morts-dans-la-region_6746952_3210.html",
-      "time": "Il y a 46 min",
+      "time": "Il y a 1h",
       "pubDate": 1787228703.0
     },
     {
-      "id": "France Info-7876303921490527447",
-      "source": "France Info",
-      "title": "Les enseignants gagnaient en moyenne 3 090 euros en 2024, selon une étude du ministère de l'Education nationale",
-      "excerpt": "Parmi les enseignants, les professeurs agrégés et de chaire supérieure sont les mieux payés, avec 4 190 euros mensuels en moyenne.",
-      "link": "https://www.franceinfo.fr/societe/education/les-enseignants-gagnaient-en-moyenne-3-090-euros-en-2024-selon-une-etude-du-ministere-de-l-education-nationale_8154947.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 51 min",
-      "pubDate": 1787228388.0,
-      "sources": [
-        "France Info",
-        "Libération"
-      ],
-      "multiSource": true,
-      "sourceCount": 2
-    },
-    {
-      "id": "Le Monde--6778060781168446573",
+      "id": "Le Monde-1466822930526321329",
       "source": "Le Monde",
       "title": "Piratage du site des impôts : la cybersécurité de l’Etat est une affaire de volonté politique",
       "excerpt": "Au-delà des annonces de court terme du premier ministre, l’Etat ne pourra faire l’économie d’efforts supplémentaires pour améliorer sa protection. Longs, coûteux, ceux-ci vont nécessiter une solide vo...",
       "link": "https://www.lemonde.fr/pixels/article/2026/08/20/piratage-du-site-des-impots-la-cybersecurite-de-l-etat-est-une-affaire-de-volonte-politique_6750968_4408996.html",
       "time": "Il y a 1h",
-      "pubDate": 1787227806.0
+      "pubDate": 1787227802.0
     },
     {
-      "id": "France Info--6953862965390170829",
+      "id": "France Info--1799532892967872019",
       "source": "France Info",
       "title": "\"Ça commence par là, la démolition, le nettoyage…\" : au Porge, la sécurité civile aide les sinistrés à déblayer leur terrain avant la reconstruction",
       "excerpt": "Au Porge, en Gironde, où le mégafeu a détruit 183 maisons, le chantier de reconstruction est titanesque. Les sinistrés peuvent compter sur l'aide de la sécurité civile, notamment pour les opérations d...",
@@ -70,7 +136,7 @@
       "pubDate": 1787227728.0
     },
     {
-      "id": "Libération-5772203802773260234",
+      "id": "Libération--8414279366346716724",
       "source": "Libération",
       "title": "La proche de Lena Situations, Gisèle Journo, ciblée sur les réseaux : enquête ouverte pour cyberharcèlement et menace de mort",
       "excerpt": "Attaquée pour la republication de contenus pro armée israélienne sur TikTok, la directrice de l’agence Gisèle Paris, qui gère des créateurs de contenus, a subi une vague de haine antisémite sur Intern...",
@@ -79,30 +145,30 @@
       "pubDate": 1787227626.0
     },
     {
-      "id": "Le Monde-360544499781315904",
+      "id": "Le Monde-2361492992697438103",
       "source": "Le Monde",
       "title": "Ceuta : l’Espagne ouvre des centres d’hébergement pour 1 800 migrants face à l’urgence humanitaire",
       "excerpt": "Quelque 72 000 migrants avaient franchi la frontière lors d’un afflux sans précédent et meurtrier vers ce territoire espagnol en Afrique du Nord, les 30 et 31 juillet.",
       "link": "https://www.lemonde.fr/international/article/2026/08/20/ceuta-l-espagne-ouvre-des-centres-d-hebergement-pour-1-800-migrants-face-a-l-urgence-humanitaire_6750966_3210.html",
-      "time": "Il y a 1h",
-      "pubDate": 1787226909.0
+      "time": "Il y a 2h",
+      "pubDate": 1787226907.0
     },
     {
-      "id": "Le Monde-6979819215499343898",
+      "id": "Le Monde-1510819076457577936",
       "source": "Le Monde",
       "title": "Entre la Grèce et la Turquie, un projet de parcs marins accroît les tensions sur la délimitation de leurs eaux territoriales",
       "excerpt": "Après presque trois années de relative désescalade, une série d’initiatives turques, en mer Egée et en Méditerranée orientale, et des partenariats militaires grecs réveillent la discorde entre les deu...",
       "link": "https://www.lemonde.fr/international/article/2026/08/20/entre-la-grece-et-la-turquie-un-projet-de-parcs-marins-accroit-les-tensions-sur-la-delimitation-de-leurs-eaux-territoriales_6750963_3210.html",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1787226309.0
     },
     {
-      "id": "Le Monde--3208143774147354064",
+      "id": "Le Monde--4125884366471159368",
       "source": "Le Monde",
       "title": "En France, la vague de chaleur commencée à la fin de juillet devient la plus longue, ex aequo avec 1983",
       "excerpt": "En termes d’intensité – c’est-à-dire concernant le niveau de températures maximales atteint –, la vague de chaleur de la fin du mois de juin reste la plus forte jamais connue dans le pays.",
       "link": "https://www.lemonde.fr/planete/article/2026/08/20/la-vague-de-chaleur-commencee-a-la-fin-de-juillet-devient-la-plus-longue-ex-aequo-avec-1983_6750962_3244.html",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1787225785.0,
       "sources": [
         "Le Monde",
@@ -112,25 +178,25 @@
       "sourceCount": 2
     },
     {
-      "id": "Le Monde-4034375558606964700",
+      "id": "Le Monde--6049051576716080985",
       "source": "Le Monde",
       "title": "Plan Trump pour Gaza : Jared Kushner tente de sortir de l’impasse, mais sans obtenir de garanties en Israël",
       "excerpt": "L’émissaire américain a rencontré le Hamas et le premier ministre de l’Etat hébreu, Benyamin Nétanyahou, sans lever le principal point de blocage : les conditions d’un retrait israélien de l’enclave p...",
       "link": "https://www.lemonde.fr/international/article/2026/08/20/plan-trump-pour-gaza-jared-kushner-tente-de-sortir-de-l-impasse-mais-sans-obtenir-de-garanties-en-israel_6750928_3210.html",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1787224947.0
     },
     {
-      "id": "Libération--1552112306894714036",
+      "id": "Libération-2309475577733553515",
       "source": "Libération",
       "title": "Orages violents et risques d’inondations : plusieurs départements du Sud-Est en vigilance orange ce jeudi",
       "excerpt": "L’Ardèche, les Alpes-Maritimes, la Drôme l’Isère et le Var seront en alerte ce jeudi après-midi face aux fortes pluies et rafales de vent attendues. La Corse sera concernée vendredi.",
       "link": "https://www.liberation.fr/societe/orages-violents-et-risques-dinondations-plusieurs-departements-du-sud-est-en-vigilance-orange-ce-jeudi-20260820_NUAGREQW4VAUHHIEEORI6S2DPU/",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1787224889.0
     },
     {
-      "id": "Libération--393672141188163230",
+      "id": "Libération--208905102724166448",
       "source": "Libération",
       "title": "L’opérateur SFR victime d’une cyberattaque, des données personnelles de ses abonnés à la fibre dans la nature",
       "excerpt": "«L’adresse, l’e-mail ou le numéro de téléphone» de clients ont été récupérés par des pirates informatiques, a admis le groupe ce jeudi 20 août, sans préciser le nombre de victimes.",
@@ -139,61 +205,25 @@
       "pubDate": 1787223986.0
     },
     {
-      "id": "Libération-5901074874099014487",
+      "id": "Libération-2978908134825754651",
       "source": "Libération",
-      "title": "«Ce modèle est l’exemple à ne pas suivre» : Amnesty alerte sur les centres de rétention pour migrants délocalisés en Albanie par l’Italie",
-      "excerpt": "L’ONG publie ce jeudi 20 août un rapport sur les risques de traitements inhumains et de non-respect des droits dans les camps de Gjadër et Shëngjin, dans la foulée de l’accord de 2024 entre Rome et Ti...",
-      "link": "https://www.liberation.fr/international/europe/ce-modele-est-lexemple-a-ne-pas-suivre-amnesty-alerte-sur-les-centres-de-retention-pour-migrants-delocalises-en-albanie-par-litalie-20260820_YSKJGM7D4BDOFABLNDEYKYVGJ4/",
+      "title": "En moyenne, les enseignants gagnaient 3 090 euros en 2024, selon une étude du ministère de l’Education nationale",
+      "excerpt": "Cette hausse de 4,3% par rapport à 2023, est portée par l’augmentation de 1,5 % de la valeur du point d’indice de la fonction publique à compter de juillet 2023, et par l’attribution, début 2024, de c...",
+      "link": "https://www.liberation.fr/societe/education/en-moyenne-les-enseignants-gagnaient-3-090-euros-en-2024-selon-une-etude-du-ministere-de-leducation-nationale-20260820_LSN5OVUKHBGMRFSOK4MYSKYW4Q/",
       "time": "Il y a 2h",
-      "pubDate": 1787223589.0
+      "pubDate": 1787223957.0
     },
     {
-      "id": "Libération-5559530001707206172",
-      "source": "Libération",
-      "title": "Avec 23 jours consécutifs, la vague de chaleur en cours est la plus longue jamais enregistrée, ex æquo avec juillet 1983",
-      "excerpt": "L’été 2026, qui n’est même pas encore terminé, a aussi connu le plus grand nombre de jours passé sous vague de chaleur. La baisse franche des températures ce jeudi 20 août devrait mettre fin à la vagu...",
-      "link": "https://www.liberation.fr/environnement/climat/malgre-des-temperatures-en-baisse-il-va-falloir-attendre-jeudi-pour-sortir-de-la-vague-de-chaleur-commencee-le-28-juillet-20260818_G3B5VVZCJ5HVVIBPETJIZF43VI/",
-      "time": "Il y a 2h",
-      "pubDate": 1787223249.0
-    },
-    {
-      "id": "Libération--7827186911384304294",
-      "source": "Libération",
-      "title": "14 000 en Allemagne, près de 4 500 en Espagne... L’Europe compte ses morts dues aux chaleurs extrêmes",
-      "excerpt": "Avec des températures jusqu’à 41 degrés, la semaine du 22 au 28 juin a été particulièrement meurtrière.",
-      "link": "https://www.liberation.fr/international/europe/allemagne-14-000-deces-lies-a-la-chaleur-cet-ete-pire-que-le-record-de-2018-20260820_THJAHV2XVVBNLIOUGG7XM236UI/",
-      "time": "Il y a 2h",
-      "pubDate": 1787222926.0
-    },
-    {
-      "id": "France Info--6611152391689323114",
+      "id": "France Info--7533253942066852145",
       "source": "France Info",
       "title": "Orages : le préfet du Var appelle à \"éviter les déplacements\" et redoute des inondations",
       "excerpt": "Le Var, comme quatre autres départements, est placé en vigilance orange orages, avec \"des précipitations qui pourraient atteindre 50 mm en une heure\", prévient le préfet Simon Babre, jeudi sur francei...",
       "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/orages-le-prefet-du-var-appelle-a-eviter-les-deplacements-et-redoute-des-inondations_8154887.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1787222839.0
     },
     {
-      "id": "Libération-6231804417721467268",
-      "source": "Libération",
-      "title": "«GTA VI» : authenticité, IA, revendications… ce que l’on sait des fuites supposées du jeu vidéo",
-      "excerpt": "Le groupe Cyberleek publie des vidéos et des images présentées comme étant celle du jeu, dont la sortie prochaine est extrêmement attendue. Mais rien ne permet d’attester qu’elles sont vraies, et l’éd...",
-      "link": "https://www.liberation.fr/culture/jeux-video/gta-vi-authenticite-ia-revendications-ce-que-lon-sait-des-fuites-supposees-du-jeu-video-20260820_B4EMLPB4UBGLDC2Z5IYZP6Y6AM/",
-      "time": "Il y a 2h",
-      "pubDate": 1787221493.0
-    },
-    {
-      "id": "France Info-28258670927658201",
-      "source": "France Info",
-      "title": "Les surfaces brûlées en Europe risquent d'augmenter de 39 à 192% à cause du changement climatique, préviennent des chercheurs",
-      "excerpt": "Une étude est publiée alors que l'Europe est touchée par des feux dévastateurs depuis le début été, alimentés par la chaleur et la sécheresse.",
-      "link": "https://www.franceinfo.fr/faits-divers/incendie/les-surfaces-brulees-en-europe-pourraient-augmenter-de-39-a-192-a-cause-du-changement-climatique-previennent-des-chercheurs_8154806.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 3h",
-      "pubDate": 1787220250.0
-    },
-    {
-      "id": "France Info--6520507158270217767",
+      "id": "France Info--1416027595593521728",
       "source": "France Info",
       "title": "Le vaccin contre le cancer de la peau représente \"un réel espoir,\" souligne l’oncologue Suzette Delaloge",
       "excerpt": "Les laboratoires Moderna et Merck ont annoncé les premiers résultats d'un vaccin destiné à lutter contre les rechutes du cancer de la peau. S'il faut encore attendre les données consolidées, l’oncolog...",
@@ -202,34 +232,16 @@
       "pubDate": 1787220108.0
     },
     {
-      "id": "France Info--9095923055831984661",
-      "source": "France Info",
-      "title": "Corps calciné, deux hommes arrêtés... Ce que l'on sait de la mort de l'influenceuse Sonia Bellina dans le Gard",
-      "excerpt": "Le corps de la jeune femme de 29 ans a été retrouvé mi-août à Saint-Gilles, un village situé à une vingtaine de kilomètres de Nîmes. Une enquête a été ouverte pour assassinat.",
-      "link": "https://www.franceinfo.fr/faits-divers/corps-calcine-deux-hommes-arretes-ce-que-l-on-sait-de-la-mort-de-l-influenceuse-sonia-bellina-dans-le-gard_8154482.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 4h",
-      "pubDate": 1787215145.0
-    },
-    {
-      "id": "France Info-5607110547172536433",
-      "source": "France Info",
-      "title": "Ligue 1 : en raison de l'état de la pelouse du Parc des Princes, le match PSG-Stade Rennais est inversé et se jouera à Rennes dimanche",
-      "excerpt": "Quatre jours avant la rencontre, la commission des compétitions de la LFP a décidé d'inverser le match PSG-Rennes, prévu dimanche, qui se jouera donc en Bretagne.",
-      "link": "https://www.franceinfo.fr/sports/foot/ligue-1/ligue-1-en-raison-de-l-etat-de-la-pelouse-du-parc-des-princes-le-match-psg-stade-rennais-est-inverse-et-se-jouera-a-rennes-dimanche_8154575.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 5h",
-      "pubDate": 1787210752.0
-    },
-    {
-      "id": "Le Monde-5011132776625021038",
+      "id": "Le Monde-2391591543569601490",
       "source": "Le Monde",
       "title": "Le reflux en trompe-l’œil des moustiques-tigres sous l’effet de la chaleur et de la sécheresse",
       "excerpt": "Canicule et absence de pluie ont créé des conditions particulièrement défavorables aux moustiques-tigres. Mais un regain d’activité en septembre est à attendre avec la reprise des précipitations.",
       "link": "https://www.lemonde.fr/planete/article/2026/08/20/le-reflux-en-trompe-l-il-des-moustiques-tigres-sous-l-effet-de-la-chaleur-et-de-la-secheresse_6750545_3244.html",
-      "time": "Il y a 8h",
+      "time": "Il y a 9h",
       "pubDate": 1787200207.0
     },
     {
-      "id": "Le Monde--2117902880340195586",
+      "id": "Le Monde-8594949544970220180",
       "source": "Le Monde",
       "title": "Présidentielle 2027 : « Le vote utile qu’espère mobiliser Jean-Luc Mélenchon n’aura plus le même sens qu’en 2022 »",
       "excerpt": "Le candidat de La France insoumise entend s’installer en tête des sondages à gauche et, ce faisant, rallier les électeurs de son camp afin d’accéder au second tour, mais ceux-ci sont divisés sur sa pe...",
@@ -238,7 +250,7 @@
       "pubDate": 1787198403.0
     },
     {
-      "id": "France Info-3117770222589659704",
+      "id": "France Info-6027840202686698148",
       "source": "France Info",
       "title": "Attaques de drones, frappes sur les infrastructures énergétiques et civiles… Comment l'Ukraine tente de faire entrer la guerre dans le quotidien des Russes",
       "excerpt": "Kiev a lancé une vaste campagne de frappes de drones, fin juin. L'armée ukrainienne a récemment frappé de nombreux entrepôts du géant du e-commerce Wildberries, faisant rentrer la guerre dans la vie d...",
@@ -247,72 +259,63 @@
       "pubDate": 1787198363.0
     },
     {
-      "id": "France Info-256127898786177181",
+      "id": "France Info-5440305532468071143",
       "source": "France Info",
       "title": "Les prix des fruits et légumes n'ont-ils vraiment pas augmenté malgré la sécheresse, comme l'affirme la ministre de l'Agriculture ?",
       "excerpt": "Alors que la sécheresse et les fortes chaleurs mettent à mal les cultures, le gouvernement assure qu'aucune flambée généralisée des prix n'est observée et que la grande distribution s'adapte. Les donn...",
       "link": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-les-prix-des-fruits-et-legumes-n-ont-ils-vraiment-pas-augmente-malgre-la-secheresse-comme-l-affirme-la-ministre-de-l-agriculture_8152010.html#xtor=RSS-3-[lestitres]",
       "time": "Il y a 9h",
       "pubDate": 1787198276.0
-    },
-    {
-      "id": "Le Monde--826286420389541788",
-      "source": "Le Monde",
-      "title": "Les boissons énergisantes, carburant d’une jeunesse avide de performance : « Tester de nouveaux produits, même associés à la malbouffe, c’est une manière d’exister »",
-      "excerpt": "« Les jeunes à table » (4/6). Le marché de la boisson énergisante, qui vient grignoter celui des sodas, a quadruplé en dix ans, véritable totem pour la génération Z. Ce phénomène, derrière ses promess...",
-      "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/20/les-boissons-energisantes-carburant-d-une-jeunesse-avide-de-performance-tester-de-nouveaux-produits-meme-associes-a-la-malbouffe-c-est-une-maniere-d-exister_6750440_3451060.html",
-      "time": "Il y a 9h",
-      "pubDate": 1787196609.0
     }
   ],
   "anglophone": [
     {
-      "id": "BBC News-6616345433609655991",
-      "source": "BBC News",
-      "title": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
-      "excerpt": "Investigators believe they have identified an arsonist who attacked a Jewish community centre in Munich in 1970, killing seven people.",
-      "link": "https://www.bbc.co.uk/news/articles/c3r055g23qdo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 7 min",
-      "pubDate": 1787231055.0
-    },
-    {
-      "id": "BBC News-3608226193066533141",
-      "source": "BBC News",
-      "title": "Assad officer extradited to Syria on war crimes charges for first time",
-      "excerpt": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
-      "link": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 33 min",
-      "pubDate": 1787229515.0
-    },
-    {
-      "id": "NPR--5042705884782822640",
-      "source": "NPR",
-      "title": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns",
-      "excerpt": "The U.S. debt has surpassed $40 trillion. And, a new census report on noncitizen voting that President Trump is touting has ties to a think tank aligned with him, raising concerns among experts.",
-      "link": "https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims",
-      "time": "Il y a 1h",
-      "pubDate": 1787225418.0
-    },
-    {
-      "id": "BBC News-2312202918514024128",
+      "id": "BBC News--4974130042689733909",
       "source": "BBC News",
       "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
       "excerpt": "Blocks of flats and warehouses were targeted in the \"massive attack\" on Thursday, Ukrainian officials say.",
       "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
-      "pubDate": 1787224014.0
+      "time": "À l'instant",
+      "pubDate": 1787234185.0
     },
     {
-      "id": "BBC News-1592357042060854782",
+      "id": "BBC News-7936503999901957428",
+      "source": "BBC News",
+      "title": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
+      "excerpt": "Investigators believe they have identified an arsonist who attacked a Jewish community centre in Munich in 1970, killing seven people.",
+      "link": "https://www.bbc.co.uk/news/articles/c3r055g23qdo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 52 min",
+      "pubDate": 1787231055.0
+    },
+    {
+      "id": "BBC News-8896489498419891061",
+      "source": "BBC News",
+      "title": "Assad officer extradited to Syria on war crimes charges for first time",
+      "excerpt": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 1h",
+      "pubDate": 1787229515.0
+    },
+    {
+      "id": "NPR--6341877375562558275",
+      "source": "NPR",
+      "title": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns",
+      "excerpt": "The U.S. debt has surpassed $40 trillion. And, a new census report on noncitizen voting that President Trump is touting has ties to a think tank aligned with him, raising concerns among experts.",
+      "link": "https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims",
+      "time": "Il y a 2h",
+      "pubDate": 1787225418.0
+    },
+    {
+      "id": "BBC News--21048533210269760",
       "source": "BBC News",
       "title": "Belgian car salesman becomes prince after royal parentage confirmed",
       "excerpt": "Clément Vandenkerckhove was quietly brought into Prince Laurent's family at a town hall ceremony.",
       "link": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1787220887.0
     },
     {
-      "id": "BBC News--2543193424986974661",
+      "id": "BBC News--8540019430398448100",
       "source": "BBC News",
       "title": "Ex-Zambian minister killed in security raid on opposition",
       "excerpt": "Police confirm Mutotwe Kafwaya's death after growing demands for information about his whereabouts.",
@@ -321,34 +324,25 @@
       "pubDate": 1787220468.0
     },
     {
-      "id": "NPR--188221496686785785",
+      "id": "NPR-1735586162644177761",
       "source": "NPR",
       "title": "North Korea fires a suspected missile toward the sea, Japan says",
       "excerpt": "The suspected launch on Thursday comes a day after North Korea shrugged off a U.S. decision to scale back military drills with South Korea in an apparent bid to resume diplomacy.",
       "link": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1787217885.0
     },
     {
-      "id": "BBC News--3183417352019565643",
+      "id": "BBC News-4505915372833721264",
       "source": "BBC News",
       "title": "Trump vows tougher economic measures on Iran and supporting countries",
       "excerpt": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
       "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1787217198.0
     },
     {
-      "id": "NPR--6339322924635070160",
-      "source": "NPR",
-      "title": "Privacy advocates call on Maryland to investigate data brokers",
-      "excerpt": "Maryland has one of the strictest data privacy laws in the country. But privacy advocates allege data brokers are violating the law by selling data to police and federal immigration agencies.",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
-      "time": "Il y a 4h",
-      "pubDate": 1787216400.0
-    },
-    {
-      "id": "NPR-8787127698742724839",
+      "id": "NPR--5723732862319687571",
       "source": "NPR",
       "title": "The bond market is signaling trouble ahead. This is why you should pay attention",
       "excerpt": "Many people don't pay attention to bond markets, but they should — especially now. This is why they matter and why the drop in bond prices is signaling investor concerns about the U.S. economy.",
@@ -357,16 +351,16 @@
       "pubDate": 1787216400.0
     },
     {
-      "id": "NPR--805825689109340197",
+      "id": "NPR-1221608292701105424",
       "source": "NPR",
-      "title": "Here's how the system to report problems in ICE detention has failed immigrants",
-      "excerpt": "Critics say it is the reason why more detainees are risking their lives to protest inhumane conditions and legal rights violations, in the form of widespread hunger strikes.",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
+      "title": "Privacy advocates call on Maryland to investigate data brokers",
+      "excerpt": "Maryland has one of the strictest data privacy laws in the country. But privacy advocates allege data brokers are violating the law by selling data to police and federal immigration agencies.",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
       "time": "Il y a 4h",
       "pubDate": 1787216400.0
     },
     {
-      "id": "NPR-4371794821202907496",
+      "id": "NPR--3082460460594102569",
       "source": "NPR",
       "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
       "excerpt": "One of the most famous dishes across West Africa is jollof rice — fragrant rice cooked down with spices, tomatoes and meat. But which version is best? A traveling festival aims to find out.",
@@ -375,7 +369,16 @@
       "pubDate": 1787216400.0
     },
     {
-      "id": "NPR-5034474299032026286",
+      "id": "NPR-7599794394594392830",
+      "source": "NPR",
+      "title": "Here's how the system to report problems in ICE detention has failed immigrants",
+      "excerpt": "Critics say it is the reason why more detainees are risking their lives to protest inhumane conditions and legal rights violations, in the form of widespread hunger strikes.",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
+      "time": "Il y a 4h",
+      "pubDate": 1787216400.0
+    },
+    {
+      "id": "NPR--684973444609289458",
       "source": "NPR",
       "title": "They grew up with disability rights. Now, they're fighting to keep them",
       "excerpt": "Siblings Cody and Kaleigh Brendle have grown up with the right to community integration. Now, they worry those protections for people with disabilities like them are being eroded.",
@@ -384,43 +387,43 @@
       "pubDate": 1787216400.0
     },
     {
-      "id": "NPR-7211717237269005889",
+      "id": "NPR-1803088549909270059",
       "source": "NPR",
       "title": "Morning news brief",
       "excerpt": "Gulf countries react to protracted Iran war, U.S. debt tops $40 trillion, U.S. oil companies sign first deals with Venezuela.",
       "link": "https://www.npr.org/2026/08/20/nx-s1-5931261/morning-news-brief",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1787215949.0
     },
     {
-      "id": "NPR--1770043588191160632",
+      "id": "NPR-1791324380676210401",
       "source": "NPR",
       "title": "Tech billionaires push back against proposed wealth tax in California",
       "excerpt": "Tech billionaires in California are fighting a proposed one-time wealth tax. A Google co-founder is leading the charge against the tax, which would generate revenue for health-care services.",
       "link": "https://www.npr.org/2026/08/20/nx-s1-5935597/tech-billionaires-push-back-against-proposed-wealth-tax-in-california",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1787215547.0
     },
     {
-      "id": "BBC News--6759166372533774762",
+      "id": "BBC News-3311817760582863191",
       "source": "BBC News",
       "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
       "excerpt": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
       "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1787211191.0
     },
     {
-      "id": "NPR--4500855101539402086",
+      "id": "NPR-5186608581339178109",
       "source": "NPR",
       "title": "Chinese court sentences founder of property developer Evergrande to life in prison",
       "excerpt": "Chinese property developer Hui Ka Yan has been sentenced to life in prison. The decision marks a milestone in Evergrande's saga after it collapsed with more than $300 billion in liabilities.",
       "link": "https://www.npr.org/2026/08/20/nx-s1-5939335/chinese-sentence-founder-evergrande",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1787211115.0
     },
     {
-      "id": "BBC News--6621674800813113464",
+      "id": "BBC News-6576041474312292382",
       "source": "BBC News",
       "title": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
       "excerpt": "Prosecutors say Erin Patterson's sentence was \"manifestly inadequate\" as it allows for the possibility of parole.",
@@ -429,7 +432,7 @@
       "pubDate": 1787209715.0
     },
     {
-      "id": "BBC News-4291714260539943881",
+      "id": "BBC News-8440314248511950747",
       "source": "BBC News",
       "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
       "excerpt": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
@@ -438,7 +441,7 @@
       "pubDate": 1787206082.0
     },
     {
-      "id": "BBC News--1600486205872768084",
+      "id": "BBC News-3838992802285007066",
       "source": "BBC News",
       "title": "Giant whales move into Greenland waters as ice disappears",
       "excerpt": "Melting sea ice from climate change has opened up the region for giant whales to undertake \"feeding frenzies\".",
@@ -447,43 +450,43 @@
       "pubDate": 1787191520.0
     },
     {
-      "id": "The Guardian-7991955987769908786",
+      "id": "The Guardian-4453202345986972209",
       "source": "The Guardian",
       "title": "More than 100 dead after goldmine collapses in Central African Republic",
       "excerpt": "The collapse was caused by a landslide, while local officials say the death toll is likely to rise as recovery efforts continue More than 100 people have died after an artisanal goldmine at a small vi...",
       "link": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
-      "time": "Il y a 12h",
+      "time": "Il y a 13h",
       "pubDate": 1787184857.0
     },
     {
-      "id": "The Guardian--7932291317530810156",
+      "id": "The Guardian-6957733012178783106",
       "source": "The Guardian",
       "title": "Five Americans among seven killed in safari helicopter crash in Kenya",
       "excerpt": "Officials say all seven people onboard killed, including Telemundo executive and Ecuador intelligence chief Seven people, including five Americans, were killed when a safari helicopter crashed on Wedn...",
       "link": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
-      "time": "Il y a 16h",
+      "time": "Il y a 17h",
       "pubDate": 1787170659.0
     },
     {
-      "id": "The Guardian-5751111924031402212",
+      "id": "The Guardian-7631742752525642634",
       "source": "The Guardian",
       "title": "Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn",
       "excerpt": "Madrid government changes stance after previously saying anyone who entered territory illegally would be sent back <ul><li><a href=\"https://www.theguardian.com/world/live/2026/aug/19/europe-ukraine-ze...",
       "link": "https://www.theguardian.com/world/2026/aug/19/spain-allows-500-migrant-minors-in-ceuta-to-relocate-to-the-mainland-in-u-turn",
-      "time": "Il y a 22h",
+      "time": "Il y a 23h",
       "pubDate": 1787150004.0
     },
     {
-      "id": "The Guardian--8442531532971808616",
+      "id": "The Guardian--6079772851645471872",
       "source": "The Guardian",
       "title": "Adviser to far-right Latin American leaders arrested for allegedly plotting to kill girlfriend",
       "excerpt": "Fernando Cerimedo, 42, arrested on suspicion of ordering shooting of Bolivian lawyer Nadia Beller A senior adviser to many of Latin America’s new wave of far-right leaders has been arrested for allege...",
       "link": "https://www.theguardian.com/world/2026/aug/19/fernando-cerimedo-adviser-far-right-latin-american-leaders-arrested-allegedly-plotting-kill-girlfriend",
-      "time": "Il y a 23h",
+      "time": "Il y a 1j",
       "pubDate": 1787147097.0
     },
     {
-      "id": "The Guardian--6205176567350233238",
+      "id": "The Guardian-2901634697172999638",
       "source": "The Guardian",
       "title": "Activist forced out of US after criticising Trump-aligned Colombian politician",
       "excerpt": "Beto Coral held up banners in Florida warning fellow Colombians to not vote for Abelardo de la Espriella In the week before Colombia’s presidential election, Beto Coral, a well-known activist living i...",
@@ -492,7 +495,7 @@
       "pubDate": 1787130012.0
     },
     {
-      "id": "The Guardian--6349378170736377871",
+      "id": "The Guardian--7113982606952176451",
       "source": "The Guardian",
       "title": "Trump pauses Canada tariffs threat, and hints at revival of Keystone XL pipeline",
       "excerpt": "US president delays 50% tariffs by three days, and says contentious oil project ‘may be awoken from the grave’ Canada has temporarily avoided a bruising 50% US tariff, reaching a Tuesday-evening agree...",
@@ -501,7 +504,7 @@
       "pubDate": 1787111232.0
     },
     {
-      "id": "The Guardian--4066586153296943037",
+      "id": "The Guardian-2948121331339604360",
       "source": "The Guardian",
       "title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
       "excerpt": "At least 2,325 people have died from the virus, according to official data, with outbreak on track to be biggest in history The Ebola outbreak in the Democratic Republic of the Congo is now the deadli...",
@@ -510,7 +513,7 @@
       "pubDate": 1786975651.0
     },
     {
-      "id": "The Guardian-6911100815256994142",
+      "id": "The Guardian-3080616361916386467",
       "source": "The Guardian",
       "title": "Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way",
       "excerpt": "President, 80, vows to keep far-right from power as Flávio Bolsonaro tells supporters he will ‘fight this system’ Brazil’s leftwing president, Luiz Inácio Lula da Silva, has launched his campaign for...",
@@ -519,7 +522,7 @@
       "pubDate": 1786905881.0
     },
     {
-      "id": "The Guardian-7906811185456562112",
+      "id": "The Guardian-7817976057782780846",
       "source": "The Guardian",
       "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
       "excerpt": "Eighteen children among the people killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on...",
@@ -528,7 +531,7 @@
       "pubDate": 1786822747.0
     },
     {
-      "id": "The Guardian-2207097801352121872",
+      "id": "The Guardian--3824092971323001085",
       "source": "The Guardian",
       "title": "Ontario free to axe Toronto bike lanes, region’s top court rules",
       "excerpt": "Win is significant for region’s premier, Doug Ford, who blames protected zones for city’s traffic ills The Ontario government is now free to rip out Toronto’s bike lanes on its busiest streets after t...",
@@ -537,5 +540,5 @@
       "pubDate": 1786741423.0
     }
   ],
-  "lastUpdate": "2026-08-20T13:11:49.227359"
+  "lastUpdate": "2026-08-20T13:57:07.444314"
 }
