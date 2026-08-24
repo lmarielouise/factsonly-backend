@@ -1,40 +1,95 @@
 {
   "francophone": [
     {
-      "id": "Le Monde--3991125510412714397",
-      "source": "Le Monde",
-      "title": "Orages : seize départements de la moitié sud du pays en vigilance orange lundi après-midi",
-      "excerpt": "« Un épisode pluvio-orageux actif et accompagné localement de phénomènes violents est attendu sur une large partie sud du pays lundi », a annoncé Météo-France.",
-      "link": "https://www.lemonde.fr/planete/article/2026/08/24/orages-seize-departements-de-la-moitie-sud-du-pays-en-vigilance-orange-lundi-apres-midi_6754437_3245.html",
-      "time": "Il y a 23 min",
-      "pubDate": 1787546580.0,
+      "id": "Libération-3491822157989716170",
+      "source": "Libération",
+      "title": "Coalition des volontaires en Ukraine, Raphaël Glucksmann candidat, le tennisman français Arthur Fils sacré à Cincinatti… L’actu de ce lundi 24 août au matin",
+      "excerpt": "La rédaction de «Libération» compile les principales infos de ce lundi matin.",
+      "link": "https://www.liberation.fr/international/europe/coalition-des-volontaires-en-ukraine-raphael-glucksmann-candidat-le-tennisman-francais-arthur-fils-sacre-a-cincinatti-lactu-de-ce-lundi-24-aout-au-matin-20260824_FRDJZJRUYJCT5DMB62B67P7INA/",
+      "time": "Il y a 8 min",
+      "pubDate": 1787549999.0
+    },
+    {
+      "id": "Libération--2379285172476721853",
+      "source": "Libération",
+      "title": "Coalition des volontaires : les soutiens européens de l’Ukraine réunis à Kyiv",
+      "excerpt": "Volodymyr Zelensky espère la fourniture d’équipement de défense antiaérienne pour abattre les missiles russes et une pression accrue sur Moscou.",
+      "link": "https://www.liberation.fr/international/europe/coalition-des-volontaires-les-soutiens-europeens-de-lukraine-reunis-a-kyiv-20260824_TCF6Z7OHXJACVEXRWLZG332QKE/",
+      "time": "Il y a 10 min",
+      "pubDate": 1787549868.0
+    },
+    {
+      "id": "France Info--4150492056494272613",
+      "source": "France Info",
+      "title": "Soutiens, sondages, programme… Sur quoi s'appuie la candidature de Raphaël Glucksmann, qui lance sa campagne pour la présidentielle 2027 ?",
+      "excerpt": "Le député européen a annoncé dimanche soir sa candidature à la primaire du Parti socialiste, et indirectement à l'élection présidentielle de 2027.",
+      "link": "https://www.franceinfo.fr/politique/raphael-glucksmann/soutiens-sondages-programme-sur-quoi-s-appuie-la-candidature-de-raphael-glucksmann-qui-lance-sa-campagne-pour-la-presidentielle-2027_8153303.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 16 min",
+      "pubDate": 1787549551.0
+    },
+    {
+      "id": "Libération--5872384677023328963",
+      "source": "Libération",
+      "title": "Incendie à Crans-Montana : Jacques Moretti en détention provisoire pour violences conjugales",
+      "excerpt": "Le propriétaire du bar Le Constellation, dont l’incendie a fait 41 morts et 115 blessés la nuit du 1ᵉʳ de l’an, a été interpellé mi-août au domicile du couple en Suisse.",
+      "link": "https://www.liberation.fr/societe/police-justice/incendie-a-crans-montana-jacques-moretti-en-detention-provisoire-pour-violences-conjugales-20260824_37DCTOYYCVEH3DQGIXF2355GGQ/",
+      "time": "Il y a 24 min",
+      "pubDate": 1787549050.0
+    },
+    {
+      "id": "Libération--2678558292140449796",
+      "source": "Libération",
+      "title": "Les sushis au saumon, un mets pas si japonais",
+      "excerpt": "Cette semaine, «Libé» évoque des plats dont l’histoire n’est pas forcément celle que l’on croit. Aujourd’hui, les sushis au saumon, qui n’auraient pas vu le jour sans une campagne marketing venue d’Os...",
+      "link": "https://www.liberation.fr/lifestyle/gastronomie/les-sushis-au-saumon-un-mets-pas-si-japonais-20260824_PBPWM4GT2RA7FIBNHTH23TTHHY/",
+      "time": "Il y a 33 min",
+      "pubDate": 1787548500.0
+    },
+    {
+      "id": "Libération-1774408492157891394",
+      "source": "Libération",
+      "title": "Orages : 16 départements en vigilance orange ce lundi",
+      "excerpt": "Des vents pouvant dépasser 100 km/h et de la grêle sont attendus du Sud-Ouest au Sud-Est et sur le Massif central.",
+      "link": "https://www.liberation.fr/environnement/climat/orages-16-departements-en-vigilance-orange-ce-lundi-20260824_QY4PGJPGUZDVXGDTVTV5WN73KU/",
+      "time": "Il y a 35 min",
+      "pubDate": 1787548400.0,
       "sources": [
+        "Libération",
         "Le Monde",
         "France Info"
       ],
       "multiSource": true,
-      "sourceCount": 2
+      "sourceCount": 3
     },
     {
-      "id": "Le Monde-6284414051155203105",
+      "id": "France Info-9131027892363983881",
+      "source": "France Info",
+      "title": "\"On a préféré se dire que la vie continuait\" : de rescapé du Bataclan à l'Ultra-Trail du Mont-Blanc, le défi de Pierre Cabon, paraplégique",
+      "excerpt": "Après avoir perdu l'usage de ses jambes lors de l'attentat du Bataclan, Pierre Cabon a décidé de participer à plusieurs grands événements sportifs, notamment une épreuve de l'UTMB.",
+      "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/on-a-prefere-se-dire-que-la-vie-continuait-de-rescape-du-bataclan-a-l-ultra-trail-du-mont-blanc-le-defi-de-pierre-cabon-paraplegique_8133002.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 49 min",
+      "pubDate": 1787547578.0
+    },
+    {
+      "id": "Le Monde--7621052942875832668",
       "source": "Le Monde",
-      "title": "EN DIRECT, guerre en Ukraine : les principaux soutiens européens de Kiev se réunissent lundi, sur fond d’intensification des frappes",
-      "excerpt": "Cette rencontre des Etats membres de la « coalition des volontaires », organisée le jour du 35e anniversaire de la proclamation de l’indépendance de l’Ukraine, sera coprésidée par le Royaume-Uni, la F...",
+      "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
+      "excerpt": "L’Ukraine accueille lundi une réunion de ses principaux soutiens européens, à qui elle réclame des équipements de défense antiaérienne qui lui font cruellement défaut et une pression accrue sur Moscou...",
       "link": "https://www.lemonde.fr/international/live/2026/08/24/en-direct-guerre-en-ukraine-les-principaux-soutiens-europeens-de-kiev-se-reunissent-lundi-sur-fond-d-intensification-des-frappes_6753793_3210.html",
-      "time": "Il y a 37 min",
-      "pubDate": 1787545764.0
+      "time": "Il y a 1h",
+      "pubDate": 1787545760.0
     },
     {
-      "id": "Libération-666840234463395038",
+      "id": "Libération-4839231132645210765",
       "source": "Libération",
       "title": "De Nicéphore Niépce aux télescopes spatiaux, Montpellier retrace les toutes premières fois de la photographie",
       "excerpt": "Didactique et riche en anecdotes, l’exposition du Pavillon populaire retrace deux cents ans d’inventions liées au médium. Jusqu’au 1er novembre.",
       "link": "https://www.liberation.fr/culture/photographie/de-nicephore-niepce-aux-telescopes-spatiaux-montpellier-retrace-les-toutes-premieres-fois-de-la-photographie-20260824_ZH26BO67ANDAHMP232Q7A6GN4I/",
-      "time": "Il y a 44 min",
+      "time": "Il y a 1h",
       "pubDate": 1787545320.0
     },
     {
-      "id": "France Info-1463544399625873796",
+      "id": "France Info--3755737679495196334",
       "source": "France Info",
       "title": "\"On se retrouve dedans sans forcément s'en rendre compte\" : les effets dévastateurs de l'addiction à la kétamine chez les jeunes inquiètent les spécialistes",
       "excerpt": "Longtemps consommée dans les seuls espaces festifs, notamment dans les soirées techno, la poudre blanche prend de l'ampleur dans la jeune génération, toutes classes sociales confondues, avec des consé...",
@@ -43,7 +98,7 @@
       "pubDate": 1787544126.0
     },
     {
-      "id": "France Info-1121607312901768417",
+      "id": "France Info--1556446945339821501",
       "source": "France Info",
       "title": "Guerre en Ukraine : quels sont les enjeux de la nouvelle réunion de la coalition des volontaires",
       "excerpt": "Dans un contexte d'intensification des frappes, les principaux soutiens de Kiev échangeront lundi à la mi-journée. Emmanuel Macron a déjà annoncé samedi l'envoi de nouveaux missiles intercepteurs pour...",
@@ -52,97 +107,88 @@
       "pubDate": 1787544072.0
     },
     {
-      "id": "Le Monde-4842452129703099511",
-      "source": "Le Monde",
-      "title": "« Kaamelott » : autour de la Table ronde, des clés pour comprendre… le management",
-      "excerpt": "Dans son ouvrage, Aurélie Dudézert, professeure en management, analyse la façon dont les héros de la série télévisée mènent l’action collective. Elle invite les manageurs à interroger leurs pratiques...",
-      "link": "https://www.lemonde.fr/emploi/article/2026/08/24/kaamelott-autour-de-la-table-ronde-des-cles-pour-comprendre-le-management_6754851_1698637.html",
-      "time": "Il y a 1h",
-      "pubDate": 1787544027.0
-    },
-    {
-      "id": "France Info-6884617744548160966",
-      "source": "France Info",
-      "title": "Le badminton français sur le toit du monde, les Bleus champions d'Europe de cécifoot et l'OM premier leader de Ligue 1... Le récap sport du week-end",
-      "excerpt": "Le week-end a été aussi marqué par les deux premières étapes de Vuelta, avec déjà un certain Tadej Pogacar aux commandes.",
-      "link": "https://www.franceinfo.fr/sports/le-badminton-francais-sur-le-toit-du-monde-les-bleus-champions-d-europe-de-cecifoot-et-l-om-premier-leader-de-ligue-1-le-recap-sport-du-week-end_8158721.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
-      "pubDate": 1787544001.0
-    },
-    {
-      "id": "France Info-7829767562559507706",
-      "source": "France Info",
-      "title": "Soutiens, sondages, programme… Sur quoi s'appuie la candidature de Raphaël Glucksmann, qui lance sa campagne pour la présidentielle 2027 ?",
-      "excerpt": "Le député européen a annoncé dimanche soir sa candidature à la primaire du Parti socialiste, et indirectement à l'élection présidentielle de 2027.",
-      "link": "https://www.franceinfo.fr/politique/raphael-glucksmann/soutiens-sondages-programme-sur-quoi-s-appuie-la-candidature-de-raphael-glucksmann-qui-lance-sa-campagne-pour-la-presidentielle-2027_8153303.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
-      "pubDate": 1787543969.0
-    },
-    {
-      "id": "Le Monde-6474751917163490558",
+      "id": "Le Monde-8602361069705241153",
       "source": "Le Monde",
       "title": "Présidentielle 2027 : la bataille des gauches est lancée",
       "excerpt": "Lors de l’université d’été de La France insoumise, où il a prononcé un discours très centré sur la planification écologique, Jean-Luc Mélenchon a multiplié les appels du pied pour attirer les Ecologis...",
       "link": "https://www.lemonde.fr/politique/article/2026/08/24/presidentielle-2027-la-bataille-des-gauches-irreconciliables-est-lancee_6754812_823448.html",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1787542234.0
     },
     {
-      "id": "Le Monde--602303825413428209",
-      "source": "Le Monde",
-      "title": "Avec Sonia Mabrouk, BFM-TV parie sur une figure des médias Bolloré pour reconquérir des parts de marché",
-      "excerpt": "Partie de CNews et d’Europe 1 au cours de l’hiver, la journaliste sera sur l’antenne cinq soirs par semaine, dans un créneau qui la verra affronter Christine Kelly et Pascal Praud sur CNews, et David...",
-      "link": "https://www.lemonde.fr/economie/article/2026/08/24/avec-sonia-mabrouk-bfm-tv-parie-sur-une-figure-des-medias-bollore-pour-reconquerir-des-parts-de-marche_6754777_3234.html",
-      "time": "Il y a 2h",
-      "pubDate": 1787540442.0
-    },
-    {
-      "id": "Le Monde--3207782833734476472",
+      "id": "Le Monde-7133741570218763733",
       "source": "Le Monde",
       "title": "Emmanuel Macron et le prince saoudien « MBS » ont clôturé l’Esports World Cup, à Paris",
       "excerpt": "Organisé au Grand Palais, à Paris, l’événement s’est achevé, dimanche, après sept semaines de compétitions de jeux vidéo. Véritable point d’orgue du « soft power » saoudien en la matière, il a rassemb...",
       "link": "https://www.lemonde.fr/pixels/article/2026/08/24/emmanuel-macron-et-le-prince-saoudien-mbs-ont-cloture-l-esports-world-cup-a-paris_6754776_4408996.html",
       "time": "Il y a 2h",
-      "pubDate": 1787540438.0
+      "pubDate": 1787540429.0
     },
     {
-      "id": "Le Monde--501347733932506855",
+      "id": "Le Monde-8870184013356714116",
       "source": "Le Monde",
-      "title": "La crédibilité de la Fed, l’institution financière la plus puissante au monde, est en jeu",
-      "excerpt": "La Réserve fédérale américaine traverse une période difficile : une inflation qui dépasse son objectif de 2 % depuis cinq ans, Donald Trump qui s’attaque à son indépendance, et un président, Kevin War...",
+      "title": "La crédibilité de la Réserve fédérale américaine, l’institution financière la plus puissante au monde, est en jeu",
+      "excerpt": "La Fed traverse une période difficile : une inflation qui dépasse son objectif de 2 % depuis cinq ans, Donald Trump qui s’attaque à son indépendance, et un président, Kevin Warsh, dont les débuts sont...",
       "link": "https://www.lemonde.fr/economie/article/2026/08/24/la-credibilite-de-la-fed-l-institution-financiere-la-plus-puissante-au-monde-est-en-jeu_6754774_3234.html",
       "time": "Il y a 2h",
-      "pubDate": 1787540424.0
+      "pubDate": 1787540418.0
     },
     {
-      "id": "Le Monde--2494726341826642830",
+      "id": "Le Monde-4430749881067146291",
       "source": "Le Monde",
-      "title": "Le géant de l’ultra-fast-fashion Shein confirme son entrée en Bourse à Hongkong en septembre",
-      "excerpt": "Fondée en Chine et désormais basée à Singapour, l’entreprise, régulièrement critiquée pour son modèle de production et de consommation, revendique 273 millions de clients dans le monde, dont 23 millio...",
-      "link": "https://www.lemonde.fr/economie/article/2026/08/24/le-geant-de-l-ultra-fast-fashion-shein-confirme-son-entree-en-bourse-a-hongkong-en-septembre_6754706_3234.html",
-      "time": "Il y a 3h",
-      "pubDate": 1787534971.0
+      "title": "Avec Sonia Mabrouk, BFM-TV parie sur une figure des médias Bolloré pour reconquérir des parts de marché",
+      "excerpt": "Partie de CNews et d’Europe 1, la journaliste sera sur l’antenne cinq soirs par semaine, dans un créneau qui la verra affronter Christine Kelly et Pascal Praud sur CNews, et David Pujadas et Darius Ro...",
+      "link": "https://www.lemonde.fr/economie/article/2026/08/24/avec-sonia-mabrouk-bfm-tv-parie-sur-une-figure-des-medias-bollore-pour-reconquerir-des-parts-de-marche_6754777_3234.html",
+      "time": "Il y a 2h",
+      "pubDate": 1787540418.0
     },
     {
-      "id": "France Info--5980873696601915552",
+      "id": "Le Monde--2931861179776957581",
+      "source": "Le Monde",
+      "title": "Des œufs moins nombreux et plus petits : le double effet de l’été caniculaire sur les élevages de poules pondeuses",
+      "excerpt": "Les épisodes de fortes chaleurs ont révélé les inégalités d’adaptation des élevages, alors que jusqu’à 2 % du cheptel est mort lors de la seule vague de juin. Au-delà de la surmortalité, la chaleur en...",
+      "link": "https://www.lemonde.fr/economie/article/2026/08/24/des-ufs-moins-nombreux-et-plus-petits-le-double-effet-de-l-ete-caniculaire-sur-les-elevages-de-poules-pondeuses_6754778_3234.html",
+      "time": "Il y a 2h",
+      "pubDate": 1787540418.0
+    },
+    {
+      "id": "Le Monde--2564764367891514376",
+      "source": "Le Monde",
+      "title": "Au Canada, le retour du front commun contre Donald Trump",
+      "excerpt": "En réponse à de nouveaux droits de douane américains, après l’échec des discussions commerciales avec les Etats-Unis, Ottawa choisit la riposte. Cette nouvelle escalade ravive l’unité nationale autour...",
+      "link": "https://www.lemonde.fr/international/article/2026/08/24/au-canada-le-retour-du-front-commun-contre-donald-trump_6754775_3210.html",
+      "time": "Il y a 2h",
+      "pubDate": 1787540407.0
+    },
+    {
+      "id": "Le Monde--8303222959314751053",
+      "source": "Le Monde",
+      "title": "Arthur Fils remporte le Masters 1000 de Cincinnati, la première victoire d’un Français dans cette catégorie du circuit ATP depuis 2014",
+      "excerpt": "Le tennisman francilien de 22 ans a battu l’Américain Frances Tiafoe (6-3, 1-6, 6-0), dimanche, en finale. Avant lui, seul Guy Forget avait réussi à inscrire son nom au palmarès de la compétition.",
+      "link": "https://www.lemonde.fr/sport/article/2026/08/24/arthur-fils-remporte-le-masters-1000-de-cincinnati-le-premier-sacre-d-un-francais-dans-cette-categorie-de-tournoi-depuis-2014_6754640_3242.html",
+      "time": "Il y a 7h",
+      "pubDate": 1787524303.0
+    },
+    {
+      "id": "France Info-3531291280351422112",
       "source": "France Info",
       "title": "Le PSG a souffert à Rennes mais arrache le match nul dans le choc de la première journée de Ligue 1",
       "excerpt": "Menés à la pause, les Parisiens ont pu compter sur leurs recrues de l'été pour revenir à la hauteur du Stade rennais dimanche.",
       "link": "https://www.franceinfo.fr/sports/foot/ligue-1/le-psg-a-souffert-a-rennes-mais-arrache-le-match-nul-dans-le-choc-de-la-premiere-journee-de-ligue-1_8158859.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 8h",
+      "time": "Il y a 9h",
       "pubDate": 1787517545.0
     },
     {
-      "id": "Libération-3469277215324678197",
+      "id": "Libération-6222707541976821291",
       "source": "Libération",
       "title": "Avec «Petites Musiques de jour», le retour à bas bruit réussi de Julien Baer",
       "excerpt": "Après dix-sept ans d’absence et des collaborations sur des disques et livres jeunesse, le musicien revient avec un album instrumental lumineux aux échos d’Ennio Morricone ou de François de Roubaix.",
       "link": "https://www.liberation.fr/culture/musique/avec-petites-musiques-de-jour-le-retour-a-bas-bruit-reussi-de-julien-baer-20260823_WUSPRSIJMNCNXKS7T6IVRD5PY4/",
-      "time": "Il y a 8h",
+      "time": "Il y a 9h",
       "pubDate": 1787516460.0
     },
     {
-      "id": "France Info--5269219081510639148",
+      "id": "France Info--7569693844560773028",
       "source": "France Info",
       "title": "Jacques Moretti, principal suspect dans l'incendie de Crans-Montana, placé en détention provisoire pour violences conjugales",
       "excerpt": "Le mari de Jessica Moretti a été interpellé dans la nuit du 11 au 12 août dernier, au domicile du couple dans le canton du Valais.",
@@ -151,153 +197,117 @@
       "pubDate": 1787515350.0
     },
     {
-      "id": "Libération-3552950631418555721",
+      "id": "Le Monde-3650086915686400062",
+      "source": "Le Monde",
+      "title": "Israël menace le Hamas si des lancements de « cerfs-volants, drones et ballons » se poursuivent depuis la bande de Gaza",
+      "excerpt": "« C’est la responsabilité de l’armée d’agir à temps », a déclaré de son côté Uri Epstein, un représentant des communautés qui vivent proches de la frontière avec Gaza, et dont beaucoup ont été attaqué...",
+      "link": "https://www.lemonde.fr/international/article/2026/08/23/israel-met-en-garde-le-hamas-apres-le-lancement-de-cerfs-volants-depuis-gaza_6754574_3210.html",
+      "time": "Il y a 9h",
+      "pubDate": 1787514745.0
+    },
+    {
+      "id": "Libération-8898909511576823700",
       "source": "Libération",
       "title": "Présidentielle : Raphaël Glucksmann est bel et bien candidat",
       "excerpt": "Trois mois après son premier passage au 20 heures de TF1, le député européen a confirmé, ce dimanche, qu’il se lançait dans la course à l’Elysée. Un chemin périlleux, avec, pour première étape, la pri...",
       "link": "https://www.liberation.fr/politique/elections/presidentielle-raphael-glucksmann-est-bel-et-bien-candidat-20260823_V7X7J7ANVJERPODYUI6LSLQOSI/",
-      "time": "Il y a 9h",
+      "time": "Il y a 10h",
       "pubDate": 1787512874.0
     },
     {
-      "id": "Libération--5503339283630290209",
+      "id": "Libération-6346155206451950749",
       "source": "Libération",
       "title": "Raphaël Glucksmann en campagne pour 2027 : ce n’est pas le tout d’être candidat",
       "excerpt": "Officiellement déclaré ce dimanche 23 août, le leader de Place publique, face à un Mélenchon préparé, a encore tout à construire, de ses soutiens à son programme, pour réussir sa course à la présidenc...",
       "link": "https://www.liberation.fr/idees-et-debats/editorial/raphael-glucksmann-en-campagne-pour-2027-ce-nest-pas-le-tout-detre-candidat-20260823_RIVXGSGFNZA3XHVH6JZVX2SHXM/",
-      "time": "Il y a 9h",
+      "time": "Il y a 10h",
       "pubDate": 1787512482.0
     },
     {
-      "id": "France Info-6252812101108263305",
+      "id": "France Info-8417629014478668611",
       "source": "France Info",
       "title": "La ministre déléguée à la Formation professionnelle appelle les entreprises à embaucher des apprentis",
       "excerpt": "Sabrina Roubache reconnaît une baisse des aides publiques aux entreprises qui embauchent des apprentis, mais \"il n'y aura pas de coupe supplémentaire\", promet-elle dans \"Le Parisien\".",
       "link": "https://www.franceinfo.fr/economie/entreprises/la-ministre-deleguee-a-la-formation-professionnelle-appelle-les-entreprises-a-embaucher-des-apprentis_8158805.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 10h",
+      "time": "Il y a 11h",
       "pubDate": 1787510879.0
     },
     {
-      "id": "Libération--3337255248650389089",
+      "id": "Libération--7542057050439183978",
       "source": "Libération",
       "title": "Entre Glucksmann et Mélenchon, l’avantage  reviendra au plus ambitieux sur l’écologie",
       "excerpt": "La canicule et les incendies exceptionnels de l’été ont replacé le réchauffement climatique au centre des préoccupations des Français. L’eurodéputé et l’insoumis en ont parfaitement conscience. Celui...",
       "link": "https://www.liberation.fr/politique/entre-glucksmann-et-melenchon-lavantage-reviendra-au-plus-ambitieux-sur-lecologie-20260823_HYEV3HZKLRC6TJTOR6OOQFCJDU/",
-      "time": "Il y a 10h",
+      "time": "Il y a 11h",
       "pubDate": 1787510603.0
     },
     {
-      "id": "Libération-4960600634494561729",
-      "source": "Libération",
-      "title": "Dans le Val-de-Marne, un homme soupçonné d’avoir tué sa mère placé en garde à vue",
-      "excerpt": "Les policiers ont découvert ce dimanche le corps d’une femme présentant une plaie à la gorge. Son fils a été interpellé et un couteau de cuisine trouvé dans sa chambre, selon le parquet de Créteil.",
-      "link": "https://www.liberation.fr/societe/police-justice/dans-le-val-de-marne-un-homme-soupconne-davoir-tue-sa-mere-place-en-garde-a-vue-20260823_35WQCR3CPFHWJNZICMV3NFROVE/",
-      "time": "Il y a 11h",
-      "pubDate": 1787508190.0
-    },
-    {
-      "id": "Libération-8110503536727624514",
-      "source": "Libération",
-      "title": "Les Bleus triomphent de l’Angleterre et sont sacrés champions d’Europe de cécifoot",
-      "excerpt": "L’équipe de France s’est imposée 1 but à 0 ce dimanche à Strasbourg, portée par un Frédéric Villeroux des grands jours. Un quatrième sacre européen, qui s’ajoute à une victoire aux Jeux paralympiques...",
-      "link": "https://www.liberation.fr/sports/football/les-bleus-triomphent-de-langleterre-et-sont-sacres-champions-deurope-de-cecifoot-20260823_ZRD35KDNWNC2LED2O7IVFQP3L4/",
-      "time": "Il y a 11h",
-      "pubDate": 1787507564.0
-    },
-    {
-      "id": "Libération--6849811783373930930",
-      "source": "Libération",
-      "title": "Ukraine : après un été politiquement agité, Zelensky tente de reprendre la main",
-      "excerpt": "Le président ukrainien profite des célébrations du 35e anniversaire de l’indépendance, ce lundi 24 août, pour retrouver un second souffle au niveau international et solder les dossiers de politique in...",
-      "link": "https://www.liberation.fr/international/europe/ukraine-apres-un-ete-politiquement-agite-zelensky-tente-de-reprendre-la-main-20260823_SLJJNSSLARDGRORZMEQVWLGOQE/",
-      "time": "Il y a 11h",
-      "pubDate": 1787507542.0
-    },
-    {
-      "id": "Libération-4640151881942314575",
-      "source": "Libération",
-      "title": "Ebola en RDC : cent jours d’une épidémie hors de contrôle",
-      "excerpt": "La 17e épidémie de cette fièvre hémorragique infectieuse se propage depuis la mi-mai dans l’est de la république démocratique du Congo à une vitesse sans précédent. Avec un taux de létalité de 50 %, e...",
-      "link": "https://www.liberation.fr/international/afrique/ebola-en-rdc-cent-jours-dune-epidemie-hors-de-controle-20260823_6G4WLXS5IREHDBIPT4CYJ7AKYI/",
-      "time": "Il y a 11h",
-      "pubDate": 1787506259.0
-    },
-    {
-      "id": "France Info--8470254393026024503",
+      "id": "France Info-1137912048026490548",
       "source": "France Info",
       "title": "Championne paralympique en titre, l'équipe de France de cécifoot conserve son titre de championne d'Europe à domicile en battant l'Angleterre",
       "excerpt": "Le capitaine des Bleus Frédéric Villeroux a ouvert le score dimanche, à Strasbourg. Les Tricolores comptent désormais quatre titres européens à leur palmarès.",
       "link": "https://www.franceinfo.fr/sports/championne-paralympique-en-titre-l-equipe-de-france-de-cecifoot-conserve-son-titre-de-championne-d-europe-a-domicile-en-battant-l-angleterre_8158736.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 11h",
+      "time": "Il y a 12h",
       "pubDate": 1787505998.0
     },
     {
-      "id": "France Info-694224636929305668",
+      "id": "France Info--8920874011497042818",
       "source": "France Info",
       "title": "On vous explique pourquoi la route maritime de l'Arctique intéresse de plus en plus la marine marchande pour relier l'Asie et l'Europe",
       "excerpt": "Une semaine après le départ d'un navire chinois, un porte-conteneurs sud-coréen a largué les amarres samedi. Avec le blocage du détroit d'Ormuz, les compagnies asiatiques testent la viabilité de cette...",
       "link": "https://www.franceinfo.fr/economie/commerce/on-vous-explique-pourquoi-la-route-maritime-de-l-arctique-interesse-de-plus-en-plus-la-marine-marchande-pour-relier-l-asie-et-l-europe_8158421.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 11h",
-      "pubDate": 1787505264.0
-    },
-    {
-      "id": "Libération--8265490502591673422",
-      "source": "Libération",
-      "title": "Des détecteurs de protoxyde d’azote pour la police municipale de Cannes : «C’est comme pour l’hydroxychloroquine, on va trop vite»",
-      "excerpt": "La ville vient d’équiper ses agents de tests pour les automobilistes qui consomment cette substance utilisée comme gaz hilarant. Le biologiste Guillaume Grzych alerte sur le manque de preuves scientif...",
-      "link": "https://www.liberation.fr/societe/sante/des-detecteurs-de-protoxyde-dazote-pour-la-police-municipale-de-cannes-cest-comme-pour-lhydroxychloroquine-on-va-trop-vite-20260823_UDA5VKTOMZDLDNVXXP7MBNNT6E/",
       "time": "Il y a 12h",
-      "pubDate": 1787504395.0
-    },
-    {
-      "id": "Le Monde--3912522753068494683",
-      "source": "Le Monde",
-      "title": "Ce qu’il faut retenir de l’actualité du week-end des 22 et 23 août",
-      "excerpt": "Vous n’avez pas suivi l’actualité ? Voici ce qu’il s’est passé pendant ces dernières quarante-huit heures.",
-      "link": "https://www.lemonde.fr/les-decodeurs/article/2026/08/23/ce-qu-il-faut-retenir-de-l-actualite-du-week-end-des-22-et-23-aout_6754436_4355770.html",
-      "time": "Il y a 13h",
-      "pubDate": 1787501018.0
-    },
-    {
-      "id": "Le Monde--4433638743376083808",
-      "source": "Le Monde",
-      "title": "« Une alimentation bio et plus végétale sera bonne à la fois pour l’environnement et pour la santé »",
-      "excerpt": "« Les entretiens de “Chaleur humaine” ». Pour la scientifique experte en nutrition Emmanuelle Kesse-Guyot, l’agriculture bio est un atout pour la transition écologique, à condition d’accepter de modif...",
-      "link": "https://www.lemonde.fr/planete/article/2026/08/23/une-alimentation-bio-et-plus-vegetale-sera-bonne-a-la-fois-pour-l-environnement-et-pour-la-sante_6753751_3244.html",
-      "time": "Il y a 1j",
-      "pubDate": 1787457631.0
+      "pubDate": 1787505264.0
     }
   ],
   "anglophone": [
     {
-      "id": "BBC News-290577442901227740",
+      "id": "BBC News--9173724623155267393",
       "source": "BBC News",
-      "title": "Nearly 3 million Teslas recalled in China over hidden door handles",
-      "excerpt": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
-      "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 5 min",
-      "pubDate": 1787547677.0
+      "title": "Australian shark attack victim grateful for 'second chance at life'",
+      "excerpt": "Leah Stewart was mauled by a shark in June, suffering multiple bites to her arms and legs.",
+      "link": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 16 min",
+      "pubDate": 1787549513.0
     },
     {
-      "id": "BBC News--7645879916898337527",
+      "id": "BBC News-6095174659308019658",
       "source": "BBC News",
-      "title": "Burnham visits Kyiv to reaffirm UK support for Ukraine",
+      "title": "Burnham to hand long-range missile blueprints to Zelensky as he visits Kyiv",
       "excerpt": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
       "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 6 min",
-      "pubDate": 1787547612.0
+      "time": "Il y a 31 min",
+      "pubDate": 1787548617.0
     },
     {
-      "id": "BBC News--5885285275063030322",
+      "id": "BBC News--6284556275797268061",
       "source": "BBC News",
       "title": "Shein aims for almost $27bn valuation in stock market debut",
       "excerpt": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
       "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 59 min",
-      "pubDate": 1787544414.0
+      "time": "Il y a 39 min",
+      "pubDate": 1787548162.0
     },
     {
-      "id": "BBC News--2026696941230614125",
+      "id": "BBC News--2113155426989290824",
+      "source": "BBC News",
+      "title": "Nearly three million Teslas recalled in China over hidden door handles",
+      "excerpt": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
+      "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 47 min",
+      "pubDate": 1787547677.0
+    },
+    {
+      "id": "BBC News-7058817940455343891",
+      "source": "BBC News",
+      "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
+      "excerpt": "Five years after the Taliban’s return, the BBC follows senior figures as the group reshapes the country.",
+      "link": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 48 min",
+      "pubDate": 1787547622.0
+    },
+    {
+      "id": "BBC News--7195914837713949511",
       "source": "BBC News",
       "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
       "excerpt": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment.",
@@ -306,88 +316,79 @@
       "pubDate": 1787543735.0
     },
     {
-      "id": "NPR-5487187067952248809",
+      "id": "NPR--3983030470830559296",
       "source": "NPR",
       "title": "Thousands forced to evacuate parts of Reno, Nevada, as new wildfire rages",
       "excerpt": "Officials say the fire, which has now burned more than 15,000 acres and is zero percent contained, was human caused. Nearly 90,000 people have been told to evacuate or prepare to leave.",
       "link": "https://www.npr.org/2026/08/23/g-s1-139729/thousands-forced-to-evacuate-parts-of-reno-nevada-as-new-wildfire-rages",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1787543224.0
     },
     {
-      "id": "BBC News--6157414576339746727",
-      "source": "BBC News",
-      "title": "Australian shark attack victim grateful for 'second chance at life'",
-      "excerpt": "Leah Stewart was mauled by a shark in June, suffering multiple bites to her arms and legs.",
-      "link": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 4h",
-      "pubDate": 1787531699.0
-    },
-    {
-      "id": "The Guardian--4163793334363867918",
+      "id": "The Guardian--417371573740207240",
       "source": "The Guardian",
       "title": "Landslide at waste mound in Guinea capital kills 30, government says",
       "excerpt": "Dump site in Conakry, which minister had just promised to move, collapsed after heavy rain in west African state A ⁠landslide at a huge waste dump in Guinea’s capital has killed 30 people, the governm...",
       "link": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1787523413.0
     },
     {
-      "id": "NPR--6836249850764013438",
+      "id": "NPR--5710657364888118506",
       "source": "NPR",
       "title": "Learning to live in a post-American world",
       "excerpt": "In a recent article for <em>Foregin Affairs</em>, Mark Leonard makes that argument that America's leading role in the world order is fading. He discusses his argument with NPR's Danielle Kurtzleben.",
       "link": "https://www.npr.org/2026/08/23/nx-s1-5939846/learning-to-live-in-a-post-american-world",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1787520083.0
     },
     {
-      "id": "The Guardian-4037862730750303141",
+      "id": "The Guardian--4491390726070615460",
       "source": "The Guardian",
       "title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
       "excerpt": "PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressors <ul><li><a href=\"https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-t...",
       "link": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
-      "time": "Il y a 9h",
+      "time": "Il y a 10h",
       "pubDate": 1787513579.0
     },
     {
-      "id": "BBC News-8851289849964189635",
+      "id": "BBC News-1302565579309819378",
       "source": "BBC News",
       "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
       "excerpt": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
       "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 9h",
+      "time": "Il y a 10h",
       "pubDate": 1787512290.0
     },
     {
-      "id": "BBC News--5169514773457545284",
+      "id": "BBC News--5854540051192922292",
       "source": "BBC News",
       "title": "Guinea rubbish landfill collapse kills 30",
       "excerpt": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
       "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 10h",
+      "time": "Il y a 11h",
       "pubDate": 1787509057.0
     },
     {
-      "id": "BBC News--5368146870849285918",
+      "id": "BBC News-5635893289612124039",
       "source": "BBC News",
       "title": "France links sharp rise in drownings to heatwaves",
       "excerpt": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
       "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 11h",
+      "time": "Il y a 12h",
       "pubDate": 1787506773.0
     },
     {
-      "id": "The Guardian--9039088062232886131",
+      "id": "The Guardian-2458739614229644900",
       "source": "The Guardian",
       "title": "The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile",
       "excerpt": "Breakdown shows Washington now prioritises its own interests over any semblance of shared economic ground <ul><li><a href=\"https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after...",
       "link": "https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis",
-      "time": "Il y a 11h",
+      "time": "Il y a 12h",
       "pubDate": 1787505886.0
     },
     {
-      "id": "NPR--3878920061447901026",
+      "id": "NPR-8792513373640316048",
       "source": "NPR",
       "title": "Thousands in northwest Indiana still without power nearly two weeks after storm",
       "excerpt": "A round of storms impacted the region on Aug. 11",
@@ -396,25 +397,16 @@
       "pubDate": 1787504137.0
     },
     {
-      "id": "NPR--7881580211943814348",
+      "id": "NPR-342360267454381980",
       "source": "NPR",
       "title": "Nonprofits are helping musicians pay for insurance in Austin, Texas, and beyond",
       "excerpt": "A nonprofit and a local public health agency are subsidizing marketplace health insurance for Austin musicians , even as rising healthcare costs make the program more expensive.",
       "link": "https://www.npr.org/2026/08/23/nx-s1-5901338/health-alliance-austin-musicians-texas-health-premiums-obamacare-marketplace-uninsured",
-      "time": "Il y a 12h",
+      "time": "Il y a 13h",
       "pubDate": 1787501730.0
     },
     {
-      "id": "BBC News-5103557019055014880",
-      "source": "BBC News",
-      "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
-      "excerpt": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
-      "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 16h",
-      "pubDate": 1787489803.0
-    },
-    {
-      "id": "BBC News--2070570121165461199",
+      "id": "BBC News-868134189328025144",
       "source": "BBC News",
       "title": "DR Congo and M23 rebels agree roadmap for peace talks",
       "excerpt": "Representatives met in Switzerland to work out next steps to resolve the conflict.",
@@ -423,7 +415,7 @@
       "pubDate": 1787489528.0
     },
     {
-      "id": "NPR--3130316151272364188",
+      "id": "NPR--3111911133068166730",
       "source": "NPR",
       "title": "Becerra, running for governor of California, faces a health insurance problem",
       "excerpt": "The nation's uninsured rate hit a historical low when Xavier Becerra was health secretary. Now he wants to be California's next governor as Trump's actions have driven people off health insurance.",
@@ -432,16 +424,16 @@
       "pubDate": 1787489409.0
     },
     {
-      "id": "NPR-3247835172730522180",
+      "id": "NPR--8032649032305855127",
       "source": "NPR",
       "title": "Tropical Storm Moke to cause more flooding as Hawaii recovers from Lala",
       "excerpt": "More than a foot of rain could fall across Big Island of Hawaii, according to NOAA.",
       "link": "https://www.npr.org/2026/08/23/nx-s1-5941769/tropical-storm-moke-hawaii",
-      "time": "Il y a 16h",
+      "time": "Il y a 17h",
       "pubDate": 1787489285.0
     },
     {
-      "id": "NPR--4768187465507579119",
+      "id": "NPR--5293459170832712493",
       "source": "NPR",
       "title": "Body cam shows federal agent was 'unjustified' in Memphis shooting, attorney says",
       "excerpt": "The family of Jonah Neal and their attorney were recently shown video from the day that Neal was shot by a federal agent while he experienced a mental health crisis.",
@@ -450,7 +442,7 @@
       "pubDate": 1787475600.0
     },
     {
-      "id": "NPR--604625103707769313",
+      "id": "NPR-3147590352110976158",
       "source": "NPR",
       "title": "Trump administration's 75-country visa ban was illegal, judge rules",
       "excerpt": "The U.S. stopped issuing visas for citizens of 75 countries because it said they were likely to need public assistance. A judge ruled the policy illegally discriminated on the basis of nationality.",
@@ -459,7 +451,7 @@
       "pubDate": 1787431999.0
     },
     {
-      "id": "The Guardian-2156352792663939793",
+      "id": "The Guardian--3982507318027666764",
       "source": "The Guardian",
       "title": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods",
       "excerpt": "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political  The US has imposed 50% tariffs on some goods from Canada, and Mark Carney, the c...",
@@ -468,7 +460,7 @@
       "pubDate": 1787407497.0
     },
     {
-      "id": "NPR-3233497656242196226",
+      "id": "NPR-986096625928987985",
       "source": "NPR",
       "title": "Opinion: Mr. Rogers keeps finding a new neighborhood",
       "excerpt": "MLB catcher Jake Rogers probably didn't know if he was coming or going the last several weeks: he's been a Detroit Tiger, a Baltimore Oriole, a Boston Red Sox, and now he's a Chicago White Sox.",
@@ -477,7 +469,7 @@
       "pubDate": 1787400000.0
     },
     {
-      "id": "NPR--3683934662198755488",
+      "id": "NPR-1676091366011095081",
       "source": "NPR",
       "title": "As Flock battles public scrutiny, other police surveillance companies see an opening",
       "excerpt": "Dozens of cities have canceled their contracts with Flock. Some are switching to other companies, but privacy experts say they're no better than Flock.",
@@ -486,7 +478,7 @@
       "pubDate": 1787399012.0
     },
     {
-      "id": "The Guardian-7283123541823061606",
+      "id": "The Guardian--3982171900410777443",
       "source": "The Guardian",
       "title": "JD Vance reportedly mocks Carney for trying to ‘out-tough’ Trump on trade",
       "excerpt": "Audio recording of US vice-president apparently made at New York fundraiser and shared with Canadian Press Leaked audio from a private event has reportedly captured the US vice-president, JD Vance, mo...",
@@ -495,7 +487,7 @@
       "pubDate": 1787325768.0
     },
     {
-      "id": "The Guardian--6711176225120487606",
+      "id": "The Guardian-1865714046519105057",
       "source": "The Guardian",
       "title": "Strangers in their own land: Mexicans deported from Trump’s America find refuge in ‘Little LA’",
       "excerpt": "With plentiful jobs and community support, one Mexico City neighbourhood has become a haven for those who have lived much of their lives in the US With its wide avenues lined with tall palm trees, its...",
@@ -504,7 +496,7 @@
       "pubDate": 1787306431.0
     },
     {
-      "id": "The Guardian--5240593383510807996",
+      "id": "The Guardian-3112021620294132173",
       "source": "The Guardian",
       "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
       "excerpt": "Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown  Twenty deportees from the United States arrived in Liberia on Thursday, as part of a new a...",
@@ -513,7 +505,7 @@
       "pubDate": 1787255879.0
     },
     {
-      "id": "The Guardian-3143302193015977706",
+      "id": "The Guardian--5056170645224561543",
       "source": "The Guardian",
       "title": "More than 100 dead after goldmine collapses in Central African Republic",
       "excerpt": "The collapse was caused by a landslide, while local officials say the death toll is likely to rise as recovery efforts continue More than 100 people have died after an artisanal goldmine at a small vi...",
@@ -522,7 +514,7 @@
       "pubDate": 1787184857.0
     },
     {
-      "id": "The Guardian--8438085545362054349",
+      "id": "The Guardian-4746019560398373070",
       "source": "The Guardian",
       "title": "Five Americans among seven killed in safari helicopter crash in Kenya",
       "excerpt": "Officials say all seven people onboard killed, including Telemundo executive and Ecuador intelligence chief Seven people, including five Americans, were killed when a safari helicopter crashed on Wedn...",
@@ -531,7 +523,7 @@
       "pubDate": 1787170659.0
     },
     {
-      "id": "The Guardian--1998399190154064545",
+      "id": "The Guardian--6281795486125502554",
       "source": "The Guardian",
       "title": "Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn",
       "excerpt": "Madrid government changes stance after previously saying anyone who entered territory illegally would be sent back The Spanish government has U-turned and said it will allow 500 migrant children in Ce...",
@@ -540,5 +532,5 @@
       "pubDate": 1787150004.0
     }
   ],
-  "lastUpdate": "2026-08-24T05:06:39.335552"
+  "lastUpdate": "2026-08-24T05:48:48.701581"
 }
