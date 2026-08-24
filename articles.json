@@ -1,75 +1,144 @@
 {
   "francophone": [
     {
-      "id": "Libération-4969630083677375759",
+      "id": "Le Monde--3024687552678283729",
+      "source": "Le Monde",
+      "title": "Présidentielle 2027 : L’Après saisit la main tendue de l’écologiste Marine Tondelier pour une union de la gauche",
+      "excerpt": "La secrétaire nationale des Ecologistes avait de nouveau appelé vendredi à des rencontres bilatérales avec les partis de gauche. Si le parti des ex-élus de La France insoumise a répondu favorablement,...",
+      "link": "https://www.lemonde.fr/politique/article/2026/08/24/presidentielle-2027-l-apres-saisit-la-main-tendue-de-l-ecologiste-marine-tondelier-pour-une-union-de-la-gauche_6755585_823448.html",
+      "time": "Il y a 12 min",
+      "pubDate": 1787589837.0
+    },
+    {
+      "id": "France Info-8919829439325746048",
+      "source": "France Info",
+      "title": "\"C'est une immense fierté\" : 40 personnes sédentaires participent à l'Ultra-Trail du Mont-Blanc pour une étude scientifique",
+      "excerpt": "Après six mois d'entraînement, 20 hommes et 20 femmes vont s'élancer, mardi, pour un trail de 15 kilomètres à l'UTMB. Une première étape avant une course bien plus longue en 2027, pour démontrer les b...",
+      "link": "https://www.franceinfo.fr/sports/ultra-trail/reportage-c-est-une-immense-fierte-40-personnes-sedentaires-participent-a-l-ultra-trail-du-mont-blanc-pour-une-etude-scientifique_8159369.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 23 min",
+      "pubDate": 1787589204.0
+    },
+    {
+      "id": "Le Monde-1568927305468039242",
+      "source": "Le Monde",
+      "title": "Comment les pirates de « GTA VI » tentent de tirer profit des vidéos volées du jeu",
+      "excerpt": "Un groupe nommé Cyberleek continue de diffuser des extraits-chocs du jeu vidéo de Rockstar Games, dont la sortie est prévue pour le 19 novembre. L’éditeur Take-Two Interactive a entamé des actions en...",
+      "link": "https://www.lemonde.fr/pixels/article/2026/08/24/comment-les-pirates-de-gta-vi-tentent-de-tirer-profit-des-videos-volees-du-jeu_6755583_4408996.html",
+      "time": "Il y a 26 min",
+      "pubDate": 1787589002.0
+    },
+    {
+      "id": "Libération-7484267035915331232",
+      "source": "Libération",
+      "title": "Concert de Patrick Bruel à Strasbourg : la maire Catherine Trautmann demande au Zénith sa déprogrammation",
+      "excerpt": "L’élue a affirmé ce lundi avoir «informé le gestionnaire de la salle de [sa] position» afin que le concert «ne puisse pas se tenir à Strasbourg». Avant elle, plusieurs maires s’étaient déjà opposés à...",
+      "link": "https://www.liberation.fr/societe/police-justice/concert-de-patrick-bruel-a-strasbourg-la-maire-catherine-trautmann-demande-au-zenith-sa-deprogrammation-20260824_HNKZEBG7L5FRLJYSNE7BRK4WZI/",
+      "time": "Il y a 26 min",
+      "pubDate": 1787588987.0
+    },
+    {
+      "id": "France Info-1822025036099576829",
+      "source": "France Info",
+      "title": "Visite du prince héritier saoudien : un lieutenant de la Garde royale saoudienne victime d'un vol avec arme à Paris",
+      "excerpt": "Un homme est en garde à vue, soupçonné d'avoir volé la montre d'un lieutenant de la Garde royale saoudienne, a appris lundi franceinfo, en marge de la visite du prince héritier d'Arabie saoudite en Fr...",
+      "link": "https://www.franceinfo.fr/politique/visite-du-prince-heritier-saoudien-un-lieutenant-de-la-garde-royale-saoudienne-victime-d-un-vol-avec-arme-a-paris_8159912.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 27 min",
+      "pubDate": 1787588975.0
+    },
+    {
+      "id": "France Info-3532878256112988858",
+      "source": "France Info",
+      "title": "Des soldats français visés par une procédure disciplinaire pour avoir posé avec un drapeau symbole des suprémacistes blancs",
+      "excerpt": "Le ministère des Armées déclare que les militaires concernés ont été identifiés, confirmant une information de Mediapart. Le site avait publié deux photos de militaires posant avec le drapeau de la Rh...",
+      "link": "https://www.franceinfo.fr/societe/armee-securite-defense/des-soldats-francais-vises-par-une-procedure-disciplinaire-pour-avoir-pose-avec-un-drapeau-symbole-des-supremacistes-blancs_8159900.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 29 min",
+      "pubDate": 1787588823.0,
+      "sources": [
+        "France Info",
+        "Libération"
+      ],
+      "multiSource": true,
+      "sourceCount": 2
+    },
+    {
+      "id": "Le Monde-6309605257407047980",
+      "source": "Le Monde",
+      "title": "Orages : dix-neuf départements de la moitié sud du pays en vigilance orange lundi",
+      "excerpt": "Météo-France qui prévoit de « puissantes rafales de vent, de 90 à 110 voire 120 km/h, très localement accompagnées de phénomènes tourbillonnaires », et « jusqu’à 130 km/h sur le côtier méditerranéen »...",
+      "link": "https://www.lemonde.fr/planete/article/2026/08/24/orages-dix-neuf-departements-de-la-moitie-sud-du-pays-en-vigilance-orange-lundi_6754437_3245.html",
+      "time": "Il y a 31 min",
+      "pubDate": 1787588692.0
+    },
+    {
+      "id": "Libération-1340138609956359391",
+      "source": "Libération",
+      "title": "Candidature de Raphaël Glucksmann, interdiction du portable au lycée, mort de Philippe Bouvard… L’actu de ce lundi 24 août",
+      "excerpt": "La rédaction de «Libération» récapitule les principales actualités de la journée du lundi 24 août.",
+      "link": "https://www.liberation.fr/international/europe/candidature-de-raphael-glucksmann-interdiction-du-portable-au-lycee-mort-de-philippe-bouvard-lactu-de-ce-lundi-24-aout-20260824_TE5FKYZK5VGZXEAH6OGKN5HG7U/",
+      "time": "Il y a 35 min",
+      "pubDate": 1787588452.0
+    },
+    {
+      "id": "Libération--154688471564624958",
       "source": "Libération",
       "title": "Inde : Tukaram Mundhe, le commissaire à la sécurité alimentaire qui mène une répression contre le manque d’hygiène",
       "excerpt": "Le fonctionnaire, en poste depuis mai 2026, a suspendu les permis d’exploitation de points de vente Domino’s, Pizza Hut, mais aussi de restaurants réputés. Son style offensif a conquis de nombreux Ind...",
       "link": "https://www.liberation.fr/international/asie-pacifique/inde-tukaram-mundhe-le-commissaire-a-la-securite-alimentaire-qui-mene-une-repression-contre-le-manque-dhygiene-20260824_AAG3MDCU4ZEIPKB7NB73UQEV6E/",
-      "time": "Il y a 7 min",
+      "time": "Il y a 46 min",
       "pubDate": 1787587786.0
     },
     {
-      "id": "Libération-9078167068248843620",
-      "source": "Libération",
-      "title": "Des soldats français ayant posé avec un drapeau symbole des suprémacistes blancs visés par une procédure disciplinaire",
-      "excerpt": "Le ministère des Armées a déclaré ce lundi 24 août avoir identifié les deux groupes de militaires concernés, photographiés alors qu’ils étaient munis d’un drapeau de la Rhodésie.",
-      "link": "https://www.liberation.fr/societe/police-justice/des-soldats-francais-ayant-pose-avec-un-drapeau-symbole-des-supremacistes-blancs-vises-par-une-procedure-disciplinaire-20260824_ALO2VRU4GBB4LCMUWU7RIO663U/",
-      "time": "Il y a 9 min",
-      "pubDate": 1787587686.0
-    },
-    {
-      "id": "Libération--1400114708035106421",
+      "id": "Libération--7987260448696616744",
       "source": "Libération",
       "title": "Sérophobie : deux hommes victimes de harcèlement et de menaces entament une grève de la faim pour interpeller l’Etat",
       "excerpt": "Motivée par les discriminations qu’ils ont subies ces dernières années, l’action de Christophe Paco et Nicolas Aragona a commencé ce lundi 24 août devant le tribunal de Reims. Venus avec une quantité...",
       "link": "https://www.liberation.fr/societe/police-justice/serophobie-deux-hommes-victimes-de-harcelement-et-de-menaces-entament-une-greve-de-la-faim-pour-interpeller-letat-20260824_23XJ2FTJ6VCVXLZHKGEBOGOINY/",
-      "time": "Il y a 20 min",
+      "time": "Il y a 1h",
       "pubDate": 1787586991.0
     },
     {
-      "id": "Libération-6875490495896937275",
+      "id": "Libération-9074571693522305089",
       "source": "Libération",
       "title": "«On paye les économies faites sur la sécurité» : une préparation de rentrée compliquée par la cyberattaque contre l’Education nationale",
       "excerpt": "Septembre approche, mais la tâche est rendue ardue par des cybercriminels pour les chefs d’établissement. Xavier Yvart, secrétaire académique du syndicat SNPDEN-Unsa, revient sur les enjeux soulevés p...",
       "link": "https://www.liberation.fr/societe/education/on-paye-les-economies-faites-sur-la-securite-une-preparation-de-rentree-compliquee-par-la-cyberattaque-contre-leducation-nationale-20260824_XWW3A7JLOBCHFNPD3WW3IDFIP4/",
-      "time": "Il y a 22 min",
+      "time": "Il y a 1h",
       "pubDate": 1787586875.0
     },
     {
-      "id": "Libération-5637760864258640922",
+      "id": "Libération--9186696008372953810",
       "source": "Libération",
       "title": "Bally Bagayoko visé par une enquête du Parquet national financier pour détournement de fonds publics",
       "excerpt": "Le maire insoumis de Saint-Denis, qui a fait l’objet d’une plainte déposée par l’association AC !! Anti-Corruption, est mis en cause pour le cumul présumé de ses anciennes fonctions d’élu et de cadre...",
       "link": "https://www.liberation.fr/politique/bally-bagayoko-vise-par-une-enquete-du-parquet-national-financier-pour-detournement-de-fonds-publics-20260824_Y57MGUQWWZC57APB5MMQ3LCAIY/",
-      "time": "Il y a 22 min",
+      "time": "Il y a 1h",
       "pubDate": 1787586857.0
     },
     {
-      "id": "Libération-4960482238202876696",
+      "id": "Libération--4984876337507011091",
       "source": "Libération",
       "title": "Orages : 20 départements en vigilance orange ce lundi, une étape de la Vuelta annulée et une tornade vers Carcassonne",
       "excerpt": "Des vents pouvant dépasser 100 km/h et de la grêle se sont abattus du Sud-Ouest au Sud-Est, en passant par le Massif central, ainsi que dans les deux départements corses.",
       "link": "https://www.liberation.fr/environnement/climat/orages-16-departements-en-vigilance-orange-ce-lundi-20260824_QY4PGJPGUZDVXGDTVTV5WN73KU/",
-      "time": "Il y a 23 min",
+      "time": "Il y a 1h",
       "pubDate": 1787586833.0
     },
     {
-      "id": "France Info--4391428851941823604",
+      "id": "France Info-4379436191805518656",
       "source": "France Info",
       "title": "La 3e étape de la Vuelta entre Gruissan et Font-Romeu annulée à cause d'un orage de grêle à une quinzaine de kilomètres de l'arrivée",
       "excerpt": "Les coureurs ont été contraints de se mettre à l'abri dans un hôtel, à cause de conditions météo dantesques.",
       "link": "https://www.franceinfo.fr/sports/cyclisme/vuelta/la-3e-etape-de-la-vuelta-entre-gruissan-et-font-romeu-annulee-a-cause-d-un-orage-de-grele-a-une-quinzaine-de-kilometres-de-l-arrivee_8159828.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 29 min",
+      "time": "Il y a 1h",
       "pubDate": 1787586490.0
     },
     {
-      "id": "France Info--4105359618072366581",
+      "id": "France Info-8760217592658338322",
       "source": "France Info",
       "title": "Le maire LFI de Saint-Denis, Bally Bagayoko, visé par une enquête pour détournement de fonds publics",
       "excerpt": "Le Parquet national financier a ouvert une enquête visant Bally Bagayoko, maire La France insoumise (LFI) de Saint-Denis, notamment pour détournement de fonds publics, après une plainte concernant le...",
       "link": "https://www.franceinfo.fr/politique/le-maire-lfi-de-saint-denis-bally-bagayoko-vise-par-une-enquete-pour-detournement-de-fonds-publics_8159837.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 30 min",
+      "time": "Il y a 1h",
       "pubDate": 1787586417.0,
       "sources": [
         "France Info",
@@ -79,34 +148,34 @@
       "sourceCount": 2
     },
     {
-      "id": "Le Monde-1384115912986851892",
+      "id": "Le Monde--3648253130278307287",
       "source": "Le Monde",
       "title": "Interdiction du téléphone portable au lycée : la mesure « pourra être effective dès la rentrée », assure le gouvernement",
       "excerpt": "Malgré une volonté de l’exécutif de voir la mesure appliquer au plus vite, des doutes existent sur sa mise en place : les établissements doivent modifier leur règlement intérieur, ce qui suppose de co...",
       "link": "https://www.lemonde.fr/societe/article/2026/08/24/interdiction-du-telephone-portable-au-lycee-la-mesure-pourra-etre-effective-des-la-rentree-assure-le-gouvernement_6755546_3224.html",
-      "time": "Il y a 34 min",
+      "time": "Il y a 1h",
       "pubDate": 1787586136.0
     },
     {
-      "id": "Libération-5447119329229922221",
+      "id": "Libération--645976697236419202",
       "source": "Libération",
       "title": "Après les feux, la Gironde frappée par une baisse drastique du tourisme",
       "excerpt": "En cette fin d’été, le secteur peine à se redresser dans le département ravagé par les incendies. Conséquence, notamment, de la perte d’une clientèle étrangère, qui a préféré changer de destination.",
       "link": "https://www.liberation.fr/economie/apres-les-feux-la-gironde-frappee-par-une-baisse-drastique-du-tourisme-20260824_UI7CKUL3L5AEBM6BHWRZN3MA6U/",
-      "time": "Il y a 55 min",
+      "time": "Il y a 1h",
       "pubDate": 1787584886.0
     },
     {
-      "id": "France Info--2904412388582067376",
+      "id": "France Info--8055315890245910937",
       "source": "France Info",
       "title": "Mort de Philippe Bouvard : l'imitateur Laurent Gerra rend hommage à un homme \"passionnant\"",
       "excerpt": "Laurent Gerra a rendu hommage lundi à Philippe Bouvard, se souvenant d'un homme \"brillantissime\", doté d'\"une culture démente\", mais aussi de sa \"bonne humeur\" et de sa \"joie de vivre\".",
       "link": "https://www.franceinfo.fr/economie/medias/direct-mort-de-philippe-bouvard-emmanuel-macron-salue-une-figure-libre-qui-a-accompagne-des-generations-de-francais_8159447.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 58 min",
+      "time": "Il y a 1h",
       "pubDate": 1787584706.0
     },
     {
-      "id": "Libération-1314086991702314749",
+      "id": "Libération--8105850918554223813",
       "source": "Libération",
       "title": "Sur Netflix, l’humoriste Rory Scovel fait son sot périlleux",
       "excerpt": "Dans son nouveau show, l’Américain fendille son armure de faux idiot, allant, avec une ambiguïté habile, jusqu’à la confession dramatique.",
@@ -115,106 +184,52 @@
       "pubDate": 1787584620.0
     },
     {
-      "id": "Libération--1005723225929854889",
-      "source": "Libération",
-      "title": "Fuite de données : une nouvelle mutuelle, Solimut, victime d’une cyberattaque",
-      "excerpt": "L’entreprise a confirmé avoir été victime d’un piratage ce lundi 24 août, six jours après la Mutuelle générale de prévoyance. Plus de 1,2 million d’assurés figureraient dans les données revendiquées p...",
-      "link": "https://www.liberation.fr/economie/fuite-de-donnees-une-nouvelle-mutuelle-solimut-victime-dune-cyberattaque-20260824_4NUN4IMCA5FQ7NGLCPLDIFAKFQ/",
-      "time": "Il y a 1h",
-      "pubDate": 1787584555.0
-    },
-    {
-      "id": "France Info-6572622233362921625",
-      "source": "France Info",
-      "title": "Plus petits, moins nombreux et risque de pénurie… Les effets de la sécheresse sur la production d'œufs",
-      "excerpt": "En juin, la baisse du cheptel liée notamment aux fortes chaleurs a représenté une perte de \"1,5 à 2% de la production\", selon la directrice du Comité national pour la promotion de l'œuf, lundi sur fra...",
-      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/plus-petits-moins-nombreux-et-risque-de-penurie-les-effets-de-la-secheresse-sur-la-production-d-ufs_8159588.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
-      "pubDate": 1787584333.0
-    },
-    {
-      "id": "Libération--326065553443600550",
-      "source": "Libération",
-      "title": "Avec une nouvelle plainte, Eva Ionesco poursuit son combat pour faire cesser la vente de clichés pédopornographiques issus de son enfance",
-      "excerpt": "La réalisatrice a engagé une seconde procédure pénale contre l’avocat Emmanuel Pierrat, exécuteur testamentaire de sa mère, la photographe Irina Ionesco, qui l’a immortalisée dénudée et dans des poses...",
-      "link": "https://www.liberation.fr/societe/police-justice/avec-une-nouvelle-plainte-eva-ionesco-poursuit-son-combat-pour-faire-cesser-la-vente-de-cliches-pedopornographiques-issus-de-son-enfance-20260824_THBXQRLTJJASXFSBIOEZACOAFQ/",
-      "time": "Il y a 1h",
-      "pubDate": 1787584200.0
-    },
-    {
-      "id": "Le Monde-4125246465051004037",
+      "id": "Le Monde--5069227479414053276",
       "source": "Le Monde",
-      "title": "Intelligence artificielle : les publicités arrivent sur ChatGPT en France",
-      "excerpt": "A partir du lundi 24 août, les annonceurs peuvent payer pour faire apparaître leur marque à côté des réponses de l’assistant IA d’OpenAI, qui veut diversifier ses revenus.",
-      "link": "https://www.lemonde.fr/economie/article/2026/08/24/intelligence-artificielle-les-publicites-arrivent-sur-chatgpt-en-france_6755543_3234.html",
+      "title": "En Savoie, des montagnes saturées d’activités pendant l’été : « On est content d’accueillir les vacanciers, mais on arrive à une limite, aussi »",
+      "excerpt": "Dans les départements de Savoie et de Haute-Savoie, les conflits d’usage se multiplient en juillet et en août. Certaines collectivités misent sur le dialogue et la régulation.",
+      "link": "https://www.lemonde.fr/planete/article/2026/08/24/en-savoie-des-montagnes-saturees-d-activites-pendant-l-ete-on-est-content-d-accueillir-les-vacanciers-mais-on-arrive-a-une-limite-aussi_6755510_3244.html",
       "time": "Il y a 1h",
-      "pubDate": 1787584119.0
+      "pubDate": 1787583608.0
     },
     {
-      "id": "France Info-4084802566399303509",
-      "source": "France Info",
-      "title": "Refus d'obtempérer dans l'Oise : le parquet requiert la mise en examen pour \"homicide routier\" d'un policier municipal après un accident mortel",
-      "excerpt": "Les policiers municipaux de Compiègne avaient suivi une voiture qui cherchait à éviter le contrôle routier, vendredi soir. Lors de la fuite, le véhicule a eu un accident et l'un des deux passagers est...",
-      "link": "https://www.franceinfo.fr/france/hauts-de-france/oise/refus-d-obtemperer-dans-l-oise-le-parquet-requiert-la-mise-en-examen-pour-homicide-routier-d-un-policier-municipal-apres-un-accident-mortel_8159786.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
-      "pubDate": 1787583908.0
-    },
-    {
-      "id": "France Info-7626211697016451090",
+      "id": "France Info-7925606495742133197",
       "source": "France Info",
       "title": "La vigilance orange aux orages étendue à la Corse, 20 départements concernés au total",
       "excerpt": "Des \"orages virulents\", d'abord attendus \"sur une large partie sud-ouest du pays\", gagneront ensuite le Massif central et le Sud-Est avant de toucher la Corse, prévient Météo-France.",
       "link": "https://www.franceinfo.fr/environnement/meteo/alertes-meteo-et-vigilances/la-vigilance-orange-aux-orages-etendue-a-la-corse-20-departements-concernes-au-total_8159726.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1787583126.0
     },
     {
-      "id": "Le Monde-6529025132359770559",
+      "id": "Le Monde--1940214592535212734",
       "source": "Le Monde",
       "title": "Donald Trump menace le Canada, en affirmant que les voitures qui y sont produites seront taxées à 50 % dès le 1ᵉʳ janvier 2027",
       "excerpt": "En pleines tensions commerciales avec son voisin d’Amérique du Nord, le président américain a mis de l’huile sur le feu, en menaçant l’industrie automobile. Cette surtaxe s’ajouterait à celles entrées...",
       "link": "https://www.lemonde.fr/economie/article/2026/08/24/donald-trump-menace-le-canada-en-affirmant-que-les-voitures-qui-y-sont-produites-seront-taxees-a-50-des-le-1-janvier-2027_6755508_3234.html",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1787583063.0
     },
     {
-      "id": "France Info-448686218901886566",
-      "source": "France Info",
-      "title": "Affaire Patrick Bruel : la maire de Strasbourg demande \"la mise en retrait\" du chanteur, qui doit se produire au Zénith",
-      "excerpt": "Dans un message posté sur Facebook, Catherine Trautmann estime que ce retrait est \"désormais nécessaire\", au regard \"du nombre de plaintes et de la gravité des faits dénoncés\". Le Zénith de Strasbourg...",
-      "link": "https://www.franceinfo.fr/culture/musique/patrick-bruel/affaire-de-violences-sexuelles/affaire-patrick-bruel-la-maire-de-strasbourg-demande-la-mise-en-retrait-du-chanteur-qui-doit-se-produire-en-novembre-au-zenith_8159744.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
-      "pubDate": 1787582802.0
-    },
-    {
-      "id": "France Info-3972735502433105445",
+      "id": "France Info--1261936040374432638",
       "source": "France Info",
       "title": "Le gouvernement prévoit de porter le plafond des franchises médicales à 140 euros par an, contre 100 actuellement, selon un projet de décret",
       "excerpt": "Le gouvernement, qui avait projeté de doubler à 200 euros le plafond des franchises médicales, va finalement le porter à 140 euros. Les assurés vont payer en moyenne 10 euros de plus par an, a indiqué...",
       "link": "https://www.franceinfo.fr/sante/le-plafond-des-franchises-medicales-finalement-fixe-a-140-euros-par-an-contre-100-euros-actuellement_8159756.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1787582581.0
     },
     {
-      "id": "Le Monde-4116693554170619490",
+      "id": "Le Monde--3542230118089999473",
       "source": "Le Monde",
       "title": "Le mégafeu en Gironde, énième révélateur de la vulnérabilité des réseaux télécoms",
       "excerpt": "L’incendie parti de Saumos n’a pas épargné les infrastructures Internet fixe et de téléphonie mobile. Ce sinistre hors norme pose une nouvelle fois la question de l’adaptation des réseaux aux catastro...",
       "link": "https://www.lemonde.fr/economie/article/2026/08/24/le-megafeu-en-gironde-enieme-revelateur-de-la-vulnerabilite-des-reseaux-telecoms_6755475_3234.html",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1787581811.0
     },
     {
-      "id": "Le Monde-7805234441455674343",
-      "source": "Le Monde",
-      "title": "Budget 2027 : le gouvernement prêt à reconduire une deuxième fois la taxe « exceptionnelle » sur les grandes entreprises",
-      "excerpt": "Prévue pour ne durer qu’un an en 2025, reconduite en 2026, cette contribution devrait figurer au prochain budget. Roland Lescure, ministre de l’économie et des finances, a même reconnu, lundi 24 août,...",
-      "link": "https://www.lemonde.fr/politique/article/2026/08/24/budget-2027-le-gouvernement-pret-a-reconduire-une-deuxieme-fois-la-taxe-exceptionnelle-sur-les-grandes-entreprises_6755474_823448.html",
-      "time": "Il y a 1h",
-      "pubDate": 1787581808.0
-    },
-    {
-      "id": "France Info-805544238189790403",
+      "id": "France Info--7221548609940501713",
       "source": "France Info",
       "title": "Guerre en Ukraine : pourquoi Kiev cherche à se fournir en systèmes antimissiles",
       "excerpt": "La Russie multiplie les tirs de missiles balistiques, des missiles particulièrement difficiles à détruire pour l'Ukraine, qui manque de défense anti-aérienne. La question qui doit être abordée, lundi,...",
@@ -223,16 +238,16 @@
       "pubDate": 1787580105.0
     },
     {
-      "id": "Le Monde--4195330306527838707",
+      "id": "Le Monde-6988971058650464857",
       "source": "Le Monde",
-      "title": "EN DIRECT, guerre en Ukraine : « La Russie tentera une escalade contre les pays européens afin de les dissuader d’aider l’Ukraine », a prévenu Emmanuel Macron lors de la réunion de la Coalition des volontaires",
+      "title": "EN DIRECT, guerre en Ukraine : « La Russie tentera une escalade contre les pays européens afin de les dissuader d’aider l’Ukraine », a prévenu Emmanuel Macron lors de la réunion de la coalition des volontaires",
       "excerpt": "« Il est clair que les pays de l’OTAN seront ciblés et que les provocations se multiplieront », a estimé lundi le président français, exhortant à « rester calme et continuer » d’aider Kiev.",
       "link": "https://www.lemonde.fr/international/live/2026/08/24/en-direct-guerre-en-ukraine-lors-de-sa-visite-a-kiev-le-president-du-conseil-europeen-antonio-costa-reaffirme-que-l-ue-est-prete-a-accueillir-l-ukraine-en-son-sein_6753793_3210.html",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1787577477.0
     },
     {
-      "id": "France Info--7027446932013516909",
+      "id": "France Info--7984929385142613125",
       "source": "France Info",
       "title": "Raphaël Glucksmann, Ségolène Royal... Qui sont (à ce stade) les candidats à la primaire socialiste pour la présidentielle 2027 ?",
       "excerpt": "Le cofondateur de Place publique a officialisé dimanche sa participation. Il n'est pas le seul sur la ligne de départ, tandis que d'autres, à gauche, ne souhaitent pas prendre part à ce scrutin.",
@@ -241,54 +256,45 @@
       "pubDate": 1787573368.0
     },
     {
-      "id": "Le Monde--8943690272206113527",
+      "id": "Le Monde--6339783448898717713",
       "source": "Le Monde",
       "title": "La GPA pour les étrangers aux Etats-Unis mise à mal par Donald Trump",
       "excerpt": "Un récent décret supprime le droit à la citoyenneté pour les enfants nés après une gestation pour autrui lorsque les parents d’intention sont étrangers. Dans le viseur de Washington, les Chinois, qui...",
       "link": "https://www.lemonde.fr/international/article/2026/08/24/la-gpa-pour-les-etrangers-aux-etats-unis-mise-a-mal-par-donald-trump_6754849_3210.html",
       "time": "Il y a 12h",
       "pubDate": 1787544012.0
-    },
-    {
-      "id": "Le Monde-4626291848408243784",
-      "source": "Le Monde",
-      "title": "Cannibalisme : en 1968, la Révolution culturelle chinoise dévore ses enfants",
-      "excerpt": "« Sept nuances de cannibalisme » (7/7). Meurtrière, la guerre civile encouragée par Mao Zedong a pris un tour glaçant dans une province frontalière du Vietnam, où l’« ennemi de classe » a littéralemen...",
-      "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/24/cannibalisme-en-1968-la-revolution-culturelle-chinoise-devore-ses-enfants_6754814_3451060.html",
-      "time": "Il y a 12h",
-      "pubDate": 1787543103.0
-    },
-    {
-      "id": "Le Monde-333780262494347434",
-      "source": "Le Monde",
-      "title": "Présidentielle 2027 : qui sont les 32 candidats déclarés ou probables ?",
-      "excerpt": "Une trentaine de candidats déclarés ou potentiels sont identifiables à ce stade. Mais leur chemin reste très long, en particulier si des primaires sont organisées pour départager les prétendants de ce...",
-      "link": "https://www.lemonde.fr/les-decodeurs/article/2026/07/02/presidentielle-2027-qui-sont-les-34-candidats-declares-et-probables_6680905_4355771.html",
-      "time": "02 Jul",
-      "pubDate": 1783005806.0
     }
   ],
   "anglophone": [
     {
-      "id": "BBC News--3488545125107442062",
+      "id": "The Guardian-4961670093843751181",
+      "source": "The Guardian",
+      "title": "Prince Harry quits board of wildlife charity after human rights abuses",
+      "excerpt": "Spokesperson for Duke of Sussex says he remains an ‘active and avid supporter’ of African Parks’ mission The Duke of Sussex has stepped down from the board of a major African wildlife charity that had...",
+      "link": "https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses",
+      "time": "Il y a 16 min",
+      "pubDate": 1787589637.0
+    },
+    {
+      "id": "BBC News-7082323720589621356",
       "source": "BBC News",
       "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
       "excerpt": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
       "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 22 min",
+      "time": "Il y a 1h",
       "pubDate": 1787586856.0
     },
     {
-      "id": "The Guardian-7507226632983088432",
+      "id": "The Guardian--2309846429413501156",
       "source": "The Guardian",
       "title": "Video shows hundreds held captive after Nigeria mosque kidnapping",
       "excerpt": "Gunmen ‌attacked worshippers in Dekara village on Friday taking women, children and older people An armed group has posted a video showing what ⁠residents said were about ⁠600 women, children and ​old...",
       "link": "https://www.theguardian.com/world/2026/aug/24/video-shows-hundreds-held-captive-after-nigeria-mosque-kidnapping",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1787581154.0
     },
     {
-      "id": "BBC News--3267620440412520787",
+      "id": "BBC News-4919524365803415979",
       "source": "BBC News",
       "title": "Access to Zambian courts prevented as election petition deadline looms",
       "excerpt": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.",
@@ -297,25 +303,25 @@
       "pubDate": 1787580137.0
     },
     {
-      "id": "BBC News--3587976330855983630",
+      "id": "BBC News-997505118754310562",
       "source": "BBC News",
       "title": "Israel warns of 'forceful' response to kites flown from Gaza",
       "excerpt": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
       "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1787579782.0
     },
     {
-      "id": "BBC News--7719819278215295747",
+      "id": "BBC News-3587568980899337",
       "source": "BBC News",
       "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
       "excerpt": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
       "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1787578507.0
     },
     {
-      "id": "BBC News--1703895912382686048",
+      "id": "BBC News--2360748901357942946",
       "source": "BBC News",
       "title": "Sonya Massey's killer Sean Grayson dies in US prison",
       "excerpt": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer.",
@@ -324,25 +330,25 @@
       "pubDate": 1787577250.0
     },
     {
-      "id": "NPR-1238084420258649991",
+      "id": "NPR-8786599128975114325",
       "source": "NPR",
-      "title": "Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran",
+      "title": "Treasury Secretary Scott Bessent is set to unveil new economic sanctions on Iran",
       "excerpt": "The Trump administration calls this \"economic D-Day\" on Iran. Iran vows to respond to fresh sanctions in a \"seismic manner.\"",
       "link": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1787574360.0
     },
     {
-      "id": "NPR--3271278165298761162",
+      "id": "NPR-4113296871901517931",
       "source": "NPR",
       "title": "U.S. to detail new economic pressures on Iran. And, Canada to impose tariffs on U.S.",
       "excerpt": "Today, Treasury Secretary Scott Bessent is set to announce details on new economic pressures on Iran. And, Canada has vowed to impose retaliatory tariffs against the U.S.",
       "link": "https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1787570864.0
     },
     {
-      "id": "BBC News--8763954084856097261",
+      "id": "BBC News-2598667223696867453",
       "source": "BBC News",
       "title": "Four arrested over suspected poisoning of elephants in Kenya",
       "excerpt": "An investigation is looking into whether the deaths were caused by pesticides sprayed on tomato crops.",
@@ -351,16 +357,16 @@
       "pubDate": 1787569707.0
     },
     {
-      "id": "BBC News-6283966938692435967",
+      "id": "BBC News--7308358683203233308",
       "source": "BBC News",
       "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
       "excerpt": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
       "link": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1787568022.0
     },
     {
-      "id": "The Guardian--3883062127170103864",
+      "id": "The Guardian--4032952171837172221",
       "source": "The Guardian",
       "title": "Children make up half of mpox cases in Guinea-Bissau as epidemic spreads",
       "excerpt": "West African country reports 46 suspected cases in outbreak declared in July, amid fears virus may be spreading undetected More than half of the mpox cases reported in Guinea-Bissau have been among ch...",
@@ -369,16 +375,16 @@
       "pubDate": 1787566294.0
     },
     {
-      "id": "NPR-2980136022096343533",
+      "id": "NPR-1595287219055919349",
       "source": "NPR",
       "title": "Washington, D.C.'s first IndyCar race packed the National Mall",
       "excerpt": "IndyCar drivers zoomed past some of the nation's most famous landmarks this weekend. They faced novel challenges on an unconventional route.",
       "link": "https://www.npr.org/2026/08/24/nx-s1-5939827/washington-d-c-s-first-indycar-race-packed-the-national-mall",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1787564173.0
     },
     {
-      "id": "NPR-4232664961366492398",
+      "id": "NPR--4579295019696477638",
       "source": "NPR",
       "title": "In candid interviews, National Guard members speak out about D.C. deployment",
       "excerpt": "As President Trump's deployment of the National Guard to Washington, D.C., enters its second year, three guard members who served many months on the mission share their reactions with NPR.",
@@ -387,52 +393,52 @@
       "pubDate": 1787562000.0
     },
     {
-      "id": "NPR--1989484093482836333",
+      "id": "NPR--1086214288280613052",
       "source": "NPR",
       "title": "Sean Grayson, former deputy convicted of killing Sonya Massey, dies in prison, lawyer says",
       "excerpt": "Sean Grayson, a former Illinois sheriff's deputy whose fatal shooting of Sonya Massey inside her home became a flashpoint over police use of force, died Sunday while serving a 20-year prison sentence.",
       "link": "https://www.npr.org/2026/08/24/g-s1-139734/sonya-massey-convicted-deputy",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1787561616.0
     },
     {
-      "id": "NPR-3126041146362037945",
+      "id": "NPR--3271551942813986900",
       "source": "NPR",
       "title": "Morning news brief",
       "excerpt": "Treasury secretary to detail new round of economic pressure on Iran, Iran warns of 'seismic' retaliation if U.S. follow through with economic threat, Canada vows to impose retaliatory tariffs on U.S.",
       "link": "https://www.npr.org/2026/08/24/nx-s1-5939834/morning-news-brief",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1787561165.0
     },
     {
-      "id": "NPR--2882462890635029763",
+      "id": "NPR-9009946290031278382",
       "source": "NPR",
       "title": "High-intensity sprints can trigger molecular changes in the bloodstream",
       "excerpt": "A new study finds that an all-out sprint may have unique benefits when it comes to the proteins and tiny molecules in your bloodstream.",
       "link": "https://www.npr.org/2026/08/23/nx-s1-5939943/high-intensity-hiit-heart-health-exercise",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1787561144.0
     },
     {
-      "id": "BBC News-5000430449500813347",
+      "id": "BBC News-3699637610035220126",
       "source": "BBC News",
       "title": "King of Norway's health has worsened, palace says",
       "excerpt": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection.",
       "link": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1787560315.0
     },
     {
-      "id": "BBC News--5936352485000938789",
+      "id": "BBC News-6757592732744963466",
       "source": "BBC News",
       "title": "China probes use of formaldehyde to keep cabbages fresh",
       "excerpt": "Using the carcinogen to preserve food is prohibited in China, the world's largest producer of cabbages.",
       "link": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 10h",
+      "time": "Il y a 11h",
       "pubDate": 1787550048.0
     },
     {
-      "id": "BBC News--5658020327870194726",
+      "id": "BBC News-7235768467514887948",
       "source": "BBC News",
       "title": "Nearly three million Teslas recalled in China over hidden door handles",
       "excerpt": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
@@ -441,16 +447,16 @@
       "pubDate": 1787547677.0
     },
     {
-      "id": "NPR-1773401444825530778",
+      "id": "NPR-1055833913049099819",
       "source": "NPR",
       "title": "Thousands forced to evacuate parts of Reno, Nevada, as new wildfire rages",
       "excerpt": "Officials say the fire, which has now burned more than 15,000 acres and is zero percent contained, was human caused. Nearly 90,000 people have been told to evacuate or prepare to leave.",
       "link": "https://www.npr.org/2026/08/23/g-s1-139729/thousands-forced-to-evacuate-parts-of-reno-nevada-as-new-wildfire-rages",
-      "time": "Il y a 12h",
+      "time": "Il y a 13h",
       "pubDate": 1787543224.0
     },
     {
-      "id": "The Guardian--4547347240482592661",
+      "id": "The Guardian--5391916176616696813",
       "source": "The Guardian",
       "title": "Landslide at waste mound in Guinea capital kills 30, government says",
       "excerpt": "Dump site in Conakry, which minister had just promised to move, collapsed after heavy rain in west African state A ⁠landslide at a huge waste dump in Guinea’s capital has killed 30 people, the governm...",
@@ -459,43 +465,43 @@
       "pubDate": 1787523413.0
     },
     {
-      "id": "NPR--2192215211420272075",
+      "id": "NPR--458060158238737431",
       "source": "NPR",
       "title": "Climate change is unearthing archaeological discoveries, while also threatening them",
       "excerpt": "NPR's Danielle Kurtzleben speaks with Jørgen Hollesen, a Senior Researcher at the National Museum of Denmark, about how climate change is impacting the study of archaeology.",
       "link": "https://www.npr.org/2026/08/23/nx-s1-5938809/climate-change-is-unearthing-new-archeological-discoveries-while-also-threating-them",
-      "time": "Il y a 18h",
+      "time": "Il y a 19h",
       "pubDate": 1787520185.0
     },
     {
-      "id": "NPR-1746703768179945428",
+      "id": "NPR-8488363788995970450",
       "source": "NPR",
       "title": "Learning to live in a post-American world",
       "excerpt": "In a recent article for <em>Foregin Affairs</em>, Mark Leonard makes that argument that America's leading role in the world order is fading. He discusses his argument with NPR's Danielle Kurtzleben.",
       "link": "https://www.npr.org/2026/08/23/nx-s1-5939846/learning-to-live-in-a-post-american-world",
-      "time": "Il y a 18h",
+      "time": "Il y a 19h",
       "pubDate": 1787520083.0
     },
     {
-      "id": "The Guardian--7685822751556598033",
+      "id": "The Guardian-9196161587084239312",
       "source": "The Guardian",
       "title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
       "excerpt": "PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressors <ul><li><a href=\"https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-t...",
       "link": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
-      "time": "Il y a 20h",
+      "time": "Il y a 21h",
       "pubDate": 1787513579.0
     },
     {
-      "id": "The Guardian--8635570916548305178",
+      "id": "The Guardian-259731338694560817",
       "source": "The Guardian",
       "title": "The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile",
       "excerpt": "Breakdown shows Washington now prioritises its own interests over any semblance of shared economic ground <ul><li><a href=\"https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after...",
       "link": "https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis",
-      "time": "Il y a 22h",
+      "time": "Il y a 23h",
       "pubDate": 1787505886.0
     },
     {
-      "id": "The Guardian-6998926191578359876",
+      "id": "The Guardian--7865925452416078306",
       "source": "The Guardian",
       "title": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods",
       "excerpt": "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political  The US has imposed 50% tariffs on some goods from Canada, and Mark Carney, the c...",
@@ -504,7 +510,7 @@
       "pubDate": 1787407497.0
     },
     {
-      "id": "The Guardian-6654744992855915756",
+      "id": "The Guardian-15832083758325876",
       "source": "The Guardian",
       "title": "JD Vance reportedly mocks Carney for trying to ‘out-tough’ Trump on trade",
       "excerpt": "Audio recording of US vice-president apparently made at New York fundraiser and shared with Canadian Press Leaked audio from a private event has reportedly captured the US vice-president, JD Vance, mo...",
@@ -513,7 +519,7 @@
       "pubDate": 1787325768.0
     },
     {
-      "id": "The Guardian--7811535642868746481",
+      "id": "The Guardian--894337964945605610",
       "source": "The Guardian",
       "title": "Strangers in their own land: Mexicans deported from Trump’s America find refuge in ‘Little LA’",
       "excerpt": "With plentiful jobs and community support, one Mexico City neighbourhood has become a haven for those who have lived much of their lives in the US With its wide avenues lined with tall palm trees, its...",
@@ -522,23 +528,14 @@
       "pubDate": 1787306431.0
     },
     {
-      "id": "The Guardian-4880452619059002664",
+      "id": "The Guardian--5640580096844368394",
       "source": "The Guardian",
       "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
       "excerpt": "Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown  Twenty deportees from the United States arrived in Liberia on Thursday, as part of a new a...",
       "link": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
       "time": "Il y a 3j",
       "pubDate": 1787255879.0
-    },
-    {
-      "id": "The Guardian--2019767555907369906",
-      "source": "The Guardian",
-      "title": "More than 100 dead after goldmine collapses in Central African Republic",
-      "excerpt": "The collapse was caused by a landslide, while local officials say the death toll is likely to rise as recovery efforts continue More than 100 people have died after an artisanal goldmine at a small vi...",
-      "link": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
-      "time": "Il y a 4j",
-      "pubDate": 1787184857.0
     }
   ],
-  "lastUpdate": "2026-08-24T16:17:15.986292"
+  "lastUpdate": "2026-08-24T16:56:45.741901"
 }
