@@ -1,12 +1,21 @@
 {
   "francophone": [
     {
-      "id": "France Info--9217213364220163971",
+      "id": "France Info--1840991587882760718",
+      "source": "France Info",
+      "title": "La tornade qui s'est abattue sur Pomas, dans l'Aude, a blessé 41 personnes, dont quinze ont été transportées à l'hôpital",
+      "excerpt": "Environ 300 habitations ont été \"impactées\", selon la préfecture, et des centres d'hébergement ont été ouverts.",
+      "link": "https://www.franceinfo.fr/environnement/meteo/direct-orages-le-trafic-aerien-est-perturbe-lundi-soir-dans-les-aeroports-de-paris-bordeaux-toulouse-marseille-et-nice_8160020.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 3 min",
+      "pubDate": 1787605892.0
+    },
+    {
+      "id": "France Info--179807229429959063",
       "source": "France Info",
       "title": "Les Etats-Unis retirent la Syrie de leur liste des pays accusés de soutenir le terrorisme",
       "excerpt": "Le nom du pays figurait depuis 47 ans sur le registre des \"Specially Designated Global Terrorist\". Il s'agit d'une nouvelle étape dans la levée progressive des sanctions américaines.",
       "link": "https://www.franceinfo.fr/monde/revolte-en-syrie/les-etats-unis-retirent-la-syrie-de-leur-liste-des-pays-accuses-de-soutenir-le-terrorisme_8160098.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 13 min",
+      "time": "Il y a 34 min",
       "pubDate": 1787604017.0,
       "sources": [
         "France Info",
@@ -16,52 +25,43 @@
       "sourceCount": 2
     },
     {
-      "id": "Le Monde--2186583512235153907",
+      "id": "Le Monde-594337515643647092",
       "source": "Le Monde",
       "title": "Dans l’Aude, 26 blessés après une tornade ; la commune de Pomas partiellement détruite",
       "excerpt": "Deux centres d’hébergement ont été ouverts aux victimes pour la nuit. Plus de 100 sapeurs-pompiers sont mobilisés et des renforts sont attendus.",
       "link": "https://www.lemonde.fr/planete/article/2026/08/24/une-tornade-frappe-l-aude-et-cause-26-blesses-une-centaine-d-habitations-touchees_6755657_3245.html",
-      "time": "Il y a 37 min",
+      "time": "Il y a 59 min",
       "pubDate": 1787602558.0
     },
     {
-      "id": "France Info--2451311656654759322",
+      "id": "France Info-2529839243088119862",
       "source": "France Info",
       "title": "Le Premier ministre israélien, Benyamin Nétanyahou, affirme que l'Iran a \"essayé de tuer\" l'un de ses fils",
       "excerpt": "Il s'est exprimé durant une émission télévisée, et n'a pas livré davantage de précisions sur ce projet.",
       "link": "https://www.franceinfo.fr/monde/israel/le-premier-ministre-israelien-benyamin-netanyahou-affirme-que-l-iran-a-essaye-de-tuer-l-un-de-ses-fils_8159969.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 44 min",
+      "time": "Il y a 1h",
       "pubDate": 1787602122.0
     },
     {
-      "id": "Le Monde-8749510176806761979",
+      "id": "Le Monde-1955250375947898039",
       "source": "Le Monde",
       "title": "Présidentielle 2027 : Edouard Philippe veut augmenter de 20 % la rémunération moyenne des enseignants sur un quinquennat",
       "excerpt": "L’ancien premier ministre et candidat Horizons à l’élection présidentielle souhaite par ailleurs instaurer une « amende de responsabilisation scolaire, sur le modèle de ce qui existe au Royaume-Uni »,...",
       "link": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/24/presidentielle-2027-edouard-philippe-veut-augmenter-de-20-la-remuneration-moyenne-des-enseignants-sur-un-quinquennat_6755790_6205049.html",
-      "time": "Il y a 45 min",
+      "time": "Il y a 1h",
       "pubDate": 1787602049.0
     },
     {
-      "id": "Libération--341341273542412733",
+      "id": "Libération-3163421396697069196",
       "source": "Libération",
       "title": "Dans l’Aude, le village de Pomas dévasté par une tornade",
       "excerpt": "Le phénomène a endommagé ce lundi 24 août une centaine d’habitations et fait 26 blessés, dont cinq hospitalisés. Plus de 115 pompiers ont été mobilisés pour sécuriser les lieux et venir en aide aux ha...",
       "link": "https://www.liberation.fr/environnement/climat/dans-laude-le-village-de-pomas-devaste-par-une-tornade-20260824_YWIYY6Q6VZFELC2LZXKJWGEPTM/",
-      "time": "Il y a 46 min",
+      "time": "Il y a 1h",
       "pubDate": 1787602017.0
     },
     {
-      "id": "France Info-1526075326695724200",
-      "source": "France Info",
-      "title": "La tornade qui s'est abattue sur Pomas, dans l'Aude, a blessé 26 personnes, dont cinq ont été transportées à l'hôpital",
-      "excerpt": "Environ 300 habitations ont été \"impactées\", selon la préfecture, et des centres d'hébergement ont été ouverts.",
-      "link": "https://www.franceinfo.fr/environnement/meteo/direct-orages-le-trafic-aerien-est-perturbe-lundi-soir-dans-les-aeroports-de-paris-bordeaux-toulouse-marseille-et-nice_8160020.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 56 min",
-      "pubDate": 1787601424.0
-    },
-    {
-      "id": "Libération-4603817651336005307",
+      "id": "Libération--2487072327861361973",
       "source": "Libération",
       "title": "Oise : un policier municipal mis en examen dans une affaire d’homicide routier",
       "excerpt": "Après une course-poursuite ayant coûté la vie au conducteur d’un véhicule en fuite, l’agent a été placé ce lundi 24 août sous contrôle judiciaire. Une enquête a été ouverte pour déterminer les circons...",
@@ -70,7 +70,7 @@
       "pubDate": 1787600700.0
     },
     {
-      "id": "France Info--5510803355487864183",
+      "id": "France Info--8637665785862052044",
       "source": "France Info",
       "title": "Dix millions d'élèves seront interrogés sur d'éventuelles violences sexuelles commises à leur encontre, annonce le ministre Edouard Geffray",
       "excerpt": "\"Les résultats risquent d'être sismiques\", redoute le ministre de l'Education nationale, dans un entretien accordé à plusieurs journaux régionaux.",
@@ -79,7 +79,7 @@
       "pubDate": 1787600616.0
     },
     {
-      "id": "Libération-6018589115318754795",
+      "id": "Libération--1095051088586402314",
       "source": "Libération",
       "title": "«Trop c’est trop» : Silvestre, Lizarazu, Drogba, Petit… d’anciennes gloires du ballon rond demandent du «changement» à la tête de la Fifa",
       "excerpt": "Dans un communiqué publié par l’ancien international tricolore et défenseur de Manchester United Mickaël Silvestre, plusieurs joueurs ont manifesté leur souhait de changement au sommet de l’instance q...",
@@ -88,7 +88,7 @@
       "pubDate": 1787600510.0
     },
     {
-      "id": "Le Monde-2123058463210556161",
+      "id": "Le Monde-161258732129549872",
       "source": "Le Monde",
       "title": "Violences sexuelles et sexistes : les élèves devront répondre à un questionnaire, annonce Edouard Geffray",
       "excerpt": "Plusieurs scandales de violences sexuelles dans le périscolaire parisien ont été révélés à l’automne 2025 et des dizaines d’animateurs suspendus, notamment pour agressions sexuelles. Des cas similaire...",
@@ -97,7 +97,7 @@
       "pubDate": 1787600381.0
     },
     {
-      "id": "Libération-4549852877883697475",
+      "id": "Libération-4675453602238690894",
       "source": "Libération",
       "title": "Bally Bagayoko visé par une enquête du Parquet national financier pour détournement de fonds publics",
       "excerpt": "Le maire insoumis de Saint-Denis, qui a fait l’objet d’une plainte déposée par l’association AC !! Anti-Corruption, est mis en cause pour le cumul présumé de ses anciennes fonctions d’élu et de cadre...",
@@ -106,25 +106,25 @@
       "pubDate": 1787599905.0
     },
     {
-      "id": "Le Monde--5000863518678682939",
+      "id": "Le Monde--2915591282287253778",
       "source": "Le Monde",
       "title": "L’Arabie saoudite prévoit d’investir 6 milliards d’euros pour créer trois parcs d’attractions près de Paris, annonce Emmanuel Macron",
       "excerpt": "Le projet, présenté par Emmanuel Macron comme « du jamais vu depuis Disneyland Paris », devrait créer 22 000 emplois directs, selon les estimations du chef de l’Etat.",
       "link": "https://www.lemonde.fr/international/article/2026/08/24/l-arabie-saoudite-prevoit-d-investir-6-milliards-d-euros-pour-creer-trois-parcs-d-attractions-pres-de-paris-annonce-emmanuel-macron_6755620_3211.html",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1787598096.0
     },
     {
-      "id": "Le Monde-2183951056436099329",
+      "id": "Le Monde-3934578249368370981",
       "source": "Le Monde",
       "title": "EN DIRECT, guerre en Ukraine : le France, le Royaume-Uni et l’Allemagne condamnent les attaques russes « systématiques » contre les civils",
       "excerpt": "A l’issue de la réunion de la coalition des volontaires, qui s’est tenue lundi à Kiev, les dirigeants  Emmanuel Macron, Andy Burnham et Friedrich Merz ont condamné les frappes « de plus en plus intens...",
       "link": "https://www.lemonde.fr/international/live/2026/08/24/en-direct-guerre-en-ukraine-le-france-le-royaume-uni-et-l-allemagne-condamnent-les-attaques-russes-systematiques-contre-les-civils_6753793_3210.html",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1787597624.0
     },
     {
-      "id": "Le Monde--5274318055532555372",
+      "id": "Le Monde--992545300994887356",
       "source": "Le Monde",
       "title": "Les Etats-Unis annoncent de nouvelles sanctions pour « couper toutes les ressources économiques » de l’Iran",
       "excerpt": "Les pays qui ne participeraient pas aux sanctions souhaitées par les Etats-Unis « partageront l’isolement » du régime de Téhéran, a mis en garde Scott Bessent, le secrétaire au Trésor américain, lundi...",
@@ -133,7 +133,7 @@
       "pubDate": 1787597570.0
     },
     {
-      "id": "Libération--8418089836531781917",
+      "id": "Libération--7132080308097316710",
       "source": "Libération",
       "title": "Avis favorable à la construction d’un data center de Microsoft près de Mulhouse",
       "excerpt": "Malgré l’opposition de 80 % des contributions citoyennes, le projet à deux milliards d’euros doit voir le jour dès 2029 sur 35 hectares de terres agricoles. Les associations écologistes dénoncent nota...",
@@ -142,7 +142,7 @@
       "pubDate": 1787596828.0
     },
     {
-      "id": "Libération--2697433175144718018",
+      "id": "Libération--7401426902846745350",
       "source": "Libération",
       "title": "«Du jamais vu depuis Disneyland Paris» : Macron annonce trois parcs d’attractions en Ile-de-France, financés par l’Arabie Saoudite",
       "excerpt": "Le protocole d’accord signé lundi 24 août, à l’occasion de la visite de Mohammed ben Salmane, prévoit six milliards de dollars d’investissement et la création de 22 000 emplois directs.",
@@ -151,7 +151,7 @@
       "pubDate": 1787595540.0
     },
     {
-      "id": "Libération--4012473758750434196",
+      "id": "Libération-5399395635084155217",
       "source": "Libération",
       "title": "Guerre commerciale entre le Canada et les Etats-Unis : «Que vaut un accord commercial avec un menteur ?»",
       "excerpt": "Alors que Washington multiplie les menaces douanières, Ottawa cherche à se détourner progressivement de son premier marché. Une stratégie ambitieuse, mais économiquement risquée, selon le politologue...",
@@ -160,7 +160,7 @@
       "pubDate": 1787595519.0
     },
     {
-      "id": "Libération--2242751016158594823",
+      "id": "Libération--2159618582898796468",
       "source": "Libération",
       "title": "Présidentielle 2027 : ne partons pas en «guerre de l’eau»",
       "excerpt": "La raréfaction de cette ressource vitale est taillée pour la bagarre entre les candidats, mais c’est la dernière chose dont nous avons besoin. Car il est urgent d’établir des règles de partage et de r...",
@@ -169,16 +169,16 @@
       "pubDate": 1787595429.0
     },
     {
-      "id": "France Info-7830634737825587009",
+      "id": "France Info--310219129309483356",
       "source": "France Info",
       "title": "Six milliards d'euros et 22 000 emplois potentiels : le projet saoudien de trois parcs d'attractions sur un site de région parisienne",
       "excerpt": "Le projet monumental a été officiellement annoncé lundi soir, alors que le prince héritier saoudien Mohammed Ben Salmane est en visite à l'Elysée.",
       "link": "https://www.franceinfo.fr/economie/6-milliards-d-euros-et-22-000-emplois-potentiels-le-projet-saoudien-d-un-nouveau-parc-d-attraction-en-region-parisienne_8159990.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1787594059.0
     },
     {
-      "id": "Libération--7871118661550547613",
+      "id": "Libération--5032661926993956995",
       "source": "Libération",
       "title": "Arrivée de la pub sur ChatGPT : «OpenAI suit la logique classique des modèles économiques des moteurs de recherche et de certains médias»",
       "excerpt": "Depuis lundi 24 août, les utilisateurs du robot conversationnel doivent faire avec les annonces publicitaires, à l’instar des autres plateformes en ligne. Pour «Libé», la socioéconomiste Mathilde Abel...",
@@ -187,7 +187,7 @@
       "pubDate": 1787593082.0
     },
     {
-      "id": "France Info-2775587721477831974",
+      "id": "France Info--5935674962248716275",
       "source": "France Info",
       "title": "Visite du prince héritier saoudien : un lieutenant de la Garde royale saoudienne victime d'un vol avec arme à Paris",
       "excerpt": "Un homme est en garde à vue, soupçonné d'avoir volé la montre d'un lieutenant de la Garde royale saoudienne, a appris lundi franceinfo, en marge de la visite du prince héritier d'Arabie saoudite en Fr...",
@@ -196,7 +196,7 @@
       "pubDate": 1787588975.0
     },
     {
-      "id": "France Info--5590196155907686365",
+      "id": "France Info-6208419029368932575",
       "source": "France Info",
       "title": "Le maire LFI de Saint-Denis, Bally Bagayoko, visé par une enquête pour détournement de fonds publics",
       "excerpt": "Le Parquet national financier a ouvert une enquête visant Bally Bagayoko, maire La France insoumise (LFI) de Saint-Denis, notamment pour détournement de fonds publics, après une plainte concernant le...",
@@ -211,16 +211,16 @@
       "sourceCount": 2
     },
     {
-      "id": "Le Monde-2877602750346278187",
+      "id": "Le Monde--2962323250098230537",
       "source": "Le Monde",
       "title": "En Savoie, des montagnes saturées d’activités pendant l’été : « On est content d’accueillir les vacanciers, mais on arrive à une limite, aussi »",
       "excerpt": "Dans les départements de Savoie et de Haute-Savoie, les conflits d’usage se multiplient en juillet et en août. Certaines collectivités misent sur le dialogue et la régulation.",
       "link": "https://www.lemonde.fr/planete/article/2026/08/24/en-savoie-des-montagnes-saturees-d-activites-pendant-l-ete-on-est-content-d-accueillir-les-vacanciers-mais-on-arrive-a-une-limite-aussi_6755510_3244.html",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1787583608.0
     },
     {
-      "id": "France Info--7523895894244978884",
+      "id": "France Info--1229686022702361151",
       "source": "France Info",
       "title": "Le gouvernement prévoit de porter le plafond des franchises médicales à 140 euros par an, contre 100 actuellement, selon un projet de décret",
       "excerpt": "Le gouvernement, qui avait projeté de doubler à 200 euros le plafond des franchises médicales, va finalement le porter à 140 euros. Les assurés vont payer en moyenne 10 euros de plus par an, a indiqué...",
@@ -229,72 +229,81 @@
       "pubDate": 1787582581.0
     },
     {
-      "id": "France Info-9107935932118450545",
+      "id": "France Info-5549855443305383322",
       "source": "France Info",
       "title": "Guerre en Ukraine : pourquoi Kiev cherche à se fournir en systèmes antimissiles",
       "excerpt": "La Russie multiplie les tirs de missiles balistiques, des missiles particulièrement difficiles à détruire pour l'Ukraine, qui manque de défense anti-aérienne. La question qui doit être abordée, lundi,...",
       "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-pourquoi-kiev-cherche-a-se-fournir-en-systemes-antimissiles_8159591.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1787580105.0
     },
     {
-      "id": "France Info--2755436336696652046",
+      "id": "France Info--6118211913126857626",
       "source": "France Info",
       "title": "Raphaël Glucksmann, Ségolène Royal... Qui sont (à ce stade) les candidats à la primaire socialiste pour la présidentielle 2027 ?",
       "excerpt": "Le cofondateur de Place publique a officialisé dimanche sa participation. Il n'est pas le seul sur la ligne de départ, tandis que d'autres, à gauche, ne souhaitent pas prendre part à ce scrutin.",
       "link": "https://www.franceinfo.fr/elections/presidentielle/raphael-glucksmann-segolene-royal-qui-sont-a-ce-stade-les-candidats-a-la-primaire-socialiste-pour-la-presidentielle-2027_8159171.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 8h",
+      "time": "Il y a 9h",
       "pubDate": 1787573368.0
     },
     {
-      "id": "Le Monde-2805228378074008795",
+      "id": "Le Monde-5205922577208883573",
       "source": "Le Monde",
       "title": "Le canal de Suez, naissance et mort d’un mythe colonial, promesse d’un Orient où se mêlent aventure et fortune",
       "excerpt": "« Suez, canal historique » (1/6). En 1869, la création d’un axe maritime permettant de relier la Méditerranée et la mer Rouge, exploité par les Français et les Britanniques, fascine l’Europe. D’abord...",
       "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/24/le-canal-de-suez-naissance-et-mort-d-un-mythe-colonial-promesse-d-un-orient-ou-se-melent-aventure-et-fortune_6754854_3451060.html",
-      "time": "Il y a 16h",
+      "time": "Il y a 17h",
       "pubDate": 1787544052.0
     },
     {
-      "id": "Le Monde-2766743901102237718",
+      "id": "Le Monde-5078395058398860595",
       "source": "Le Monde",
       "title": "La GPA pour les étrangers aux Etats-Unis mise à mal par Donald Trump",
       "excerpt": "Un récent décret supprime le droit à la citoyenneté pour les enfants nés après une gestation pour autrui lorsque les parents d’intention sont étrangers. Dans le viseur de Washington, les Chinois, qui...",
       "link": "https://www.lemonde.fr/international/article/2026/08/24/la-gpa-pour-les-etrangers-aux-etats-unis-mise-a-mal-par-donald-trump_6754849_3210.html",
-      "time": "Il y a 16h",
+      "time": "Il y a 17h",
       "pubDate": 1787544012.0
     }
   ],
   "anglophone": [
     {
-      "id": "The Guardian-129478997997783608",
+      "id": "NPR-71337767258894956",
+      "source": "NPR",
+      "title": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom",
+      "excerpt": "The Supreme Court paused a lower court's ruling that blocked key parts of Trump's order to limit voting by mail for the midterms. But U.S. Postal Service work on the order remains blocked nationwide.",
+      "link": "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court",
+      "time": "Il y a 21 min",
+      "pubDate": 1787604825.0
+    },
+    {
+      "id": "The Guardian--4956362210979247044",
       "source": "The Guardian",
       "title": "US strikes a vessel in the eastern Pacific, killing 2 people in first attack in months",
       "excerpt": "US Southern Command has struck another vessel in the eastern Pacific, killing two accused of trafficking drugs After a pause of more than two months, the US military announced Monday that it once agai...",
       "link": "https://www.theguardian.com/world/2026/aug/24/vessel-strike-eastern-pacific",
-      "time": "Il y a 30 min",
+      "time": "Il y a 51 min",
       "pubDate": 1787603006.0
     },
     {
-      "id": "BBC News--6680173294908080161",
+      "id": "BBC News-8567606571605450763",
       "source": "BBC News",
       "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
       "excerpt": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
       "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1787598755.0
     },
     {
-      "id": "The Guardian-1301994953102093023",
+      "id": "The Guardian--722662527227513948",
       "source": "The Guardian",
       "title": "Trump announces new 50% tariff on Canadian cars, trucks and steel",
       "excerpt": "Move is latest deterioration in trade relations between neighbors with historically strong economic ties <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> announced a new 50%...",
       "link": "https://www.theguardian.com/us-news/2026/aug/24/canada-tariff-increase-trump-auto",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1787597743.0
     },
     {
-      "id": "The Guardian-3678517685842881562",
+      "id": "The Guardian--5253047219102729292",
       "source": "The Guardian",
       "title": "Mark Carney says Canada can’t accept US trade deal that would weaken French language",
       "excerpt": "Prime minister praised for rejecting US trade proposal as Trump shows little interest in retreating from dispute <ul><li><a href=\"https://www.theguardian.com/world/2026/aug/24/are-you-a-canadian-boyco...",
@@ -303,7 +312,7 @@
       "pubDate": 1787595734.0
     },
     {
-      "id": "The Guardian-7692290642106236845",
+      "id": "The Guardian--1110264652678384501",
       "source": "The Guardian",
       "title": "Prince Harry quits board of wildlife charity after rangers’ human rights abuses",
       "excerpt": "Spokesperson for Duke of Sussex says he remains an ‘active and avid supporter’ of African Parks’ mission The Duke of Sussex has stepped down from the board of a major African wildlife charity that had...",
@@ -312,7 +321,7 @@
       "pubDate": 1787592890.0
     },
     {
-      "id": "BBC News-2461603969080342021",
+      "id": "BBC News--5087120137826565722",
       "source": "BBC News",
       "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
       "excerpt": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
@@ -321,7 +330,7 @@
       "pubDate": 1787592599.0
     },
     {
-      "id": "BBC News-3445310235472642979",
+      "id": "BBC News-5177589865669398670",
       "source": "BBC News",
       "title": "Outrage in Nepal over rape and murder of three-year-old girl",
       "excerpt": "There have been protests since the girl was found dead last week, three days after she went missing.",
@@ -330,7 +339,7 @@
       "pubDate": 1787592265.0
     },
     {
-      "id": "The Guardian-2025325179654150170",
+      "id": "The Guardian--2765834755594769455",
       "source": "The Guardian",
       "title": "Video shows hundreds held captive after Nigeria mosque kidnapping",
       "excerpt": "Gunmen ‌attacked worshippers in Dekara village on Friday taking women, children and older people An armed group has posted a video showing what ⁠residents said were about ⁠600 women, children and ​old...",
@@ -339,34 +348,34 @@
       "pubDate": 1787581154.0
     },
     {
-      "id": "BBC News--6647524249157177839",
+      "id": "BBC News-4254834523062224496",
       "source": "BBC News",
       "title": "Access to Zambian courts prevented as election petition deadline looms",
       "excerpt": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.",
       "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1787580137.0
     },
     {
-      "id": "BBC News--4764136892750570557",
+      "id": "BBC News-6719318149046497924",
       "source": "BBC News",
       "title": "Israel warns of 'forceful' response to kites flown from Gaza",
       "excerpt": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
       "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 6h",
+      "time": "Il y a 7h",
       "pubDate": 1787579782.0
     },
     {
-      "id": "BBC News-691798063575386915",
+      "id": "BBC News--3104402739362273275",
       "source": "BBC News",
       "title": "Sonya Massey's killer Sean Grayson dies in US prison",
       "excerpt": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer.",
       "link": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 7h",
+      "time": "Il y a 8h",
       "pubDate": 1787577250.0
     },
     {
-      "id": "NPR-8970635862701771692",
+      "id": "NPR--2992186875589026465",
       "source": "NPR",
       "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran",
       "excerpt": "The Trump administration calls this an \"economic D-Day\" on Iran. Iran vows to respond to fresh sanctions in a \"seismic manner.\"",
@@ -375,7 +384,7 @@
       "pubDate": 1787574360.0
     },
     {
-      "id": "NPR--359966053384797306",
+      "id": "NPR--3242286639039441382",
       "source": "NPR",
       "title": "U.S. to detail new economic pressures on Iran. And, Canada to impose tariffs on U.S.",
       "excerpt": "Today, Treasury Secretary Scott Bessent is set to announce details on new economic pressures on Iran. And, Canada has vowed to impose retaliatory tariffs against the U.S.",
@@ -384,16 +393,16 @@
       "pubDate": 1787570864.0
     },
     {
-      "id": "BBC News-5583711158833399742",
+      "id": "BBC News-8390174623227544339",
       "source": "BBC News",
       "title": "Four arrested over suspected poisoning of elephants in Kenya",
       "excerpt": "An investigation is looking into whether the deaths were caused by pesticides sprayed on tomato crops.",
       "link": "https://www.bbc.co.uk/news/articles/c790w8wxv0do?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 9h",
+      "time": "Il y a 10h",
       "pubDate": 1787569707.0
     },
     {
-      "id": "BBC News--1415345863332483384",
+      "id": "BBC News--6857668345723073555",
       "source": "BBC News",
       "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
       "excerpt": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
@@ -402,16 +411,16 @@
       "pubDate": 1787568022.0
     },
     {
-      "id": "The Guardian--764774618951833742",
+      "id": "The Guardian--3512560031700729202",
       "source": "The Guardian",
       "title": "Children make up half of mpox cases in Guinea-Bissau as epidemic spreads",
       "excerpt": "West African country reports 46 suspected cases in outbreak declared in July, amid fears virus may be spreading undetected More than half of the mpox cases reported in Guinea-Bissau have been among ch...",
       "link": "https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa",
-      "time": "Il y a 10h",
+      "time": "Il y a 11h",
       "pubDate": 1787566294.0
     },
     {
-      "id": "NPR-2955797150808808830",
+      "id": "NPR--5619036121072359830",
       "source": "NPR",
       "title": "Washington, D.C.'s first IndyCar race packed the National Mall",
       "excerpt": "IndyCar drivers zoomed past some of the nation's most famous landmarks this weekend. They faced novel challenges on an unconventional route.",
@@ -420,25 +429,25 @@
       "pubDate": 1787564173.0
     },
     {
-      "id": "NPR--6719823455264398874",
+      "id": "NPR--4186002358000005742",
       "source": "NPR",
       "title": "In candid interviews, National Guard members speak out about D.C. deployment",
       "excerpt": "As President Trump's deployment of the National Guard to Washington, D.C., enters its second year, three guard members who served many months on the mission share their reactions with NPR.",
       "link": "https://www.npr.org/2026/08/24/nx-s1-5939973/national-guard-members-washington-dc-deployment",
-      "time": "Il y a 11h",
+      "time": "Il y a 12h",
       "pubDate": 1787562000.0
     },
     {
-      "id": "NPR--2932310075682443004",
+      "id": "NPR-454960530200598778",
       "source": "NPR",
       "title": "Sean Grayson, former deputy convicted of killing Sonya Massey, dies in prison, lawyer says",
       "excerpt": "Sean Grayson, a former Illinois sheriff's deputy whose fatal shooting of Sonya Massey inside her home became a flashpoint over police use of force, died Sunday while serving a 20-year prison sentence.",
       "link": "https://www.npr.org/2026/08/24/g-s1-139734/sonya-massey-convicted-deputy",
-      "time": "Il y a 11h",
+      "time": "Il y a 12h",
       "pubDate": 1787561616.0
     },
     {
-      "id": "NPR-3967394662529514173",
+      "id": "NPR--1715881344026325737",
       "source": "NPR",
       "title": "Morning news brief",
       "excerpt": "Treasury secretary to detail new round of economic pressure on Iran, Iran warns of 'seismic' retaliation if U.S. follow through with economic threat, Canada vows to impose retaliatory tariffs on U.S.",
@@ -447,7 +456,7 @@
       "pubDate": 1787561165.0
     },
     {
-      "id": "NPR--8728431417062141962",
+      "id": "NPR-2954773566533239557",
       "source": "NPR",
       "title": "High-intensity sprints can trigger molecular changes in the bloodstream",
       "excerpt": "A new study finds that an all-out sprint may have unique benefits when it comes to the proteins and tiny molecules in your bloodstream.",
@@ -456,7 +465,7 @@
       "pubDate": 1787561144.0
     },
     {
-      "id": "BBC News--5638290852063567071",
+      "id": "BBC News--1957511680324090371",
       "source": "BBC News",
       "title": "King of Norway's health has worsened, palace says",
       "excerpt": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection.",
@@ -465,16 +474,16 @@
       "pubDate": 1787560315.0
     },
     {
-      "id": "BBC News--7170482718932986885",
+      "id": "BBC News-8288590522818900766",
       "source": "BBC News",
       "title": "Nearly three million Teslas recalled in China over hidden door handles",
       "excerpt": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
       "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 15h",
+      "time": "Il y a 16h",
       "pubDate": 1787547677.0
     },
     {
-      "id": "NPR-4047978602526470432",
+      "id": "NPR-1614491733838501833",
       "source": "NPR",
       "title": "Thousands forced to evacuate parts of Reno, Nevada, as new wildfire rages",
       "excerpt": "Officials say the fire, which has now burned more than 15,000 acres and is zero percent contained, was human caused. Nearly 90,000 people have been told to evacuate or prepare to leave.",
@@ -483,7 +492,7 @@
       "pubDate": 1787543224.0
     },
     {
-      "id": "The Guardian-3107017716081671193",
+      "id": "The Guardian-3859443659345947834",
       "source": "The Guardian",
       "title": "Landslide at waste mound in Guinea capital kills 30, government says",
       "excerpt": "Dump site in Conakry, which minister had just promised to move, collapsed after heavy rain in west African state A ⁠landslide at a huge waste dump in Guinea’s capital has killed 30 people, the governm...",
@@ -492,7 +501,7 @@
       "pubDate": 1787523413.0
     },
     {
-      "id": "NPR-8259606472938978881",
+      "id": "NPR--1778562424902038515",
       "source": "NPR",
       "title": "Climate change is unearthing archaeological discoveries, while also threatening them",
       "excerpt": "NPR's Danielle Kurtzleben speaks with Jørgen Hollesen, a Senior Researcher at the National Museum of Denmark, about how climate change is impacting the study of archaeology.",
@@ -501,16 +510,7 @@
       "pubDate": 1787520185.0
     },
     {
-      "id": "NPR-1270029277240225262",
-      "source": "NPR",
-      "title": "Learning to live in a post-American world",
-      "excerpt": "In a recent article for <em>Foregin Affairs</em>, Mark Leonard makes that argument that America's leading role in the world order is fading. He discusses his argument with NPR's Danielle Kurtzleben.",
-      "link": "https://www.npr.org/2026/08/23/nx-s1-5939846/learning-to-live-in-a-post-american-world",
-      "time": "Il y a 23h",
-      "pubDate": 1787520083.0
-    },
-    {
-      "id": "The Guardian--2496500102666159773",
+      "id": "The Guardian-6496778477062098314",
       "source": "The Guardian",
       "title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
       "excerpt": "PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressors <ul><li><a href=\"https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-t...",
@@ -519,7 +519,7 @@
       "pubDate": 1787513579.0
     },
     {
-      "id": "The Guardian--1333063479984090358",
+      "id": "The Guardian-6228044934583699920",
       "source": "The Guardian",
       "title": "The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile",
       "excerpt": "Breakdown shows Washington now prioritises its own interests over any semblance of shared economic ground <ul><li><a href=\"https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after...",
@@ -528,7 +528,7 @@
       "pubDate": 1787505886.0
     },
     {
-      "id": "The Guardian--7973236128636171028",
+      "id": "The Guardian-2770092048271872594",
       "source": "The Guardian",
       "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
       "excerpt": "Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown  Twenty deportees from the United States arrived in Liberia on Thursday, as part of a new a...",
@@ -537,5 +537,5 @@
       "pubDate": 1787255879.0
     }
   ],
-  "lastUpdate": "2026-08-24T20:53:27.701558"
+  "lastUpdate": "2026-08-24T21:15:02.187975"
 }
