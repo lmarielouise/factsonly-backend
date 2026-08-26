@@ -1,70 +1,115 @@
 {
   "francophone": [
     {
-      "id": "Libération-2382276742099421905",
+      "id": "Libération-7018784437492186455",
+      "source": "Libération",
+      "title": "Présidentielle 2027 : Karim Bouamrane ne participera pas à la primaire mais reste candidat",
+      "excerpt": "Le maire socialiste de Saint-Ouen refuse de participer à un processus de désignation «fermé» qui «coûte cher». Mais compte sur l’argent du PS pour faire campagne.",
+      "link": "https://www.liberation.fr/politique/presidentielle-2027-karim-bouamrane-ne-participera-pas-a-la-primaire-mais-reste-candidat-20260826_IBOSNTUHNFCADDORHDN5KUUAMM/",
+      "time": "Il y a 6 min",
+      "pubDate": 1787734766.0
+    },
+    {
+      "id": "Le Monde-5782972932334202812",
+      "source": "Le Monde",
+      "title": "Le blocus de l’information doit cesser à Gaza",
+      "excerpt": "Depuis le déclenchement de l’offensive militaire à Gaza, en réponse aux attaques terroristes du 7 octobre 2023, les journalistes sont empêchés de faire leur travail et deviennent des cibles.",
+      "link": "https://www.lemonde.fr/idees/article/2026/08/26/le-blocus-de-l-information-doit-cesser-a-gaza_6757354_3232.html",
+      "time": "Il y a 6 min",
+      "pubDate": 1787734752.0
+    },
+    {
+      "id": "France Info-5786025523739284462",
+      "source": "France Info",
+      "title": "Paris : l'automobiliste qui a poignardé un cycliste après un différend a été interpellé, la victime est sortie de l'hôpital",
+      "excerpt": "Après une altercation, le cycliste a porté \"des coups de poing au conducteur à travers la fenêtre\" de son véhicule et c'est à ce moment que l'automobiliste lui a porté un coup de couteau, explique le...",
+      "link": "https://www.franceinfo.fr/faits-divers/accident/paris-un-cycliste-poignarde-au-cou-par-un-automobiliste-apres-un-differend-sur-la-route_8161955.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 7 min",
+      "pubDate": 1787734723.0
+    },
+    {
+      "id": "France Info-6040384520073159151",
+      "source": "France Info",
+      "title": "Face à la sécheresse, le gouvernement allège le cahier des charges AOP du comté, du beaufort et de l'abondance",
+      "excerpt": "Alors que le manque de pluie des derniers mois a asséché les pâturages, les producteurs ont obtenu des dérogations exceptionnelles pour nourrir leurs troupeaux.",
+      "link": "https://www.franceinfo.fr/sante/alimentation/face-a-la-secheresse-le-gouvernement-allege-le-cahier-des-charges-aop-du-comte-du-beaufort-et-de-l-abondance_8162075.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 11 min",
+      "pubDate": 1787734482.0
+    },
+    {
+      "id": "Libération--4081787951143086959",
+      "source": "Libération",
+      "title": "Salmonellose : rappel massif d’œufs après la contamination de plus de 300 personnes en Belgique, la France avertie",
+      "excerpt": "Quelques centaines de personnes sont tombées malades à cause de la bactérie contenue dans des œufs de poule élevées en plein air, a confirmé l’Agence fédérale pour la sécurité alimentaire. Elle en a i...",
+      "link": "https://www.liberation.fr/societe/sante/salmonellose-rappel-massif-doeufs-apres-la-contamination-de-plus-de-300-personnes-en-belgique-la-france-avertie-20260826_ZUAD7IV72JAMFC2NY7NMPZL6KA/",
+      "time": "Il y a 31 min",
+      "pubDate": 1787733281.0
+    },
+    {
+      "id": "France Info-1785581292816648208",
+      "source": "France Info",
+      "title": "\"Je soutiendrai Edouard Philippe dans cette élection présidentielle\", déclare Benjamin Haddad, ministre délégué chargé de l'Europe",
+      "excerpt": "Invité des \"4 Vérités\", le ministre a défendu la poursuite des efforts budgétaires pour réduire les déficits et préserver la crédibilité de la France. Il a également critiqué les propositions de Jean-...",
+      "link": "https://www.franceinfo.fr/politique/on-doit-faire-passer-ce-budget-c-est-aussi-la-credibilite-de-notre-pays-en-europe-qui-en-depend-declare-benjamin-haddad-ministre-delegue-charge-de-l-europe_8161961.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 37 min",
+      "pubDate": 1787732948.0
+    },
+    {
+      "id": "Libération-5314376183863018748",
       "source": "Libération",
       "title": "Une hôtesse de l’air obtient de la justice la reconnaissance de son cancer du sein comme maladie professionnelle",
       "excerpt": "Aujourd’hui âgée de 59 ans et en rémission de sa maladie, elle a fait valoir son travail de nuit, son exposition au tabagisme passif et aux rayonnements ionisants. Cette décision inédite en France pou...",
       "link": "https://www.liberation.fr/economie/social/une-hotesse-de-lair-obtient-de-la-justice-la-reconnaissance-de-son-cancer-du-sein-comme-maladie-professionnelle-20260826_FENBTS26PNEVFBTXDJ62VBOZBE/",
-      "time": "Il y a 2 min",
+      "time": "Il y a 46 min",
       "pubDate": 1787732379.0
     },
     {
-      "id": "Libération--4174503708478601279",
+      "id": "Libération--2714742450841033097",
       "source": "Libération",
       "title": "Sophie Adenot a terminé sa nouvelle sortie dans l’espace",
       "excerpt": "L’astronaute de 44 ans a pu finir d’installer une antenne de remplacement sur l’ISS, après une première «sortie extravéhiculaire» de maintenance la semaine dernière, pour laquelle elle était devenue l...",
       "link": "https://www.liberation.fr/sciences/espace/sophie-adenot-va-effectuer-une-nouvelle-sortie-dans-lespace-ce-mardi-20260825_2LCM3W2U2BHETOB2ASUYAW7NNE/",
-      "time": "Il y a 23 min",
+      "time": "Il y a 1h",
       "pubDate": 1787731137.0
     },
     {
-      "id": "France Info-5941227908213756083",
+      "id": "France Info-3258128647859013609",
       "source": "France Info",
       "title": "Le cancer du sein d'une hôtesse de l'air reconnu comme maladie professionnelle, \"une première\" dans le secteur aérien en France, selon l'avocate de la patiente",
       "excerpt": "Aujourd'hui âgée de 59 ans et en rémission de son cancer, Sophie Lainault explique avoir travaillé entre 1989 et 2019 chez Air France comme hôtesse de l'air puis chef de cabine.",
       "link": "https://www.franceinfo.fr/sante/le-cancer-du-sein-d-une-hotesse-de-l-air-reconnu-comme-maladie-professionnelle-une-premiere-dans-le-secteur-aerien-en-france-selon-l-avocate-de-la-patiente_8161973.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 38 min",
+      "time": "Il y a 1h",
       "pubDate": 1787730258.0
     },
     {
-      "id": "Libération-5218047759139799307",
+      "id": "Libération--9185092624014477525",
       "source": "Libération",
       "title": "Ligue des champions : l’Olympique lyonnais joue sa qualification et des gros sous contre Fenerbahçe",
       "excerpt": "Après avoir obtenu le nul 1-1 à l’aller en Turquie, Lyon dispute un match retour capital ce mercredi soir pour retrouver, six ans après, la plus prestigieuse et lucrative coupe d’Europe. En jeu, des d...",
       "link": "https://www.liberation.fr/sports/football/ligue-des-champions-lolympique-lyonnais-joue-sa-qualification-et-des-gros-sous-contre-fenerbahce-20260826_YDM6OB2J7NDVVLRZSVLP3EVJAE/",
-      "time": "Il y a 53 min",
+      "time": "Il y a 1h",
       "pubDate": 1787729345.0
     },
     {
-      "id": "Libération-8752562660080480136",
+      "id": "Libération-2874176510246912355",
       "source": "Libération",
       "title": "Présidentielle 2027 : Jean-Marc Jancovici lance une «assemblée citoyenne» sur le réchauffement climatique",
       "excerpt": "150 citoyens tirés au sort devraient débattre et échanger avec des experts dès le 19 septembre à Paris, avant d’exposer leurs conclusions en février. Baptisée «Un commun accord», l’initiative a été an...",
       "link": "https://www.liberation.fr/environnement/climat/presidentielle-2027-jean-marc-jancovici-lance-une-assemblee-citoyenne-sur-le-rechauffement-climatique-20260826_UNJPE4WRYBDB3KO3GPGIXOUPGQ/",
-      "time": "Il y a 53 min",
+      "time": "Il y a 1h",
       "pubDate": 1787729336.0
     },
     {
-      "id": "Libération-1798129732891576682",
+      "id": "Libération-1166911838407247103",
       "source": "Libération",
-      "title": "Un cycliste poignardé par un automobiliste à Paris après une altercation, son pronostic vital engagé",
-      "excerpt": "L’homme à vélo, blessé au cou, a été transporté à l’hôpital. Le conducteur serait toujours en fuite ce mercredi. «La lutte contre les violences motorisées sera menée sans relâche», a martelé le maire...",
+      "title": "Un cycliste poignardé par un automobiliste à Paris après une altercation, l’agresseur interpellé",
+      "excerpt": "L’homme à vélo a été blessé au cou mardi, il a été transporté à l’hôpital avant d’en ressortir en fin d’après-midi. Le conducteur a été interpellé. «La lutte contre les violences motorisées sera menée...",
       "link": "https://www.liberation.fr/societe/police-justice/un-cycliste-poignarde-par-un-automobiliste-a-paris-apres-une-altercation-son-pronostic-vital-engage-20260826_LPFPYGPJEJCBFEEIXQKGHGZEZQ/",
-      "time": "Il y a 59 min",
+      "time": "Il y a 1h",
       "pubDate": 1787728968.0
     },
     {
-      "id": "France Info--5213590132368073593",
-      "source": "France Info",
-      "title": "Paris : un cycliste poignardé au cou par un automobiliste après une altercation sur la route",
-      "excerpt": "Après une altercation, le cycliste a voulu empêcher le conducteur du véhicule de partir et c'est à ce moment que l'automobiliste lui a porté un coup de couteau, avant de s'enfuir.",
-      "link": "https://www.franceinfo.fr/faits-divers/accident/paris-un-cycliste-poignarde-au-cou-par-un-automobiliste-apres-un-differend-sur-la-route_8161955.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
-      "pubDate": 1787728870.0
-    },
-    {
-      "id": "France Info--7169209250649580642",
+      "id": "France Info--8241070304018291037",
       "source": "France Info",
       "title": "\"Au moins vingt ans qu'on aurait dû le mettre en place\" : l'arrivée de la transparence salariale saluée par des fonctionnaires de la CFDT",
       "excerpt": "Le texte de loi, présenté le 9 septembre en Conseil des ministres, doit permettre aux salariés du privé comme du public de connaître le niveau de rémunération moyen appliqué à travail \"de même valeur\"...",
@@ -73,97 +118,70 @@
       "pubDate": 1787728381.0
     },
     {
-      "id": "Libération-7557748578993617817",
+      "id": "Libération-2237569445959057022",
       "source": "Libération",
       "title": "Quand la culture rallume la cigarette",
       "excerpt": "Dans les clips léchés, les séries sombres, ou encore les stories prises sur le vif, la pop culture remet la cigarette en scène comme pour tenter de raviver son pouvoir d’attraction auprès des jeunes....",
       "link": "https://www.liberation.fr/libeplus/quand-la-culture-rallume-la-cigarette-20260826_XDW5U6Y2KVBDHGATUTEPMMFTFA/",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1787727600.0
     },
     {
-      "id": "Libération-1753420147185182429",
+      "id": "Libération--5118721490615104785",
       "source": "Libération",
       "title": "En Australie, l’utilisation des réseaux sociaux remonte chez les jeunes après leur interdiction fin décembre",
       "excerpt": "Un peu plus de six mois après le vote de la loi australienne, les données communiquées ce mercredi 26 août par une application de contrôle parental montrent que les ados concernés parviennent à contou...",
       "link": "https://www.liberation.fr/international/asie-pacifique/en-australie-lutilisation-des-reseaux-sociaux-remonte-chez-les-jeunes-apres-leur-interdiction-fin-decembre-20260826_2JBD6X7XTRCA7DYST7NJ7GZBSM/",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1787726796.0
     },
     {
-      "id": "Le Monde-3159508187787467672",
+      "id": "Le Monde--4152209855799115554",
       "source": "Le Monde",
       "title": "Présidentielle 2027 : Edouard Philippe, en campagne à La Réunion, met au point sa « mécanique de rassemblement » de la droite et du centre",
       "excerpt": "Le candidat Horizons, en visite sur l’île pendant trois jours, a longuement rencontré les différents acteurs politiques du centre et de la droite, espérant fédérer autour de lui. La majorité des élus...",
       "link": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/26/presidentielle-2027-a-la-reunion-edouard-philippe-met-au-point-sa-mecanique-de-rassemblement-de-la-droite-et-du-centre_6757179_6205049.html",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1787726766.0
     },
     {
-      "id": "Libération--7800087839682543148",
+      "id": "Libération-8371953818695378291",
       "source": "Libération",
       "title": "Nos critiques des sorties cinéma de la semaine : «l’Inconnue», «The Dog Stars», «Dégel»…",
       "excerpt": "«Libé» vous guide dans les sorties cinéma de ce mercredi 26 août avec aussi «Decorado», «Face à la mer» et «Bombonera». Bandes-annonces à l’appui.",
       "link": "https://www.liberation.fr/culture/cinema/nos-critiques-des-sorties-cinema-de-la-semaine-linconnue-the-dog-stars-degel-20260826_W37ZJDA7MFCZHMOPRLB3EBQGWE/",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1787725926.0
     },
     {
-      "id": "Libération--2983697427879799984",
-      "source": "Libération",
-      "title": "«Les Trois rivières» de Tiffany Quay Tyson : rancunes d’autrefois et misère d’aujourd’hui",
-      "excerpt": "L’autrice américaine nous entraîne au cœur du Mississippi au sein de paysages tumultueux et d’habitants avides de spiritualité. Un polar empreint de détresse et d’espoir (un peu).",
-      "link": "https://www.liberation.fr/culture/livres/les-trois-rivieres-de-tiffany-quay-tyson-rancunes-dautrefois-et-misere-daujourdhui-20260826_S6PBAXSCIJAFDBZKA2SJ3PBPAA/",
-      "time": "Il y a 1h",
-      "pubDate": 1787725680.0
-    },
-    {
-      "id": "Le Monde--6376072095934057200",
+      "id": "Le Monde--6663644745530550262",
       "source": "Le Monde",
       "title": "Jean-Marc Jancovici lance une assemblée citoyenne pour « donner de la voix aux citoyens » sur le réchauffement climatique en 2027",
       "excerpt": "Soutenue par des personnalités, l’initiative « Un commun accord » veut replacer les citoyens au cœur du débat climatique à travers une assemblée tirée au sort et une plateforme participative.",
       "link": "https://www.lemonde.fr/planete/article/2026/08/26/climat-l-expert-jean-marc-jancovici-lance-une-assemblee-citoyenne-pour-peser-sur-la-presidentielle-2027_6757079_3244.html",
-      "time": "Il y a 1h",
+      "time": "Il y a 2h",
       "pubDate": 1787725473.0
     },
     {
-      "id": "Libération--886719662086822448",
-      "source": "Libération",
-      "title": "Sébastien Lecornu à Mayotte pour accélérer la reconstruction «trop lente» plus d’un an après le cyclone Chido",
-      "excerpt": "Le Premier ministre regrette «des retards dans la livraison d’équipements publics» et des «difficultés persistantes» dans de nombreux domaines dans le département le plus pauvre de France.",
-      "link": "https://www.liberation.fr/politique/sebastien-lecornu-a-mayotte-pour-accelerer-la-reconstruction-trop-lente-un-an-apres-le-cyclone-chido-20260826_P7BWEA45SRGWDPXVHOBUKA4SMI/",
-      "time": "Il y a 1h",
-      "pubDate": 1787725357.0
-    },
-    {
-      "id": "France Info-3178147093087604327",
+      "id": "France Info--7601881002328716667",
       "source": "France Info",
       "title": "\"En trois secondes, on était sous les décombres\" : à Pomas, dans l'Aude, de futurs mariés perdent leur maison après le passage de la tornade",
       "excerpt": "Dans la commune, plus d'une centaine d'habitations sont complètement détruites. Amarante et Kendji se marient dans un peu plus d'un mois, ils avaient déjà organisé les préparatifs quand leur maison a...",
       "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tornades/reportage-en-trois-secondes-on-etait-sous-les-decombres-a-pomas-dans-l-aude-de-futurs-maries-perdent-leur-maison-apres-le-passage-de-la-tornade_8161793.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1787724137.0
     },
     {
-      "id": "France Info-3283291148693857659",
-      "source": "France Info",
-      "title": "La Banque centrale européenne peut-elle racheter la dette publique française, comme l'affirme La France insoumise ?",
-      "excerpt": "La députée LFI Mathilde Panot affirme que la BCE peut mettre au frigo la dette publique de l'État français. Elle se réfère à \"un achat massif de titres de dettes publiques lors du Covid\".",
-      "link": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/la-banque-centrale-europeenne-peut-elle-racheter-la-dette-publique-francaise-comme-l-affirme-la-france-insoumise_8078171.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
-      "pubDate": 1787724114.0
-    },
-    {
-      "id": "Le Monde-540329641535475726",
+      "id": "Le Monde--4230555595537790966",
       "source": "Le Monde",
       "title": "Face aux sanctions américaines, la Chine joue la fermeté sur le dossier iranien",
       "excerpt": "Devant les menaces américaines contre les partenaires commerciaux de Téhéran, Pékin affiche son inflexibilité tout en évitant l’escalade à un mois d’une nouvelle rencontre entre Xi Jinping et Donald T...",
       "link": "https://www.lemonde.fr/international/article/2026/08/26/iran-face-aux-sanctions-americaines-la-chine-joue-la-fermete_6757011_3210.html",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1787722027.0
     },
     {
-      "id": "Le Monde--9150425985308019955",
+      "id": "Le Monde--6141589306626917849",
       "source": "Le Monde",
       "title": "EN DIRECT, guerre en Ukraine : une attaque de drones fait deux morts, dont un enfant, à Tchernihiv",
       "excerpt": "Au cours de la nuit de mardi à mercredi, la Russie a lancé 162 drones contre l’Ukraine, selon l’armée de l’air ukrainienne.",
@@ -172,198 +190,207 @@
       "pubDate": 1787721338.0
     },
     {
-      "id": "France Info-7642085946057530689",
+      "id": "France Info--2503388576687336868",
       "source": "France Info",
       "title": "\"Le monde est beaucoup moins lumineux\" : politiques et artistes américains saluent la mémoire de Dolly Parton, \"une des plus grandes artistes de notre époque\"",
       "excerpt": "Donald Trump a ordonné que les drapeaux soient mis en berne sur les bâtiments publics des Etats-Unis pendant une semaine.",
       "link": "https://www.franceinfo.fr/monde/usa/le-monde-est-beaucoup-moins-lumineux-politiques-et-artistes-americains-saluent-la-memoire-de-dolly-parton-une-des-plus-grandes-artistes-de-notre-epoque_8161340.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1787720304.0
     },
     {
-      "id": "France Info--1827109219022725755",
+      "id": "France Info-4174467468933218165",
       "source": "France Info",
       "title": "Douze départements de l'Ouest placés en vigilance orange aux orages à partir de mercredi en début de soirée",
       "excerpt": "Il s'agit de la Charente, la Charente-Maritime, l'Ille-et-Vilaine, l'Indre-et-Loire, le Loir-et-Cher, la Loire-Atlantique, le Maine-et-Loire, la Mayenne, la Sarthe, les Deux-Sèvres, la Vendée et la Vi...",
       "link": "https://www.franceinfo.fr/environnement/meteo/douze-departements-de-l-ouest-places-en-vigilance-orange-aux-orages_8161757.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 3h",
+      "time": "Il y a 4h",
       "pubDate": 1787718201.0
     },
     {
-      "id": "France Info-8553565415295382815",
-      "source": "France Info",
-      "title": "Le panier ICI de la rentrée s'établit à 134,17 euros, en légère baisse par rapport à l'année dernière",
-      "excerpt": "Un cartable coûte en moyenne un euro de moins que l'an dernier, révèle mercredi ICI, en partenariat avec le cabinet Nielsen IQ. Quelques produits à base de plastique poursuivent leur hausse comme la c...",
-      "link": "https://www.franceinfo.fr/economie/pouvoir-achat/le-panier-ici-de-la-rentree-s-etablit-a-134-17-euros-en-legere-baisse-par-rapport-a-l-annee-derniere_8161319.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 4h",
-      "pubDate": 1787717438.0
-    },
-    {
-      "id": "France Info--463691456800211079",
+      "id": "France Info--4284184566001246166",
       "source": "France Info",
       "title": "Comment les maires accentuent la pression médiatique sur Patrick Bruel pour une nouvelle annulation de sa tournée, faute de levier juridique",
       "excerpt": "Alors que le chanteur est censé se produire sur scène à partir du 2 octobre dans une trentaine de villes, plus de la moitié des élus concernés se sont manifestés contre le maintien de ses concerts.",
       "link": "https://www.franceinfo.fr/culture/musique/patrick-bruel/affaire-de-violences-sexuelles/comment-les-maires-accentuent-la-pression-mediatique-sur-patrick-bruel-pour-une-nouvelle-annulation-de-sa-tournee-faute-de-levier-juridique_8160755.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1787716598.0
     },
     {
-      "id": "France Info--7198735223834360509",
+      "id": "France Info-7246149546315642194",
       "source": "France Info",
       "title": "Budget 2027 : une nouvelle loi spéciale coûterait-elle 15 milliards d'euros supplémentaires à la France ?",
       "excerpt": "Le gouvernement alerte depuis plusieurs jours sur les conséquences financières d'un blocage budgétaire prolongé l'année prochaine à cause de la présidentielle. Le montant avancé par plusieurs ministre...",
       "link": "https://www.franceinfo.fr/economie/vrai-ou-faux-budget-2027-une-nouvelle-loi-speciale-couterait-elle-15-milliards-d-euros-supplementaires-a-la-france_8159672.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1787716526.0
     },
     {
-      "id": "Le Monde-7149125868904426672",
-      "source": "Le Monde",
-      "title": "Dans les rues du village Pomas, ravagées par une tornade : « C’est comme si on avait pris des bombes sur la tête »",
-      "excerpt": "Le village de 1 000 habitants, au sud de Carcassonne, a subi une violente tornade lundi. Si on ne dénombre qu’une cinquantaine de blessés, près des deux tiers des 500 maisons ont été fortement endomma...",
-      "link": "https://www.lemonde.fr/planete/article/2026/08/26/dans-les-rues-de-pomas-ravagees-par-une-tornade-c-est-comme-si-on-avait-pris-des-bombes-sur-la-tete_6756869_3244.html",
-      "time": "Il y a 4h",
-      "pubDate": 1787715905.0
-    },
-    {
-      "id": "Le Monde-7655563442339221675",
+      "id": "Le Monde-7785358050422627125",
       "source": "Le Monde",
       "title": "El Niño : le Panama et le Salvador, « couloir sec » de l’Amérique centrale, se préparent aux premières conséquences climatiques",
       "excerpt": "Ces deux pays d’Amérique centrale prennent des mesures administratives exceptionnelles pour supporter les conditions climatiques extrêmes.",
       "link": "https://www.lemonde.fr/planete/article/2026/08/26/el-nino-le-panama-et-le-salvador-en-etat-d-alerte-face-aux-pluies-et-secheresses-intenses_6756868_3244.html",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1787715574.0
     },
     {
-      "id": "Le Monde-5698804884123343148",
+      "id": "Le Monde-3205138277200733942",
+      "source": "Le Monde",
+      "title": "Facturation électronique : près d’une entreprise concernée sur deux n’a pas encore entrepris la démarche",
+      "excerpt": "A quelques jours de l’entrée en application de la facturation électronique, fixée au 1ᵉʳ septembre, seule une entreprise concernée sur deux est inscrite sur l’une des 148 plateformes agréées, passage...",
+      "link": "https://www.lemonde.fr/economie/article/2026/08/26/facturation-electronique-pres-d-une-entreprise-concernee-sur-deux-n-a-pas-encore-entrepris-la-demarche_6756832_3234.html",
+      "time": "Il y a 5h",
+      "pubDate": 1787715017.0
+    },
+    {
+      "id": "Le Monde-7269603433530924833",
       "source": "Le Monde",
       "title": "Le ministre de l’éducation promet de terminer les réformes engagées, face à la surenchère d’annonces sur l’école par les candidats à la présidentielle",
       "excerpt": "Alors que les personnels éducatifs oscillent entre attentes et inquiétudes, Edouard Geffray a tenu sa conférence de rentrée, mardi 25 août. Face aux échéances électorales limitant la capacité d’action...",
       "link": "https://www.lemonde.fr/societe/article/2026/08/26/dans-l-education-nationale-une-drole-de-rentree-politique-coincee-entre-une-fin-de-quinquennat-atone-et-une-election-presidentielle-majeure_6756831_3224.html",
-      "time": "Il y a 4h",
+      "time": "Il y a 5h",
       "pubDate": 1787715006.0
     },
     {
-      "id": "Le Monde-3745682355220967408",
+      "id": "Le Monde-3886620877442982754",
       "source": "Le Monde",
       "title": "Ulrich Siegmund, la figure montante et inquiétante de l’extrême droite allemande",
       "excerpt": "La tête de liste aux élections régionales en Saxe-Anhalt, prévues le 6 septembre, pourrait permettre à l’AfD de diriger pour la première fois un Land depuis la fondation de la République fédérale. Der...",
       "link": "https://www.lemonde.fr/international/article/2026/08/26/ulrich-siegmund-la-figure-montante-de-l-extreme-droite-allemande-qui-galvanise-les-foules-et-fait-trembler-berlin_6756796_3210.html",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1787713206.0
     },
     {
-      "id": "Le Monde-8728926703538817033",
+      "id": "Le Monde-7517399140657309404",
       "source": "Le Monde",
       "title": "La mort de Dolly Parton, héroïne de l’Amérique profonde et modèle féministe",
-      "excerpt": "La reine de la musique country et autrice-compositrice de plus d’un millier de titres, dont la chanson culte « Jolene », est morte le 25 août à l’âge de 80 ans, dans son Tennessee natal.",
+      "excerpt": "La reine de la musique country et autrice-compositrice de plus d’un millier de titres, dont la chanson culte « Jolene », est morte mardi à l’âge de 80 ans, dans son Tennessee natal.",
       "link": "https://www.lemonde.fr/disparitions/article/2026/08/26/la-mort-de-dolly-parton-heroine-de-l-amerique-profonde-et-modele-feministe_6756797_3382.html",
-      "time": "Il y a 5h",
+      "time": "Il y a 6h",
       "pubDate": 1787713206.0
-    },
-    {
-      "id": "Le Monde--4192364053793519501",
-      "source": "Le Monde",
-      "title": "« Le Porge n’a pas été abandonné » : le chef des pompiers de Gironde répète ses propos, chiffres à l’appui",
-      "excerpt": "Les autorités ont présenté mardi une chronologie des moyens mobilisés et des décisions prises au plus fort du sinistre, alors que la colère reste vive dans la commune où s’est acharné l’incendie.",
-      "link": "https://www.lemonde.fr/planete/article/2026/08/26/megafeu-de-gironde-le-porge-n-a-pas-ete-abandonne-martele-le-chef-des-pompiers-chronologie-a-l-appui_6756662_3244.html",
-      "time": "Il y a 9h",
-      "pubDate": 1787696820.0
     }
   ],
   "anglophone": [
     {
-      "id": "NPR-8188350677872713186",
+      "id": "NPR-3449968143223316725",
+      "source": "NPR",
+      "title": "COMIC: 7 lifestyle habits that may boost your chances of getting pregnant",
+      "excerpt": "This illustrated guide has evidence-backed advice on how to support fertility for both men and women, including which foods to eat and which activities to avoid.",
+      "link": "https://www.npr.org/2026/08/26/nx-s1-5843276/lifestyle-habits-that-boost-fertility-pregnancy",
+      "time": "Il y a 4 min",
+      "pubDate": 1787734920.0
+    },
+    {
+      "id": "NPR--2752013771389294996",
+      "source": "NPR",
+      "title": "Soaring summer power bills spark protests -- and even disconnections",
+      "excerpt": "The price of electricity is soaring in the summer heat, when fans and air conditioners are working nonstop. In Tulsa, Oklahoma, people are having their power cut when they can't pay their bills.",
+      "link": "https://www.npr.org/2026/08/26/nx-s1-5943289/electric-bills-summer-heat-oklahoma-power",
+      "time": "Il y a 5 min",
+      "pubDate": 1787734860.0
+    },
+    {
+      "id": "NPR--7630442431402014301",
+      "source": "NPR",
+      "title": "Hollywood's summer box office is glowing, but the numbers come with startling caveats",
+      "excerpt": "Theaters have had something for everyone this summer, and fans are paying top dollar for premium formats like IMAX. There are also fewer moviegoers, fewer movies, and fewer screens than there were pre...",
+      "link": "https://www.npr.org/2026/08/26/nx-s1-5923629/movie-summer-box-office",
+      "time": "Il y a 6 min",
+      "pubDate": 1787734800.0
+    },
+    {
+      "id": "NPR--6140135656809628142",
       "source": "NPR",
       "title": "Hospital nursery fire kills 14 newborns in Pakistan's capital, officials order immediate inquiry",
       "excerpt": "A fire erupted early Wednesday in a nursery for newborns at a major government hospital in Pakistan's capital, killing 14 babies, according to hospital officials and the government.",
       "link": "https://www.npr.org/2026/08/26/nx-s1-5944808/hospital-nursery-fire-kills-14-newborns-pakistan",
-      "time": "Il y a 47 min",
+      "time": "Il y a 1h",
       "pubDate": 1787729699.0
     },
     {
-      "id": "NPR-300148933358903064",
+      "id": "NPR-6794964049108500785",
       "source": "NPR",
       "title": "Test your global economic knowledge with this quick Planet Money quiz!",
       "excerpt": "Every country tells a different economic story. It's time to test your knowledge of the big ideas we've collected on our World Tour. Eight questions stand between you and your Summer School diploma.",
       "link": "https://www.npr.org/2026/08/26/g-s1-138847/planet-money-summer-school-quiz-2026",
-      "time": "Il y a 52 min",
+      "time": "Il y a 1h",
       "pubDate": 1787729400.0
     },
     {
-      "id": "NPR-8498194505344172988",
+      "id": "NPR--7830331635314387648",
       "source": "NPR",
       "title": "Target faces renewed backlash for Halloween costume with 'minstrel show features'",
       "excerpt": "Retailer Target pulled a children's Halloween costume from its shelves after widespread social media backlash, apologizing for selling a garment critics said evoked racist minstrel caricatures.",
       "link": "https://www.npr.org/2026/08/26/g-s1-140195/target-halloween-costume-backlash",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1787723158.0
     },
     {
-      "id": "NPR--3725321002407163394",
+      "id": "NPR-7541308904667724824",
       "source": "NPR",
       "title": "More than 50 kidnapped as violent gang attack in Haiti leaves 47 dead",
       "excerpt": "It is believed to be one of the largest mass kidnappings in Haiti in recent years, and one gang leader is threatening to kill the hostages if authorities kill any gang members as they try to secure th...",
       "link": "https://www.npr.org/2026/08/26/nx-s1-5944787/50-kidnapped-haiti-gang-attack-47-dead",
-      "time": "Il y a 2h",
+      "time": "Il y a 3h",
       "pubDate": 1787723134.0
     },
     {
-      "id": "NPR--4077188360125276691",
+      "id": "NPR--9092315370887231710",
       "source": "NPR",
       "title": "Instagram head Adam Mosseri testifies in defense of Meta in child safety trial",
       "excerpt": "The social media giant is being sued by four states who allege it designed Facebook and Instagram to hook kids — and lied to the public about the risks.",
       "link": "https://www.npr.org/2026/08/25/nx-s1-5944266/adam-mosseri-instagram-meta-child-safety-trial",
-      "time": "Il y a 9h",
+      "time": "Il y a 10h",
       "pubDate": 1787698257.0
     },
     {
-      "id": "NPR-3034992445883842680",
+      "id": "NPR--1085817240069399732",
       "source": "NPR",
       "title": "Sen. Darline Graham wins GOP nomination for U.S. Senate in South Carolina",
       "excerpt": "In a major win for President Trump who went all in for the political newcomer, Sen. Darline Graham beat out longtime Congressman Ralph Norman in a special election primary runoff in South Carolina.",
       "link": "https://www.npr.org/2026/08/25/nx-s1-5943041/south-carolina-senate-runoff-graham-norman-trump-endorsement",
-      "time": "Il y a 11h",
+      "time": "Il y a 12h",
       "pubDate": 1787690874.0
     },
     {
-      "id": "The Guardian-137720602080467415",
+      "id": "The Guardian--6563257518981080093",
       "source": "The Guardian",
       "title": "Wife of US soldier deported after Trump rollback on military family protections",
       "excerpt": "Cristy Maryori Villafranca-Trejo, deported to Honduras, is latest military spouse to face removal amid Trump 2.0 The wife of an active-duty <a href=\"https://www.theguardian.com/us-news/us-military\">US...",
       "link": "https://www.theguardian.com/us-news/2026/aug/25/soldier-wife-deported-honduras",
-      "time": "Il y a 11h",
+      "time": "Il y a 12h",
       "pubDate": 1787689435.0
     },
     {
-      "id": "BBC News--3943325427357261199",
+      "id": "BBC News-5576006647566804099",
       "source": "BBC News",
       "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
       "excerpt": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
       "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 12h",
+      "time": "Il y a 13h",
       "pubDate": 1787687457.0
     },
     {
-      "id": "BBC News--8326603050554845661",
+      "id": "BBC News-5140438539471490996",
       "source": "BBC News",
       "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
       "excerpt": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
       "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 12h",
+      "time": "Il y a 13h",
       "pubDate": 1787687294.0
     },
     {
-      "id": "BBC News-317012063594431933",
+      "id": "BBC News--2407267139825535751",
       "source": "BBC News",
       "title": "Mass arrests in global crackdown on West African cyber-crime networks",
       "excerpt": "The operation included the arrest of 39 people in South Africa for romance and investment scams.",
       "link": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 12h",
+      "time": "Il y a 13h",
       "pubDate": 1787686237.0
     },
     {
-      "id": "NPR-3739808012492560628",
+      "id": "NPR-1561787853226248000",
       "source": "NPR",
       "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
       "excerpt": "The artist was a star performer in country music and went on to become one of the genre's most recognizable and universally adored ambassadors to broader popular culture.",
@@ -372,52 +399,34 @@
       "pubDate": 1787681852.0
     },
     {
-      "id": "NPR-3348592120277505723",
-      "source": "NPR",
-      "title": "DHS acknowledges the noncitizen numbers it touted on voter rolls were inflated",
-      "excerpt": "The Trump administration claimed to have found 250,000 noncitizens on the voter rolls in four states. But the agency's communications with states since then indicate that data was preliminary.",
-      "link": "https://www.npr.org/2026/08/25/nx-s1-5940807/noncitizen-voters-trump-nevada-call",
-      "time": "Il y a 14h",
-      "pubDate": 1787681723.0
-    },
-    {
-      "id": "The Guardian--7797596423062472521",
+      "id": "The Guardian-4689219312791006864",
       "source": "The Guardian",
       "title": "At least 47 killed and dozens kidnapped in gang attack near Haiti capital",
       "excerpt": "Gang leader threatens to kill hostages after attack in Kenscoff in which homes were also set alight <ul><li><a href=\"https://www.theguardian.com/global-development/2026/jul/02/it-was-a-massacre-haiti-...",
       "link": "https://www.theguardian.com/world/2026/aug/25/gang-attack-kenscoff-port-au-prince-haiti",
-      "time": "Il y a 14h",
+      "time": "Il y a 15h",
       "pubDate": 1787679316.0
     },
     {
-      "id": "BBC News-1940781617764185839",
+      "id": "BBC News--7944583710327831715",
       "source": "BBC News",
       "title": "Nigeria's president orders manhunt after kidnappers upload victim video",
       "excerpt": "The footage shows dozens of men, women and children sitting in a forest.",
       "link": "https://www.bbc.co.uk/news/articles/c0rewkerdpyo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 15h",
+      "time": "Il y a 16h",
       "pubDate": 1787676011.0
     },
     {
-      "id": "BBC News-853834345481822031",
+      "id": "BBC News--2798266106509815348",
       "source": "BBC News",
       "title": "European rights court orders Turkey to free imprisoned businessman",
       "excerpt": "Philanthropist and activist Osman Kavala has spent almost a decade in jail over charges rights groups say are politically motivated.",
       "link": "https://www.bbc.co.uk/news/articles/cn5drvyg92no?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 16h",
+      "time": "Il y a 17h",
       "pubDate": 1787673500.0
     },
     {
-      "id": "NPR--7921627018091939131",
-      "source": "NPR",
-      "title": "Canada hits back at the U.S. with tariffs as the countries' trade fight escalates",
-      "excerpt": "The measures come after President Trump imposed 50% tariffs on many Canadian goods and threatened more after trade talks broke down on Friday.",
-      "link": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs",
-      "time": "Il y a 17h",
-      "pubDate": 1787671218.0
-    },
-    {
-      "id": "BBC News--1711405904060944145",
+      "id": "BBC News--2171406867335812810",
       "source": "BBC News",
       "title": "Swedish military seeks to take over Russian-owned estate near naval base",
       "excerpt": "The armed forces request the seizure of the plot near Muskö Naval Base citing threats from Russian drones.",
@@ -426,61 +435,52 @@
       "pubDate": 1787671130.0
     },
     {
-      "id": "NPR-8958449537798433315",
-      "source": "NPR",
-      "title": "'Forget about going back': 9 years on, Rohingya crisis enters dangerous phase",
-      "excerpt": "The world largely moved on from the Rohingya crisis. But the exodus has not stopped, aid is shrinking and a generation of refugees is growing up with little prospect of going home.<br />",
-      "link": "https://www.npr.org/2026/08/25/g-s1-140007/forget-about-going-back-9-years-on-rohingya-crisis-enters-dangerous-phase",
-      "time": "Il y a 17h",
-      "pubDate": 1787669952.0
-    },
-    {
-      "id": "The Guardian-3335033666811127882",
+      "id": "The Guardian--4261739033914350890",
       "source": "The Guardian",
       "title": "Supreme court threatens midterms mail-in voting as it backs Trump plan | First Thing",
       "excerpt": "US president has been obsessed with restricting the ability to vote by mail, despite using it himself. Plus, why we are still fascinated with Meg from the White Stripes <ul><li><a href=\"https://www.th...",
       "link": "https://www.theguardian.com/us-news/2026/aug/25/first-thing-us-supreme-court-midterms-mail-in-voting-trump-plan",
-      "time": "Il y a 19h",
+      "time": "Il y a 20h",
       "pubDate": 1787661113.0
     },
     {
-      "id": "BBC News-1288326172961684893",
+      "id": "BBC News--4351098595302631029",
       "source": "BBC News",
       "title": "Brain disease in dead NFL players 'higher than previously shown'",
       "excerpt": "A new study says at least one in four ex-NFL players who died between 2016 and 2021 had a degenerative brain disease but the true figure could be much higher.",
       "link": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 20h",
+      "time": "Il y a 21h",
       "pubDate": 1787658880.0
     },
     {
-      "id": "BBC News-6949234473960811691",
+      "id": "BBC News--469114402221791947",
       "source": "BBC News",
       "title": "Lockerbie bombing trial postponed days before it was due to start",
       "excerpt": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
       "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 20h",
+      "time": "Il y a 21h",
       "pubDate": 1787658843.0
     },
     {
-      "id": "BBC News--4092239753091134580",
+      "id": "BBC News--7050373239881631490",
       "source": "BBC News",
       "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
       "excerpt": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
       "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 20h",
+      "time": "Il y a 21h",
       "pubDate": 1787658816.0
     },
     {
-      "id": "BBC News-5181100615606097037",
+      "id": "BBC News--1713806019759975465",
       "source": "BBC News",
       "title": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
       "excerpt": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital.",
       "link": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 23h",
+      "time": "Il y a 1j",
       "pubDate": 1787647937.0
     },
     {
-      "id": "The Guardian--8799685782989533433",
+      "id": "The Guardian-5427592867709053664",
       "source": "The Guardian",
       "title": "Colombia’s new president Abelardo de la Espriella announces immigration crackdown",
       "excerpt": "Far-right leader echoes ally Donald Trump and says operations to ‘track down illegal immigrants’ should begin this week, amid earthquake aftermath Colombia’s far-right president, Abelardo de la Esprie...",
@@ -489,7 +489,7 @@
       "pubDate": 1787618087.0
     },
     {
-      "id": "The Guardian--2504326104929311820",
+      "id": "The Guardian-816712076252753498",
       "source": "The Guardian",
       "title": "US strikes a vessel in the eastern Pacific, killing 2 people in first attack in months",
       "excerpt": "US Southern Command has struck another vessel in the eastern Pacific, killing two accused of trafficking drugs The US military has launched a deadly strike on a vessel in the Pacific Ocean, killing tw...",
@@ -498,7 +498,7 @@
       "pubDate": 1787607648.0
     },
     {
-      "id": "The Guardian-4579069196725755283",
+      "id": "The Guardian-7635002348538046698",
       "source": "The Guardian",
       "title": "Prince Harry quits board of wildlife charity after rangers’ human rights abuses",
       "excerpt": "Spokesperson for Duke of Sussex says he remains an ‘active and avid supporter’ of African Parks’ mission The Duke of Sussex has stepped down from the board of a major African wildlife charity that had...",
@@ -507,7 +507,7 @@
       "pubDate": 1787592890.0
     },
     {
-      "id": "The Guardian-2388535759040729027",
+      "id": "The Guardian-5829320798865063155",
       "source": "The Guardian",
       "title": "Video shows hundreds held captive after Nigeria mosque kidnapping",
       "excerpt": "Gunmen ‌attacked worshippers in Dekara village on Friday taking women, children and older people An armed group has posted a video showing what ⁠residents said were about ⁠600 women, children and ​old...",
@@ -516,7 +516,7 @@
       "pubDate": 1787581154.0
     },
     {
-      "id": "The Guardian--6328723335081603490",
+      "id": "The Guardian--2768220319303981444",
       "source": "The Guardian",
       "title": "Children make up half of suspected mpox cases in Guinea-Bissau as epidemic spreads",
       "excerpt": "West African country reports 46 suspected cases in outbreak declared in July, amid fears virus may be spreading undetected More than half of the mpox cases reported in Guinea-Bissau have been among ch...",
@@ -525,7 +525,7 @@
       "pubDate": 1787566294.0
     },
     {
-      "id": "The Guardian-4244469403771324974",
+      "id": "The Guardian-559837048832431777",
       "source": "The Guardian",
       "title": "Landslide at waste mound in Guinea capital kills 30, government says",
       "excerpt": "Dump site in Conakry, which minister had just promised to move, collapsed after heavy rain in west African state A ⁠landslide at a huge waste dump in Guinea’s capital has killed 30 people, the governm...",
@@ -534,7 +534,7 @@
       "pubDate": 1787523413.0
     },
     {
-      "id": "The Guardian-7742439864850192876",
+      "id": "The Guardian--1205286696054911721",
       "source": "The Guardian",
       "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
       "excerpt": "Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown  Twenty deportees from the United States arrived in Liberia on Thursday, as part of a new a...",
@@ -543,5 +543,5 @@
       "pubDate": 1787255879.0
     }
   ],
-  "lastUpdate": "2026-08-26T08:22:26.008079"
+  "lastUpdate": "2026-08-26T09:06:11.345082"
 }
