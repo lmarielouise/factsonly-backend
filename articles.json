@@ -1,477 +1,480 @@
 {
   "francophone": [
     {
-      "id": "Libération-940487706238526556",
+      "id": "France Info-6742399584835701366",
+      "source": "France Info",
+      "title": "Des frappes israéliennes font quatre morts dans le sud du Liban, selon le ministère de la Santé libanais",
+      "excerpt": "Alors que les affrontements ont diminué depuis juin, l'armée israélienne poursuit ses opérations militaires sporadiques dans le sud du pays, où l'Etat hébreu continue d'occuper une bande frontalière d...",
+      "link": "https://www.franceinfo.fr/monde/proche-orient/l-armee-israelienne-ordonne-aux-habitants-d-une-zone-du-sud-du-liban-d-evacuer_8179475.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 5 min",
+      "pubDate": 1788685920.0
+    },
+    {
+      "id": "France Info--2991747362485465877",
+      "source": "France Info",
+      "title": "Un enfant tué et sept personnes blessées après une explosion causée par une fuite de gaz dans un pavillon à Aubervilliers",
+      "excerpt": "Une maison de la rue Paul Verlaine a été complètement détruite samedi soir. Une enquête judiciaire a été ouverte sous l'autorité du parquet de Bobigny.",
+      "link": "https://www.franceinfo.fr/faits-divers/un-enfant-tue-et-sept-personnes-blessees-apres-une-explosion-causee-par-une-fuite-de-gaz-dans-un-pavillon-a-aubervilliers_8179433.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 17 min",
+      "pubDate": 1788685179.0
+    },
+    {
+      "id": "Le Monde--742112531483852155",
+      "source": "Le Monde",
+      "title": "Au Népal, les autorités répètent que les recherches se poursuivent malgré les difficultés",
+      "excerpt": "Les secours assurent continuer leurs recherches dans le nord du Népal, onze jours après la crue soudaine qui a causé 1 341 morts et près de 5 000 disparus. Quatre personnes ont été retrouvées vivantes...",
+      "link": "https://www.lemonde.fr/planete/article/2026/09/06/au-nepal-les-autorites-repetent-que-les-recherches-se-poursuivent-malgre-les-difficultes_6767059_3244.html",
+      "time": "Il y a 50 min",
+      "pubDate": 1788683234.0
+    },
+    {
+      "id": "France Info--8936432293912592872",
+      "source": "France Info",
+      "title": "L'Iran réplique après les frappes américaines sur trois de ses pétroliers dans le détroit d'Ormuz",
+      "excerpt": "L'Iran continue de bloquer le détroit d'Ormuz, tandis que les Etats-Unis imposent pour leur part un blocus sur les ports iraniens.",
+      "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-iran-replique-apres-les-frappes-americaines-sur-trois-de-ses-petroliers-dans-le-detroit-d-ormuz_8179538.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1788682488.0,
+      "sources": [
+        "France Info",
+        "Libération"
+      ],
+      "multiSource": true,
+      "sourceCount": 2
+    },
+    {
+      "id": "Libération-2053885529143515351",
+      "source": "Libération",
+      "title": "Indonésie : les vols suspendus dans six aéroports après une éruption volcanique",
+      "excerpt": "Le Krakatoa, entre Java et Sumatra, est entré en activité samedi et ses cendres se sont dispersées dans l’espace aérien.",
+      "link": "https://www.liberation.fr/international/asie-pacifique/indonesie-les-vols-suspendus-dans-six-aeroports-apres-une-eruption-volcanique-20260906_X2HHL6X26BGTHDSHGUC3ZL4OQU/",
+      "time": "Il y a 1h",
+      "pubDate": 1788681206.0
+    },
+    {
+      "id": "France Info--5349894339212111632",
+      "source": "France Info",
+      "title": "Jordan Bardella tente de désamorcer les polémiques, après son déplacement au Royaume-Uni",
+      "excerpt": "Au lendemain de son déplacement au Royaume-Uni, Jordan Bardella a répondu aux critiques sur l’accord migratoire, l’Ukraine et sa stratégie avec Marine Le Pen.",
+      "link": "https://www.franceinfo.fr/politique/front-national/jordan-bardella-tente-de-desamorcer-les-polemiques-apres-son-deplacement-au-royaume-uni_8179535.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1788681018.0
+    },
+    {
+      "id": "Libération--474462623546392892",
+      "source": "Libération",
+      "title": "«Nous sommes confrontés à de nombreux défis» : au Népal, les secours toujours à la recherche de survivants",
+      "excerpt": "Le dernier bilan fait état de 1 341 morts et 4 996 disparus, parmi lesquels des centaines de touristes et de pèlerins étrangers, ainsi qu’environ 900 agents ou ouvriers qui se trouvaient dans des cent...",
+      "link": "https://www.liberation.fr/international/nous-sommes-confrontes-a-de-nombreux-defis-au-nepal-les-secours-toujours-a-la-recherche-de-survivants-20260906_PPL63APIKVHX3H5XV7LE5OUZAQ/",
+      "time": "Il y a 1h",
+      "pubDate": 1788680040.0
+    },
+    {
+      "id": "France Info-8471629802055697790",
+      "source": "France Info",
+      "title": "\"Il y a une extrapolation du déclin économique\" : comment l'extrême droite allemande est arrivée aux portes du pouvoir en Saxe-Anhalt",
+      "excerpt": "L'AfD part favori pour les élections régionales dans ce Land, dimanche. Le parti pourrait même, pour la première fois, être en mesure de gouverner seul.",
+      "link": "https://www.franceinfo.fr/monde/europe/allemagne/il-y-a-une-extrapolation-du-declin-economique-comment-l-extreme-droite-allemande-est-arrivee-aux-portes-du-pouvoir-en-saxe-anhalt_8175638.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1788679313.0
+    },
+    {
+      "id": "France Info--102545007195896892",
+      "source": "France Info",
+      "title": "Robin Morgan, poétesse et figure du mouvement féministe américain, est morte à l'âge de 85 ans",
+      "excerpt": "La militante féministe, écrivaine et poétesse américaine Robin Morgan, figure du mouvement féministe aux Etats-Unis et à l'international, est morte samedi à l'âge de 85 ans, a annoncé son fils Blake M...",
+      "link": "https://www.franceinfo.fr/culture/robin-morgan-poetesse-et-figure-du-mouvement-feministe-americain-est-morte-a-l-age-de-85-ans_8179511.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1788679257.0
+    },
+    {
+      "id": "France Info-788087056817880818",
+      "source": "France Info",
+      "title": "\"Prenez le voile et sortez\" : pourquoi des femmes et des hommes se filment voilés pour dénoncer la proposition du RN",
+      "excerpt": "Sur les réseaux sociaux, des femmes et des hommes choisissent de se filmer avec un foulard sur la tête, en soutien aux femmes musulmanes et pour dénoncer la mesure défendue par le Rassemblement nation...",
+      "link": "https://www.franceinfo.fr/politique/prenez-le-voile-et-sortez-pourquoi-des-femmes-et-des-hommes-se-filment-voiles-pour-denoncer-la-proposition-du-rn_8179499.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 2h",
+      "pubDate": 1788678727.0
+    },
+    {
+      "id": "Libération-1856661043868369222",
+      "source": "Libération",
+      "title": "Pour une loi d’urgence climatique et écologique : l’appel de Cyril Dion et de Claire Nouvian",
+      "excerpt": "A l’initiative du réalisateur et la directrice de l’ONG Bloom, un collectif de personnalités appelle le Parlement à légiférer au plus vite sur des mesures permettant de stopper les industries qui détr...",
+      "link": "https://www.liberation.fr/idees-et-debats/tribunes/pour-une-loi-durgence-climatique-et-ecologique-lappel-de-cyril-dion-et-de-claire-nouvian-20260906_S5XRA6HAMBDM5L672GCT4QNSHE/",
+      "time": "Il y a 2h",
+      "pubDate": 1788678712.0
+    },
+    {
+      "id": "Libération--816720500601957561",
+      "source": "Libération",
+      "title": "Naufrage d’un chalutier français : les corps des deux marins retrouvés",
+      "excerpt": "Leur bateau, immatriculé à Saint-Brieuc, avait coulé le 29 août. Trois des cinq membres de l’équipage avaient été sauvés.",
+      "link": "https://www.liberation.fr/societe/naufrage-dun-chalutier-francais-les-corps-des-deux-marins-retrouves-20260906_2GPRSN2DWRE2PLH5K5OKIS6CIQ/",
+      "time": "Il y a 2h",
+      "pubDate": 1788677465.0
+    },
+    {
+      "id": "Libération-5757606103705634455",
+      "source": "Libération",
+      "title": "Six départements en vigilance orange canicule dimanche et lundi",
+      "excerpt": "Ardèche, Aude, Drôme, Gard, Hérault et Vaucluse sont concernés. Samedi 5 septembre, des températures inédites pour un mois de septembre ont été enregistrées.",
+      "link": "https://www.liberation.fr/environnement/climat/six-departements-en-vigilance-orange-canicule-dimanche-et-lundi-20260906_7GZQCXGHUVASBMLB42DFYZFLDM/",
+      "time": "Il y a 3h",
+      "pubDate": 1788675389.0,
+      "sources": [
+        "Libération",
+        "Le Monde"
+      ],
+      "multiSource": true,
+      "sourceCount": 2
+    },
+    {
+      "id": "France Info--1270016828103748547",
+      "source": "France Info",
+      "title": "Six départements du Sud toujours en vigilance orange \"canicule\", des températures \"encore jamais atteintes en septembre\" ont été \"très fréquemment enregistrées\"",
+      "excerpt": "Les fortes chaleurs vont persister jusqu'à lundi en Ardèche, dans l'Aude, la Drôme, le Gard, l'Hérault, et le Vaucluse.",
+      "link": "https://www.franceinfo.fr/environnement/crise-climatique/six-departements-du-sud-toujours-en-vigilance-orange-canicule-des-temperatures-encore-jamais-atteintes-en-septembre-ont-ete-tres-frequemment-enregistrees_8179448.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 3h",
+      "pubDate": 1788675126.0
+    },
+    {
+      "id": "Le Monde-9009694933521136919",
+      "source": "Le Monde",
+      "title": "En Indonésie, six aéroports paralysés après l’éruption de l’Anak Krakatoa",
+      "excerpt": "Six aéroports indonésiens, dont celui de Jakarta, ont été fermés dimanche en raison des cendres émises par l’Anak Krakatoa. Plus de 200 vols et 20 000 passagers ont déjà été affectés.",
+      "link": "https://www.lemonde.fr/international/article/2026/09/06/en-indonesie-l-aeroport-de-jakarta-ferme-apres-l-eruption-de-l-anak-krakatoa_6766955_3210.html",
+      "time": "Il y a 3h",
+      "pubDate": 1788675038.0
+    },
+    {
+      "id": "Libération-3077478036120519030",
+      "source": "Libération",
+      "title": "Aubervilliers : un enfant de 2 ans meurt dans l’explosion d’un pavillon",
+      "excerpt": "Selon le maire de la commune de Seine-Saint-Denis, une fuite de gaz est à l’origine du drame. Sept personnes ont été blessées, dont deux sont en urgence absolue.",
+      "link": "https://www.liberation.fr/societe/un-enfant-meurt-dans-lexplosion-dun-pavillon-a-aubervilliers-20260906_AFL2GHC55FFNLAZGYLVNSYUH4E/",
+      "time": "Il y a 3h",
+      "pubDate": 1788674807.0
+    },
+    {
+      "id": "Libération--5449124676207481203",
+      "source": "Libération",
+      "title": "Pourquoi les voyageurs se passionnent pour le «tourisme de supermarchés»",
+      "excerpt": "Dans son pays, parcourir les rayons pour faire ses courses relève souvent de la corvée. A l’étranger, les magasins d’alimentation représentent une activité touristique à part entière, portée par les r...",
+      "link": "https://www.liberation.fr/lifestyle/voyages/pourquoi-les-voyageurs-se-passionnent-pour-le-tourisme-de-supermarches-20260906_6Q6MP5XMPZE67LQNXLLUHDFGXM/",
+      "time": "Il y a 3h",
+      "pubDate": 1788674400.0
+    },
+    {
+      "id": "Le Monde-2293556350345307735",
+      "source": "Le Monde",
+      "title": "L’explosion d’un pavillon à Aubervilliers cause la mort d’un enfant et fait sept blessés après une fuite de gaz ; une enquête judiciaire est ouverte",
+      "excerpt": "Deux victimes sont en urgence absolue après ce drame survenu rue Paul-Verlaine, dans cette ville de Seine-Saint-Denis, en région parisienne.",
+      "link": "https://www.lemonde.fr/societe/article/2026/09/06/l-explosion-d-un-pavillon-a-aubervilliers-cause-la-mort-d-un-enfant-et-fait-sept-blesses-apres-une-fuite-de-gaz-annonce-la-mairie_6766921_3224.html",
+      "time": "Il y a 3h",
+      "pubDate": 1788674269.0
+    },
+    {
+      "id": "Libération--7377143671728154967",
+      "source": "Libération",
+      "title": "Allemagne : comment se jouera l’issue des élections régionales en Saxe-Anhalt ?",
+      "excerpt": "Ce dimanche 6 septembre, un scrutin régional pourrait voir la victoire de l’AfD, le parti d’extrême droite allemand. Mais, même arrivé en tête, il pourrait être empêché de former un gouvernement, selo...",
+      "link": "https://www.liberation.fr/international/europe/allemagne-comment-se-jouera-lissue-des-elections-en-saxe-anhalt-20260906_MGWYBCRJ3JFVHGWWSR3PQ2FKLY/",
+      "time": "Il y a 4h",
+      "pubDate": 1788671640.0
+    },
+    {
+      "id": "France Info-4808491418679199261",
+      "source": "France Info",
+      "title": "Dix coups de feu portés en moins de 48 secondes : la nuit où l'ex-rugbyman Federico Martin Aramburu a été abattu à Paris",
+      "excerpt": "Quatre personnes sont jugées du 7 au 25 septembre à Paris après la mort de l'ancien international argentin. Il y a quatre ans et demi, il a été tué après une soirée marquée par une bagarre, des tirs e...",
+      "link": "https://www.franceinfo.fr/faits-divers/assassinat-du-rugbyman-federico-martin-aramburu/recit-dix-coups-de-feu-portes-en-moins-de-48-secondes-la-nuit-ou-l-ex-rugbyman-federico-martin-aramburu-a-ete-abattu-a-paris_8161016.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 4h",
+      "pubDate": 1788671045.0
+    },
+    {
+      "id": "France Info-2523306394871373448",
+      "source": "France Info",
+      "title": "Deux hommes accusent Joaquim Pueyo, l'ex-maire d'Alençon, d'attouchements sur mineurs",
+      "excerpt": "Après le journaliste Frédéric Pommier, deux nouveaux témoins accusent l'ancien député-maire d'Alençon de les avoir agressés sexuellement quand ils étaient mineurs. Des faits pour lesquels Patrick et T...",
+      "link": "https://www.franceinfo.fr/enquetes-franceinfo/enquete-deux-hommes-accusent-joaquim-pueyo-d-attouchements-sur-mineurs_8177357.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 4h",
+      "pubDate": 1788669713.0
+    },
+    {
+      "id": "Le Monde-1965872970074546704",
+      "source": "Le Monde",
+      "title": "Présidentielle 2027 : les risques d’une campagne à l’ombre de « l’esprit de défaite »",
+      "excerpt": "De nombreux responsables politiques semblent avoir acté un duel entre le RN et LFI, et jouent déjà le coup d’après. Les partis de gouvernement peinent à proposer des idées nouvelles et s’enlisent dans...",
+      "link": "https://www.lemonde.fr/politique/article/2026/09/06/presidentielle-2027-les-risques-d-une-campagne-a-l-ombre-de-l-esprit-de-defaite_6766815_823448.html",
+      "time": "Il y a 5h",
+      "pubDate": 1788667212.0
+    },
+    {
+      "id": "Libération--2000986081567082391",
       "source": "Libération",
       "title": "Au Rwanda, l’arrestation de jeunes femmes pour tenues jugées «indécentes» provoque un tollé sur les réseaux sociaux",
       "excerpt": "Dénoncé par des internautes, le harcèlement policier envers de jeunes Rwandaises a provoqué l’indignation dans le pays. Ces faits révèlent également certaines contradictions sociétales au Rwanda.",
       "link": "https://www.liberation.fr/international/afrique/au-rwanda-larrestation-de-jeunes-femmes-pour-tenues-jugees-indecentes-provoque-un-tolle-sur-les-reseaux-sociaux-20260906_5RCNQQMPZNDOHONG6EEGEAGHGE/",
-      "time": "Il y a 1h",
+      "time": "Il y a 5h",
       "pubDate": 1788667201.0
     },
     {
-      "id": "Libération--7232368167462718481",
-      "source": "Libération",
-      "title": "Assassinat d’Aramburú, victime de militants fascistes : Le Priol et Bouvier, itinéraire de deux héritiers de la «GUD connection»",
-      "excerpt": "Agressions, torture et sentiment d’impunité : le parcours de Loïk Le Priol et de Romain Bouvier, jugés à partir du lundi 7 septembre pour leur participation au meurtre du rugbyman en 2022, raconte leu...",
-      "link": "https://www.liberation.fr/societe/police-justice/assassinat-daramburu-victime-de-militants-fascistes-le-priol-et-bouvier-itineraire-de-deux-heritiers-de-la-gud-connection-20260906_GNKY74PIC5F27LMB4T5G2UPKPM/",
-      "time": "Il y a 1h",
-      "pubDate": 1788667201.0
+      "id": "Le Monde--7492878669993052606",
+      "source": "Le Monde",
+      "title": "Antoine Volodine signe simultanément onze livres sous le nom d’Infernus Iohannes : autant de points finaux",
+      "excerpt": "L’écrivain affirme clore son œuvre par cet extraordinaire geste d’écriture, sous le titre générique de « Retour au goudron », dans la perspective de sa propre fin. Repères de lecture.",
+      "link": "https://www.lemonde.fr/livres/article/2026/09/06/antoine-volodine-signe-simultanement-onze-livres-sous-le-nom-d-infernus-iohannes-autant-de-points-finaux_6766777_3260.html",
+      "time": "Il y a 5h",
+      "pubDate": 1788665414.0
     },
     {
-      "id": "Libération-2978150614920994153",
-      "source": "Libération",
-      "title": "«L’Autre Côté de la nuit» de Stéphane Chaumet, nid de nazis à la Paz",
-      "excerpt": "Stéphane Chaumet imagine une enquête sur un couple d’Allemands sauvagement assassiné en Bolivie vingt ans après la chute du régime nazi, qui évite la naphtaline.",
-      "link": "https://www.liberation.fr/culture/livres/lautre-cote-de-la-nuit-de-stephane-chaumet-nid-de-nazis-a-la-paz-20260906_YV2B63OCTVF2VIJEGQUIZ55IOE/",
-      "time": "Il y a 1h",
-      "pubDate": 1788667201.0
-    },
-    {
-      "id": "Le Monde-6992950678391949366",
+      "id": "Le Monde-5321387814385493042",
       "source": "Le Monde",
       "title": "Pourquoi l’extrême droite pourrait gouverner la Saxe-Anhalt : ce qu’il faut savoir avant les élections du 6 septembre",
       "excerpt": "Donnée à environ 40 % des intentions de vote dans les sondages, l’AfD pourrait remporter la majorité absolue dans ce Land de l’est de l’Allemagne. Un scénario inédit qui s’explique par des dynamiques...",
       "link": "https://www.lemonde.fr/international/article/2026/09/06/pourquoi-l-extreme-droite-pourrait-gouverner-la-saxe-anhalt-ce-qu-il-faut-savoir-avant-les-elections-du-6-septembre_6766775_3210.html",
-      "time": "Il y a 1h",
+      "time": "Il y a 6h",
       "pubDate": 1788664512.0
     },
     {
-      "id": "Le Monde--4946665041348659483",
+      "id": "Le Monde--8846893537164108102",
       "source": "Le Monde",
-      "title": "Attal, Mélenchon, Tondelier : la campagne présidentielle s’est invitée à la braderie de Lille",
-      "excerpt": "Trois candidats ont profité, samedi, des deux millions de visiteurs attendus pour défendre leur programme et critiquer les dernières sorties du Rassemblement national, qui affirme vouloir « couper le...",
+      "title": "A la Braderie de Lille, Gabriel Attal, Jean-Luc Mélenchon et Marine Tondelier défendent leurs programmes et critiquent le RN",
+      "excerpt": "Trois candidats à l’élection présidentielle ont profité, samedi, des deux millions de visiteurs attendus pour défendre leurs idées et critiquer les dernières sorties du Rassemblement national, qui aff...",
       "link": "https://www.lemonde.fr/politique/article/2026/09/06/attal-melenchon-tondelier-la-campagne-presidentielle-s-est-invitee-a-la-braderie-de-lille_6766773_823448.html",
-      "time": "Il y a 2h",
-      "pubDate": 1788663643.0
+      "time": "Il y a 6h",
+      "pubDate": 1788663633.0
     },
     {
-      "id": "Le Monde-685235768013306752",
-      "source": "Le Monde",
-      "title": "La tournée européenne de Jordan Bardella minée par les polémiques",
-      "excerpt": "Les visites du président du RN au Royaume-Uni et en Italie, vendredi et samedi, destinées à soigner l’image du parti sur la scène européenne, ont viré au fiasco, achoppant sur les dossiers de l’immigr...",
-      "link": "https://www.lemonde.fr/politique/article/2026/09/06/la-tournee-europeenne-de-jordan-bardella-minee-par-les-polemiques_6766770_823448.html",
-      "time": "Il y a 2h",
-      "pubDate": 1788663626.0
-    },
-    {
-      "id": "Le Monde-1119234830514520345",
+      "id": "Le Monde--6795706959786839318",
       "source": "Le Monde",
       "title": "Vladimir Poutine rappelle ses exigences aux deux émissaires de Donald Trump venus au Kremlin avec des « idées » pour la paix",
       "excerpt": "Avant leur première visite à Kiev prévue ce dimanche, les envoyés du président américain Steve Witkoff et Jared Kushner étaient de nouveau à Moscou samedi. Aucune percée dans les négociations de paix...",
       "link": "https://www.lemonde.fr/international/article/2026/09/06/vladimir-poutine-rappelle-ses-exigences-aux-deux-emissaires-de-donald-trump-venus-au-kremlin-avec-des-idees-pour-la-paix_6766768_3210.html",
-      "time": "Il y a 2h",
-      "pubDate": 1788663607.0
-    },
-    {
-      "id": "Le Monde--7254425892119638516",
-      "source": "Le Monde",
-      "title": "« Le Liban a sans doute aujourd’hui le gouvernement le plus respectable de son histoire »",
-      "excerpt": "Le premier ministre, Nawaf Salam, ancien président de la Cour internationale de justice, accorde une priorité au droit qui n’a pas d’équivalent dans l’histoire libanaise.",
-      "link": "https://www.lemonde.fr/un-si-proche-orient/article/2026/09/06/le-liban-a-sans-doute-aujourd-hui-le-gouvernement-le-plus-respectable-de-son-histoire_6766769_6116995.html",
-      "time": "Il y a 2h",
-      "pubDate": 1788663607.0
-    },
-    {
-      "id": "Le Monde--3244794943927386696",
-      "source": "Le Monde",
-      "title": "Isar Aerospace réussit le premier lancement orbital privé depuis l’Europe continentale",
-      "excerpt": "L’exploit ouvre la voie à une nouvelle concurrence européenne sur le marché des lancements spatiaux privés, face à des acteurs comme SpaceX.",
-      "link": "https://www.lemonde.fr/sciences/article/2026/09/06/isar-aerospace-reussit-le-premier-lancement-orbital-prive-depuis-l-europe-continentale_6766601_1650684.html",
       "time": "Il y a 6h",
-      "pubDate": 1788648262.0
+      "pubDate": 1788663607.0
     },
     {
-      "id": "Le Monde--4077305968930701703",
+      "id": "Le Monde--7761485919292236887",
       "source": "Le Monde",
-      "title": "« Fidèles, avec des différences » : depuis son fief de Nice, Eric Ciotti appelle son alliée Marine Le Pen à adhérer à la retraite par capitalisation",
-      "excerpt": "Le maire de Nice, qui espère rabattre l’électorat de la droite bourgeoise vers la candidate du RN, ne désespère pas de voir cette dernière changer d’avis sur les retraites. A rebours de Louis Aliot, i...",
-      "link": "https://www.lemonde.fr/politique/article/2026/09/05/fideles-avec-des-differences-depuis-son-fief-de-nice-eric-ciotti-appelle-son-alliee-marine-le-pen-a-adherer-a-la-retraite-par-capitalisation_6766535_823448.html",
-      "time": "Il y a 7h",
-      "pubDate": 1788642621.0
-    },
-    {
-      "id": "France Info-6544579850840811165",
-      "source": "France Info",
-      "title": "Guerre en Ukraine : la rencontre entre Vladimir Poutine et les émissaires américains de Donald Trump à Moscou s'est achevée selon les médias d'Etat russes",
-      "excerpt": "Après leur visite à Moscou, Jared Kushner et Steve Witkoff doivent se rendre à Kiev pour la première fois depuis le début de leur travail de médiateur dans ce conflit débuté en 2022.",
-      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-les-emissaires-de-donald-trump-attendus-a-moscou-et-a-kiev-pour-faire-avancer-les-choses-selon-le-president-americain_8178449.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 8h",
-      "pubDate": 1788641467.0
-    },
-    {
-      "id": "France Info-8220181287913177582",
-      "source": "France Info",
-      "title": "L'équipe de France valide sa qualification en quarts de finale de la Coupe du monde féminine de basket après sa victoire face à la Corée du Sud",
-      "excerpt": "Après un premier quart-temps poussif, les Bleues ont largement dominé les Sud-Coréennes samedi soir. Elles gagnent leur place pour la phase à élimination directe avec une deuxième victoire en deux mat...",
-      "link": "https://www.franceinfo.fr/sports/basket/l-equipe-de-france-valide-sa-qualification-en-quarts-de-finale-de-la-coupe-du-monde-feminine-de-basket-apres-sa-victoire-face-a-la-coree-du-sud_8179100.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 8h",
-      "pubDate": 1788640998.0
-    },
-    {
-      "id": "France Info-4251625362628021217",
-      "source": "France Info",
-      "title": "\"Soumission à la Russie\", \"patriotes de pacotille\"... Les candidats à la présidentielle fustigent la position du RN sur l'aide à l'Ukraine",
-      "excerpt": "Sur BFMTV, Louis Aliot a suggéré d'arrêter de soutenir financièrement l'Ukraine, reprenant à son compte l'expression \"couper le robinet\".",
-      "link": "https://www.franceinfo.fr/elections/presidentielle/parti-de-la-soumission-a-la-russie-patriotes-de-pacotille-les-candidats-a-la-presidentielle-fustigent-la-position-du-rn-sur-l-aide-a-l-ukraine_8178707.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 10h",
-      "pubDate": 1788634840.0
-    },
-    {
-      "id": "Libération-4804738222404671605",
-      "source": "Libération",
-      "title": "Présidentielle 2027 : Jean-Luc Mélenchon à la braderie de Lille, à fond sur le pouvoir d’achat",
-      "excerpt": "Devant une foule conquise, le candidat insoumis a, ce samedi, déroulé notamment les aspects économiques et sociaux de son programme : blocage des prix et des loyers, augmentation du smic et annulation...",
-      "link": "https://www.liberation.fr/politique/elections/presidentielle-2027-jean-luc-melenchon-a-la-braderie-de-lille-a-fond-sur-le-pouvoir-dachat-20260905_GBAQNSSV55E2TESVNL3AOUNWLA/",
-      "time": "Il y a 10h",
-      "pubDate": 1788633082.0
-    },
-    {
-      "id": "Libération--1912325917506030135",
-      "source": "Libération",
-      "title": "Deux émissaires de Donald Trump ont rencontré Vladimir Poutine à Moscou avant d’aller en Ukraine",
-      "excerpt": "Jared Kushner et Steve Witkoff ont rencontré le président russe ce samedi 5 septembre, avant un déplacement à Kyiv prévu dimanche.",
-      "link": "https://www.liberation.fr/international/europe/guerre-en-ukraine-trump-envoie-ses-emissaires-a-moscou-et-a-kyiv-20260905_SSK3ISIWH5BFZKL262VHQKAC7U/",
-      "time": "Il y a 11h",
-      "pubDate": 1788630414.0
-    },
-    {
-      "id": "Libération-724191047878601155",
-      "source": "Libération",
-      "title": "Présidentielle 2027 : Eric Ciotti, maire de Nice, propose «un pacte d’alliance» à Marine Le Pen",
-      "excerpt": "Le dirigeant de l’Union des droites pour la République (UDR) a officialisé, lors de sa rentrée politique à ce samedi, son soutien à la candidate du RN dans la course à l’Elysée. Il a mis en avant une...",
-      "link": "https://www.liberation.fr/politique/presidentielle-2027-eric-ciotti-maire-de-nice-propose-un-pacte-dalliance-a-marine-le-pen-20260905_ASP3I5ZKF5D25IALL3SS653NPI/",
-      "time": "Il y a 11h",
-      "pubDate": 1788630125.0
-    },
-    {
-      "id": "France Info-7090809514165933969",
-      "source": "France Info",
-      "title": "L'éditeur de \"Tetris\" fait bloc contre un jeu vidéo mis en ligne par la Maison Blanche",
-      "excerpt": "La présidence américaine a créé un jeu intitulé \"Build The Wall\" dont l'objectif est de construire un mur à la frontière très inspiré de la création de The Tetris Company. \"Nous prenons l'atteinte à l...",
-      "link": "https://www.franceinfo.fr/monde/usa/l-editeur-de-tetris-fait-bloc-contre-un-jeu-video-mis-en-ligne-par-la-maison-blanche_8178773.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 12h",
-      "pubDate": 1788625049.0
-    },
-    {
-      "id": "Libération--6127059513490981597",
-      "source": "Libération",
-      "title": "Violences sexistes et sexuelles : la loi intégrale arrive en commission à l’Assemblée",
-      "excerpt": "A partir de lundi, une commission spéciale entendra ministres et associations avant l’examen des amendements. Ce texte prévoit de couvrir toute la chaîne des violences.",
-      "link": "https://www.liberation.fr/societe/droits-des-femmes/violences-sexistes-et-sexuelles-la-loi-integrale-arrive-en-commission-a-lassemblee-20260905_GIKH6RQY3BFMNJQL45PJ7LDXAM/",
-      "time": "Il y a 13h",
-      "pubDate": 1788622632.0
-    },
-    {
-      "id": "Libération-8363710878301027369",
-      "source": "Libération",
-      "title": "Washington affirme avoir détruit trois pétroliers iraniens",
-      "excerpt": "L’armée américaine a ciblé samedi trois navires iraniens dans le golfe Persique et le golfe d’Oman, en riposte à des attaques contre ses bâtiments, alors que les affrontements ont repris après un mois...",
-      "link": "https://www.liberation.fr/international/moyen-orient/washington-affirme-avoir-detruit-trois-petroliers-iraniens-20260905_LC57MSQPJBECZGNX6OMDED35MI/",
-      "time": "Il y a 13h",
-      "pubDate": 1788622551.0
-    },
-    {
-      "id": "Le Monde-8062604977133369570",
-      "source": "Le Monde",
-      "title": "Foire aux vins 2026 : notre sélection des 100 meilleures bouteilles de la rentrée",
-      "excerpt": "Nos journalistes ont goûté plus de 300 vins proposés par 23 enseignes (supermarchés, caves, sites Internet) et en ont retenu 100, dont 43 % en bio ou en biodynamie. Un tiers des bouteilles sont à moin...",
-      "link": "https://www.lemonde.fr/m-styles/article/2026/09/05/foire-aux-vins-2026-notre-selection-des-100-meilleures-bouteilles-de-la-rentree_6766355_4497319.html",
-      "time": "Il y a 13h",
-      "pubDate": 1788621431.0
-    },
-    {
-      "id": "France Info--7800862396445795095",
-      "source": "France Info",
-      "title": "Pole position pour le Français Pierre Gasly au Grand Prix d'Italie, une première tricolore depuis 1997 en Formule 1",
-      "excerpt": "Le pilote d'Alpine a réalisé une performance majuscule, samedi, lors des qualifications du Grand Prix d'Italie. Pour la première fois de sa carrière, Pierre Gasly partira en pole position, dimanche.",
-      "link": "https://www.franceinfo.fr/sports/auto-moto/formule-1/pole-position-pour-le-francais-pierre-gasly-au-grand-prix-d-italie-une-premiere-tricolore-depuis-1997-en-formule-1_8178806.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 13h",
-      "pubDate": 1788621289.0
-    },
-    {
-      "id": "France Info--4834287674130610186",
-      "source": "France Info",
-      "title": "Quatre questions sur la demande de Rachida Dati de réintégrer la magistrature, à quelques jours de son procès pour corruption",
-      "excerpt": "L'ex-ministre de la Culture sera jugée du 16 au 28 septembre devant le tribunal correctionnel de Paris, notamment pour corruption et trafic d'influence passifs dans l'affaire Renault-Nissan.",
-      "link": "https://www.franceinfo.fr/politique/rachida-dati/quatre-questions-sur-la-demande-de-rachida-dati-de-reintegrer-la-magistrature-a-quelques-jours-de-son-proces-pour-corruption_8178530.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 14h",
-      "pubDate": 1788620411.0
-    },
-    {
-      "id": "Le Monde-3673182034498161678",
-      "source": "Le Monde",
-      "title": "« Manger est un acte culturel, social, affectif et symbolique. C’est pourquoi les injonctions alimentaires ont leurs limites »",
-      "excerpt": "Sommes-nous vraiment libres de choisir ce que nous mangeons ? Si notre alimentation reste individuelle dans son expression, elle est profondément collective dans sa construction, explique Kilien Steng...",
-      "link": "https://www.lemonde.fr/idees/article/2026/09/05/manger-est-un-acte-culturel-social-affectif-et-symbolique-c-est-pourquoi-les-injonctions-alimentaires-ont-leurs-limites_6766354_3232.html",
-      "time": "Il y a 14h",
-      "pubDate": 1788620408.0
-    },
-    {
-      "id": "Libération-1791022818336074444",
-      "source": "Libération",
-      "title": "«Resonance», un Asobo assez beau",
-      "excerpt": "Après un deuxième épisode raté de sa série «A Plague Tale», le studio bordelais se rachète avec un épisode lorgnant «Tomb Raider».",
-      "link": "https://www.liberation.fr/culture/jeux-video/resonance-un-asobo-assez-beau-20260905_KLYXTBMPZ5APNE3ICEUVX76XPU/",
-      "time": "Il y a 14h",
-      "pubDate": 1788618660.0
-    },
-    {
-      "id": "Libération--4581350390930268672",
-      "source": "Libération",
-      "title": "En visite en Cisjordanie, l’ambassadeur américain fait porter la sécurité des Palestiniens sur Israël",
-      "excerpt": "Mike Huckabee, fervent soutien d’Israël et de la colonisation, s’est rendu samedi 5 septembre auprès d’une communauté américano-palestinienne victime d’attaques. Il réclame des sanctions contre leurs...",
-      "link": "https://www.liberation.fr/international/moyen-orient/en-visite-en-cisjordanie-lambassadeur-americain-fait-porter-la-securite-des-palestiniens-sur-israel-20260905_FR45VW2T6BA6HIIRQWLKCBDKJI/",
-      "time": "Il y a 14h",
-      "pubDate": 1788618208.0
-    },
-    {
-      "id": "France Info--8693537436099351236",
-      "source": "France Info",
-      "title": "Au Liban, des frappes israéliennes dans le sud et l'est font quatre morts et 32 blessés",
-      "excerpt": "Le ministère de la Santé du Liban a fait état de frappes sur cinq localités, situées dans les régions méridionales de Tyr et Nabatiyé, et dans la Békaa, dans l'est du pays.",
-      "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/au-liban-des-frappes-israeliennes-dans-le-sud-et-l-est-font-trois-morts-et-23-blesses_8177951.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 15h",
-      "pubDate": 1788616768.0
-    },
-    {
-      "id": "France Info-2664147433496902972",
-      "source": "France Info",
-      "title": "Piratage du fisc : la DGFiP évoque \"une excellente nouvelle\" après l'arrestation de deux suspects et s'excuse une nouvelle fois pour ce \"vol\" de données",
-      "excerpt": "Au sein de la DGFiP, seulement \"100 personnes\" sur 93 000 agents s'occupent exclusivement de la cybersécurité, précise sur France Inter, la directrice générale des finances publiques.",
-      "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/piratage-du-fisc-la-dgfip-evoque-une-excellente-nouvelle-apres-l-arrestation-de-deux-suspects-et-s-excuse-une-nouvelle-fois-pour-ce-vol-de-donnees_8178776.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 15h",
-      "pubDate": 1788615660.0
-    },
-    {
-      "id": "France Info--1133581644873052977",
-      "source": "France Info",
-      "title": "Des manifestants anti-immigration ont bloqué l'accès au port de Douvres, le trafic maritime entre la France et le Royaume-Uni brièvement interrompu",
-      "excerpt": "La circulation était de nouveau \"fluide\" en milieu de journée, a fait savoir le port britannique de Douvres, après le blocage des routes menant à cette infrastructure.",
-      "link": "https://www.franceinfo.fr/societe/immigration/des-manifestants-anti-immigration-ont-bloque-l-acces-au-port-de-douvres-le-trafic-maritime-entre-la-france-et-le-royaume-uni-brievement-interrompu_8178743.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 15h",
-      "pubDate": 1788615191.0
-    },
-    {
-      "id": "Le Monde--3243378298781911206",
-      "source": "Le Monde",
-      "title": "Fiscalité : de plus en plus de communes ciblent les résidences secondaires",
-      "excerpt": "Un nombre croissant de villes et villages de tout bord politique augmentent la taxe sur les résidences secondaires. Au total, elle a rapporté 3 milliards d’euros en 2025. Mais le mouvement suscite une...",
-      "link": "https://www.lemonde.fr/politique/article/2026/09/05/fiscalite-de-plus-en-plus-de-communes-ciblent-les-residences-secondaires_6766339_823448.html",
-      "time": "Il y a 17h",
-      "pubDate": 1788609606.0
-    },
-    {
-      "id": "France Info--349137055602255803",
-      "source": "France Info",
-      "title": "Piratage du fisc : le suspect de 18 ans déjà mis en examen dans le vol de données de Free, le second suspect mis en examen dans un autre dossier",
-      "excerpt": "Le jeune homme de 18 ans placé en détention provisoire après la cyberattaque de la DGFiP était déjà mis en examen dans deux autres affaires de piratage, dont la fuite massive de données de Free. Le se...",
-      "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/piratage-du-fisc-le-suspect-de-18-ans-deja-mis-en-examen-dans-le-vol-de-donnees-de-free-le-second-suspect-mis-en-examen-dans-un-autre-dossier_8178566.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 19h",
-      "pubDate": 1788600705.0
+      "title": "Bocaux de fruits et légumes : comment conserver le goût de l’été en toute sécurité",
+      "excerpt": "La mise en conserve doit obéir à des règles d’hygiène scrupuleuses pour éviter les intoxications alimentaires et le botulisme. Voici la marche à suivre afin de pouvoir savourer vos bocaux de tomates o...",
+      "link": "https://www.lemonde.fr/m-styles/article/2026/09/06/bocaux-de-fruits-et-legumes-comment-conserver-le-gout-de-l-ete-en-toute-securite_6766734_4497319.html",
+      "time": "Il y a 6h",
+      "pubDate": 1788661810.0
     }
   ],
   "anglophone": [
     {
-      "id": "BBC News-5458208030710577902",
+      "id": "NPR--2808003835964208706",
+      "source": "NPR",
+      "title": "QUIZ: Ugh, I'll do it later. How much do you know about procrastination?",
+      "excerpt": "Learn a few surprising facts about procrastination — and helpful tools to overcome it — with this quiz. It's based on social scientist Itamar Shatz's new book, <em>Solving Procrastination</em>.",
+      "link": "https://www.npr.org/2026/09/06/nx-s1-5957512/quiz-ugh-ill-do-it-later-how-much-do-you-know-about-procrastination",
+      "time": "Il y a 16 min",
+      "pubDate": 1788685260.0
+    },
+    {
+      "id": "NPR--4320091265277342944",
+      "source": "NPR",
+      "title": "Whatever happened to kindness? Spoiler alert: Our readers prove it's alive and well",
+      "excerpt": "We asked readers to share stories about a moment of kindness involving a stranger. Here are some of their heartwarming anecdotes.",
+      "link": "https://www.npr.org/2026/09/06/g-s1-141564/kindness-respect-feelings",
+      "time": "Il y a 32 min",
+      "pubDate": 1788684288.0
+    },
+    {
+      "id": "BBC News-1393655679871217211",
       "source": "BBC News",
-      "title": "US envoys set for Ukraine talks after meeting Putin in Moscow",
-      "excerpt": "Steve Witkoff and Jared Kushner leave Moscow talks with hopes for \"equally productive meetings\" in Ukraine.",
-      "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+      "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
+      "excerpt": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+      "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 1h",
+      "pubDate": 1788681922.0
+    },
+    {
+      "id": "BBC News-1072829388242255908",
+      "source": "BBC News",
+      "title": "Volcano eruption triggers flight suspensions at Indonesia's main airport",
+      "excerpt": "More than 20,000 passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
       "time": "Il y a 2h",
+      "pubDate": 1788678410.0
+    },
+    {
+      "id": "The Guardian--771723913712193129",
+      "source": "The Guardian",
+      "title": "Falklands row shows urgent need to commit to 3% target, says Labour defence committee chair",
+      "excerpt": "Exclusive: Tan Dhesi says Argentinian threats make it more crucial than ever that PM increase defence spending Javier Milei’s threats to the Falkland Islands make it even more important that Andy Burn...",
+      "link": "https://www.theguardian.com/politics/2026/sep/06/falklands-row-raise-defence-spending-tan-dhesi-labour",
+      "time": "Il y a 3h",
+      "pubDate": 1788674458.0
+    },
+    {
+      "id": "BBC News-8210635920548592651",
+      "source": "BBC News",
+      "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
+      "excerpt": "It will be the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.",
+      "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 6h",
       "pubDate": 1788661456.0
     },
     {
-      "id": "BBC News-6800786803411644187",
+      "id": "BBC News--4324535733182474914",
       "source": "BBC News",
       "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
       "excerpt": "Chandika Shrestha was airlifted to hospital after spending more than 10 days in her partially buried house.",
       "link": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 3h",
+      "time": "Il y a 7h",
       "pubDate": 1788659669.0
     },
     {
-      "id": "BBC News-6742666301313230775",
+      "id": "BBC News--3200486219746292201",
       "source": "BBC News",
       "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
       "excerpt": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
       "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 6h",
+      "time": "Il y a 10h",
       "pubDate": 1788648247.0
     },
     {
-      "id": "The Guardian--4789483022988383798",
+      "id": "The Guardian-6464852222705022212",
       "source": "The Guardian",
       "title": "Trump’s pique with UK could lead to favor to acolyte Milei over Falklands",
       "excerpt": "US president suggests he might support his Argentinian ally’s drive to reclaim sovereignty of disputed islands <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> has long embra...",
       "link": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
-      "time": "Il y a 6h",
+      "time": "Il y a 10h",
       "pubDate": 1788646780.0
     },
     {
-      "id": "The Guardian--8684314999478940030",
+      "id": "The Guardian-2536460286727165316",
       "source": "The Guardian",
       "title": "Drone attack blamed on guerrillas kills at least three soldiers in Colombia",
       "excerpt": "Officials accuse National Liberation Army of launching strike followed by clash inside military compound An attack involving explosives dropped from drones followed by a clash inside a military compou...",
       "link": "https://www.theguardian.com/world/2026/sep/05/drone-attack-guerrillas-kills-soldiers-colombia",
-      "time": "Il y a 6h",
+      "time": "Il y a 11h",
       "pubDate": 1788646615.0
     },
     {
-      "id": "BBC News-1482283419402209619",
-      "source": "BBC News",
-      "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
-      "excerpt": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
-      "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 7h",
-      "pubDate": 1788643778.0
-    },
-    {
-      "id": "NPR-1822267435801154014",
+      "id": "NPR-396705421560561152",
       "source": "NPR",
       "title": "Jazz legend John Coltrane's Philadelphia house to become a cultural heritage site",
       "excerpt": "On the centennial of father's birth, Ravi Coltrane talks about turning the home where the jazz legend spent a crucial period in the 1950s into a cultural heritage and community space.",
       "link": "https://www.npr.org/2026/09/05/nx-s1-5955500/saxophone-legend-john-coltranes-philadelphia-house-to-become-a-cultural-heritage-site",
-      "time": "Il y a 8h",
+      "time": "Il y a 12h",
       "pubDate": 1788642070.0
     },
     {
-      "id": "BBC News-673412937310533499",
+      "id": "BBC News--7721691067005852856",
       "source": "BBC News",
       "title": "Prince William to attend King Harald's funeral in Norway",
       "excerpt": "The Prince of Wales will represent the King at the funeral of Harald V in Oslo next week.",
       "link": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 8h",
+      "time": "Il y a 12h",
       "pubDate": 1788642002.0
     },
     {
-      "id": "The Guardian-3173800415274230823",
+      "id": "The Guardian-6247951725502345867",
       "source": "The Guardian",
       "title": "Egyptian TV presenter among 12 sentenced to death for drug crime",
       "excerpt": "Sarah Khalifa, 39, charged with forming organised criminal gang to manufacture and traffic drugs An Egyptian court sentenced a well-known television presenter and 11 others to death for manufacturing...",
       "link": "https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug",
-      "time": "Il y a 11h",
+      "time": "Il y a 15h",
       "pubDate": 1788631215.0
     },
     {
-      "id": "BBC News--861987558683813968",
-      "source": "BBC News",
-      "title": "What different world maps get right - and what they get wrong",
-      "excerpt": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
-      "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 12h",
-      "pubDate": 1788624864.0
-    },
-    {
-      "id": "BBC News--8056239072416083621",
+      "id": "BBC News--2282957925657551659",
       "source": "BBC News",
       "title": "At least two dead in blast at Bolivia military barracks",
       "excerpt": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
       "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 13h",
+      "time": "Il y a 17h",
       "pubDate": 1788621761.0
     },
     {
-      "id": "NPR--7181152472730977207",
+      "id": "NPR-6124063838441048040",
       "source": "NPR",
       "title": "U.S. strikes Iranian oil tankers in retaliation for missile attacks on Navy ships",
       "excerpt": "One of the Iranian tankers struck was near a key area in Iran's oil-export system, according to U.S. Central Command.",
       "link": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
-      "time": "Il y a 13h",
+      "time": "Il y a 18h",
       "pubDate": 1788620708.0
     },
     {
-      "id": "NPR--5796947292933227299",
+      "id": "NPR-1303143391761551975",
       "source": "NPR",
       "title": "Opinion: A sculpture in perpetual motion, removed",
       "excerpt": "\"Blue,\" a statue that's been on the grounds of the Kennedy Center in Washington, D.C. for 7 years has been dismantled and removed.",
       "link": "https://www.npr.org/2026/09/05/nx-s1-5948663/opinion-a-sculpture-in-perpetual-motion-removed",
-      "time": "Il y a 17h",
+      "time": "Il y a 21h",
       "pubDate": 1788609600.0
     },
     {
-      "id": "NPR-3080681659013079686",
+      "id": "NPR-595613311962503425",
       "source": "NPR",
       "title": "Trump administration to dig at triumphal arch site despite no final federal approvals",
       "excerpt": "The Trump administration says it will break ground on a 250-foot triumphal arch in Washington, D.C., without final federal approval and despite an ongoing lawsuit.",
       "link": "https://www.npr.org/2026/09/05/nx-s1-5957875/trump-administration-to-dig-at-triumphal-arch-site-despite-no-final-federal-approvals",
-      "time": "Il y a 17h",
+      "time": "Il y a 21h",
       "pubDate": 1788608604.0
     },
     {
-      "id": "NPR-6193939458922739708",
+      "id": "NPR-3761460007162267194",
       "source": "NPR",
       "title": "U.S.-Venezuela oil deal puts opposition in a political bind",
       "excerpt": "Venezuelan opposition members are uneasy with new oil deals with the U.S., worried that agreements with authoritarian regime in Caracas could undermine democratic progress.",
       "link": "https://www.npr.org/2026/09/05/nx-s1-5954177/venezuelan-opposition-slams-new-u-s-oil-deal-warning-it-delays-democracy",
-      "time": "Il y a 17h",
+      "time": "Il y a 21h",
       "pubDate": 1788608594.0
     },
     {
-      "id": "NPR--2740238058730861553",
+      "id": "NPR--8386546049487200671",
       "source": "NPR",
       "title": "Whatever happened to the floating schools of Bangladesh?",
       "excerpt": "It was a light bulb moment: If monsoon rains keep kids from safely getting to school, let's create a floating school to pick them up! Bangladesh pioneered the idea. How's it doing?",
       "link": "https://www.npr.org/2026/09/05/g-s1-141464/climate-change-floating-schools-bangladesh",
-      "time": "Il y a 17h",
+      "time": "Il y a 21h",
       "pubDate": 1788607569.0
     },
     {
-      "id": "NPR-3356786458447671547",
+      "id": "NPR--4647711356106196845",
       "source": "NPR",
       "title": "U.S. envoys in Moscow in new push for peace between Russia and Ukraine",
       "excerpt": "U.S. envoys Steve Witkoff and Jared Kushner have arrived in Moscow to revive efforts to end Russia's invasion of Ukraine. Ukrainian President Volodymyr Zelenskyy has called for a halt to air attacks d...",
       "link": "https://www.npr.org/2026/09/05/nx-s1-5959114/us-envoys-in-moscow-in-new-push-for-peace",
-      "time": "Il y a 17h",
+      "time": "Il y a 22h",
       "pubDate": 1788606537.0
     },
     {
-      "id": "The Guardian--6362082209175305852",
+      "id": "The Guardian-115597920577232404",
       "source": "The Guardian",
       "title": "‘It cost me many friendships’: former Brazil military chief reveals inside struggle to stop Bolsonaro’s coup",
       "excerpt": "Carlos de Almeida Baptista Júnior describes 2022 meeting in new book as ex-leader’s son vies with Lula for presidency The far-right populist Jair Bolsonaro was in his final days as Brazil’s president...",
       "link": "https://www.theguardian.com/world/2026/sep/05/jair-bolsonaro-coup-plan-2022-election-brazil-air-force-baptista-junior",
-      "time": "Il y a 19h",
+      "time": "Il y a 23h",
       "pubDate": 1788602434.0
     },
     {
-      "id": "BBC News-5845070474985669017",
+      "id": "BBC News--2844249270685130795",
       "source": "BBC News",
       "title": "Trump signs order to remove endangered species protection for grey wolves",
       "excerpt": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
       "link": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 19h",
+      "time": "Il y a 1j",
       "pubDate": 1788599568.0
     },
     {
-      "id": "NPR-3877900250964590052",
+      "id": "NPR-8981800401931031828",
       "source": "NPR",
       "title": "Voters are fed up with data centers. Both parties are trying to cash in for midterms",
       "excerpt": "Democrats and Republicans have found common ground in this campaign season. Both parties have poured millions into ads attacking data centers as the public continues to protest the AI facilities.",
       "link": "https://www.npr.org/2026/09/05/nx-s1-5913671/ai-data-center-campaign-spending",
-      "time": "Il y a 20h",
+      "time": "Il y a 1j",
       "pubDate": 1788598800.0
     },
     {
-      "id": "NPR--6185765596857860377",
-      "source": "NPR",
-      "title": "Flock cameras draw opposition from across the political spectrum",
-      "excerpt": "As political races heat up heading into the midterms, candidates from both parties are increasingly joining the fray to voice concerns over Flock surveillance cameras.",
-      "link": "https://www.npr.org/2026/09/05/nx-s1-5955778/flock-surveillance-camera-opposition-politics",
-      "time": "Il y a 20h",
-      "pubDate": 1788598800.0
-    },
-    {
-      "id": "NPR--6359988758877123731",
-      "source": "NPR",
-      "title": "Philippines Vice President Sara Duterte posts bail after arrest",
-      "excerpt": "Philippines Vice President Sara Duterte has posted bail after order issued for her arrest on charges she publicly threatened to arrange assassination of President Ferdinand Marcos Jr. and two others.",
-      "link": "https://www.npr.org/2026/09/05/g-s1-142148/philippines-vice-president-posts-bail",
-      "time": "Il y a 21h",
-      "pubDate": 1788592870.0
-    },
-    {
-      "id": "BBC News--7207459476551563897",
+      "id": "BBC News--8518093179355919080",
       "source": "BBC News",
       "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
       "excerpt": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
@@ -480,7 +483,7 @@
       "pubDate": 1788562118.0
     },
     {
-      "id": "The Guardian-255229478478385526",
+      "id": "The Guardian-7977433138832685440",
       "source": "The Guardian",
       "title": "UN votes to adopt new world map that shows Africa’s true scale",
       "excerpt": "Togo-sponsored resolution called to phase out traditional map that depicts continent as similar size to Greenland The United Nations has voted to adopt a resolution for the world to formally phase out...",
@@ -489,7 +492,7 @@
       "pubDate": 1788540569.0
     },
     {
-      "id": "BBC News-6464858350439603766",
+      "id": "BBC News--6670826589738060605",
       "source": "BBC News",
       "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
       "excerpt": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
@@ -498,7 +501,7 @@
       "pubDate": 1788540555.0
     },
     {
-      "id": "The Guardian-5451109936506276584",
+      "id": "The Guardian-2373572573494276877",
       "source": "The Guardian",
       "title": "Colombia president provokes disgust by posing with bodies of ‘terrorists’",
       "excerpt": "Abelardo De La Espriella posts video of himself with rows of body bags as performative populism continues to sweep Americas Colombia’s hardline president, Abelardo De La Espriella, has provoked outrag...",
@@ -507,16 +510,7 @@
       "pubDate": 1788529843.0
     },
     {
-      "id": "The Guardian-2247010030765214837",
-      "source": "The Guardian",
-      "title": "Javier Milei: ‘winds of change’ support Argentina’s claim to Falkland Islands",
-      "excerpt": "President cites Trump’s suggestion that he might reconsider US stance on British sovereignty and threatens swifter sanctions on UK oil interests President Javier Milei has said “winds of change” favou...",
-      "link": "https://www.theguardian.com/world/2026/sep/04/president-javier-milei-winds-of-change-support-argentina-claim-to-falkland-islands",
-      "time": "Il y a 1j",
-      "pubDate": 1788514312.0
-    },
-    {
-      "id": "The Guardian-6628398993386968180",
+      "id": "The Guardian--5408538664147363695",
       "source": "The Guardian",
       "title": "Spain’s PM says no evidence ‘whatsoever’ Morocco behind Ceuta border breach",
       "excerpt": "Pedro Sánchez continues to defend Rabat after police report claiming border forces helped 70,000 cross border <ul><li><a href=\"https://www.theguardian.com/world/live/2026/sep/03/pedro-sanchez-ceuta-mi...",
@@ -525,7 +519,7 @@
       "pubDate": 1788439928.0
     },
     {
-      "id": "The Guardian-1078091937294481867",
+      "id": "The Guardian--2853368338158082573",
       "source": "The Guardian",
       "title": "‘We continue to suffer’: victims of apartheid-era Sharpeville massacre demand compensation",
       "excerpt": "Claim relating to 1960 attack on hundreds of protesters part of wave of litigation over apartheid crimes in South Africa The day dawned brightly on 21 March 1960, as residents of the South African tow...",
@@ -534,7 +528,7 @@
       "pubDate": 1788430297.0
     },
     {
-      "id": "The Guardian--3962162936459480908",
+      "id": "The Guardian--7471099933762627675",
       "source": "The Guardian",
       "title": "New constitution in Guinea-Bissau will undermine democracy, opponents say",
       "excerpt": "Referendum result means fewer seats in parliament and new rules on candidates, ahead of December elections Guinea-Bissau voters have approved a new constitution, which critics say will undermine democ...",
@@ -543,5 +537,5 @@
       "pubDate": 1788340855.0
     }
   ],
-  "lastUpdate": "2026-09-06T05:02:52.988705"
+  "lastUpdate": "2026-09-06T09:17:41.302731"
 }
