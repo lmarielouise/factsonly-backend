@@ -1,486 +1,495 @@
 {
   "francophone": [
     {
-      "id": "Le Monde--1064875911506580949",
+      "id": "Libération--8000627471968108888",
+      "source": "Libération",
+      "title": "Dans les Pyrénées-Orientales, les eaux usées traitées au secours de l’agriculture : «On ne voit aucune différence avec l’eau du fleuve»",
+      "excerpt": "Pour la première fois lors de cet été caniculaire, des terres agricoles du sud du département ont été irriguées en partie avec des eaux de la station d’épuration d’Argelès-sur-Mer. Des débuts laborieu...",
+      "link": "https://www.liberation.fr/environnement/agriculture/dans-les-pyrenees-orientales-les-eaux-usees-traitees-au-secours-de-lagriculture-on-ne-voit-aucune-difference-avec-leau-du-fleuve-20260909_SB4OM47JSZHZTE65HYOU4YJ6PQ/",
+      "time": "Il y a 2 min",
+      "pubDate": 1788929400.0
+    },
+    {
+      "id": "France Info-8114021698586198970",
+      "source": "France Info",
+      "title": "\"Il faut passer de la haute couture au prêt-à-porter\" : pourquoi l'Europe lance-t-elle beaucoup moins de fusées que les Américains ?",
+      "excerpt": "Alors que SpaceX a fait décoller 170 fusées aux Etats-Unis, rien qu'en 2025, l'Europe en a envoyé huit dans l'espace malgré la demande croissante.",
+      "link": "https://www.franceinfo.fr/sciences/espace/il-faut-passer-de-la-haute-couture-au-pret-a-porter-comment-l-europe-tente-t-elle-de-rattraper-le-rythme-des-lancements-americains_8183735.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 28 min",
+      "pubDate": 1788927808.0
+    },
+    {
+      "id": "France Info-162060199256263017",
+      "source": "France Info",
+      "title": "Les prix du carburant continuent de grimper et atteignent de nouveaux records en France",
+      "excerpt": "Alors que la situation au Moyen-Orient ne cesse de se dégrader, les prix de l'essence continuent de grimper en France. Mercredi, le gazole se vend en moyenne à 2,29 euros le litre et l'E10 à 2,12 euro...",
+      "link": "https://www.franceinfo.fr/economie/automobile/essence/les-prix-du-carburant-continuent-de-grimper-et-atteignent-de-nouveaux-records-en-france_8184158.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 30 min",
+      "pubDate": 1788927703.0
+    },
+    {
+      "id": "Le Monde--6324669127922395055",
       "source": "Le Monde",
-      "title": "Conflit commercial avec les Etats-Unis : le Canada riposte aux surtaxes américaines",
-      "excerpt": "Les mesures contre des produits américains sont entrées en vigueur alimentant un conflit dont une issue prochaine semble lointaine. Soutenu par l’opinion publique canadienne, le premier ministre, Mark...",
-      "link": "https://www.lemonde.fr/international/article/2026/09/09/conflit-commercial-avec-les-etats-unis-le-canada-riposte-aux-surtaxes-americaines_6768686_3210.html",
+      "title": "Olivier Bouygues et cinq de ses employés devant la justice pour avoir abattu des espèces protégées",
+      "excerpt": "Le tribunal correctionnel d’Orléans jugeait lundi et mardi l’homme d’affaires ainsi que deux régisseurs et trois gardes-chasse pour des faits ayant eu lieu dans sa propriété de Sologne, à La Ferté-Sai...",
+      "link": "https://www.lemonde.fr/societe/article/2026/09/09/olivier-bouygues-et-cinq-de-ses-employes-devant-la-justice-pour-avoir-abattu-des-especes-protegees_6768833_3224.html",
+      "time": "Il y a 37 min",
+      "pubDate": 1788927311.0
+    },
+    {
+      "id": "Le Monde-4842112881975306719",
+      "source": "Le Monde",
+      "title": "En Israël, les révélations sur l’alerte reçue par Benyamin Nétanyahou avant le 7-Octobre provoquent un séisme politique",
+      "excerpt": "Un livre à paraître assure que le premier ministre israélien aurait été informé « que le chef du Hamas à Gaza, Yahya Sinouar, planifiait une opération majeure contre Israël » par le président des Emir...",
+      "link": "https://www.lemonde.fr/international/article/2026/09/09/en-israel-les-revelations-sur-l-alerte-recue-par-benyamin-netanyahou-avant-le-7-octobre-provoquent-un-seisme-politique_6768832_3210.html",
+      "time": "Il y a 37 min",
+      "pubDate": 1788927310.0
+    },
+    {
+      "id": "Le Monde--4096079131984568754",
+      "source": "Le Monde",
+      "title": "Au procès de l’assassinat de Federico Martin Aramburu, les deux accusés confrontés à leur passé de violence",
+      "excerpt": "Loïk Le Priol et Romain Bouvier comparaissent devant la cour d’assises de Paris depuis lundi pour avoir tiré mortellement sur l’ancien joueur de rugby, en mars 2022. Tous deux étaient membres du Group...",
+      "link": "https://www.lemonde.fr/societe/article/2026/09/09/au-proces-de-l-assassinat-de-federico-martin-aramburu-les-deux-accuses-confrontes-a-leur-passe-de-violence_6768829_3224.html",
+      "time": "Il y a 48 min",
+      "pubDate": 1788926639.0
+    },
+    {
+      "id": "France Info--1148879961794842492",
+      "source": "France Info",
+      "title": "Gabriel Attal, candidat à l'élection présidentielle 2027, a-t-il le droit de promouvoir sa candidature un verre d'alcool à la main ?",
+      "excerpt": "Le député Renaissance a publié une vidéo sur ses réseaux sociaux lundi soir, se mettant en scène dans un bistrot, avec un grand verre de bière.",
+      "link": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-gabriel-attal-candidat-a-l-election-presidentielle-2027-a-t-il-le-droit-de-promouvoir-sa-candidature-un-verre-d-alcool-a-la-main_8182991.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 48 min",
+      "pubDate": 1788926608.0
+    },
+    {
+      "id": "France Info--2558258782593892996",
+      "source": "France Info",
+      "title": "De \"belles annonces\" attendues, des géants américains absents… Ce que l'on sait du Sommet international sur l'espace organisé par Emmanuel Macron à Paris",
+      "excerpt": "Ce rendez-vous inédit, qui se tient mercredi et jeudi, doit permettre un dialogue entre des dirigeants internationaux et des entreprises du spatial. Sa préparation a été marquée par les désistements i...",
+      "link": "https://www.franceinfo.fr/sciences/espace/de-belles-annonces-attendues-des-geants-americains-absents-ce-que-l-on-sait-du-sommet-international-sur-l-espace-organise-par-emmanuel-macron-a-paris_8180450.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 49 min",
+      "pubDate": 1788926563.0
+    },
+    {
+      "id": "France Info--3332413542186694194",
+      "source": "France Info",
+      "title": "\"Elle rebondira toujours, c'est sa marque de fabrique\" : malgré sa défaite à Paris et son procès à venir, Rachida Dati croit-elle toujours à son avenir politique ?",
+      "excerpt": "L'ancienne ministre de la Culture a demandé sa réintégration dans le corps de la magistrature. Mais, selon ses proches, cela ne signifie pas qu'elle veuille abandonner la politique.",
+      "link": "https://www.franceinfo.fr/politique/rachida-dati/elle-rebondira-toujours-c-est-sa-marque-de-fabrique-malgre-sa-defaite-a-paris-et-son-proces-a-venir-rachida-dati-croit-elle-toujours-a-son-avenir-politique_8160863.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 50 min",
+      "pubDate": 1788926519.0
+    },
+    {
+      "id": "France Info--1174529408641267067",
+      "source": "France Info",
+      "title": "Le \"Nobel\" d'économie est-il un \"soi-disant\" prix Nobel, comme le juge Jean-Luc Mélenchon ?",
+      "excerpt": "Après les critiques de Philippe Aghion contre la proposition d'annuler une partie de la dette française, le candidat insoumis à la présidentielle a minimisé la récompense reçue par l'économiste en 202...",
+      "link": "https://www.franceinfo.fr/monde/prix-nobel/vrai-ou-faux-le-nobel-d-economie-est-il-un-soi-disant-prix-nobel-comme-le-juge-jean-luc-melenchon_8182844.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 51 min",
+      "pubDate": 1788926453.0
+    },
+    {
+      "id": "Libération--945691584531073666",
+      "source": "Libération",
+      "title": "Tuerie de Tumbler Ridge : 30 plaintes supplémentaires déposées contre Sam Altman et OpenAI",
+      "excerpt": "Huit mois après l’une des fusillades les plus meurtrières du Canada, plus d’une trentaine de plaintes visent l’entreprise d’IA et ciblent nommément le directeur des affaires internationales, Chris Leh...",
+      "link": "https://www.liberation.fr/economie/economie-numerique/tuerie-de-tumbler-ridge-30-plaintes-supplementaires-deposees-contre-sam-altman-et-openai-20260909_XW7IYTT665ENTBDFEMLUFRCOLM/",
       "time": "Il y a 52 min",
+      "pubDate": 1788926401.0
+    },
+    {
+      "id": "Libération--2006488027651763778",
+      "source": "Libération",
+      "title": "«Pékin banalise des mouvements de forces autour de Taiwan qui auraient autrefois constitué des signaux d’alerte majeurs»",
+      "excerpt": "Dans une interview à «Libération», l’expert en sécurité maritime Benjamin Blandin revient sur les récents exercices de l’Armée populaire de libération autour de l’île et précise les leçons que la Chin...",
+      "link": "https://www.liberation.fr/international/pekin-banalise-des-mouvements-de-forces-autour-de-taiwan-qui-auraient-autrefois-constitue-des-signaux-dalerte-majeurs-20260909_R5A6SAQ2E5HDJJHCUINBF6GQYU/",
+      "time": "Il y a 52 min",
+      "pubDate": 1788926401.0
+    },
+    {
+      "id": "Libération-7439017524478596597",
+      "source": "Libération",
+      "title": "«Les survivants du Che», une mise en lumière des compagnons de l’ombre",
+      "excerpt": "Narré par Vincent Lindon, le documentaire de Christophe Dimitri Réveille retrace le périple épique de six guérilleros proches du chef cubain qui tentent d’échapper aux militaires. après son assassinat...",
+      "link": "https://www.liberation.fr/culture/cinema/les-survivants-du-che-une-mise-en-lumiere-des-compagnons-de-lombre-20260909_2DPFSCVHYVDKFFH3LNCGXKIB5U/",
+      "time": "Il y a 52 min",
+      "pubDate": 1788926401.0
+    },
+    {
+      "id": "Libération-2374638196593477900",
+      "source": "Libération",
+      "title": "Rapport Pisa 2025 : comment donner le goût de la lecture aux jeunes ?",
+      "excerpt": "Alors que les résultats du Programme international pour le suivi des acquis des élèves 2025 révèlent une baisse du niveau des jeunes Français en compréhension de l’écrit, «Libé» propose des pistes pou...",
+      "link": "https://www.liberation.fr/societe/education/rapport-pisa-2025-comment-donner-le-gout-de-la-lecture-aux-jeunes-20260909_T6Q4Y5E2YJFYDL7MERG3Q6BB5E/",
+      "time": "Il y a 52 min",
+      "pubDate": 1788926401.0
+    },
+    {
+      "id": "Libération--8356301016075503960",
+      "source": "Libération",
+      "title": "Affaire des assistants d’eurodéputés Modem : François Bayrou de retour à la barre",
+      "excerpt": "Le procès en appel des emplois douteux du parti centriste au parlement européen démarre ce mercredi 9 septembre, après la relaxe en première instance de son leader et ex-Premier ministre. Un an, jour...",
+      "link": "https://www.liberation.fr/societe/police-justice/affaire-des-assistants-deurodeputes-modem-francois-bayrou-de-retour-a-la-barre-20260909_4LC77Z5HVZHPJF4BMA3G5OTBRU/",
+      "time": "Il y a 52 min",
+      "pubDate": 1788926401.0
+    },
+    {
+      "id": "France Info--7641679154697716733",
+      "source": "France Info",
+      "title": "\"Il a du mal à prendre ses marques\" : au Rassemblement national, les couacs de rentrée interrogent sur la place de Jordan Bardella",
+      "excerpt": "A huit mois de la présidentielle, le RN n'a pas totalement maîtrisé sa rentrée politique, en communiquant en ordre dispersé sur l'interdiction du voile ou sur un hypothétique accord migratoire franco-...",
+      "link": "https://www.franceinfo.fr/politique/front-national/il-a-du-mal-a-prendre-ses-marques-au-rassemblement-national-les-couacs-de-rentree-interrogent-sur-la-place-de-jordan-bardella_8183180.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 52 min",
+      "pubDate": 1788926396.0
+    },
+    {
+      "id": "France Info-2340478293640397568",
+      "source": "France Info",
+      "title": "\"J'aborde ce procès avec grande sérénité\" : François Bayrou repasse devant les juges dans l'affaire des assistants parlementaires d'eurodéputés du MoDem",
+      "excerpt": "Le président du parti centriste est accusé d'avoir créé un \"système\" visant à détourner des fonds européens. L'ex-Premier ministre a été relaxé en 2024, mais le parquet a fait appel.",
+      "link": "https://www.franceinfo.fr/politique/modem/assistants-parlementaires-du-modem/j-aborde-ce-proces-avec-grande-serenite-francois-bayrou-repasse-devant-les-juges-dans-l-affaire-des-assistants-parlementaires-d-eurodeputes-du-modem_8180660.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 54 min",
+      "pubDate": 1788926278.0
+    },
+    {
+      "id": "Le Monde-3860505246107572320",
+      "source": "Le Monde",
+      "title": "Hongkong : mort de Tung Chee-hwa, premier chef de l’exécutif après la rétrocession du territoire à la Chine",
+      "excerpt": "L’ancien magnat du transport maritime désigné par Pékin pour prendre la tête de la ville après la rétrocession de la colonie britannique à la Chine est mort à l’âge de 89 ans.",
+      "link": "https://www.lemonde.fr/international/article/2026/09/09/hong-kong-deces-de-tung-chee-hwa-premier-chef-de-l-executif-apres-la-retrocession-du-territoire-a-la-chine_6768824_3210.html",
+      "time": "Il y a 1h",
+      "pubDate": 1788925234.0
+    },
+    {
+      "id": "Libération-3511795077010956972",
+      "source": "Libération",
+      "title": "Convention républicaine à Dallas : le pari risqué de Donald Trump pour sauver les midterms",
+      "excerpt": "Très impopulaire, le Président mise sur un raout de deux jours, les 9 et 10 septembre au Texas, pour remobiliser sa base. Mais entre mauvais sondages et riposte démocrate, l’événement révèle surtout l...",
+      "link": "https://www.liberation.fr/international/amerique/convention-republicaine-a-dallas-le-pari-risque-de-donald-trump-pour-sauver-les-midterms-20260909_QMJ6VS6PZNA2TLKO5UMTMHZDZM/",
+      "time": "Il y a 1h",
+      "pubDate": 1788925080.0
+    },
+    {
+      "id": "Libération-8200775714328895151",
+      "source": "Libération",
+      "title": "«Hair, paper, water», les maux croisés",
+      "excerpt": "Portrait sensible d’une femme habitant dans les montagnes du Vietnam, Madame Hau, le documentaire dépeint la transmission de sa langue, le Ruc, à ses petits-fils.",
+      "link": "https://www.liberation.fr/culture/hair-paper-water-les-maux-croises-20260909_2AUCCN6ITBEXBLCXKYENAJHLK4/",
+      "time": "Il y a 1h",
+      "pubDate": 1788922800.0
+    },
+    {
+      "id": "Libération-8083560851712798158",
+      "source": "Libération",
+      "title": "Avant d’accueillir Céline Dion, la Défense Arena mise en difficulté par une panne survenue lors du concert d’Iron Maiden",
+      "excerpt": "La salle fait face à des remous après une coupure de courant survenue lors du concert du groupe de metal le 22 juin. Le producteur du spectacle et l’exploitant des lieux sont au bord de l’affrontement...",
+      "link": "https://www.liberation.fr/economie/avant-daccueillir-celine-dion-la-defense-arena-mise-en-difficulte-par-une-panne-survenue-lors-du-concert-diron-maiden-20260909_BIKDLB3DVFHPXFLV4ORK6HBASM/",
+      "time": "Il y a 1h",
+      "pubDate": 1788922800.0
+    },
+    {
+      "id": "Libération--1058889594096141069",
+      "source": "Libération",
+      "title": "«La Vie d’une femme» : Léa Drucker au pas de surcharge",
+      "excerpt": "Porté par une énergie aussi grisante qu’épuisante, le deuxième long métrage de Charline Bourgeois-Tacquet réussit le portrait d’une quinqua docteur-mère-aidante surmenée.",
+      "link": "https://www.liberation.fr/culture/la-vie-dune-femme-lea-drucker-au-pas-de-surcharge-20260909_Q3DZ6CTUL5HCVB737WJPVXQTF4/",
+      "time": "Il y a 2h",
+      "pubDate": 1788919200.0
+    },
+    {
+      "id": "Le Monde--5469782884770273231",
+      "source": "Le Monde",
+      "title": "En tournée en Amérique latine, Marco Rubio promet une « coopération sans précédent » avec la Colombie",
+      "excerpt": "Le déplacement du chef de la diplomatie américaine doit se poursuivre en Equateur puis au Pérou, deux pays dirigés par des gouvernements de droite avec lesquels Washington cherche à approfondir ses li...",
+      "link": "https://www.lemonde.fr/international/article/2026/09/09/en-tournee-en-amerique-latine-marco-rubio-promet-une-cooperation-sans-precedent-avec-la-colombie_6768687_3210.html",
+      "time": "Il y a 5h",
+      "pubDate": 1788910197.0
+    },
+    {
+      "id": "Le Monde--4133518199802444709",
+      "source": "Le Monde",
+      "title": "Tensions commerciales : le Canada riposte aux surtaxes américaines, Washington surenchérit",
+      "excerpt": "Le Canada affirme avoir calibré ses nouveaux droits de douane pour répondre, « au dollar près », à ceux imposés depuis le 22 août par son voisin du sud. En réaction, la Maison Blanche a surenchéri, ma...",
+      "link": "https://www.lemonde.fr/international/article/2026/09/09/conflit-commercial-avec-les-etats-unis-le-canada-riposte-aux-surtaxes-americaines_6768686_3210.html",
+      "time": "Il y a 5h",
       "pubDate": 1788910091.0
     },
     {
-      "id": "Le Monde--6760911669837170222",
+      "id": "Le Monde--7533922016208185340",
       "source": "Le Monde",
-      "title": "« South Park » rebaptisé « South America » : la série satirique raille les changements de noms voulus par Donald Trump",
-      "excerpt": "Les créateurs de la série se moquent aussi des géants Apple et Google, qui ont adopté, sur leurs cartes américaines, les nouvelles appellations attribuées par le président à plusieurs lieux, comme le...",
-      "link": "https://www.lemonde.fr/international/article/2026/09/09/south-park-rebaptise-south-america-la-serie-satirique-se-moque-des-changements-de-noms-voulus-par-donald-trump_6768653_3210.html",
-      "time": "Il y a 1h",
-      "pubDate": 1788907684.0
+      "title": "Onze pays européens et le Canada imposent à Israël des sanctions contre les produits issus des colonies en Cisjordanie",
+      "excerpt": "Dans le sillage du Royaume-Uni, la France, le Danemark, l’Espagne, la Finlande, l’Irlande, l’Islande, la Norvège, la Pologne, le Portugal et la Suède ainsi qu’Ottawa ont opté pour une logique de sanct...",
+      "link": "https://www.lemonde.fr/international/article/2026/09/08/onze-pays-europeens-et-le-canada-imposent-a-israel-des-sanctions-contre-les-produits-issus-des-colonies-en-cisjordanie_6768553_3210.html",
+      "time": "Il y a 7h",
+      "pubDate": 1788902092.0
     },
     {
-      "id": "France Info-4872318478002909141",
-      "source": "France Info",
-      "title": "Le géant de l'intelligence artificielle OpenAI dit avoir résolu l'équation de Navier-Stokes, un problème de maths crucial, en seulement quelques jours",
-      "excerpt": "\"C'est une étape significative de la recherche IA\", a déclaré le responsable de la recherche chez OpenAI, lors d'un point de presse.",
-      "link": "https://www.franceinfo.fr/internet/le-geant-de-l-intelligence-artificielle-openai-dit-avoir-resolu-l-equation-de-navier-stokes-un-probleme-de-maths-crucial-en-seulement-quelques-jours_8183789.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
-      "pubDate": 1788905382.0
-    },
-    {
-      "id": "France Info--3050702253189137779",
-      "source": "France Info",
-      "title": "La série \"South Park\" se rebaptise \"South America\" pour se moquer de Donald Trump",
-      "excerpt": "Cette initiative de la série satirique tourne en dérision les velléités du président américain de rebaptiser des lieux à travers le monde par des décisions unilatérales.",
-      "link": "https://www.franceinfo.fr/culture/la-serie-south-park-se-rebaptise-south-america-pour-se-moquer-de-donald-trump_8183780.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
-      "pubDate": 1788904380.0
-    },
-    {
-      "id": "Le Monde--7838245705009920941",
-      "source": "Le Monde",
-      "title": "Ligue des champions : le résumé de la défaite frustrante du LOSC contre le Betis Séville",
-      "excerpt": "Dominateurs en première période, les Lillois ont perdu le contrôle du match après la pause. Leurs adversaires ont renversé la rencontre et se sont imposés 3-2, mardi, au stade Pierre-Mauroy.",
-      "link": "https://www.lemonde.fr/sport/article/2026/09/08/ligue-des-champions-le-resume-de-la-defaite-frustrante-du-losc-contre-le-betis-seville_6768587_3242.html",
-      "time": "Il y a 2h",
-      "pubDate": 1788903904.0
-    },
-    {
-      "id": "Le Monde-5804002299862027575",
-      "source": "Le Monde",
-      "title": "Bruno Retailleau souhaite supprimer le droit du sol par référendum",
-      "excerpt": "En cas de victoire lors des élections présidentielles, le candidat républicain a annoncé son intention de réviser la Constitution pour élargir les sujets qui peuvent être soumis à référendum, notammen...",
-      "link": "https://www.lemonde.fr/politique/article/2026/09/08/bruno-retailleau-souhaite-supprimer-le-droit-du-sol-par-referendum_6768586_823448.html",
-      "time": "Il y a 2h",
-      "pubDate": 1788903868.0
-    },
-    {
-      "id": "France Info--6415593321493927416",
-      "source": "France Info",
-      "title": "Après une attaque d'ampleur des rebelles yéménites en Arabie saoudite, l'UE dénonce \"une escalade dangereuse\"",
-      "excerpt": "Ryad a dénoncé une série de frappes des Houthis du Yémen voisin, et promis de riposter à ce qui constitue la plus importante attaque de ces rebelles pro-iraniens contre le territoire saoudien depuis p...",
-      "link": "https://www.franceinfo.fr/monde/proche-orient/yemen/apres-une-attaque-d-ampleur-des-rebelles-yemenites-en-arabie-saoudite-l-ue-denonce-une-escalade-dangereuse_8183744.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 3h",
-      "pubDate": 1788901673.0
-    },
-    {
-      "id": "Le Monde--3069856892765706397",
-      "source": "Le Monde",
-      "title": "Le Real Madrid s’impose face à l’Inter Milan, Kylian Mbappé inscrit son 71ᵉ but en Ligue des champions",
-      "excerpt": "L’équipe de José Mourinho a livré le strict minimum, mardi soir, devant son public du Stade Santiago Bernabéu. Reste que les Merengue démarrent leur campagne européenne par une victoire.",
-      "link": "https://www.lemonde.fr/sport/article/2026/09/08/le-real-madrid-s-impose-face-a-l-inter-milan-kylian-mbappe-inscrit-son-71-but-en-ligue-des-champions_6768552_3242.html",
-      "time": "Il y a 3h",
-      "pubDate": 1788901562.0
-    },
-    {
-      "id": "France Info-6029214717671729756",
-      "source": "France Info",
-      "title": "Le Losc débute mal sa campagne de Ligue des champions après avoir été renversé par le Betis à domicile (2-3)",
-      "excerpt": "Alors qu’ils ont mené deux fois au score, les Dogues se sont inclinés contre les Sévillans pour la première journée de la phase de ligue, mardi (2-3).",
-      "link": "https://www.franceinfo.fr/sports/foot/ligue-des-champions/le-losc-debute-mal-sa-campagne-de-ligue-des-champions-apres-avoir-ete-renverse-par-le-betis-a-domicile_8183663.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 3h",
-      "pubDate": 1788901070.0
-    },
-    {
-      "id": "France Info--6272855564042730815",
-      "source": "France Info",
-      "title": "\"Je ne veux plus que mon fils vive ça\" : au côté des habitants de Kiev, réfugiés dans le métro en pleine attaque russe",
-      "excerpt": "Kiev a vécu une nouvelle nuit de peur, du lundi au mardi 8 septembre, sous les missiles et les drones russes. Au moins trois morts sont à déplorer, alors que les négociateurs américains venaient de re...",
-      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/je-ne-veux-plus-que-mon-fils-vive-ca-au-cote-des-habitants-de-kiev-refugies-dans-le-metro-en-pleine-attaque-russe_8183753.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 3h",
-      "pubDate": 1788899526.0
-    },
-    {
-      "id": "France Info--4014262843000267111",
-      "source": "France Info",
-      "title": "\"Nous étions en droit d'attendre une réforme ambitieuse\" : en grève, les pompiers expriment leur colère après un été marqué par les incendies",
-      "excerpt": "Après un été marqué par de nombreux incendies, les pompiers restent mobilisés sur le terrain. Entre fatigue, manque d'effectifs et conditions difficiles, ils réclament davantage de moyens. Alors qu'un...",
-      "link": "https://www.franceinfo.fr/societe/mobilisation-des-pompiers/pompiers-en-pleine-greve-la-colere-monte-apres-un-ete-marque-par-les-incendies_8183729.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 3h",
-      "pubDate": 1788898894.0
-    },
-    {
-      "id": "France Info--1459785872731783599",
+      "id": "France Info--3143452189624860332",
       "source": "France Info",
       "title": "\"J'avais une masculinité toxique\" : au procès Aramburu, la personnalité des deux principaux accusés débattue sous le prisme de la violence",
       "excerpt": "Au deuxième jour du procès de Loïk Le Priol et Romain Bouvier devant la cour d'assises de Paris, les débats se sont concentrés sur le passé des deux hommes, marqué par la violence, y compris dans leur...",
       "link": "https://www.franceinfo.fr/faits-divers/justice-proces/j-avais-une-masculinite-toxique-au-proces-aramburu-la-personnalite-des-deux-principaux-accuses-debattue-sous-le-prisme-de-la-violence_8183108.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 4h",
+      "time": "Il y a 8h",
       "pubDate": 1788898550.0
     },
     {
-      "id": "Libération--5158856878651354856",
-      "source": "Libération",
-      "title": "L’hypothèse «de mâles apprenant aux jeunes à chasser» : des loups tuent plus de 60 brebis d’un troupeau dans le Vercors",
-      "excerpt": "L’attaque s’est produite la nuit dans un alpage où se trouvait le troupeau de près de 600 bêtes. Les ovins tués n’ont pas été mangés.",
-      "link": "https://www.liberation.fr/environnement/animaux/lhypothese-de-males-apprenant-aux-jeunes-a-chasser-des-loups-tuent-plus-de-60-brebis-dun-troupeau-dans-le-vercors-20260908_CHJYAZMQVZF6ZMPB2G26IBWLSU/",
-      "time": "Il y a 4h",
-      "pubDate": 1788897803.0
-    },
-    {
-      "id": "Libération-3721427454178672584",
-      "source": "Libération",
-      "title": "Présidentielle 2027 : Edouard Philippe invite Gabriel Attal et Bruno Retailleau à la Toussaint pour enterrer leurs ambitions",
-      "excerpt": "Le candidat Horizons aimerait ainsi forcer ses rivaux, qu’il distance dans les sondages, à se ranger derrière lui. «Si nous continuons à nous diviser, nous ne gagnerons pas», a prévenu le Havrais. Mai...",
-      "link": "https://www.liberation.fr/politique/elections/presidentielle-2027-edouard-philippe-invite-gabriel-attal-et-bruno-retailleau-a-la-toussaint-pour-enterrer-leurs-ambitions-20260908_CRBNORD7VRCTXELJECCWSFCREA/",
-      "time": "Il y a 4h",
-      "pubDate": 1788896732.0
-    },
-    {
-      "id": "Libération-1525103026816341131",
-      "source": "Libération",
-      "title": "Égalité femmes-hommes : le PSG écope d’une amende de 2,7 millions d’euros",
-      "excerpt": "Cette décision du tribunal administratif de Paris confirme celle de l’Inspection du travail d’Ile de France datant de mars 2024. Le club a obtenu des résultats insuffisants à l’index d’égalité durant...",
-      "link": "https://www.liberation.fr/sports/football/egalite-femmes-hommes-le-psg-ecope-dune-amende-de-27-millions-deuros-20260908_4HNMPSNVHZBC5E5NDLD23KBXRM/",
-      "time": "Il y a 4h",
-      "pubDate": 1788896312.0
-    },
-    {
-      "id": "France Info-1870764889982963679",
-      "source": "France Info",
-      "title": "Des ONG et des experts demandent à l'UE des \"restrictions proportionnées\" des réseaux sociaux pour les plus jeunes, plutôt qu'une interdiction",
-      "excerpt": "Alors que la présidente de la Commission européenne doit s'exprimer sur le sujet le 16 septembre, les partisans et les opposants de l'interdiction de l'accès aux enfants et adolescents argumentent aup...",
-      "link": "https://www.franceinfo.fr/internet/reseaux-sociaux/des-ong-et-des-experts-demandent-a-l-ue-des-restrictions-proportionnees-des-reseaux-sociaux-pour-les-plus-jeunes-plutot-qu-une-interdiction_8183690.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 4h",
-      "pubDate": 1788896108.0
-    },
-    {
-      "id": "Libération-6566627589315861285",
-      "source": "Libération",
-      "title": "Le 11 Septembre, une occasion comme une autre pour Trump de parler de lui… et de s’inventer une vie",
-      "excerpt": "Le président américain a assuré ce mardi qu’il se trouvait à proximité des tours jumelles et avoir été sauvé par deux pompiers. Il avait pourtant dit lui même qu’il était ce jour-là à sa «Trump Tower»...",
-      "link": "https://www.liberation.fr/international/amerique/le-11-septembre-une-occasion-comme-une-autre-pour-trump-de-parler-de-lui-et-de-sinventer-une-vie-20260908_IPP5Y6HQ5JB5VOUGXKGMEKWUHA/",
-      "time": "Il y a 4h",
-      "pubDate": 1788895890.0
-    },
-    {
-      "id": "Libération-8546722158389307368",
-      "source": "Libération",
-      "title": "Rapport Pisa : niveau de lecture en chute libre pour les enfants, un défi pour les grands",
-      "excerpt": "Les résultats de l’enquête de l’OCDE confirment les mauvais résultats des adolescents français, notamment en lecture. Si l’usage des écrans est montré du doigt, jeunes et moins jeunes partagent la res...",
-      "link": "https://www.liberation.fr/idees-et-debats/editorial/rapport-pisa-niveau-de-lecture-en-chute-libre-pour-les-enfants-un-defi-pour-les-grands-20260908_F5MWPXIIZ5AZNCQ2FMYEB5CJCA/",
-      "time": "Il y a 5h",
-      "pubDate": 1788894895.0
-    },
-    {
-      "id": "Libération--5585922081039378234",
-      "source": "Libération",
-      "title": "«Pressure» d’Anthony Maras, un D-Day dans l’air du temps",
-      "excerpt": "Déroulé pendant les jours précédant le Débarquement, le film nous plonge dans la course contre la montre d’un météorologue chargé de prédire au plus près le temps qu’il fera le 6 juin 1944, à grand re...",
-      "link": "https://www.liberation.fr/culture/cinema/pressure-danthony-maras-un-d-day-dans-lair-du-temps-20260908_OKTQJZ7L2BAELGD7RRMQ2DOUG4/",
-      "time": "Il y a 5h",
-      "pubDate": 1788894480.0
-    },
-    {
-      "id": "Libération-5998192620878464490",
-      "source": "Libération",
-      "title": "Les opérations d’Israël en Syrie pourraient constituer des «crimes de guerre», selon une commission d’enquête de l’ONU",
-      "excerpt": "Un rapport complet sur ces investigations sera présenté au Conseil des droits de l’Homme au printemps. Depuis plus d’un an, l’Etat hébreu a lancé des centaines de frappes et des opérations terrestres.",
-      "link": "https://www.liberation.fr/international/moyen-orient/les-operations-disrael-en-syrie-pourraient-constituer-des-crimes-de-guerre-selon-une-commission-denquete-de-lonu-20260908_WCG253MPUVB6TEF25AWCUEOKFA/",
-      "time": "Il y a 5h",
-      "pubDate": 1788893451.0
-    },
-    {
-      "id": "France Info-1824929704057474684",
-      "source": "France Info",
-      "title": "Football : la Fédération espagnole s'engage à faciliter la congélation d'ovocytes de ses internationales",
-      "excerpt": "La RFEF a annoncé un \"accord novateur\", mardi, pour accompagner les joueuses de la sélection décidant de donner la vie.",
-      "link": "https://www.franceinfo.fr/sports/foot/football-la-federation-espagnole-s-engage-a-faciliter-la-congelation-d-ovocytes-de-ses-internationales_8183681.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 5h",
-      "pubDate": 1788892784.0
-    },
-    {
-      "id": "Libération--514353442542685622",
-      "source": "Libération",
-      "title": "Colonies en Cisjordanie : Israël sanctionné par 12 pays, une claque avant tout symbolique",
-      "excerpt": "Mardi, plusieurs Etats dont la France et le Royaume-Uni ont annoncé interdire les importations de produits venant des colonies israéliennes dans les territoires palestiniens occupés. Une action aux co...",
-      "link": "https://www.liberation.fr/international/europe/colonies-en-cisjordanie-israel-sanctionne-par-12-pays-une-claque-avant-tout-symbolique-20260908_ISBXFISKNZDO5I7SVMPNN62SJI/",
-      "time": "Il y a 5h",
-      "pubDate": 1788892394.0
-    },
-    {
-      "id": "France Info-47624993137161865",
+      "id": "France Info--1827002875205694698",
       "source": "France Info",
       "title": "Une centaine de responsables socialistes appellent à ouvrir la primaire PS Place publique, entre autres à François Ruffin",
       "excerpt": "Dans une lettre ouverte consultée ce mardi par franceinfo, des membres du Parti socialiste plaident pour élargir la primaire de la gauche PS-Place publique à, notamment, Marine Tondelier et François R...",
       "link": "https://www.franceinfo.fr/politique/ps/primaire-socialiste/info-franceinfo-une-centaine-de-responsables-socialistes-appellent-a-ouvrir-la-primaire-ps-place-publique-entre-autres-a-francois-ruffin_8183657.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 6h",
+      "time": "Il y a 10h",
       "pubDate": 1788891444.0
     },
     {
-      "id": "Le Monde-1991728666456260067",
-      "source": "Le Monde",
-      "title": "Zohran Mamdani dénonce des dissimulations sur la toxicité de l’air à New York après le 11-Septembre : « Des gens sont tombés malades parce que les dirigeants leur ont menti »",
-      "excerpt": "Le maire de la ville endeuillée par les attentats a annoncé la diffusion, dans le cadre d’un accord judiciaire avec une organisation de défense des victimes, de milliers de documents liés aux conséque...",
-      "link": "https://www.lemonde.fr/international/article/2026/09/08/zohran-mamdani-denonce-des-dissimulations-sur-la-toxicite-de-l-air-a-new-york-apres-le-11-septembre-des-gens-sont-tombes-malades-parce-que-les-dirigeants-auxquels-ils-faisaient-confiance-leur-ont-menti_6768479_3210.html",
-      "time": "Il y a 6h",
-      "pubDate": 1788891414.0
-    },
-    {
-      "id": "Libération--6101018276256086477",
-      "source": "Libération",
-      "title": "JO 2030 : rentrée sous tension pour l’organisation, le président Edgar Grospiron sur la sellette",
-      "excerpt": "Le Comité d’organisation des Alpes 2030 (Cojop) a reporté la présentation d’un nouveau partenariat, en amont d’une réunion du bureau exécutif jeudi qui s’annonce «compliquée», selon plusieurs sources.",
-      "link": "https://www.liberation.fr/sports/jeux-olympiques/jo-2030-rentree-sous-tension-pour-lorganisation-le-president-edgar-grospiron-sur-la-sellette-20260908_236NFCDNBZE5LGLURP7SYF5HYI/",
-      "time": "Il y a 6h",
-      "pubDate": 1788891032.0
-    },
-    {
-      "id": "Libération-6414492839083185591",
-      "source": "Libération",
-      "title": "Assassinat de Federico Martín Aramburú : Bouvier et Le Priol, militants d’extrême droite à l’insu de leur plein gré",
-      "excerpt": "Ils se disent lisses, éloignés du GUD et de ses violences. A la barre pour le deuxième jour du procès, les deux principaux accusés s’emploient surtout à réécrire leur propre parcours, quitte à repeind...",
-      "link": "https://www.liberation.fr/societe/police-justice/assassinat-de-federico-martin-aramburu-bouvier-et-le-priol-militants-dextreme-droite-a-linsu-de-leur-plein-gre-20260908_ZE6DCW25L5CDBCHW3N7PY42V5M/",
-      "time": "Il y a 6h",
-      "pubDate": 1788890544.0
-    },
-    {
-      "id": "Le Monde-6283028912972652349",
-      "source": "Le Monde",
-      "title": "PISA 2025 : le récit du « déclinisme français » de retour dans la présidentielle",
-      "excerpt": "Les mauvais résultats de la France à l’enquête PISA – qui mesure le niveau scolaire des élèves de 15 ans – relancent les interrogations sur l’état du pays. Le thème du « déclin » de la France, bien qu...",
-      "link": "https://www.lemonde.fr/politique/article/2026/09/08/pisa-2025-le-recit-du-declinisme-francais-de-retour-dans-la-presidentielle_6768438_823448.html",
-      "time": "Il y a 7h",
-      "pubDate": 1788886814.0
-    },
-    {
-      "id": "Le Monde-5847108481007489539",
-      "source": "Le Monde",
-      "title": "L’avocat François Zimeray réaffirme l’importance des droits de l’homme, érodés par « le souffle inquiétant de l’air du temps »",
-      "excerpt": "Le spécialiste des droits humains, ancien diplomate, signe, dans la collection « Tracts » de Gallimard, un texte percutant sur le recul des grands principes de la défense dans une époque gagnée par le...",
-      "link": "https://www.lemonde.fr/idees/article/2026/09/08/l-avocat-francois-zimeray-reaffirme-l-importance-des-droits-de-l-homme-erodes-par-le-souffle-inquietant-de-l-air-du-temps_6768435_3232.html",
-      "time": "Il y a 7h",
-      "pubDate": 1788886802.0
-    },
-    {
-      "id": "Le Monde-236123940271187578",
+      "id": "Le Monde-7490481730209394666",
       "source": "Le Monde",
       "title": "Face à SpaceX, l’entrepreneuse française Hélène Huby incarne l’ambition du spatial européen",
       "excerpt": "L’entrepreneuse française de 48 ans, au pedigree prestigieux, a fondé The Exploration Company, une start-up franco-allemande privée spécialiste du transport spatial, qui se positionne en challenger de...",
       "link": "https://www.lemonde.fr/economie/article/2026/09/08/a-la-tete-de-la-start-up-franco-allemande-the-exploration-company-helene-huby-incarne-l-ambition-du-spatial-europeen-face-a-spacex_6768417_3234.html",
-      "time": "Il y a 8h",
+      "time": "Il y a 12h",
       "pubDate": 1788883201.0
     },
     {
-      "id": "Le Monde--4290023698990834509",
+      "id": "Le Monde--5878549366240221951",
+      "source": "Le Monde",
+      "title": "François Bayrou jugé en appel dans l’affaire des assistants parlementaires européens du MoDem",
+      "excerpt": "Relaxé en 2024, l’ancien premier ministre comparaît pour près d’un mois à la cour d’appel de Paris au côté de dix autres prévenus pour détournement de fonds publics.",
+      "link": "https://www.lemonde.fr/societe/article/2026/09/08/francois-bayrou-juge-en-appel-dans-l-affaire-des-assistants-parlementaires-europeens-du-modem_6768404_3224.html",
+      "time": "Il y a 13h",
+      "pubDate": 1788879615.0
+    },
+    {
+      "id": "Le Monde-9019662772223464326",
       "source": "Le Monde",
       "title": "« Le Tsar en personne » : « Le Monde » publie les extraits de l’enquête choc sur le quart de siècle de Vladimir Poutine au pouvoir",
       "excerpt": "Mikhaïl Roubine et Roman Badanine décryptent les mensonges du régime de Vladimir Poutine et la réalité du pouvoir d’un président sans idéologie, au cynisme sans limite, dans leur livre-enquête (en lib...",
       "link": "https://www.lemonde.fr/livres/article/2026/09/08/le-tsar-en-personne-le-monde-publie-les-extraits-de-l-enquete-choc-sur-le-quart-de-siecle-de-vladimir-poutine-au-pouvoir_6768394_3260.html",
-      "time": "Il y a 10h",
+      "time": "Il y a 14h",
       "pubDate": 1788876949.0
     }
   ],
   "anglophone": [
     {
-      "id": "BBC News-3097758123276142649",
+      "id": "BBC News-1318304465236904639",
       "source": "BBC News",
-      "title": "US slaps import ban on Canadian alcohol and other goods",
-      "excerpt": "It is the latest escalation in a trade war between the two countries, and comes as Canadian retaliatory tariffs on US goods come into force.",
+      "title": "Hong Kong's first leader after British handover dies",
+      "excerpt": "The tenure of Tung Chee-hwa, Hong Kong's first leader after Britain handed over the city to China, was marked by crises and protests.",
+      "link": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 27 min",
+      "pubDate": 1788927870.0
+    },
+    {
+      "id": "The Guardian-3532263408748864355",
+      "source": "The Guardian",
+      "title": "Babies born to anaemic mothers have smaller brains, study finds",
+      "excerpt": "Key regions of the brain linked to movement, learning and emotions were affected and may lead to cognitive problems  Babies born to mothers with anaemia have smaller brains, particularly in key region...",
+      "link": "https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds",
+      "time": "Il y a 51 min",
+      "pubDate": 1788926458.0
+    },
+    {
+      "id": "BBC News-2859978234744344123",
+      "source": "BBC News",
+      "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
+      "excerpt": "It is the latest strike in a long trade war, and comes as Canadian counter-tariffs on US goods come into force.",
       "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 18 min",
-      "pubDate": 1788912113.0
-    },
-    {
-      "id": "BBC News-1359674524994758001",
-      "source": "BBC News",
-      "title": "'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on",
-      "excerpt": "As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on.",
-      "link": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
       "time": "Il y a 1h",
-      "pubDate": 1788909092.0
+      "pubDate": 1788923012.0
     },
     {
-      "id": "BBC News-6960733306476371151",
-      "source": "BBC News",
-      "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
-      "excerpt": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
-      "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
-      "pubDate": 1788903991.0
-    },
-    {
-      "id": "NPR-2901767155308496713",
-      "source": "NPR",
-      "title": "New report shows the economic toll of ICE raids",
-      "excerpt": "A new study shows the steep economic cost of 2025's ICE raids in Chicago. Fear kept many immigrants home, draining the area of more than $1.26 billion in lost retail, restaurant, and sales-tax revenue...",
-      "link": "https://www.npr.org/2026/09/08/nx-s1-5955787/new-report-shows-the-economic-toll-of-ice-raids",
-      "time": "Il y a 4h",
-      "pubDate": 1788898642.0
-    },
-    {
-      "id": "NPR-8718645219637043019",
-      "source": "NPR",
-      "title": "Kenya's foreign trader crackdown sparks fear among migrant communities",
-      "excerpt": "Kenya's president orders a crackdown on foreigners running small businesses, amid accusations of xenophobia.",
-      "link": "https://www.npr.org/2026/09/08/nx-s1-5958636/kenya-immigration-foreign-xenophobia-africa",
-      "time": "Il y a 4h",
-      "pubDate": 1788897343.0
-    },
-    {
-      "id": "BBC News--4333339798251036943",
+      "id": "BBC News-4397435722110007150",
       "source": "BBC News",
       "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
       "excerpt": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
       "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 5h",
-      "pubDate": 1788894699.0
+      "time": "Il y a 3h",
+      "pubDate": 1788918315.0
     },
     {
-      "id": "BBC News--6066381849611331782",
+      "id": "BBC News--3151847854639032370",
+      "source": "BBC News",
+      "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
+      "excerpt": "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.",
+      "link": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 5h",
+      "pubDate": 1788910043.0
+    },
+    {
+      "id": "BBC News-2074960920118643521",
+      "source": "BBC News",
+      "title": "'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on",
+      "excerpt": "As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on.",
+      "link": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 5h",
+      "pubDate": 1788909092.0
+    },
+    {
+      "id": "BBC News--543472725032966812",
+      "source": "BBC News",
+      "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
+      "excerpt": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 7h",
+      "pubDate": 1788903991.0
+    },
+    {
+      "id": "NPR--7372519901289493228",
+      "source": "NPR",
+      "title": "New report shows the economic toll of ICE raids",
+      "excerpt": "A new study shows the steep economic cost of 2025's ICE raids in Chicago. Fear kept many immigrants home, draining the area of more than $1.26 billion in lost retail, restaurant, and sales-tax revenue...",
+      "link": "https://www.npr.org/2026/09/08/nx-s1-5955787/new-report-shows-the-economic-toll-of-ice-raids",
+      "time": "Il y a 8h",
+      "pubDate": 1788898642.0
+    },
+    {
+      "id": "NPR--5829135366862978043",
+      "source": "NPR",
+      "title": "Kenya's foreign trader crackdown sparks fear among migrant communities",
+      "excerpt": "Kenya's president orders a crackdown on foreigners running small businesses, amid accusations of xenophobia.",
+      "link": "https://www.npr.org/2026/09/08/nx-s1-5958636/kenya-immigration-foreign-xenophobia-africa",
+      "time": "Il y a 8h",
+      "pubDate": 1788897343.0
+    },
+    {
+      "id": "BBC News--8319986286239642834",
       "source": "BBC News",
       "title": "British widow faces deportation from Sweden after 22 years",
       "excerpt": "A 78-year-old British woman is facing deportation for failing to fill out a Brexit residence application on time.",
       "link": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 6h",
+      "time": "Il y a 10h",
       "pubDate": 1788890562.0
     },
     {
-      "id": "BBC News-6625968075776286987",
-      "source": "BBC News",
-      "title": "Fourteen go on trial over deadliest Channel small boats disaster",
-      "excerpt": "At least 30 men, women and children drowned when their dinghy capsized on 24 November 2021.",
-      "link": "https://www.bbc.co.uk/news/articles/cd94jn72w2yo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 6h",
-      "pubDate": 1788888265.0
-    },
-    {
-      "id": "BBC News-900605005732160029",
+      "id": "BBC News--1542899194005623327",
       "source": "BBC News",
       "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
       "excerpt": "President Zelensky describes the daytime drone attack in Ukraine's capital as a \"new page in Russian degradation\"",
       "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 7h",
+      "time": "Il y a 11h",
       "pubDate": 1788887454.0
     },
     {
-      "id": "BBC News--8670401682474689050",
-      "source": "BBC News",
-      "title": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
-      "excerpt": "The Iran-backed Yemeni group's attacks have injured 73 people and caused fires at oil facilities, Saudi authorities say.",
-      "link": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 10h",
-      "pubDate": 1788875912.0
-    },
-    {
-      "id": "BBC News--1688135924325402055",
+      "id": "BBC News-5958316842330501606",
       "source": "BBC News",
       "title": "Renoir paintings worth millions stolen in French museum heist",
       "excerpt": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight.",
       "link": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 10h",
+      "time": "Il y a 15h",
       "pubDate": 1788874528.0
     },
     {
-      "id": "NPR--2747307974166660712",
+      "id": "NPR--2006026643408262089",
       "source": "NPR",
       "title": "Australian social media users to be offered choice to opt out of algorithms",
       "excerpt": "A government statement said on Tuesday social media platforms would be required to send a notification to new and existing users offering them a choice over their default feed.",
       "link": "https://www.npr.org/2026/09/08/g-s1-142311/australian-social-media-users-to-be-offered-choice-to-opt-out-of-algorithms",
-      "time": "Il y a 10h",
+      "time": "Il y a 15h",
       "pubDate": 1788873840.0
     },
     {
-      "id": "NPR--8655824570725783639",
+      "id": "NPR-5074478757549812822",
       "source": "NPR",
       "title": "U.K. accuses Israeli settlers of 'ethnic cleansing' in West Bank and bans their goods",
       "excerpt": "France, Canada and other countries joined the U.K. in banning goods from Israeli settlements in the occupied West Bank. Israel said it would close the British Consulate among other measures.",
       "link": "https://www.npr.org/2026/09/08/nx-s1-5961044/uk-occcupied-west-bank-goods-israel",
-      "time": "Il y a 11h",
+      "time": "Il y a 15h",
       "pubDate": 1788872720.0
     },
     {
-      "id": "NPR-1281141332171318803",
+      "id": "NPR-5675564653736557883",
       "source": "NPR",
       "title": "Whatever happened to the Taliban threat: 'We will flog the women'?",
       "excerpt": "In 2024, the ruling Taliban pledged to use flogging as well as stoning to punish people for not following certain of their precepts — committing adultery, running secret schools for girls. Have they f...",
       "link": "https://www.npr.org/2026/09/08/g-s1-142038/taliban-afghanistan-public-flogging",
-      "time": "Il y a 11h",
+      "time": "Il y a 15h",
       "pubDate": 1788872518.0
     },
     {
-      "id": "NPR--1301945417212228671",
+      "id": "NPR--2604530237146873205",
       "source": "NPR",
       "title": "GOP to host unusual midterm convention. And, Canada's retaliatory tariffs take effect",
       "excerpt": "Republicans are aiming to get voters to turn out for the midterms with an unconventional convention. And, Canada's retaliatory tariffs on the U.S. went into effect at midnight.",
       "link": "https://www.npr.org/2026/09/08/g-s1-142302/up-first-newsletter-trumpapalooza-amazon-cargo-plane-crash-canada-tariffs",
-      "time": "Il y a 13h",
+      "time": "Il y a 17h",
       "pubDate": 1788866405.0
     },
     {
-      "id": "BBC News-2619284124111939576",
+      "id": "BBC News-1439750725026885763",
       "source": "BBC News",
       "title": "Argentina to file criminal case against oil company operating in Falklands",
       "excerpt": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
       "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 13h",
+      "time": "Il y a 17h",
       "pubDate": 1788865794.0
     },
     {
-      "id": "NPR--1965092100531543673",
+      "id": "NPR-1402153076689852409",
       "source": "NPR",
       "title": "Chrystia Freeland negotiated with Trump. Now she's watching a trade war unfold",
       "excerpt": "Chrystia Freeland understands the U.S.-Canada relationship from her time at the negotiating table. Here's what she sees now.",
       "link": "https://www.npr.org/2026/09/08/nx-s1-5955613/chrystia-freeland-canada-us-trade-war-tariffs",
-      "time": "Il y a 13h",
+      "time": "Il y a 18h",
       "pubDate": 1788864363.0
     },
     {
-      "id": "NPR--3755334022845348254",
+      "id": "NPR--8000415515549269857",
       "source": "NPR",
       "title": "Has the economy gone C-shaped?",
       "excerpt": "A K means the rich and poor are pulling apart. A C supposedly means they're coming back together. We hear the case for both. Which letter you see may depend on what you choose to pay attention to.",
       "link": "https://www.npr.org/sections/planet-money/2026/09/08/g-s1-142029/has-the-economy-gone-c-shaped",
-      "time": "Il y a 13h",
+      "time": "Il y a 18h",
       "pubDate": 1788863400.0
     },
     {
-      "id": "NPR-2181757403366026446",
+      "id": "NPR-4938093941111657915",
       "source": "NPR",
       "title": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people",
       "excerpt": "The attacks come after weeks of escalating clashes between the Houthis and Saudi-backed government forces in Yemen, which shattered a four-year truce in the country's civil war.",
       "link": "https://www.npr.org/2026/09/08/g-s1-142296/houthi-attacks-saudi-arabia",
-      "time": "Il y a 15h",
+      "time": "Il y a 19h",
       "pubDate": 1788858586.0
     },
     {
-      "id": "NPR--9139458000364555551",
+      "id": "NPR--1516626123611870940",
       "source": "NPR",
       "title": "The 2026 midterm general election season is upon us. Here's what to watch",
       "excerpt": "The week of Labor Day marks the unofficial kickoff of the general election season. President Trump's unpopularity and Democratic enthusiasm means control of Congress is on the ballot.",
       "link": "https://www.npr.org/2026/09/08/nx-s1-5960533/2026-midterm-campaign-kickoff-house-senate-trump",
-      "time": "Il y a 15h",
+      "time": "Il y a 19h",
       "pubDate": 1788858000.0
     },
     {
-      "id": "The Guardian-8606929311432572351",
+      "id": "The Guardian--2914527687416627933",
       "source": "The Guardian",
       "title": "Canada’s retaliatory US tariffs take effect as trade dispute grows",
       "excerpt": "Counter-measures covering several sectors come after Trump announced 50% tariffs on Canadian goods  Canada’s retaliatory tariffs on billions of dollars’ worth of American imports have come into effect...",
       "link": "https://www.theguardian.com/world/2026/sep/07/canada-tariffs-us-trump",
-      "time": "Il y a 20h",
+      "time": "Il y a 1j",
       "pubDate": 1788840059.0
     },
     {
-      "id": "The Guardian-7513010952897410813",
+      "id": "The Guardian--9199431033801970888",
       "source": "The Guardian",
       "title": "Hijacking pirates exploit regional chaos to return to seas off Somalia",
       "excerpt": "US-Israel war on Iran and political instability in Somalia lead to pirates targeting cargo ships off Horn of Africa The scourge of Somali piracy targeting cargo ships and smaller dhows off the Horn of...",
       "link": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
-      "time": "Il y a 20h",
+      "time": "Il y a 1j",
       "pubDate": 1788840027.0
     },
     {
-      "id": "The Guardian-3611013072144609711",
+      "id": "The Guardian-4473800304381466272",
       "source": "The Guardian",
       "title": "‘I heard a lot of noise’: trial begins in Mexico for alleged killers of Australian surfers and American friend",
       "excerpt": "Bereaved mother Debra Robinson in court stares at three men accused of murdering Jake and Callum Robinson and Jack Carter Rhoad in 2024 The suspected murderers of two Australian surfers and an America...",
       "link": "https://www.theguardian.com/world/2026/sep/07/alleged-killers-of-australian-surfers-and-american-friend-go-on-trial-in-mexico",
-      "time": "Il y a 22h",
+      "time": "Il y a 1j",
       "pubDate": 1788832824.0
     },
     {
-      "id": "The Guardian--7762382760716371849",
+      "id": "The Guardian-5458970417326235320",
       "source": "The Guardian",
       "title": "Weather tracker: Typhoon Saudel causes mass evacuations in south-east China",
       "excerpt": "Torrential rain causes widespread damage; while north-west South Africa hit by thunderstorms and central-southern US faces oppressive heat Typhoon Saudel brought days of torrential rain to Zhejiang, J...",
@@ -489,7 +498,7 @@
       "pubDate": 1788769628.0
     },
     {
-      "id": "The Guardian-4109321121539680679",
+      "id": "The Guardian-1286025170926316185",
       "source": "The Guardian",
       "title": "Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles",
       "excerpt": "Slavery’s legacy continues ‘to deprive our country and our people’, says minister, as group prepares to appeal to Jamaica’s head of state A landmark petition is to be handed to King Charles by Jamaica...",
@@ -498,7 +507,7 @@
       "pubDate": 1788714311.0
     },
     {
-      "id": "The Guardian--7964850362691436747",
+      "id": "The Guardian-8759777363512943785",
       "source": "The Guardian",
       "title": "Falklands row shows urgent need to commit to 3% target, says Labour defence committee chair",
       "excerpt": "Exclusive: Tan Dhesi says Argentinian threats make it more crucial than ever that PM increase defence spending Javier Milei’s threats to the Falkland Islands make it even more important that Andy Burn...",
@@ -507,7 +516,7 @@
       "pubDate": 1788674458.0
     },
     {
-      "id": "The Guardian-3424761916561889472",
+      "id": "The Guardian--2678937730564580235",
       "source": "The Guardian",
       "title": "Trump’s pique with UK could lead to favor to acolyte Milei over Falklands",
       "excerpt": "US president suggests he might support his Argentinian ally’s drive to reclaim sovereignty of disputed islands <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> has long embra...",
@@ -516,7 +525,7 @@
       "pubDate": 1788646780.0
     },
     {
-      "id": "The Guardian--8535223839757937232",
+      "id": "The Guardian--6692954663345953140",
       "source": "The Guardian",
       "title": "Egyptian TV presenter among 12 sentenced to death for drug crime",
       "excerpt": "Sarah Khalifa, 39, charged with forming organised criminal gang to manufacture and traffic drugs An Egyptian court sentenced a well-known television presenter and 11 others to death for manufacturing...",
@@ -525,23 +534,14 @@
       "pubDate": 1788631215.0
     },
     {
-      "id": "The Guardian--8614921803390638040",
+      "id": "The Guardian--180147807155263320",
       "source": "The Guardian",
       "title": "UN votes to adopt new world map that shows Africa’s true scale",
       "excerpt": "Togo-sponsored resolution called to phase out traditional map that depicts continent as similar size to Greenland The United Nations has voted to adopt a resolution for the world to formally phase out...",
       "link": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
       "time": "Il y a 4j",
       "pubDate": 1788540569.0
-    },
-    {
-      "id": "The Guardian--2328777319682741975",
-      "source": "The Guardian",
-      "title": "Spain’s PM says no evidence ‘whatsoever’ Morocco behind Ceuta border breach",
-      "excerpt": "Pedro Sánchez continues to defend Rabat after police report claiming border forces helped 70,000 cross border <ul><li><a href=\"https://www.theguardian.com/world/live/2026/sep/03/pedro-sanchez-ceuta-mi...",
-      "link": "https://www.theguardian.com/world/2026/sep/03/spain-pm-evidence-morocco-ceuta-border-breach",
-      "time": "Il y a 5j",
-      "pubDate": 1788439928.0
     }
   ],
-  "lastUpdate": "2026-09-09T00:20:50.906360"
+  "lastUpdate": "2026-09-09T04:52:29.049297"
 }
