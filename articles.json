@@ -1,30 +1,57 @@
 {
   "francophone": [
     {
-      "id": "Le Monde--4963182540497080336",
+      "id": "Le Monde-459803861902617449",
+      "source": "Le Monde",
+      "title": "Céline Dion remonte sur scène en chantant « On ne change pas », après plus de six ans d’absence",
+      "excerpt": "La chanteuse québécoise a entamé samedi, très émue, une tournée de 26 concerts près de Paris à la Défense. Cette série promet des retombées économiques colossales pour la capitale.",
+      "link": "https://www.lemonde.fr/culture/article/2026/09/12/celine-dion-remonte-sur-scene-en-chantant-on-ne-change-pas-apres-plus-de-six-ans-d-absence_6771946_3246.html",
+      "time": "Il y a 31 min",
+      "pubDate": 1789244889.0
+    },
+    {
+      "id": "France Info--3999759128589387892",
+      "source": "France Info",
+      "title": "\"C'était une promesse\". De \"Titanic\" à \"Destin\", Céline Dion enchaîne les tubes à la Plenitude Arena devant des fans conquis",
+      "excerpt": "Après deux semaines de répétitions à la Plénitude Arena de Nanterre, la star québécoise a fait son entrée en scène, après six ans d'absence et une apparition mémorable en ouverture des Jeux olympiques...",
+      "link": "https://www.franceinfo.fr/culture/musique/celine-dion/direct-celine-dion-a-paris-la-star-donne-le-premier-de-ses-concerts-evenement-ce-soir-suivez-cette-journee-avec-nous_8188268.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1789242486.0
+    },
+    {
+      "id": "France Info--1021265669701449046",
+      "source": "France Info",
+      "title": "Le gouvernement prêt à faciliter les donations familiales, afin de \"soutenir l'activité et renouer le fil de la solidarité entre les générations\"",
+      "excerpt": "Sébastien Lecornu précise que les mesures annoncées doivent permettre de  favoriser les donations familiales, sans attendre une succession liée à un décès.",
+      "link": "https://www.franceinfo.fr/economie/le-gouvernement-pret-a-faciliter-les-donations-familiales-afin-de-soutenir-l-activite-et-renouer-le-fil-de-la-solidarite-entre-les-generations_8190059.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1789240652.0
+    },
+    {
+      "id": "Libération--8780455081112539309",
+      "source": "Libération",
+      "title": "A la Fête de l’Huma, Jean-Pierre Farandou et Sophie Binet presque d’accord sur la TVA sociale et les bas salaires",
+      "excerpt": "Face à la numéro 1 de la CGT, offensive sur les rémunérations, le ministre du Travail a estimé que certaines solutions qui circulent dans le débat public sont de la «poudre de perlimpinpin».",
+      "link": "https://www.liberation.fr/economie/social/a-la-fete-de-lhuma-jean-pierre-farandou-et-sophie-binet-presque-daccord-sur-la-tva-sociale-et-les-bas-salaires-20260912_UW7HVQOR3RFYBHJ3XL2MCQ4QS4/",
+      "time": "Il y a 2h",
+      "pubDate": 1789238911.0
+    },
+    {
+      "id": "Le Monde--4081517043742662398",
       "source": "Le Monde",
       "title": "Coupe du monde féminine de basket : « en mission », la France poursuit son sans-faute et se hisse en finale mondiale",
-      "excerpt": "L’équipe de France féminine de basket s’est imposée, samedi à Berlin, en demi-finale du Mondial face à l’Allemagne (86-64). Gabby Williams et ses coéquipières affronteront, dimanche, les Etats-Unis ou...",
+      "excerpt": "L’équipe de France féminine de basket s’est imposée, samedi à Berlin, en demi-finale du Mondial face à l’Allemagne (86-64). Gabby Williams et ses coéquipières affronteront les Etats-Unis dimanche, ave...",
       "link": "https://www.lemonde.fr/sport/article/2026/09/12/coupe-du-monde-feminine-de-basket-en-mission-la-france-poursuit-son-sans-faute-et-se-hisse-en-finale-mondiale_6771847_3242.html",
-      "time": "Il y a 32 min",
-      "pubDate": 1789236971.0
+      "time": "Il y a 2h",
+      "pubDate": 1789236966.0
     },
     {
-      "id": "France Info-8545597805028473749",
-      "source": "France Info",
-      "title": "Céline Dion s'apprête à monter sur scène à Paris, devant un parterre de fans impatients",
-      "excerpt": "Après deux semaines de répétitions à la Plénitude Arena de Nanterre, l'entrée en scène de la star québécoise est imminente, après six ans d'absence et une apparition mémorable en ouverture des Jeux ol...",
-      "link": "https://www.franceinfo.fr/culture/musique/celine-dion/direct-celine-dion-a-paris-la-star-donne-le-premier-de-ses-concerts-evenement-ce-soir-suivez-cette-journee-avec-nous_8188268.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 34 min",
-      "pubDate": 1789236812.0
-    },
-    {
-      "id": "Libération-4461141783303762998",
+      "id": "Libération--1555758887721376173",
       "source": "Libération",
       "title": "Budget 2027 : le gouvernement veut faciliter les transmissions familiales",
       "excerpt": "Sébastien Lecornu a annoncé sur X qu’il souhaitait relever les exonérations sur les dons familiaux de sommes d’argent, et baisser la taxation du «don classique».",
       "link": "https://www.liberation.fr/economie/budget-2027-le-gouvernement-veut-faciliter-les-transmissions-familiales-20260912_CEXHPOCJENFOLG756PFYZQXP7E/",
-      "time": "Il y a 41 min",
+      "time": "Il y a 2h",
       "pubDate": 1789236398.0,
       "sources": [
         "Libération",
@@ -34,232 +61,205 @@
       "sourceCount": 2
     },
     {
-      "id": "Libération--6931045798985991383",
+      "id": "Libération--1180628559373915593",
       "source": "Libération",
       "title": "L’AfD aux portes du pouvoir en Allemagne : «Nous devons descendre dans la rue pour montrer aux minorités que personne n’est seul»",
       "excerpt": "Dans 35 villes, les Allemands ont manifesté ce samedi 12 septembre contre les projets de l’extrême droite qui s’apprête à diriger la région de Saxe-Anhalt. Après des années de «vigilance», le front an...",
       "link": "https://www.liberation.fr/international/europe/lafd-aux-portes-du-pouvoir-en-allemagne-nous-devons-descendre-dans-la-rue-pour-montrer-aux-minorites-que-personne-nest-seul-20260912_HSRPKMB5PBFKDLIPZ2INRWBJGY/",
-      "time": "Il y a 47 min",
+      "time": "Il y a 2h",
       "pubDate": 1789236032.0
     },
     {
-      "id": "France Info-1255902950857135128",
+      "id": "France Info-4825588070071879627",
       "source": "France Info",
       "title": "\"A ce stade\", \"aucun élément\" ne permet de considérer le déraillement d'un TER en Normandie comme \"un acte de malveillance\" ou \"un attentat\"",
       "excerpt": "\"Les investigations menées n'ont apporté aucun élément nouveau sur les causes de la présence d'un morceau\" de rail sur \"un autre rail\", précise le procureur dans un nouveau communiqué samedi soir.",
       "link": "https://www.franceinfo.fr/faits-divers/accident/a-ce-stade-aucun-element-ne-permet-de-considerer-le-deraillement-d-un-ter-en-normandie-comme-un-acte-de-malveillance-ou-un-attentat_8190029.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 49 min",
+      "time": "Il y a 3h",
       "pubDate": 1789235908.0
     },
     {
-      "id": "Libération-4493356041161829062",
+      "id": "Libération-3420878795478390290",
       "source": "Libération",
       "title": "Dans une Fête de l’Humanité dominée par Mélenchon, Ruffin et Tondelier en quête d’une voie pour sortir de l’impasse",
       "excerpt": "Exclus de la primaire des socialistes et marginalisés par la dynamique des insoumis qui régnaient sur les festivités en Essonne ce samedi 12 septembre, l’ex-insoumis et l’écologiste ont chacun appelé...",
       "link": "https://www.liberation.fr/politique/dans-une-fete-de-lhumanite-dominee-par-melenchon-ruffin-et-tondelier-en-quete-dune-voie-pour-sortir-de-limpasse-20260912_TKSLNS3ZZVACRC2DKHAZS2RUEI/",
-      "time": "Il y a 49 min",
+      "time": "Il y a 3h",
       "pubDate": 1789235907.0
     },
     {
-      "id": "Le Monde-7159593712844266049",
+      "id": "Le Monde-4108600991028654555",
       "source": "Le Monde",
       "title": "EN DIRECT, guerre en Ukraine : une rencontre Poutine - Zelensky au G20 à Miami ? « C’est impossible », répond le Kremlin",
       "excerpt": "Le président ukrainien, Volodymyr Zelensky, s’est dit prêt à rencontrer le président russe, Vladimir Poutine, lors du sommet du G20 à Miami en décembre. Mais le Kremlin a envoyé une fin de non recevoi...",
       "link": "https://www.lemonde.fr/international/live/2026/09/12/en-direct-guerre-en-ukraine-une-rencontre-poutine-zelensky-au-g20-a-miami-c-est-impossible-repond-le-kremlin_6766818_3210.html",
-      "time": "Il y a 57 min",
+      "time": "Il y a 3h",
       "pubDate": 1789235466.0
     },
     {
-      "id": "Le Monde--978555801150265380",
-      "source": "Le Monde",
-      "title": "Céline Dion à la Défense : quelques heures avant le premier concert, larmes, excitation et impatience chez les fans",
-      "excerpt": "Ils sont venus de France et de l’étranger, présents dès le début de l’après-midi pour savourer et ne rien rater de ce moment qu’ils considèrent, pour la plupart, comme « unique » dans leur vie",
-      "link": "https://www.lemonde.fr/culture/article/2026/09/12/quelques-heures-avant-le-premier-concert-de-celine-dion-a-la-defense-larmes-excitation-et-impatience-chez-les-fans_6771812_3246.html",
-      "time": "Il y a 1h",
-      "pubDate": 1789235160.0
-    },
-    {
-      "id": "France Info-2306818921274954841",
+      "id": "France Info-1543584554326740060",
       "source": "France Info",
       "title": "L’équipe de France s’offre le pays hôte allemand et se qualifie pour la première finale de Coupe du monde de basket de son histoire",
       "excerpt": "Les Bleues, qui disputaient leur première demi-finale mondiale, auront l’occasion de décrocher un premier titre, dimanche, en finale face à l'Espagne ou aux Etats-Unis.",
       "link": "https://www.franceinfo.fr/sports/basket/coupe-du-monde/l-equipe-de-france-s-offre-le-pays-hote-allemand-et-se-qualifie-pour-la-premiere-finale-de-coupe-du-monde-de-basket-de-son-histoire_8189753.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 3h",
       "pubDate": 1789234877.0
     },
     {
-      "id": "Libération--5501100052618469363",
+      "id": "Libération--8724975947380558300",
       "source": "Libération",
       "title": "A New Delhi, les Brics font front commun sur le Moyen-Orient",
       "excerpt": "Les dirigeants des pays des Brics, dont l’Inde, la Chine, la Russie, l’Iran et les Emirats, sont parvenus samedi 12 septembre à surmonter leurs différences sur le conflit au Moyen-Orient pour exhorter...",
       "link": "https://www.liberation.fr/international/asie-pacifique/a-new-delhi-les-brics-font-front-commun-sur-le-moyen-orient-20260912_M4N4MSPJTVCXREPKJAEN4BZOMM/",
-      "time": "Il y a 1h",
+      "time": "Il y a 3h",
       "pubDate": 1789234708.0
     },
     {
-      "id": "Libération-4193822051618711662",
+      "id": "Le Monde--6540502989732492972",
+      "source": "Le Monde",
+      "title": "Des colocations entre anciens sans-abri et jeunes actifs : dans les maisons Lazare, le vivre-ensemble fonctionne",
+      "excerpt": "L’association Lazare rassemble sous un même toit d’ex-SDF, des jeunes actifs et des étudiants. Reportage dans l’une de ces maisons, à Toulouse, où les vingt résidents partagent des espaces, des règles...",
+      "link": "https://www.lemonde.fr/intimites/article/2026/09/12/des-colocations-entre-anciens-sans-abri-et-jeunes-actifs-dans-les-maisons-lazare-le-vivre-ensemble-fonctionne_6771811_6190330.html",
+      "time": "Il y a 3h",
+      "pubDate": 1789234209.0
+    },
+    {
+      "id": "Libération--2115838057052368776",
       "source": "Libération",
       "title": "A la Fête de l’Huma, Mélenchon et Roussel se disputent le peuple de gauche",
       "excerpt": "Les deux candidats de gauche se succédaient ce samedi devant des dizaines de milliers de militants et sympathisants. Tous deux ont insisté sur les questions économiques.",
       "link": "https://www.liberation.fr/politique/elections/a-la-fete-de-lhuma-melenchon-saffiche-en-leader-inconteste-de-la-gauche-face-a-roussel-20260912_6SK7Z7DTZJAUFHYRQ5HGYLSWQE/",
-      "time": "Il y a 1h",
+      "time": "Il y a 3h",
       "pubDate": 1789233424.0
     },
     {
-      "id": "Libération--613585759114351079",
+      "id": "Libération--973458682973470833",
       "source": "Libération",
       "title": "«La rupture avec Abou Dhabi est moins coûteuse aujourd’hui, pour Alger»",
       "excerpt": "Après des années de tergiversations, et de crises en vexations, le président algérien a fini par rompre les liens diplomatiques avec les Emirats arabes unis, qu’Alger accuse d’ingérences et de déstabi...",
       "link": "https://www.liberation.fr/international/afrique/la-rupture-avec-abou-dhabi-est-moins-couteuse-aujourdhui-pour-alger-20260912_ZC7OACFMZVERZP3NBWCMMVESRI/",
-      "time": "Il y a 1h",
+      "time": "Il y a 3h",
       "pubDate": 1789233300.0
     },
     {
-      "id": "Le Monde--5398510562452606228",
+      "id": "Le Monde--189783856641478757",
       "source": "Le Monde",
       "title": "« Le maoïsme a pu s’enraciner dans des régions et des moments très divers grâce à sa nature multiforme, contradictoire et malléable »",
       "excerpt": "« Mao, l’encombrant héritage » (7/7). Cinquante ans après la mort du Grand Timonier, Julia Lovell, professeure d’histoire et de littérature chinoises à l’université Birkbeck, à Londres, retrace, dans...",
       "link": "https://www.lemonde.fr/international/article/2026/09/12/le-maoisme-a-pu-s-enraciner-dans-des-regions-et-des-moments-tres-divers-grace-a-sa-nature-multiforme-contradictoire-et-malleable_6771743_3210.html",
-      "time": "Il y a 1h",
+      "time": "Il y a 4h",
       "pubDate": 1789232408.0
     },
     {
-      "id": "France Info--4338702782707003169",
+      "id": "France Info--7891579765996856188",
       "source": "France Info",
       "title": "\"Un instrument stratégique de pression supplémentaire\" : pourquoi les rebelles houthis servent les intérêts de l'Iran en s'emparant du détroit de Bab el-Mandeb",
       "excerpt": "La prise de ce passage stratégique par les alliés de Téhéran pourrait ouvrir un nouveau front et \"renchérir le coût de la confrontation avec les Etats-Unis\", selon un expert.",
       "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/un-instrument-strategique-de-pression-supplementaire-pourquoi-les-rebelles-houthis-servent-les-interets-de-l-iran-en-s-emparant-du-detroit-de-bab-el-mandeb_8189762.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 4h",
       "pubDate": 1789232198.0
     },
     {
-      "id": "Libération-5405368692146161328",
+      "id": "Libération-1509001875007229843",
       "source": "Libération",
       "title": "A Nogent-sur-Marne, Bruno Retailleau bat en brèche l’idée d’un ralliement à Edouard Philippe pour la présidentielle",
       "excerpt": "Invité à s’exprimer devant les Jeunes LR ce samedi 12 septembre, le candidat du parti de droite se dit «prêt» à débattre avec son concurrent d’Horizons.",
       "link": "https://www.liberation.fr/politique/a-nogent-sur-marne-bruno-retailleau-bat-en-breche-lidee-dun-ralliement-a-edouard-philippe-pour-la-presidentielle-20260912_6CUV3FPJVFEE5MMJYVQKU2N64A/",
-      "time": "Il y a 2h",
+      "time": "Il y a 4h",
       "pubDate": 1789231091.0
     },
     {
-      "id": "Le Monde-8634615288877268359",
+      "id": "Le Monde-4260732053318055189",
       "source": "Le Monde",
       "title": "Présidentielle 2027 : Bruno Retailleau pousse le curseur de « la radicalité raisonnable » pour marquer sa différence",
       "excerpt": "Depuis la rentrée, le candidat du parti Les Républicains (LR) enchaîne les propositions radicales pour tenter de passer le mur du son avec, au cœur de son message, un « big bang constitutionnel ». Une...",
       "link": "https://www.lemonde.fr/politique/article/2026/09/12/presidentielles-2027-bruno-retailleau-pousse-le-curseur-de-la-radicalite-raisonnable-pour-marquer-sa-difference_6771742_823448.html",
-      "time": "Il y a 2h",
+      "time": "Il y a 4h",
       "pubDate": 1789231012.0
     },
     {
-      "id": "Libération-4428297881654110375",
+      "id": "Libération-6311991090385782928",
       "source": "Libération",
       "title": "Entre Pékin et New Delhi, le réchauffement se poursuit",
       "excerpt": "Pour la première fois depuis 2019, Xi Jinping a fait le déplacement dans la capitale indienne. En marge du sommet des Brics, qui s’y tient, il en a profité pour rencontrer son homologue indien. Les de...",
       "link": "https://www.liberation.fr/international/asie-pacifique/entre-pekin-et-new-delhi-le-rechauffement-se-poursuit-20260912_TGD7MFFTP5HJRLXB6QVY7DRGMU/",
-      "time": "Il y a 2h",
+      "time": "Il y a 4h",
       "pubDate": 1789230001.0
     },
     {
-      "id": "Libération-1339998886290185595",
+      "id": "Libération--5665675684592408335",
       "source": "Libération",
       "title": "Intraitables, les basketteuses françaises battent l’Allemagne et rallient la finale de la Coupe du monde",
       "excerpt": "Les partenaires de Gabby Williams n’ont pas laissé d’espoir au pays hôte (86-64) et poursuivent leur sans-faute dans la compétition. Elles défieront les Etats-Unis ou l’Espagne dimanche pour l’or mond...",
       "link": "https://www.liberation.fr/sports/intraitables-les-basketteuses-francaises-battent-lallemagne-et-rallient-la-finale-de-la-coupe-du-monde-20260912_B4NFLQKLLRGJFL4ANBHQT3JRUA/",
-      "time": "Il y a 2h",
+      "time": "Il y a 4h",
       "pubDate": 1789229795.0
     },
     {
-      "id": "Libération--7682451127646040564",
-      "source": "Libération",
-      "title": "La route maritime du Nord, un mirage pour Moscou et Pékin",
-      "excerpt": "Alors qu’on rêve depuis quinze ans de liaisons commerciales entre l’Asie et l’Europe via cet itinéraire arctique sur lequel mise la Russie, mais aussi la Chine et la Corée du Sud, les tests de cet été...",
-      "link": "https://www.liberation.fr/international/asie-pacifique/la-route-maritime-du-nord-un-mirage-pour-moscou-et-pekin-20260912_NOKJK3VM4VFXHPNJ45FAEU3SME/",
-      "time": "Il y a 2h",
-      "pubDate": 1789229400.0
-    },
-    {
-      "id": "France Info--7814990163935888334",
+      "id": "France Info-5584159395983836974",
       "source": "France Info",
       "title": "Marine Le Pen préfère un budget \"imparfait, opérationnel\" avant la présidentielle, plutôt qu'une loi spéciale",
       "excerpt": "La candidate du RN estime qu'un président de la République pourrait modifier plus rapidement un budget déjà existant. Le Premier ministre, Sébastien Lecornu, dévoilera sa copie budgétaire le 30 septem...",
       "link": "https://www.franceinfo.fr/politique/marine-le-pen/marine-le-pen-prefere-un-budget-imparfait-operationnel-avant-la-presidentielle-plutot-qu-une-loi-speciale_8189900.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
+      "time": "Il y a 5h",
       "pubDate": 1789228408.0
     },
     {
-      "id": "Le Monde-336070352090142363",
+      "id": "Le Monde--6764531686286778509",
       "source": "Le Monde",
       "title": "IA : le patron d’Anthropic, Dario Amodei, appelle à ralentir la vitesse de développement de l’intelligence artificielle avant que des agents soient « capables de prendre le contrôle d’internet »",
       "excerpt": "Le message publié samedi par Dario Amodei survient quelques jours après qu’un chercheur d’Anthropic, Jacob Coxon, a annoncé quitter la start-up californienne, l’accusant de minimiser le risque existen...",
       "link": "https://www.lemonde.fr/pixels/article/2026/09/12/ia-le-patron-d-anthropic-dario-amodei-appelle-a-ralentir-la-vitesse-de-developpement-de-l-intelligence-artificelle-et-a-mieux-controler-ses-evolutions_6771707_4408996.html",
-      "time": "Il y a 2h",
+      "time": "Il y a 5h",
       "pubDate": 1789228299.0
     },
     {
-      "id": "France Info--1796105006503131768",
+      "id": "France Info--2192804109823960423",
       "source": "France Info",
       "title": "Céline Dion : la France, \"l'autre chez moi\" de la Québécoise",
       "excerpt": "Pour la chanteuse canadienne francophone, le pays de Molière est devenu le lieu de quelques-unes des plus grandes émotions d'une longue carrière.",
       "link": "https://www.franceinfo.fr/culture/musique/celine-dion/celine-dion-la-france-l-autre-chez-moi-de-la-quebecoise_8185400.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 3h",
+      "time": "Il y a 5h",
       "pubDate": 1789225743.0
     },
     {
-      "id": "Le Monde-6024300984950853576",
-      "source": "Le Monde",
-      "title": "Immigration : pourquoi les candidats à l’exil du continent africain se reportent sur la route des îles Canaries",
-      "excerpt": "A la fin d’août 2026, 1 046 personnes ont été secourues dans l’océan Atlantique en une semaine. Elles tentaient de rejoindre les îles Canaries à bord d’embarcations de fortune. « Le Monde » s’est rend...",
-      "link": "https://www.lemonde.fr/international/video/2026/09/12/immigration-pourquoi-les-candidats-a-l-exil-du-continent-africain-se-reportent-sur-la-route-des-iles-canaries_6771540_3210.html",
-      "time": "Il y a 4h",
-      "pubDate": 1789221605.0
-    },
-    {
-      "id": "Le Monde--361713093943363604",
+      "id": "Le Monde-8478202257465694623",
       "source": "Le Monde",
       "title": "Déraillement d’un TER en Normandie : l’hypothèse d’un acte de malveillance privilégiée",
       "excerpt": "Le train a percuté un morceau de rail long de 5 mètres et lourd de 300 kilogrammes qui était posé sur la voie.",
       "link": "https://www.lemonde.fr/societe/article/2026/09/12/deraillement-d-un-ter-en-normandie-l-hypothese-d-un-acte-de-malveillance-privilegiee_6771437_3224.html",
-      "time": "Il y a 5h",
+      "time": "Il y a 8h",
       "pubDate": 1789217721.0
     },
     {
-      "id": "France Info--425288016502846368",
-      "source": "France Info",
-      "title": "\"Les 35°C peuvent être encore atteints dans le Sud\" : la chaleur fait son retour en France, avec un pic attendu lundi et mardi",
-      "excerpt": "Météo-France envisage une baisse \"possible\" des températures à partir de mercredi.",
-      "link": "https://www.franceinfo.fr/environnement/crise-climatique/les-35-c-peuvent-etre-encore-atteints-dans-le-sud-les-chaleurs-font-leur-retour-en-france-avec-un-pic-attendu-lundi-et-mardi_8189603.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 6h",
-      "pubDate": 1789216959.0
-    },
-    {
-      "id": "Le Monde--6914498082291293496",
+      "id": "Le Monde-6092485406108654625",
       "source": "Le Monde",
-      "title": "Les Françaises en finale du Mondial de basket-ball pour la première fois de leur histoire",
-      "excerpt": "Tout en maîtrise, les joueuses de Jean-Aimé Toupane ont battu l’Allemagne (86-64), samedi, à Berlin. Elles affronteront dimanche soir les vainqueures de l’autre demi-finale entre les Etats-Unis et l’E...",
-      "link": "https://www.lemonde.fr/sport/live/2026/09/12/en-direct-france-allemagne-suivez-la-demi-finale-de-la-coupe-du-monde-feminine-de-basket_6771404_3242.html",
-      "time": "Il y a 6h",
-      "pubDate": 1789216205.0
+      "title": "En Russie, les hommes en âge de combattre tentés par l’exil devant la menace d’une nouvelle mobilisation : « De simples citoyens ne veulent pas être envoyés dans une guerre sans fin »",
+      "excerpt": "Certains ont déjà acheté un billet d’avion, prêts à partir si une mobilisation générale est déclarée après les élections législatives du 18 au 20 septembre. La Géorgie, l’Arménie et la Serbie sont les...",
+      "link": "https://www.lemonde.fr/international/article/2026/09/12/en-russie-les-hommes-en-age-de-combattre-tentes-par-l-exil-devant-la-menace-d-une-nouvelle-mobilisation-de-simples-citoyens-ne-veulent-pas-etre-envoyes-dans-une-guerre-sans-fin_6771397_3210.html",
+      "time": "Il y a 8h",
+      "pubDate": 1789214410.0
     },
     {
-      "id": "France Info-4428114896967979834",
+      "id": "France Info--4666851000810523127",
       "source": "France Info",
       "title": "Céline Dion fait son grand retour sur scène à Paris : à quoi faut-il s'attendre pour son premier concert ?",
       "excerpt": "Pour ce retour très attendu, Céline Dion a préparé un spectacle pensé dans les moindres détails. Si une partie du répertoire est déjà connue, l'identité des éventuels invités qui la rejoindront sur sc...",
       "link": "https://www.franceinfo.fr/culture/musique/celine-dion-fait-son-grand-retour-sur-scene-a-paris-a-quoi-faut-il-s-attendre-pour-son-premier-concert_8189576.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 8h",
+      "time": "Il y a 10h",
       "pubDate": 1789207470.0
     },
     {
-      "id": "France Info-1609228488290928600",
+      "id": "France Info--6142546900322608706",
       "source": "France Info",
       "title": "\"Ça n'a pas duré longtemps, mais c'était extraordinaire\" : avec les fans de Céline Dion, prêts à attendre des heures pour quelques minutes de leur idole",
       "excerpt": "Depuis l'arrivée de la star québecoise à Paris, où elle entame samedi une série de concerts très attendus et complets depuis longtemps, les fans sont nombreux se presser chaque jour devant son hôtel,...",
       "link": "https://www.franceinfo.fr/culture/musique/celine-dion/reportage-ca-n-a-pas-dure-longtemps-mais-c-etait-extraordinaire-avec-les-fans-de-celine-dion-prets-a-attendre-des-heures-pour-quelques-minutes-de-leur-idole_8186027.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 8h",
+      "time": "Il y a 11h",
       "pubDate": 1789207032.0
     },
     {
-      "id": "France Info-6428826930225906267",
+      "id": "France Info--4503482014234237601",
       "source": "France Info",
       "title": "\"J'ai pris des billets très bien placés pour cinq concerts\" : des fans de Céline Dion prêts à dépenser une fortune pour assister à ses shows parisiens",
       "excerpt": "La chanteuse s'installe à Paris pour une série de concerts exceptionnels, en septembre et en octobre, puis en mai. Pour participer à l'événement, de nombreux admirateurs ont cassé leur tirelire.",
@@ -270,205 +270,205 @@
   ],
   "anglophone": [
     {
-      "id": "NPR--7757719275026813381",
+      "id": "BBC News--8636767123597494624",
+      "source": "BBC News",
+      "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
+      "excerpt": "Dayana Yastremska says her flat took a \"direct hit\" by a Russian missile in Odesa, and all that left was her Roland Garros towel.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 32 min",
+      "pubDate": 1789244845.0
+    },
+    {
+      "id": "BBC News--63348032304402402",
+      "source": "BBC News",
+      "title": "Fire at nursing home in Chile kills 16 residents",
+      "excerpt": "Ten people were evacuated from the home in Araucanía region in central Chile.",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 1h",
+      "pubDate": 1789241810.0
+    },
+    {
+      "id": "NPR--6634611895164838283",
       "source": "NPR",
       "title": "Alien Terrorist Removal Court deports legal US resident to Afghanistan in first-ever case",
       "excerpt": "Nazira Haji Zada, a lawful permanent resident, conceded to being an \"alien terrorist.\" It marks the first case in the Alien Terrorist Removal Court.",
       "link": "https://www.npr.org/2026/09/12/nx-s1-5967476/alien-removal-court-deportation-afganistan",
-      "time": "Il y a 19 min",
+      "time": "Il y a 2h",
       "pubDate": 1789237758.0
     },
     {
-      "id": "BBC News-19419217402264702",
+      "id": "BBC News--3249990249211990528",
       "source": "BBC News",
       "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
       "excerpt": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
       "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 1h",
+      "time": "Il y a 3h",
       "pubDate": 1789234958.0
     },
     {
-      "id": "BBC News-8466144198874228736",
-      "source": "BBC News",
-      "title": "Bulgaria investigates fire at weapons  site that owner calls sabotage",
-      "excerpt": "Officials are not ruling out \"outside interference\", while the company says the blaze at its site was sabotage.",
-      "link": "https://www.bbc.co.uk/news/articles/cd94kj17zvwo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 1h",
-      "pubDate": 1789234701.0
-    },
-    {
-      "id": "BBC News-6714739661236371868",
+      "id": "BBC News--3469090029494519391",
       "source": "BBC News",
       "title": "Uganda's King Oyo buried amid calls for unity over his successor",
       "excerpt": "A TV news presenter has been named as the traditional kingdom of Tooro's new monarch but the late king's family claim he chose an heir.",
       "link": "https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 1h",
+      "time": "Il y a 4h",
       "pubDate": 1789232131.0
     },
     {
-      "id": "BBC News-2052882370672126179",
+      "id": "BBC News-1789232352757441820",
       "source": "BBC News",
       "title": "Death toll from Philippines ferry fire rises to 76, with more still missing",
       "excerpt": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
       "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 3h",
+      "time": "Il y a 5h",
       "pubDate": 1789225795.0
     },
     {
-      "id": "The Guardian--6040167454512714064",
+      "id": "The Guardian-4010430115254320327",
       "source": "The Guardian",
       "title": "Burial of King Oyo takes place in Uganda as news anchor prepares for throne",
       "excerpt": "Royal guards carry casket through streets of Fort Portal amid row over appointment of Edward Rukidi Kijanangoma Uganda’s King Oyo Nyimba Kabamba Iguru Rukidi IV, long the world’s youngest monarch, has...",
       "link": "https://www.theguardian.com/world/2026/sep/12/burial-king-oyo-uganda",
-      "time": "Il y a 3h",
+      "time": "Il y a 5h",
       "pubDate": 1789225745.0
     },
     {
-      "id": "BBC News-2845789481935833005",
+      "id": "BBC News-4023321063896203496",
       "source": "BBC News",
       "title": "French officials investigate if malicious act caused train derailment",
       "excerpt": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.",
       "link": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 3h",
+      "time": "Il y a 5h",
       "pubDate": 1789225553.0
     },
     {
-      "id": "The Guardian--6611096477897224590",
+      "id": "The Guardian-1094415672553485001",
       "source": "The Guardian",
-      "title": "Six Nigerians extradited to US over $6M online romance scam",
+      "title": "Six Nigerians extradited to US over $6m online romance scam",
       "excerpt": "Alleged members of Black Axe criminal network that swindled US women out of $6m flown from South Africa Six Nigerian nationals linked to an organized criminal network that allegedly swindled American...",
       "link": "https://www.theguardian.com/us-news/2026/sep/12/nigerians-extradited-online-romance-scams",
-      "time": "Il y a 4h",
+      "time": "Il y a 6h",
       "pubDate": 1789221945.0
     },
     {
-      "id": "BBC News-1962114583782711536",
+      "id": "BBC News--3690482628879564756",
       "source": "BBC News",
       "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
       "excerpt": "Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will \"stick to the Good Friday Agreement\".",
       "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 4h",
+      "time": "Il y a 7h",
       "pubDate": 1789221380.0
     },
     {
-      "id": "NPR-1225074469569005108",
+      "id": "NPR--3559154961471437704",
       "source": "NPR",
       "title": "'People are still afraid of those three letters': Fighting the stigma of HIV",
       "excerpt": "That's a quote from former rugby star Gareth Thomas, who is HIV positive. At the International AIDS Conference in Rio this year, he spoke out about the isolation and discrimination tied to the virus.",
       "link": "https://www.npr.org/2026/09/12/g-s1-142404/hiv-aids-brazil-stigma",
-      "time": "Il y a 5h",
+      "time": "Il y a 7h",
       "pubDate": 1789218200.0
     },
     {
-      "id": "BBC News-7311259608467372347",
+      "id": "BBC News--7430409184745456263",
       "source": "BBC News",
       "title": "Record heatwaves in France set to make champagne stronger",
       "excerpt": "Winemakers can produce bubbly up to 15% ABV following an unusual harvest that produced sweeter grapes.",
       "link": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 5h",
+      "time": "Il y a 7h",
       "pubDate": 1789218032.0
     },
     {
-      "id": "BBC News-3187827933605007785",
+      "id": "BBC News--2544629466182706997",
       "source": "BBC News",
       "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
       "excerpt": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
       "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 6h",
+      "time": "Il y a 8h",
       "pubDate": 1789215350.0
     },
     {
-      "id": "NPR-2696152508421060970",
+      "id": "NPR--3058237646128280118",
       "source": "NPR",
       "title": "OPINION: 25 years on, a nation still mourns",
       "excerpt": "A moment to remember those lost in the 9/11 terrorist attacks 25 years ago yesterday.",
       "link": "https://www.npr.org/2026/09/12/nx-s1-5958560/opinion-25-years-on-a-nation-still-mourns",
-      "time": "Il y a 6h",
+      "time": "Il y a 9h",
       "pubDate": 1789214400.0
     },
     {
-      "id": "NPR-8120770516496648771",
+      "id": "NPR--2836957866895105634",
       "source": "NPR",
       "title": "A cancer survivor hoped to work — then she lost her Medicaid disability coverage",
       "excerpt": "As state governments grapple with how to determine who's sick enough to be excused from new Medicaid work requirements, some families are already struggling with what illnesses guarantee health covera...",
       "link": "https://www.npr.org/2026/09/12/nx-s1-5966884/insurance-coverage-cancer-disability-medicaid",
-      "time": "Il y a 7h",
+      "time": "Il y a 10h",
       "pubDate": 1789210800.0
     },
     {
-      "id": "NPR-5423383431034531108",
+      "id": "NPR-3963955891138924430",
       "source": "NPR",
       "title": "Trump meets Ireland's leaders before heading to his golf club in Doonbeg",
       "excerpt": "President Trump held talks in Dublin with Irish President Catherine Connolly and Ireland's Prime Minister Micheál Martin during a weekend visit centered on a major golf tournament.",
       "link": "https://www.npr.org/2026/09/12/g-s1-143076/trump-meets-irelands-leaders",
-      "time": "Il y a 7h",
+      "time": "Il y a 10h",
       "pubDate": 1789210514.0
     },
     {
-      "id": "BBC News-6729227318533751360",
-      "source": "BBC News",
-      "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
-      "excerpt": "The authorities have struggled to contain the fallout, as frightened migrants flee the country.",
-      "link": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 8h",
-      "pubDate": 1789207205.0
-    },
-    {
-      "id": "NPR--3351905481333347360",
+      "id": "NPR--6254974896917239934",
       "source": "NPR",
       "title": "The secret quest to preserve Palestinian writer Raja Shehadeh's diaries",
       "excerpt": "Leading Palestinian writer Raja Shehadeh has documented Israel's occupation of the West Bank since day one. Fearing the occupation might consume his archive, he secretly moved it to Scotland",
       "link": "https://www.npr.org/2026/09/12/g-s1-142760/palestinian-writer-archive-scotland-israel-shehadeh",
-      "time": "Il y a 8h",
+      "time": "Il y a 11h",
       "pubDate": 1789207200.0
     },
     {
-      "id": "NPR-5429880811952665872",
-      "source": "NPR",
-      "title": "Neighbor turned on neighbor after Charlie Kirk's killing. Is the divide here to stay?",
-      "excerpt": "The assassination of far right activist Charlie Kirk opened the floodgates of neighbor-on-neighbor doxing. A year later, the damage to political discourse in the U.S. remains.",
-      "link": "https://www.npr.org/2026/09/12/nx-s1-5952234/charlie-kirk-death-doxing",
-      "time": "Il y a 9h",
-      "pubDate": 1789203600.0
-    },
-    {
-      "id": "NPR--5857860421940654138",
+      "id": "NPR--3514973592272030112",
       "source": "NPR",
       "title": "Miami crash raises concerns about the jet's operator, and why it's flying for Amazon",
       "excerpt": "The cargo plane crash in Miami is raising concerns about the safety culture at 21 Air, one of the carriers that fly for Amazon. Former pilots were sounding alarms even before Sunday's accident.",
       "link": "https://www.npr.org/2026/09/12/nx-s1-5964931/miami-airport-amazon-cargo-crash",
-      "time": "Il y a 9h",
+      "time": "Il y a 12h",
       "pubDate": 1789203600.0
     },
     {
-      "id": "NPR--4950177824213446421",
+      "id": "NPR-7586885075083456210",
       "source": "NPR",
       "title": "Anthropic and OpenAI CEOs call for AI development to slow down",
       "excerpt": "Dario Amodei and Sam Altman are the latest to urge caution amid fears the industry is racing too fast to build powerful AI while safety measures lag.",
       "link": "https://www.npr.org/2026/09/12/nx-s1-5950588/openai-anthropic-ai-safety-researchers-hacks",
-      "time": "Il y a 9h",
+      "time": "Il y a 12h",
       "pubDate": 1789203600.0
     },
     {
-      "id": "NPR--8067110481323550318",
+      "id": "NPR--7227720271678376849",
+      "source": "NPR",
+      "title": "Neighbor turned on neighbor after Charlie Kirk's killing. Is the divide here to stay?",
+      "excerpt": "The assassination of far right activist Charlie Kirk opened the floodgates of neighbor-on-neighbor doxing. A year later, the damage to political discourse in the U.S. remains.",
+      "link": "https://www.npr.org/2026/09/12/nx-s1-5952234/charlie-kirk-death-doxing",
+      "time": "Il y a 12h",
+      "pubDate": 1789203600.0
+    },
+    {
+      "id": "NPR-6255282092199223214",
       "source": "NPR",
       "title": "BRICS leaders meet in India as wars and US tensions test the bloc",
       "excerpt": "Indian Prime Minister Narendra Modi hosts Russian President Vladimir Putin, Chinese President Xi Jinping and other leaders of the BRICS nations for a summit on trade, investment, and global conflicts.",
       "link": "https://www.npr.org/2026/09/12/g-s1-143054/brics-leaders-meet-in-india",
-      "time": "Il y a 11h",
+      "time": "Il y a 13h",
       "pubDate": 1789197535.0
     },
     {
-      "id": "BBC News--5763811833833956308",
+      "id": "BBC News-8621688446667712874",
       "source": "BBC News",
       "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
       "excerpt": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter.",
       "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 12h",
+      "time": "Il y a 15h",
       "pubDate": 1789192515.0
     },
     {
-      "id": "The Guardian--4442468773175360784",
+      "id": "The Guardian--2246906960844788858",
       "source": "The Guardian",
       "title": "$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide",
       "excerpt": "Her Horizon Fund seeks $100m to stop practice harming 230m women and girls globally   Frontline activists and leaders in the fight against female genital mutilation, which has affected more than <a hr...",
@@ -477,16 +477,16 @@
       "pubDate": 1789099204.0
     },
     {
-      "id": "The Guardian--1812130403290508557",
+      "id": "The Guardian--2758739920351644218",
       "source": "The Guardian",
       "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
       "excerpt": "Canadian PM Mark Carney hosts president in Calgary, where he grew up alongside large Ukrainian community Canada offered support on Thursday to boost Ukraine’s air defenses and help replenish its drone...",
       "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit",
-      "time": "Il y a 1j",
+      "time": "Il y a 2j",
       "pubDate": 1789072506.0
     },
     {
-      "id": "The Guardian-3986995713288811813",
+      "id": "The Guardian--8260246475734653546",
       "source": "The Guardian",
       "title": "Secret son revelation ignites bitter succession dispute in Ugandan kingdom",
       "excerpt": "Family of late King Oyo Nyimba Kabamba Iguru Rukidi IV reject committee’s choice of cousin and TV presenter as new monarch A traditional Ugandan kingdom has become engulfed in a bitter succession disp...",
@@ -495,7 +495,7 @@
       "pubDate": 1789061360.0
     },
     {
-      "id": "The Guardian-153579609670768923",
+      "id": "The Guardian-8895367556471567838",
       "source": "The Guardian",
       "title": "Rubio signals shift to working with allies to fight drug trade as latest boat strike kills three",
       "excerpt": "Rubio visits Ecuador and welcomes cooperation after campaign of unilateral strikes on alleged ‘narco-terrorists’ The US secretary of state, Marco Rubio, gave new clarity on the approach toward combati...",
@@ -504,7 +504,7 @@
       "pubDate": 1789002162.0
     },
     {
-      "id": "The Guardian--3278747112204024664",
+      "id": "The Guardian-8317687449259922326",
       "source": "The Guardian",
       "title": "Notorious Ecuadorian crime gang designated a terrorist group by US",
       "excerpt": "Trump administration to seek extra funding from Congress to ‘dismantle’ Los Tiguerones over narcotics trafficking The US has designated Ecuador’s Los Tiguerones gang, which <a href=\"https://www.thegua...",
@@ -513,7 +513,7 @@
       "pubDate": 1788992365.0
     },
     {
-      "id": "The Guardian-7786154523573317081",
+      "id": "The Guardian-496549565492192288",
       "source": "The Guardian",
       "title": "Uganda to withdraw from Invictus Games ‘out of respect for King Charles’, says military chief",
       "excerpt": "Gen Muhoozi Kainerugaba announces decision to pull out in post on X, citing tensions over ‘Harry-Meghan nonsense’ Uganda is withdrawing from the Duke of Sussex’s Invictus Games, the country’s military...",
@@ -522,7 +522,7 @@
       "pubDate": 1788978024.0
     },
     {
-      "id": "The Guardian-3042236325796804529",
+      "id": "The Guardian--3994247683656530487",
       "source": "The Guardian",
       "title": "Family of British man found dead in Grenada ask local police to work with UK investigators",
       "excerpt": "Andrew Frederick’s body was found in property he was staying at in Grenada in January The family of a British father who was found dead in the Caribbean in January is urging authorities in Grenada to...",
@@ -531,7 +531,7 @@
       "pubDate": 1788940803.0
     },
     {
-      "id": "The Guardian--6313368664087750273",
+      "id": "The Guardian--7021983953670667419",
       "source": "The Guardian",
       "title": "‘It’s hell’: father of slain Australian surfers tells Mexico homicide trial about identifying sons’ bodies",
       "excerpt": "Three men are on trial over the death of brothers Jake and Callum Robinson and their friend, US citizen Jack Carter Rhoad, in Ensenada The father of two Australian surfers killed in Mexico two years a...",
@@ -540,5 +540,5 @@
       "pubDate": 1788929183.0
     }
   ],
-  "lastUpdate": "2026-09-12T18:48:36.018290"
+  "lastUpdate": "2026-09-12T21:00:11.124997"
 }
