@@ -1,483 +1,513 @@
 {
   "francophone": [
     {
-      "id": "Le Monde-4371121966899427959",
+      "id": "Le Monde-3646527177918891051",
+      "source": "Le Monde",
+      "title": "Aux Emmy Awards, la comédie horrifique « Widow’s Bay », grande favorite de la soirée, fait le plein de statuettes",
+      "excerpt": "La cérémonie, qui s’est tenue lundi soir à Los Angeles, souvent présentée comme l’équivalent des Oscars de la télévision américaine, s’est achévée sur une pluie de records. « The Pitt » a été sacrée m...",
+      "link": "https://www.lemonde.fr/culture/article/2026/09/15/aux-emmy-awards-la-comedie-horrifique-widow-s-bay-grande-favorite-de-la-soiree-fait-le-plein-de-statuettes_6774336_3246.html",
+      "time": "Il y a 4 min",
+      "pubDate": 1789448009.0
+    },
+    {
+      "id": "France Info--2547893308634963657",
+      "source": "France Info",
+      "title": "Un drone abattu par l'Otan au-dessus de la Lituanie",
+      "excerpt": "\"Alors que la Russie intensifie son agression contre l'Ukraine, une telle préparation est vitale pour notre région. Avec nos alliés de l'Otan, la Lituanie défendra son espace aérien\", a commenté le pr...",
+      "link": "https://www.franceinfo.fr/monde/otan/un-drone-abattu-par-l-otan-au-dessus-de-la-lituanie_8192894.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 13 min",
+      "pubDate": 1789447435.0
+    },
+    {
+      "id": "France Info-4904373597582084536",
+      "source": "France Info",
+      "title": "Des pêcheurs bloquent un dépôt pétrolier à Fos-sur-Mer pour protester contre la hausse des prix du carburant",
+      "excerpt": "Les professionnels de la pêche dénoncent \"une dégradation continue de leurs conditions d'activité\", en raison notamment de \"la hausse des coûts d'exploitation et du carburant\" mais aussi une \"multipli...",
+      "link": "https://www.franceinfo.fr/economie/greve/des-pecheurs-bloquent-un-depot-petrolier-a-fos-sur-mer-pour-protester-contre-la-hausse-des-prix-du-carburant_8192906.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 30 min",
+      "pubDate": 1789446444.0
+    },
+    {
+      "id": "France Info-7988044379829858009",
+      "source": "France Info",
+      "title": "\"Si tu penses bien\" : dans un film avec Monia Chokri et Niels Schneider, Géraldine Nakache décortique un cas d'emprise conjugale sur fond de radicalité religieuse",
+      "excerpt": "Avec ce thriller psychologique et pamphlet contre une interprétation dévoyée de la religion à des fins d'instrumentalisation, Géraldine Nakache réussit son incursion dans un genre dramatique.",
+      "link": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/si-tu-penses-bien-dans-un-film-avec-monia-chokri-et-niels-schneider-geraldine-nakache-decortique-un-cas-d-emprise-conjugale-sur-fond-de-radicalite-religieuse_8166452.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 47 min",
+      "pubDate": 1789445401.0
+    },
+    {
+      "id": "Libération-1909835522626124418",
+      "source": "Libération",
+      "title": "Amiante dans les écoles : le silence de plomb du ministère de l’Education nationale",
+      "excerpt": "Malgré un avis favorable des autorités administratives, la rue de Grenelle refuse de fournir à la presse les données existantes sur la présence du matériau cancérigène dans les établissements scolaire...",
+      "link": "https://www.liberation.fr/societe/education/amiante-dans-les-ecoles-le-silence-de-plomb-du-ministere-de-leducation-nationale-20260915_WFI6T32EWRFGZOOGGV525PIABI/",
+      "time": "Il y a 57 min",
+      "pubDate": 1789444801.0
+    },
+    {
+      "id": "Libération-4742052156210389151",
+      "source": "Libération",
+      "title": "Au Venezuela, le «deal» pétrolier de Trump fait grincer des dents",
+      "excerpt": "L’accord conclu entre Washington et Caracas sur l’exploitation de 17 champs pétroliers, dont le contenu reste opaque, indigne les Vénézuéliens. Les experts relativisent la portée d’un contrat annoncé...",
+      "link": "https://www.liberation.fr/international/amerique/au-venezuela-le-deal-petrolier-de-trump-fait-grincer-des-dents-20260915_D7U3GEY6VBG23OR6HWHTY44EMU/",
+      "time": "Il y a 57 min",
+      "pubDate": 1789444801.0
+    },
+    {
+      "id": "Libération--4615477359037334562",
+      "source": "Libération",
+      "title": "Départs à la retraite, crise des vocations, changement climatique… l’agriculture française face à une «double falaise démographique et écologique»",
+      "excerpt": "Dans un rapport publié mardi 15 septembre, l‘association SOL et le Réseau Action Climat soulignent que le renouvellement des générations agricoles peut être l’occasion de mettre la France sur «les rai...",
+      "link": "https://www.liberation.fr/environnement/agriculture/departs-a-la-retraite-crise-des-vocations-changement-climatique-lagriculture-francaise-face-a-une-double-falaise-demographique-et-ecologique-20260915_D3NP2WGYF5BNVCBPMO2SLGGIMA/",
+      "time": "Il y a 57 min",
+      "pubDate": 1789444801.0
+    },
+    {
+      "id": "Libération--5192741242439612201",
+      "source": "Libération",
+      "title": "«Nous, les Français», selfie impressionniste et grossissant de nos goûts et tendances",
+      "excerpt": "Cet ouvrage de pop sociologie cartonne en librairie. Médias, politiques et patrons s’arrachent ce best-of de nos habitudes socioculturelles, qui zoome sur nos fractures mais aussi les ferments de soli...",
+      "link": "https://www.liberation.fr/idees-et-debats/nous-les-francais-selfie-impressionniste-et-grossissant-de-nos-gouts-et-tendances-20260915_OVTLFOFOPRBLNFLZTHD6FTCOQY/",
+      "time": "Il y a 57 min",
+      "pubDate": 1789444801.0
+    },
+    {
+      "id": "Libération-2833341406357681876",
+      "source": "Libération",
+      "title": "L’IA, nouveau levier du soft power saoudien",
+      "excerpt": "Désirant s’imposer comme une puissance technologique et damer le pion à son rival émirati, l’Arabie Saoudite arrose le secteur d’investissements et accueille, depuis lundi, le Forum international sur...",
+      "link": "https://www.liberation.fr/economie/economie-numerique/lia-nouveau-levier-du-soft-power-saoudien-20260915_FQ222WXOHZANBFJBQOOHMRIUMI/",
+      "time": "Il y a 57 min",
+      "pubDate": 1789444801.0
+    },
+    {
+      "id": "France Info--3665176306762036944",
+      "source": "France Info",
+      "title": "\"J'attends des excuses de la maire\" : Anne Hidalgo et Emmanuel Grégoire attendus au tournant devant le Sénat sur les violences dans le périscolaire",
+      "excerpt": "L'ancienne maire de Paris et son successeur sont entendus dans le cadre d'une mission d'information qui souhaite comprendre \"les dysfonctionnements\" qui ont eu lieu dans la signalisation des cas de vi...",
+      "link": "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/j-attends-des-excuses-de-la-maire-anne-hidalgo-et-emmanuel-gregoire-attendus-au-tournant-devant-le-senat-sur-les-violences-dans-le-periscolaire_8191685.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 59 min",
+      "pubDate": 1789444710.0
+    },
+    {
+      "id": "France Info-9190831612323154273",
+      "source": "France Info",
+      "title": "\"Ils ont du mal à suivre les cours pendant une heure\" : après la publication du classement Pisa, des professeurs témoignent de la réalité observée en classe",
+      "excerpt": "L'édition 2026 de cette enquête internationale pointe une baisse du niveau des élèves dans le monde, et notamment en France. Des enseignants tentent d'en expliquer les raisons à l'aune des expériences...",
+      "link": "https://www.franceinfo.fr/societe/education/classement-pisa/ils-ont-du-mal-a-suivre-les-cours-pendant-une-heure-apres-la-publication-du-classement-pisa-des-professeurs-temoignent-de-la-realite-observee-en-classe_8186123.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 59 min",
+      "pubDate": 1789444666.0
+    },
+    {
+      "id": "Le Monde--1371880796823222522",
+      "source": "Le Monde",
+      "title": "Flambée du pétrole et hausse des taux : nouvelle alerte sur les finances publiques françaises",
+      "excerpt": "Le taux d’intérêt auquel la France doit s’endetter est monté à 4,5 %, lundi 14 septembre. Du jamais-vu depuis 2008. L’écart avec l’Allemagne, un pays jugé beaucoup plus fiable, a également atteint un...",
+      "link": "https://www.lemonde.fr/politique/article/2026/09/15/flambee-du-petrole-et-hausse-des-taux-nouvelle-alerte-sur-les-finances-publiques-francaises_6774322_823448.html",
+      "time": "Il y a 1h",
+      "pubDate": 1789443855.0
+    },
+    {
+      "id": "Le Monde--5991376309598172185",
+      "source": "Le Monde",
+      "title": "Etats-Unis : le Pentagone reconnaît une « pénurie » de munitions liée à la guerre en Iran",
+      "excerpt": "Alors que Donald Trump assurait encore début septembre que les Etats-Unis disposaient de « quantités pratiquement illimitées de munitions », un rapport du ministère de la défense américain relève « un...",
+      "link": "https://www.lemonde.fr/international/article/2026/09/15/etats-unis-le-pentagone-reconnait-une-penurie-de-munitions-consecutive-a-la-guerre-en-iran_6774321_3210.html",
+      "time": "Il y a 1h",
+      "pubDate": 1789443647.0
+    },
+    {
+      "id": "Libération-7217357682152838210",
+      "source": "Libération",
+      "title": "Le sort de deux inspecteurs du travail isérois au cœur des tensions au sein du ministère",
+      "excerpt": "Deux inspecteurs du travail isérois, représentant le syndicat SUD, sont convoqués ce mardi 15 septembre à un conseil de discipline. Ils sont soutenus par les organisations syndicales et des élus de ga...",
+      "link": "https://www.liberation.fr/economie/le-sort-de-deux-inspecteurs-du-travail-iserois-au-coeur-des-tensions-au-sein-du-ministere-20260915_GQ4IOCSGRVFT5OVUNJNTOLDEAM/",
+      "time": "Il y a 1h",
+      "pubDate": 1789441200.0
+    },
+    {
+      "id": "Le Monde--3077180982825305630",
+      "source": "Le Monde",
+      "title": "La fusée Vega-C s’envole de Kourou avec deux satellites européens",
+      "excerpt": "Opéré par l’italien Avio, ce vol a pour mission de placer deux satellites visant à surveiller le climat et la santé des plantes depuis l’espace.",
+      "link": "https://www.lemonde.fr/sciences/article/2026/09/15/la-fusee-vega-c-s-envole-de-kourou-avec-deux-satellites-europeens_6774250_1650684.html",
+      "time": "Il y a 2h",
+      "pubDate": 1789440131.0
+    },
+    {
+      "id": "Libération--7177353593645423194",
+      "source": "Libération",
+      "title": "«The Singer in My Band» de This is Lorelei, une géniale ode musicale à l’Amérique rurale",
+      "excerpt": "De ses tournées à travers les Etats-Unis et ses rêveries sur les routes, Nate Amos a tiré un album rempli d’histoires.",
+      "link": "https://www.liberation.fr/culture/musique/the-singer-in-my-band-de-this-is-lorelei-une-geniale-ode-musicale-a-lamerique-rurale-20260915_ESWTZU2FYRGFLBZFI4IWHY56HE/",
+      "time": "Il y a 2h",
+      "pubDate": 1789437600.0
+    },
+    {
+      "id": "Le Monde-8243984635104121561",
       "source": "Le Monde",
       "title": "Le mariage du fils aîné de Donald Trump aux Bahamas sponsorisé par un homme d’affaires russe",
       "excerpt": "Le généreux contributeur, Umar Kremlev, un proche des cercles du pouvoir à Moscou, dirige la fédération controversée International Boxing Association et est aussi présent dans le secteur lucratif des...",
       "link": "https://www.lemonde.fr/international/article/2026/09/15/le-mariage-du-fils-aine-de-donald-trump-aux-bahamas-sponsorise-par-un-homme-d-affaires-russe_6774052_3210.html",
-      "time": "Il y a 31 min",
+      "time": "Il y a 5h",
       "pubDate": 1789429513.0
     },
     {
-      "id": "Le Monde-3635451875017358073",
-      "source": "Le Monde",
-      "title": "Etats-Unis : un juge bloque temporairement les restrictions sur les visas pour étudiants et journalistes étrangers décidées par l’administration Trump",
-      "excerpt": "La décision du juge survient après que de nombreuses organisations ont dénoncé l’impact de ces restrictions sur la liberté de la presse et l’attractivité universitaire des Etats-Unis.",
-      "link": "https://www.lemonde.fr/international/article/2026/09/15/etats-unis-un-juge-bloque-temporairement-les-restrictions-sur-les-visas-pour-etudiants-et-journalistes-etrangers-decidees-par-l-administration-trump_6774051_3210.html",
-      "time": "Il y a 34 min",
-      "pubDate": 1789429329.0
-    },
-    {
-      "id": "Le Monde-2765962945016931401",
+      "id": "Le Monde-4515704017224137766",
       "source": "Le Monde",
       "title": "Etats-Unis : des migrants enfermés dans des mini-cellules grillagées à l’« Alcatraz des alligators », rapporte le ministère de la sécurité intérieure",
       "excerpt": "Le centre de rétention, situé en Floride, a fonctionné pendant un an, entre début juillet 2025 et juin 2026, avant sa fermeture par la justice.",
       "link": "https://www.lemonde.fr/international/article/2026/09/15/etats-unis-des-migrants-enfermes-dans-des-mini-cellules-grillagees-a-l-alcatraz-des-alligators-rapporte-le-dhs_6774018_3210.html",
-      "time": "Il y a 1h",
+      "time": "Il y a 5h",
       "pubDate": 1789427262.0
     },
     {
-      "id": "Libération--6838126239682206892",
+      "id": "Libération--5354164886321395432",
       "source": "Libération",
       "title": "La lecture à tout âge, antidote contre le décrochage scolaire et la démence sénile",
       "excerpt": "Il existe une solution simple, peu coûteuse et efficace pour améliorer les résultats à l’école des plus petits et retarder les troubles cognitifs des plus âgés. Vous êtes en train de l’exercer en ce m...",
       "link": "https://www.liberation.fr/sciences/la-lecture-a-tout-age-antidote-contre-le-decrochage-scolaire-et-la-demence-senile-20260915_7QF76DZ5YVAJJB2TUDJEF7TOFE/",
-      "time": "Il y a 1h",
+      "time": "Il y a 5h",
       "pubDate": 1789426800.0
     },
     {
-      "id": "Le Monde--5525023130684809176",
-      "source": "Le Monde",
-      "title": "Versements de dividendes : la France en tête en Europe au deuxième trimestre 2026",
-      "excerpt": "Les principales entreprises cotées dans l’Hexagone ont distribué 70,4 milliards de dollars à leurs actionnaires entre avril et juin, selon le gestionnaire d’actifs Janus Henderson. Le pays se place ai...",
-      "link": "https://www.lemonde.fr/economie/article/2026/09/15/versements-de-dividendes-la-france-en-tete-en-europe-au-deuxieme-trimestre-2026_6774017_3234.html",
-      "time": "Il y a 1h",
-      "pubDate": 1789426781.0
-    },
-    {
-      "id": "Le Monde-3066057323906083352",
+      "id": "Le Monde--2310703736985025875",
       "source": "Le Monde",
       "title": "La pollution de l’air contribuerait à creuser les inégalités scolaires",
       "excerpt": "Une étude du Laboratoire sur les inégalités mondiales suggère que la pollution de l’air peut expliquer jusqu’à 25 % de l’écart de réussite aux examens entre les élèves issus de milieux socio-économiqu...",
       "link": "https://www.lemonde.fr/planete/article/2026/09/15/la-pollution-de-l-air-contribuerait-a-creuser-les-inegalites-scolaires_6773950_3244.html",
-      "time": "Il y a 2h",
+      "time": "Il y a 6h",
       "pubDate": 1789423269.0
     },
     {
-      "id": "France Info-4047243029875933333",
-      "source": "France Info",
-      "title": "L'administration Trump abroge les limites d'émissions polluantes imposées aux centrales électriques",
-      "excerpt": "Le secteur énergétique représente près d'un quart des émissions de gaz à effet de serre des Etats-Unis, premier pollueur historique.",
-      "link": "https://www.franceinfo.fr/environnement/l-administration-trump-abroge-les-limites-d-emissions-polluantes-imposees-aux-centrales-electriques_8192606.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
-      "pubDate": 1789422706.0
-    },
-    {
-      "id": "France Info--6800233528270006717",
-      "source": "France Info",
-      "title": "Violences dans le périscolaire : l'ex-ministre de l'Éducation Vincent Peillon regrette qu'il n'y ait pas de filière d'éducateurs",
-      "excerpt": "L'ex-ministre a reconnu que le budget obtenu à l'époque pour le périscolaire était \"ridicule\".",
-      "link": "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire-l-ex-ministre-de-l-education-vincent-peillon-regrette-qu-il-n-y-ait-pas-de-filiere-d-educateurs_8192582.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 3h",
-      "pubDate": 1789420294.0
-    },
-    {
-      "id": "France Info-6436752177354960165",
-      "source": "France Info",
-      "title": "\"On ne trouve pas le sommeil\" : des Marseillais excédés par les rodéos urbains, désormais traqués par drones par les policiers",
-      "excerpt": "À Marseille, des centaines de jeunes se retrouvent chaque jour sur une route de la ville, au guidon de motos souvent trafiquées. Des passages incessants sous les fenêtres d'habitants, parfois jusqu’à...",
-      "link": "https://www.franceinfo.fr/marseille/on-ne-trouve-pas-le-sommeil-des-marseillais-excedes-par-les-rodeos-urbains-desormais-traques-par-drones-par-les-policiers_8192579.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 3h",
-      "pubDate": 1789419420.0
-    },
-    {
-      "id": "France Info-8104112265578161542",
-      "source": "France Info",
-      "title": "Le rappeur américain Macklemore écarté de la tournée d'Ed Sheeran après des propos pro-palestiniens",
-      "excerpt": "Les propos du rappeur ont engendré des accusations d'antisémitisme et des appels sur les réseaux sociaux à le bannir de la tournée.",
-      "link": "https://www.franceinfo.fr/culture/musique/le-rappeur-americain-macklemore-ecarte-de-la-tournee-d-ed-sheeran-apres-des-propos-pro-palestiniens_8192549.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 3h",
-      "pubDate": 1789418214.0
-    },
-    {
-      "id": "Libération-656245160579837228",
+      "id": "Libération--4751295625330195638",
       "source": "Libération",
       "title": "Le mariage du fils de Donald Trump secrètement financé par un oligarque proche de Vladimir Poutine",
       "excerpt": "Selon le média d’investigation ProPublica, le Russe Umar Kremlev a dépensé des centaines de milliers de dollars pour cet événement. Il s’est déroulé en mai et comptait d’autres invités russes, d’après...",
       "link": "https://www.liberation.fr/international/amerique/le-mariage-du-fils-de-donald-trump-secretement-finance-par-un-oligarque-proche-de-vladimir-poutine-20260914_KP54KUGVTNEJNIWWUD3E5MT2Q4/",
-      "time": "Il y a 4h",
+      "time": "Il y a 8h",
       "pubDate": 1789416120.0
     },
     {
-      "id": "France Info--7618034013742656466",
+      "id": "France Info--8349113518966672852",
       "source": "France Info",
       "title": "Le pape Léon XIV rétablit les salaires des cardinaux et des hauts responsables du Vatican au niveau pré-Covid",
       "excerpt": "Cette annonce s'inscrit dans un contexte financier plus favorable pour le Saint-Siège. Dans son dernier rapport annuel, la banque du Vatican a mis en avant une \"année record\".",
       "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/le-pape-leon-xiv-retablit-les-salaires-des-cardinaux-et-des-hauts-responsables-du-vatican-au-niveau-pre-covid_8192525.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 4h",
+      "time": "Il y a 8h",
       "pubDate": 1789415886.0
     },
     {
-      "id": "France Info--3273152929495222942",
-      "source": "France Info",
-      "title": "La société en charge du chantier de l'autoroute A69 écope d'une amende pour des travaux réalisés hors du périmètre autorisé",
-      "excerpt": "Atosca, le concessionnaire, a dit prendre \"acte\" de la décision, tout en estimant s'être conformé aux différents arrêtés préfectoraux et ordonnances.",
-      "link": "https://www.franceinfo.fr/environnement/crise-climatique/chantier-de-l-autoroute-a69/la-societe-en-charge-du-chantier-de-l-autoroute-a69-ecope-d-une-amende-pour-des-travaux-realises-hors-du-perimetre-autorise_8192480.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 4h",
-      "pubDate": 1789414394.0
-    },
-    {
-      "id": "Libération--2820817216522856046",
+      "id": "Libération-4153224567796006451",
       "source": "Libération",
       "title": "Un Britannique admet avoir drogué et violé sa femme pendant plus de vingt ans",
       "excerpt": "Douze autres hommes sont accusés d’avoir agressé l’épouse alors qu’elle était inconsciente.",
       "link": "https://www.liberation.fr/international/europe/un-britannique-admet-avoir-drogue-et-viole-sa-femme-pendant-plus-de-vingt-ans-20260914_TZF7RRCYWNFUDF4ICICZK3LUCQ/",
-      "time": "Il y a 4h",
+      "time": "Il y a 9h",
       "pubDate": 1789413423.0
     },
     {
-      "id": "Libération-1200755074928032788",
-      "source": "Libération",
-      "title": "La plainte de la mère de la petite Rosa visant Gérald Darmanin classée sans suite",
-      "excerpt": "L’affaire Rosa est apparue dans la foulée de la mort de Lyhanna. Dans sa plainte, la mère de Rosa reprochait au ministre «de ne pas avoir mis l’institution judiciaire en mesure d’assurer un traitement...",
-      "link": "https://www.liberation.fr/societe/police-justice/la-plainte-de-la-mere-de-la-petite-rosa-visant-gerald-darmanin-classee-sans-suite-20260914_FLM2L3AMKNEBXNJXZLN5KY6MEI/",
-      "time": "Il y a 5h",
-      "pubDate": 1789412752.0,
-      "sources": [
-        "Libération",
-        "France Info"
-      ],
-      "multiSource": true,
-      "sourceCount": 2
+      "id": "France Info-2598272368503984812",
+      "source": "France Info",
+      "title": "Affaire Lyhanna : la plainte de la mère de la petite Rosa contre Gérald Darmanin classée sans suite",
+      "excerpt": "La mère de Rosa avait porté plainte, le 29 juin, auprès de la Cour de justice de la République, pour \"mise en danger délibérée de la vie d'autrui\" et \"non-assistance à personne en danger\".",
+      "link": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/affaire-lyhanna-la-plainte-de-la-mere-de-la-petite-rosa-contre-gerald-darmanin-classee-sans-suite_8192453.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 9h",
+      "pubDate": 1789412258.0
     },
     {
-      "id": "Libération--525850707646540532",
-      "source": "Libération",
-      "title": "New York : fermeture d’une douzaine de sites de deepfakes pornographiques de célébrités",
-      "excerpt": "Selon le procureur de New York, il s’agit de la plus importante saisie judiciaire de noms de domaine de sites consacrés à la pornographie illégale générée par IA.",
-      "link": "https://www.liberation.fr/economie/economie-numerique/new-york-fermeture-dune-douzaine-de-sites-de-deepfakes-pornographiques-de-celebrites-20260914_BAGKNE7E5NA4LIPM5S3VSP7WPY/",
-      "time": "Il y a 5h",
-      "pubDate": 1789412409.0
-    },
-    {
-      "id": "Libération-824051708142000611",
-      "source": "Libération",
-      "title": "Hongrie : premier signe clair et encourageant d’un changement de politique concernant les droits LGBT +",
-      "excerpt": "Le gouvernement de Peter Magyar a présenté un projet de loi supprimant des mesures prises sous Viktor Orban qui interdisaient la «promotion de l’homosexualité» auprès des mineurs.",
-      "link": "https://www.liberation.fr/international/europe/hongrie-premier-signe-clair-et-encourageant-dun-changement-de-politique-concernant-les-droits-lgbt-20260914_FLSOFHLWLNDFRI4JO4VLFQZW7Q/",
-      "time": "Il y a 5h",
-      "pubDate": 1789412204.0
-    },
-    {
-      "id": "Libération--2995836923579495422",
-      "source": "Libération",
-      "title": "Agression de trois jeunes étudiants à Strasbourg : le caractère antisémite des faits rejeté par le tribunal",
-      "excerpt": "L’audience concernant l’agression de trois jeunes gens juifs à Strasbourg fin janvier 2024 cristallise les tensions autour du conflit israélo-palestinien en France. Le tribunal condamne l’agression ma...",
-      "link": "https://www.liberation.fr/societe/police-justice/agression-de-trois-jeunes-etudiants-a-strasbourg-le-caractere-antisemite-des-faits-rejete-par-le-tribunal-20260914_DK4LTD47OZDMXG5Y56XDBWIVL4/",
-      "time": "Il y a 5h",
-      "pubDate": 1789411842.0
-    },
-    {
-      "id": "Le Monde--4375450677438427648",
+      "id": "Le Monde-3430419593409904276",
       "source": "Le Monde",
       "title": "A Strasbourg, au procès de l’agression de trois étudiants juifs, des violences reconnues mais pas de caractère antisémite",
       "excerpt": "Deux jeunes femmes étaient jugées lundi 14 septembre pour l’agression, en janvier 2024, de trois étudiants juifs sur fond de conflit israélo-palestinien. Abandonnée au cours des investigations, la cir...",
       "link": "https://www.lemonde.fr/societe/article/2026/09/14/a-strasbourg-au-proces-de-l-agression-de-trois-etudiants-juifs-des-violences-reconnues-mais-pas-de-caractere-antisemite_6773880_3224.html",
-      "time": "Il y a 5h",
+      "time": "Il y a 10h",
       "pubDate": 1789410736.0
     },
     {
-      "id": "Libération--748189153940846659",
-      "source": "Libération",
-      "title": "A69 : le concessionnaire Atosca devra payer plus de 850 000 euros pour non-respect de ses obligations",
-      "excerpt": "Les opposants au projet d’autoroute entre Toulouse et Castres qualifient cette sanction de «complètement insuffisante». De son côté, Atosca dit prendre «acte» de la décision, tout en estimant s’être «...",
-      "link": "https://www.liberation.fr/environnement/a69-le-concessionnaire-atosca-devra-payer-plus-de-850-000-euros-pour-non-respect-de-ses-obligations-20260914_CMBGII2ZD5GCNCOROW7WTRIOL4/",
-      "time": "Il y a 5h",
-      "pubDate": 1789410352.0
-    },
-    {
-      "id": "Libération-816880948892628760",
-      "source": "Libération",
-      "title": "Crise du pétrole : le baril flambe, Trump flanche",
-      "excerpt": "L’offensive des Houthis contre l’Arabie Saoudite complique davantage les exportations de brut, faisant exploser les prix à la pompe dans le monde. Aux Etats-Unis, la colère monte à l’approche des élec...",
-      "link": "https://www.liberation.fr/idees-et-debats/editorial/crise-du-petrole-le-baril-flambe-trump-flanche-20260914_7CMUXIBCZRBO7EUA2VJYAV34YU/",
-      "time": "Il y a 5h",
-      "pubDate": 1789410088.0
-    },
-    {
-      "id": "Libération--6791381070570207178",
-      "source": "Libération",
-      "title": "D’Ormuz à Bab el-Mandeb, le pétrole saoudien pris en étau entre deux détroits",
-      "excerpt": "L’avancée des Houthis en mer Rouge et l’attaque d’un oléoduc crucial compliquent encore les exportations de Riyad, qui réclame sans succès davantage d’aide américaine. Une instabilité qui provoque l’e...",
-      "link": "https://www.liberation.fr/international/moyen-orient/dormuz-a-bab-el-mandeb-le-petrole-saoudien-pris-en-etau-entre-deux-detroits-20260914_TW56AT57RVFZLGUOD5ZRJ7YJEY/",
-      "time": "Il y a 5h",
-      "pubDate": 1789410070.0
-    },
-    {
-      "id": "Le Monde-3183308110679276944",
+      "id": "Le Monde--2215549486335911573",
       "source": "Le Monde",
       "title": "Marine Le Pen consolide son ancrage chez les retraités, son obsession en vue de la présidentielle de 2027",
       "excerpt": "Le RN s’oppose aux pistes d’économie du gouvernement pour marquer son soutien aux retraités, qui lui ont jusqu’ici barré l’accès à l’Elysée. Cette défense de leur pouvoir d’achat va de pair avec un af...",
       "link": "https://www.lemonde.fr/politique/article/2026/09/14/marine-le-pen-consolide-son-ancrage-chez-les-retraites-son-obsession-en-vue-de-la-presidentielle-de-2027_6773875_823448.html",
-      "time": "Il y a 6h",
+      "time": "Il y a 11h",
       "pubDate": 1789408064.0
     },
     {
-      "id": "Le Monde--3956196625837936375",
+      "id": "Le Monde--2455687834860585122",
       "source": "Le Monde",
       "title": "Vladimir Poutine, un président bunkérisé dans une Russie mise sous cloche",
       "excerpt": "« Le système Poutine » (1/3). Les pléthoriques « siloviki », ces officiers issus des services de sécurité, ont pris le pouvoir et sont omniprésents dans les élites. Dans la société, ils ont diffusé un...",
       "link": "https://www.lemonde.fr/international/article/2026/09/14/vladimir-poutine-un-president-bunkerise-dans-une-russie-mise-sous-cloche_6773871_3210.html",
-      "time": "Il y a 7h",
+      "time": "Il y a 11h",
       "pubDate": 1789405207.0
     },
     {
-      "id": "Le Monde-789185475112138582",
-      "source": "Le Monde",
-      "title": "Autisme : faut-il redéfinir l’étendue du spectre ? Un débat médical, scientifique et sociétal",
-      "excerpt": "Rattrapage ou surdiagnostic ? La prévalence du trouble du spectre de l’autisme (TSA) a bondi depuis les années 2000, un phénomène qui conduit certains spécialistes à plaider pour une révision de sa dé...",
-      "link": "https://www.lemonde.fr/sciences/article/2026/09/14/autisme-faut-il-redefinir-l-etendue-du-spectre-un-debat-medical-scientifique-et-societal_6773863_1650684.html",
-      "time": "Il y a 8h",
-      "pubDate": 1789401611.0
-    },
-    {
-      "id": "Le Monde-4600586159657433492",
-      "source": "Le Monde",
-      "title": "Le procès du complotiste Rémy Daillet et de son groupuscule, ou le récit d’une dérive terroriste, de l’enlèvement de Mia à un projet de coup d’Etat",
-      "excerpt": "Quinze prévenus, la plupart issus d’un petit réseau d’extrême droite constitué pendant la crise sanitaire due au Covid-19, comparaissent à partir de mardi devant le tribunal correctionnel de Paris. Ou...",
-      "link": "https://www.lemonde.fr/societe/article/2026/09/14/le-proces-du-complotiste-remy-daillet-et-de-son-groupuscule-ou-le-recit-d-une-derive-terroriste-de-l-enlevement-de-mia-a-un-projet-de-coup-d-etat_6773853_3224.html",
-      "time": "Il y a 8h",
-      "pubDate": 1789399173.0
-    },
-    {
-      "id": "France Info-4195626603430345860",
+      "id": "France Info--7577662127027413767",
       "source": "France Info",
       "title": "Policiers, salariés du secteur de l'énergie, inaction climatique... Qui se mobilise (et pourquoi) mardi ?",
       "excerpt": "Dans un contexte budgétaire contraint, de nombreuses professions ont prévu de manifester à Paris.",
       "link": "https://www.franceinfo.fr/economie/greve/policiers-salaries-du-secteur-de-l-energie-inaction-climatique-qui-se-mobilise-et-pourquoi-mardi-15-septembre_8190821.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 9h",
+      "time": "Il y a 14h",
       "pubDate": 1789396734.0
     },
     {
-      "id": "France Info--3374884177546521586",
+      "id": "France Info--4618157328721186594",
       "source": "France Info",
       "title": "\"La désescalade devient un impératif économique\" : comment la guerre au Moyen-Orient fragilise l'Arabie saoudite",
       "excerpt": "Le royaume, premier exportateur mondial de brut, est sous pression, entre les attaques des houthis et \"ses pétroliers désormais sous la menace dans les deux détroits entourant son territoire\".",
       "link": "https://www.franceinfo.fr/monde/proche-orient/tensions-entre-l-arabie-saoudite-et-l-iran/la-desescalade-devient-un-imperatif-economique-comment-la-guerre-au-moyen-orient-fragilise-l-arabie-saoudite_8191751.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 9h",
+      "time": "Il y a 14h",
       "pubDate": 1789396086.0
     },
     {
-      "id": "France Info-6025316549434778305",
+      "id": "France Info-313725228860696527",
       "source": "France Info",
       "title": "\"La sécurité dans l'Arctique doit être assurée collectivement\" : douze pays appellent l'UE à muscler sa présence dans la région",
       "excerpt": "Ces pays, parmi lesquels la France, se sont réunis lors d'un sommet en Finlande, à l'issue duquel aucune décision officielle n'a été prise. Ils estiment que la Russie constitue une \"menace importante...",
       "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/la-securite-dans-l-arctique-doit-etre-assuree-collectivement-douze-pays-appellent-l-ue-a-muscler-sa-presence-dans-la-region_8192078.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 9h",
+      "time": "Il y a 14h",
       "pubDate": 1789395636.0
     }
   ],
   "anglophone": [
     {
-      "id": "NPR-1232697633892662085",
+      "id": "The Guardian-1938237212982111843",
+      "source": "The Guardian",
+      "title": "‘I believed the hype’: the white South Africans denied refugee status in the US",
+      "excerpt": "Drive to save thousands of Afrikaners from false claims of ‘white genocide’ appears to show signs of slowing When Donald Trump announced in February 2025 that the US would accept Afrikaners from South...",
+      "link": "https://www.theguardian.com/world/2026/sep/15/white-south-africans-denied-refugee-status-us",
+      "time": "Il y a 57 min",
+      "pubDate": 1789444827.0
+    },
+    {
+      "id": "The Guardian-5151506619878182818",
+      "source": "The Guardian",
+      "title": "Ebola outbreak in DRC has peaked, say authorities, as infection rates slow",
+      "excerpt": "Almost 3,500 people have died in outbreak and experts say more must be done to ensure Bundibugyo is under control Authorities in the Democratic Republic of the Congo have announced that the Ebola outb...",
+      "link": "https://www.theguardian.com/global-development/2026/sep/15/ebola-outbreak-in-drc-has-peaked-say-authorities-as-infection-rates-slow",
+      "time": "Il y a 57 min",
+      "pubDate": 1789444826.0
+    },
+    {
+      "id": "BBC News--9135735530833769170",
+      "source": "BBC News",
+      "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
+      "excerpt": "He becomes the first person to win two lead acting prizes in one night at the prestigious TV ceremony.",
+      "link": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 1h",
+      "pubDate": 1789444206.0
+    },
+    {
+      "id": "BBC News-1193222718434047834",
+      "source": "BBC News",
+      "title": "China tightens travel restrictions for citizens",
+      "excerpt": "Observers say the new rules will further tighten the Chinese government's control over its citizens.",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8x6gkk250o?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 1h",
+      "pubDate": 1789442741.0
+    },
+    {
+      "id": "The Guardian--7292548683059048728",
+      "source": "The Guardian",
+      "title": "Panama canal traffic to be cut again as drought from El Niño worsens",
+      "excerpt": "Latest daily reductions will further choke one of the world’s most important shipping lanes The Panama canal plans to again cut maritime traffic due to worsening drought caused by the El Niño climate...",
+      "link": "https://www.theguardian.com/world/2026/sep/15/panama-canal-traffic-cut-trade-drought-el-nino",
+      "time": "Il y a 2h",
+      "pubDate": 1789440198.0
+    },
+    {
+      "id": "BBC News--7695972045616742402",
+      "source": "BBC News",
+      "title": "Nato jets down drone that entered Lithuanian airspace",
+      "excerpt": "The origin of the drone is currently unknown, but authorities say it likely entered Lithuania from neighbouring Belarus, an ally of Russia.",
+      "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 2h",
+      "pubDate": 1789438927.0
+    },
+    {
+      "id": "BBC News-1474386169461325462",
+      "source": "BBC News",
+      "title": "US confirms for first time it has deployed space weapons",
+      "excerpt": "The US Air Force Secretary says the weapons are necessary to defend the country against enemy action.",
+      "link": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 3h",
+      "pubDate": 1789437122.0
+    },
+    {
+      "id": "BBC News-4700479566417830889",
+      "source": "BBC News",
+      "title": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
+      "excerpt": "The Trump administration had asked the court to lift a federal judge's temporary block on new rules for mail-in ballots.",
+      "link": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 3h",
+      "pubDate": 1789434915.0
+    },
+    {
+      "id": "NPR--9119904580305256020",
       "source": "NPR",
-      "title": "See who's won an Emmy Award so far",
-      "excerpt": "<em>Law & Order: SVU</em> star Mariska Hargitay is hosting the Emmy Awards on Monday night. We'll be updating this list as winners are announced.",
+      "title": "Emmys 2026: Here's the list of winners",
+      "excerpt": "<em>The Pitt</em> and <em>Widow's Bay</em> took home the top prizes in television at the Emmy Awards on Monday night. And actor Matthew Rhys became the first person to win in two lead acting categorie...",
       "link": "https://www.npr.org/2026/09/14/nx-s1-5957565/emmys-2026-winners",
-      "time": "Il y a 20 min",
+      "time": "Il y a 5h",
       "pubDate": 1789430149.0
     },
     {
-      "id": "NPR-4317312384571118293",
+      "id": "NPR--624318072616224185",
       "source": "NPR",
       "title": "The Supreme Court rejects Trump's mail voting restrictions for this year's midterms",
       "excerpt": "The Supreme Court has rejected the Trump administration's request to allow mail-in voting restrictions under a U.S. Postal Service plan for the midterm general election.",
       "link": "https://www.npr.org/2026/09/14/nx-s1-5962190/supreme-court-mail-in-voting-trump",
-      "time": "Il y a 37 min",
+      "time": "Il y a 5h",
       "pubDate": 1789429120.0
     },
     {
-      "id": "NPR-4173480449091864295",
+      "id": "NPR--2628074421158425997",
       "source": "NPR",
       "title": "Mitch McConnell returns to Senate after fall that led to an extended medical absence",
       "excerpt": "McConnell spent weeks in recovery before explaining he was \"briefly unconscious\" following the fall that sent him to the hospital and a weeks-long recovery process.",
       "link": "https://www.npr.org/2026/09/14/nx-s1-5968909/mitch-mcconnell-senate-return",
-      "time": "Il y a 1h",
+      "time": "Il y a 6h",
       "pubDate": 1789425393.0
     },
     {
-      "id": "NPR--997044443471069184",
+      "id": "NPR--821285490993790905",
       "source": "NPR",
       "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
       "excerpt": "Federal agents may have broken state laws after the Department of Homeland Security began surging personnel for what it called the Unlawful Voter Initiative, a federal whistleblower alleges.",
       "link": "https://www.npr.org/2026/09/14/nx-s1-5968892/dhs-whistleblower-voter-fraud",
-      "time": "Il y a 2h",
+      "time": "Il y a 6h",
       "pubDate": 1789423506.0
     },
     {
-      "id": "BBC News--945041384503417347",
+      "id": "BBC News--6773080509468941389",
+      "source": "BBC News",
+      "title": "US scraps limits on emissions from coal and gas power plants",
+      "excerpt": "The Environment Protection Agency says the move will save the country billions of dollars and reduce energy prices.",
+      "link": "https://www.bbc.co.uk/news/articles/cmly433ke05vo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 6h",
+      "pubDate": 1789423454.0
+    },
+    {
+      "id": "BBC News--1502388159553456133",
       "source": "BBC News",
       "title": "Legendary costume designer Bob Mackie dies aged 87",
       "excerpt": "The \"Sultan of Sequins\" created iconic and dazzling costumes for stars including Cher, Tina Turner and Elton John.",
       "link": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
+      "time": "Il y a 7h",
       "pubDate": 1789421352.0
     },
     {
-      "id": "NPR--1008345160018488781",
+      "id": "NPR-7890579142426706386",
       "source": "NPR",
       "title": "Trump's EPA repeals pollution limits on fossil fuel power plants",
       "excerpt": "The Trump administration is eliminating limits on climate-warming pollution from the nation's fossil fuel power plants. Environmental groups say this will impact the climate and public health.",
       "link": "https://www.npr.org/2026/09/14/nx-s1-5968785/epa-repeals-pollution-limits-on-power-plants",
-      "time": "Il y a 3h",
+      "time": "Il y a 8h",
       "pubDate": 1789418068.0
     },
     {
-      "id": "NPR-7339596148547067926",
+      "id": "NPR--576825041006610151",
       "source": "NPR",
       "title": "Israel is 'dismantling Palestinian life' says Israeli human rights group",
       "excerpt": "One of the country's leading human rights organizations says Israel is dismantling all aspects of Palestinian life at a breakneck rate. The group has extensively documented what it says are the mechan...",
       "link": "https://www.npr.org/2026/09/14/nx-s1-5964897/israel-is-systematically-dismantling-palestinian-life-says-human-rights-group",
-      "time": "Il y a 3h",
+      "time": "Il y a 8h",
       "pubDate": 1789418060.0
     },
     {
-      "id": "NPR-257176991007388891",
+      "id": "NPR-6890718715985573153",
       "source": "NPR",
       "title": "10 years after taking a knee, Colin Kaepernick is still waging a 'Perilous Fight'",
       "excerpt": "The former 49ers quarterback created an uproar in 2016 when took a knee during the national anthem to protest police brutality. In <em>The Perilous Fight</em> he explains why he still wants to play fo...",
       "link": "https://www.npr.org/2026/09/14/nx-s1-5965828/colin-kaepernick-football-the-perilous-fight",
-      "time": "Il y a 5h",
+      "time": "Il y a 10h",
       "pubDate": 1789411521.0
     },
     {
-      "id": "NPR-4042602207526974471",
+      "id": "BBC News--9038975369683981513",
+      "source": "BBC News",
+      "title": "Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary",
+      "excerpt": "The film accuses the Israeli army of mass civilian killing in Gaza, and Israeli officials say it could be treasonous.",
+      "link": "https://www.bbc.co.uk/news/articles/c9vgy8d8256go?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 10h",
+      "pubDate": 1789410380.0
+    },
+    {
+      "id": "NPR-1825863538490685619",
       "source": "NPR",
       "title": "Kennedy Center says it's on the brink of bankruptcy, might close as early as Tuesday",
       "excerpt": "In two board resolutions made public Monday, the arts institution says it is in a dire financial and physical state — and that only President Trump can \"rescue\" it.",
       "link": "https://www.npr.org/2026/09/14/nx-s1-5968690/kennedy-center-financial-physical-state",
-      "time": "Il y a 5h",
+      "time": "Il y a 10h",
       "pubDate": 1789410304.0
     },
     {
-      "id": "The Guardian-3458553541522400511",
+      "id": "The Guardian--1921766048541982568",
       "source": "The Guardian",
       "title": "‘A coin flip’: on the campaign trail as Brazil’s far right edges back to power",
       "excerpt": "Neck-and-neck with Lula in polls, Flávio Bolsonaro fires up his base in the bellwether state of Minas Gerais – starting at the scene of his father’s stabbing A giant banner of Brazil’s incarcerated fo...",
       "link": "https://www.theguardian.com/world/2026/sep/14/brazil-bolsonaro-far-right-minas-gerais",
-      "time": "Il y a 7h",
+      "time": "Il y a 11h",
       "pubDate": 1789405445.0
     },
     {
-      "id": "BBC News--5307278138923062525",
-      "source": "BBC News",
-      "title": "Immigrants held in small outdoor cages at 'Alligator Alcatraz' in Florida, investigators find",
-      "excerpt": "DHS inspectors say they found the immigration-detention centre violated basic standards for hygiene, medical care, food and safety.",
-      "link": "https://www.bbc.co.uk/news/articles/cqrk37rrpk23o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 7h",
-      "pubDate": 1789404490.0
-    },
-    {
-      "id": "BBC News--1770294467257872806",
-      "source": "BBC News",
-      "title": "Africa's richest man launches continent's biggest share sale",
-      "excerpt": "Nigerian billionaire Aliko Dangote says he wants ordinary people to share in the success of his oil refinery.",
-      "link": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 7h",
-      "pubDate": 1789403022.0
-    },
-    {
-      "id": "BBC News-2206992103927416590",
-      "source": "BBC News",
-      "title": "Body of missing runner found in South Africa",
-      "excerpt": "A nationwide appeal was launched after Elizabeth Moselakgomo went missing last week. Four other women's bodies have been found nearby.",
-      "link": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 9h",
-      "pubDate": 1789397928.0
-    },
-    {
-      "id": "BBC News--391502147187724266",
+      "id": "BBC News--300354274203890634",
       "source": "BBC News",
       "title": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
       "excerpt": "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures.",
       "link": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 10h",
+      "time": "Il y a 14h",
       "pubDate": 1789394892.0
     },
     {
-      "id": "NPR-5839158973176080179",
+      "id": "NPR-3830512917745361887",
       "source": "NPR",
       "title": "The producer of Fleabag and Baby Reindeer's tip for finding a hit? Don't look for one",
       "excerpt": "Theatre producer Francesca Moody has a remarkable record of spotting shows that go on to have wide success. At the Edinburgh Fringe festival, she told NPR about what she looks for in a performance.",
       "link": "https://www.npr.org/2026/09/14/nx-s1-5968566/francesca-moody-fleabag-producer-hits-edinburgh",
-      "time": "Il y a 10h",
+      "time": "Il y a 14h",
       "pubDate": 1789394594.0
     },
     {
-      "id": "The Guardian-5173124957433409256",
+      "id": "The Guardian-8454924276892870659",
       "source": "The Guardian",
       "title": "The London hospital funded by donors who invested in the slave trade",
       "excerpt": "St Barts is one of many UK institutions whose benefactors were involved in the trafficking of enslaved Africans Inside the Great Hall of St Bartholomew’s North Wing, alongside stately portraits of the...",
       "link": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/14/london-hospital-st-barts-funded-donors-invested-slave-trade",
-      "time": "Il y a 11h",
+      "time": "Il y a 15h",
       "pubDate": 1789390858.0
     },
     {
-      "id": "The Guardian-2728278097167798267",
+      "id": "The Guardian--8286272666118379224",
       "source": "The Guardian",
       "title": "Africa’s richest man aiming to make $23bn from continent’s biggest-ever IPO",
       "excerpt": "Public offering of Aliko Dangote’s Nigerian oil refinery business could swell his net wealth by two-thirds The fortune of Africa’s richest person could swell by two thirds to nearly $60bn (£44bn) afte...",
       "link": "https://www.theguardian.com/world/2026/sep/14/aliko-dangote-nigeria-africa-richest-man-ipo",
-      "time": "Il y a 11h",
+      "time": "Il y a 16h",
       "pubDate": 1789389531.0
     },
     {
-      "id": "BBC News--3166118570346820348",
-      "source": "BBC News",
-      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-      "excerpt": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
-      "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 11h",
-      "pubDate": 1789388293.0
-    },
-    {
-      "id": "NPR--6627714468809138042",
+      "id": "NPR--2492577517789758612",
       "source": "NPR",
       "title": "Key leaders sound the alarm on AI. And, Iran-Gulf diplomacy hits a setback",
       "excerpt": "Some key leaders at artificial intelligence companies call for a slowdown in AI development. And, Iran-Gulf diplomacy hits a setback as talks in Oman are delayed.",
       "link": "https://www.npr.org/2026/09/14/g-s1-143148/up-first-newsletter-ai-anthropic-openai-midterms-trump-oman-iran-talks",
-      "time": "Il y a 12h",
+      "time": "Il y a 17h",
       "pubDate": 1789385946.0
     },
     {
-      "id": "BBC News-4425988943058264856",
+      "id": "BBC News--5253341006334824700",
       "source": "BBC News",
       "title": "China criticises idea it is in 'malicious competition' over AI",
       "excerpt": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
       "link": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 12h",
+      "time": "Il y a 17h",
       "pubDate": 1789385499.0
     },
     {
-      "id": "BBC News-8347467880067639659",
-      "source": "BBC News",
-      "title": "Thousands demand end to violence in Mexican cartel hotspot",
-      "excerpt": "Culiacán has seen violence skyrocket since a feud broke out between two rival factions of the Sinaloa cartel.",
-      "link": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 12h",
-      "pubDate": 1789385316.0
-    },
-    {
-      "id": "BBC News-6003905554549687277",
-      "source": "BBC News",
-      "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
-      "excerpt": "The killing of the 16-year-old nearly a year ago had shocked Malaysia and sparked debate about social media.",
-      "link": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 15h",
-      "pubDate": 1789376307.0
-    },
-    {
-      "id": "BBC News-4306696869452250296",
-      "source": "BBC News",
-      "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
-      "excerpt": "With more than 90% of ballots processed early on Monday, the left-wing bloc was in front by approximately 20,000 votes.",
-      "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 15h",
-      "pubDate": 1789374969.0
-    },
-    {
-      "id": "The Guardian--3378100398499267049",
+      "id": "The Guardian--4202779232787998502",
       "source": "The Guardian",
       "title": "Burial of King Oyo takes place in Uganda as news anchor prepares for throne",
       "excerpt": "Royal guards carry casket through streets of Fort Portal amid row over appointment of Edward Rukidi Kijanangoma Uganda’s King Oyo Nyimba Kabamba Iguru Rukidi IV, long the world’s youngest monarch, has...",
@@ -486,25 +516,7 @@
       "pubDate": 1789225745.0
     },
     {
-      "id": "The Guardian--7376680223027862599",
-      "source": "The Guardian",
-      "title": "Six Nigerians extradited to US over $6m online romance scam",
-      "excerpt": "Alleged members of Black Axe criminal network that swindled US women out of $6m flown from South Africa Six Nigerian nationals linked to an organized criminal network that allegedly swindled American...",
-      "link": "https://www.theguardian.com/us-news/2026/sep/12/nigerians-extradited-online-romance-scams",
-      "time": "Il y a 2j",
-      "pubDate": 1789221945.0
-    },
-    {
-      "id": "The Guardian--9078527310503944635",
-      "source": "The Guardian",
-      "title": "$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide",
-      "excerpt": "Her Horizon Fund seeks $100m to stop practice harming 230m women and girls globally   Frontline activists and leaders in the fight against female genital mutilation, which has affected more than <a hr...",
-      "link": "https://www.theguardian.com/global-development/2026/sep/11/15m-fund-launched-to-create-unstoppable-momentum-to-end-fgm-worldwide",
-      "time": "Il y a 3j",
-      "pubDate": 1789099204.0
-    },
-    {
-      "id": "The Guardian--7108399947961063488",
+      "id": "The Guardian--5244053747562519227",
       "source": "The Guardian",
       "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
       "excerpt": "Canadian PM Mark Carney hosts president in Calgary, where he grew up alongside large Ukrainian community Canada offered support on Thursday to boost Ukraine’s air defenses and help replenish its drone...",
@@ -513,32 +525,23 @@
       "pubDate": 1789072506.0
     },
     {
-      "id": "The Guardian--1262119074031854911",
+      "id": "The Guardian-6391693145677002733",
       "source": "The Guardian",
       "title": "Rubio signals shift to working with allies to fight drug trade as latest boat strike kills three",
       "excerpt": "Rubio visits Ecuador and welcomes cooperation after campaign of unilateral strikes on alleged ‘narco-terrorists’ The US secretary of state, Marco Rubio, gave new clarity on the approach toward combati...",
       "link": "https://www.theguardian.com/us-news/2026/sep/09/rubio-us-allies-drug-trafficking",
-      "time": "Il y a 4j",
+      "time": "Il y a 5j",
       "pubDate": 1789002162.0
     },
     {
-      "id": "The Guardian-3781434249638849562",
+      "id": "The Guardian--5730721446999435996",
       "source": "The Guardian",
       "title": "Notorious Ecuadorian crime gang designated a terrorist group by US",
       "excerpt": "Trump administration to seek extra funding from Congress to ‘dismantle’ Los Tiguerones over narcotics trafficking The US has designated Ecuador’s Los Tiguerones gang, which <a href=\"https://www.thegua...",
       "link": "https://www.theguardian.com/world/2026/sep/09/ecuador-drugs-gang-terrorist-group-los-tiguerones-rubio",
       "time": "Il y a 5j",
       "pubDate": 1788992365.0
-    },
-    {
-      "id": "The Guardian--5265023984934095474",
-      "source": "The Guardian",
-      "title": "Family of British man found dead in Grenada ask local police to work with UK investigators",
-      "excerpt": "Andrew Frederick’s body was found in property he was staying at in Grenada in January The family of a British father who was found dead in the Caribbean in January is urging authorities in Grenada to...",
-      "link": "https://www.theguardian.com/world/2026/sep/09/family-andrew-frederick-british-man-found-dead-grenada-local-police-uk-investigators",
-      "time": "Il y a 5j",
-      "pubDate": 1788940803.0
     }
   ],
-  "lastUpdate": "2026-09-15T00:16:20.417339"
+  "lastUpdate": "2026-09-15T04:57:35.254117"
 }
