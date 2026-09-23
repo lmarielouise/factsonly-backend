@@ -1,504 +1,501 @@
 {
   "francophone": [
     {
-      "id": "Libération-1960335560065796287",
-      "source": "Libération",
-      "title": "EN DIRECT – Présidentielle 2027 : «Il faut que nous ayons la même force pour l’Ukraine et pour la Palestine», plaide Olivier Faure",
-      "excerpt": "Raphaël Glucksmann, Olivier Faure, Ségolène Royal, Jérôme Guedj et Emmanuel Maurel échangent avec des Français ce mercredi soir en direct sur LCI.",
-      "link": "https://www.liberation.fr/politique/en-direct-presidentielle-2027-suivez-le-premier-debat-de-la-primaire-de-gauche-20260923_P7HIRMCMZJDEXGE5SSLVJLOPHE/",
+      "id": "Le Monde--4089766351710934917",
+      "source": "Le Monde",
+      "title": "Les copropriétaires de la tour Montparnasse, à Paris, rejettent le lancement des travaux de rénovation",
+      "excerpt": "DIvisés, les copropriétaires du bâtiment parisien ont refusé la première phase des travaux qui devaient enclencher la transformation à 800 millions d’euros du gratte-ciel. Un énième rebondissement à d...",
+      "link": "https://www.lemonde.fr/economie/article/2026/09/24/les-coproprietaires-de-la-tour-montparnasse-a-paris-rejettent-le-lancement-des-travaux-de-renovation_6781124_3234.html",
+      "time": "Il y a 6 min",
+      "pubDate": 1790202153.0
+    },
+    {
+      "id": "Le Monde--2899001217199534479",
+      "source": "Le Monde",
+      "title": "En Cisjordanie, le fils de l’ambassadeur israélien aux Etats-Unis grièvement blessé dans une attaque à la voiture-bélier",
+      "excerpt": "L’ambassadeur Yechiel Leiter a quitté les Etats-Unis, où il devait assister au discours de Benyamin Nétanyahou à l’Assemblée générale de l’ONU, jeudi, pour rejoindre son fils, un soldat réserviste, do...",
+      "link": "https://www.lemonde.fr/international/article/2026/09/24/en-cisjordanie-le-fils-de-l-ambassadeur-israelien-aux-etats-unis-grievement-blesse-dans-une-attaque-a-la-voiture-belier_6781091_3210.html",
       "time": "Il y a 10 min",
-      "pubDate": 1790192584.0
+      "pubDate": 1790201928.0
     },
     {
-      "id": "France Info--5050603933467373001",
+      "id": "Libération-6631096827663639891",
+      "source": "Libération",
+      "title": "Royal, Gaza, Ukraine, LFI… Les 4 moments marquants du premier débat de la primaire sociale-démocrate",
+      "excerpt": "Raphaël Glucksmann, Olivier Faure, Ségolène Royal, Jérôme Guedj et Emmanuel Maurel ont échangé avec des Français, mercredi 23 septembre au soir, en direct sur LCI. «Libé» revient sur cette première co...",
+      "link": "https://www.liberation.fr/politique/royal-gaza-lfi-ukraine-les-4-moments-marquants-du-premier-debat-de-la-primaire-sociale-democrate-20260924_EWOLMO3W4ZBXDD7BJMNR4YVWWY/",
+      "time": "Il y a 18 min",
+      "pubDate": 1790201438.0
+    },
+    {
+      "id": "Libération-4533903089910276777",
+      "source": "Libération",
+      "title": "Présidentielle 2027 : revivez le premier débat de la primaire de la gauche sociale-démocrate",
+      "excerpt": "Raphaël Glucksmann, Olivier Faure, Ségolène Royal, Jérôme Guedj et Emmanuel Maurel ont échangé ce mercredi soir sur des questions économiques, internationales et de politique intérieure.",
+      "link": "https://www.liberation.fr/politique/en-direct-presidentielle-2027-suivez-le-premier-debat-de-la-primaire-de-gauche-20260923_P7HIRMCMZJDEXGE5SSLVJLOPHE/",
+      "time": "Il y a 29 min",
+      "pubDate": 1790200779.0,
+      "sources": [
+        "Libération",
+        "Le Monde"
+      ],
+      "multiSource": true,
+      "sourceCount": 2
+    },
+    {
+      "id": "France Info--1887205012629023766",
       "source": "France Info",
-      "title": "La Croix-Rouge n'a plus accès aux prisonniers de guerre en Russie depuis 2024",
-      "excerpt": "Le droit du Comité international de la Croix-Rouge de visiter tous les prisonniers de guerre, où qu'ils soient détenus, dans le cadre des conflits armés internationaux découle des Conventions de Genèv...",
-      "link": "https://www.franceinfo.fr/monde/russie/la-croix-rouge-n-a-plus-acces-aux-prisonniers-de-guerre-en-russie-depuis-2024_8206700.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 13 min",
-      "pubDate": 1790192353.0
+      "title": "Lors du premier débat de la primaire socialiste, Ségolène Royal mise en difficulté sur l'Ukraine et Israël",
+      "excerpt": "Elle a fait face à ses concurrents Olivier Faure, Raphaël Glucksmann, Jérôme Guedj et Emmanuel Maurel.",
+      "link": "https://www.franceinfo.fr/elections/presidentielle/lors-du-premier-debat-de-la-primaire-socialiste-segolene-royal-mise-en-difficulte-sur-l-ukraine-et-israel_8207075.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 37 min",
+      "pubDate": 1790200318.0
     },
     {
-      "id": "Libération--412201533058258657",
+      "id": "France Info--1122206990796061451",
+      "source": "France Info",
+      "title": "Le remboursement de certains soins devrait être intégralement confié aux mutuelles, défend un rapport d'experts",
+      "excerpt": "Ce travail, très attendu et signé par Elisabeth Hubert, ancienne ministre de la Santé, Nicolas Bouzou, économiste, Stéphane Junique, président du groupe mutualiste VYV et Franck Von Lennep, ancien dir...",
+      "link": "https://www.franceinfo.fr/sante/le-remboursement-de-certains-soins-devrait-etre-integralement-confie-aux-mutuelles-defend-un-rapport-d-experts_8206841.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 48 min",
+      "pubDate": 1790199632.0
+    },
+    {
+      "id": "Libération-6170883739189048280",
+      "source": "Libération",
+      "title": "«Mais Pangram va te faire foutre» : Virginie Despentes attaque la plateforme qui accuse Thélyson Orélien",
+      "excerpt": "Invitée de «C ce soir» mercredi 23 septembre, l’écrivaine à succès a jugé que l’IA était bien mal placée, compte tenu de son omniprésence, pour dire si oui ou non un auteur en avait fait usage.",
+      "link": "https://www.liberation.fr/culture/livres/mais-pangram-va-te-faire-foutre-virginie-despentes-attaque-la-plateforme-qui-accuse-thelyson-orelien-20260923_RUU7DHYBM5EXRA4P3DKQY5NLIE/",
+      "time": "Il y a 50 min",
+      "pubDate": 1790199552.0
+    },
+    {
+      "id": "France Info-6316555712013714860",
+      "source": "France Info",
+      "title": "A l'ONU, les grands patrons de l'intelligence artificielle appellent à la vigilance et la coopération",
+      "excerpt": "Sam Altman, d'OpenAI, Dario Amodei, d'Anthropic, et le Français Clément Delangue, de la plateforme Hugging Face, étaient invités à dresser un état de l'IA et de ses risques devant le Conseil de sécuri...",
+      "link": "https://www.franceinfo.fr/internet/intelligence-artificielle/a-l-onu-les-grands-patrons-de-l-intelligence-artificielle-appellent-a-la-vigilance-et-la-cooperation_8207042.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1790198607.0
+    },
+    {
+      "id": "Le Monde--5225763413035485029",
+      "source": "Le Monde",
+      "title": "Polémique Thélyson Orélien : comment fonctionne le détecteur de textes générés par IA, Pangram, et à quel point est-il fiable ?",
+      "excerpt": "La start-up américaine Pangram, qui se targue de pouvoir démasquer les textes rédigés par une intelligence artificielle avec un taux de confiance très élevé, est au cœur de la polémique qui touche Thé...",
+      "link": "https://www.lemonde.fr/pixels/article/2026/09/23/pangram-comment-fonctionnent-les-detecteurs-de-textes-generes-par-ia-et-a-quel-point-sont-ils-fiables_6781025_4408996.html",
+      "time": "Il y a 1h",
+      "pubDate": 1790197902.0
+    },
+    {
+      "id": "France Info-5561691696890557460",
+      "source": "France Info",
+      "title": "Eglises détruites, allégeance au parti, évêques choisis... En Chine, la foi chrétienne sous haute surveillance",
+      "excerpt": "Les autorités chinoises cherchent à contrôler la pratique religieuse. Les communautés qui refusent de rejoindre l’église officielle subissent des pressions et des arrestations.",
+      "link": "https://www.franceinfo.fr/monde/chine/les-autorites-ne-comprennent-pas-le-christianisme-en-chine-la-foi-chretienne-sous-surveillance_8207030.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1790197824.0
+    },
+    {
+      "id": "France Info--7762758946000157028",
+      "source": "France Info",
+      "title": "\"Ecouter les préoccupations des patients et de leurs familles\" : qu'est-ce que la \"Martha's rule\", qui se généralise dans les hôpitaux anglais ?",
+      "excerpt": "Après la mort à l'hôpital de Martha Mills, une jeune fille de 13 ans, à cause d'une mauvaise prise en charge en 2021, l'Angleterre se dote d'un dispositif pour prévenir les erreurs de diagnostic et ré...",
+      "link": "https://www.franceinfo.fr/monde/royaume-uni/insistez-pour-obtenir-un-deuxieme-voire-un-troisieme-avis-medical-qu-est-ce-que-la-martha-s-rule-qui-se-generalise-dans-les-hopitaux-anglais_8201825.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1790197149.0
+    },
+    {
+      "id": "Le Monde--1351306941822267808",
+      "source": "Le Monde",
+      "title": "Au procès en appel des assistants parlementaires européens du MoDem, Michel Mercier conteste le rôle de « chef d’orchestre »",
+      "excerpt": "« Il faudrait être malade, pour aller essayer de tripatouiller des contrats de trois francs six sous, alors qu’on a à côté l’argent pour payer », a dit l’ancien ministre lors de son interrogatoire, ma...",
+      "link": "https://www.lemonde.fr/societe/article/2026/09/23/au-proces-en-appel-des-assistants-parlementaires-europeens-du-modem-michel-mercier-conteste-le-role-de-chef-d-orchestre_6780992_3224.html",
+      "time": "Il y a 1h",
+      "pubDate": 1790195508.0
+    },
+    {
+      "id": "Libération-161737795286361166",
+      "source": "Libération",
+      "title": "Primaire du PS : la Cour d’appel désavoue Philippe Brun, qui reste écarté de la course à la présidentielle",
+      "excerpt": "Mis en retrait et éjecté de la primaire des sociaux-démocrates à la dernière minute, l’élu socialiste avait déposé un référé pour contester la décision mais le tribunal judiciaire et la Cour d’appel d...",
+      "link": "https://www.liberation.fr/politique/elections/suspendu-du-ps-pour-des-accusations-de-violences-le-depute-philippe-brun-ne-pourra-pas-reintegrer-son-parti-20260923_IJ5DRIOEVFAHXLPSIRRFI26V3Q/",
+      "time": "Il y a 1h",
+      "pubDate": 1790195480.0
+    },
+    {
+      "id": "Libération-5226710038273720626",
+      "source": "Libération",
+      "title": "Cambriolage du domicile de François Hollande et Julie Gayet : les auteurs condamnés à 18 mois de prison avec sursis",
+      "excerpt": "En détention depuis décembre 2025, les deux cambrioleurs mis en examen dans le cambriolage du domicile de l’ancien président ont été condamnés à des peines allant au-delà des réquisitions du parquet.",
+      "link": "https://www.liberation.fr/societe/police-justice/cambriolage-du-domicile-de-francois-hollande-et-julie-gayet-les-auteurs-condamnes-a-18-mois-de-prison-avec-sursis-20260923_WHVJRPEO5FATNNKQQTTXZCNAMQ/",
+      "time": "Il y a 2h",
+      "pubDate": 1790195001.0
+    },
+    {
+      "id": "Libération-1777217948391589213",
+      "source": "Libération",
+      "title": "Possible libération du logisticien du 13 novembre : la justice belge reporte l’audience",
+      "excerpt": "Le tribunal de Bruxelles chargé de la demande de libération conditionnelle du «logisticien» des attentats du 13 novembre 2015 à Paris a annoncé que les victimes allaient être entendues par la justice....",
+      "link": "https://www.liberation.fr/societe/police-justice/possible-liberation-du-logisticien-du-13-novembre-la-justice-belge-reporte-laudience-20260923_TEONEVNDRJHFJL6H2ZTQYPSGWQ/",
+      "time": "Il y a 2h",
+      "pubDate": 1790193376.0
+    },
+    {
+      "id": "Libération-1471232666663886110",
       "source": "Libération",
       "title": "«C’est la première fois qu’il y a un tel plan dans le journal» : «Ouest-France», quotidien le plus vendu du pays, vise la suppression de 156 postes",
       "excerpt": "Malgré 600 000 exemplaires vendus chaque jour, le journal implanté dans les Pays de la Loire, la Bretagne et la Normandie, perd de l’argent, affecté par la concurrence des plateformes et la baisse des...",
       "link": "https://www.liberation.fr/economie/medias/cest-la-premiere-fois-quil-y-a-un-tel-plan-dans-le-journal-ouest-france-quotidien-le-plus-vendu-du-pays-vise-la-suppression-de-156-postes-20260923_3BDSKRT35JC45EEQTRZUZGTCXE/",
-      "time": "Il y a 16 min",
+      "time": "Il y a 2h",
       "pubDate": 1790192171.0
     },
     {
-      "id": "France Info-6741919729910727348",
-      "source": "France Info",
-      "title": "\"Pangram, va te faire foutre\" : pour l'autrice Virginie Despentes, \"Thélyson Orélien n'a pas à se justifier\"",
-      "excerpt": "L'autrice et réalisatrice Virginie Despentes est l'invitée de l'émission \"C Ce Soir\", mercredi 23 septembre. Après les accusations d'utilisation de l'IA visant le romancier Thélyson Orélien, pour son...",
-      "link": "https://www.franceinfo.fr/culture/pangram-va-te-faire-foutre-pour-l-autrice-virginie-despentes-thelyson-orelien-n-a-pas-a-se-justifier_8206907.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 38 min",
-      "pubDate": 1790190860.0
-    },
-    {
-      "id": "Libération-4518089735864582049",
+      "id": "Libération-7740792081852235596",
       "source": "Libération",
       "title": "«Prix du public» de Radio Canada : le texte soumis par Thélyson Orélien, lauréat de l’édition 2012, était un plagiat de Louis Pauwels",
       "excerpt": "Soupçonné d’avoir eu recours à l’IA pour ses romans, l’auteur québécois haïtien a par ailleurs plagié la préface du célèbre livre «le Matin des Magiciens» pour un prix remporté en 2012.",
       "link": "https://www.liberation.fr/checknews/prix-du-public-de-radio-canada-le-texte-soumis-par-thelyson-orelien-laureat-de-ledition-2012-etait-un-plagiat-de-louis-pauwels-20260923_OJ5ITOBPTJG3VEID6ZYIAADSA4/",
-      "time": "Il y a 39 min",
+      "time": "Il y a 3h",
       "pubDate": 1790190793.0
     },
     {
-      "id": "France Info-4260861153199238675",
+      "id": "France Info-5132967920409406007",
       "source": "France Info",
       "title": "\"On n'a pas détecté de menace particulière\" autour de la visite du pape, assure le ministre de l'Intérieur, Laurent Nuñez, sur France 2",
       "excerpt": "Léon XIV arrivera vendredi en France pour une visite de quatre jours, sa première dans l'Hexagone.",
       "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/on-n-a-pas-detecte-de-menace-particuliere-autour-de-la-visite-du-pape-assure-le-ministre-de-l-interieur-laurent-nunez-sur-france-2_8206946.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 46 min",
+      "time": "Il y a 3h",
       "pubDate": 1790190423.0
     },
     {
-      "id": "France Info--7217269480304581602",
+      "id": "France Info--305492775022268520",
       "source": "France Info",
       "title": "\"Ça surprend, mais j'avais des compétences\" : à son procès pour corruption et trafic d'influence, Rachida Dati poussée dans ses retranchements",
       "excerpt": "L'interrogatoire de l'ancienne eurodéputée s'est poursuivi mercredi après-midi devant le tribunal correctionnel de Paris, avec des questions plus incisives sur la convention d'avocate qu'elle a signée...",
       "link": "https://www.franceinfo.fr/politique/rachida-dati/ca-surprend-mais-j-avais-des-competences-a-son-proces-pour-corruption-et-trafic-d-influence-rachida-dati-poussee-dans-ses-retranchements_8206862.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 3h",
       "pubDate": 1790189517.0
     },
     {
-      "id": "France Info-9031746082573408489",
+      "id": "France Info-7722727405972994707",
       "source": "France Info",
       "title": "La justice belge reporte l'audience sur la possible libération du \"logisticien\" du 13-Novembre, afin d'entendre les victimes",
       "excerpt": "Alors que l'audience dédiée à la potentielle libération du \"logisticien\" du 13-Novembre, censée se tenir le 29 septembre, a été reportée, la justice belge dit mercredi avoir \"pris connaissance des dem...",
       "link": "https://www.franceinfo.fr/societe/justice/la-justice-belge-reporte-l-audience-sur-la-possible-liberation-du-logisticien-du-13-novembre-afin-d-entendre-les-victimes_8206892.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 3h",
       "pubDate": 1790189001.0
     },
     {
-      "id": "Libération-1111907508908696781",
+      "id": "Libération-8647467648249624124",
       "source": "Libération",
       "title": "Xi et Trump, deux présidents duo au mur",
       "excerpt": "Le leader chinois est aux Etats-Unis pour une visite officielle de trois jours. Les deux dirigeants vont tenter de ne pas envenimer leur relation malgré les sujets qui fâchent : droits de douane, IA,...",
       "link": "https://www.liberation.fr/idees-et-debats/editorial/xi-et-trump-deux-presidents-duo-au-mur-20260923_3SCV2KYNMNH3BDBY3RZSCTKVZY/",
-      "time": "Il y a 1h",
+      "time": "Il y a 3h",
       "pubDate": 1790188475.0
     },
     {
-      "id": "Libération--6702929961627681579",
+      "id": "Libération-8607567422993406408",
       "source": "Libération",
       "title": "A l’ONU, le président iranien rend coup pour coup à Donald Trump",
       "excerpt": "Brandissant des photos, Massoud Pezeshkian a répondu ce mercredi de façon virulente au président américain, qui l’a précédé la veille à la tribune. Tout en laissant la porte ouverte à des négociations...",
       "link": "https://www.liberation.fr/international/moyen-orient/a-lonu-le-president-iranien-rend-coup-pour-coup-a-donald-trump-20260923_O7FODJZ4ERDABN3BDPUJETMU6U/",
-      "time": "Il y a 1h",
+      "time": "Il y a 4h",
       "pubDate": 1790188140.0
     },
     {
-      "id": "Libération-4442023817044474148",
-      "source": "Libération",
-      "title": "Au procès de l’assassinat d’Aramburú, l’avocat général dénonce «une chasse à l’homme» et requiert 27 et 20 ans de prison",
-      "excerpt": "Au terme de quelque quatre heures de discours, Philippe Courroye, dont c’était le dernier réquisitoire ce mercredi 23 septembre, n’a pas retenu la perpétuité mais demandé tout de même aux jurés une lo...",
-      "link": "https://www.liberation.fr/societe/police-justice/au-proces-de-lassassinat-daramburu-lavocat-general-denonce-une-chasse-a-lhomme-et-requiert-27-et-20-ans-de-prison-20260923_MTFTH6TWTVCOFEKKHQ4WKJZTZY/",
-      "time": "Il y a 1h",
-      "pubDate": 1790187813.0
-    },
-    {
-      "id": "Libération--487322171013108210",
-      "source": "Libération",
-      "title": "E. Jean Carroll, chroniqueuse victime de Trump : Potus et bouche décousue",
-      "excerpt": "L’Américaine, qui dénonce un viol, a réussi à faire condamner le milliardaire au terme d’une longue bataille judiciaire.",
-      "link": "https://www.liberation.fr/portraits/e-jean-carroll-chroniqueuse-victime-de-trump-potus-et-bouche-decousue-20260923_A6LWTU3UKRDSJO2P7L3H6VIF4I/",
-      "time": "Il y a 1h",
-      "pubDate": 1790187620.0
-    },
-    {
-      "id": "Libération--3862487047397329878",
-      "source": "Libération",
-      "title": "Ovation ou condamnation de «Naza» : une parfaite illustration de l’abîme qui sépare aujourd’hui Israël de l’Europe",
-      "excerpt": "Considérer que l’Europe est revenue à ses vieux démons antisémites ou nazifier Israël n’aidera pas à sortir de l’impasse, souligne le professeur de sciences politiques à Open University of Israel Deni...",
-      "link": "https://www.liberation.fr/idees-et-debats/tribunes/ovation-ou-condamnation-de-naza-une-parfaite-illustration-de-labime-qui-separe-aujourdhui-israel-de-leurope-20260923_5MPK5EDP3ZDE3EXTNDOF3NHZHA/",
-      "time": "Il y a 1h",
-      "pubDate": 1790187549.0
-    },
-    {
-      "id": "Libération--5031971146591410465",
-      "source": "Libération",
-      "title": "Dans la mort de la nièce d’Adolf Hitler, l’alibi du führer vole en éclat",
-      "excerpt": "L’hebdomadaire allemand «Der Spiegel» révèle des documents inédits qui mettent en cause la version du dictateur allemand autour de la mort suspecte de sa nièce, Geli Raubal, survenue en 1931.",
-      "link": "https://www.liberation.fr/international/europe/dans-la-mort-de-la-niece-dadolf-hitler-lalibi-du-fuhrer-vole-en-eclat-20260923_52D53CB5MNGRRJPDK6Q57YDQEA/",
-      "time": "Il y a 1h",
-      "pubDate": 1790187531.0
-    },
-    {
-      "id": "Libération--873619165219584469",
-      "source": "Libération",
-      "title": "IA et littérature : le logiciel Pangram est-il vraiment fiable ?",
-      "excerpt": "L’outil est réputé pour être le plus performant pour débusquer les textes générés par intelligence artificielle. Comment fonctionne-t-il ? En quoi se démarque-t-il des précédentes générations de détec...",
-      "link": "https://www.liberation.fr/checknews/ia-et-litterature-le-logiciel-pangram-est-il-vraiment-fiable-20260923_JBS2RZKAORA6PKYOTCL2ST7E7A/",
-      "time": "Il y a 1h",
-      "pubDate": 1790187440.0
-    },
-    {
-      "id": "France Info--6374177326110368844",
+      "id": "France Info-5896513900980389674",
       "source": "France Info",
       "title": "\"L'intention d'homicide est évidente\" : au procès de l'assassinat de Federico Martin Aramburu, vingt-sept ans de prison sont requis contre Loïk Le Priol",
       "excerpt": "Le ministère public a par ailleurs réclamé vingt ans de prison contre Romain Bouvier. Le verdict est attendu vendredi.",
       "link": "https://www.franceinfo.fr/faits-divers/assassinat-du-rugbyman-federico-martin-aramburu/proces-de-l-assassinat-de-federico-martin-aramburu-27-ans-de-prison-requis-contre-loik-le-priol-et-20-ans-contre-romain-bouvier_8206115.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 4h",
       "pubDate": 1790186864.0
     },
     {
-      "id": "Le Monde--1302959989628662026",
+      "id": "Le Monde-1790532898916155366",
       "source": "Le Monde",
       "title": "Violences sexistes et sexuelles : comment le texte de la loi intégrale a été modifié en commission à l’Assemblée nationale",
       "excerpt": "L’examen du texte par les députés s’est achevé ce mercredi. Malgré un « esprit de consensus » salué par la rapporteure, plusieurs dispositions ont été modifiées en profondeur avant l’arrivée du texte...",
       "link": "https://www.lemonde.fr/societe/article/2026/09/23/comment-le-texte-de-la-loi-integrale-face-aux-violences-sexuelles-et-sexistes-a-bouge-en-commission_6780955_3224.html",
-      "time": "Il y a 1h",
+      "time": "Il y a 4h",
       "pubDate": 1790186297.0
     },
     {
-      "id": "France Info--2604207766214849129",
-      "source": "France Info",
-      "title": "Assemblée générale de l'ONU : la Russie \"ne va pas faire de pause\" dans sa guerre avec l'Ukraine, dit le chef de la diplomatie russe, Sergueï Lavrov",
-      "excerpt": "La veille, Volodymyr Zelensky s'était dit \"prêt\" à un moratoire sur les frappes contre les sites énergétiques si Moscou faisait de même.",
-      "link": "https://www.franceinfo.fr/monde/onu/direct-assemblee-generale-de-l-onu-le-president-iranien-est-arrive-a-new-york-ou-il-doit-s-exprimer-a-la-tribune-des-nations-unies_8205794.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
-      "pubDate": 1790185265.0
-    },
-    {
-      "id": "France Info-3335255687935523508",
-      "source": "France Info",
-      "title": "Les députés ont approuvé en commission la loi intégrale contre les violences sexistes et sexuelles",
-      "excerpt": "Le texte a été adopté à l'unanimité des votants tandis que les élus du Rassemblement national se sont abstenus.L'examen dans l'hémicycle doit commencer le 1er octobre.",
-      "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/les-deputes-ont-approuve-en-commission-la-loi-integrale-contre-les-violences-sexistes-et-sexuelles_8206823.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
-      "pubDate": 1790185174.0
-    },
-    {
-      "id": "Le Monde--4193612767104600810",
+      "id": "Le Monde-8202611000873127096",
       "source": "Le Monde",
       "title": "EN DIRECT, guerre en Ukraine : « Nous savons que la Russie recrute des ressortissants de 47 pays pour mener cette guerre », dénonce Volodymyr Zelensky à l’ONU",
       "excerpt": "Quelques heures après les déclarations de Sergueï Lavrov, qui a dit que la Russie ne fera « pas de trêve » dans sa guerre en Ukraine, le président ukrainien a pris la parole à la tribune de l’Assemblé...",
       "link": "https://www.lemonde.fr/international/live/2026/09/23/en-direct-guerre-en-ukraine-la-russie-ne-fera-pas-de-treve-dans-la-guerre-en-ukraine-repete-serguei-lavrov-devant-l-onu_6777944_3210.html",
-      "time": "Il y a 2h",
+      "time": "Il y a 4h",
       "pubDate": 1790184991.0
     },
     {
-      "id": "Le Monde-5631650920183954215",
+      "id": "Le Monde--8451518787024184099",
       "source": "Le Monde",
       "title": "EN DIRECT, ONU : les patrons d’OpenAI et d’Anthropic exposent les « risques » que pose l’IA et promettent de ralentir « autant que nécessaire »",
       "excerpt": "Sam Altman, Dario Amodei, ainsi que le Français Clément Delangue, cofondateur de Hugging Face, s’expriment devant le Conseil de sécurité, à New York, où la question de l’intelligence artificielle y es...",
       "link": "https://www.lemonde.fr/international/live/2026/09/23/en-direct-assemblee-generale-de-l-onu-le-president-iranien-accuse-les-etats-unis-de-terrorisme-marco-rubio-met-en-garde-israel-sur-la-cisjordanie_6780906_3210.html",
-      "time": "Il y a 2h",
+      "time": "Il y a 4h",
       "pubDate": 1790184979.0
     },
     {
-      "id": "Le Monde-8312199206994091098",
-      "source": "Le Monde",
-      "title": "Bernard-Henri Lévy au miroir des autres : « Le Monde » publie des extraits de ses Mémoires",
-      "excerpt": "« Le Monde des livres » publie de larges extraits de « Mémoires provisoires », composé d’une cinquantaine de portraits. Notamment ceux du philosophe Gilles Deleuze, de l’écrivain et cinéaste Pier Paol...",
-      "link": "https://www.lemonde.fr/livres/article/2026/09/23/bernard-henri-levy-au-miroir-des-autres-le-monde-publie-des-extraits-de-ses-memoires_6780950_3260.html",
-      "time": "Il y a 2h",
-      "pubDate": 1790182809.0
-    },
-    {
-      "id": "Le Monde--2303916574292811691",
-      "source": "Le Monde",
-      "title": "Coût des soins : pourquoi la complémentaire santé solidaire, censée protéger les plus précaires, souffre d’un non-recours massif",
-      "excerpt": "Face aux hausses des franchises et forfaits médicaux, le gouvernement rappelle que les Français aux plus faibles revenus sont protégés par une couverture complémentaire publique. Celle-ci échappe cepe...",
-      "link": "https://www.lemonde.fr/societe/article/2026/09/23/cout-des-soins-pourquoi-la-complementaire-sante-solidaire-censee-proteger-les-plus-precaires-souffre-d-un-non-recours-massif_6780944_3224.html",
-      "time": "Il y a 3h",
-      "pubDate": 1790181365.0
-    },
-    {
-      "id": "Le Monde-7273385604557957408",
+      "id": "Le Monde--6884417864923805539",
       "source": "Le Monde",
       "title": "Au procès de l’assassinat de Federico Aramburu, vingt-sept ans de prison requis contre Loïk Le Priol et vingt ans contre Romain Bouvier",
       "excerpt": "Depuis le 7 septembre, Loïk Le Priol, poursuivi pour assassinat, et Romain Bouvier, pour tentative d’assassinat, sont jugés devant la cour d’assises de Paris pour la mort de l’ancien rugbyman, tué par...",
       "link": "https://www.lemonde.fr/societe/article/2026/09/23/mort-de-federico-aramburu-27-ans-de-prison-requis-contre-loik-le-priol-pour-assassinat-20-ans-de-prison-contre-romain-bouvier-pour-tentative-d-assassinat_6780943_3224.html",
-      "time": "Il y a 3h",
+      "time": "Il y a 5h",
       "pubDate": 1790181239.0
     },
     {
-      "id": "Le Monde-7901349555437466836",
-      "source": "Le Monde",
-      "title": "EN DIRECT, débat de la primaire à gauche : les cinq candidats débattent sur la situation géopolitique, de la guerre en Ukraine à la sécurité de la France face à la Russie",
-      "excerpt": "Raphaël Glucksmann, Ségolène Royal, Olivier Faure, Jérôme Guedj et Emmanuel Maurel se confrontent, mercredi, sur TF1-LCI, à un panel de Français lors d’une émission animée par David Pujadas.",
-      "link": "https://www.lemonde.fr/election-presidentielle-2027/live/2026/09/23/en-direct-debat-de-la-primaire-a-gauche-raphael-glucksmann-segolene-royal-suivez-les-propositions-des-candidats_6780940_6205049.html",
-      "time": "Il y a 3h",
-      "pubDate": 1790181078.0
-    },
-    {
-      "id": "Le Monde--8489934453407789231",
-      "source": "Le Monde",
-      "title": "Au Mali, l’amertume des militaires en première ligne contre les djihadistes",
-      "excerpt": "Le 10 septembre, l’armée malienne a subi l’un de ses pires revers : au moins 100 soldats sont morts dans l’attaque du camp de Dioura par le GSIM. Une défaite qui met à nouveau sous pression le chef de...",
-      "link": "https://www.lemonde.fr/afrique/article/2026/09/23/au-mali-l-amertume-des-militaires-en-premiere-ligne-contre-les-djihadistes_6780938_3212.html",
-      "time": "Il y a 3h",
-      "pubDate": 1790181010.0
-    },
-    {
-      "id": "Le Monde-3607930267956542404",
+      "id": "Le Monde-1967498356662208861",
       "source": "Le Monde",
       "title": "Visite de Xi Jinping aux Etats-Unis : comment la Chine a inversé le rapport de force avec Donald Trump",
       "excerpt": "Alors que Donald Trump déroule le tapis rouge à son homologue chinois à Washington, mercredi, Pékin semble être parvenu à imposer ses propres conditions à un président américain affaibli sur les plans...",
       "link": "https://www.lemonde.fr/international/article/2026/09/23/visite-de-xi-jinping-aux-etats-unis-comment-la-chine-a-reussi-a-apprivoiser-donald-trump_6780931_3210.html",
-      "time": "Il y a 4h",
+      "time": "Il y a 6h",
       "pubDate": 1790178337.0
     },
     {
-      "id": "France Info-5213289903434149667",
+      "id": "France Info-6788536220894081128",
       "source": "France Info",
       "title": "Transporteurs routiers, auto-écoles, retraités... Qui sont les exclus des aides du gouvernement pour faire face à la crise des carburants ?",
       "excerpt": "Un paquet de mesures destinées aux Français les plus touchés par la hausse des prix a été présenté mardi. Si l'exécutif assume le choix d'aides ciblées, certains secteurs regrettent de ne pas avoir ét...",
       "link": "https://www.franceinfo.fr/economie/automobile/essence/transporteurs-routiers-auto-ecoles-retraites-qui-sont-les-exclus-des-aides-du-gouvernement-pour-faire-face-a-la-crise-des-carburants_8206031.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 6h",
+      "time": "Il y a 8h",
       "pubDate": 1790171122.0
-    },
-    {
-      "id": "France Info-952419657248487287",
-      "source": "France Info",
-      "title": "L'écrivain Thélyson Orélien a-t-il utilisé l'intelligence artificielle pour écrire son premier roman \"C'était ça ou mourir\" ?",
-      "excerpt": "Un compte X affirme avoir soumis plusieurs extraits de l'ouvrage à un logiciel de détection d'IA. Quels sont les résultats ?",
-      "link": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/l-ecrivain-thelyson-orelien-a-t-il-utilise-l-intelligence-artificielle-pour-ecrire-son-premier-roman-c-etait-ca-ou-mourir_8183894.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 14h",
-      "pubDate": 1790139989.0
-    },
-    {
-      "id": "Le Monde--4676313428768508298",
-      "source": "Le Monde",
-      "title": "Carburant : la carte des prix de l’essence et du gazoil autour de chez vous",
-      "excerpt": "Les conséquences de la guerre au Moyen-Orient se font de plus en plus sentir sur les prix dans les stations-service françaises.",
-      "link": "https://www.lemonde.fr/les-decodeurs/article/2026/09/21/carburant-la-carte-des-prix-a-la-pompe-autour-de-chez-vous_6670140_4355771.html",
-      "time": "Il y a 2j",
-      "pubDate": 1789969786.0
     }
   ],
   "anglophone": [
     {
-      "id": "BBC News-6994107859044081142",
+      "id": "BBC News--3766103670088283641",
+      "source": "BBC News",
+      "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
+      "excerpt": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
+      "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 28 min",
+      "pubDate": 1790200877.0
+    },
+    {
+      "id": "BBC News--9107975576481078334",
+      "source": "BBC News",
+      "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
+      "excerpt": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
+      "link": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 1h",
+      "pubDate": 1790198774.0
+    },
+    {
+      "id": "BBC News-6826676263591177327",
+      "source": "BBC News",
+      "title": "UK survivor of Canadian poison seller says he exploited her despair",
+      "excerpt": "Elisabeth Belien tells Kenneth Law's sentencing hearing she took the poison when she was just 23 years old.",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 1h",
+      "pubDate": 1790198160.0
+    },
+    {
+      "id": "BBC News-7421805517257004733",
       "source": "BBC News",
       "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
       "excerpt": "Assault survivor Miriam Haley said the \"devastating effect on my life and sense of security that may never go away\".",
       "link": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 1h",
+      "time": "Il y a 3h",
       "pubDate": 1790189472.0
     },
     {
-      "id": "The Guardian--7660547049775600989",
+      "id": "The Guardian-6572653748836959463",
       "source": "The Guardian",
       "title": "Milei threatens at UN that Argentina will take ‘matters into our own hands’ on Falklands",
       "excerpt": "Argentinian president accuses United Nations of being filled with ‘parasites’ in bellicose general assembly speech Javier Milei has condemned the UN as he warned that Argentina would take “matters int...",
       "link": "https://www.theguardian.com/uk-news/2026/sep/23/argentina-president-attacks-un-over-inaction-on-falkland-islands-sovereignty",
-      "time": "Il y a 1h",
+      "time": "Il y a 3h",
       "pubDate": 1790189443.0
     },
     {
-      "id": "NPR-5810960856038998793",
+      "id": "NPR--4337070330033252011",
       "source": "NPR",
-      "title": "Trump set to greet Xi for high-stakes state visit",
+      "title": "Trump and Xi meet at moment of global consequence",
       "excerpt": "It is the second time the leaders are meeting this year after the Beijing summit in May.",
       "link": "https://www.npr.org/2026/09/23/nx-s1-5978733/trump-xi-meeting-china",
-      "time": "Il y a 1h",
+      "time": "Il y a 4h",
       "pubDate": 1790187799.0
     },
     {
-      "id": "BBC News--367696973498161761",
+      "id": "BBC News--2759711174353776723",
       "source": "BBC News",
       "title": "Iran's president tells Trump it will never 'bend the knee'",
       "excerpt": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
       "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 1h",
+      "time": "Il y a 4h",
       "pubDate": 1790187331.0
     },
     {
-      "id": "NPR--811285587500520029",
+      "id": "NPR--7166126126182814133",
       "source": "NPR",
       "title": "Iran's president gives a rare wartime speech at the U.N.",
       "excerpt": "Iranian President Masoud Pezeshkian addressed the U.N. General Assembly a day after President Trump threatened from the same podium to \"annihilate\" Iran.",
       "link": "https://www.npr.org/2026/09/23/nx-s1-5978863/iran-president-united-nations-general-assembly",
-      "time": "Il y a 1h",
+      "time": "Il y a 4h",
       "pubDate": 1790187280.0
     },
     {
-      "id": "NPR--8916853024423475618",
+      "id": "NPR-1651805672346546406",
       "source": "NPR",
       "title": "A Catholic media star will be beatified in St. Louis, moving a step closer to sainthood",
       "excerpt": "Bishop Fulton Sheen, who charmed millions of television viewers on his show L<em>ife Is Worth Living,'</em>will come one step closer to being declared a saint.",
       "link": "https://www.npr.org/2026/09/23/g-s1-144677/a-catholic-media-star-will-be-beatified-in-st-louis-moving-a-step-closer-to-sainthood",
-      "time": "Il y a 1h",
+      "time": "Il y a 4h",
       "pubDate": 1790186971.0
     },
     {
-      "id": "BBC News--4276546567099996223",
-      "source": "BBC News",
-      "title": "Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing",
-      "excerpt": "The US Justice Department's response to a lawsuit filed by CNN, Politico and MS NOW also cites national security.",
-      "link": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
-      "pubDate": 1790185259.0
-    },
-    {
-      "id": "BBC News--281994805797127879",
+      "id": "BBC News-4771028874528121919",
       "source": "BBC News",
       "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
       "excerpt": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
       "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
+      "time": "Il y a 5h",
       "pubDate": 1790182417.0
     },
     {
-      "id": "NPR-7753095907341185317",
+      "id": "NPR-6727279820239863829",
       "source": "NPR",
       "title": "From cybersecurity to AI to Taiwan, what's at stake in Trump's summit with Xi",
       "excerpt": "As President Trump and China's President Xi prepare to meet, Rush Doshi of the Council on Foreign Relations explains the current state of U.S.-China relations and what to expect from this summit.",
       "link": "https://www.npr.org/2026/09/23/nx-s1-5978691/from-cybersecurity-to-ai-what-at-stake-in-trumps-meeting-with-and-president-xiwhy-the-us-and-china-are-at-a-precarious-moment-in-their-relationship",
-      "time": "Il y a 3h",
+      "time": "Il y a 6h",
       "pubDate": 1790180032.0
     },
     {
-      "id": "BBC News-7167311352589503028",
+      "id": "BBC News--7537382180495588976",
       "source": "BBC News",
       "title": "Poland accuses Russian military helicopter of violating its airspace",
       "excerpt": "Poland says the aircraft stayed in its skies for 42 seconds, forcing the Nato member to scramble its fighter jets.",
       "link": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 4h",
+      "time": "Il y a 6h",
       "pubDate": 1790177840.0
     },
     {
-      "id": "BBC News-6253771681753399185",
-      "source": "BBC News",
-      "title": "White House rolling out red carpet for historic Xi Jinping visit",
-      "excerpt": "Trump and Xi are expected to discuss a range of issues from trade to AI during the latter's multi-day visit to Washington.",
-      "link": "https://www.bbc.co.uk/news/articles/c6n9w410v3vzo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 5h",
-      "pubDate": 1790173957.0
-    },
-    {
-      "id": "NPR--5246043224089549187",
+      "id": "NPR-8400704745142580099",
       "source": "NPR",
       "title": "It's getting harder to afford rent in the U.S., even for middle-income families",
       "excerpt": "Housing affordability challenges are spreading to higher income brackets, according to new research, which found one in five renters struggled last year to pay for their housing in full and on time.",
       "link": "https://www.npr.org/2026/09/23/nx-s1-5977022/rent-affordability-middle-income",
-      "time": "Il y a 5h",
+      "time": "Il y a 8h",
       "pubDate": 1790172550.0
     },
     {
-      "id": "BBC News--8246256284482466371",
-      "source": "BBC News",
-      "title": "Eleven killed in mass shooting at house in South Africa",
-      "excerpt": "One of those killed is believed to be a pregnant woman, police said.",
-      "link": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 5h",
-      "pubDate": 1790172175.0
-    },
-    {
-      "id": "NPR-8480825568082982281",
+      "id": "NPR-1077818028752465000",
       "source": "NPR",
       "title": "Greetings from Edinburgh, where a cheeky tour guide makes art history hilarious",
       "excerpt": "For anyone who grew up staring blankly at museum artwork, this is the fun that was missing: Coco leads interactive and (mostly) factual art history comedy tours.",
       "link": "https://www.npr.org/2026/09/23/g-s1-142427/uk-coco-art-history-comedy-tour",
-      "time": "Il y a 6h",
+      "time": "Il y a 8h",
       "pubDate": 1790170307.0
     },
     {
-      "id": "The Guardian-1570874927162451454",
+      "id": "The Guardian-1474698031651980388",
       "source": "The Guardian",
       "title": "Delcy Rodríguez poses with Trump in New York as Maduro languishes in jail nearby",
       "excerpt": "Venezuela’s interim president hails ‘historic meeting’ and does not say whether she will visit snatched predecessor Venezuela’s interim president, Delcy Rodríguez, has celebrated a “historic” meeting...",
       "link": "https://www.theguardian.com/world/2026/sep/23/venezuela-delcy-rodriguez-meeting-donald-trump-new-york",
-      "time": "Il y a 6h",
+      "time": "Il y a 9h",
       "pubDate": 1790168047.0
     },
     {
-      "id": "BBC News--2405682883520160334",
+      "id": "BBC News--5982954369245783359",
       "source": "BBC News",
       "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
       "excerpt": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it.",
       "link": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 7h",
+      "time": "Il y a 9h",
       "pubDate": 1790166691.0
     },
     {
-      "id": "BBC News-7916501662419003193",
+      "id": "BBC News--2782495476589624166",
       "source": "BBC News",
       "title": "Dolly Parton's manager accuses her nephew of 'threats and intimidation'",
       "excerpt": "Bryan Seaver, who announced Parton's death to the world, is accused of trying to extort her estate.",
       "link": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 7h",
+      "time": "Il y a 10h",
       "pubDate": 1790166173.0
     },
     {
-      "id": "NPR-7499403449380837519",
+      "id": "NPR--1314403674322147033",
       "source": "NPR",
       "title": "Is Nepal's flood a harbinger of what's to come in the Himalayas?",
       "excerpt": "Building dams and hydropower plants in the Himalayas holds great promise for providing electricity. In the wake of the Nepal disaster, experts are asking about the risks of such construction.",
       "link": "https://www.npr.org/2026/09/23/g-s1-144536/floods-climate-nepal-himalayas-dams-hydropower",
-      "time": "Il y a 8h",
+      "time": "Il y a 10h",
       "pubDate": 1790164080.0
     },
     {
-      "id": "NPR-2167567992597975811",
+      "id": "NPR--5075023257910777616",
       "source": "NPR",
       "title": "Dems have an edge over GOP, poll finds. And, ICE looks into 'mobile detention centers'",
       "excerpt": "An NPR poll shows that Democrats have an edge over Republicans going into the midterms, partially due to Trump. And, Immigration and Customs Enforcement is looking into \"mobile detention centers.\"",
       "link": "https://www.npr.org/2026/09/23/g-s1-144632/up-first-newsletter-npr-polls-voter-approval-cnn-msnow-politico-trump-unga-speech-ice",
-      "time": "Il y a 8h",
+      "time": "Il y a 11h",
       "pubDate": 1790162012.0
     },
     {
-      "id": "The Guardian-3818042975826553019",
+      "id": "The Guardian-399072325779356524",
       "source": "The Guardian",
       "title": "Indian billionaire’s payments firm plots biggest London flotation in years",
       "excerpt": "Sunil Bharti Mittal’s Airtel Money targets $9bn IPO in boost for ailing UK stock market <a href=\"https://www.theguardian.com/business/nils-pratley-on-finance/2026/sep/23/airtel-money-london-stock-exch...",
       "link": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
-      "time": "Il y a 8h",
+      "time": "Il y a 11h",
       "pubDate": 1790161681.0
     },
     {
-      "id": "NPR--7863133722851984737",
+      "id": "NPR-4200672956942671256",
+      "source": "NPR",
+      "title": "U.N. Ambassador Mike Waltz on Iran, Venezuela and Trump's foreign policy",
+      "excerpt": "Deals, threats and oil are all on the table as the president's foreign policy takes center stage.",
+      "link": "https://www.npr.org/2026/09/23/nx-s1-5977753/u-s-ambassador-to-the-u-n-discusses-trumps-address-at-unga",
+      "time": "Il y a 11h",
+      "pubDate": 1790160527.0
+    },
+    {
+      "id": "NPR-3849626027824503559",
       "source": "NPR",
       "title": "Will FDA advisers recommend a multi-cancer blood test for approval? They'll vote",
       "excerpt": "The company Grail says its Galleri blood test can detect up to 50 forms of cancer. An independent panel of experts will decide if the test should be recommended for FDA approval.",
       "link": "https://www.npr.org/2026/09/23/nx-s1-5978122/fda-blood-cancer-test-galleri",
-      "time": "Il y a 9h",
+      "time": "Il y a 12h",
       "pubDate": 1790157600.0
     },
     {
-      "id": "The Guardian--1325927259932603884",
+      "id": "The Guardian--6618866049014646866",
       "source": "The Guardian",
       "title": "Top South African police officer charged with raping woman, 18, and grooming 16-year-old girl",
       "excerpt": "Arrest of Shadrack Sibiya comes as country reels from cases of femicide and alleged police corruption and criminality One of South Africa’s most senior police officers has been charged with raping an...",
       "link": "https://www.theguardian.com/world/2026/sep/23/south-africa-top-police-officer-shadrack-sibiya-charged-rape-grooming",
-      "time": "Il y a 10h",
+      "time": "Il y a 12h",
       "pubDate": 1790156286.0
     },
     {
-      "id": "NPR-8006571859862953461",
-      "source": "NPR",
-      "title": "DOJ defends White House media ban, urges court to reject lawsuit",
-      "excerpt": "The Department of Justice defended President Trump's recent media ban, arguing that reporting by CNN, MS Now and Politico on a wide range of issues jeopardized national security and spread falsehoods.",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5978614/doj-defend-white-house-media-ban",
-      "time": "Il y a 10h",
-      "pubDate": 1790154407.0
-    },
-    {
-      "id": "BBC News-7406954358036705847",
+      "id": "BBC News-6787681764729613902",
       "source": "BBC News",
       "title": "Reports of violence against women in Gaza surge, UN agency finds",
       "excerpt": "The UN Population Fund also says there has been a \"severe escalation\" in the number of early and forced marriages.",
       "link": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 14h",
+      "time": "Il y a 17h",
       "pubDate": 1790139746.0
     },
     {
-      "id": "The Guardian-4208511639593264012",
+      "id": "The Guardian--3008811474692652356",
       "source": "The Guardian",
       "title": "Jamaica hails King’s decision to refer slavery reparations petition to privy council as ‘really big deal’",
       "excerpt": "The move comes after Jamaica’s culture minister Olivia Grange travelled to the UK earlier this month to lodge the historic petition King Charles has referred a landmark slavery reparations petition fr...",
       "link": "https://www.theguardian.com/world/2026/sep/23/jamaica-king-charles-to-refer-slavery-reparations-petition-to-privy-council",
-      "time": "Il y a 18h",
+      "time": "Il y a 21h",
       "pubDate": 1790126126.0
     },
     {
-      "id": "The Guardian--4040632256525294476",
+      "id": "The Guardian--1423056239259074967",
       "source": "The Guardian",
       "title": "Hurricane Polo, rapidly intensifying from strong El Niño patterns, rages off coast of Mexico",
       "excerpt": "Polo, with sustained winds of 165mph, is churning 215 miles south of Zihuatanejo but is unlikely to directly hit Mexico A tropical storm off the south-west coast of <a href=\"https://www.theguardian.co...",
@@ -507,7 +504,7 @@
       "pubDate": 1790104169.0
     },
     {
-      "id": "The Guardian--6670485115863507972",
+      "id": "The Guardian--5865346625292342954",
       "source": "The Guardian",
       "title": "Trump’s threat to annihilate Iran to UN general assembly is stunning, even for him",
       "excerpt": "US president may have upstaged the ghost of Soviet leader Khrushchev by musing destruction of fellow member state Donald Trump has a habit of discomfiting delegates to the United Nations general assem...",
@@ -516,7 +513,7 @@
       "pubDate": 1790101388.0
     },
     {
-      "id": "The Guardian--110447723374787454",
+      "id": "The Guardian-592403663052825285",
       "source": "The Guardian",
       "title": "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns",
       "excerpt": "Accra Reset’s report states countries in the region and global south should take greater control of their health development after USAID debacle The United States’ withdrawal from key aid programs has...",
@@ -525,7 +522,7 @@
       "pubDate": 1790030020.0
     },
     {
-      "id": "The Guardian-7652888118058145387",
+      "id": "The Guardian-2683128511517338148",
       "source": "The Guardian",
       "title": "Banished to alien lands: Trump’s secret deportation deals",
       "excerpt": "After a plane journey in shackles, an Iranian woman found herself in the middle of Africa in a country she did not know existed. She is one of thousands deported from the US on the back of shadowy dea...",
@@ -534,7 +531,7 @@
       "pubDate": 1789966838.0
     },
     {
-      "id": "The Guardian--5414755693982057232",
+      "id": "The Guardian-9060578903391497949",
       "source": "The Guardian",
       "title": "Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say",
       "excerpt": "Group trapped at Hotel Bamy after US removal as rights groups sound alarm over poor conditions and violence  Two men that the Trump administration expelled to Equatorial Guinea were bound, fitted with...",
@@ -543,5 +540,5 @@
       "pubDate": 1789772929.0
     }
   ],
-  "lastUpdate": "2026-09-23T19:53:11.579102"
+  "lastUpdate": "2026-09-23T22:29:34.184580"
 }
