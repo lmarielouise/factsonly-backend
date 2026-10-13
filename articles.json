@@ -1,504 +1,501 @@
 {
   "francophone": [
     {
-      "id": "Le Monde--3720001314694162563",
+      "id": "Libération-6253710564073995587",
+      "source": "Libération",
+      "title": "EN DIRECT – Mobilisation des lycées : Greta Thunberg est «très fière des lycéens français», affirme-t-elle à «Libération»",
+      "excerpt": "La militante suédoise a rejoint les rangs des jeunes mobilisés ce mardi 13 octobre, d’abord devant le lycée Paul-Eluard à Saint-Denis. Environ 200 établissements sont fermés selon le ministère de l’Ed...",
+      "link": "https://www.liberation.fr/societe/education/en-direct-mobilisation-des-lycees-un-acte-v-avec-une-nouvelle-journee-de-manifestations-en-france-ce-mardi-20261013_FCESOUSDEVE53I4EIRTF6YHSJM/",
+      "time": "Il y a 2 min",
+      "pubDate": 1791887132.0
+    },
+    {
+      "id": "Libération-3789983144185246549",
+      "source": "Libération",
+      "title": "Le parquet de Paris ouvre une enquête sur un groupe Facebook lié au média d’extrême droite Frontières",
+      "excerpt": "Sur le groupe «Riposte Frontières» lié au média d’extrême droite associé à Vincent Bolloré, plus de 6 000 membres échangent quotidiennement des publications et commentaires antisémites, islamophobes e...",
+      "link": "https://www.liberation.fr/economie/medias/le-parquet-de-paris-ouvre-une-enquete-sur-un-groupe-facebook-lie-au-media-dextreme-droite-frontieres-20261013_BK3DRWO7A5GZ7IDSDP7VRJYO7Y/",
+      "time": "Il y a 4 min",
+      "pubDate": 1791887017.0,
+      "sources": [
+        "Libération",
+        "France Info"
+      ],
+      "multiSource": true,
+      "sourceCount": 2
+    },
+    {
+      "id": "France Info--8301470701335692860",
+      "source": "France Info",
+      "title": "Collège d'Aubagne : l'adolescent suspecté d'avoir blessé deux personnes par arme à feu a agi par esprit de vengeance",
+      "excerpt": "Selon les premiers éléments de l'enquête, il ressort que l'élève vivait mal sa scolarité et était un élément perturbateur au sein de l'établissement.",
+      "link": "https://www.franceinfo.fr/faits-divers/college-d-aubagne-l-adolescent-suspecte-d-avoir-blesse-deux-personnes-par-arme-a-feu-a-agi-par-esprit-de-vengeance_8235361.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 13 min",
+      "pubDate": 1791886486.0
+    },
+    {
+      "id": "France Info-5952829041466189223",
+      "source": "France Info",
+      "title": "Mobilisation lycéenne : \"90%\" des facultés \"bloquées ou fermées\" ce mardi, selon l'Union étudiante, un chiffre contesté par le ministère",
+      "excerpt": "Les lycéens manifestent à nouveau mardi, à quelques jours des vacances scolaires de la Toussaint.",
+      "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-les-lyceens-de-nouveau-dans-la-rue-pour-un-acte-5-du-mouvement_8234260.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 26 min",
+      "pubDate": 1791885747.0
+    },
+    {
+      "id": "France Info-2166467824000106764",
+      "source": "France Info",
+      "title": "Un piratage \"pas si sophistiqué que ça\" : ce que l'on sait de la cyberattaque qui a fait monter en température les frigos de supermarchés",
+      "excerpt": "Dans la nuit de dimanche à lundi, des hackers ont pris le contrôle des thermostats de plusieurs centaines de supermarchés. Ils ont ainsi pu, à distance, changer les températures des réfrigérateurs et...",
+      "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/un-piratage-pas-si-sophistique-que-ca-ce-que-l-on-sait-de-la-cyberattaque-qui-a-fait-monter-en-temperature-les-frigos-de-supermarches_8235061.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 27 min",
+      "pubDate": 1791885673.0
+    },
+    {
+      "id": "Libération--2278640255318733412",
+      "source": "Libération",
+      "title": "Boris Vallaud compare Raphaël Glucksmann à François Mitterrand (mais celui de 1965)",
+      "excerpt": "Indiscrétions piquantes, maladresses vaches ou douces confessions : chaque jour, retrouvez les brèves qui auscultent le monde politique.",
+      "link": "https://www.liberation.fr/politique/boris-vallaud-compare-raphael-glucksmann-a-francois-mitterrand-mais-celui-de-1965-20261013_CN47DVJL2FEV5CWENMN27QBRA4/",
+      "time": "Il y a 34 min",
+      "pubDate": 1791885258.0
+    },
+    {
+      "id": "France Info-4295567835764982194",
+      "source": "France Info",
+      "title": "La Hongrie adopte une première loi supprimant des dispositions anti-LGBT+ de l'ère Viktor Orban",
+      "excerpt": "C'est la première abolition significative des restrictions imposées par Viktor Orban à la communauté LGBT+ depuis l'arrivée au pouvoir de Peter Magyar.",
+      "link": "https://www.franceinfo.fr/societe/lgbt/la-hongrie-adopte-une-premiere-loi-supprimant-des-dispositions-anti-lgbt-de-l-ere-viktor-orban_8235211.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 44 min",
+      "pubDate": 1791884610.0
+    },
+    {
+      "id": "France Info--5441283852526771987",
+      "source": "France Info",
+      "title": "Le Comité international de la Croix-Rouge alerte sur l'urgence d'une \"désescalade\" au Moyen-Orient",
+      "excerpt": "Une intensification des hostilités serait \"désastreuse\" pour des dizaines de millions de personnes, a déclaré la présidente du CICR, Mirjana Spoljaric.",
+      "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/le-comite-international-de-la-croix-rouge-alerte-sur-l-urgence-d-une-desescalade-au-moyen-orient_8235250.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 47 min",
+      "pubDate": 1791884441.0
+    },
+    {
+      "id": "Libération-8906145040241308750",
+      "source": "Libération",
+      "title": "Roux de Bézieux, un ancien président du Medef pour diriger le comité d’organisation des Jeux d’hiver 2030 dans les Alpes ?",
+      "excerpt": "Le nom de l’ex-patron des patrons circule pour prendre la direction du Cojop, une structure minée par des crises de gouvernance à répétition et des différends politiques.",
+      "link": "https://www.liberation.fr/sports/roux-de-bezieux-un-ancien-president-du-medef-pour-diriger-le-comite-dorganisation-des-jeux-dhiver-2030-dans-les-alpes-20261013_P4XA3PHQT5DCFJBCUNQIGSSL2A/",
+      "time": "Il y a 50 min",
+      "pubDate": 1791884267.0
+    },
+    {
+      "id": "France Info-1149612536062940936",
+      "source": "France Info",
+      "title": "Deux nouveaux navires ont été frappés en mer Noire près des côtes bulgares",
+      "excerpt": "La semaine dernière, deux navires marchands avaient déjà été frappés par des drones dans la zone économique exclusive de la Bulgarie en mer Noire.",
+      "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/deux-nouveaux-navires-ont-ete-frappes-en-mer-noire-pres-des-cotes-bulgares_8235118.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 51 min",
+      "pubDate": 1791884198.0
+    },
+    {
+      "id": "Libération-2124781600459872532",
+      "source": "Libération",
+      "title": "En Hongrie, la majorité pro-européenne commence à détricoter les lois anti-LGBT + d’Orban",
+      "excerpt": "Les députés hongrois ont voté ce mardi 13 octobre la suppression des dispositions anti-LGBT + contenues dans une loi de «protection de l’enfance» de 2021, adoptée par Viktor Orbán et condamnée par l’U...",
+      "link": "https://www.liberation.fr/politique/la-hongrie-adopte-une-premiere-loi-supprimant-des-dispositions-anti-lgbt-de-lere-orban-20261013_K4BKBAKCUVHITOS7HWJXTBM4B4/",
+      "time": "Il y a 53 min",
+      "pubDate": 1791884115.0
+    },
+    {
+      "id": "Libération-4628638941260490342",
+      "source": "Libération",
+      "title": "«Antisémitisme» et «homophobie» oui mais «islamophobie» non : l’argumentaire de cette députée UDR s’effondre en direct",
+      "excerpt": "Hanane Mansouri conteste la validité du terme «islamophobie» pour parler d’agressions contre les musulmans, mais pas celui d’«homophobie» pour les actes contre des personnes LGBT.",
+      "link": "https://www.liberation.fr/politique/antisemitisme-et-homophobie-oui-mais-islamophobie-non-largumentaire-de-cette-deputee-udr-seffondre-en-direct-20261013_GTLHLKXEBNEEDHMOEJJWEFI7MQ/",
+      "time": "Il y a 1h",
+      "pubDate": 1791883288.0
+    },
+    {
+      "id": "Libération-3787377227951017192",
+      "source": "Libération",
+      "title": "Les mémoires sélectifs de Patrick Bertrand, ancien flic de la BRI devenu écrivain et accusé de corruption",
+      "excerpt": "En pleine promotion pour la sortie de son livre, l’ex-policier, dit «Plastic», raconte ses deux décennies passées au sein de la prestigieuse unité d’intervention. Mais consacre à peine quelques lignes...",
+      "link": "https://www.liberation.fr/societe/police-justice/les-memoires-selectifs-de-patrick-bertrand-ancien-flic-de-la-bri-devenu-ecrivain-et-accuse-de-corruption-20261013_LR354BHDXVDP7G2QJWK53IS23Q/",
+      "time": "Il y a 1h",
+      "pubDate": 1791883170.0
+    },
+    {
+      "id": "Libération--6161635191529527838",
+      "source": "Libération",
+      "title": "Jeux vidéo : Epic Games, créateur de Fortnite, annonce «un immense virage» vers l’IA",
+      "excerpt": "L’annonce intervient alors que la place de l’intelligence artificielle dans les secteurs artistiques et créatifs suscite un très vif débat et six mois après qu’Epic a licencié 1 000 personnes, démenta...",
+      "link": "https://www.liberation.fr/economie/economie-numerique/jeux-video-epic-games-createur-de-fortnite-annonce-un-immense-virage-vers-lia-20261013_YMT67AJS2BB7NELSFUKODF3FR4/",
+      "time": "Il y a 1h",
+      "pubDate": 1791883028.0
+    },
+    {
+      "id": "Libération-8781684925145989595",
+      "source": "Libération",
+      "title": "David Lisnard revendique plus d’adhérents qu’Edouard Philippe mais n’en apporte aucune preuve",
+      "excerpt": "Le patron du parti Nouvelle Energie revendique «50 000 adhérents à jour de cotisation». C’est beaucoup, mais ce n’est pas sourcé…",
+      "link": "https://www.liberation.fr/politique/david-lisnard-revendique-plus-dadherents-quedouard-philippe-mais-nen-apporte-aucune-preuve-20261013_XKZORPPHBFD2ZI42M2Y6K3UK7M/",
+      "time": "Il y a 1h",
+      "pubDate": 1791882919.0
+    },
+    {
+      "id": "Libération--2997495564944771818",
+      "source": "Libération",
+      "title": "Le PDG de Coopérative U tempère les dégâts de la cyberattaque des frigos de supermarchés",
+      "excerpt": "Dominique Schelcher a affirmé ce mardi sur RTL qu’une minorité des 80 magasins de son groupe touchés par le hacking de lundi, ont dû jeter de la marchandise.",
+      "link": "https://www.liberation.fr/economie/conso/le-pdg-de-cooperative-u-tempere-les-degats-de-la-cyberattaque-des-frigos-de-supermarches-20261013_BJGUXEA4ABAKZMXCKHYJBMKAOQ/",
+      "time": "Il y a 1h",
+      "pubDate": 1791882506.0
+    },
+    {
+      "id": "France Info--8115183718047070359",
+      "source": "France Info",
+      "title": "Exposition au cadmium : seulement 2 160 personnes testées, des médecins réticents et un zonage flou… Pourquoi la campagne de dépistage patine",
+      "excerpt": "L'ouverture du remboursement des tests avait été mise en place après la publication d'une série d'études sanitaires faisant état d'une surexposition de la population française à ce métal lourd cancéri...",
+      "link": "https://www.franceinfo.fr/sante/alimentation/cadmium/enquete-franceinfo-exposition-au-cadmium-seulement-2-160-personnes-testees-des-medecins-reticents-et-un-zonage-flou-pourquoi-la-campagne-de-depistage-patine_8229082.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 1h",
+      "pubDate": 1791882440.0
+    },
+    {
+      "id": "Le Monde--3522770910562606108",
       "source": "Le Monde",
-      "title": "Les députés pérennisent l’utilisation des tickets-restaurant dans les supermarchés",
-      "excerpt": "L’usage de ces titres pour les produits alimentaires est jusqu’ici autorisé par dérogation. L’Assemblée nationale a voté, lundi 12 octobre, la systématisation de cette possibilité au 1ᵉʳ janvier 2028,...",
+      "title": "Les images de l’arraisonnement d’un pétrolier au sud de La Réunion, soupçonné par la France d’appartenir à la flotte fantôme russe",
+      "excerpt": "Des images mises à disposition par l’état-major des armées montrent des membres de la marine française arraisonner un navire « suspecté de naviguer sous un faux pavillon » au sud de La Réunion.",
+      "link": "https://www.lemonde.fr/international/video/2026/10/13/la-france-arraisonne-un-petrolier-au-sud-de-la-reunion-soupconne-d-appartenir-a-la-flotte-fantome-russe_6793076_3210.html",
+      "time": "Il y a 2h",
+      "pubDate": 1791878881.0
+    },
+    {
+      "id": "Le Monde-8793316515837085138",
+      "source": "Le Monde",
+      "title": "EN DIRECT, mouvement lycéen : 90 % des universités sont « bloquées » ou « fermées », selon l’Union étudiante. Suivez la journée de mobilisation en direct",
+      "excerpt": "A Lyon, des étudiants des universités ont rejoint le mouvement lycéen. Mardi, environ 200 lycées pourraient être fermés sur les quelque 3 700, a estimé le ministre de l’éducation nationale sur France...",
+      "link": "https://www.lemonde.fr/societe/live/2026/10/13/en-direct-mouvement-lyceen-de-guingamp-a-paris-des-premiers-etablissements-sont-bloques-pour-cette-nouvelle-journee-de-mobilisation-des-lyceens_6793059_3224.html",
+      "time": "Il y a 2h",
+      "pubDate": 1791877846.0
+    },
+    {
+      "id": "Le Monde--2607447596879478598",
+      "source": "Le Monde",
+      "title": "EN DIRECT, budget 2027 : « La dérive budgétaire de la France est à la fois la conséquence de crises sévères mais aussi de choix budgétaires pas cohérents »",
+      "excerpt": "Les débats autour du projet de loi de finances, qui commencent mardi à l’Assemblée, porteront notamment sur les économies prévues dans la copie transmise au Parlement et s’annoncent tendus, avec un ri...",
+      "link": "https://www.lemonde.fr/politique/live/2026/10/13/en-direct-budget-2027-suivez-les-debats-a-l-assemblee-nationale-ou-les-deputes-commencent-l-examen-du-projet-de-loi-de-finances_6793072_823448.html",
+      "time": "Il y a 2h",
+      "pubDate": 1791876584.0
+    },
+    {
+      "id": "Le Monde-820577905842973103",
+      "source": "Le Monde",
+      "title": "« Etre une femme dans la recherche, c’est problématique. Etre une mère, plus encore » : le coût immense de la maternité pour les jeunes chercheuses",
+      "excerpt": "« La recherche du temps perdu » (3/3). Une chercheuse sur trois quitte la recherche après avoir eu un enfant. Confrontées à une culture académique hostile à la maternité, certaines docteures repoussen...",
+      "link": "https://www.lemonde.fr/campus/article/2026/10/13/etre-une-femme-dans-la-recherche-c-est-problematique-etre-une-mere-plus-encore-le-cout-immense-de-la-maternite-pour-les-jeunes-chercheuses_6793071_4401467.html",
+      "time": "Il y a 3h",
+      "pubDate": 1791874806.0
+    },
+    {
+      "id": "Le Monde-3994376601786779167",
+      "source": "Le Monde",
+      "title": "A quel point ChatGPT a-t-il progressé depuis son lancement ?",
+      "excerpt": "Compréhension, raisonnement, créativité… Les chatbots IA ont franchi en bientôt quatre ans plusieurs paliers importants. Les tests en la matière montrent qu’ils restent toutefois gaffeurs, et que leur...",
+      "link": "https://www.lemonde.fr/pixels/article/2026/10/13/a-quel-point-chatgpt-a-t-il-progresse-depuis-son-lancement_6793064_4408996.html",
+      "time": "Il y a 5h",
+      "pubDate": 1791867611.0
+    },
+    {
+      "id": "France Info--55059948452683241",
+      "source": "France Info",
+      "title": "Infraction sur l'inceste, juridictions spécialisées... Quelles sont les mesures retenues par l'Assemblée nationale dans la proposition de loi intégrale contre les violences sexuelles ?",
+      "excerpt": "Les députés doivent solennellement voter l'ensemble du texte mardi. A l'issue des débats, la semaine dernière, \"on a réussi à préserver l’intégrité\" de la proposition de loi, affirme la rapporteuse gé...",
+      "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/infraction-sur-l-inceste-juridictions-specialisees-quelles-sont-les-mesures-retenues-par-l-assemblee-nationale-dans-la-proposition-de-loi-integrale-contre-les-violences-sexuelles_8233648.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 6h",
+      "pubDate": 1791863022.0
+    },
+    {
+      "id": "France Info-2438511503694087582",
+      "source": "France Info",
+      "title": "\"Les emmerdes commencent\" : les huit défis que Raphaël Glucksmann va devoir relever après sa victoire à la primaire de la gauche",
+      "excerpt": "Désigné dès le premier tour d'un scrutin qu'il voulait initialement éviter, le candidat de Place publique et, désormais, du Parti socialiste doit maintenant rassembler un camp divisé s'il veut rester...",
+      "link": "https://www.franceinfo.fr/elections/presidentielle/les-emmerdes-commencent-les-huit-defis-que-raphael-glucksmann-va-devoir-relever-apres-sa-victoire-a-la-primaire-de-la-gauche_8234041.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 6h",
+      "pubDate": 1791862987.0
+    },
+    {
+      "id": "Le Monde-5438191322506825461",
+      "source": "Le Monde",
+      "title": "Aux Etats-Unis, le recours de Donald Trump au gazole russe, au détriment de l’Ukraine, provoque une vaste controverse",
+      "excerpt": "Le projet du président américain d’importer du diesel russe malgré les sanctions occidentales contre Moscou suscite la fureur de nombre d’élus à Washington, y compris des républicains. A trois semaine...",
+      "link": "https://www.lemonde.fr/international/article/2026/10/13/aux-etats-unis-le-recours-de-donald-trump-au-gazole-russe-au-detriment-de-l-ukraine-provoque-une-vaste-controverse_6793051_3210.html",
+      "time": "Il y a 6h",
+      "pubDate": 1791862292.0
+    },
+    {
+      "id": "Le Monde--2756248352045893496",
+      "source": "Le Monde",
+      "title": "A Beauvais, dans l’univers des vols ultra-low cost de Ryanair : « Je paie 35 euros pour l’aller-retour, mais je n’emporte qu’un petit sac à dos »",
+      "excerpt": "L’aéroport de Paris-Beauvais, première porte d’entrée en France des compagnies aériennes à bas coût les moins chères d’Europe, a vu passer 6,7 millions de voyageurs en 2025. Tous attirés par les tarif...",
+      "link": "https://www.lemonde.fr/economie/article/2026/10/13/a-beauvais-avec-les-passagers-de-ryanair-plongee-dans-l-univers-des-vols-ultra-low-cost-je-paie-35-euros-pour-l-aller-retour-mais-c-est-parce-que-je-n-emporte-qu-un-tout-petit-sac-a-dos_6793049_3234.html",
+      "time": "Il y a 6h",
+      "pubDate": 1791862212.0
+    },
+    {
+      "id": "Le Monde--7668033671850034643",
+      "source": "Le Monde",
+      "title": "La Sécurité sociale particulièrement exposée aux tensions sur la dette française",
+      "excerpt": "La « banque » de la Sécurité sociale se finance principalement à Londres, et exclusivement à court terme. En cas de crise obligataire, elle pourrait être la première affectée.",
+      "link": "https://www.lemonde.fr/economie/article/2026/10/13/la-securite-sociale-particulierement-exposee-aux-tensions-sur-la-dette-francaise_6793047_3234.html",
+      "time": "Il y a 6h",
+      "pubDate": 1791862201.0
+    },
+    {
+      "id": "Le Monde-6231328889608839049",
+      "source": "Le Monde",
+      "title": "Les séries de la semaine : « La Diplomate », « Below », « VisionQuest » et « Crystal Lake »",
+      "excerpt": "Chaque mardi, La Matinale propose une sélection de séries à (re)découvrir sur petit écran. Aujourd’hui, notamment, une production s’inspirant de la recette des « Dents de la mer ».",
+      "link": "https://www.lemonde.fr/culture/article/2026/10/13/les-series-de-la-semaine-la-diplomate-below-visioquest-et-crystal-lake_6793044_3246.html",
+      "time": "Il y a 7h",
+      "pubDate": 1791860419.0
+    },
+    {
+      "id": "Le Monde--2147084042099011237",
+      "source": "Le Monde",
+      "title": "L’utilisation des titres-restaurant dans les supermarchés pérennisée par les députés",
+      "excerpt": "L’usage de ces titres pour les produits alimentaires est jusqu’ici autorisé par dérogation. L’Assemblée nationale a voté, lundi 12 octobre, la systématisation de cette possibilité au 1ᵉʳ janvier 2028,...",
       "link": "https://www.lemonde.fr/economie/article/2026/10/13/les-deputes-perennisent-l-utilisation-des-tickets-restaurant-dans-les-supermarches_6793010_3234.html",
-      "time": "Il y a 10 min",
-      "pubDate": 1791860413.0
-    },
-    {
-      "id": "Le Monde--831478839799511530",
-      "source": "Le Monde",
-      "title": "Le FMI pointe un net décrochage de l’économie française",
-      "excerpt": "Selon les prévisions du Fonds monétaire international publiées mardi 13 octobre, la hausse du PIB ne devrait pas dépasser 0,4 % en 2026 contre 0,9 % en 2025.",
-      "link": "https://www.lemonde.fr/economie/article/2026/10/13/le-fmi-pointe-un-net-decrochage-de-l-economie-francaise_6792976_3234.html",
-      "time": "Il y a 1h",
-      "pubDate": 1791856810.0
-    },
-    {
-      "id": "Le Monde--2577713433030591631",
-      "source": "Le Monde",
-      "title": "Exécution en direct aux Etats-Unis : le speaker républicain Mike Johnson émet à son tour des réserves",
-      "excerpt": "Le président de la Chambre des représentants craint que la diffusion en direct de l’exécution par l’armée américaine de l’auteur musulman d’une tuerie sur une base militaire du Texas en 2009 serve « d...",
-      "link": "https://www.lemonde.fr/international/article/2026/10/13/execution-en-direct-aux-etats-unis-le-speaker-republicain-mike-johnson-emet-a-son-tour-des-reserves_6792942_3210.html",
-      "time": "Il y a 1h",
-      "pubDate": 1791854292.0
-    },
-    {
-      "id": "Le Monde-1831516769329469416",
-      "source": "Le Monde",
-      "title": "EN DIRECT, guerre en Ukraine : à Kiev, une attaque de drone russe contre un immeuble résidentiel fait deux morts",
-      "excerpt": "Le drone a frappé un bâtiment de 25 étages entre le 12ᵉ et le 16ᵉ étages, selon le maire de la capitale ukrainienne. L’engin a tué une femme de 59 ans et une personne qui se trouvait dans une voiture...",
-      "link": "https://www.lemonde.fr/international/live/2026/10/13/en-direct-guerre-en-ukraine-a-kiev-une-attaque-de-drone-russe-contre-un-immeuble-residentiel-fait-deux-morts_6791198_3210.html",
-      "time": "Il y a 4h",
-      "pubDate": 1791845543.0
-    },
-    {
-      "id": "Le Monde-444290696095675197",
-      "source": "Le Monde",
-      "title": "Au Royaume-Uni, les accusations tous azimuts du premier ministre contre l’Iran et la Russie",
-      "excerpt": "Andy Burnham a fait, lundi, un pas supplémentaire pour pointer la responsabilité de l’Iran dans l’incident survenu fin septembre aux abords d’une base militaire et relancé le débat sur les interférenc...",
-      "link": "https://www.lemonde.fr/international/article/2026/10/13/au-royaume-uni-les-accusations-tous-azimuts-du-premier-ministre-contre-l-iran-et-la-russie_6792842_3210.html",
-      "time": "Il y a 4h",
-      "pubDate": 1791843324.0
-    },
-    {
-      "id": "France Info--8402222531797427058",
-      "source": "France Info",
-      "title": "Avancer ou reculer l'âge légal, changer la durée de cotisation, capitalisation… Ce que proposent les candidats à la présidentielle pour les retraites",
-      "excerpt": "L'avenir du système des retraites s'annonce comme un enjeu majeur de la prochaine élection présidentielle. Alors que certains candidats veulent revenir sur la dernière réforme et abaisser l'âge de dép...",
-      "link": "https://www.franceinfo.fr/economie/retraite/avancer-ou-reculer-l-age-legal-changer-la-duree-de-cotisation-capitalisation-ce-que-proposent-les-candidats-a-la-presidentielle-pour-les-retraites_8234524.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 5h",
-      "pubDate": 1791842674.0
-    },
-    {
-      "id": "Libération-1556912888242680419",
-      "source": "Libération",
-      "title": "Oxfam dépose un recours en justice contre l’Etat pour inégalité devant l’impôt",
-      "excerpt": "Estimant que la pratique administrative ne garantit pas une imposition progressive des citoyens en France, l’ONG a lancé lundi 12 octobre une procédure au tribunal.",
-      "link": "https://www.liberation.fr/economie/oxfam-depose-un-recours-en-justice-contre-letat-pour-inegalite-devant-limpot-20261013_7EK552N6H5HUZCNFMISZXCR5A4/",
-      "time": "Il y a 5h",
-      "pubDate": 1791842460.0
-    },
-    {
-      "id": "Le Monde-706331665979291426",
-      "source": "Le Monde",
-      "title": "« Les plus riches s’achètent le privilège de ne pas être soumis aux mêmes règles » : Oxfam attaque l’Etat en justice pour « rupture d’égalité face à l’impôt »",
-      "excerpt": "Oxfam France a engagé, lundi 12 octobre, une action en justice contre l’Etat. Le système fiscal actuel « ne garantit plus suffisamment » l’égalité devant l’impôt, estime l’ONG dirigée par l’ancienne m...",
-      "link": "https://www.lemonde.fr/politique/article/2026/10/13/les-plus-riches-s-achetent-le-privilege-de-ne-pas-etre-soumis-aux-memes-regles-oxfam-attaque-l-etat-en-justice-pour-rupture-d-egalite-face-a-l-impot_6792809_823448.html",
-      "time": "Il y a 5h",
-      "pubDate": 1791842408.0
-    },
-    {
-      "id": "France Info-728205596141381894",
-      "source": "France Info",
-      "title": "L'acteur américain RJ Mitte, connu pour avoir joué le fils de Walter White dans Breaking Bad est mort à l'âge de 34 ans",
-      "excerpt": "Atteint de paralysie cérébrale, comme son personnage à l’écran, RJ Mitte était devenu une figure de la défense des droits des personnes handicapées.",
-      "link": "https://www.franceinfo.fr/culture/tv/l-acteur-americain-rj-mitte-connu-pour-avoir-joue-le-fils-de-walter-white-dans-breaking-bad-est-mort-a-l-age-de-34-ans_8234557.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 5h",
-      "pubDate": 1791841474.0
-    },
-    {
-      "id": "France Info-2971057471113114192",
-      "source": "France Info",
-      "title": "\"Naza\", le documentaire qui secoue Israël",
-      "excerpt": "Sorti en France lundi 12 octobre, le documentaire primé à la Mostra de Venise a ému les spectateurs rencontrés dans la soirée. Le film suit le point de vue de plusieurs membres de l'armée israélienne...",
-      "link": "https://www.franceinfo.fr/monde/israel/naza-le-documentaire-qui-secoue-israel_8234548.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 5h",
-      "pubDate": 1791839883.0
-    },
-    {
-      "id": "Le Monde-5712537648724843184",
-      "source": "Le Monde",
-      "title": "Joseph Kabila, ex-président de la République démocratique du Congo, prend la tête d’un mouvement politico-militaire incluant les rebelles du M23",
-      "excerpt": "Condamné à mort par contumace en 2025, l’ancien chef de l’Etat a été désigné à Goma, alors que l’opposition accuse l’actuel président, Félix Tshisekedi, de vouloir modifier la Constitution pour brigue...",
-      "link": "https://www.lemonde.fr/afrique/article/2026/10/12/joseph-kabila-ex-president-de-la-republique-democratique-du-congo-prend-la-tete-d-un-mouvement-politico-militaire-incluant-les-rebelles-du-m23_6792805_3212.html",
-      "time": "Il y a 6h",
-      "pubDate": 1791837703.0
-    },
-    {
-      "id": "France Info--1050479854776755844",
-      "source": "France Info",
-      "title": "Des manifestations dans de nombreuses villes, un concours de médecine menacé... A quoi faut-il s'attendre mardi, pour la nouvelle journée de mobilisation des lycéens ?",
-      "excerpt": "Outre les manifestations, un appel à la grève a été lancé au-delà des métiers de l'enseignement par les syndicats. L'ampleur de la mobilisation demeure cependant incertaine.",
-      "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/des-manifestations-dans-de-nombreuses-villes-un-concours-de-medecine-menace-a-quoi-faut-il-s-attendre-mardi-pour-la-nouvelle-journee-de-mobilisation-des-lyceens_8233372.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 6h",
-      "pubDate": 1791836055.0
-    },
-    {
-      "id": "Libération--4325797117386280177",
-      "source": "Libération",
-      "title": "Les tickets-restos resteront utilisables en supermarché, les restaurateurs inquiets",
-      "excerpt": "Pour la troisième fois depuis 2023, le moyen de paiement revenait dans l’hémicycle avec pour enjeu principal la pérennisation d’une mesure instaurée en 2022 : la possibilité d’utiliser ses tickets pou...",
-      "link": "https://www.liberation.fr/economie/conso/les-tickets-restos-resteront-utilisables-en-supermarche-les-restaurateurs-inquiets-20261012_VEY2FKSVLFEGJJKEEBJH4UZS5U/",
       "time": "Il y a 7h",
-      "pubDate": 1791835069.0
-    },
-    {
-      "id": "Libération-4430774251172573154",
-      "source": "Libération",
-      "title": "Prix du gazole : Lecornu assure que la baisse sera visible «dès le 1er novembre»",
-      "excerpt": "Le Premier ministre a reçu lundi matin les distributeurs de carburant pour leur demander de répercuter la baisse attendue des prix à la pompe, entre 12 et 18 centimes du litre, après le déstockage de...",
-      "link": "https://www.liberation.fr/economie/transports/prix-du-gazole-lecornu-assure-que-la-baisse-sera-visible-des-le-1er-novembre-20261012_4YWSH5SNOJBHXAZTAZBILCBLIU/",
-      "time": "Il y a 7h",
-      "pubDate": 1791833802.0
-    },
-    {
-      "id": "France Info--2832557133867444540",
-      "source": "France Info",
-      "title": "L'Assemblée nationale a adopté un texte pérennisant l'utilisation des Tickets-resto en supermarché",
-      "excerpt": "Examinée selon la procédure accélérée, la proposition de loi, adoptée par 87 voix pour et aucune contre, doit désormais être transmise au Sénat.",
-      "link": "https://www.franceinfo.fr/economie/l-assemblee-nationale-a-adopte-un-texte-perennisant-l-utilisation-des-tickets-resto-en-supermarche_8234434.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 7h",
-      "pubDate": 1791833734.0
-    },
-    {
-      "id": "Libération-1013474126433300289",
-      "source": "Libération",
-      "title": "Au Mondial de l’automobile, Emmanuel Macron poursuit son bras de fer contre la Chine avec l’aide de Berlin",
-      "excerpt": "Alors que les constructeurs chinois sont venus en nombre, le Président a défendu, ce lundi 12 octobre, l’accord imminent avec l’Allemagne pour consacrer le «made in Europe». Le tout au cœur d’une séqu...",
-      "link": "https://www.liberation.fr/economie/transports/au-mondial-de-lautomobile-emmanuel-macron-poursuit-son-bras-de-fer-contre-la-chine-avec-laide-de-berlin-20261012_XHIYFGU32VA4XBIKY2SQV63UWY/",
-      "time": "Il y a 7h",
-      "pubDate": 1791832826.0
-    },
-    {
-      "id": "France Info--2655919840194852764",
-      "source": "France Info",
-      "title": "Le Premier ministre promet aux automobilistes \"environ dix euros d'économies à chaque plein\" grâce au recours aux stocks stratégiques",
-      "excerpt": "Après avoir reçu les distributeurs dans la matinée, Sébastien Lecornu a détaillé lundi les modalités de cette baisse des prix prévue à partir du 1er novembre.",
-      "link": "https://www.franceinfo.fr/economie/automobile/essence/le-premier-ministre-promet-aux-automobilistes-environ-dix-euros-d-economies-a-chaque-plein-grace-au-recours-aux-stocks-strategiques_8234452.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 7h",
-      "pubDate": 1791832639.0
-    },
-    {
-      "id": "Libération-867721010735930982",
-      "source": "Libération",
-      "title": "Comment Raphaël Glucksmann peut-il transformer sa victoire à la primaire en dynamique de campagne ?",
-      "excerpt": "Si le leader de Place publique a été adoubé par les électeurs socialistes dimanche 11 octobre, les défis s’amoncellent déjà à l’orée de sa campagne pour 2027. A commencer par l’espace à laisser à ses...",
-      "link": "https://www.liberation.fr/politique/comment-raphael-glucksmann-peut-il-transformer-sa-victoire-a-la-primaire-en-dynamique-de-campagne-20261012_IVZDIXG2ZZBC5MB4TR56TIXI2Q/",
-      "time": "Il y a 8h",
-      "pubDate": 1791831850.0
-    },
-    {
-      "id": "Libération--5094617695716084439",
-      "source": "Libération",
-      "title": "Mouvement lycéen et budget 2027 : deux fronts pour sauver l’avenir des jeunes",
-      "excerpt": "A la veille des vacances de la Toussaint, la mobilisation lycéenne se poursuit ce mardi 13 octobre alors que débute l’examen du budget 2027. Deux actualités qui posent, chacun à leur manière, la quest...",
-      "link": "https://www.liberation.fr/idees-et-debats/mouvement-lyceen-et-budget-2027-deux-fronts-pour-sauver-lavenir-des-jeunes-20261012_GFXPY7AYPJFEZK3KCPR4P5STUY/",
-      "time": "Il y a 8h",
-      "pubDate": 1791830996.0
-    },
-    {
-      "id": "Libération--7431128035156225571",
-      "source": "Libération",
-      "title": "«Pâle copie» de Sam Riviere : des lettres à l’ère du post",
-      "excerpt": "L’auteur britannique est traduit pour la première fois en français dans une nouvelle collection dédiée à la culture Internet et à ce que le scroll fait au langage.",
-      "link": "https://www.liberation.fr/culture/livres/pale-copie-de-sam-riviere-des-lettres-a-lere-du-post-20261012_OUDIDCWGFFEKBGSBQXKYNUIXFY/",
-      "time": "Il y a 8h",
-      "pubDate": 1791830862.0
-    },
-    {
-      "id": "Libération--5866646356123264267",
-      "source": "Libération",
-      "title": "Sophie Binet : «Ce budget tourne le dos à notre jeunesse»",
-      "excerpt": "Dans un entretien à «Libé», la secrétaire générale de la CGT salue la «lucidité» des lycéens mobilisés, dénonce les coups de rabot sociaux contenus dans le projet de loi de finances et demande qu’on s...",
-      "link": "https://www.liberation.fr/economie/social/sophie-binet-ce-budget-tourne-le-dos-a-notre-jeunesse-20261012_HWA27774AVDDFLO4EGDHGVWKNQ/",
-      "time": "Il y a 8h",
-      "pubDate": 1791830829.0
-    },
-    {
-      "id": "Libération-5708579374648937953",
-      "source": "Libération",
-      "title": "«Si ça dérive vers le macronisme, ce sera sans moi» : au lendemain de sa défaite, Royal menace déjà de ne pas faire la campagne de Glucksmann",
-      "excerpt": "L’ancienne ministre, qui s’est largement opposée au candidat désigné par le PS et Place publique pour la présidentielle lors de la primaire, a conditionné son soutien à venir au représentant social-dé...",
-      "link": "https://www.liberation.fr/politique/si-ca-derive-vers-le-macronisme-ce-sera-sans-moi-au-lendemain-de-sa-defaite-royal-menace-deja-de-ne-pas-soutenir-glucksmann-20261012_DXS3WXOHEJFL3BW3AETNL4ZP3Q/",
-      "time": "Il y a 8h",
-      "pubDate": 1791830749.0
-    },
-    {
-      "id": "Le Monde--8510349224464442939",
-      "source": "Le Monde",
-      "title": "A Aubagne, un élève tire sur un principal et une professeure : « Maman, il y a un tueur dans le collège »",
-      "excerpt": "Un adolescent de 14 ans a fait feu après avoir introduit un fusil de chasse dans l’enceinte du collège Joseph-Lakanal. Un « périple meurtrier » dont le mobile reste à établir.",
-      "link": "https://www.lemonde.fr/societe/article/2026/10/12/maman-il-y-a-un-tueur-dans-le-college-a-aubagne-un-eleve-tire-sur-un-principal-et-une-professeure_6792800_3224.html",
-      "time": "Il y a 8h",
-      "pubDate": 1791829916.0
-    },
-    {
-      "id": "Libération--4703773044610760513",
-      "source": "Libération",
-      "title": "«Une demande du public à laquelle personne ne répond aujourd’hui» : Matthieu Pigasse espère une chaîne TNT pour son groupe Combat",
-      "excerpt": "Le banquier d’affaires de gauche devra convaincre l’Arcom, qui vient de lancer un appel à candidatures pour le renouvellement de six fréquences fin 2027. Mais la concurrence devrait être rude, les cha...",
-      "link": "https://www.liberation.fr/economie/medias/une-demande-du-public-a-laquelle-personne-ne-repond-aujourdhui-matthieu-pigasse-espere-une-chaine-tnt-pour-son-groupe-combat-20261012_KUTORMVJWFBE5AADGAWF7EZ2NU/",
-      "time": "Il y a 8h",
-      "pubDate": 1791829351.0
-    },
-    {
-      "id": "Le Monde-1443726486672516260",
-      "source": "Le Monde",
-      "title": "Dans les supermarchés français, une journée noire après une cyberattaque massive visant des systèmes frigorifiques",
-      "excerpt": "Les congélateurs et chambres froides de plusieurs centaines de magasins ont surchauffé pendant la nuit du 11 au 12 octobre, provoquant des tonnes de pertes de marchandises. La faille, issue d’un logic...",
-      "link": "https://www.lemonde.fr/economie/article/2026/10/12/journee-noire-dans-les-supermarches-francais-apres-une-cyberattaque-massive_6792763_3234.html",
-      "time": "Il y a 9h",
-      "pubDate": 1791826185.0
-    },
-    {
-      "id": "France Info--60307402211997415",
-      "source": "France Info",
-      "title": "Cinq questions sur les frappes des houthis du Yémen à Riyad et dans le reste de l'Arabie saoudite, qui mettent le royaume en difficulté",
-      "excerpt": "Les opérations sont toujours suspendues à l'aéroport international de Riyad, lundi, après une série de frappes imputées à ce groupe de rebelles yéménites alliés à l'Iran.",
-      "link": "https://www.franceinfo.fr/monde/proche-orient/yemen/cinq-questions-sur-les-frappes-des-houthis-du-yemen-a-riyad-et-dans-le-reste-de-l-arabie-saoudite-qui-mettent-le-royaume-en-difficulte_8233591.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 10h",
-      "pubDate": 1791824415.0
-    },
-    {
-      "id": "Le Monde-7262231821203606351",
-      "source": "Le Monde",
-      "title": "Carburants : le prix du gazole devrait baisser d’une dizaine de centimes chez TotalEnergies grâce au déstockage",
-      "excerpt": "Moins ambitieux que la fourchette de 12 à 18 centimes avancée par Matignon, Patrick Pouyanné s’engage aussi à faire baisser de 20 centimes le gazole non routier utilisé par les agriculteurs et le BTP.",
-      "link": "https://www.lemonde.fr/economie/article/2026/10/12/carburants-le-prix-du-gazole-devrait-baisser-d-une-dizaine-de-centimes-chez-totalenergies-grace-au-destockage_6792695_3234.html",
-      "time": "Il y a 10h",
-      "pubDate": 1791823976.0
-    },
-    {
-      "id": "France Info-4429703987174518299",
-      "source": "France Info",
-      "title": "Vous comptez manifester samedi 17 octobre ? Expliquez-nous pourquoi",
-      "excerpt": "L'appel à la mobilisation ressemble également à \"Bloquons tout\", qui s'était organisé partout dans le pays le 10 septembre 2025. Avec une particularité toutefois : il s'inscrit en pleine mobilisation...",
-      "link": "https://www.franceinfo.fr/economie/greve/appel-a-temoignages-vous-comptez-manifester-samedi-17-octobre-expliquez-nous-pourquoi_8233978.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 10h",
-      "pubDate": 1791822708.0
-    },
-    {
-      "id": "France Info-8592870709718130686",
-      "source": "France Info",
-      "title": "Un suspect de 14 ans, un principal et une professeure blessés... Ce que l'on sait des tirs par arme à feu dans un collège d'Aubagne",
-      "excerpt": "L'adolescent suspecté d'avoir tiré a été rapidement interpellé. Les ministres de l'Intérieur, Laurent Nuñez, et de l'Education, Edouard Geffray, se sont rendus sur place lundi après-midi.",
-      "link": "https://www.franceinfo.fr/faits-divers/un-suspect-de-14-ans-un-principal-et-une-professeure-blesses-ce-que-l-on-sait-des-tirs-par-arme-a-feu-dans-un-college-d-aubagne_8233699.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 11h",
-      "pubDate": 1791820967.0
-    },
-    {
-      "id": "France Info-7268293471092349339",
-      "source": "France Info",
-      "title": "Des magasins Système U, Intermarché, E.Leclerc et Monoprix touchés par une cyberattaque contre leurs installations frigorifiques",
-      "excerpt": "Les perturbations concernent les meubles réfrigérés de l'entreprise danoise Danfoss, qui assure que les appareils visés sont obsolètes. Le Premier ministre, Sébastien Lecornu, a saisi l'Agence nationa...",
-      "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-magasins-systeme-u-et-intermarche-touches-par-une-cyberattaque-contre-leurs-installations-frigorifiques_8233720.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 12h",
-      "pubDate": 1791815332.0
+      "pubDate": 1791860407.0
     }
   ],
   "anglophone": [
     {
-      "id": "BBC News--4259604654358552603",
-      "source": "BBC News",
-      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-      "excerpt": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
-      "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 1h",
-      "pubDate": 1791854762.0
+      "id": "The Guardian--8897601540222575075",
+      "source": "The Guardian",
+      "title": "How a scandal engulfing Brazil’s top court could return the Bolsonaros to power",
+      "excerpt": "The judge who helped convict Jair Bolsonaro is caught up in a crisis that could benefit his son and damage Lula <ul><li><a href=\"https://www.theguardian.com/world/2026/oct/10/marina-silva-flavio-bolso...",
+      "link": "https://www.theguardian.com/world/2026/oct/13/scandal-brazil-court-jair-flavio-bolsonaro-power-election-moraes-lula",
+      "time": "Il y a 28 min",
+      "pubDate": 1791885605.0
     },
     {
-      "id": "BBC News--8526620882843332687",
+      "id": "BBC News--4814587963265893369",
+      "source": "BBC News",
+      "title": "US emergency call records reveal confusion after failed execution of Christa Pike",
+      "excerpt": "The killer of Colleen Slemmer was ultimately taken to hospital after two doses of lethal injection did not kill her.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1exg6qjdz3o?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 1h",
+      "pubDate": 1791882668.0
+    },
+    {
+      "id": "NPR-549872221679199780",
+      "source": "NPR",
+      "title": "Win or lose, independent candidates want to meet voters in the middle",
+      "excerpt": "Nearly 200 independent candidates in more than 100 congressional races are trying to prove there's an alternative to the two party system — even though the chance of winning is very low.",
+      "link": "https://www.npr.org/2026/10/13/nx-s1-5994388/2026-elections-midterm-independent-candidates",
+      "time": "Il y a 1h",
+      "pubDate": 1791882000.0
+    },
+    {
+      "id": "NPR-8738381130403110527",
+      "source": "NPR",
+      "title": "Polls are a snapshot, and other helpful things to remember during the midterm elections",
+      "excerpt": "With Election Day just a few weeks away — and millions of votes already cast — midterm polls are everywhere. While polling can be a helpful tool to understand the electorate, it's not a crystal ball.",
+      "link": "https://www.npr.org/2026/10/13/nx-s1-5996916/2026-election-midterms-polls-horse-race",
+      "time": "Il y a 1h",
+      "pubDate": 1791882000.0
+    },
+    {
+      "id": "NPR--4028617270522987548",
+      "source": "NPR",
+      "title": "Should states force cities to build cheaper houses? Voters here will decide",
+      "excerpt": "Voters in Massachusetts will decide whether to require cities and towns to allow smaller homes on smaller lots. A growing number of states are doing the same to help ease a housing shortage.",
+      "link": "https://www.npr.org/2026/10/13/nx-s1-5979839/massachusetts-starter-homes-ballot-affordability",
+      "time": "Il y a 1h",
+      "pubDate": 1791882000.0
+    },
+    {
+      "id": "NPR-5304317539992163396",
+      "source": "NPR",
+      "title": "One way to protect coral reefs? Bring back seabirds",
+      "excerpt": "Coral reefs are facing increasing threats around the globe. But on a remote Pacific island, scientists have found that reefs can get help from a surprising ally: seabirds.",
+      "link": "https://www.npr.org/2026/10/13/nx-s1-5901320/coral-reefs-palmyra-atoll-birds-restoration",
+      "time": "Il y a 1h",
+      "pubDate": 1791882000.0
+    },
+    {
+      "id": "BBC News--1194236331625236667",
+      "source": "BBC News",
+      "title": "Ship sinks in new drone attack off Bulgaria, PM summons Russian ambassador",
+      "excerpt": "Bulgaria's prime minister says two merchant ships were hit by drones and he suspects Russia was behind the attacks.",
+      "link": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 1h",
+      "pubDate": 1791881568.0
+    },
+    {
+      "id": "NPR--6488638982664169002",
+      "source": "NPR",
+      "title": "Morning news brief",
+      "excerpt": "Trump will headline a rally in Alaska Tuesday, federal agents searched Rep. Ilhan Omar's D.C. home Monday, Trump's diesel deal with Russia frustrates European leaders.",
+      "link": "https://www.npr.org/2026/10/13/nx-s1-5998694/morning-news-brief",
+      "time": "Il y a 1h",
+      "pubDate": 1791881182.0
+    },
+    {
+      "id": "BBC News--7187125885777653420",
       "source": "BBC News",
       "title": "Breaking Bad actor RJ Mitte dies aged 34",
       "excerpt": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
       "link": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
       "time": "Il y a 2h",
-      "pubDate": 1791850345.0
+      "pubDate": 1791878614.0
     },
     {
-      "id": "NPR-107947740619909425",
+      "id": "BBC News--3248825237448180255",
+      "source": "BBC News",
+      "title": "India 'cockroach' leaders detained after entering barricaded protest site",
+      "excerpt": "Protesters climbed over barricades in central Delhi to demand the election chief resign over revised voter lists.",
+      "link": "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 2h",
+      "pubDate": 1791876670.0
+    },
+    {
+      "id": "The Guardian--5452810847124371122",
+      "source": "The Guardian",
+      "title": "Latin American organised crime ‘may operate in 16 European countries’",
+      "excerpt": "Cocaine seizures in Europe are up more than fivefold in 10 years as a host of cartels take root. A four-month Guardian investigation reveals the true scale of a continent-wide shift A four-month inves...",
+      "link": "https://www.theguardian.com/global-development/2026/oct/13/latin-america-organised-crime-cartels-drugs-cocaine-europe",
+      "time": "Il y a 3h",
+      "pubDate": 1791874818.0
+    },
+    {
+      "id": "NPR-2392003202635751810",
       "source": "NPR",
-      "title": "New White House press secretary a \"devoted fan\" of Trump and MAGA",
+      "title": "DNA and vehicle-tracking help French investigators recover stolen Renoirs",
+      "excerpt": "DNA left on a protective painting cover helped investigators recover two stolen Renoirs and uncover what they suspected were preparations for another art heist, a French prosecutor said Monday.",
+      "link": "https://www.npr.org/2026/10/13/g-s1-147818/france-stolen-renoirs-recovered",
+      "time": "Il y a 4h",
+      "pubDate": 1791870148.0
+    },
+    {
+      "id": "BBC News--1517556759810383582",
+      "source": "BBC News",
+      "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
+      "excerpt": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
+      "link": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 5h",
+      "pubDate": 1791867754.0
+    },
+    {
+      "id": "The Guardian--3706023821136675718",
+      "source": "The Guardian",
+      "title": "Hurricane Simon and Tropical Storm Rachel kill five people on Mexico’s Pacific coast",
+      "excerpt": "Security forces use helicopters to rescue dozens of people as the two storms damage infrastructure and cause flash flooding At least five people have died after Hurricane Simon and Tropical Storm Rach...",
+      "link": "https://www.theguardian.com/world/2026/oct/13/mexico-hurricane-simon-tropical-storm-rachel-kill-five-pacific-coast",
+      "time": "Il y a 5h",
+      "pubDate": 1791865786.0
+    },
+    {
+      "id": "BBC News--8484038785976083215",
+      "source": "BBC News",
+      "title": "Watch: US man eyes pumpkin world record after fifth contest win",
+      "excerpt": "Horticulture teacher Travis Gienger hauled his pumpkin from Minnesota to Half Moon Bay, California where he won the annual event.",
+      "link": "https://www.bbc.co.uk/news/videos/c80405zkgyqvo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 6h",
+      "pubDate": 1791864297.0
+    },
+    {
+      "id": "The Guardian--2585741386966908805",
+      "source": "The Guardian",
+      "title": "Argentina temporarily closes Iguazu Falls after El Niño-fuelled surge in water levels",
+      "excerpt": "National park officials took the precautionary measure to limit tourist access after heavy rain caused the Iguazu River to flow at six times the normal rate Heavy rainfall fuelled by a <a href=\"https:...",
+      "link": "https://www.theguardian.com/world/2026/oct/13/argentina-iguazu-falls-temporarily-closed-el-nino-water-levels",
+      "time": "Il y a 7h",
+      "pubDate": 1791860628.0
+    },
+    {
+      "id": "BBC News--1977458038255216597",
+      "source": "BBC News",
+      "title": "One dead and several hurt after rollercoaster incident at Six Flags",
+      "excerpt": "Aerial footage at the park after the incident shows a stuck rollercoaster with riders being helped off.",
+      "link": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 8h",
+      "pubDate": 1791858381.0
+    },
+    {
+      "id": "NPR-7173681210528865150",
+      "source": "NPR",
+      "title": "New White House press secretary a 'devoted fan' of Trump and MAGA",
       "excerpt": "Katie Zacharia worked for one of Trump's companies and raised her profile appearing on conservative-leaning talk shows. She also amplified right-wing conspiracy theories. Now she'll be the president's...",
       "link": "https://www.npr.org/2026/10/12/nx-s1-5998948/new-white-house-press-secretary-a-devoted-fan-of-trump-and-maga",
-      "time": "Il y a 4h",
+      "time": "Il y a 12h",
       "pubDate": 1791843463.0
     },
     {
-      "id": "NPR-216010297204772220",
+      "id": "NPR--3014577361299802990",
       "source": "NPR",
       "title": "Government spent $10 million on pro-Trump ads after president said super PAC would fund",
       "excerpt": "Nearly $22 million in taxpayers funds has been spent to air the ads, with nearly half spent after Trump promised to fund what the White House calls public service announcements through his super PAC.",
       "link": "https://www.npr.org/2026/10/12/nx-s1-5998976/pro-trump-ads-taxpayer-funds-federal-judge",
-      "time": "Il y a 4h",
+      "time": "Il y a 12h",
       "pubDate": 1791843407.0
     },
     {
-      "id": "BBC News--1995638584845501116",
-      "source": "BBC News",
-      "title": "Immigration agents search congresswoman Ilhan Omar's home",
-      "excerpt": "Omar, an outspoken Trump critic, said the search was \"an attempt to target political enemies\" and she \"will not be silenced\".",
-      "link": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 5h",
-      "pubDate": 1791842731.0
-    },
-    {
-      "id": "The Guardian-2590002692569831258",
+      "id": "The Guardian--8367877962616830952",
       "source": "The Guardian",
       "title": "Bolivia investigates ex-president Evo Morales over alleged ties to 2009 killings",
       "excerpt": "Leftist former leader accused of involvement in shooting of three Europeans in Santa Cruz and torture of two others Bolivia’s attorney general has announced an investigation into leftist former presid...",
       "link": "https://www.theguardian.com/world/2026/oct/12/bolivia-investigates-ex-president-evo-morales-2009-killings",
-      "time": "Il y a 5h",
+      "time": "Il y a 12h",
       "pubDate": 1791841251.0
     },
     {
-      "id": "BBC News--5161015297834467880",
+      "id": "BBC News--1579390372556483733",
       "source": "BBC News",
       "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
       "excerpt": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
       "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 5h",
+      "time": "Il y a 13h",
       "pubDate": 1791840051.0
     },
     {
-      "id": "BBC News-1361857465377168393",
-      "source": "BBC News",
-      "title": "Qantas flight grounded after bedbug outbreak",
-      "excerpt": "The flight from Italy to Australia was cancelled after passengers on the plane's previous journey complained of bug bites.",
-      "link": "https://www.bbc.co.uk/news/articles/cr62yzypnw7no?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 6h",
-      "pubDate": 1791838905.0
-    },
-    {
-      "id": "BBC News-3789035838893515039",
-      "source": "BBC News",
-      "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-      "excerpt": "While Ukraine's Volodymyr Zelensky suggests he would sign up to a ceasefire on energy infrastructure, Russia has said little.",
-      "link": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 6h",
-      "pubDate": 1791836257.0
-    },
-    {
-      "id": "BBC News--1351931672217568361",
-      "source": "BBC News",
-      "title": "Fridges in French supermarkets hit by cyber attack",
-      "excerpt": "Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros.",
-      "link": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 8h",
-      "pubDate": 1791829892.0
-    },
-    {
-      "id": "NPR--7234099753998446936",
+      "id": "NPR--8428760489772019229",
       "source": "NPR",
-      "title": "Federal agents search Rep. Ilhan Omar's DC home, DOJ says it approved the warrant",
-      "excerpt": "The Justice Department says the search is part of an \"ongoing federal investigation\", while Omar calls it \"an attempt to target political enemies\"",
+      "title": "Actor Selma Blair removed from plane by police after altercation",
+      "excerpt": "Authorities say Blair was physically abusive and injured two flight attendants while traveling from Los Angeles to New York. A Blair representative said she had a medical emergency aboard the plane.",
+      "link": "https://www.npr.org/2026/10/12/nx-s1-5998945/actor-selma-blair-removed-from-plane-by-police-after-altercation",
+      "time": "Il y a 14h",
+      "pubDate": 1791836322.0
+    },
+    {
+      "id": "NPR-2055226633799667088",
+      "source": "NPR",
+      "title": "Federal agents search Rep. Ilhan Omar's DC home, DOJ says it's part of criminal investigation",
+      "excerpt": "The Justice Department says the search is part of an \"ongoing federal investigation,\" while Omar calls it \"an attempt to target political enemies\"",
       "link": "https://www.npr.org/2026/10/12/nx-s1-5998856/federal-agents-search-congressperson-home-dc-doj",
-      "time": "Il y a 9h",
+      "time": "Il y a 17h",
       "pubDate": 1791825437.0
     },
     {
-      "id": "BBC News--9088691069912577997",
+      "id": "BBC News-923676629976768882",
       "source": "BBC News",
       "title": "South Africa's deputy police chief resigns after being charged with sexual offences",
       "excerpt": "Shadrack Sibiya had denied grooming a 16-year-old and raping an 18-year-old.",
       "link": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 10h",
+      "time": "Il y a 17h",
       "pubDate": 1791823609.0
     },
     {
-      "id": "NPR-4871231842694187842",
-      "source": "NPR",
-      "title": "India's opposition parties march to top court as protests over voter lists escalate",
-      "excerpt": "Opposition parties say revisions to the list of eligible voters favor Prime Minister Narendra Modi's party. Authorities have removed more than 130 million names from the voter roll.",
-      "link": "https://www.npr.org/2026/10/12/nx-s1-5998831/india-opposition-protests",
-      "time": "Il y a 11h",
-      "pubDate": 1791820914.0
-    },
-    {
-      "id": "BBC News-1333180643881603320",
-      "source": "BBC News",
-      "title": "Tom Cruise film Digger forecast to become one of Hollywood's biggest flops",
-      "excerpt": "The film dropped by around 60% in its second weekend, and could become one of Hollywood's biggest flops.",
-      "link": "https://www.bbc.co.uk/news/articles/cke8re5v1pgmo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 12h",
-      "pubDate": 1791814287.0
-    },
-    {
-      "id": "The Guardian--7904232813671659632",
-      "source": "The Guardian",
-      "title": "Fugitive businessman taken into US custody in Venezuela bribery case",
-      "excerpt": "A businessman wanted in the US for allegedly bribing top Venezuelan officials has been taken into custody A businessman wanted for years in the <a href=\"https://www.theguardian.com/us-news\">US</a> for...",
-      "link": "https://www.theguardian.com/us-news/2026/oct/12/fugitive-venezuela-bribery-case",
-      "time": "Il y a 13h",
-      "pubDate": 1791810854.0
-    },
-    {
-      "id": "NPR-4825607403628126984",
-      "source": "NPR",
-      "title": "DOJ launches antitrust probe of TV networks. And, Trump says Ukraine needs new leader",
-      "excerpt": "The Justice Department is investigating several TV networks for possible antitrust violations. And, President Trump pressures Ukrainians to elect a new leader.",
-      "link": "https://www.npr.org/2026/10/12/g-s1-147772/up-first-newsletter-trump-ukraine-russia-antitrust-investigation-hurricane-isaias-saudi-airport",
-      "time": "Il y a 15h",
-      "pubDate": 1791804596.0
-    },
-    {
-      "id": "The Guardian--8317574991016800508",
-      "source": "The Guardian",
-      "title": "Balkan temperatures swing as heavy rain heads for Greece",
-      "excerpt": "Clear skies bring warm days and cold nights to Montenegro, while a low-pressure system moves towards Aegean Sea <ul><li><a href=\"https://www.theguardian.com/world/live/2026/oct/12/ukraine-russia-trump...",
-      "link": "https://www.theguardian.com/environment/2026/oct/12/balkan-temperatures-montenegro-rain-greece",
-      "time": "Il y a 16h",
-      "pubDate": 1791802106.0
-    },
-    {
-      "id": "NPR-4454337366364331190",
-      "source": "NPR",
-      "title": "U.S. restrictions on Chinese drones are hurting cash-strapped police departments",
-      "excerpt": "The U.S. government is trying to end the dominance of high-quality, low-cost drones made in China. But more restrictions mean higher costs for cash-strapped police forces that rely on those drones.",
-      "link": "https://www.npr.org/2026/10/12/nx-s1-5888604/police-chinese-drones-bans-costs",
-      "time": "Il y a 18h",
-      "pubDate": 1791795600.0
-    },
-    {
-      "id": "NPR-7676826251274864737",
-      "source": "NPR",
-      "title": "Here's what to know if you're unsure about your measles immunity status",
-      "excerpt": "Vaccination is the best way to protect yourself against measles. For most adults, one shot of the MMR is considered enough protection. But there are certain situations that call for a second dose.",
-      "link": "https://www.npr.org/2026/10/12/nx-s1-5991904/measles-vaccination-status-outbreak-extra-dose",
-      "time": "Il y a 18h",
-      "pubDate": 1791795600.0
-    },
-    {
-      "id": "NPR--694889110725425177",
-      "source": "NPR",
-      "title": "Morning news brief",
-      "excerpt": "",
-      "link": "https://www.npr.org/2026/10/12/nx-s1-5995584/newsbrief-trump-russia-ukraine-trump-priorities-saudi-airport-strikes",
-      "time": "Il y a 18h",
-      "pubDate": 1791794283.0
-    },
-    {
-      "id": "NPR--4287210651327374114",
-      "source": "NPR",
-      "title": "Texas' 15th Congressional District provides clues to state's Latino vote",
-      "excerpt": "The 15th Congressional District runs from the east of San Antonio all the way down into the Rio Grande Valley. This majority-Latino district provides a window into the Latino vote in Texas.",
-      "link": "https://www.npr.org/2026/10/12/nx-s1-5986126/texas-15th-congressional-district-provides-clues-to-states-latino-vote",
-      "time": "Il y a 18h",
-      "pubDate": 1791794221.0
-    },
-    {
-      "id": "NPR--6201595755328492412",
-      "source": "NPR",
-      "title": "2 Americans win Nobel Prize in economics for work on boom-bust cycles",
-      "excerpt": "Two Americans have won the Nobel Prize in economics for their work on how to smooth boom-and-bust cycles to limit unemployment and inflation.",
-      "link": "https://www.npr.org/2026/10/09/nx-s1-5996634/nobel-prize-in-economics",
-      "time": "Il y a 18h",
-      "pubDate": 1791794116.0
-    },
-    {
-      "id": "BBC News--90984105084720298",
+      "id": "BBC News--6238075938184952191",
       "source": "BBC News",
       "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
       "excerpt": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.",
       "link": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 22h",
+      "time": "Il y a 1j",
       "pubDate": 1791781252.0
     },
     {
-      "id": "The Guardian--1514328891845259530",
-      "source": "The Guardian",
-      "title": "Thousands without power in Florida and Alabama as Isaias moves north",
-      "excerpt": "At least four deaths linked to storm amid warnings of flash flooding that could stretch into Appalachians As what was left of <a href=\"https://www.theguardian.com/world/2026/oct/10/isaias-weakens-to-p...",
-      "link": "https://www.theguardian.com/world/2026/oct/11/isaias-florida-alabama-power-outages",
-      "time": "Il y a 1j",
-      "pubDate": 1791726327.0
-    },
-    {
-      "id": "The Guardian--6511442236340030354",
-      "source": "The Guardian",
-      "title": "Missing Australian hiker Jordan Yap last seen on remote trail found dead in Peru",
-      "excerpt": "Family and friends say Melbourne man should be remembered for ‘immense joy he brought to so many people’s lives’ <ul><li><a href=\"https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anth...",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/11/missing-australian-hiker-jordan-yap-last-seen-on-remote-trail-found-dead-in-peru",
-      "time": "Il y a 1j",
-      "pubDate": 1791704731.0
-    },
-    {
-      "id": "The Guardian--5754958723485965559",
+      "id": "The Guardian-3467307484750807992",
       "source": "The Guardian",
       "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
       "excerpt": "Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchers A controversial research trial that will withhold hepatitis B vaccines from some African newbo...",
@@ -507,7 +504,7 @@
       "pubDate": 1791581778.0
     },
     {
-      "id": "The Guardian-1851644385332925670",
+      "id": "The Guardian-492608165476468084",
       "source": "The Guardian",
       "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
       "excerpt": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza  The Nobel peace prize has been awarded to Navi Pillay, the South African form...",
@@ -516,25 +513,25 @@
       "pubDate": 1791563409.0
     },
     {
-      "id": "The Guardian-7922841170542205998",
+      "id": "The Guardian-2175940783770829523",
       "source": "The Guardian",
       "title": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
       "excerpt": "Storm expected to make landfall on US’s northern Gulf coast with risk of flash floods and isolated river flooding Isaias has become the first Atlantic hurricane of the 2026 season, with wind speeds of...",
       "link": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026",
-      "time": "Il y a 3j",
+      "time": "Il y a 4j",
       "pubDate": 1791539946.0
     },
     {
-      "id": "The Guardian-2848438230320512937",
+      "id": "The Guardian-5477807756568683121",
       "source": "The Guardian",
       "title": "Egyptian journalists plan weekend protest over detention of six colleagues",
       "excerpt": "Matsadaash staff allege torture and forced confessions after being held on charges of working for Muslim Brotherhood Egyptian journalists are planning a new protest in Cairo this weekend after <a href...",
       "link": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
-      "time": "Il y a 3j",
+      "time": "Il y a 4j",
       "pubDate": 1791518438.0
     },
     {
-      "id": "The Guardian-393733433452227992",
+      "id": "The Guardian-1120257918968433903",
       "source": "The Guardian",
       "title": "Scientists discover 180,000 giant tortoises on one Seychelles island",
       "excerpt": "Free-roaming Aldabra population far exceeds human population of Seychelles after decades-long recovery programme A survey of the world’s largest free-roaming giant tortoise population has discovered t...",
@@ -543,5 +540,5 @@
       "pubDate": 1791490831.0
     }
   ],
-  "lastUpdate": "2026-10-13T03:10:59.345432"
+  "lastUpdate": "2026-10-13T10:28:29.167856"
 }
