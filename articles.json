@@ -1,22 +1,58 @@
 {
   "francophone": [
     {
-      "id": "France Info-4385257538122994247",
-      "source": "France Info",
-      "title": "Accusé d'avoir posé un micro chez OpenAI, un ingénieur saoudien arrêté et inculpé à San Francisco",
-      "excerpt": "Selon la plainte, l'appareil a été découvert le 30 septembre, branché sur le port USB d'une télévision et dissimulé dans du papier toilette.",
-      "link": "https://www.franceinfo.fr/societe/justice/accuse-d-avoir-pose-un-micro-chez-openai-un-ingenieur-saoudien-arrete-et-inculpe-a-san-francisco_8236147.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 3 min",
-      "pubDate": 1791928406.0
+      "id": "Le Monde-5511782932543262594",
+      "source": "Le Monde",
+      "title": "Arsenal-Lille : à Londres, les Lillois coulent et poursuivent leur série cauchemardesque face aux clubs anglais",
+      "excerpt": "Inexistant pendant une grande partie de la rencontre, mardi, le club nordiste s’est logiquement incliné sur la pelouse des champions d’Angleterre (0-3). Une défaite qui confirme les difficultés rencon...",
+      "link": "https://www.lemonde.fr/sport/article/2026/10/14/arsenal-lille-a-londres-les-lillois-coulent-et-poursuivent-leur-serie-cauchemardesque-face-aux-clubs-anglais_6793248_3242.html",
+      "time": "Il y a 13 min",
+      "pubDate": 1791938098.0
     },
     {
-      "id": "France Info-4641412780001082756",
+      "id": "Le Monde-7089337528231289141",
+      "source": "Le Monde",
+      "title": "EN DIRECT, guerre en Ukraine : une centrale de Kiev touchée par une frappe russe, sans alerte précoce, selon Volodymyr Zelensky",
+      "excerpt": "Les frappes sur la capitale ukrainienne, mardi soir, ont fait deux morts et une vingtaine de blessés. Le président ukrainien a regretté l’absence d’avertissement de la part des partenaires de l’Ukrain...",
+      "link": "https://www.lemonde.fr/international/live/2026/10/14/en-direct-guerre-en-ukraine-une-centrale-de-kiev-touchee-par-une-frappe-russe-sans-alerte-precoce-selon-volodymyr-zelensky_6791198_3210.html",
+      "time": "Il y a 1h",
+      "pubDate": 1791933851.0
+    },
+    {
+      "id": "Le Monde--758301102805553146",
+      "source": "Le Monde",
+      "title": "Meurtre de Tupac Shakur : Duane « Keffe D » Davis condamné à quarante ans de prison minimum",
+      "excerpt": "Après sa condamnation en août, l’ancien membre de gang a été fixé sur sa peine, mardi, trente ans après la mort de la légende du rap. La défense de Duane Davis a déjà annoncé vouloir faire appel.",
+      "link": "https://www.lemonde.fr/international/article/2026/10/14/meurtre-de-tupac-shakur-duane-keffe-d-davis-condamne-a-quarante-ans-de-prison-minimum_6793214_3210.html",
+      "time": "Il y a 1h",
+      "pubDate": 1791933273.0
+    },
+    {
+      "id": "France Info-8811267876595694173",
+      "source": "France Info",
+      "title": "Budget 2027 : les députés ont entamé l'examen du projet de loi de finances à l'Assemblée nationale après un vote contre la motion de rejet déposée par les socialistes",
+      "excerpt": "L'examen du projet de loi de finances a commencé dans la soirée avec la partie dédiée aux recettes de l'Etat. Les députés socialistes avaient déposé une motion de rejet de ce texte budgétaire mais ell...",
+      "link": "https://www.franceinfo.fr/economie/budget/direct-budget-2027-le-projet-de-loi-de-finances-arrive-dans-l-hemicycle-mardi-en-fin-de-journee_8235388.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 2h",
+      "pubDate": 1791928814.0
+    },
+    {
+      "id": "France Info-3318862580262856711",
+      "source": "France Info",
+      "title": "Mobilisation lycéenne : l'intersyndicale de la jeunesse revendique 480 000 manifestants à travers le pays, le ministère de l'Intérieur en dénombre 161 500",
+      "excerpt": "Lycéens et étudiants manifestent à nouveau mardi dans de nombreuses villes françaises, à quelques jours des vacances scolaires de la Toussaint.",
+      "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-les-lyceens-de-nouveau-dans-la-rue-pour-un-acte-5-du-mouvement_8234260.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 2h",
+      "pubDate": 1791928638.0
+    },
+    {
+      "id": "France Info-4099989958216618749",
       "source": "France Info",
       "title": "Lycéen éborgné à Tours : un policier mis en examen pour violences aggravées",
       "excerpt": "La famille du lycéen de 16 ans ayant perdu l'usage de son œil droit avait porté plainte le 4 octobre pour \"violences par personne dépositaire de l'autorité publique\".",
       "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/lyceen-eborgne-a-tours-un-policier-mis-en-examen-pour-violences-aggravees_8236162.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 44 min",
-      "pubDate": 1791925949.0,
+      "time": "Il y a 2h",
+      "pubDate": 1791928582.0,
       "sources": [
         "France Info",
         "Le Monde"
@@ -25,477 +61,441 @@
       "sourceCount": 2
     },
     {
-      "id": "France Info--4922610661477976459",
+      "id": "France Info--3549562875064972340",
+      "source": "France Info",
+      "title": "Accusé d'avoir posé un micro chez OpenAI, un ingénieur saoudien arrêté et inculpé à San Francisco",
+      "excerpt": "Selon la plainte, l'appareil a été découvert le 30 septembre, branché sur le port USB d'une télévision et dissimulé dans du papier toilette.",
+      "link": "https://www.franceinfo.fr/societe/justice/accuse-d-avoir-pose-un-micro-chez-openai-un-ingenieur-saoudien-arrete-et-inculpe-a-san-francisco_8236147.html#xtor=RSS-3-[lestitres]",
+      "time": "Il y a 2h",
+      "pubDate": 1791928406.0
+    },
+    {
+      "id": "France Info--6153004032451299692",
       "source": "France Info",
       "title": "Lille s'incline logiquement sur la pelouse d'Arsenal pour son deuxième match de Ligue des champions",
       "excerpt": "Déjà battus par le Betis pour leur entrée en lice (2-3), les Dogues restent bloqués à zéro point après deux matchs de la phase de la phase de ligue.",
       "link": "https://www.franceinfo.fr/sports/foot/ligue-des-champions/lille-s-incline-logiquement-sur-la-pelouse-d-arsenal-pour-son-deuxieme-match-de-ligue-des-champions_8236129.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 45 min",
+      "time": "Il y a 3h",
       "pubDate": 1791925892.0
     },
     {
-      "id": "Le Monde--9200744502740833193",
+      "id": "Le Monde--2323555336247288355",
       "source": "Le Monde",
       "title": "OpenAI annonce l’arrestation d’un employé soupçonné d’avoir posé un micro dans l’entreprise",
       "excerpt": "L’employé, que le créateur de ChatGPT avait signalé au FBI, est accusé d’avoir caché un « appareil d’enregistrement sophistiqué » dans une salle de réunion, et d’avoir voulu en installer d’autres dans...",
       "link": "https://www.lemonde.fr/international/article/2026/10/13/openai-annonce-l-arrestation-d-un-employe-soupconne-d-avoir-pose-un-micro-dans-l-entreprise_6793179_3210.html",
-      "time": "Il y a 1h",
+      "time": "Il y a 4h",
       "pubDate": 1791924079.0
     },
     {
-      "id": "Le Monde--5831276215463667348",
-      "source": "Le Monde",
-      "title": "Opération du pape : le nodule retiré au poumon était cancéreux, annonce le Vatican",
-      "excerpt": "Le pape avait annoncé dimanche qu’il allait se faire opérer d’un nodule « circonscrit au poumon » et ayant été détecté « à un stade très précoce » − une première alerte de santé après dix-sept mois d’...",
-      "link": "https://www.lemonde.fr/international/article/2026/10/13/operation-du-pape-le-nodule-retire-au-poumon-etait-cancereux-annonce-le-vatican_6793171_3211.html",
-      "time": "Il y a 1h",
-      "pubDate": 1791923298.0
-    },
-    {
-      "id": "France Info--4433775062379293690",
+      "id": "France Info-4050635778853250273",
       "source": "France Info",
       "title": "Les pêcheurs recevront une avance sur les aides carburant, annonce le gouvernement",
       "excerpt": "Cette avance sur les phases à venir (septembre-octobre et novembre-décembre) représente un montant de près de 11 millions d'euros.",
       "link": "https://www.franceinfo.fr/economie/automobile/essence/les-pecheurs-recevront-une-avance-sur-les-aides-carburant-annonce-le-gouvernement_8236114.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 1h",
+      "time": "Il y a 4h",
       "pubDate": 1791922048.0
     },
     {
-      "id": "Libération--3971336922148765552",
+      "id": "Libération--7902343032148880603",
       "source": "Libération",
       "title": "«Le Jour de son retour» de Hong Sang-soo, promo pour le dire",
       "excerpt": "Le délicat 34e long métrage de Hong Sang Soo offre un nouveau traité d’alchimie de la rencontre, autour d’une actrice interviewée par trois journalistes.",
       "link": "https://www.liberation.fr/culture/cinema/le-jour-de-son-retour-de-hong-sang-soo-promo-pour-le-dire-20261013_IDGL27OCPFGO7L4QMM5LEAREYY/",
-      "time": "Il y a 1h",
+      "time": "Il y a 4h",
       "pubDate": 1791922020.0
     },
     {
-      "id": "Libération--4668251624135160471",
+      "id": "Libération--7578343679230057073",
       "source": "Libération",
       "title": "Meurtre de 2Pac : Duane Davis, ancien membre d’un gang de Compton, condamné à au moins 40 ans de prison",
       "excerpt": "L’ex-figure des South Side Compton Crips avait été reconnue coupable fin août, au terme d’un procès qui a décortiqué ses confidences compromettantes sur la nuit du meurtre, tirées de ses propres mémoi...",
       "link": "https://www.liberation.fr/international/amerique/meurtre-de-2pac-duane-davis-ancien-membre-dun-gang-de-compton-condamne-a-au-moins-40-ans-de-prison-20261013_OYVHDGAGTRBCPBD2TQZ3KKUY2Q/",
-      "time": "Il y a 1h",
+      "time": "Il y a 4h",
       "pubDate": 1791922003.0
     },
     {
-      "id": "Libération--5552037991073046576",
+      "id": "Libération--5084505199559014737",
       "source": "Libération",
       "title": "Mobilisation des lycées : le gouvernement croit voir une «décrue», les manifestants appellent à «rejoindre les gilets jaunes» samedi",
       "excerpt": "Lycéens et étudiants sont de nouveau massivement descendus dans la rue ce mardi. A Paris, deux cortèges se sont élancés, l’un de la place d’Italie, l’autre de l’hôtel de ville. Selon le ministère de l...",
       "link": "https://www.liberation.fr/societe/education/en-direct-mobilisation-des-lycees-un-acte-v-avec-une-nouvelle-journee-de-manifestations-en-france-ce-mardi-20261013_FCESOUSDEVE53I4EIRTF6YHSJM/",
-      "time": "Il y a 2h",
+      "time": "Il y a 4h",
       "pubDate": 1791921279.0
     },
     {
-      "id": "Libération-3774649706182440181",
+      "id": "Libération-5004680546529703536",
       "source": "Libération",
       "title": "Pologne : le suspect dans le complot visant à assassiner le Premier ministre était en possession «d’engins explosifs artisanaux»",
       "excerpt": "L’homme a en outre recruté d’autres personnes possédant des armes pour son attaque présumée, censée viser Donald Tusk et le ministre de la Défense, Wladyslaw Kosiniak-Kamysz.",
       "link": "https://www.liberation.fr/international/europe/pologne-le-suspect-dans-le-complot-visant-a-assassiner-le-premier-ministre-etait-en-possession-dengins-explosifs-artisanaux-20261013_7SJDYYO3CZHA5NJWF2OS43OJ4Q/",
-      "time": "Il y a 2h",
+      "time": "Il y a 5h",
       "pubDate": 1791920392.0
     },
     {
-      "id": "France Info-4096932455023795135",
+      "id": "France Info-4763147232731708032",
       "source": "France Info",
       "title": "Meurtre du rappeur Tupac : un ex-membre de gang condamné à 40 ans de prison minimum",
       "excerpt": "Pendant trois semaines, le procès a décortiqué la vengeance de gang fatale à Tupac Shakur, la nuit du 7 septembre 1996.",
       "link": "https://www.franceinfo.fr/societe/justice/meurtre-du-rappeur-tupac-un-ex-membre-de-gang-condamne-a-40-ans-de-prison-minimum_8236093.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
+      "time": "Il y a 5h",
       "pubDate": 1791920248.0
     },
     {
-      "id": "France Info--6266588209718476975",
+      "id": "France Info--42758489925757211",
       "source": "France Info",
       "title": "L'opération au poumon du pape Léon XIV \"s'est bien déroulée\", annonce le Vatican",
       "excerpt": "A la fin de la prière de l'Angélus, dimanche, le pape américain avait annoncé qu'un nodule pulmonaire avait été découvert \"à un stade très précoce\" lors de récents examens et était \"bien localisé\".",
       "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/l-operation-au-poumon-du-pape-leon-xiv-s-est-bien-deroulee-annonce-le-vatican_8236060.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
+      "time": "Il y a 5h",
       "pubDate": 1791918817.0
     },
     {
-      "id": "Libération--987024514706327033",
+      "id": "Libération-3115483288634864040",
       "source": "Libération",
       "title": "Sanctions contre la CPI : une soixantaine d’eurodéputés lancent un appel «urgent» à Ursula von der Leyen",
       "excerpt": "Dans un courrier transpartisan adressé à la présidente de la Commission européenne, les 58 élus demandent «l’activation immédiate» du règlement de blocage face au «danger imminent» des attaques améric...",
       "link": "https://www.liberation.fr/international/europe/sanctions-contre-la-cpi-une-soixantaine-deurodeputes-lancent-un-appel-urgent-a-ursula-von-der-leyen-20261013_7I562CQRZRBJ3NFSYYDAHVNRL4/",
-      "time": "Il y a 2h",
+      "time": "Il y a 5h",
       "pubDate": 1791918660.0
     },
     {
-      "id": "Libération-6041876735406317608",
+      "id": "Libération-5538674455293571074",
       "source": "Libération",
       "title": "Après son opération au poumon, le pape est au top",
       "excerpt": "Léon XIV était hospitalisé ce mardi à cause d’un nodule pulmonaire. Selon le Vatican, tout s’est bien passé.",
       "link": "https://www.liberation.fr/international/europe/apres-son-operation-au-poumon-le-pape-est-au-top-20261013_EP55VHIIEVDEHH6MRVGGL6ARUI/",
-      "time": "Il y a 2h",
+      "time": "Il y a 5h",
       "pubDate": 1791918342.0
     },
     {
-      "id": "France Info-8076267626194407740",
-      "source": "France Info",
-      "title": "Impuissant, le RC Lens concède sa première défaite de la saison en Ligue des champions face au Sporting",
-      "excerpt": "Les Artésiens ont concédé leur première défaite européenne de la saison face aux Portugais, mardi soir.",
-      "link": "https://www.franceinfo.fr/sports/foot/ligue-des-champions/impuissant-le-rc-lens-concede-sa-premiere-defaite-de-la-saison-en-ligue-des-champions-face-au-sporting_8235994.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 2h",
-      "pubDate": 1791918172.0
-    },
-    {
-      "id": "Le Monde--5184911626462403218",
+      "id": "Le Monde--2078039367632678827",
       "source": "Le Monde",
       "title": "Présidentielle 2027 : la conversion partielle de Marine Le Pen aux recettes économiques d’Emmanuel Macron",
       "excerpt": "Très critique des propositions du futur président en 2017, la candidate du Rassemblement national endosse en partie sa philosophie. Elle se fait fort de tenir ses promesses à sa place, sur la simplifi...",
       "link": "https://www.lemonde.fr/politique/article/2026/10/13/presidentielle-2027-la-conversion-partielle-de-marine-le-pen-aux-recettes-economiques-d-emmanuel-macron_6793170_823448.html",
-      "time": "Il y a 3h",
+      "time": "Il y a 5h",
       "pubDate": 1791917748.0
     },
     {
-      "id": "Libération--9001448441255044871",
+      "id": "Libération-6271758287417804259",
       "source": "Libération",
       "title": "A Ceuta, la visite symbolique du roi Felipe VI pour réaffirmer «l’hispanité» de l’enclave",
       "excerpt": "Deux mois après l’entrée de milliers de migrants dans l’enclave située au nord du Maroc, le monarque et la reine Letizia ont voulu rassurer la population et les autorités d’une ville traumatisée et in...",
       "link": "https://www.liberation.fr/international/europe/a-ceuta-la-visite-symbolique-du-roi-felipe-vi-pour-reaffirmer-lhispanite-de-lenclave-20261013_AQ6TBWOTBBF6VLCGD3P5L6F3HY/",
-      "time": "Il y a 3h",
+      "time": "Il y a 5h",
       "pubDate": 1791917535.0
     },
     {
-      "id": "Libération--6085469440392021770",
+      "id": "Libération-5738959522324181458",
       "source": "Libération",
       "title": "Mobilisation des lycéens : une génération qui ne se résigne à rien",
       "excerpt": "Il faut saluer la détermination des jeunes, encore engagés, dans les manifestations ou devant leurs établissements ce mardi 13 octobre, pour des conditions d’enseignement et un avenir décents.",
       "link": "https://www.liberation.fr/idees-et-debats/editorial/mobilisation-des-lyceens-une-generation-qui-ne-se-resigne-a-rien-20261013_NT53HQ2PAFBFFOKM6AMPZKV5PU/",
-      "time": "Il y a 3h",
+      "time": "Il y a 6h",
       "pubDate": 1791917240.0
     },
     {
-      "id": "Libération-560107565590232630",
+      "id": "Libération-480242227411518346",
       "source": "Libération",
       "title": "Mobilisations : des facs aux anciens gilets jaunes, «on prend le relais des lycéens»",
       "excerpt": "Si le gouvernement parle d’une «décrue», des dizaines de milliers de personnes défilaient mardi en France. Dans l’attente de la mobilisation de samedi, espérée massive, les élèves font vivre le mouvem...",
       "link": "https://www.liberation.fr/societe/education/mobilisations-des-facs-aux-anciens-gilets-jaunes-on-prend-le-relais-des-lyceens-20261013_PKTFHXJZRVCTLMHOKE7HZOXIP4/",
-      "time": "Il y a 3h",
+      "time": "Il y a 6h",
       "pubDate": 1791916931.0
     },
     {
-      "id": "Le Monde-109512533557684800",
-      "source": "Le Monde",
-      "title": "EN DIRECT, guerre en Ukraine : Une centrale de Kiev touchée par une frappe russe, sans alerte précoce, selon Volodymyr Zelensky",
-      "excerpt": "Le président ukrainien a regretté mardi soir l’absence d’avertissement préalable de la part des partenaires de l’Ukraine. Le pays est dépendant du renseignement militaire occidental, et notamment amér...",
-      "link": "https://www.lemonde.fr/international/live/2026/10/13/en-direct-guerre-en-ukraine-volodymyr-zelensky-propose-de-nouvelles-rencontres-avec-les-etats-unis-pour-avancer-vers-la-paix_6791198_3210.html",
-      "time": "Il y a 3h",
-      "pubDate": 1791916161.0
-    },
-    {
-      "id": "Libération-3650416706422603485",
+      "id": "Libération--5266456562728805368",
       "source": "Libération",
       "title": "La Russie arrête un journaliste japonais accusé d’espionnage",
       "excerpt": "Interpellé par le FSB sur l’île de Sakhaline, le reporter se voit reprocher d’avoir collecté des informations relatives à la «capacité de défense» du pays.",
       "link": "https://www.liberation.fr/international/asie-pacifique/la-russie-arrete-un-journaliste-japonais-accuse-despionnage-20261013_76HFUQEURFFQPB4UDVXPS7YYKU/",
-      "time": "Il y a 3h",
+      "time": "Il y a 6h",
       "pubDate": 1791915680.0
     },
     {
-      "id": "Le Monde-3872928833505658157",
+      "id": "Le Monde--3822473044145272358",
       "source": "Le Monde",
       "title": "Mouvement lycéen : à l’approche des vacances scolaires, les élèves mobilisés en appellent au relais des étudiants et des « gilets jaunes »",
       "excerpt": "Les manifestations ont rassemblé entre 161 500 et 480 000 personnes mardi dans toute la France pour l’« acte V » de la mobilisation. Les lycéens se posent la question des suites du mouvement. Un appel...",
       "link": "https://www.lemonde.fr/societe/article/2026/10/13/mouvement-lyceen-a-l-approche-des-vacances-scolaires-les-eleves-mobilises-en-appellent-au-relais-des-etudiants-et-des-gilets-jaunes_6793166_3224.html",
-      "time": "Il y a 3h",
+      "time": "Il y a 6h",
       "pubDate": 1791915286.0
     },
     {
-      "id": "France Info-7590054477123721887",
-      "source": "France Info",
-      "title": "Mobilisation lycéenne : l'intersyndicale de la jeunesse revendique 480 000 manifestants à travers le pays, le ministère de l'Intérieur en dénombre 161 500",
-      "excerpt": "Lycéens et étudiants manifestent à nouveau mardi dans de nombreuses villes françaises, à quelques jours des vacances scolaires de la Toussaint.",
-      "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-les-lyceens-de-nouveau-dans-la-rue-pour-un-acte-5-du-mouvement_8234260.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 4h",
-      "pubDate": 1791913247.0
-    },
-    {
-      "id": "France Info-1639539684013744155",
+      "id": "France Info-5568034851096671379",
       "source": "France Info",
       "title": "Infraction sur l'inceste, juridictions spécialisées… Quelles sont les mesures retenues par l'Assemblée nationale dans la proposition de loi intégrale contre les violences sexuelles ?",
       "excerpt": "A l'issue des débats, la semaine dernière, \"on a réussi à préserver l’intégrité\" de la proposition de loi, affirme la rapporteuse générale, malgré l'abandon de certaines dispositions.",
       "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/infraction-sur-l-inceste-juridictions-specialisees-quelles-sont-les-mesures-retenues-par-l-assemblee-nationale-dans-la-proposition-de-loi-integrale-contre-les-violences-sexuelles_8233648.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 4h",
+      "time": "Il y a 7h",
       "pubDate": 1791912732.0
     },
     {
-      "id": "France Info--4142625135147832312",
+      "id": "France Info--6787894413970324828",
       "source": "France Info",
       "title": "Tirs dans un collège à Aubagne : pourquoi la mouvance True Crime Community, à laquelle l'adolescent arrêté \"adhérait probablement\", inquiète en France",
       "excerpt": "Selon le Parquet national antiterroriste, qui s'est saisi de l'enquête, l'\"action criminelle\" du collégien s'inscrit \"dans cette idéologie\" qui se développe en ligne et \"glorifie les auteurs de tuerie...",
       "link": "https://www.franceinfo.fr/faits-divers/tirs-dans-un-college-a-aubagne-pourquoi-la-mouvance-true-crime-community-a-laquelle-l-adolescent-arrete-adherait-probablement-inquiete-en-france_8235574.html#xtor=RSS-3-[lestitres]",
-      "time": "Il y a 4h",
+      "time": "Il y a 7h",
       "pubDate": 1791911929.0
     },
     {
-      "id": "Le Monde--3098648020860054290",
+      "id": "Le Monde-3720816494005208624",
       "source": "Le Monde",
-      "title": "Arsenal-Lille : revivez la défaite logique des Lillois à Londres, tombés en quelques minutes face aux Gunners en Ligue des champions",
-      "excerpt": "Après avoir tenu tête aux Londoniens en première période, le LOSC n’a pas su résister à l’activité offensive des finalistes de la précédente édition de la Ligue des champions (0-3), mardi, enregistran...",
-      "link": "https://www.lemonde.fr/sport/live/2026/10/13/en-direct-arsenal-lille-suivez-le-match-de-ligue-des-champions_6793161_3242.html",
-      "time": "Il y a 4h",
-      "pubDate": 1791910809.0
-    },
-    {
-      "id": "Le Monde--1532929295545845778",
-      "source": "Le Monde",
-      "title": "EN DIRECT, budget 2027 : la motion de rejet déposée par le Parti socialiste rejetée par les députés",
-      "excerpt": "Les députés commencent, mardi 13 octobre, l’examen en séance publique de la première partie du projet de loi de finances (PLF) 2027, présenté par Sébastien Lecornu en conseil des ministres le 1ᵉʳ octo...",
+      "title": "Budget 2027 : après l’échec de la motion de rejet déposée par le Parti socialiste, les débats reprendront mercredi après-midi",
+      "excerpt": "Les députés ont commencé, mardi 13 octobre, l’examen en séance publique de la première partie du projet de loi de finances (PLF) 2027, présenté par Sébastien Lecornu en conseil des ministres le 1ᵉʳ oc...",
       "link": "https://www.lemonde.fr/politique/live/2026/10/13/en-direct-budget-2027-les-debats-sur-le-projet-de-loi-de-finances-commencent-a-l-assemblee-nationale_6793072_823448.html",
-      "time": "Il y a 5h",
+      "time": "Il y a 8h",
       "pubDate": 1791910094.0
     },
     {
-      "id": "Le Monde-2667737300704834074",
+      "id": "Le Monde-7104396080373758276",
       "source": "Le Monde",
       "title": "VSS : l’Assemblée adopte la proposition de loi intégrale contre les violences sexistes et sexuelles, à l’unanimité des votants",
       "excerpt": "Dans le sillage de l’affaire Lyhanna, une collégienne de 11 ans retrouvée morte et violée dans le Gers en juin, le gouvernement, poussé par les associations féministes, s’était emparé du texte et avai...",
       "link": "https://www.lemonde.fr/politique/article/2026/10/13/vss-l-assemblee-adopte-la-proposition-de-loi-integrale-contre-les-violences-sexistes-et-sexuelles-a-l-unanimite-des-votants_6793147_823448.html",
-      "time": "Il y a 5h",
+      "time": "Il y a 8h",
       "pubDate": 1791908625.0
     },
     {
-      "id": "Le Monde--1961829167722194939",
+      "id": "Le Monde-8603680527753765566",
       "source": "Le Monde",
       "title": "Midterms : la raréfaction du saumon, au cœur de la bataille entre républicains et démocrates en Alaska",
       "excerpt": "Dans l’immense Etat américain, où la pêche reste une ressource très importante, la forte hausse du prix du carburant pourrait aussi disqualifier le candidat républicain, Dan Sullivan, pour sa réélecti...",
       "link": "https://www.lemonde.fr/international/article/2026/10/13/midterms-la-rarefaction-du-saumon-au-c-ur-de-la-bataille-entre-republicains-et-democrates-en-alaska_6793134_3210.html",
-      "time": "Il y a 6h",
-      "pubDate": 1791903611.0
+      "time": "Il y a 9h",
+      "pubDate": 1791903609.0
     }
   ],
   "anglophone": [
     {
-      "id": "BBC News-3455845126314041169",
-      "source": "BBC News",
-      "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
-      "excerpt": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
-      "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 14 min",
-      "pubDate": 1791927769.0
-    },
-    {
-      "id": "The Guardian-8198314919454092784",
-      "source": "The Guardian",
-      "title": "California coastal homes battered and bruised after weekend of intense waves and flooding",
-      "excerpt": "Boardwalk destroyed in Long Beach and homes damaged, while Baja California in Mexico and Las Vegas also affected Southern California coastal communities are picking up the pieces after a weekend of ex...",
-      "link": "https://www.theguardian.com/us-news/2026/oct/13/california-storm-floods",
-      "time": "Il y a 28 min",
-      "pubDate": 1791926948.0
-    },
-    {
-      "id": "BBC News-2091353312192324220",
+      "id": "BBC News-4925695868204163871",
       "source": "BBC News",
       "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
       "excerpt": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
       "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 1h",
-      "pubDate": 1791924366.0
+      "time": "Il y a 31 min",
+      "pubDate": 1791937020.0
     },
     {
-      "id": "NPR--2782981758351050518",
-      "source": "NPR",
-      "title": "What an economics Nobel Prize winner knows about pricing",
-      "excerpt": "NPR's Ailsa Chang chats with Michael Woodford of Columbia University, who was one of two Americans awarded the Nobel Prize in Economics.",
-      "link": "https://www.npr.org/2026/10/13/nx-s1-5998849/what-an-economics-nobel-prize-winner-knows-about-pricing",
+      "id": "BBC News-7728118749152400127",
+      "source": "BBC News",
+      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "excerpt": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+      "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
       "time": "Il y a 1h",
-      "pubDate": 1791921815.0
+      "pubDate": 1791934942.0
     },
     {
-      "id": "BBC News--4863394377917676275",
+      "id": "BBC News--4146679825311591433",
+      "source": "BBC News",
+      "title": "Zimbabwean author denies using AI to write award-winning story",
+      "excerpt": "Simbarashe Kundizeza was responding to an accusation that has caused an uproar on social media.",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 1h",
+      "pubDate": 1791934270.0
+    },
+    {
+      "id": "BBC News--1384895037425171085",
       "source": "BBC News",
       "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
       "excerpt": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
       "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 1h",
-      "pubDate": 1791921735.0
+      "time": "Il y a 2h",
+      "pubDate": 1791930595.0
     },
     {
-      "id": "NPR--6277063656419266404",
+      "id": "NPR--5709262460576207323",
+      "source": "NPR",
+      "title": "Pope Leo has lung cancer, the Vatican announces after surgery",
+      "excerpt": "Pope Leo XIV had surgery on Tuesday to remove a cancerous growth in his lung, the Vatican announced.",
+      "link": "https://www.npr.org/2026/10/13/g-s1-147968/pope-leo-has-lung-cancer-vatican-announces",
+      "time": "Il y a 2h",
+      "pubDate": 1791930566.0
+    },
+    {
+      "id": "BBC News-3794014718630839240",
+      "source": "BBC News",
+      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+      "excerpt": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
+      "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 2h",
+      "pubDate": 1791929673.0
+    },
+    {
+      "id": "BBC News--2494489694286498946",
+      "source": "BBC News",
+      "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+      "excerpt": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+      "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+      "time": "Il y a 3h",
+      "pubDate": 1791927769.0
+    },
+    {
+      "id": "The Guardian-3328580325451264272",
+      "source": "The Guardian",
+      "title": "Intense waves and floods batter California waterfront homes and boardwalks",
+      "excerpt": "Boardwalk destroyed in Long Beach and homes damaged, while Baja California in Mexico and Las Vegas also affected Southern <a href=\"https://www.theguardian.com/us-news/california\">California</a> coasta...",
+      "link": "https://www.theguardian.com/us-news/2026/oct/13/california-storm-floods",
+      "time": "Il y a 3h",
+      "pubDate": 1791926948.0
+    },
+    {
+      "id": "NPR-595991999973554683",
+      "source": "NPR",
+      "title": "What an economics Nobel Prize winner knows about pricing",
+      "excerpt": "NPR's Ailsa Chang chats with Michael Woodford of Columbia University, who was one of two Americans awarded the Nobel Prize in Economics.",
+      "link": "https://www.npr.org/2026/10/13/nx-s1-5998849/what-an-economics-nobel-prize-winner-knows-about-pricing",
+      "time": "Il y a 4h",
+      "pubDate": 1791921815.0
+    },
+    {
+      "id": "NPR--5209087246529464012",
       "source": "NPR",
       "title": "Bipartisan group of senators call on Trump to rescind Russian diesel deal",
       "excerpt": "Six Democratic and six Republican senators wrote a letter calling on President Trump to withdraw from his recent deal with Russian President Vladimir Putin.",
       "link": "https://www.npr.org/2026/10/13/g-s1-147871/trump-russia-diesel-deal-congressional-response",
-      "time": "Il y a 2h",
+      "time": "Il y a 4h",
       "pubDate": 1791921172.0
     },
     {
-      "id": "BBC News--1696740445291753743",
+      "id": "BBC News--671402588105153328",
       "source": "BBC News",
       "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
       "excerpt": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.",
       "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
+      "time": "Il y a 4h",
       "pubDate": 1791921074.0
     },
     {
-      "id": "NPR--8713599275678163741",
+      "id": "NPR-1637815776594111335",
       "source": "NPR",
       "title": "A judge blocks the government's tree-clearing spree at a municipal D.C. golf course",
       "excerpt": "Locals and preservationists have long opposed Trump's plan to redevelop a municipal D.C. golf course. That legal fight escalated after the government cleared hundreds of trees on short notice.",
       "link": "https://www.npr.org/2026/10/13/nx-s1-6000055/east-potomac-golf-course-tree-clearing-judge",
-      "time": "Il y a 2h",
+      "time": "Il y a 5h",
       "pubDate": 1791920298.0
     },
     {
-      "id": "NPR-7429170003150953113",
+      "id": "NPR--958753328581567931",
       "source": "NPR",
       "title": "Cornell University bans frat parties, vows to address 'disturbing' campus culture",
       "excerpt": "In a letter, Cornell's president apologized for what happened to the student who alleges she was raped by several men at a fraternity house in 2024 and promised 'meaningful action.'",
       "link": "https://www.npr.org/2026/10/13/nx-s1-6000347/cornell-rape-ban-fraternity-parties",
-      "time": "Il y a 2h",
+      "time": "Il y a 5h",
       "pubDate": 1791919437.0
     },
     {
-      "id": "BBC News--7416864479840871290",
+      "id": "BBC News-8605202470393708522",
       "source": "BBC News",
       "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
       "excerpt": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
       "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 2h",
+      "time": "Il y a 5h",
       "pubDate": 1791919408.0
     },
     {
-      "id": "NPR--8043839225763715004",
+      "id": "NPR-2981680187228024486",
       "source": "NPR",
       "title": "The Trump administration warns Ukraine it could cut off intel, Zelenskyy tells NPR",
       "excerpt": "Ukrainian President Volodymyr Zelenskyy sat down for an interview with NPR at a time of renewed tensions with the White House.",
       "link": "https://www.npr.org/2026/10/13/nx-s1-6000051/ukraine-zelenskyy-npr-interview-russia-war",
-      "time": "Il y a 3h",
+      "time": "Il y a 5h",
       "pubDate": 1791917515.0
     },
     {
-      "id": "BBC News--7697951921110501863",
+      "id": "BBC News-2473902204893403440",
       "source": "BBC News",
       "title": "Cornell bans all fraternity parties over gang sex assault allegations",
       "excerpt": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
       "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 3h",
+      "time": "Il y a 6h",
       "pubDate": 1791915928.0
     },
     {
-      "id": "The Guardian-8519724595299280133",
+      "id": "The Guardian--244670324816306771",
       "source": "The Guardian",
       "title": "UK asks Interpol to reject Argentina’s ‘politically motivated’ requests for Falklands oil arrests",
       "excerpt": "Exclusive: Caution urged over Javier Milei government’s ‘red notice’ requests for arrest of individuals linked to oil project Britain has appealed to Interpol to reject Argentina’s requests for the ar...",
       "link": "https://www.theguardian.com/uk-news/2026/oct/13/britain-interpol-reject-argentina-falkland-islands-arrests",
-      "time": "Il y a 4h",
+      "time": "Il y a 7h",
       "pubDate": 1791913323.0
     },
     {
-      "id": "NPR-2531033049610442208",
+      "id": "NPR--558065529738547591",
       "source": "NPR",
       "title": "Writer Yiyun Li lost both of her sons. When words fell short, she turned to music",
       "excerpt": "Li won a Pulitzer for her memoir about the suicides of her two sons. In her new novel, <em>Music Against the Night</em>, she writes about two young prodigies in the late 18th and early 19th centuries.",
       "link": "https://www.npr.org/2026/10/13/nx-s1-6000124/yiyun-li-music-against-the-night",
-      "time": "Il y a 4h",
+      "time": "Il y a 7h",
       "pubDate": 1791913267.0
     },
     {
-      "id": "BBC News--3176936282653946535",
-      "source": "BBC News",
-      "title": "Argentina targets UK in legal claim over Falklands oil exploration",
-      "excerpt": "The action filed with an international maritime tribunal is the latest development in an escalating row over the Falkland Islands.",
-      "link": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 4h",
-      "pubDate": 1791913003.0
-    },
-    {
-      "id": "BBC News-4540039525681495802",
-      "source": "BBC News",
-      "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
-      "excerpt": "Police say preliminary information suggests the man who died at the Georgia amusement park fell from a ride.",
-      "link": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 4h",
-      "pubDate": 1791911450.0
-    },
-    {
-      "id": "BBC News-1432873513850247807",
+      "id": "BBC News--8818244551253815928",
       "source": "BBC News",
       "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
       "excerpt": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
       "link": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 6h",
+      "time": "Il y a 8h",
       "pubDate": 1791906735.0
     },
     {
-      "id": "NPR-2078406502646543815",
+      "id": "NPR--5264256381959892058",
       "source": "NPR",
       "title": "Government spent millions on Trump ads. And, federal agents raid Ilhan Omar's home",
       "excerpt": "The government is using millions of taxpayers' dollars on pro-Trump ads, even after the president said this would not happen. And, federal agents search Rep. Ilhan Omar's D.C. home.",
       "link": "https://www.npr.org/2026/10/13/g-s1-147822/up-first-newsletter-trump-ads-funding-campaign-rallies-ilhan-omar",
-      "time": "Il y a 10h",
+      "time": "Il y a 13h",
       "pubDate": 1791889694.0
     },
     {
-      "id": "NPR--4756742705751411565",
+      "id": "NPR--3278283503106245360",
       "source": "NPR",
       "title": "Pakistan imposes emergency rule in former prime minister's stronghold",
       "excerpt": "Pakistan has imposed emergency rule in the province governed by the political party of imprisoned former prime minister Imran Khan.",
       "link": "https://www.npr.org/2026/10/13/nx-s1-5998798/pakistan-imposes-emergency-rule-in-former-prime-ministers-stronghold",
-      "time": "Il y a 11h",
+      "time": "Il y a 13h",
       "pubDate": 1791888693.0
     },
     {
-      "id": "NPR-5999171925547372805",
+      "id": "NPR-1177056453983516535",
       "source": "NPR",
       "title": "What ice cream has to do with this year's Nobel Prize in economics",
       "excerpt": "Prices can get sticky. That helps explain why recessions hurt so much — and what policymakers can do about them.",
       "link": "https://www.npr.org/sections/planet-money/2026/10/13/g-s1-147816/what-ice-cream-has-to-do-with-this-years-nobel-prize-in-economics",
-      "time": "Il y a 11h",
+      "time": "Il y a 14h",
       "pubDate": 1791887400.0
     },
     {
-      "id": "The Guardian--2499468592711874020",
+      "id": "The Guardian-5485919716216672964",
       "source": "The Guardian",
       "title": "How a scandal engulfing Brazil’s top court could return the Bolsonaros to power",
       "excerpt": "The judge who helped convict Jair Bolsonaro is caught up in a crisis that could benefit his son and damage Lula <ul><li><a href=\"https://www.theguardian.com/world/2026/oct/10/marina-silva-flavio-bolso...",
       "link": "https://www.theguardian.com/world/2026/oct/13/scandal-brazil-court-jair-flavio-bolsonaro-power-election-moraes-lula",
-      "time": "Il y a 11h",
+      "time": "Il y a 14h",
       "pubDate": 1791885605.0
     },
     {
-      "id": "NPR--8528167765195390975",
-      "source": "NPR",
-      "title": "Polls are a snapshot, and other helpful things to remember during the midterm elections",
-      "excerpt": "With Election Day just a few weeks away — and millions of votes already cast — midterm polls are everywhere. While polling can be a helpful tool to understand the electorate, it's not a crystal ball.",
-      "link": "https://www.npr.org/2026/10/13/nx-s1-5996916/2026-election-midterms-polls-horse-race",
-      "time": "Il y a 12h",
-      "pubDate": 1791882000.0
-    },
-    {
-      "id": "The Guardian--4030736815260559958",
+      "id": "The Guardian--209832733781825043",
       "source": "The Guardian",
       "title": "Latin American organised crime ‘may operate in 16 European countries’",
       "excerpt": "Cocaine seizures in Europe are up more than fivefold in 10 years as a host of cartels take root. A four-month Guardian investigation reveals the true scale of a continent-wide shift A four-month inves...",
       "link": "https://www.theguardian.com/global-development/2026/oct/13/latin-america-organised-crime-cartels-drugs-cocaine-europe",
-      "time": "Il y a 14h",
+      "time": "Il y a 17h",
       "pubDate": 1791874818.0
     },
     {
-      "id": "BBC News--173862214894034749",
-      "source": "BBC News",
-      "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
-      "excerpt": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
-      "link": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
-      "time": "Il y a 16h",
-      "pubDate": 1791867754.0
-    },
-    {
-      "id": "The Guardian-1134321237086095544",
+      "id": "The Guardian-2157428446816667388",
       "source": "The Guardian",
       "title": "Hurricane Simon and Tropical Storm Rachel kill five people on Mexico’s Pacific coast",
       "excerpt": "Security forces use helicopters to rescue dozens of people as the two storms damage infrastructure and cause flash flooding At least five people have died after Hurricane Simon and Tropical Storm Rach...",
       "link": "https://www.theguardian.com/world/2026/oct/13/mexico-hurricane-simon-tropical-storm-rachel-kill-five-pacific-coast",
-      "time": "Il y a 17h",
+      "time": "Il y a 20h",
       "pubDate": 1791865786.0
     },
     {
-      "id": "The Guardian--1165555046363504751",
+      "id": "The Guardian-6777774247020708438",
       "source": "The Guardian",
       "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
       "excerpt": "Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchers A controversial research trial that will withhold hepatitis B vaccines from some African newbo...",
@@ -504,7 +504,7 @@
       "pubDate": 1791581778.0
     },
     {
-      "id": "The Guardian--7234671364349428993",
+      "id": "The Guardian-6208949345207830072",
       "source": "The Guardian",
       "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
       "excerpt": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza  The Nobel peace prize has been awarded to Navi Pillay, the South African form...",
@@ -513,7 +513,7 @@
       "pubDate": 1791563409.0
     },
     {
-      "id": "The Guardian--2494559486694860684",
+      "id": "The Guardian--5462068510493529352",
       "source": "The Guardian",
       "title": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
       "excerpt": "Storm expected to make landfall on US’s northern Gulf coast with risk of flash floods and isolated river flooding Isaias has become the first Atlantic hurricane of the 2026 season, with wind speeds of...",
@@ -522,7 +522,7 @@
       "pubDate": 1791539946.0
     },
     {
-      "id": "The Guardian-7346732225558909281",
+      "id": "The Guardian--4145502281181897413",
       "source": "The Guardian",
       "title": "Egyptian journalists plan weekend protest over detention of six colleagues",
       "excerpt": "Matsadaash staff allege torture and forced confessions after being held on charges of working for Muslim Brotherhood Egyptian journalists are planning a new protest in Cairo this weekend after <a href...",
@@ -531,7 +531,7 @@
       "pubDate": 1791518438.0
     },
     {
-      "id": "The Guardian--3095797178741589293",
+      "id": "The Guardian-3130454274934150206",
       "source": "The Guardian",
       "title": "Scientists discover 180,000 giant tortoises on one Seychelles island",
       "excerpt": "Free-roaming Aldabra population far exceeds human population of Seychelles after decades-long recovery programme A survey of the world’s largest free-roaming giant tortoise population has discovered t...",
@@ -540,5 +540,5 @@
       "pubDate": 1791490831.0
     }
   ],
-  "lastUpdate": "2026-10-13T21:57:12.980055"
+  "lastUpdate": "2026-10-14T00:48:31.959688"
 }
